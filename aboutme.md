@@ -1,16 +1,30 @@
 ---
 layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
+title: About us
+subtitle: Elephant Amenity Network
 ---
+![](http://crappistmartin.github.io/images/elephantamenitylogo.jpg)
 
-My name is Inigo Montoya. I have the following qualities:
+We are local residents, traders and others who have an interest in the regeneration of the Elephant & Castle. We try to engage in planning matters ranging from housing to public realm and sustainable development. Many of us are associated with the <a href="http://elephantamenity.wordpress.com">Elephant Amenity Network</a>, which has 3 principles:
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+* Open Masterplanning
+* Benefits for All
+* Housing that really is Affordable
 
-What else do you need?
 
-### my history
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+We don't believe that the existing regeneration plans are set to benefit all members the local community. Many have either lost our homes or fear for our livelihoods as traders. We don't consider that Southwark Council has competently managed the regeneration process so far. We don't believe that our local councillors - from any of the political parties - have represented our best interests through the regeneration process.
+
+![](http://crappistmartin.github.io/images/spdevent2.jpg)
+
+We have taken part in community events and helped to produce <a href="http://elephantamenity.wordpress.com/2012/02/29/is-the-elephant-your-neighbourhood-summary-report/">our own ideas</a> and <a href="http://elephantamenity.wordpress.com/2011/06/24/visioning-workshop-report/">vision for regeneration</a>.
+</br></br></br></br></br></br></br></p>
+
+![](http://crappistmartin.github.io/images/forestfeast.jpg) We have supported the <a href="http://elephantamenity.files.wordpress.com/2011/12/ean-interim-use-presentation-241111-web.pdf">interim uses</a> and activities that have blossomed on the Heygate estate, and have tried to engage with developers, the council and the planning process. In the course of doing so, we have given evidence at Examinations in Public of local planning policy frameworks, the London Plan and Public Inquiries for both the Heygate and Aylesbury Compulsory Purchase Orders.</p>
+
+
+
+If you would like to get in touch please contact us at:
+<a href="mailto:35percentelephant@gmail.com">35percent@gmail.com</a>
+
+  
