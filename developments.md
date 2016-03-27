@@ -3,9 +3,9 @@ layout: page
 title: Developments
 subtitle: Summary of regeneration schemes
 ---
+<div class="posts-list">
 
-
-<article>
+<article class="post-preview">
   
 <h1><a href="/heygate-regeneration-faq/">Heygate estate regeneration</a></h1>
 
@@ -17,7 +17,7 @@ subtitle: Summary of regeneration schemes
 </br>
 </article>
 
-<article>
+<article class="post-preview">
   
 <h1><a href="/aylesbury-estate/">Aylesbury estate regeneration</a></h1>
 
@@ -28,7 +28,7 @@ subtitle: Summary of regeneration schemes
 </br>
 </article>
 
-<article>
+<article class="post-preview">
   
 <h1><a href="/bermondsey-spa-regeneration/">Bermondsey Spa regeneration</a></h1>
 
@@ -39,7 +39,7 @@ subtitle: Summary of regeneration schemes
 </br>
 </article>
 
-<article>
+<article class="post-preview">
   
 <h1><a href="/silwood-estate-regeneration/">Silwood estate regeneration</a></h1>
 
@@ -49,7 +49,7 @@ subtitle: Summary of regeneration schemes
 </br>
 </article>
  
-<article>
+<article class="post-preview">
 <h1><a href="/elmington-estate-regeneration/">Elmington estate regeneration</a></h1>
 
 <img src="http://crappistmartin.github.io/images/camberwell-fields-logo.png" width="195" height="130" align="right">
@@ -58,7 +58,7 @@ subtitle: Summary of regeneration schemes
 </br>
 </article>
 
-<article>
+<article class="post-preview">
 <h1><a href="/wood-dene-estate-regeneration/">Wood Dene estate regeneration</a></h1>
 
 <img src="http://crappistmartin.github.io/images/wooddene1.jpg" width="175" height="130" align="right">
@@ -67,7 +67,7 @@ subtitle: Summary of regeneration schemes
 </br>
 </article>
 
-<article>
+<article class="post-preview">
   
 <h1><a href="/north-peckham-estate/">North Peckham estate regeneration</a></h1>
 
@@ -78,7 +78,7 @@ subtitle: Summary of regeneration schemes
 </article>
 
 
-<article>
+<article class="post-preview">
   
 <h1><a href="/maydew-house/">Maydew House redevelopment</a></h1>
 
@@ -88,7 +88,7 @@ subtitle: Summary of regeneration schemes
 </br>
 </article>
 
-<article>
+<article class="post-preview">
   
 <h1><a href="/canada-water/">Canada Water Regeneration</a></h1>
 
@@ -98,7 +98,7 @@ subtitle: Summary of regeneration schemes
 </br>
 </article>
 
-<article>
+<article class="post-preview">
   
 <h1><a href="/southwark-town-halls/">Southwark's Town Halls</a></h1>
 
@@ -110,7 +110,7 @@ subtitle: Summary of regeneration schemes
 
 
 
-<article>
+<article class="post-preview">
   
 <h1><a href="/tribeca-square/">Tribeca Square development</a></h1>
 
@@ -120,7 +120,7 @@ subtitle: Summary of regeneration schemes
 </br>
 </article>
 
-<article>
+<article class="post-preview">
   
 <h1><a href="/colorama/">Colorama redevelopment</a></h1>
 
@@ -130,7 +130,7 @@ subtitle: Summary of regeneration schemes
 </br>
 </article>
 
-<article>
+<article class="post-preview">
   
 <h1><a href="/strata-tower/">Strata Tower</a></h1>
 
@@ -142,7 +142,7 @@ subtitle: Summary of regeneration schemes
 </br>
 </article>
 
-<article>
+<article class="post-preview">
   
 <h1><a href="/shopping-centre/">E&C Shopping Centre redevelopment</a></h1>
 
@@ -152,7 +152,7 @@ subtitle: Summary of regeneration schemes
 </br>
 </article>
 
-<article>
+<article class="post-preview">
   
 <h1><a href="/one-the-elephant/">One the Elephant</a></h1>
 
@@ -162,7 +162,7 @@ subtitle: Summary of regeneration schemes
 </br>
 </article>
 
-<article>
+<article class="post-preview">
   
 <h1><a href="/borough-triangle/">Borough Triangle</a></h1>
 
@@ -172,7 +172,7 @@ subtitle: Summary of regeneration schemes
 </br>
 </article>
 
-<article>
+<article class="post-preview">
   
 <h1><a href="/crown-court-annexe/">Crown Court Annexe/Borough Sorting Office</a></h1>
 
@@ -183,7 +183,7 @@ subtitle: Summary of regeneration schemes
 </article>
 
 
-<article>
+<article class="post-preview">
   
 <h1><a href="/eileen-house/">Eileen House</a></h1>
 
@@ -193,7 +193,7 @@ subtitle: Summary of regeneration schemes
 </br>
 </article>
 
-<article>
+<article class="post-preview">
   
 <h1><a href="/london-360-tower/">London 360 Tower</a></h1>
 
@@ -203,7 +203,7 @@ subtitle: Summary of regeneration schemes
 </br>
 </article>
 
-<article>
+<article class="post-preview">
   
 <h1><a href="/neo-bankside/">Neo Bankside</a></h1>
 
@@ -214,7 +214,7 @@ subtitle: Summary of regeneration schemes
 </article>
 
 
-<article>
+<article class="post-preview">
   
 <h1><a href="/20-blackfriars-road/">20 Blackfriars Road Scheme</a></h1>
 
@@ -230,7 +230,7 @@ subtitle: Summary of regeneration schemes
 </br>
 </article>
 
-<article>
+<article class="post-preview">
   
 <h1><a href="/one-blackfriars/">One Blackfriars</a></h1>
 
@@ -241,7 +241,7 @@ subtitle: Summary of regeneration schemes
 </article>
 
 
-<article>
+<article class="post-preview">
   
 <h1><a href="/ludgate-and-sampson-house/">Bankside Quarter</a></h1>
 
@@ -252,7 +252,7 @@ subtitle: Summary of regeneration schemes
 </article>
 
 
-<article>
+<article class="post-preview">
   
 <h1><a href="/the-quill/">The Quill</a></h1>
 
@@ -266,7 +266,7 @@ subtitle: Summary of regeneration schemes
 </br>
 </article>
 
-<article>
+<article class="post-preview">
   
 <h1><a href="/shard-trilogy/">Shard Trilogy</a></h1>
 
@@ -280,7 +280,7 @@ subtitle: Summary of regeneration schemes
 </br>
 </article>
 
-<article>
+<article class="post-preview">
   
 <h1><a href="/185-park-street/">185 Park Street</a></h1>
 
@@ -290,7 +290,7 @@ subtitle: Summary of regeneration schemes
 </br>
 </article>
 
-<article>
+<article class="post-preview">
   
 <h1><a href="/blackfriars-circus/">Blackfriars Circus</a></h1>
 
@@ -301,7 +301,7 @@ subtitle: Summary of regeneration schemes
 </article>
 
 
-<article>
+<article class="post-preview">
   
 <h1><a href="/chambers-wharf/">Chambers Wharf</a></h1>
 
@@ -311,7 +311,7 @@ subtitle: Summary of regeneration schemes
 </br>
 </article>
 
-<article>
+<article class="post-preview">
   
 <h1><a href="/camberwell-road/">Camberwell Road</a></h1>
 
@@ -321,7 +321,7 @@ subtitle: Summary of regeneration schemes
 </br>
 </article>
 
-<article>
+<article class="post-preview">
   
 <h1><a href="/dashwood-studios/">Dashwood Studios</a></h1>
 
@@ -331,7 +331,7 @@ subtitle: Summary of regeneration schemes
 </br>
 </article>
 
-<article>
+<article class="post-preview">
   
 <h1><a href="/Paris Gardens/">Paris Gardens</a></h1>
 
@@ -347,7 +347,7 @@ subtitle: Summary of regeneration schemes
 
 
 
-<article>
+<article class="post-preview">
   
 <h1><a href="/biscuit-factory/">Biscuit Factory</a></h1>
 
@@ -362,7 +362,7 @@ subtitle: Summary of regeneration schemes
 </article>
 
 
-<article>
+<article class="post-preview">
   
 <h1><a href="/manor-place-depot/">Manor Place Depot</a></h1>
 
@@ -371,6 +371,8 @@ subtitle: Summary of regeneration schemes
 </br>
 </br>
 </article>
+
+</div>
 
 
 
