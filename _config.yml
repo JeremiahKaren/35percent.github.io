@@ -1,5 +1,4 @@
 # --- General options --- #
-
 # url is the full website URL
 # baseurl is the website's URL without the hostname
 
@@ -102,6 +101,7 @@ exclude:
   - CNAME
   - Vagrantfile
 
+
 # prose.io config
 prose:
   rooturl: '_posts'
@@ -146,6 +146,6 @@ prose:
           element: "checkbox"
           label: "Publish"
           help: "Check to publish post, uncheck to hide."
-  
+
 # Beautiful Jekyll / Dean Attali
 # 2fc73a3a967e97599c9763d05e564189

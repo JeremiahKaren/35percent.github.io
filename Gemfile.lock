@@ -99,6 +99,8 @@ GEM
     net-dns (0.8.0)
     nokogiri (1.6.6.2)
       mini_portile (~> 0.6.0)
+    octopress-image-tag (1.1.0)
+      jekyll
     parslet (1.5.0)
       blankslate (~> 2.0)
     posix-spawn (0.3.11)
@@ -133,4 +135,8 @@ PLATFORMS
 DEPENDENCIES
   execjs
   github-pages
+  octopress-image-tag
   therubyracer
+
+BUNDLED WITH
+   1.11.2
