@@ -9,7 +9,7 @@ subtitle: Summary of regeneration schemes
   
 <h1><a href="/heygate-regeneration-faq/">Heygate estate regeneration</a></h1>
 
-<img src="http://www.construction360.co.uk/wp-content/uploads/cantillon-balfour-014.jpg" width="100" height="130" align="right">
+<img src="http://www.construction360.co.uk/wp-content/uploads/cantillon-balfour-014.jpg" width="100" align="right">
 </br>
 </br>
 </br>
@@ -33,7 +33,7 @@ subtitle: Summary of regeneration schemes
 <h1><a href="/aylesbury-estate/">Aylesbury estate regeneration</a></h1>
 
 
-<img src="https://metrouk2.files.wordpress.com/2010/09/article-1285092120827-0b4a3ec1000005dc-922862_636x376.jpg" width="100" height="130" align="right">
+<img src="https://metrouk2.files.wordpress.com/2010/09/article-1285092120827-0b4a3ec1000005dc-922862_636x376.jpg" width="100" align="right">
 </br></br></br>
 </br>
 </br></br>
