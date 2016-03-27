@@ -251,7 +251,7 @@ subtitle: Summary of regeneration schemes
   
 <h1><a href="/20-blackfriars-road/">20 Blackfriars Road Scheme</a></h1>
 
-<img src="http://www.skyscrapernews.com/images/pics/521520BlackfriarsRoadResidentialTower_pic2.jpg" width="175" height="130" align="right">
+<img src="http://www.skyscrapernews.com/images/pics/521520BlackfriarsRoadResidentialTower_pic2.jpg" width="100" align="right">
 </br></br></br>
 </br>
 </br>
@@ -267,7 +267,7 @@ subtitle: Summary of regeneration schemes
   
 <h1><a href="/one-blackfriars/">One Blackfriars</a></h1>
 
-<img src="http://www.london-se1.co.uk/news/imageuploads/1351696096_80.177.117.97.jpg" width="175" height="130" align="right">
+<img src="http://www.london-se1.co.uk/news/imageuploads/1351696096_80.177.117.97.jpg" width="100" align="right">
 </br></br></br>
 </br>
 </br>
@@ -278,7 +278,7 @@ subtitle: Summary of regeneration schemes
   
 <h1><a href="/ludgate-and-sampson-house/">Bankside Quarter</a></h1>
 
-<img src="https://pbs.twimg.com/media/CKQ9rYaWcAAfjBB.jpg" width="175" height="130" align="right">
+<img src="https://pbs.twimg.com/media/CKQ9rYaWcAAfjBB.jpg" width="100" align="right">
 </br></br></br>
 </br>
 </br>
@@ -289,7 +289,7 @@ subtitle: Summary of regeneration schemes
   
 <h1><a href="/the-quill/">The Quill</a></h1>
 
-<img src="http://www.london-se1.co.uk/news/imageuploads/1291215503_80.177.117.97.jpg" width="175" height="130" align="right">
+<img src="http://www.london-se1.co.uk/news/imageuploads/1291215503_80.177.117.97.jpg" width="100" align="right">
 </br></br></br>
 </br>
 </br>
@@ -303,7 +303,7 @@ subtitle: Summary of regeneration schemes
   
 <h1><a href="/shard-trilogy/">Shard Trilogy</a></h1>
 
-<img src="http://www.london-se1.co.uk/news/imageuploads/1415187088_46.233.112.163.jpg" width="175" height="130" align="right">
+<img src="http://www.london-se1.co.uk/news/imageuploads/1415187088_46.233.112.163.jpg" width="100" align="right">
 </br></br></br>
 </br>
 </br>
@@ -317,7 +317,7 @@ subtitle: Summary of regeneration schemes
   
 <h1><a href="/185-park-street/">185 Park Street</a></h1>
 
-<img src="http://carvil-ventures.co.uk/sites/default/files/13063_Cam_Exterior_TG_007.jpg" width="175" height="130" align="right">
+<img src="http://carvil-ventures.co.uk/sites/default/files/13063_Cam_Exterior_TG_007.jpg" width="100" align="right">
 </br></br></br>
 </br>
 </br>
@@ -327,7 +327,7 @@ subtitle: Summary of regeneration schemes
   
 <h1><a href="/blackfriars-circus/">Blackfriars Circus</a></h1>
 
-<img src="https://betterblackfriars.files.wordpress.com/2013/05/erlang-house.jpg" width="175" height="130" align="right">
+<img src="https://betterblackfriars.files.wordpress.com/2013/05/erlang-house.jpg" width="100" align="right">
 </br></br></br>
 </br>
 </br>
@@ -338,7 +338,7 @@ subtitle: Summary of regeneration schemes
   
 <h1><a href="/chambers-wharf/">Chambers Wharf</a></h1>
 
-<img src="http://www.alumet.co.uk/wp-content/uploads/2015/02/ChambersWharf2-1024x700.jpg" width="175" height="130" align="right">
+<img src="http://www.skyscrapernews.com/images/pics/5472ChambersWharfBuildingC_pic1.jpg" width="100" align="right">
 </br></br></br>
 </br>
 </br>
@@ -348,7 +348,7 @@ subtitle: Summary of regeneration schemes
   
 <h1><a href="/camberwell-road/">Camberwell Road</a></h1>
 
-<img src="http://crappistmartin.github.io/images/wyndhamcamberwelljunction.jpg" width="175" height="130" align="right">
+<img src="http://crappistmartin.github.io/images/wyndhamcamberwelljunction.jpg" width="100" align="right">
 </br></br></br>
 </br>
 </br>
@@ -358,7 +358,7 @@ subtitle: Summary of regeneration schemes
   
 <h1><a href="/dashwood-studios/">Dashwood Studios</a></h1>
 
-<img src="http://crappistmartin.github.io/images/dashwoodstudios.jpg" width="175" height="130" align="right">
+<img src="http://crappistmartin.github.io/images/dashwoodstudios.jpg" width="100" align="right">
 </br></br></br>
 </br>
 </br>
@@ -368,7 +368,7 @@ subtitle: Summary of regeneration schemes
   
 <h1><a href="/Paris Gardens/">Paris Gardens</a></h1>
 
-<img src="http://crappistmartin.github.io/images/parisgardens.jpg" width="175" height="130" align="right">
+<img src="http://crappistmartin.github.io/images/parisgardens.jpg" width="100" align="right">
 </br></br></br>
 </br>
 </br>
@@ -384,7 +384,7 @@ subtitle: Summary of regeneration schemes
   
 <h1><a href="/biscuit-factory/">Biscuit Factory</a></h1>
 
-<img src="http://crappistmartin.github.io/images/biscuitfactory.jpg" width="175" height="130" align="right">
+<img src="http://crappistmartin.github.io/images/biscuitfactory.jpg" width="100" align="right">
 </br></br></br>
 </br>
 </br>
@@ -399,7 +399,7 @@ subtitle: Summary of regeneration schemes
   
 <h1><a href="/manor-place-depot/">Manor Place Depot</a></h1>
 
-<img src="http://crappistmartin.github.io/images/manorplace.jpg" width="175" height="130" align="right">
+<img src="http://crappistmartin.github.io/images/manorplace.jpg" width="100" align="right">
 </br></br></br>
 </br>
 </br>
