@@ -251,7 +251,7 @@ subtitle: Summary of regeneration schemes
   
 <h1><a href="/20-blackfriars-road/">20 Blackfriars Road Scheme</a></h1>
 
-<img src="http://www.skyscrapernews.com/images/pics/521520BlackfriarsRoadResidentialTower_pic2.jpg" width="100" align="right">
+<img src="http://35percent.org/images/blackfriarsroadplaza.jpg" width="100" align="right">
 </br></br></br>
 </br>
 </br>
