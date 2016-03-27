@@ -18,6 +18,14 @@ subtitle: Summary of regeneration schemes
 </br>
 </br>
 </br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
 </article>
 
 <article class="post-preview">
@@ -31,6 +39,14 @@ subtitle: Summary of regeneration schemes
 </br></br>
 </br>
 </br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
 </article>
 
 <article class="post-preview">
@@ -42,6 +58,14 @@ subtitle: Summary of regeneration schemes
 </br></br></br>
 </br>
 </br></br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
 </br>
 </br>
 </article>
