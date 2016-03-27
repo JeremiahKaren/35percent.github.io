@@ -15,6 +15,9 @@ subtitle: Summary of regeneration schemes
 </br>
 </br>
 </br>
+</br>
+</br>
+</br>
 </article>
 
 <article class="post-preview">
@@ -24,6 +27,8 @@ subtitle: Summary of regeneration schemes
 
 <img src="https://metrouk2.files.wordpress.com/2010/09/article-1285092120827-0b4a3ec1000005dc-922862_636x376.jpg" width="175" height="130" align="right">
 </br></br></br>
+</br>
+</br></br>
 </br>
 </br>
 </article>
@@ -36,6 +41,8 @@ subtitle: Summary of regeneration schemes
 <img src="http://crappistmartin.github.io/images/BermondseySpaDemolition.jpg" width="175" height="130" align="right">
 </br></br></br>
 </br>
+</br></br>
+</br>
 </br>
 </article>
 
@@ -45,6 +52,8 @@ subtitle: Summary of regeneration schemes
 
 <img src="http://crappistmartin.github.io/images/silwood.jpg" width="175" height="130" align="right">
 </br></br></br>
+</br>
+</br></br>
 </br>
 </br>
 </article>
