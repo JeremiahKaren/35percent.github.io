@@ -24,7 +24,7 @@ Here in Southwark, we know how these estate regenerations - full of [promises](h
 | <img src="http://crappistmartin.github.io/images/northpeckham5.jpg" height="150" width="150"> | [North Peckham estate](http://35percent.org/north-peckham-estate/) | 3203 | 2019 | 1184 |
 |   | __Total:__ | __7443__ | __11037__ | __3168__ |
 
-</br>
+
 That's a net loss of 4,275 social rented homes as a direct result of Southwark's regeneration schemes to date and the [GLA has predicted](https://www.london.gov.uk/press-releases/assembly/darren-johnson/loss-of-social-housing-through-estate-regeneration) that Southwark will lose 2,051 social rented homes as a result of schemes in its current pipeline (far more than any other borough). In addition, we can't even be sure that the replacement social rented housing provided isn't actually affordable rent or won't morph into it - see the [CPO Public Inquiry](https://youtu.be/x0CIUdfA-JU?t=4m12s), our [corporate complaint](http://crappistmartin.github.io/images/Corporate_Complaint_15_Dec_2015Final.pdf) and [this local news article](http://crappistmartin.github.io/images/SN_affordablerent.pdf) for evidence of this.
 
 ## Southwark's estate regeneration pipeline
@@ -64,7 +64,8 @@ Lend Lease has taken all the lessons it has learnt in London back home to Sydney
 
 
 
-__Footnotes:__
+__Footnotes:__  
+
 [^1]: See paragraph 3.2.3 of the Council's [Housing Asset Management Strategy](https://consultations.southwark.gov.uk/housing-community-services-department-community-engagement-team/asset-management-consultation/supporting_documents/Asset%20Management%20Strategy.pdf)
 
 [^2]: See Paragraph 5.10 (page 22) of the Savills [Asset Performance Evaluation](http://moderngov.southwark.gov.uk/documents/s55626/Appendix%204%20Savills%20Evaluation.pdf)

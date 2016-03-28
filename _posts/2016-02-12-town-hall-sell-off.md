@@ -5,10 +5,7 @@ date: 2016-02-12 12:25:37 +0000
 comments: true
 categories: 
 ---
-
-## Town Hall sell off - price on application
 ![](http://www.london-se1.co.uk/news/imageuploads/1364655642_91.125.225.38.jpg)
-
 
 Southwark News also [revealed](http://www.southwarknews.co.uk/news/fire-ravaged-walworth-town-hall-may-never-be-restored-to-its-former-glory/) that the Council is now considering selling the Walworth Town Hall, gutted by fire 3 years ago. This is after [solemn promises](http://www.southwark.gov.uk/news/article/1307/southwark_council_commits_to_restoring_the_walworth_town_hall) were given that it would be restored back into public use. The Town Hall sits right on the edge of the Heygate estate, which as ['Elephant Park'](http://elephantpark.co.uk/) will become home to such worthwhile developments as the ['skyscape' collection](http://www.elephantpark.co.uk/prices-and-availability/skyscape-collection), currently being marketed at skyscraping prices - prices so high that Lend Lease is too embarrassed to publish them.
 
