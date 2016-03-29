@@ -5,6 +5,9 @@ comments: true
 sharing: true
 footer: true
 ---
+<div class="posts-list">
+                                                                                
+<article class="post-preview">
 ## Heygate Viability Assessment
 
 <img src="http://crappistmartin.github.io/images/ViabilityAssessment.png" width="100" height="250" style="margin:10px">[Viability Assessment - Main Report](/images/HeygateViabilityAssessment_MainReport.pdf)
@@ -22,36 +25,29 @@ Appendices:
 [Appendix 17](http://crappistmartin.github.io/images/Appendix17.pdf) (Budget Savings Letter)  
 [Appendix 20](http://crappistmartin.github.io/images/Appendix20.pdf) (Oxford Economics House Price Report)  
 [Miscellaneous re-requested illegible pages](http://crappistmartin.github.io/images/IllegiblePagesReRequested.pdf)
+</article>
 
+<article class="post-preview">
 ## Canada Water (Site C - [Decathlon])
 <img src="http://crappistmartin.github.io/images/ToolkitViabilityReport.png" width="100" height="250" style="margin:10px">
 [Financial viability assessment](http://crappistmartin.github.io/images/Canada_WaterC_ViabilityAssessment.pdf) for Canada Water Regeneration Site C - (Decathlon site).
-</br>
-</br>
-</br>
-</br>
-</br>
+</article>
+
+<article class="post-preview">
 ## Tribeca Square
 <img src="http://crappistmartin.github.io/images/TribecaSquare_VA.png" width="100" height="250" style="margin:10px">[Financial viability assessment](http://crappistmartin.github.io/images/Delancey_Tribeca_ViabilityAssessment.pdf) for Delancey's [Tribeca Square development](/tribeca-square) at Elephant & Castle.  
-</br>
-</br>
-</br>
-</br>
-</br>
+</article>
+
+<article class="post-preview">
 ## Wilmer Place
 <img src="left http://crappistmartin.github.io/images/wilmerplace.png" width="100" height="250" style="margin:10px">[Financial viability assessment](http://stokeylocal.org.uk/2015/12/financial-viability-appraisals/) for Wilmer Place - Stoke Newington High St.  
-</br>
-</br>
-</br>
-</br>
-</br>
+</article>
+
+<article class="post-preview">
 ## Neo Bankside
 <img src="left http://crappistmartin.github.io/images/NeoBankside_VA.png" width="100" height="250" style="margin:10px">[Financial viability assessment](http://crappistmartin.github.io/images/NeoBankside_VA.pdf) for Neo Bankside development on London's South Bank.  
-</br>
-</br>
-</br>
-</br>
-</br>
+</article>
+
 ## Albert Embankment
 <img src="http://crappistmartin.github.io/images/8AlbertEmbankment.png" width="100" height="250" style="margin:10px">[Financial viability assessment](http://crappistmartin.github.io/images/22_FinancialViabilityReport-8AlbertEmbankment.pdf) for 8 Albert Embankment (London Fire Brigade Headquarters) redevelopment.  
 </br>
