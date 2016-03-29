@@ -1,9 +1,8 @@
 ---
-layout: post
-title: "Town hall sell off - price on application"
-date: 2016-02-12 12:25:37 +0000
-comments: true
-categories: 
+layout: page
+title: "Southwark's Town Hall sell off"
+sharing: true
+footer: true
 ---
 ![](http://www.london-se1.co.uk/news/imageuploads/1364655642_91.125.225.38.jpg)
 
@@ -47,3 +46,16 @@ However, the actual [section 106 planning agreement](http://planbuild.southwark.
 ![](http://35percent.org/images/southwarktownhalls106.png)
 
 Another good deal for developers, not so good for Southwark.
+
+
+## Revolving doors
+Shortly after the agreement for disposal of the Town Hall was signed, one of the Council's senior regeneration officers was [employed](http://www.alumnodevelopments.com/team/matthew-rees/) by the developer Alumno.
+
+The redevelopment is expected to complete in summer 2016, for the expected intake of students in September 2016.
+
+## Tooley Street
+In the meantime, having sold its two main Town Halls for a combined sum of under £10m, in December 2012 the Council [resolved](http://www.london-se1.co.uk/news/view/6493) to buy the office block it had been renting in the interim (from a Guernsey-based developer) for the sum of £170m.
+
+![](http://crappistmartin.github.io/images/tooleystreet.jpg)
+
+Meanwhile the Council continued to argue that it simply didn't have the funds to continue to maintain the Heygate and Aylesbury estates..
