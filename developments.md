@@ -189,7 +189,7 @@ subtitle: Summary of regeneration schemes
   
 <h1><a href="/one-the-elephant/">One the Elephant</a></h1>
 
-<img src="http://media.leftmove.co.uk/dir/70k/69202/46353868/69202_ELE140202_IMG_00_0002_max_656x437.JPG" width="100" align="left">
+<img src="https://cdn.houle.co.uk/images/Property/large/4/2015/7/25/stunning-off-plan-one-bedroom-apartment-in-one-the-elephant-london-se11-000019568_4871968_IMG_04.jpg" width="100" align="left">
 </br></br></br>
 </br>
 </br>
