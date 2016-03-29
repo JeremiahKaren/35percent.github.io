@@ -3,7 +3,7 @@ layout: post
 title: "Jammy Dodgers"
 date: 2016-03-29 12:03:23 +0000
 comments: true
-categories: ['planning breaches']
+categories:
 ---
 The __35% campaign__ can reveal that Southwark Council is taking legal action against some of the *'parties'* involved in the development of the old Hartley Jam Factory.  Southwark allege that affordable housing was not provided in accordance with the planning consent for the site. The action has come to light in a response to a [Freedom of Information request](https://www.whatdotheyknow.com/request/hartleys_jam_factory_redevelopme?unfold=1#incoming-786348) made by the __35% campaign__. 
 ![Redeveloped Hartleys Jam Factory](http://s0.geograph.org.uk/geophotos/01/76/63/1766372_bd88bcf1.jpg)
