@@ -16,10 +16,13 @@ Having lost out to Lend Lease in its 2007 bid to be the council's regeneration p
  
 As a result of the stalemate, St Modwen [sold](http://crappistmartin.github.io/images/LRDeeds_ShoppingCentre.pdf) the shopping centre in 2014 for £80m to __Delancey DV4__, a developer funded by George Soros, managed by [Tory donor](http://www.independent.co.uk/news/uk/politics/party-funding-tory-coffers-benefit-from-fear-of-labour-mansion-tax-9716614.html) Jamie Ritblatt, registered in the British Virgin Islands and which has been [accussed](http://crappistmartin.github.io/images/PrivateEyeNo1311.pdf) of _'aggressive tax avoidance'_. 
 
-{% imgcap right https://southwarknotes.files.wordpress.com/2014/07/photo-5-1.jpg 300 200 Former deputy leader Kim Humphries %}Delancey, which is also developing neighbouring site ([Tribeca Square](http://crappistmartin.github.io/tribeca-square)), has [employed](http://crappistmartin.github.io/images/delanceyinvite.pdf) former deputy Southwark council leader Kim Humphries to advise on its development and lead its consultation plans. Delancey was originally aiming to submit its planning applicaton by May 2015, but it seems this has now slipped. We can only assume that the stand off continues with the council over the number of residential and affordable housing units proposed.  
-</br>
-</br>
-[{% imgcap left https://s3-eu-west-1.amazonaws.com/rbi-blogs/wp-content/uploads/mt/estatesgazette/blogs/london-residential-research/assets_c/2011/06/elephant%20shopping%20centre6-thumb-500x401-129796.jpg 300 300 CGI of the new shopping centre %}](http://www.estatesgazette.com/blogs/london-residential-research/2011/06/elephant-and-castle-regarding/)So it would appear that once again Southwark is being held over a barrel by developers at the Elephant. Their message to the council is simple: _"agree to our proposals and make concessions on affordable housing provision, or we'll sit on the land and your regeneration won't happen any time soon."_
+![Kim Humphries](https://southwarknotes.files.wordpress.com/2014/07/photo-5-1.jpg) 
+
+Delancey, which is also developing neighbouring site ([Tribeca Square](http://crappistmartin.github.io/tribeca-square)), has [employed](http://crappistmartin.github.io/images/delanceyinvite.pdf) former deputy Southwark council leader Kim Humphries to advise on its development and lead its consultation plans. Delancey was originally aiming to submit its planning applicaton by May 2015, but it seems this has now slipped. We can only assume that the stand off continues with the council over the number of residential and affordable housing units proposed.  
+
+![](https://s3-eu-west-1.amazonaws.com/rbi-blogs/wp-content/uploads/mt/estatesgazette/blogs/london-residential-research/assets_c/2011/06/elephant%20shopping%20centre6-thumb-500x401-129796.jpg)
+
+So it would appear that once again Southwark is being held over a barrel by developers at the Elephant. Their message to the council is simple: _"agree to our proposals and make concessions on affordable housing provision, or we'll sit on the land and your regeneration won't happen any time soon."_
 
 The question now is whether Southwark will roll over as easily as it did with Lend Lease. 
 
