@@ -78,6 +78,7 @@ Appendices:
 
 <article class="post-preview">
 12. West Ham Stadium development 
-<img src="http://i.dailymail.co.uk/i/pix/2013/03/22/article-2297419-18DCAA33000005DC-213_964x591.jpg" width="100" height="250" style="margin:10px">[Financial viability assessment and appraisal reports](/images/FVAWestHamStadium.pdf) for the West Ham Stadium development in Newham.  
+[Financial viability assessment and appraisal reports](/images/FVAWestHamStadium.pdf) for the West Ham Stadium development in Newham.  
 </article>
+</div>
 
