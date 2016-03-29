@@ -42,7 +42,7 @@ footer: true
 
 <article class="post-preview">
 3. Tribeca Square
-<p><a href="http://crappistmartin.github.io/images/Delancey_Tribeca_ViabilityAssessment.pdf"><img class="left" src="http://crappistmartin.github.io/images/TribecaSquare_VA.png" width="200" align="left"></a> <a href="http://crappistmartin.github.io/images/Delancey_Tribeca_ViabilityAssessment.pdf">[Financial viability assessment]</a> for Delancey&rsquo;s <a href="/tribeca-square">Tribeca Square development</a> at Elephant &amp; Castle.<br/>
+<p><a href="http://crappistmartin.github.io/images/Delancey_Tribeca_ViabilityAssessment.pdf"><img class="left" src="http://crappistmartin.github.io/images/TribecaSquare_VA.png" width="200" align="left"></a> <a href="http://crappistmartin.github.io/images/Delancey_Tribeca_ViabilityAssessment.pdf">[Financial viability assessment]</a> for the <a href="/tribeca-square">[Tribeca Square development]</a> at Elephant and Castle.
 </br>
 </br>
 </br>
@@ -52,7 +52,7 @@ footer: true
 
 <article class="post-preview">
 4. Wilmer Place
-<p><a href="http://stokeylocal.org.uk/2015/12/financial-viability-appraisals/"><img class="left" src="http://crappistmartin.github.io/images/wilmerplace.png" width="200" align="left"></a> <a href="http://stokeylocal.org.uk/2015/12/financial-viability-appraisals/">[Financial viability assessment]</a> for Wilmer Place - Stoke Newington High St.<br/>
+<p><a href="http://stokeylocal.org.uk/2015/12/financial-viability-appraisals/"><img class="left" src="http://crappistmartin.github.io/images/wilmerplace.png" width="200" align="left"></a> <a href="http://stokeylocal.org.uk/2015/12/financial-viability-appraisals/">[Financial viability assessment]</a> for Wilmer Place - Stoke Newington High St.
 </br>
 </br>
 </br>
@@ -62,7 +62,7 @@ footer: true
 
 <article class="post-preview">
 5. Neo Bankside
-<p><a href="http://crappistmartin.github.io/images/NeoBankside_VA.pdf"><img class="left" src="http://crappistmartin.github.io/images/NeoBankside_VA.png" width="200" align="left"></a> <a href="http://crappistmartin.github.io/images/NeoBankside_VA.pdf">[Financial viability assessment]</a> for Neo Bankside development on London&rsquo;s South Bank.<br/>
+<p><a href="http://crappistmartin.github.io/images/NeoBankside_VA.pdf"><img class="left" src="http://crappistmartin.github.io/images/NeoBankside_VA.png" width="200" align="left"></a> <a href="http://crappistmartin.github.io/images/NeoBankside_VA.pdf">[Financial viability assessment]</a> for Neo Bankside development on London&rsquo;s South Bank.
 </br>
 </br>
 </br>
@@ -72,7 +72,7 @@ footer: true
 
 <article class="post-preview">
 6. Albert Embankment
-<p><a href="http://crappistmartin.github.io/images/22_FinancialViabilityReport-8AlbertEmbankment.pdf"><img src="http://crappistmartin.github.io/images/8AlbertEmbankment.png" width="200" align="left"></a> <a href="http://crappistmartin.github.io/images/22_FinancialViabilityReport-8AlbertEmbankment.pdf">[Financial viability assessment]</a> for 8 Albert Embankment (London Fire Brigade Headquarters) redevelopment.<br/>
+<p><a href="http://crappistmartin.github.io/images/22_FinancialViabilityReport-8AlbertEmbankment.pdf"><img src="http://crappistmartin.github.io/images/8AlbertEmbankment.png" width="200" align="left"></a> <a href="http://crappistmartin.github.io/images/22_FinancialViabilityReport-8AlbertEmbankment.pdf">[Financial viability assessment]</a> for 8 Albert Embankment (London Fire Brigade Headquarters) redevelopment.
 </br>
 </br>
 </br></p>
