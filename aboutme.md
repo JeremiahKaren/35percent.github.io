@@ -1,7 +1,6 @@
 ---
 layout: page
 title: About us
-subtitle: Elephant Amenity Network
 ---
 ![](http://crappistmartin.github.io/images/elephantamenitylogo.jpg)
 
