@@ -8,29 +8,36 @@ footer: true
 <div class="posts-list">
                                                                                 
 <article class="post-preview">
-1. Heygate Viability Assessment
+ <h2>Heygate Viability Assessment</h2>
 
-<img src="http://crappistmartin.github.io/images/ViabilityAssessment.png" width="100" height="250" style="margin:10px"> [Viability Assessment - Main Report](/images/HeygateViabilityAssessment_MainReport.pdf)
+<p><a href="http://crappistmartin.github.io/images/HeygateViabilityAssessment_MainReport.pdf"><img src="http://crappistmartin.github.io/images/ViabilityAssessment.png" width="100" height="250"></a></p>
 
-Appendices:  
-[Appendix 6](http://crappistmartin.github.io/images/Appendix6.pdf) (Existing Use Refurbishment Costs)  
-[Appendix 7](http://crappistmartin.github.io/images/Appendix7.pdf) (Existing Private Values Summary)  
-[Appendix 8](http://crappistmartin.github.io/images/Appendix8.pdf) (Existing Affordable Appraisal)  
-[Appendix 9](http://crappistmartin.github.io/images/Appendix9.pdf) (Existing Retail Values Summary)  
-[Appendix 10](http://crappistmartin.github.io/images/Appendix10.pdf) (Existing Office Values Summary)  
-[Appendix 11](http://crappistmartin.github.io/images/Appendix11.pdf) (Existing Use Value Appraisal)  
-[Appendix 12](http://crappistmartin.github.io/images/Appendix12.pdf) (Proposed Residential Values Report)  
-[Appendix 13](http://crappistmartin.github.io/images/Appendix13.pdf) (Proposed Affordable Appraisal)  
-[Appendix 16](http://crappistmartin.github.io/images/Appendix16.pdf) (Proposed Build Cost Estimate)  
-[Appendix 17](http://crappistmartin.github.io/images/Appendix17.pdf) (Budget Savings Letter)  
-[Appendix 20](http://crappistmartin.github.io/images/Appendix20.pdf) (Oxford Economics House Price Report)  
-[Miscellaneous re-requested illegible pages](http://crappistmartin.github.io/images/IllegiblePagesReRequested.pdf)
+<p><a href="http://crappistmartin.github.io/images/HeygateViabilityAssessment_MainReport.pdf">Viability Assessment - Main Report</a></p>
+
+<p>Appendices:<br/>
+<a href="http://crappistmartin.github.io/images/Appendix6.pdf">Appendix 6</a> (Existing Use Refurbishment Costs)<br/>
+<a href="http://crappistmartin.github.io/images/Appendix7.pdf">Appendix 7</a> (Existing Private Values Summary)<br/>
+<a href="http://crappistmartin.github.io/images/Appendix8.pdf">Appendix 8</a> (Existing Affordable Appraisal)<br/>
+<a href="http://crappistmartin.github.io/images/Appendix9.pdf">Appendix 9</a> (Existing Retail Values Summary)<br/>
+<a href="http://crappistmartin.github.io/images/Appendix10.pdf">Appendix 10</a> (Existing Office Values Summary)<br/>
+<a href="http://crappistmartin.github.io/images/Appendix11.pdf">Appendix 11</a> (Existing Use Value Appraisal)<br/>
+<a href="http://crappistmartin.github.io/images/Appendix12.pdf">Appendix 12</a> (Proposed Residential Values Report)<br/>
+<a href="http://crappistmartin.github.io/images/Appendix13.pdf">Appendix 13</a> (Proposed Affordable Appraisal)<br/>
+<a href="http://crappistmartin.github.io/images/Appendix16.pdf">Appendix 16</a> (Proposed Build Cost Estimate)<br/>
+<a href="http://crappistmartin.github.io/images/Appendix17.pdf">Appendix 17</a> (Budget Savings Letter)<br/>
+<a href="http://crappistmartin.github.io/images/Appendix20.pdf">Appendix 20</a> (Oxford Economics House Price Report)<br/>
+<a href="http://crappistmartin.github.io/images/IllegiblePagesReRequested.pdf">Miscellaneous re-requested illegible pages</a></p>
 </article>
 
 <article class="post-preview">
 2. Canada Water (Site C - [Decathlon])
-<img src="http://crappistmartin.github.io/images/ToolkitViabilityReport.png" width="100" height="250" style="margin:10px">
-[Financial viability assessment](http://crappistmartin.github.io/images/Canada_WaterC_ViabilityAssessment.pdf) for Canada Water Regeneration Site C - (Decathlon site).
+<p><a href="http://crappistmartin.github.io/images/Canada_WaterC_ViabilityAssessment.pdf"><img class="left" src="http://crappistmartin.github.io/images/ToolkitViabilityReport.png" width="100" height="250"></a>
+<a href="http://crappistmartin.github.io/images/Canada_WaterC_ViabilityAssessment.pdf">Financial viability assessment</a> for Canada Water Regeneration Site C - (Decathlon site).
+</br>
+</br>
+</br>
+</br>
+</br></p>
 </article>
 
 <article class="post-preview">
