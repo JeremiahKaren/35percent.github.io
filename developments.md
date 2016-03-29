@@ -289,7 +289,7 @@ subtitle: Summary of regeneration schemes
   
 <h1><a href="/the-quill/">The Quill</a></h1>
 
-<img src="http://www.london-se1.co.uk/news/imageuploads/1291215503_80.177.117.97.jpg" width="100" align="right">
+<img src="http://www.costar.co.uk/Global/Quill.jpg" width="100" align="right">
 </br></br></br>
 </br>
 </br>
@@ -303,7 +303,7 @@ subtitle: Summary of regeneration schemes
   
 <h1><a href="/shard-trilogy/">Shard Trilogy</a></h1>
 
-<img src="http://www.london-se1.co.uk/news/imageuploads/1415187088_46.233.112.163.jpg" width="100" align="right">
+<img src="http://lbq-assets.s3.amazonaws.com/media/filer_public_thumbnails/filer_public/55/0f/550f9f87-b8e8-4b68-98d5-690636900e5f/the_shard_the_news_building_2.jpg__644x0_q85_crop_subsampling-2_upscale.jpg" width="100" align="right">
 </br></br></br>
 </br>
 </br>
@@ -368,7 +368,7 @@ subtitle: Summary of regeneration schemes
   
 <h1><a href="/Paris Gardens/">Paris Gardens</a></h1>
 
-<img src="http://crappistmartin.github.io/images/parisgardens.jpg" width="100" align="right">
+<img src="http://www.mclarengroup.com/wp-content/uploads/2014/09/Paris-gardens-duo-1198x500.jpg" width="100" align="right">
 </br></br></br>
 </br>
 </br>
@@ -384,7 +384,7 @@ subtitle: Summary of regeneration schemes
   
 <h1><a href="/biscuit-factory/">Biscuit Factory</a></h1>
 
-<img src="http://crappistmartin.github.io/images/biscuitfactory.jpg" width="100" align="right">
+<img src="http://www.grantmillswood.com/media/94/294-main.jpg" width="100" align="right">
 </br></br></br>
 </br>
 </br>
