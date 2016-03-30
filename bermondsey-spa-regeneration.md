@@ -1,14 +1,12 @@
 ---
 layout: page
 title: "Bermondsey Spa regeneration"
-date: 2015-08-03 08:05
-comments: true
 sharing: true
 footer: true
 ---
 The Bermondsey Spa regeneration began in 2002. The site comprised several council-owned buildings and also part of the Neckinger estate. The regeneration was separated into a number of different phases, the bulk of which (850 new homes across 9 sites) was developed by Hyde Housing Association, who were [advised](http://www.savills.co.uk/case-studies/development-and-planning/affordable-housing-case-studies/bermondsey-spa-regeneration.aspx) on the scheme by Savills.
 
-![](http://crappistmartin.github.io/images/bspamasterplan.png %}
+![](http://crappistmartin.github.io/images/bspamasterplan.png)
 
 ## Site D 
 Site D was developed by Hyde Housing and is split between two planning applications:
@@ -103,8 +101,9 @@ The entirety of site C5 was [sold](http://moderngov.southwark.gov.uk/documents/s
 
 However, we [discovered](http://crappistmartin.github.io/blog/2015/09/24/southwark-backs-down-over-bermondsey-spa-dispute/) that these 44 social rented units had been delivered at 'affordable rents' of up to 63% of market rent.
 
-[http://www.southwarknews.co.uk/news/southwark-council-probes-44-missing-social-homes/](http://www.southwarknews.co.uk/news/southwark-council-probes-44-missing-social-homes/)</br>
-[http://www.southwarknews.co.uk/news/council-takes-no-legal-action-over-44-missing-social-housing-units/](http://www.southwarknews.co.uk/news/council-takes-no-legal-action-over-44-missing-social-housing-units/)</br>
+[http://www.southwarknews.co.uk/news/southwark-council-probes-44-missing-social-homes/](http://www.southwarknews.co.uk/news/southwark-council-probes-44-missing-social-homes/)
+
+[http://www.southwarknews.co.uk/news/council-takes-no-legal-action-over-44-missing-social-housing-units/](http://www.southwarknews.co.uk/news/council-takes-no-legal-action-over-44-missing-social-housing-units/)
 
 [Land registry plan](http://crappistmartin.github.io/images/LRegisterPlanBermondseySpaNHHT.pdf) showing the extent of land sold to Notting Hill.
 

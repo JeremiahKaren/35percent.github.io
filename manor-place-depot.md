@@ -8,7 +8,7 @@ footer: true
 
 One of the most characterful development sites within the the Elephant and Castle Opportunity Area is the [Manor Place Baths](http://www.southwarknews.co.uk/elephant-and-castle-home/elephant-and-castle-history/00,news,10016,5757,00.htm).  The baths provided laundry and bathing facilities to Walworth people for 80 years, until demolition of the surrounding streets and the removal of the local population to the Heygate and Aylesbury estates sounded its death knell in the 80’s; it was replaced as a swimming pool by the Elephant & Castle leisure centre, the baths were filled in by Southwark Council in 1998 and the buildings were then used by the Council's Environmental Services department until their relocation in 2012. 
 
-Despite the fact that the Council [announced](http://southwarkmagazine.com/news/5651/New-250home-plans-for-SE17-site) it was selling the site for £20m, [Land registry deeds](/images/LRegisterManorPlaceDepot.pdf) show that it received just £13m for the site.
+Despite the fact that the Council [announced](http://southwarkmagazine.com/news/5651/New-250home-plans-for-SE17-site) it was selling the site for £20m, [Land registry deeds](http://crappistmartin.github.io/images/LRegisterManorPlaceDepot.pdf) show that it received just £13m for the site.
 
 ![](http://crappistmartin.github.io/images/manorplace.jpg)
 
