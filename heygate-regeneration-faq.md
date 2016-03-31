@@ -5,11 +5,11 @@ sharing: true
 footer: true
 ---
 ## Affordable Housing
-<img src="http://crappistmartin.github.io/images/southwark_50percentcopy.png" width="300" align="left" style="margin:10px">There is an entire [page here](/affordable-housing) charting the broken promises of replacement affordable housing on the Heygate estate and how the quota was slowly chipped away at as the regeneration proceeded.  
+There is an entire [page here](/affordable-housing) charting the broken promises of replacement affordable housing on the Heygate estate and how the quota was slowly chipped away at as the regeneration proceeded.  
 
 
 ## Environment/Public Realm
-<img src="/img/energy_envrnmtl-services_lge.gif" width="300" align="left" style="margin:10px">Likewise, there is an entire [page here](/sustainable-development) charting the broken promises of replacement public realm and original 'zero carbon' biomass energy aims of the regeneration.
+<img src="/img/energy_envrnmtl-services_lge.gif" width="300" align="left" style="margin:10px">Likewise, there is an entire [page here](/sustainable-development) charting the broken promises of replacement public realm and original 'zero carbon' biomass energy objectives of the regeneration.
 
 ## The deal with Lendlease
 * In July 2007, Southwark Council valued its 25 acre Heygate site at £150m[^1]. The estate comprised 1,212 council homes of which 179 were leaseholders.

@@ -16,7 +16,7 @@ In 2006 the council removed this open space designation on the basis that _"The 
 
 According to a [2002 audit by planning consultant Michael Parkes,](http://crappistmartin.github.io/images/HeygateCommunityAssetAudit.pdf) the Heygate estate used to comprise a total 24,195 square metres of public amenity open space.
 
-Lend Lease & Southwark claim that the new park will be [central London's largest park in more than 70 years'](http://www.southwark.gov.uk/news/article/672/final_masterplan_for_heygate_estate_revamp_revealed). However, according to Lend Lease's [planning application](http://planningonline.southwark.gov.uk/AcolNetCGI.exe?ACTION=UNWRAP&RIPNAME=Root.PgeResultDetail&TheSystemkey=9544643), the new park will be just 8,220 square metres in size - representing a net loss of more than two thirds of the site's open amenity space.
+Lend Lease & Southwark claim that the new park will be [central London's largest park in more than 70 years'](http://www.southwark.gov.uk/news/article/672/final_masterplan_for_heygate_estate_revamp_revealed). However, according to Lend Lease's [planning application](http://planningonline.southwark.gov.uk/AcolNetCGI.exe?ACTION=UNWRAP&RIPNAME=Root.PgeResultDetail&TheSystemkey=9544643), the new park will not be designated open space and will be just 8,220 square metres in size - representing a net loss of more than two thirds of the Heygate's former open space.
 
 ![](http://crappistmartin.github.io/images/parkdimensions.png)
 
