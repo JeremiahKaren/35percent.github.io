@@ -10,6 +10,7 @@ There is an entire [page here](/affordable-housing) charting the broken promises
 
 ## Environment/Public Realm
 <img src="/img/energy_envrnmtl-services_lge.gif" width="300" align="left" style="margin:10px">Likewise, there is an entire [page here](/sustainable-development) charting the broken promises of replacement public realm and original 'zero carbon' biomass energy objectives of the regeneration.
+It also looks at the overall 'green' credentials of the scheme and shows how the entire Elephant & Castle regeneration footprint is going to be privately managed space.  
 
 ## The deal with Lendlease
 * In July 2007, Southwark Council valued its 25 acre Heygate site at £150m[^1]. The estate comprised 1,212 council homes of which 179 were leaseholders.
