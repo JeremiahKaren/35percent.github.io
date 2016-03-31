@@ -5,10 +5,11 @@ sharing: true
 footer: true
 ---
 ## Affordable Housing
-<img src="http://crappistmartin.github.io/images/southwark_50percentcopy.png" width="300" align="left" style="margin:10px">There is an entire [page here](/affordable-housing) charting the broken promises of replacement affordable housing on the Heygate estate and how the quota was slowly chipped away at as the regeneration proceeded.
+<img src="http://crappistmartin.github.io/images/southwark_50percentcopy.png" width="300" align="left" style="margin:10px">There is an entire [page here](/affordable-housing) charting the broken promises of replacement affordable housing on the Heygate estate and how the quota was slowly chipped away at as the regeneration proceeded.  
+
 
 ## Environment/Public Realm
-<img src="/img/energy_envrnmtl-services_lge.gif" width="300" align="left" style="margin:10px">There is an entire [page here](/sustainable-development) charting the broken promises of replacement public realm and original 'zero carbon' development aims of the regeneration.
+<img src="/img/energy_envrnmtl-services_lge.gif" width="300" align="left" style="margin:10px">Likewise, there is an entire [page here](/sustainable-development) charting the broken promises of replacement public realm and original 'zero carbon' biomass energy aims of the regeneration.
 
 ## The deal with Lendlease
 * In July 2007, Southwark Council valued its 25 acre Heygate site at £150m[^1]. The estate comprised 1,212 council homes of which 179 were leaseholders.
@@ -38,6 +39,8 @@ footer: true
 
 * In 2014, Lend Lease's Head of International Operations Dan Labbad, who signed the deal with Southwark, [claimed](http://www.theaustralian.com.au/business/property/lend-leases-international-head-keeps-focus-on-growth-abroad/story-fnko7zi0-1227151774437?nk=08e105b4d18a57454f6a04527dac8fdf) that his company had bought the Elephant and Castle at "the lowest point in the cycle."
 
+![](http://crappistmartin.github.io/images/heygatesale.png)
+
 * Southwark has argued that it will receive other in-kind planning contributions from Lend Lease amounting to a value of £51m. But these are standard s106 obligations that all developers must deliver to mitigate the impact of a given development. This figure includes a £13m [local transport levy](http://www.planningportal.gov.uk/general/news/stories/2011/nov11/171111/171111_3) payment towards the [£160m cost](http://www.london-se1.co.uk/news/view/5293) of increasing capacity at the Northern Line tube station. The remainder consists largely of benefits in kind: £24.9m is the estimated value of the new 'public' park to be provided by Lend Lease and £7.5m is the estimated value of new traffic infrastructure to be provided within Lend Lease's development.[^8]
 
 
@@ -46,16 +49,13 @@ Despite a policy requirement of 35%, the [Regeneration Agreement](http://southwa
 ![](http://crappistmartin.github.io/images/UpdatedAHStatement.png) 
 
 ## Cooking the books
-![](http://crappistmartin.github.io/images/guardianviabilityassessment.png)
-
-In 2015, after a three year Tribunal battle by Lend Lease and Southwark to prevent its disclosure, the 35% campaign [succeeded](http://crappistmartin.github.io/blog/2015/06/25/heygate-viability-assessment-finally-revealed/) in obtaining a [copy](/collated-viability-assessments) of the viability assessment submitted by Lend Lease to justify the reductions in its affordable 
+<img src="http://crappistmartin.github.io/images/guardianviabilityassessment.png" align="left" width="300" style="margin:10px">In 2015, after a three year Tribunal battle by Lend Lease and Southwark to prevent its disclosure, the 35% campaign [succeeded](http://crappistmartin.github.io/blog/2015/06/25/heygate-viability-assessment-finally-revealed/) in obtaining a [copy](/collated-viability-assessments) of the viability assessment submitted by Lend Lease to justify the reductions in its affordable 
 housing offer.  
 
-The figures [showed]((http://www.theguardian.com/cities/2015/jun/25/london-developers-viability-planning-affordable-social-housing-regeneration-oliver-wainwright)) how Lend Lease had cooked the books to make the development look unviable and thereby negotiate down its affordable housing obligations. 
+The figures [showed](http://www.theguardian.com/cities/2015/jun/25/london-developers-viability-planning-affordable-social-housing-regeneration-oliver-wainwright) how Lend Lease had cooked the books to make the development look unviable and thereby negotiate down its affordable housing obligations. 
 
 
 <iframe width="350" height="197" src="https://www.youtube.com/embed/4Niw5_OaLu0" frameborder="0" allowfullscreen></iframe>
-</br>
 
 
 ## Dining out
@@ -63,7 +63,6 @@ The figures [showed]((http://www.theguardian.com/cities/2015/jun/25/london-devel
 
 In July 2014, council leader Peter John came under criticism for dining with developers and accepting an all-expenses paid trip to international property fair [MIPIM](http://www.theguardian.com/commentisfree/2014/oct/14/yacht-cannes-selling-homes-local-government-officials-mipim) in Cannes, paid for by Lend Lease. (more details [here](http://embed.verite.co/timeline/?source=0Aprl6XcACewydEhRaWFOLVBfUjBSVW1HUGVZNEhGeFE&font=Bevan-PotanoSans&maptype=toner&lang=en&hash_bookmark=true&start_zoom_adjust=2&height=650#33))
 
-![](http://crappistmartin.github.io/images/heygatesale.png)
 
 ## Postscript update
 The Council has issued a [press statement](http://www.southwark.gov.uk/news/article/1785/setting_the_record_straight_the_true_value_of_the_elephant_and_castle_regeneration) claiming that it will receive "hundreds of millions" from the Heygate profit overage deal. But when we [asked](http://crappistmartin.github.io/blog/2015/12/20/heygate-sell-off-how-much-are-we-getting/) for a copy of its most recent audit report showing how much overage it expects, it claimed it hadn't received any audit reports - despite it being a requirement of the regeneration agreement. 
