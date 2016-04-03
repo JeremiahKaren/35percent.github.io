@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Subscribe to our newsletter
+title: Subscribe
 permalink: /newsletter/
 ---
-Subscribe to our email newsletter and receive our blog dates once every two weeks. No spam, you can unsubscribe at any time.
+Subscribe to our mailing list and receive blog dates as soon as they are published. You won't receive spam and you can unsubscribe at any time.
 	{% include mailchimp-form.html %}
