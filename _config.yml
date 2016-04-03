@@ -3,7 +3,7 @@
 # baseurl is the website's URL without the hostname
 
 # If you are building a simple GitHub user page (http://username.github.io) then use these settings:
-url: "http://35percent.github.io"
+url: "http://35percent.org"
 baseurl: ""
 
 # If you are building a GitHub project page then use these settings:
@@ -16,7 +16,7 @@ baseurl: ""
 title: 35% Campaign
 
 # Short description of your site
-description: for a more affordable Southwark
+description: Campaigning for regeneration that benefits local people 
 
 # --- Navigation bar options --- #
 
@@ -61,6 +61,10 @@ footer-links-active:
 url-pretty: "35percent.org"  # eg. "deanattali.com/beautiful-jekyll"
 
 # --- Misc --- #
+mailchimp:
+  user-id: 35percentelephant
+  list-id: e4c06c106d
+
 
 # Fill in your Disqus shortname (NOT the userid) if you want to support Disqus comments
 disqus: "35percent.org"
