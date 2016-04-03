@@ -6,7 +6,7 @@ footer: true
 ---
 ![](http://s0.geograph.org.uk/geophotos/02/70/11/2701156_6a4b82c2.jpg)
 
-Another site on the map, _Maydew House_ will also show a net loss once completed. This 24-storey block containing 144 council flats overlooking Southwark Park, has been decanted [(amidst protest)](https://www.facebook.com/pages/Save-Maydew-House/316012601837) after the council [declared](http://www.southwarknews.co.uk/00,news,20152,440,00.htm) (without disclosing the figures) that the cost of repair was _"difficult to justify"_. The Council served a Compulsory Purchase Order on the remaining leaseholders and tenants of the block (and neighbouring Abbeyfield estate) in 2012[^1].
+This 24-storey block containing 144 council flats overlooking Southwark Park, has been decanted [(amidst protest)](https://www.facebook.com/pages/Save-Maydew-House/316012601837) after the council [declared](http://www.southwarknews.co.uk/00,news,20152,440,00.htm) (without disclosing the figures) that the cost of repair was _"difficult to justify"_. The Council served a Compulsory Purchase Order on the remaining leaseholders and tenants of the block (and neighbouring Abbeyfield estate) in 2012[^1].
 
 Maydew House is now being refurbished and 5 extra penthouse floors added to provide a total of 180 units, but only 74 will remain as council flats - a net loss of 70 council homes[^2]. The remaining 106 flats will all be sold off on the open market.
 

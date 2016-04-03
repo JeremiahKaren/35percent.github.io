@@ -276,7 +276,7 @@ subtitle: Summary of regeneration schemes
 
 <article class="post-preview">
   
-<h1><a href="/ludgate-and-sampson-house/">Bankside Quarter</a></h1>
+<h1><a href="/ludgate-and-sampson/">Bankside Quarter</a></h1>
 
 <img src="https://pbs.twimg.com/media/CKQ9rYaWcAAfjBB.jpg" width="100" align="left">
 </br></br></br>
@@ -366,7 +366,7 @@ subtitle: Summary of regeneration schemes
 
 <article class="post-preview">
   
-<h1><a href="/Paris Gardens/">Paris Gardens</a></h1>
+<h1><a href="/paris-gardens/">Paris Gardens</a></h1>
 
 <img src="http://www.mclarengroup.com/wp-content/uploads/2014/09/Paris-gardens-duo-1198x500.jpg" width="100" align="left">
 </br></br></br>

@@ -4,7 +4,7 @@ title: "One Blackfriars"
 sharing: true
 footer: true
 ---
-![](http://crappistmartin.gitub.io/images/oneblackfriars.png)
+![](http://crappistmartin.github.io/images/oneblackfriars.png)
 
 Berkeley Group's __'One Blackfriars'__ is a development of 274 luxury homes in a 50 storey glass tower with a total development value of £700m.
 

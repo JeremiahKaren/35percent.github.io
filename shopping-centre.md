@@ -1,7 +1,6 @@
 ---
 layout: page
 title: "shopping centre"
-comments: true
 sharing: true
 ---
 ![](http://www.london-se1.co.uk/news/imageuploads/1255443526_80.177.117.97.jpg)

@@ -12,7 +12,6 @@ Half of the Silwood estate used to lie in Lewisham, the rest of the estate used 
 
 ![](http://crappistmartin.github.io/images/LRegisterSilwood.png)
 
-![](http://crappistmartin.github.io/images/LRegisterSilwoodPlan.png)
 
 The Land Registry documents and the committee report both confirmed that the Council had signed an 'overage' agreement as part of the deal. This means that it would supposedly receive a share of the profits once the new development was complete. 
 

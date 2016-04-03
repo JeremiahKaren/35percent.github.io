@@ -1,7 +1,6 @@
 ---
 layout: page
 title: "Borough Triangle"
-comments: true
 sharing: true
 footer: true
 ---
@@ -60,6 +59,6 @@ Bellenden was founded and is run by former Chair of Southwark Labour and local c
 
 Glover stepped down as councillor in May 2014. Amongst other things, Bellenden offers its clients a ['political intelligence' service](http://www.bellenden.co.uk/public-affairs/political-intelligence/), which it says involves _"learning how political parties and their individual members are thinking on any given issue"_ and then _"seeks to enlarge and inform their thoughts on behalf of our clients."_
 With his 12 years as a senior Southwark councillor, we don't doubt that Mr Glover is very well placed to provide this service.  
-</br>
+
 
 [^1]: See paragraph 8.4 on pages 93-94 of the council's [2004 Elephant & Castle Supplementary Planning Guidance](http://www.scribd.com/doc/82420796/Southwark-Council-2004-Development-Framework)

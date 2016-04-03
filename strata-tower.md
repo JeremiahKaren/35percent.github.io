@@ -17,7 +17,7 @@ The Strata was built with the help of shared-ownership Grant Funding from the GL
 ## Wind Turbines
 ![](http://crappistmartin.github.io/images/strataturbines.jpg)
 
-Despite providing zero social housing, Southwark granted planning permission [on the grounds](http://moderngov.southwark.gov.uk/Data/Planning%20Committee/20060321/Agenda/Item%2062%20-%20Report%20-Castle%20House,%20Walworth%20Road,%20SE1%206SP.pdf) that its wind turbines would __ _"create a dramatic and highly recognisable building form that achieves one of the council's plan objectives, which is to create landmark buildings as signifiers of the Elephant & Castle on the London skyline."_ __ The [planning officer's report](http://moderngov.southwark.gov.uk/Data/Planning%20Committee/20060321/Agenda/Item%2062%20-%20Report%20-Castle%20House,%20Walworth%20Road,%20SE1%206SP.pdf) goes on to explain that __ _"The turbines are of course not merely decorative but have a function which is directly related to the Elephant's status as an Energy Action Area"_ __(para. 45):
+Despite providing zero social housing, Southwark granted planning permission [on the grounds](http://moderngov.southwark.gov.uk/Data/Planning%20Committee/20060321/Agenda/Item%2062%20-%20Report%20-Castle%20House,%20Walworth%20Road,%20SE1%206SP.pdf) that its wind turbines would _"create a dramatic and highly recognisable building form that achieves one of the council's plan objectives, which is to create landmark buildings as signifiers of the Elephant & Castle on the London skyline."_ The [planning officer's report](http://moderngov.southwark.gov.uk/Data/Planning%20Committee/20060321/Agenda/Item%2062%20-%20Report%20-Castle%20House,%20Walworth%20Road,%20SE1%206SP.pdf) goes on to explain that _"The turbines are of course not merely decorative but have a function which is directly related to the Elephant's status as an Energy Action Area"_(para. 45):
 
 However, the GLA [wrote](http://legacy.london.gov.uk/mayor/planning_decisions/strategic_dev/2006/20060308/castle_house_initial_representation.rtf) to Southwark Council shortly after the application had been submitted, expressing concerns about the wind turbines' noise and vibration impacts on upper level appartments. It ordered Southwark to ensure that appropriate conditions were imposed on the planning application.  
 
@@ -56,8 +56,7 @@ Paragraph 93 of the [officer's report](http://moderngov.southwark.gov.uk/Data/Pl
 
 ![](http://crappistmartin.github.io/images/stratas106variation.png)
 
-However, this condition of the planning consent has been breached and the retail unit is now being fitted out as an estate agent.
-
+However, both retail units at the base of the tower remain unoccupied and rumour has it that they are going to be occupied by an estate agent. Watch this space..
 
 
 

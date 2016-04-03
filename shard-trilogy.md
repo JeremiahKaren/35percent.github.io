@@ -13,9 +13,9 @@ Sellar had submitted a viabilty assessment claiming that the on-site provision o
 The [Addendum](http://moderngov.southwark.gov.uk/documents/s49912/Addendum%20Report.pdf) for the Shard Trilogy's planning committee report,
 says that it was decided that the Wood Dene estate was too far out and that sites will be found closer.
 
-![](http://crappistmartin.github.io/images/shardtrilogyaddendum.png %}](http://moderngov.southwark.gov.uk/documents/s49912/Addendum%20Report.pdf)
+![](http://crappistmartin.github.io/images/shardtrilogyaddendum.png)
 
-However, the [S106 agreement](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!ZXy71ko3venf5X0XMQvpGg%3d%3d!%7d%7d%7d) identifies just 3 sites in the following order of preference:
+However, the [section 106 agreement](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!ZXy71ko3venf5X0XMQvpGg%3d%3d!%7d%7d%7d) identifies just 3 sites in the following order of preference:
 
 1. Canada Water Site C&E (Sellar's joint venture with NHHT)
 
@@ -23,7 +23,7 @@ However, the [S106 agreement](http://planbuild.southwark.gov.uk/documents/?GetDo
 
 3. NHHT's Wood Dene estate regeneration
 
-In March 2015 Savills submitted a land survey on behalf of Sellar, outlining a total of 150 potential sites for the provision of the off-site affordable housing. We have made an EIR request for this land survey and are waiting to hear back from the council. 
+The question is then this: if Sellar is allowed to build its offsite affordable housing in its other development at Canada Water, will this count over and above the 35% affordable housing requirements of the Canada Water site? 
 
 
 

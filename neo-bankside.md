@@ -10,12 +10,12 @@ Our favourite development north of the borough has been [shortlisted](http://www
 
 According to the planning officer's [report](http://moderngov.southwark.gov.uk/Data/Planning%20Committee/20061114/Agenda/Item%2064%20-%20BanksideIndustrial%20Estate,%20118-122%20Southwark%20Street,%2044%20Holland%20Street&%2047%20Hopton%20Street,%20London,%20SE1%200SW.pdf) for the planning application, this off-site provision would comprise 130 homes of which 94 would be social rented[^2]. 
 
-![](http://35percent.org/images/neobanksideOR.png)
+![](http://crappistmartin.github.io/images/neobanksideOR.png)
 
 
-But things haven't worked out that way and in March this year Southwark [signed off]((http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!v%2fDXoWcM7JHiLzTujQD8BQ%3d%3d!%7d%7d%7d) the affordable housing as delivered, when only 94 affordable homes have been provided by __Native Land__ of which 62 are social rented. Native Land's schedule of off-site provision is [here](/images/NeoBankside_PressRelease.pdf) and our schedule is as follows:
+But things haven't worked out that way and in March this year Southwark [signed off](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!v%2fDXoWcM7JHiLzTujQD8BQ%3d%3d!%7d%7d%7d) the affordable housing as delivered, when only 94 affordable homes have been provided by __Native Land__ of which 62 are social rented. Native Land's schedule of off-site provision is [here](http://crappistmartin.github.io/images/NeoBankside_PressRelease.pdf) and our schedule is as follows:
 
-![](http://35percent.org/images/NeoBankside_Provision.png)
+![](http://crappistmartin.github.io/images/NeoBankside_Provision.png)
 
 ## Lost social housing
 Despite Southwark's Head of Development Control [insisting](https://twitter.com/interpolitan_1/status/621603023085797376) that all the off-site social housing has been delivered, our subsequent calls to provide a schedule of Neo Bankside's off-site provision have been ignored. The developer has responded by claiming that it has built 132 homes in total of which 82 are social rented. But in doing so has included the affordable housing that was already being provided or was due to be provided by the housing associations delivering the developments on 3 of those sites.[^3] 
@@ -38,15 +38,13 @@ In 2014, when the council accidentally uploaded it to the [new planning portal](
 While most boroughs forward their viability assessments to third-party consultants for appraisal, Southwark chose to do it in-house and in this case the developer's estimates were not questioned by council officers appraising the figures.  
 
 ## Viability trumps all
-![](http://www.my-autoparking.com/photo/pl1100312-hydraulic_drive_automatic_garage_car_stacking_system_smart_car_parking_system_project.jpg) 
+<img src="http://www.my-autoparking.com/photo/pl1100312-hydraulic_drive_automatic_garage_car_stacking_system_smart_car_parking_system_project.jpg" align="left" width="250" style="margin:10px">Paragraph 77 of the [officer's report](http://moderngov.southwark.gov.uk/Data/Planning%20Committee/20061114/Agenda/Item%2064%20-%20BanksideIndustrial%20Estate,%20118-122%20Southwark%20Street,%2044%20Holland%20Street&%2047%20Hopton%20Street,%20London,%20SE1%200SW.pdf), also says that the viability assessment justified an abnormally high number of parking spaces (40% of the flats with parking) in what is supposed to be a car-free development zone. To accommodate this, the Neo Bankside development was built with a [car-stacking apparatus](http://planbuild.southwark.gov.uk:8190/online-applications/applicationDetails.do?previousCaseUprn=200003376898&previousCaseType=Property&previousKeyVal=_STHWR_PROPLPI_42138_1&activeTab=summary&previousCaseNumber=_STHWR_PROPLPI_42138_1&keyVal=_STHWR_DCAPR_9520430) and a two-level car parking basement underneath the site with 87 parking spaces.  
 
-Paragraph 77 of the [officer's report](http://moderngov.southwark.gov.uk/Data/Planning%20Committee/20061114/Agenda/Item%2064%20-%20BanksideIndustrial%20Estate,%20118-122%20Southwark%20Street,%2044%20Holland%20Street&%2047%20Hopton%20Street,%20London,%20SE1%200SW.pdf), also says that the viability assessment justified an abnormally high number of parking spaces (40% of the flats with parking) in what is supposed to be a car-free development zone. To accommodate this, the Neo Bankside development was built with a [car-stacking apparatus](http://planbuild.southwark.gov.uk:8190/online-applications/applicationDetails.do?previousCaseUprn=200003376898&previousCaseType=Property&previousKeyVal=_STHWR_PROPLPI_42138_1&activeTab=summary&previousCaseNumber=_STHWR_PROPLPI_42138_1&keyVal=_STHWR_DCAPR_9520430) and a two-level car parking basement underneath the site with 87 parking spaces.  
-</br>
 
 ## The future
-Native Land is also about to start work on its ['Bankside Quarter' scheme](http://35percent.org/ludgate-and-sampson-house) adjoining its Neo Bankside site. Despite the Mayor claiming that 17-18% affordable housing on-site provision was perfectly viable here, this mammoth scheme (comprising 9 towers up to 49 storeys) pulled the same viability assessment trick and persuaded Southwark to accept £65m in-lieu of any affordable housing whatsoever. This pitiful contribution represents just 6.5% of the estimated total end value of the Bankside Quarter scheme (£1bn). We sincerely hope this scheme won't be shortlisted for any awards.  
+Native Land is also about to start work on its ['Bankside Quarter' scheme](http://crappistmartin.github.io/ludgate-and-sampson-house) adjoining its Neo Bankside site. Despite the Mayor claiming that 17-18% affordable housing on-site provision was perfectly viable here, this mammoth scheme (comprising 9 towers up to 49 storeys) pulled the same viability assessment trick and persuaded Southwark to accept £65m in-lieu of any affordable housing whatsoever. This pitiful contribution represents just 6.5% of the estimated total end value of the Bankside Quarter scheme (£1bn). We sincerely hope this scheme won't be shortlisted for any awards.  
 
-![](http://35percent.org/images/ludgate_sampson3.png) 
+![](http://crappistmartin.github.io/images/ludgate_sampson3.png) 
 
 
 __Footnotes__

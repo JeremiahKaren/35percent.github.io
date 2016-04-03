@@ -1,8 +1,6 @@
 ---
 layout: page
 title: "Aylesbury Estate"
-date: 2015-05-09 19:02
-comments: true
 sharing: true
 footer: true
 ---
@@ -91,12 +89,12 @@ So translating the architect speak to plain English we can say that Southwark is
 
 More criticisms of the estate and grounds for its demolition can be found in other officers' proofs of evidence submitted to the Public Inquiry:
 
-[Jackie Fearon - Aylesbury Area Manager, Southwark Council](http://crappistmartin.github.io/images/Jackie_Fearon.pdf)</br>
-[Elaine Taylor - Senior Regeneration & Development Manager, L&Q Housing](http://crappistmartin.github.io/images/Elaine_Taylor.pdf)</br>
-[Mark Maginn - Sales & Acquisitions Manager, Southwark Council](http://crappistmartin.github.io/images/Mark_Maginn.pdf)</br>
-[Tim Cutts - Planning Policy Team Leader, Southwark Council](http://crappistmartin.github.io/images/Tim_Cutts.pdf)</br>
-[Jane Seymour - Development Partnership Broker, Southwark Council](http://crappistmartin.github.io/images/Jane_Seymour.pdf)</br>
-</br>
+[Jackie Fearon - Aylesbury Area Manager, Southwark Council](http://crappistmartin.github.io/images/Jackie_Fearon.pdf)  
+[Elaine Taylor - Senior Regeneration & Development Manager, L&Q Housing](http://crappistmartin.github.io/images/Elaine_Taylor.pdf)  
+[Mark Maginn - Sales & Acquisitions Manager, Southwark Council](http://crappistmartin.github.io/images/Mark_Maginn.pdf)  
+[Tim Cutts - Planning Policy Team Leader, Southwark Council](http://crappistmartin.github.io/images/Tim_Cutts.pdf)  
+[Jane Seymour - Development Partnership Broker, Southwark Council](http://crappistmartin.github.io/images/Jane_Seymour.pdf)  
+
 
 ## Prudent Profits
 The 35% Campaign has also obtained a redacted copy of Notting Hill's [viability assesment](http://crappistmartin.github.io/images/NHHT_AylesburyViabilityAssessment.pdf) for the Aylesbury redevelopment via an FOI/EIR request. Despite being a registered charity, Notting Hill has claimed commercial confidentiality as the grounds for its redactions. Interestingly we see that despite the development being publicly funded and built on public land, Notting Hill claims that _"increasing the number of affordable homes would result in the scheme falling below the prudent profit level for Notting Hill"_.  
@@ -110,6 +108,13 @@ The [officer's report](http://planbuild.southwark.gov.uk/documents/?GetDocument=
 
 Further, the new open spaces in the development will not be public open spaces adopted by the council; they will be privately owned and managed by a subsidiary of Notting Hill Housing Group. 
 
+## Misc docs
+[2005 Frost Associates](http://crappistmartin.github.io/images/AylesburyTotalEstateCostReview2.pdf)  
+[April 2005 BPTW](http://crappistmartin.github.io/images/BPTW_Costings_28April20052.pdf)  
+[(Redacted) Development Partnership Agreement(DPA)](http://crappistmartin.github.io/images/LBS_NHHT_DPAgreement.pdf)  
+[(Redacted) DPA Appendices](http://crappistmartin.github.io/images/LBS_NHHT_DPA_Appendices.pdf)  
+[(Redacted) DPA Appendix 7 - Business Plan](http://crappistmartin.github.io/images/LBS_NHHT_DPA_Appendix7_BusinessPlan.pdf)
+
 __Footnotes:__
 
 
@@ -117,12 +122,7 @@ __Footnotes:__
 
 [^2]: Aylesbury homes demolished to date: 1-41 Bradenham & 1-12 Red Lion Close (site 1a), 1-59 Wolverton (site 7) - [Total = 112].
 
-[2005 Frost Associates](http://crappistmartin.github.io/images/AylesburyTotalEstateCostReview2.pdf)</br>
-[April 2005 BPTW](http://crappistmartin.github.io/images/BPTW_Costings_28April20052.pdf)
 
-[(Redacted) Development Partnership Agreement(DPA)](http://crappistmartin.github.io/images/LBS_NHHT_DPAgreement.pdf)</br>
-[(Redacted) DPA Appendices](http://crappistmartin.github.io/images/LBS_NHHT_DPA_Appendices.pdf)</br>
-[(Redacted) DPA Appendix 7 - Business Plan](http://crappistmartin.github.io/images/LBS_NHHT_DPA_Appendix7_BusinessPlan.pdf)
 
 [^3]: See paragraph 2.5.1 of the masterplan application's [Transport Statement](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!oFCJO4%2byYvYgWBMZiJgNfg%3d%3d!%7d%7d%7d)
 
