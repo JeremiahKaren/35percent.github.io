@@ -550,3 +550,79 @@ table tr th :last-child,
 table tr td :last-child {
   margin-bottom: 0;
 }
+
+.cta {
+  border: 1px solid #ddd;
+  margin: 40px auto;
+  padding-left: 30px;
+  max-width: 730px;
+  background-color: $lighterGray;
+
+  -moz-box-shadow: 0 1px 2px rgba(0,0,0,.3);
+  -webkit-box-shadow: 0 1px 2px rgba(0, 0, 0, 0.3);
+  box-shadow: 0 1px 2px rgba(0, 0, 0, 0.3);
+
+  @media screen and (max-width: 730px) {
+    max-width: 450px;
+  }
+
+  .description {
+    float: left;
+    max-width: 390px;
+    padding-right: 30px;
+
+    h2 {
+      margin-bottom: 0px;
+    }
+
+    p, li {
+      color: $gray;
+    }
+  }
+ form {
+    float: left;
+    border-left: 1px solid $lightGray;
+    padding: 30px;
+    //background-color: $lightGray;
+
+    @include mobile {
+      border-left: none;
+      padding: 10px;
+    }
+  }
+}
+
+.newsletter-page {
+  form {
+    margin-top: 25px;
+    padding: 10px 30px;
+    max-width: 300px;
+
+    background-color: $lighterGray;
+    border: 1px solid #ddd;
+    -moz-box-shadow: 0 1px 2px rgba(0,0,0,.3);
+    -webkit-box-shadow: 0 1px 2px rgba(0, 0, 0, 0.3);
+    box-shadow: 0 1px 2px rgba(0, 0, 0, 0.3);    
+  }
+}
+
+.inline-cta {
+  padding: 10px 15px;
+  background-color: #FDEBDA;
+  border: solid 1px $lightGray;
+  a {
+    text-decoration: underline;
+  }
+}
+
+// Nicolas Gallagher's micro clearfix hack
+// http://nicolasgallagher.com/micro-clearfix-hack/
+.clearfix:before,
+.clearfix:after {
+    content: " ";
+    display: table;
+}
+
+.clearfix:after {
+    clear: both;
+}   
