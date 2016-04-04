@@ -6,7 +6,7 @@ comments: true
 categories: 
 ---
 Southwark council battoned down the hatches at their Tooley Street headquarters last Thursday, in preparation for the controversial Aylesbury planning application committee hearing.
-In the event, Aylesbury tenants and leaseholders were bitterly disappointed when the six hour meeting approved the [applications](http://35percent.org/blog/2014/11/01/aylesbury-estate-planning-application/).
+In the event, Aylesbury tenants and leaseholders were bitterly disappointed when the six hour meeting approved the [applications](/2014-11-01-aylesbury-estate-planning-application/).
 
 ![](https://pbs.twimg.com/media/CDTZqH_WYAAUca2.jpg)
 
@@ -16,7 +16,7 @@ Unsurprisingly there was much emotion and some anger at the packed Committee mee
 
 ATLF spoke forcefully against the applications. They objected to the loss of social rented housing, the failure to respect the estate ballot that overwhelmingly voted against stock transfer and redevelopment by a housing association and the pitiful compensation and displacement of leaseholders.
 
-35% campaigners took up the issue of the slippery social rented housing definitions and cited the [sleight of hand](http://35percent.org/images/AylesburyPlanningApplications_ref15AP3843-44.pdf) used by Notting Hill Housing in their [Bermondsey Spa regeneration](http://35percent.org/blog/2015/03/18/stand-up-for-more-social-housing/) and [Elmington estate regeneration](http://35percent.org/blog/2015/04/18/aylesbury-planning-application-hearing/), switching social rent for affordable rent.
+35% campaigners took up the issue of the slippery social rented housing definitions and cited the [sleight of hand](http://35percent.org/images/AylesburyPlanningApplications_ref15AP3843-44.pdf) used by Notting Hill Housing in their [Bermondsey Spa regeneration](/2015-03-18-stand-up-for-more-social-housing/) and [Elmington estate regeneration](/2015-04-18-aylesbury-planning-application-hearing/), switching social rent for affordable rent.
 
 When Councillors challenged John Hughes - NHHT's Development Director about why NHHT had switched rent tenures at these schemes he replied: _"The rents that we are charging at Grange Walk (Bermondsey Spa) and Edmund Street (Elmington estate) are wholly compliant with the planning permissions we received."_ 
 

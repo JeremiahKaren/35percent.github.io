@@ -15,7 +15,7 @@ Southwark should take the [Islington Supplementary Planning Document](http://www
 
 ![](http://crappistmartin.github.io/images/pjsn.jpg)
 
-During the interview, Cllr John also defended Southwark council's notorious deal with Lend Lease that slashed [affordable housing on the new Heygate](http://crappistmartin.github.io/affordable-housing/), reducing the number of social rented units to just 74. He said that we could still get more than was agreed in future detailed planning applications. If this is a sincere promise, the very first thing we need is a new viability assessment. The one just revealed has been shown to favour Lend Lease's profits above all else and was heavily criticised by the District Valuer, whose recommendations Southwark ignored. It is a document which has no credibility and must not be allowed to govern the delivery of affordable housing on Elephant Park over the next ten years.
+During the interview, Cllr John also defended Southwark council's notorious deal with Lend Lease that slashed [affordable housing on the new Heygate](/affordable-housing/), reducing the number of social rented units to just 74. He said that we could still get more than was agreed in future detailed planning applications. If this is a sincere promise, the very first thing we need is a new viability assessment. The one just revealed has been shown to favour Lend Lease's profits above all else and was heavily criticised by the District Valuer, whose recommendations Southwark ignored. It is a document which has no credibility and must not be allowed to govern the delivery of affordable housing on Elephant Park over the next ten years.
 
 
 

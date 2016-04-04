@@ -45,7 +45,7 @@ The paragraph below in the foreword of the [draft new Plan](http://www.southwark
 
 ![](http://crappistmartin.github.io/images/newsouthwarkplan.png)
 
-The consultation period for this first draft of the New Southwark Plan and this proposal lasts until 6th March 2015, but Southwark isn't wasting time: an 'asset management' process is already [in train](http://crappistmartin.github.io/blog/2014/10/04/lets-talk-about-peters-promises/) and will be making recommendations about potential renewal/regeneration sites to Southwark's Cabinet in December. 
+The consultation period for this first draft of the New Southwark Plan and this proposal lasts until 6th March 2015, but Southwark isn't wasting time: an 'asset management' process is already [in train](/2014-10-04-lets-talk-about-peters-promises/) and will be making recommendations about potential renewal/regeneration sites to Southwark's Cabinet in December. 
 
 ## Estate renewal conference
 Last week saw a [Future of London](http://www.futureoflondon.org.uk) conference entitled ['Delivering Estate Renewal'](http://www.futureoflondon.org.uk/2014/09/30/conference-delivering-estate-renewal/). The conference was co-sponsored by Lend Lease who are described in the [conference programme](http://www.futureoflondon.org.uk/2014/09/30/conference-delivering-estate-renewal/) as 'estate-savvy developers'. The speakers included representatives from Lend Lease, Notting Hill's CEO Kate Davies and Southwark's Head of Regeneration, Stephen Platts.  

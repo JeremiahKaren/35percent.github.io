@@ -7,7 +7,7 @@ categories:
 ---
 The 35% Campaign will be giving evidence this week at the 5-day Tribunal hearing for [Southwark Council's Appeal](http://www.standard.co.uk/news/london/southwark-in-tribunal-fight-to-keep-15bn-heygate-estate-deal-secret-8808759.html) against the Information Commissioner's ruling to disclose the Heygate financial viability figures.
 
-We will be supporting the [Information Commissioner's decision](http://www.35percent.org/blog/2013/07/24/heygate-figures-must-b-be-revealed-information-commissioner) and giving evidence to show why we think it is important that the figures be disclosed. We will be showing the Tribunal evidence of the original regeneration benefits proposed, and how these have been squeezed or shelved as a result of the confidential viability assessement submitted as part of the Heygate masterplan application.  
+We will be supporting the [Information Commissioner's decision](/2013-07-24-heygate-figures-must-b-be-revealed-information-commissioner) and giving evidence to show why we think it is important that the figures be disclosed. We will be showing the Tribunal evidence of the original regeneration benefits proposed, and how these have been squeezed or shelved as a result of the confidential viability assessement submitted as part of the Heygate masterplan application.  
 
 Examples include the excessive density of the development and the squeezing of London's newest park down to a [privately managed landscaped strip](/2012-07-04-londons-largest-new-private-park-in-70-years) overshadowed by 12 storey blocks:  
 

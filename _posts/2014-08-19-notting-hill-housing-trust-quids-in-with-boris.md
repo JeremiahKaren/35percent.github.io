@@ -12,7 +12,7 @@ Notting Hill has [secured](http://www.insidehousing.co.uk/development/greater-lo
 ![](http://crappistmartin.github.io/images/nottinghillfunding.png)
 
 
-Notting Hill Housing Trust enthusiastically [endorses](http://www.35percent.org/blog/2014/06/16/notting-hill-housing-no-social-housing) the Mayor's affordable rent policies, which may explain why Boris Johnson is so happy to give it so much money.
+Notting Hill Housing Trust enthusiastically [endorses](/2014-06-16-notting-hill-housing-no-social-housing) the Mayor's affordable rent policies, which may explain why Boris Johnson is so happy to give it so much money.
 
 Aylesbury estate tenants will have the right to a tenancy in the new Notting Hill development and those already 'decanted' to other parts of the borough will have the right to return, but if the affordable rents are 80% of market rent this won't mean very much. Southwark Council's recently published 'Affordable Rent Product Study' gives £289pw as the market rent of a 1-bed flat in SE17 – 80% of this would be £231pw.  A council rent for a 1-bed flat in SE17 is currently around £100pw.
 
@@ -26,7 +26,7 @@ We think that any Aylesbury tenant moving into one of the replacement homes shou
 
 
 ## Notting Hill Housing Trust - Manor Place Depot
-We [blogged](http://35percent.org/blog/2014/06/16/notting-hill-housing-no-social-housing/) in June about the prospect of no social housing in Notting Hill Housing's Manor Place Depot development. Since then NHHT appears to have had a change of heart. 
+We [blogged](/2014-06-16-notting-hill-housing-no-social-housing/) in June about the prospect of no social housing in Notting Hill Housing's Manor Place Depot development. Since then NHHT appears to have had a change of heart. 
 
 ![](http://crappistmartin.github.io/images/manorplace.jpg)
 

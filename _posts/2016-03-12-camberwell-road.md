@@ -11,7 +11,7 @@ The villians as always are property developers, using secret viability assessmen
 Five developments on Camberwell Road; 5 viability assessments; 484 new homes of which only 40 are social rented.
  
 ## 166-178 Camberwell Road
-First on this shameful list are our old friends A2Dominion who featured in our [last blog post](http://crappistmartin.github.io/blog/2016/02/16/the-affordable-housing-mirage/), where they provided affordable rent instead of social rent in their redevelopment of the Colorama warehouse in SE1.  
+First on this shameful list are our old friends A2Dominion who featured in our [last blog post](/2016-02-16-the-affordable-housing-mirage/), where they provided affordable rent instead of social rent in their redevelopment of the Colorama warehouse in SE1.  
 
 ![Period shop fronts and buildings demolished](http://crappistmartin.github.io/images/wyndhamcamberwelljunction.jpg)
 

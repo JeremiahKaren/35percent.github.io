@@ -8,7 +8,7 @@ The planning applications for the redevelopment of the Aylesbury estate are to b
 
 ![](http://crappistmartin.github.io/images/Aylesburyoutline2.jpg)
 
-We blogged [previously](http://crappistmartin.github.io/blog/2015/03/18/stand-up-for-more-social-housing/) about Notting Hill Housing's development at the Bermondsey Spa regeneration, where social rented housing agreed at planning committee became affordable rent when - by sleight of hand - social rent was defined in the legal agreement as affordable rent.
+We blogged [previously](/2015-03-18-stand-up-for-more-social-housing/) about Notting Hill Housing's development at the Bermondsey Spa regeneration, where social rented housing agreed at planning committee became affordable rent when - by sleight of hand - social rent was defined in the legal agreement as affordable rent.
 
 In an email response to an enquiry about its Bermondsey Spa development from a local ward councillor, a Notting Hill spokesperson confirmed __ _"we don't have any social rented properties here"_ __ and explained that the 44 'social rented' units are currently let at affordable rents, ranging from 42% of market rent for 3 beds to 63% of market rent for 1 beds (average across all unit types = 58% of market rents).
 

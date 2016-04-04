@@ -26,7 +26,7 @@ The involvement of housing associations in these alleged breaches is a particula
 
 Southwark Council has an approved list of housing association partners. It should seriously consider whether any housing association in breach of a planning approval should continue as a partner.
 
-It goes without saying that these breaches are making a real difference to people who rely upon social rented housing, as the main example given in the Southwark News shows. This is in fact the [Colorama development](http://crappistmartin.github.io/colorama/) - a former photo film processing centre on Lancaster street, which was demolished in 2014 following planning permission granted for its replacement by the [Chroma buildings](http://www.fabrica.co.uk/The-Chroma-Buildings), a residential development comprising 39 flats.
+It goes without saying that these breaches are making a real difference to people who rely upon social rented housing, as the main example given in the Southwark News shows. This is in fact the [Colorama development](/colorama/) - a former photo film processing centre on Lancaster street, which was demolished in 2014 following planning permission granted for its replacement by the [Chroma buildings](http://www.fabrica.co.uk/The-Chroma-Buildings), a residential development comprising 39 flats.
 
 ![](http://crappistmartin.github.io/images/colorama_chroma.jpg)
 

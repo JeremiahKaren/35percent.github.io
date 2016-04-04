@@ -20,7 +20,7 @@ Islington council leader Richard Watts said in [his response](http://crappistmar
 Southwark council leader Peter John's [response](http://crappistmartin.github.io/images/SouthwarkUniteResponse.pdf) took a different view. He said he would be unable to attend himself, but _"does not agree with the request and the reasoning behind it"_ because the council needs to _"continue working with the private sector to ensure that we can deliver as many homes as we can"_. He concludes by reiterating his _"commitment to build 11,000 new council homes at social rents."_
 
 
-This commitment to build 11,000 new council homes has come under increasing scrutiny. Our [previous blog post](http://crappistmartin.github.io/blog/2014/10/04/lets-talk-about-peters-promises/) and [this recent Guardian article](http://www.theguardian.com/society/2014/oct/07/southwark-london-regeneration-urban-renewal-social-cleansing-fears) show how questions are being asked about whether they will be council homes and whether existing council homes will have to be lost for there to be any gains. So it's not reassuring that Southwark's MIPIM stand display describes the 11,000 new council homes as comprising _"both private and social"_ housing as this image below shows:  
+This commitment to build 11,000 new council homes has come under increasing scrutiny. Our [previous blog post](/2014-10-04-lets-talk-about-peters-promises/) and [this recent Guardian article](http://www.theguardian.com/society/2014/oct/07/southwark-london-regeneration-urban-renewal-social-cleansing-fears) show how questions are being asked about whether they will be council homes and whether existing council homes will have to be lost for there to be any gains. So it's not reassuring that Southwark's MIPIM stand display describes the 11,000 new council homes as comprising _"both private and social"_ housing as this image below shows:  
 
 ![](http://crappistmartin.github.io/images/southwarkMIPIMstand.png) 
 
@@ -31,7 +31,7 @@ Heckling protesters spotted Southwark's Head of Property Steve Platts and Head o
 If you would like to enjoy the full MIPIM experience without the canapés and champagne, click on this [interactive floorplan](http://www.inspiredlabs.com/mipimuk/?project=MIPIM/Mipim-Uk-2014/GroundR/main&bubble=day&yaw=0.09&fov=65&location=loc000&pitch=0) of the property fair. 
 
 ### Developers ride the bus
-We hope if you live in Southwark, you didn't see the [MIPIM bus](http://t.co/LZwNl9yC2T) driving down your street last week. It was full of MIPIM property developers making a quick trip from Earls Court, no doubt scoping out sites in the developer-friendly ['can do'](http://crappistmartin.github.io/blog/2014/10/11/southwark-gets-its-reward/) borough of Southwark.
+We hope if you live in Southwark, you didn't see the [MIPIM bus](http://t.co/LZwNl9yC2T) driving down your street last week. It was full of MIPIM property developers making a quick trip from Earls Court, no doubt scoping out sites in the developer-friendly ['can do'](/2014-10-11-southwark-gets-its-reward/) borough of Southwark.
 
 ![](http://crappistmartin.github.io/images/mipimbus.png)
 
@@ -46,7 +46,7 @@ We hope if you live in Southwark, you didn't see the [MIPIM bus](http://t.co/LZw
 ## Heygate FOI/EIR Tribunal Case
 Parties to the Heygate FOI/EIR Tribunal case reconvened at a 'Case Management Hearing' last week. The hearing was called by respondent to the case Adrian Glasspool, who had complained that disclosure of the viability assessment had still not taken place following the Tribunal's decison at the beginning of May. After hearing an account of progress so far, Southwark, Lend Lease and the Information Commissioner were directed to meet on 29th October to try to resolve any outstanding issues concerning the final disclosure. The judge also asked for parties' availability for a further hearing - should it be needed - in December.
 
-Another [challenge](http://discussion.theguardian.com/comment-permalink/42351530) against a developer's use of viability assessments in Stoke Newington can be added to the list of challenges in our [previous blog post](http://crappistmartin.github.io/blog/2014/10/11/southwark-gets-its-reward/). Again the developer is arguing that local people simply would not understand what it is all about, just as was the argument in the Heygate FOI/EIR Tribunal case. After 3 days of argument in the High Court, the judge has retired to consider his verdict. 
+Another [challenge](http://discussion.theguardian.com/comment-permalink/42351530) against a developer's use of viability assessments in Stoke Newington can be added to the list of challenges in our [previous blog post](/2014-10-11-southwark-gets-its-reward/). Again the developer is arguing that local people simply would not understand what it is all about, just as was the argument in the Heygate FOI/EIR Tribunal case. After 3 days of argument in the High Court, the judge has retired to consider his verdict. 
 
 ## Lyons Review reviews viability
 ![](http://crappistmartin.github.io/images/lyonsreview.png)

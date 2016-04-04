@@ -25,7 +25,7 @@ Nor did the exhibition say how much affordable housing there will be. The 1000 n
 
 We took up the [invite](http://crappistmartin.github.io/images/delanceyinvite.pdf) and went along to the exhibition to speak to Delancey's representatives, who provided answers to some of our questions; yes, there will be affordable housing but how much hasn't yet been decided; and no, there will be no provision for current shopkeepers, their leases are coming to an end and they will have to move on. 
 
-Delancey suggested that some traders may be able to pick up space in its [Tribeca Square](http://crappistmartin.github.io/tribeca-square) development next door, where there should be a small number of retail units, some at reduced rents and earmarked for displaced shopping centre retailers (see section below for more details on this).
+Delancey suggested that some traders may be able to pick up space in its [Tribeca Square](/tribeca-square) development next door, where there should be a small number of retail units, some at reduced rents and earmarked for displaced shopping centre retailers (see section below for more details on this).
 
 This is Delancey's second public consultation event for its shopping centre redevelopment and despite being a statutory part of the planning process, there are three big, basic questions that Delancey has not addressed:
 
@@ -42,13 +42,13 @@ Council leader Peter John gave his opinions on the latest regeneration plans on 
 <iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/214183721&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
 
 
-35% affordable housing still only gets us 175 social rented units in this scheme, a fraction of what we [lost on the Heygate](http://crappistmartin.github.io/affordable-housing), with a further 175 shared ownership. This is the minimum Southwark's policy requires and it must not accept any viability assessment nonsense from Delancey. We don't want to see it pleading poverty once again, as on its neighbouring [Tribeca Square](http://crappistmartin.github.io/tribeca-square) development where there is no affordable housing of any kind. 
+35% affordable housing still only gets us 175 social rented units in this scheme, a fraction of what we [lost on the Heygate](/affordable-housing), with a further 175 shared ownership. This is the minimum Southwark's policy requires and it must not accept any viability assessment nonsense from Delancey. We don't want to see it pleading poverty once again, as on its neighbouring [Tribeca Square](/tribeca-square) development where there is no affordable housing of any kind. 
 
 
 ## Delancey - a morality tale
 A measure of Delancey's sincerity in suggesting new premises for shopping centre traders at Tribeca Square, can be gauged by the following story:
 
-Back in 2008, when Delancey obtained planning approval for its [Tribeca Square](http://crappistmartin.github.io/tribeca-square) site, it signed a [legal agreement](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!kx6tQZNPCJomdoeiotHphA%3d%3d!%7d%7d%7d) with Southwark to provide a number of retail units for traders displaced from the shopping centre, some of which would be affordable[^1]. This was also one of its justifications for not providing any affordable housing[^2].
+Back in 2008, when Delancey obtained planning approval for its [Tribeca Square](/tribeca-square) site, it signed a [legal agreement](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!kx6tQZNPCJomdoeiotHphA%3d%3d!%7d%7d%7d) with Southwark to provide a number of retail units for traders displaced from the shopping centre, some of which would be affordable[^1]. This was also one of its justifications for not providing any affordable housing[^2].
 
 ![](http://crappistmartin.github.io/images/tribeca_affordablebusinessunits.png)
 

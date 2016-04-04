@@ -65,7 +65,7 @@ Southwark Council has [warned](http://www.southwarklabour.co.uk/latest-news/sout
 
 We have to agree, while also pointing out that Since 2011 the Council has had a [blanket policy](http://moderngov.southwark.gov.uk/documents/s19458/Report%20Review%20of%20Void%20Disposal%20Strategy.pdf) of selling off all void Council homes valued at £300k or above.  
 
-Since 2010 more than 1,500 council homes have been [sold or demolished](http://www.southwarknews.co.uk/news/just-65-council-homes-built-in-five-years/). [Here](http://crappistmartin.github.io) is a sample of a number of these sold since 2010 at auction. Southwark can argue that the proceeds of their sales go towards new council homes elsewhere in the borough, whereas the Government’s idea is that in future the money goes to the Treasury; nonetheless the practice leaves the Council exposed and opens an obvious door for the Tory government to walk through.
+Since 2010 more than 1,500 council homes have been [sold or demolished](http://www.southwarknews.co.uk/news/just-65-council-homes-built-in-five-years/). [Here](/auctions/) is a sample of a number of these sold since 2010 at auction. Southwark can argue that the proceeds of their sales go towards new council homes elsewhere in the borough, whereas the Government’s idea is that in future the money goes to the Treasury; nonetheless the practice leaves the Council exposed and opens an obvious door for the Tory government to walk through.
 
 Below are two of a number of council homes sold by Southwark under its voids policy at a [Savills auction](http://catalogue.auctions.savills.co.uk/london-national/Previous-Auctions/#&&s=1) last month.
 

@@ -11,7 +11,7 @@ This, combined with the Housing & Planning Bill that's being railroaded through 
 
 ![](http://crappistmartin.github.io/images/david-cameron_peter-john.jpg)
 
-Here in Southwark, we know how these estate regenerations - full of [promises](http://crappistmartin.github.io/affordable-housing/) of replacement 'social' housing and [rights to return](http://crappistmartin.github.io/blog/2013/06/08/the-heygate-diaspora/) - usually end up. The Heygate is the most notorious example, but it is just one of many:
+Here in Southwark, we know how these estate regenerations - full of [promises](/affordable-housing/) of replacement 'social' housing and [rights to return](/2013-06-08-the-heygate-diaspora/) - usually end up. The Heygate is the most notorious example, but it is just one of many:
 
 |   | Estate  | Council homes demolished  | Total new homes  | of which social rented  |
 |---|---|---|---|---|
@@ -28,14 +28,14 @@ Here in Southwark, we know how these estate regenerations - full of [promises](h
 That's a net loss of 4,275 social rented homes as a direct result of Southwark's regeneration schemes to date and the [GLA has predicted](https://www.london.gov.uk/press-releases/assembly/darren-johnson/loss-of-social-housing-through-estate-regeneration) that Southwark will lose 2,051 social rented homes as a result of schemes in its current pipeline (far more than any other borough). In addition, we can't even be sure that the replacement social rented housing provided isn't actually affordable rent or won't morph into it - see the [CPO Public Inquiry](https://youtu.be/x0CIUdfA-JU?t=4m12s), our [corporate complaint](http://crappistmartin.github.io/images/Corporate_Complaint_15_Dec_2015Final.pdf) and [this local news article](http://crappistmartin.github.io/images/SN_affordablerent.pdf) for evidence of this.
 
 ## Southwark's estate regeneration pipeline
-Despite widespread criticism, Southwark is [ploughing ahead](http://35percent.org/blog/2015/03/28/manifesto-for-destruction-of-council-estates/) with further regeneration plans, largely informed by a Savills ['Asset Performance Evaluation'](http://moderngov.southwark.gov.uk/documents/s55626/Appendix%204%20Savills%20Evaluation.pdf) undertaken last year (the assets being our council homes).
+Despite widespread criticism, Southwark is [ploughing ahead](/2015-03-28-manifesto-for-destruction-of-council-estates/) with further regeneration plans, largely informed by a Savills ['Asset Performance Evaluation'](http://moderngov.southwark.gov.uk/documents/s55626/Appendix%204%20Savills%20Evaluation.pdf) undertaken last year (the assets being our council homes).
 
 
 Savills's evaluation informed the Council's [Housing Asset Management Strategy](https://consultations.southwark.gov.uk/housing-community-services-department-community-engagement-team/asset-management-consultation/supporting_documents/Asset%20Management%20Strategy.pdf), which says that _"11.5% of the stock (4,167 units) has an NPV [Net Present Value] which is below zero"_. These negative value assets are located on a number of _'High Investment Needs Estates'_[^1] and Savills has recommended that in their case _"options be explored with residents as to whether a small scale redevelopment or regeneration scheme may deliver better outcomes than direct refurbishment."_[^2]
 
 ![](http://crappistmartin.github.io/images/hines.png)
 
-We [blogged](http://crappistmartin.github.io/blog/2015/12/20/heygate-sell-off-how-much-are-we-getting/) about this in December and noted that Savills is just as happy [selling off](http://crappistmartin.github.io/sold-by-southwark/) Southwark's high-value assets, as it is identifying those low-value assets that could be candidates for demolition. Savills also prepared the notorious [viability assessment](http://crappistmartin.github.io/collated-viability-assessments/) that [allowed](http://35percent.org/blog/2015/06/25/heygate-viability-assessment-finally-revealed/) Lend Lease to slash the social rented housing on [Elephant Park](http://www.elephantpark.co.uk) (the New Heygate) to just 82 social rented units. 
+We [blogged](/2015-12-20-heygate-sell-off-how-much-are-we-getting/) about this in December and noted that Savills is just as happy [selling off](http://crappistmartin.github.io/sold-by-southwark/) Southwark's high-value assets, as it is identifying those low-value assets that could be candidates for demolition. Savills also prepared the notorious [viability assessment](http://crappistmartin.github.io/collated-viability-assessments/) that [allowed](/2015-06-25-heygate-viability-assessment-finally-revealed/) Lend Lease to slash the social rented housing on [Elephant Park](http://www.elephantpark.co.uk) (the New Heygate) to just 82 social rented units. 
 
 ![](http://crappistmartin.github.io/images/savillsauction.jpg)
 

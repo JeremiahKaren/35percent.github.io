@@ -5,7 +5,7 @@ date: 2014-07-23 09:06
 comments: true
 categories: 
 ---
-Our [search](/blog/2014/07/19/community-infrastructure-levy/) to identify mystery Objector 1301 - who is lobbying for subsidies to knock down Southwark's council estates at next week's [CIL public inquiry](http://www.southwark.gov.uk/info/856/planning_policy/2696/community_infrastructure_levy) - has brought some clarity but also some more mystery with it.
+Our [search](/2014-07-19-community-infrastructure-levy/) to identify mystery Objector 1301 - who is lobbying for subsidies to knock down Southwark's council estates at next week's [CIL public inquiry](http://www.southwark.gov.uk/info/856/planning_policy/2696/community_infrastructure_levy) - has brought some clarity but also some more mystery with it.
 
 Having been pointed towards Southwark Council's [table of responses](http://www.southwark.gov.uk/download/downloads/id/10738/cdcil5_appendix_i_of_regulation_19_consultation_statement) to CIL objector representations, we noted that the Council's response to __Objector 1301__'s objection makes it fairly clear who the objector is, but it also raises some worrying questions about the Aylesbury redevelopment and the Council's plan for the future of some of its housing estates in general. 
 

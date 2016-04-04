@@ -5,7 +5,7 @@ date: 2014-03-31 07:32
 comments: true
 categories: 
 ---
-It was [announced](http://www.london-se1.co.uk/news/view/7460) earlier this month that the Elephant’s 360 tower is in line for yet more public funding. As mentioned in a [previous blog post](http://www.35percent.org/2013-08-10-towering-disgrace), the land for this private development was purchased with £18m of public money back in 2007 to provide key worker housing by English Partnerships, a public housing agency. This all fell through and the development was eventually awarded last summer to developers [Essential Living](http://www.essentialliving.uk.com/developments/360-london/) by Mayor Boris Johnson. The 360 Tower is now on the short-list for funding from the government's £1bn build-to-rent scheme, which is designed to help developers build large-scale housing developments specifically for private rent.  
+It was [announced](http://www.london-se1.co.uk/news/view/7460) earlier this month that the Elephant’s 360 tower is in line for yet more public funding. As mentioned in a [previous blog post](/2013-08-10-towering-disgrace), the land for this private development was purchased with £18m of public money back in 2007 to provide key worker housing by English Partnerships, a public housing agency. This all fell through and the development was eventually awarded last summer to developers [Essential Living](http://www.essentialliving.uk.com/developments/360-london/) by Mayor Boris Johnson. The 360 Tower is now on the short-list for funding from the government's £1bn build-to-rent scheme, which is designed to help developers build large-scale housing developments specifically for private rent.  
 
 ![](http://www.london-se1.co.uk/news/imageuploads/1299150006_80.177.117.97.jpg)
 

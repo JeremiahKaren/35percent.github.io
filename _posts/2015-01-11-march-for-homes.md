@@ -9,7 +9,7 @@ Just before Christmas Southwark Council issued a [press release](http://www.sout
 
 ![](http://www.insidehousing.co.uk/Pictures/web/y/z/m/New-Council-Homes-deliver_633.jpg)
 
-But as we showed in the [previous blog](http://crappistmartin.github.io/blog/2014/12/06/11000-new-private-and-social-council-homes-on-target/), this council-house building programme is not all it seems. For example, the 19 new homes planned on the East Dulwich estate (Gatebeck & Southdown House), will be offset by 50 council homes which are being sold off on other parts of the estate - a net loss of 31 council homes in total[^1].
+But as we showed in the [previous blog](/2014-12-06-11000-new-private-and-social-council-homes-on-target/), this council-house building programme is not all it seems. For example, the 19 new homes planned on the East Dulwich estate (Gatebeck & Southdown House), will be offset by 50 council homes which are being sold off on other parts of the estate - a net loss of 31 council homes in total[^1].
 
 Another site on the map, _Maydew House_ will also show a net loss once completed. This 24-storey block containing 144 council flats overlooking Southwark Park, has been decanted [(amidst protest)](https://www.facebook.com/pages/Save-Maydew-House/316012601837) after the council [declared](http://www.southwarknews.co.uk/00,news,20152,440,00.htm) the cost of repair _"difficult to justify"_. It is now being refurbished and 5 extra penthouse floors added to provide a total of 180 units, but only 74 will remain as council flats - a net loss of 70 council homes[^2]. The remaining 106 flats will all be sold off on the open market.
 
@@ -17,7 +17,7 @@ Another site on the map, _Maydew House_ will also show a net loss once completed
  
 Building council homes is a popular pledge and one that we unquestionably support – it’s the best, most economical way of providing decent housing to those who most need it - but we are reminded of [similar promises](http://crappistmartin.github.io/images/500newhomes.png) from the not-so-distant past that were used to mask over the loss of the Heygate estate’s 1200 council homes[^3].   
 
-When we [blogged in October](http://crappistmartin.github.io/blog/2014/10/04/lets-talk-about-peters-promises/) about concerns that the new homes would only be replacements for council homes  sold off or demolished,  council leader Peter John reassured everyone that there would be a net gain of 11,000 council homes; he said - 
+When we [blogged in October](/2014-10-04-lets-talk-about-peters-promises/) about concerns that the new homes would only be replacements for council homes  sold off or demolished,  council leader Peter John reassured everyone that there would be a net gain of 11,000 council homes; he said - 
 _“To be absolutely clear, the 11,000 new homes that we promise to deliver will be new homes additional to our existing stock. ……These are new homes and do not include the existing stock of council housing.”_  
 
 These latest findings show a different picture.  A council house building programme that depends upon ‘asset disposal’ and ‘estate renewal’ needs close scrutiny, if it is not going to end up leaving us with fewer council homes than we started with.
