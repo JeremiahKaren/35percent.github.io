@@ -14,7 +14,7 @@ The application for the First Development Site seeks permission to demolish the 
 The 204 social rented units lost on the first phase is a fraction of the total net loss from the Aylesbury regeneration as a whole.  The [Housing Statement](http://planningonline.southwark.gov.uk/DocsOnline/Documents/398988_1.pdf) for the outline application [(2,735 new homes - ref:14/AP/3844)](http://planningonline.southwark.gov.uk/AcolNetCGI.exe?ACTION=UNWRAP&RIPNAME=Root.PgeDocs&TheSystemkey=9557153) shows that the social rented housing provision will be reduced by over a third, with a net loss of 934 social rented homes across the estate once the regeneration is completed.
 
 
-###Target Rent = affordable rent or social rent?
+## Target Rent = affordable rent or social rent?
 
 The table in paragraph 5.11 of the [Housing Statement](http://planningonline.southwark.gov.uk/DocsOnline/Documents/398988_1.pdf), describes 'Estate Baseline' homes as 'Target and Affordable Rent' which they never were; they were council homes at council rents. Using 'target rent', 'affordable rent' and 'social rent' as if they are all the same thing confuses and misleads. What people really need to know is how much total rent will new-build tenants be paying, whatever the housing is called?
 

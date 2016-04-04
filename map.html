@@ -1,0 +1,207 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Frameset//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-frameset.dtd">
+
+<html>
+<head>
+ <title>Elephant & Castle Land Acquisition Map</title>
+    <meta charset="utf-8" />
+  <link rel="stylesheet" href="http://leafletjs.com/dist/leaflet.css">
+  <script src="http://cdn.leafletjs.com/leaflet-0.7/leaflet.js"></script>
+  <script src="http://crappistmartin.github.io/javascripts/OSMBuildings-Leaflet.js"></script>
+
+
+
+
+</head>
+<body>
+
+<div id="map" style="width: 1500px; height: 1000px"></div>
+<script>
+var map = new L.Map('map').setView([51.49178, -0.09154], 16);
+new L.TileLayer('http://{s}.tiles.mapbox.com/v3/enrico-in-w.ka4k56fp/{z}/{x}/{y}.png',
+  { attribution: 'Map tiles &copy; <a href="http://mapbox.com">MapBox</a>', maxZoom: 17 }).addTo(map);
+
+
+
+
+
+
+L.polygon([
+			[51.49104, -0.09749],
+			[51.49197, -0.09804],
+			[51.49304, -0.09875],
+			[51.49381, -0.09835],
+			[51.4937, -0.09779],
+			[51.49462, -0.09734],
+			[51.4941, -0.09469],
+			[51.49407, -0.09419],
+			[51.49287, -0.0938],
+			[51.49245, -0.09326],
+			[51.49286, -0.09154],
+			[51.49162, -0.09068],
+			[51.49187, -0.092],
+			[51.49197, -0.09227],
+			[51.49168, -0.09348],
+			[51.492, -0.09369],
+			[51.49179, -0.09437],
+			[51.49196, -0.0946],
+			[51.4913, -0.09638]
+
+
+		]).addTo(map).bindPopup('<img src="http://www.urban75.org/blog/wp-content/uploads/2013/04/heygate-estate-sold-off-1.jpg" width="100"></br><a href="http://en.wikipedia.org/wiki/Heygate_Estate">Heygate estate</a> site</br>25 acres sold for £50m</br>(council sale to Lend Lease)</br><a href="http://southwarknotes.files.wordpress.com/2013/02/ra.pdf" target="_blank">Legal agreement</a>').openPopup();
+
+
+L.polygon([
+			
+			[51.49381, -0.09835],
+			[51.4937, -0.09779],
+			[51.49462, -0.09734],
+			[51.49479, -0.0981]
+
+
+		], {color: '#FF0000'}).addTo(map).bindPopup('<img src="http://www.elephantandcastle.org.uk/files/135.img.jpg?20140331084432" width="100"></br><a href="http://www.london-se1.co.uk/news/view/7208">Tribeca Square</a></br>1.5 acres sold for £40m</br>(open market sale)</br><a href="http://crappistmartin.github.io/images/LandRegistry_TribecaSquare.pdf" target="_blank">Land Registry details</a>');
+
+
+L.polygon([
+			
+			
+			[51.49325, -0.10196],
+			
+			[51.49329, -0.10096],
+			[51.49386, -0.10098],
+			[51.49377, -0.10202]
+			
+
+
+		]).addTo(map).bindPopup('<center><img src="http://www.london-se1.co.uk/news/imageuploads/1354551143_80.177.117.97.jpg" width="100"></br></center><a href="http://www.london-se1.co.uk/news/view/6463">"One the Elephant"</a> site</br>1.4 acres sold for £6.5m</br>(council sale to Lend Lease)</br><a href="http://crappistmartin.github.io/images/LandRegistry_OneTheElephant.pdf" target="_blank">Land Registry details</a>');
+
+
+L.polygon([
+			
+			[51.49461, -0.10018],
+			[51.49415, -0.10014],
+			[51.49415, -0.10033],
+			[51.494, -0.10032],
+                        [51.49399, -0.10012],
+			[51.49374, -0.1001],
+			[51.49375, -0.09978],
+			[51.4935, -0.09977],
+			[51.49352, -0.0991],
+			[51.49428, -0.09915],
+			[51.49431, -0.09889],
+			[51.49468, -0.09872],
+			[51.4947, -0.09887],
+			[51.4949, -0.09877],
+			[51.49493, -0.09893],
+			[51.49484, -0.09919],
+			[51.49482, -0.09997],
+			[51.49462, -0.09995]
+
+
+		], {color: '#FF0000'}).addTo(map).bindPopup('<img src="http://www.london-se1.co.uk/news/imageuploads/1255443526_80.177.117.97.jpg" width="130"></br><a href="http://www.london-se1.co.uk/news/view/7258">E&C Shopping Centre</a></br>3.5 acres sold for £80m</br>(open market sale)</br><a href="http://crappistmartin.github.io/images/LandRegistryShoppingCentre.pdf" target="_blank">Land Registry details</a>');
+
+
+L.polygon([
+			
+			[51.49712, -0.09945],
+			[51.49756, -0.10004],
+			[51.49701, -0.10009],
+			[51.49679, -0.09976]
+
+
+		], {color: '#FF0000'}).addTo(map).bindPopup('<img src="http://www.skyscrapernews.com/images/pics/5570EileenHouse_pic1.jpg" width="130"></br><a href="http://oakmayneproperties.com/oakmayne-properties/portfolio/eileen-house/">Eileen House</a> site</br>0.51 acres sold for £38m</br>(open market sale)</br><a href="http://crappistmartin.github.io/images/LandRegistry_EileenHouse.pdf" target="_blank">Land Registry details</a>');
+
+
+
+
+
+
+
+
+
+
+
+
+new OSMBuildings(map).setData(onetheelephant).setDate(new Date(2013, 03, 01, 17, 30));
+
+var info = L.control();
+
+	info.onAdd = function (map) {
+		this._div = L.DomUtil.create('div', 'info');
+		this.update();
+		return this._div;
+};
+
+info.update = function (props) {
+	this._div.innerHTML = '<h4>US Population Density</h4>' +  (props ?
+				'<b>' + props.name + '</b><br />' + props.density + ' people / mi<sup>2</sup>'
+				: 'Hover over a state');
+};
+
+info;
+
+
+
+function style(feature) {
+			return {
+				weight: 2,
+				opacity: 1,
+				color: 'white',
+				dashArray: '3',
+				fillOpacity: 0.7,
+				fillColor: 'black'
+	};
+}
+
+function highlightFeature(e) {
+    var layer = e.target;
+
+    layer.setStyle({
+        weight: 10,
+        color: '#4D4DFF',
+        dashArray: '',
+        fillOpacity: 0.7
+    });
+
+    if (!L.Browser.ie && !L.Browser.opera) {
+        layer.bringToFront();
+    }
+
+info.update(layer.feature.properties);
+
+}
+
+var geojson;
+
+function resetHighlight(e) {
+    geojson.resetStyle(e.target);
+    info.update();
+}
+
+function zoomToFeature(e) {
+    map.fitBounds(e.target.getBounds());
+}
+
+function onEachFeature(feature, layer) {
+    layer.on({
+        mouseover: highlightFeature,
+        mouseout: resetHighlight,
+        click: zoomToFeature
+    });
+}
+
+geojson = L.geoJson(onetheelephant, {
+    style: style,
+    onEachFeature: onEachFeature
+});
+
+
+
+
+
+
+
+
+
+</script>
+</body>
+</html>

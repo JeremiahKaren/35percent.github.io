@@ -29,10 +29,10 @@ Our findings also formed the basis for [our response](http://crappistmartin.gith
 
 
 
-##FOI Tribunal update
+## FOI Tribunal update
 For those who have been following our FOI appeal updates and are wondering what the Informaton Tribunal's decision on the appeal is, the good news is that there are only 10 more days to wait. The decision was originally delayed due to the judge's ill-health but is now due to be announced on 25th April - watch this space! 
 
 
 __Footnotes:__
 
-[^1]: Note that our list does not include the Newington Triangle or shopping centre developments (totalling approx 1,500 more homes) - for which there are no planning applications yet submitted, but which have been rumoured not to foresee the inclusion of any social rented homes. </p></font>
+[^1]: Note that our list does not include the Newington Triangle or shopping centre developments (totalling approx 1,500 more homes) - for which there are no planning applications yet submitted, but which have been rumoured not to foresee the inclusion of any social rented homes.
