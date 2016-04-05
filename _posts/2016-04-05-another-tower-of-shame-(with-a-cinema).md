@@ -2,6 +2,10 @@
 
 
 ---
+
+
+
+
 The latest large [planning application](http://planbuild.southwark.gov.uk/documents/?casereference=15/AP/5125&system=DC) at the Elephant will provide zero affordable housing and zero social rented housing.  It is for Skipton House, behind the Bakerloo line tube entrance and it joins Eileen House, Strata Tower, Tribeca Square (Elephant One), 360 Tower  and One the Elephant in the ongoing efforts to turn the Elephant into a [social housing free zone](http://35percent.org/2014-04-15-the-elephants-new-ivory-towers/).
 
  ![enter image description here](http://www.constructionenquirer.com/wp-content/uploads/Screen-Shot-2015-10-06-at-11.00.45-600x414.png)
