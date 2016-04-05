@@ -405,6 +405,16 @@ subtitle: Summary of regeneration schemes
 </br>
 </article>
 
+<article class="post-preview">
+  
+<h1><a href="/skipton-house/">Skipton House</a></h1>
+
+<img src="http://www.constructionenquirer.com/wp-content/uploads/Screen-Shot-2015-10-06-at-11.00.45-600x414.png" width="100" align="left">
+</br></br></br>
+</br>
+</br>
+</article>
+
 </div>
 
 

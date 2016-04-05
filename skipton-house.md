@@ -1,12 +1,12 @@
 ---
-
-layout: post
-published: true
-
+layout: page
+title: "Skipton House"
+sharing: true
+footer: true
 ---
 The latest large [planning application](http://planbuild.southwark.gov.uk/documents/?casereference=15/AP/5125&system=DC) at the Elephant will provide zero affordable housing and zero social rented housing.  It is for Skipton House, behind the Bakerloo line tube entrance and it joins [Eileen House](/eileen-house), [Strata Tower](/strata-tower), [Tribeca Square](/tribeca-square), [360 Tower](/london-360-tower)  and [One the Elephant](/one-the-elephant) in the ongoing efforts to turn the Elephant into a [social housing free zone](http://35percent.org/2014-04-15-the-elephants-new-ivory-towers/).
 
- ![enter image description here](http://www.constructionenquirer.com/wp-content/uploads/Screen-Shot-2015-10-06-at-11.00.45-600x414.png)
+![Skipton House CGI](http://www.constructionenquirer.com/wp-content/uploads/Screen-Shot-2015-10-06-at-11.00.45-600x414.png)
 The application is for 50,000 sq metres of offices, shops and 421 housing units.  An art house cinema is also proposed, as part of the ‘cultural offering’.   Developer London and Regional Properties (L&R) obviously believe this will compensate for not providing homes that anybody can actually afford to live in.  They say that  *‘The level of affordable housing that could be delivered in conjunction with the Development, and its cultural offer, will be determined through discussions with Southwark Council and the submission and appraisal of a Financial Viability Assessment’* [(Draft S106 Heads of Terms)]( http://planbuild.southwark.gov.uk/documents/?GetDocument=%7B%7B%7B!Q9j4UyN6s%2bjF93cJuCmxyg==!%7D%7D%7D%29) .
    
 This is very gracious of L&R, but ignores the well-known requirement for 35% affordable housing, half of which should be social rented [(Core Strategy Policy 6)]( http://www.southwark.gov.uk/download/downloads/id/5823/adopted_core_strategy).  This would give us about 147 affordable units, 70 of which would be social rented.
@@ -18,9 +18,3 @@ L&R support their argument by claiming that the development is one of *‘except
 L&R have produced a viability appraisal to justify themselves, but despite the imminent [adoption  of a policy](http://35percent.org/) that would make these public, a request by 35% campaign for the appraisal has not been met.  
 
 All-in-all, the Skipton House application is a nice example of how a selfish developer (the only kind?) can design affordable housing out of a development and  use ‘culture’, something that might bind a community together, to do the opposite and exclude those who just aren’t rich enough.
-
-
-
-
-
-
