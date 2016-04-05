@@ -15,7 +15,7 @@ L&R pre-empt the outcome of the  Financial Viability Assessment by stating in th
 
 L&R support their argument by claiming that the development is one of *‘exceptional circumstances’*.  This boils down to giving priority to building office space.  L&R also trot out the well-worn argument that providing affordable housing means building a separate core (providing what's become known as 'poor doors') which in turn would  *'reduce the efficiency of the Development and ultimately the overall viability.'*  If this is not sufficient to convince Southwark to give up hope of any on-site affordable housing L&R adds another developer favourite, that *'the proposed strategy for the inclusion of the large communal residential terrace......would also need to be reflected in service charges for any affordable rented units'* (Quotes from [Planning Statement]( http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!rD%2bXXQJ%2bzV9QuBQgqt9pRw%3d%3d!%7d%7d%7d)).
 
-L&R have produced a viability appraisal to justify themselves, but despite the imminent [adoption  of a policy](http://35percent.org/) that would make these public, a request by 35% campaign for the appraisal has not been met.  
+L&R have produced a viability appraisal to justify themselves, but despite the imminent [adoption  of a policy](http://35percent.org/2016-03-19-lend-lease-says-jump-southwark-jumps/) that would make these public, a request by 35% campaign for the appraisal has not been met.  
 
 All-in-all, the Skipton House application is a nice example of how a selfish developer (the only kind?) can design affordable housing out of a development and  use ‘culture’, something that might bind a community together, to do the opposite and exclude those who just aren’t rich enough.
 
