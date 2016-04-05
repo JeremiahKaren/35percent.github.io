@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Ten facts about Strata Tower"
+title: "Strata Tower"
 sharing: true
 footer: true
 ---
@@ -8,7 +8,7 @@ footer: true
 
 Strata Tower was built on the former council-owned site of 'Castle House', a mixed-use building leased to Southbank University with active frontages including a chinese restaurant, an acquatics store, an italian pizzeria (Castello's) and a Snooker Hall (which later became a Latin American bar/restaurant). Castle House was built in the sixties at the same time as the neighbouring 25-storey Draper House.  
 
-The council [sold](http://crappistmartin.github.io/images/RegisterTGL251176.pdf) Castle House in January 2005 to a shell company based in the Isle of Man for £8m. The shell company was set up by Oakmayne properties, a subsidiary of the [controversial Delancey DV4 real estate fund](http://crappistmartin.github.io/images/PrivateEye_DV4Delancey.pdf), which is also developing the [Tribeca Square](http://crappistmartin.github.io/tribeca-square), [Eileen House](http://crappistmartin.github.io/blog/2013/10/23/oakmayne-vs-ministry-of-sound-round-198/) and E&C shopping centre sites. The development has since changed hands and the freehold of the building is currently owned by the [Aviva real estate investment fund](http://www.avivainvestors.co.uk/asset_classes/real_estate/index.htm). 
+The council [sold](http://crappistmartin.github.io/images/RegisterTGL251176.pdf) Castle House in January 2005 to a shell company based in the Isle of Man for £8m. The shell company happened to be registered at the same address as the shell company that was first registered by Oakmayne properties, which was later associated with the [controversial Delancey DV4 real estate fund](http://crappistmartin.github.io/images/PrivateEye_DV4Delancey.pdf), which is also developing the [Tribeca Square](http://crappistmartin.github.io/tribeca-square), the E&C shopping centre and which had links with the original developers of Eileen House. The freehold of the Strata Tower has since changed hands and is currently owned by the [Aviva real estate investment fund](http://www.avivainvestors.co.uk/asset_classes/real_estate/index.htm). 
 
 The Strata Tower is 148-metres (486 ft) tall, it has 43-storeys comprising 408 flats and was designed by Architects BFLS (formerly Hamiltons).
 

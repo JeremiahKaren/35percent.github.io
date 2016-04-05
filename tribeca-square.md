@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Delancey's Tribeca Square (Elephant Rd Development)"
+title: "Tribeca Square"
 sharing: true
 footer: true
 ---
