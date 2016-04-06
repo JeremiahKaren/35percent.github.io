@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Manx Connections - the offshore home of the Elephant’s developers"
+title: "The offshore home of the Elephant’s developers"
 date: 2014-05-05 07:02
 comments: true
 categories: 
