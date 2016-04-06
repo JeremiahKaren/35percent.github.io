@@ -45,7 +45,7 @@ So it comes as no surprise to learn that Savills are the brains behind David Cam
 
 The report also uses the Nelson/Portland estate on East Street in Walworth as one of 6 case study sites to expound its ideas (Site C). Two other estates identified by the 35% Campaign are the Glyndon estate in Woolwich (Site B) and the Ampthill Square estate in Camden (Site A). The estates are not easily identified in the report, they are not named and have been disguised by flipping and rotating their layout plans.
 
-![](http://35percent.org/images/completing-londons-streets.png)
+![](http://crappistmartin.github.io/images/completing-londons-streets.png)
 
 Below Savills explains that their case study estates _"do not represent any current, existing or proposed scheme"_, so the residents of Nelson/Portland, Glyndon and Ampthill Square estates can rest easy in their beds...
 
@@ -73,4 +73,4 @@ __Footnotes:__
 <meta name="twitter:card" content="summary" />
 <meta name="twitter:title" content="Completing London's Clearances" />
 <meta name="twitter:description" content="Savills advises David Cameron and Peter John how to clear London's council estates." />
-<meta name="twitter:image" content="http://35percent.org/images/david-cameron_peter-john.jpg" />
+<meta name="twitter:image" content="http://crappistmartin.github.io/images/david-cameron_peter-john.jpg" />

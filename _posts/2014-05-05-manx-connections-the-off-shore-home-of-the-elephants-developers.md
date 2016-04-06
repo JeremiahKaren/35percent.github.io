@@ -5,14 +5,14 @@ date: 2014-05-05 07:02
 comments: true
 categories: 
 ---
-![](http://2.bp.blogspot.com/_L6aHVhWUwKM/TS4-T_x7t1I/AAAAAAAABHQ/Epmn6q55hcY/s1600/Isle_of_Man1.png)
-Further research as a follow-up to our [previous blog post](/2014-04-15-the-elephants-new-ivory-towers/) has uncovered some unexpected connections between the Elephant & Castle and the Isle of Man. The Isle is infamous for two unsavoury practices – [offshore banking](http://www.theguardian.com/uk/datablog/2013/apr/03/uk-companies-controlled-offshore) and [corporal punishment](http://www.corpun.com/manx.htm).  Corporal punishment ceased in 1981, but offshore banking remains popular, as does incorporating companies offshore to cane the backside of the British tax authorities.  We have several guilty parties at the Elephant and they include the developers of;  
+![](/img/taxhaven.jpg)
+Further research as a follow-up to our [previous blog post](/2014-04-15-the-elephants-new-ivory-towers/) has uncovered some unexpected connections between the Elephant & Castle and offshore tax havens. These are outlined as follows:
 
-1. Strata Tower was developed and owned by a SPV(Special Purpose Vehicle) company [registered](http://crappistmartin.github.io/images/RegisterTGL251176.pdf) on the Isle of Man. Some of the penthouses are also [registered](http://crappistmartin.github.io/images/StrataPenthouseLRRegister.pdf) to a SPV holding company on the Isle of Man.  
+1. First and foremost, are the [Tribeca Square](/tribeca-square) and [shopping centre](/shopping-centre) developers Delancey DV4, whose dodgy offshore tax avoidance schemes are [well reported](http://crappistmartin.github.io/images/PrivateEyeNo1311.pdf). Delancey has registered its shopping centre site using a shell company (Elephant & Castle Properties (BVI)) set up in the British Virgin Islands. Likewise, its neighbouring Tribeca Square development is [registered](http://crappistmartin.github.io/images/LandRegistry_TribecaSquare.pdf) in the British Virgin Islands.
 
-2. [Tribeca Square](http://www.london-se1.co.uk/news/view/7208) site sold to a [company](http://crappistmartin.github.io/images/TribecaLR.pdf) based on the Isle of Man.
+2. Strata Tower was developed and owned by a SPV(Special Purpose Vehicle) company [registered](http://crappistmartin.github.io/images/RegisterTGL251176.pdf) on the Isle of Man. Some of the penthouses are also [registered](http://crappistmartin.github.io/images/StrataPenthouseLRRegister.pdf) to a SPV holding company on the Isle of Man and an offshore company called 'Gamma Civic', which is [registered](/img/LRegister_strata_penthouse.pdf) in Mauritius. 
 
-3. Eileen house is developed by a [company](https://opencorporates.com/companies/im/113350C) based on the Isle of Man and which also [helps its customers](http://www.theguardian.com/uk/2012/dec/16/london-property-tax-avoidance-offshore) avoid stamp duty by setting up SPV's on the Isle to buy the finished flats.
+3. Eileen house is being developed by a [company](https://opencorporates.com/companies/im/113350C) based on the Isle of Man and which also [helps its customers](http://www.theguardian.com/uk/2012/dec/16/london-property-tax-avoidance-offshore) avoid stamp duty by setting up SPV's on the Isle to buy the finished flats.
 
 Heygate developer Lend Lease's global corporate structure is too complex for us to see whether it shares its fellow developer's fondness of offshore companies. However, we have found that its development arm - Lend Lease Residential PLC [doesn't pay](http://crappistmartin.github.io/images/lendleasefinancialreport.pdf) a penny in UK corporation tax. 
 
@@ -32,16 +32,9 @@ Also, there is no reference to the National Rent Regime in site 7's legal agreem
 
 ![](http://crappistmartin.github.io/images/heygates106SR.png)
 
-So the worry is – what will the rent be for the new social housing?  A social rent in the Aylesbury’s SE17 area is currently about £115 pw for a 2-bed flat; on the other hand one of  Mr Johnson’s ‘affordable rents would be way beyond this at around £240pw if it were at 80% of market rent.
+So the worry is – what will the rent be for the new social housing?  A social rent in the Aylesbury’s SE17 area is currently about £115 pw for a 2-bed flat; on the other hand one of Mayor Johnson’s ‘affordable rents would be way beyond this at around £350pw if it were at 80% of market rent.
 
-## FOI appeal update
-Apologies to those who have been following this appeal and were expecting a decision from the Information Tribunal last week. Unfortunately the decision has been delayed once again and is not now expected to be released until the end of May. We will keep you informed as and when we manage to find out more details on this. 
 
-## Is there a doctor in the house?
-<img src="http://crappistmartin.github.io/images/doctor.jpg" align="left" width="250" style="margin:10px">Regenerations provide homes, jobs, new trees etc but a serious side effect can be self-delusion; symptoms include a tendency to ignore or mangle the facts and wishful thinking.  It can strike anyone after long exposure to the regeneration industry, but those most at risk include councillors, council officers and, unfortunately, architects.
-A recent sad case has just come to our attention.  It concerns a Mr P, senior architect and masterplanner of the New Heygate.  The symptoms of his condition are manifested by confusion over numbers, a hazy recollection of past events and an inability to appreciate the effects of his actions on others.
-Mr P’s delusions (see here – [http://youtu.be/a-W6wwVj5dA](http://youtu.be/a-W6wwVj5dA) and [http://youtu.be/vyQyt0T1Iho](http://youtu.be/vyQyt0T1Iho)) include the belief that only 800 people were forced of the Heygate estate to make way for his masterplan (it was nearer 3000); that they all moved into new homes on early housing sites (they didn’t because none had been built), that 83% of them agreed to this ‘through the democratic process’ (they didn’t, because here was never any ballot, still usual in democracies); that they can even now return to the New Heygate (they can’t, because Mr P’s new homes  will be too expensive, whether you’re an ex-tenant or ex-leaseholder).
-Unfortunately facts are seldom a cure in such serious cases, but these may prevent Mr P’s condition becoming contagious, and we nonetheless remain hopeful for his speedy recovery.
 
 
 
