@@ -37,3 +37,5 @@ Tenants and leaseholders are currently being 'decanted' i.e. [evicted](https://h
 
 
 ![](http://crappistmartin.github.io/images/elmingtondemolition.jpg)
+
+[Land Registry deeds](/img/ElmingtonLR.pdf) show that the Council is selling off the elmington estate in parcels to Notting Hill for just £1.

@@ -68,10 +68,10 @@ mailchimp:
 
 
 # Fill in your Disqus shortname (NOT the userid) if you want to support Disqus comments
-disqus: "35percent.org"
+disqus: "35percent"
 
 # Fill in your Google Analytics ID to track your website using GA
-#google_analytics: ""
+google_analytics: "UA-12805041-5 "
 
 # --- Don't need to touch anything below here (but you can if you want) --- #
 

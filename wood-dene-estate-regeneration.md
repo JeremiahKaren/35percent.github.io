@@ -24,7 +24,7 @@ Despite being approved in 2013, the development is still under construction and 
 
 ![](http://crappistmartin.github.io/images/wooddeneplan.jpg)
 
-[Land Registry deeds](http://crappistmartin.github.io/images/LRegisterWoodDene.pdf) show that the Council sold the entire Wood Dene site to Notting Hill for just £7m.
+[Land Registry deeds](http://crappistmartin.github.io/images/LRegisterWoodDene.pdf) show that the Council sold the entire Wood Dene site to Notting Hill for just £7m. The [Regeneration Agreement](/img/RAWooddene.pdf) with Notting Hill provides for an 'overage' payment should the development turn out more profitable than expected.
 
 ![](http://crappistmartin.github.io/images/wooddeneplan.jpg)
 
