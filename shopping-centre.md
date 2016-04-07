@@ -29,8 +29,9 @@ Another question is whether Southwark and Delancey will take into consideration 
 
 ![](http://crappistmartin.github.io/images/coronet_cinema.jpg)
 
+Delancey has subsequently struck a deal with the London College of Communication to redevelop its site in conjunction with the shopping centre site. This extends Delancey's landholdings considerably and leaves most of the Elephant & Castle's land holdings in the hands of a tax-evading property tycoon.
 
-
+![Delancey's Elephant & Castle holdings](http://crappistmartin.github.io/images/eandcmap.png)
 
 
 
