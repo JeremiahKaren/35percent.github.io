@@ -8,7 +8,9 @@ categories:
 ![](/img/taxhaven.jpg)
 Further research as a follow-up to our [previous blog post](/2014-04-15-the-elephants-new-ivory-towers/) has uncovered some unexpected connections between the Elephant & Castle and offshore tax havens. These are outlined as follows:
 
-1. First and foremost, are the [Tribeca Square](/tribeca-square) and [shopping centre](/shopping-centre) developers Delancey DV4, whose dodgy offshore tax avoidance schemes are [well reported](http://crappistmartin.github.io/images/PrivateEyeNo1311.pdf). Delancey has registered its shopping centre site using a shell company (Elephant & Castle Properties (BVI)) set up in the British Virgin Islands. Likewise, its neighbouring Tribeca Square development is [registered](http://crappistmartin.github.io/images/LandRegistry_TribecaSquare.pdf) in the British Virgin Islands.
+1. First and foremost, are the [Tribeca Square](/tribeca-square) and [shopping centre](/shopping-centre) developers Delancey DV4, whose dodgy offshore tax avoidance schemes are [well reported](http://crappistmartin.github.io/images/PrivateEyeNo1311.pdf). Delancey has registered its shopping centre site using a shell company (Elephant & Castle Properties (BVI)) set up in the British Virgin Islands. Likewise, its neighbouring Tribeca Square development is [registered](http://crappistmartin.github.io/images/LandRegistry_TribecaSquare.pdf) in the British Virgin Islands. Delancey is also now reported to be developing the LCC site, which well end up putting half the Elephant & Castle into the hands of a BVI based company that pays zero UK tax.
+
+![Delancey's land holdings at Elephant & Castle](http://crappistmartin.github.io/images/eandcmap.png) 
 
 2. Strata Tower was developed and owned by a SPV(Special Purpose Vehicle) company [registered](http://crappistmartin.github.io/images/RegisterTGL251176.pdf) on the Isle of Man. Some of the penthouses are also [registered](http://crappistmartin.github.io/images/StrataPenthouseLRRegister.pdf) to a SPV holding company on the Isle of Man and an offshore company called 'Gamma Civic', which is [registered](/img/LRegister_strata_penthouse.pdf) in Mauritius. 
 
