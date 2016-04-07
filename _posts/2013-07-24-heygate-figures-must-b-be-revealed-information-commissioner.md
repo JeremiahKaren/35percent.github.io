@@ -5,13 +5,13 @@ date: 2013-07-24 20:03
 comments: true
 categories: 
 ---
-<img src="http://evacpack.co.uk/ICO.jpg" width="300" align="right" style="margin:10px">Southwark Council has been ordered to disclose the financial viability assessment provided by developer Lend Lease to secure the approval of its Heygate masterplan application. This assessment justified the reduction in the affordable housing requirement from 35% to 25% and the reduction of social rented housing to just 71 units.
+Southwark Council has been ordered to disclose the financial viability assessment provided by developer Lend Lease to secure the approval of its Heygate masterplan application. This assessment justified the reduction in the affordable housing requirement from 35% to 25% and the reduction of social rented housing to just 71 units.
 
 A [Freedom of Information request](https://www.whatdotheyknow.com/request/viability_assessment_for_plannin#incoming-304798) for the viability assessment was rejected by Southwark Council, but the council's decision has now been overturned by the Information Commissioner who has given Southwark 35 days to produce the assessment. 
 
 The [Commissioner's report](http://betterelephant.org/images/HeygateFOICommissionersReport.pdf) is a closely argued and detailed 35-page document. It draws upon previous decisions made both by the Commissioner and the Information Tribunal to come to its conclusions.
 
-![](![](http://crappistmartin.github.io/images/HeygateFOICommissionersReport.png))
+![](http://crappistmartin.github.io/images/HeygateFOICommissionersReport.png)
 
 The Commissioner's judgement was that there was a _"very significant weighting in favour of disclosing the information"_[^1], and that _"The public interest in disclosing the information outweighs the public interest in maintaining the exception."_[^2] i.e. keeping the information confidential. The Commissioner acknowledged that disclosing the information was detrimental to Lend Lease's commercial interests, but did not think that Southwark Council's own commercial interests were relevant. He also acknowledged that Lend Lease were entitled to confidentiality, but thought that the greater public interest was served by the disclosure. Additional factors that gave increased weight to his argument included _"any perception that an authority might not be acting in accordance with its own policies"_.[^3] In addition he cited[^4]:
 
@@ -24,7 +24,7 @@ The Commissioner's judgement was that there was a _"very significant weighting i
 ## TRANSPARENCY AND ACCOUNTABILITY
 The Commissioner refers several times to the high level of public interest in the development:
 
->In relation to the general public interest in transparency and accountability, the Commissioner’s general view is that, where this relates to planning matters, there is a strong weighting in favour of encouraging public participation and disclosure is a means of promoting this. __(Information Commissioner's Report, paragraph 167)__
+>"In relation to the general public interest in transparency and accountability, the Commissioner’s general view is that, where this relates to planning matters, there is a strong weighting in favour of encouraging public participation and disclosure is a means of promoting this." __(Information Commissioner's Report, paragraph 167)__
 
 He notes the press and television attention that the development has received, and considers that the focus of public debate and concern has been on the levels of affordable housing provision delivered by the scheme. Disclosure of the viabilty assessment would inform this debate and reassure the public that the council's decision to allow Lend Lease’s proposals to proceed were based on a correct analysis of the facts presented.
 

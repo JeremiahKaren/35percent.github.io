@@ -5,11 +5,9 @@ date: 2013-06-22 12:05
 comments: true
 categories: 
 ---
-![](http://www.artslondonnews.com/wp-content/uploads/2013/04/DSCN7813.jpg)
-
 Six months after the appearance of 48 large shipping containers on the forecourt of the former Shell garage on the Walworth rd by the Heygate estate, a planning application for their uses has finally appeared. It has been submitted by 'Artworks', who were chosen to provide interim uses on the Heygate site during the period of its redevelopment. The model for the boxpark is a scheme in Shoreditch. The proposal is for studios, bars, business/workspace, retail, markets, cafe/restaurant, gallery, community, and 'stay-work' uses for a maximum 5 year period.
 
-![](http://notesonallure.com/wp-content/uploads/2012/01/IMG_4547.jpg)
+![](http://www.elephantandcastle.org.uk/files/251.img.jpg?20140331085433)
 
 The application is generating a lot of interest while raising a lot of questions. Artworks say that it will generate job and education opportunities while helping to animate that part of the Walworth road. However, local people are concerned of what the impact will be on what is also a residential area. There are also doubts about the feasibility of the proposals: the application says that the rents will start at £50 per week, but we know from the marketing information reproduced below that the full cost of a 'live-work' container is £200 per week plus bills.
 
@@ -33,10 +31,10 @@ Artworks may have just got their application in but they are not wasting any tim
 
 __Footnotes:__
 
-[^1] "At least 40sqm of useable work space (B1 Use Class) must be separately defined within the unit" - Saved Southwark 
+[^1]: "At least 40sqm of useable work space (B1 Use Class) must be separately defined within the unit" - Saved Southwark 
 Plan Policy 1.6 
 
-[^2] 13/AP/1224 <a href="http://planningonline.southwark.gov.uk/DocsOnline/Documents/299967_1.pdf">Planning Statement Addendum.
+[^2]: 13/AP/1224 <a href="http://planningonline.southwark.gov.uk/DocsOnline/Documents/299967_1.pdf">Planning Statement Addendum.
 
-[^3] 13/AP/1224 <a href="http://planningonline.southwark.gov.uk/DocsOnline/Documents/299966_1.pdf">Planning Statement - Para 2.1.4.
+[^3]: 13/AP/1224 <a href="http://planningonline.southwark.gov.uk/DocsOnline/Documents/299966_1.pdf">Planning Statement - Para 2.1.4.
 
