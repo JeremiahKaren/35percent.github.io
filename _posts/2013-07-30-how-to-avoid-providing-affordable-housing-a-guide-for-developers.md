@@ -2,6 +2,7 @@
 layout: post
 title: "How to avoid providing affordable housing - a guide for developers"
 date: 2013-07-30 18:27
+redirect_from: /blog/2013/07/30/how-to-avoid-providing-affordable-housing-a-guide-for-developers/
 comments: true
 categories: [viability assessments]
 ---
@@ -10,12 +11,10 @@ Since our [last blog post](/2013-07-24-heygate-figures-must-b-be-revealed-inform
 
 As can be imagined, nearly all developers opt to submit a ‘financial viability assessment’.  
 
-In planning terms affordable housing is known as a section 106 obligation, and producing viability reports for developers is big business. These companies all provide the service:
+In planning terms affordable housing is known as a section 106 obligation, and producing viability reports for developers is big business.
 
-[Jones Lang Lasalle](http://residential.joneslanglasalle.co.uk/residential-services/consultancy-services/affordable-housing.aspx)  -   <a href="http://www.hamptons.co.uk/land-and-new-homes/developer-services/viability,-affordability,-housing-section-106-(1)/">Hamptons</a>  -   [Wilkinson Grant](http://www.wilkinsongrant.co.uk/land-a-development/confidential-property-register)  - 
-[Savills](http://www.savills.co.uk/services/planning-and-development/planning/planning-policy/development-viability.aspx)
 
-For between £1,000 - £3,000 ['S106 Management Ltd'](http://www.s106management.co.uk/) will produce a viability report that reduces or eliminates your affordable housing obligation. You can then take a holiday with the money that you have saved or pile it into your wheelbarrow as their website illustrates:
+Companies like Savills offer a [premium service](http://www.savills.co.uk/services/planning-and-development/planning.aspx), but for between £1,000 - £3,000 ['S106 Management Ltd'](http://www.s106management.co.uk/) will produce a viability report that reduces or eliminates your affordable housing obligation. You can then take a holiday with the money that you have saved or pile it into your wheelbarrow as their website illustrates:
 
 ![](http://crappistmartin.github.io/images/s106management2.jpg)
 
