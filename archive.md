@@ -24,7 +24,7 @@ title: Blog Archive
 <h2>Categories</h2>
 <ul>
 {% for category in site.categories %}
-  <li><h3><a name="{{ category | first }}">{{ category | first }}</a></h3>
+  <li><h3>{{ category | first }}">{{ category | first }}</h3>
     <ul>
     {% for posts in category %}
       {% for post in posts %}
