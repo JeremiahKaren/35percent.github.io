@@ -3,7 +3,7 @@ layout: post
 title: "Will the Planning Committee see sense?"
 date: 2013-01-13 16:50
 comments: true
-categories: 
+categories: [Heygate regeneration] 
 ---
 Weak finances, minimal social rented housing, a privatised public realm, vague energy proposals, environmentally suspect  and  car-friendly – the masterplan application for the regeneration of the Elephant and Castle has finally arrived after 13 years waiting.  
 

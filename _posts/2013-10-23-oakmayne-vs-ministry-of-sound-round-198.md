@@ -3,7 +3,7 @@ layout: post
 title: "Oakmayne vs Ministry of Sound - Round 198"
 date: 2013-10-23 18:28
 comments: true
-categories: 
+categories: [Shopping centre] 
 ---
 The decision on the [Eileen House planning application](http://planningonline.southwark.gov.uk/AcolNetCGI.exe?ACTION=UNWRAP&RIPNAME=Root.PgeDocs&TheSystemkey=9531326), 335 flats, 41 stories  has been delayed once more.  The public hearing that was to be held 24 Oct at City Hall has been postponed for ‘procedural reasons’.  Previous hearings in March and February were also cancelled.
 While Southwark’s housing waiting list accelerates upwards, developers Oakmayne and the Ministry of Sound have battled over the fate of this key development site.  The application was submitted in 2009 and rejected by Southwark in 2011.  The power of decision was then taken over by Boris Johnson, who has been reviewing it ever since.

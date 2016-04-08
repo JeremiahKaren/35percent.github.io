@@ -3,7 +3,7 @@ layout: post
 title: "Mission Possible - bringing viability assessments out of the dark"
 date: 2014-02-22 12:04
 comments: true
-categories: 
+categories: [Viability assessments] 
 ---
 <img src="http://crappistmartin.github.io/images/confidential.jpg" width="300" align="left" style="margin:10px">Following the successful FOI request by Heygate campaigners, [Earls Court](http://www.theguardian.com/uk-news/davehillblog/2013/nov/21/earls-court-project-community-benefits-capital-and-counties) community activists have also succeeded with their FOI request for disclosure of viability documents behind their local regeneration scheme, which - like the Heygate - has a great absence of truly affordable housing. The Information Commissioner cites the Heygate decision in his [decision notice](http://ico.org.uk/~/media/documents/decisionnotices/2013/fer_0491596.ashx).  
 

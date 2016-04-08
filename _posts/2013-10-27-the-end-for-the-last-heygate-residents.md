@@ -3,7 +3,7 @@ layout: post
 title: "The end for the last Heygate residents"
 date: 2013-10-27 22:01
 comments: true
-categories: 
+categories: [Heygate regeneration] 
 ---
 > Southwark Council stole our homes and we are not going to forget it. __(Terry Redpath, Former Heygate Leaseholder)__
 

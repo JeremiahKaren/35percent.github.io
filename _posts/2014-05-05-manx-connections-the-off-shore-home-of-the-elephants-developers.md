@@ -3,7 +3,7 @@ layout: post
 title: "The offshore home of the Elephant’s developers"
 date: 2014-05-05 07:02
 comments: true
-categories: 
+categories: [Shopping centre] 
 ---
 ![](/img/taxhaven.jpg)
 Further research as a follow-up to our [previous blog post](/2014-04-15-the-elephants-new-ivory-towers/) has uncovered some unexpected connections between the Elephant & Castle and offshore tax havens. These are outlined as follows:

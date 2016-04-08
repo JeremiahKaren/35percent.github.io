@@ -3,7 +3,7 @@ layout: post
 title: "Pink Shopping Centre Blues"
 date: 2013-05-04 12:06
 comments: true
-categories: 
+categories: [Shopping centre] 
 ---
 Mystery abounds about what is happening with the Elephant & Castle shopping centre. An article purporting to give the latest information on www.costar.co.uk was removed from their website after only a day. But the google cached version can still be [viewed here](http://webcache.googleusercontent.com/search?q=cache:www.costar.co.uk/en/assets/news/2013/April/600m-Elephant--Castle-shopping-centre-plans-on-hold/) If the article is accurate it looks like nothing will be done until 2014 at the earliest; shopping centre owner St. Modwen/Salhia promised a planning application by the end of this year. It seems that St. Modwen and Southwark cannot agree on the amount of housing the development should have: St. Modwen want 1,000 new homes but Southwark council want no more than 500. No details are given of how much affordable housing either option would provide. 
 

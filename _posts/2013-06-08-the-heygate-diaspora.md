@@ -3,7 +3,7 @@ layout: post
 title: "The Heygate Diaspora"
 date: 2013-06-08 11:21
 comments: true
-categories: 
+categories: [Heygate regeneration] 
 ---
 >"There is a huge silent majority of people that have been moved out of the Heygate that are happy in their new homes." __(Cllr Fiona Colley, Cabinet Member for Regeneration)__
 

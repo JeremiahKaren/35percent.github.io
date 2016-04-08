@@ -3,7 +3,7 @@ layout: post
 title: "Stack em high - 1,000 homes on the shopping centre site?"
 date: 2013-12-14 15:10
 comments: true
-categories: 
+categories: [Shopping centre] 
 ---
 New owners of the shopping center _Delancey_ is looking to build in excess of 1,000 new homes on the recently acquired site, [according to the man](http://www.costar.co.uk/en/assets/news/2013/December/CoStar-Column-Delancey-and-APGs-Elephant-move-marks-milestone-for-PRS/) who arranged the partnership between _Delancey_ and its financial backer _APG_ - Chris Lacey of [CBRE](http://www.cbre.co.uk/uk-en).
 

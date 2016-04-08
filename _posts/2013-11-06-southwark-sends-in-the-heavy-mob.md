@@ -3,7 +3,7 @@ layout: post
 title: "Southwark sends in the Heavies"
 date: 2013-11-06 20:08
 comments: true
-categories: 
+categories: [Heygate regeneration] 
 ---
 The last resident of the Heygate estate was forcibly evicted from his home today. A team of bailiffs from [Shergroup Ltd](https://www.shergroup.net) accompanied by police and officers from Southwark Council arrived at lunchtime, and after a short conversation the last resident left - with the help of the bailiffs. No notice of the impending eviction was issued to him, his surveyor or solicitor.
 

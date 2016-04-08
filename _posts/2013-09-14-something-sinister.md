@@ -3,7 +3,7 @@ layout: post
 title: "Something Sinister?"
 date: 2013-09-14 19:35
 comments: true
-categories: 
+categories: [Heygate regeneration] 
 ---
 ![](http://crappistmartin.github.io/images/Heygate_classified.jpg)
 

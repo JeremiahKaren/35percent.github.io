@@ -3,7 +3,7 @@ layout: post
 title: "Kim Humphreys - exit stage left, enter stage right"
 date: 2013-12-07 13:46
 comments: true
-categories: 
+categories: [Shopping centre] 
 ---
 There was much surprise at Southwark's [Overview and Scrutiny Meeting](http://moderngov.southwark.gov.uk/ieListDocuments.aspx?CId=308&MId=4593&Ver=4) last Monday, when new shopping centre owner _['Delancey'](http://www.delancey.com/about.html)_ turned up accompanied by Southwark Council's [former deputy leader and head of housing](http://www.linkedin.com/pub/kim-humphreys/5/312/a34) Kim Humphreys. Kim is now _['Carvil Ventures'](http://carvil-ventures.co.uk/)_ - an independent corporate finance and real-estate consultancy and is advising global property developer Delancey. He is not the first former senior councillor to take this road: former council leader Jeremy Fraser [founded](http://www.southwarknews.co.uk/00,news,10971,440,00.htm) PR consultancy _['Four Communications'](http://www.fourcommunications.com/)_ after leaving the council, which advised developer Oakmayne and prepared [part of the planning application for its Eileen House development](http://planningonline.southwark.gov.uk/DocsOnline/Documents/42382_1.pdf).
 

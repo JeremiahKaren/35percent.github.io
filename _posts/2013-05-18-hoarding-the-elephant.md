@@ -3,7 +3,7 @@ layout: post
 title: "Hoarding the Elephant"
 date: 2013-05-18 17:08
 comments: true
-categories: 
+categories: [Viability assessments] 
 ---
 An eagle-eyed member of the local community has noticed that the [licence that allows the hoarding](http://crappistmartin.github.io/images/TribecaHoardingsLicence.jpg) surrounding the Tribeca Square site - formerly known as Oakmayne Plaza, [formerly known as the Volvo garage](http://crappistmartin.github.io/images/volvocpo.jpg) - has expired. Perhaps the licence has since been renewed, but the hoarding stretching from the New Kent road down Elephant road to the Walworth road, has been a great nuisance and inconvenience to pedestrians since 2006.
 After a spurt of on-site activity in 2009 progress has halted.

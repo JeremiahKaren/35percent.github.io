@@ -3,7 +3,7 @@ layout: post
 title: "Heygate Application - Will objectors get a fair hearing?"
 date: 2013-01-02 17:08
 comments: true
-categories: 
+categories: [Heygate regeneration] 
 ---
 The biggest planning application ever submitted to Southwark Council is due to be heard by its planning committee on 15 January - the Heygate outline masterplan (12/AP/1092). It has taken Southwark 9 months to evaluate this huge application with more than 350 supporting documents, and objectors are frustrated that they will only be given 3 minutes between them to voice their concerns.
 
