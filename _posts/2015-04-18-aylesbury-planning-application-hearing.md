@@ -3,6 +3,7 @@ layout: post
 published: true
 title: Aylesbury redevelopment - decision day
 comments: true
+categories: [Aylesbury regeneration, Estate regeneration, Affordable housing definitions]
 ---
 The planning applications for the redevelopment of the Aylesbury estate are to be considered by Southwark council's planning commitee on [Thursday evening](http://moderngov.southwark.gov.uk/ieListDocuments.aspx?CId=119&MId=4808&Ver=4). Officers recommend that approval be granted - their report on the outline masterplan application can be found [here](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!Vbu5QpckfYCnJrulzlWyuQ%3d%3d!%7d%7d%7d).
 

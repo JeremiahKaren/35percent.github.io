@@ -3,7 +3,7 @@ layout: post
 title: "Aylesbury Applications Approved"
 date: 2015-04-26 20:25:05 +0100
 comments: true
-categories: 
+categories: [Aylesbury regeneration, Estate regeneration, Affordable housing definitions] 
 ---
 Southwark council battoned down the hatches at their Tooley Street headquarters last Thursday, in preparation for the controversial Aylesbury planning application committee hearing.
 In the event, Aylesbury tenants and leaseholders were bitterly disappointed when the six hour meeting approved the [applications](/2014-11-01-aylesbury-estate-planning-application/).

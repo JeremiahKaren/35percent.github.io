@@ -3,7 +3,7 @@ layout: post
 title: "Councillor John promises to reveal all"
 date: 2015-07-18 11:19:19 +0100
 comments: true
-categories: 
+categories: [Viability assessments, Heygate regeneration] 
 ---
 <img src="http://crappistmartin.github.io/images/pjflasher.jpg" width="200" height="400" style="margin:10px" align="left">Viability assessments, the secret documents that developers use to reduce the amount of affordable housing they build, will now have to be made public, according to [this interview](http://www.southwarknews.co.uk/news/my-conscience-is-clear-council-leader-peter-john-comes-out-fighting-as-heygate-deal-scrutinised/) that council leader Peter John gave in the Southwark News last week.  
 

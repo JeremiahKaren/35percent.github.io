@@ -3,7 +3,7 @@ layout: post
 title: "Council Housing - going up or coming down?"
 date: 2015-01-11 12:21:55 +0000
 comments: true
-categories: 
+categories: [New council homes] 
 ---
 Just before Christmas Southwark Council issued a [press release](http://www.southwark.gov.uk/news/article/1878/southwark_maps_out_1500_new_council_homes_in_just_four_years_as_part_of_the_most_ambitious_council_house_build_in_the_country), accompanied by a lovely [map](http://www.southwark.gov.uk/download/downloads/id/11416/housing_estates_and_sites_for_new_council_homes) entitled _"Housing Estates and Sites for New Council Homes"_, which shows where 1500 of Southwark's 11000 new council homes will be built.  
 

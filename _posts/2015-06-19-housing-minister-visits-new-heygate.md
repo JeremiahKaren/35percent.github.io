@@ -2,7 +2,7 @@
 layout: post
 title: "£63m public money to build 274 private homes"
 comments: true
-categories: 
+categories: [Heygate regeneration] 
 ---
 Tory Housing Minister Brandon Lewis has [announced](http://www.egi.co.uk/news/lewis-announces-252m-prs-boost/) the third round of successful bidders in the government's [Build to Rent fund](https://www.gov.uk/government/news/1000-new-homes-for-private-rent-in-london).
 

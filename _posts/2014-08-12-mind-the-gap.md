@@ -3,7 +3,7 @@ layout: post
 title: "mind the (Elephantine) gap"
 date: 2014-08-12 18:09
 comments: true
-categories: 
+categories: [Shopping Centre] 
 ---
 A £64m funding gap for the infrastructure improvements of the Elephant & Castle regeneration has been identified by Southwark Council. The figure is given in its [submission](http://www.southwark.gov.uk/download/downloads/id/10740/addendum_to_cdeip1) to the Government inspector examining Southwark's plans for raising funds from developers through the new Community Infrastructure Levy.
 

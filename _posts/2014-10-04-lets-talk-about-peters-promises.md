@@ -3,7 +3,7 @@ layout: post
 title: "Let's talk about... Peter's promises"
 date: 2014-10-04 15:21:48 +0100
 comments: true
-categories: 
+categories: [New council homes] 
 ---
 <a href="http://crappistmartin.github.io/images/SNHeygateOverage.pdf"><img src="http://crappistmartin.github.io/images/SN1100homes.png" width="400" align="right"></a>Southwark Council leader Peter John has pledged that the 11,000 new council homes to be built over the next 30 years will not entail the demolition of the same number of existing council homes. In an [open letter](http://www.southwark.gov.uk/download/downloads/id/10997/an_open_letter_from_cllr_peter_john_leader_of_southwark_council) to all residents Cllr John says;  
 

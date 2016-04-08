@@ -3,7 +3,7 @@ layout: post
 title: "Affordable housing - a mirage wrapped in an illusion"
 date: 2016-02-16 11:25:37 +0000
 comments: true
-categories: 
+categories: [Affordable housing definitions] 
 ---
 
 Taking its cue from the 35% campaign's [corporate complaint](http://crappistmartin.github.io/images/Corporate_Complaint_15_Dec_2015Final.pdf), Southwark News has [revealed](http://www.southwarknews.co.uk/news/southwark-council-takes-legal-advice-over-social-housing-promises/) the reality behind the great affordable housing illusion.

@@ -3,7 +3,7 @@ layout: post
 title: "Completing london's clearances"
 date: 2016-01-31 13:16:31 +0000
 comments: true
-categories: 
+categories: [Estate regeneration] 
 ---
 David Cameron's [announcement](https://www.gov.uk/government/news/prime-minister-pledges-to-transform-sink-estates) that the government will be regenerating 100 council estates across the country, should send a chill down the spine of every council tenant and leaseholder in the country.
 

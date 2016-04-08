@@ -3,7 +3,7 @@ layout: post
 title: "Southwark gets its reward"
 date: 2014-10-11 13:06:21 +0100
 comments: true
-categories: 
+categories: [Viability assessments] 
 ---
 ![](http://crappistmartin.github.io/images/MipimAwards.jpg) 
 
