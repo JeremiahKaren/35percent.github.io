@@ -17,7 +17,7 @@ Under the 3rd column heading shown on the left there is an absence - instead of 
 
 ![](http://crappistmartin.github.io/images/S1062.jpg)
 
-{% img right  %} Under the 5th column shown on the right we can see Lend Lease does intend to provide affordable housing on site, but in the 6th column, which should tell us the total amount of this contribution there is nothing. Again, in all other categories of S106 expenditure precise figures are given.
+Under the 5th column shown on the right we can see Lend Lease does intend to provide affordable housing on site, but in the 6th column, which should tell us the total amount of this contribution there is nothing. Again, in all other categories of S106 expenditure precise figures are given.
 
 ![](http://crappistmartin.github.io/images/S1063.jpg)
 
