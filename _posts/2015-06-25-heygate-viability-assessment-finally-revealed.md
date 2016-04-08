@@ -2,8 +2,9 @@
 layout: post
 title: "Heygate viability assessment finally revealed"
 date: 2015-06-25 21:47:03 +0100
+redirect_from: /blog/2015/06/25/heygate-viability-assessment-finally-revealed/
 comments: true
-categories: 
+categories: [Heygate regeneration, viability assessments]
 ---
 ![](http://crappistmartin.github.io/images/Tribunalfolderssmall.jpg)
 

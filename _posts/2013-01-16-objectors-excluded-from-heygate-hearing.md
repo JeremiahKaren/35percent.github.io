@@ -2,8 +2,9 @@
 layout: post
 title: "Objectors excluded from sell-out Heygate hearing"
 date: 2013-01-16 13:27
+redirect_from: /blog/2013/01/16/objectors-excluded-from-heygate-hearing/
 comments: true
-categories: 
+categories: [Heygate regeneration]
 ---
 Objectors are fuming after being refused entry to Tuesday's public hearing for the Heygate masterplan planning application.
 
