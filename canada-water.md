@@ -6,7 +6,9 @@ footer: true
 ---
 Canada Water regeneration masterplan and [area action plan](http://www.southwark.gov.uk/downloads/download/3015/canada_water_aap_adoption) was drawn up by [Allies & Morrison](http://www.alliesandmorrison.com/urban-practitioners/), the architecture firm [founded](http://www.brixtonbuzz.com/2015/06/private-eye-picks-up-on-brixton-buzz-story-about-helen-hayes-mp-and-possible-brixton-arches-conflict-of-interest/) by Southwark Councillor and MP Helen Hayes. 
 
-The regeneration comprises a number of different sites, just under half of which was in the freehold ownership of the Council.
+The regeneration comprises a number of different sites, just under half of which was in the freehold ownership of the Council and will provide around 6000 new homes in total.
+
+The regeneration has provided a replacement library for the one demolished on Albion street, but makes no further public infrastructure contributions.
 
 ![](http://crappistmartin.github.io/images/canadawater_siteplan.jpg) 
 

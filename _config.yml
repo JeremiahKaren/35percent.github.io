@@ -12,6 +12,10 @@ baseurl: ""
 
 # Of course don't forget to change the username and projectname to YOUR username and project
 
+# plugins
+gems:
+  - jekyll-redirect-from
+
 # Name of website
 title: 35% Campaign
 

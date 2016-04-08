@@ -133,6 +133,7 @@ PLATFORMS
 DEPENDENCIES
   execjs
   github-pages
+  jekyll-redirect-from
   therubyracer
 
 BUNDLED WITH
