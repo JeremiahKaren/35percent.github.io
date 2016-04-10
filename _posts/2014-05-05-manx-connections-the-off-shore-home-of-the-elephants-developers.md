@@ -14,7 +14,7 @@ Further research as a follow-up to our [previous blog post](/2014-04-15-the-elep
 
 2. Strata Tower was developed and owned by a SPV(Special Purpose Vehicle) company [registered](http://crappistmartin.github.io/images/RegisterTGL251176.pdf) on the Isle of Man. Some of the penthouses are also [registered](http://crappistmartin.github.io/images/StrataPenthouseLRRegister.pdf) to a SPV holding company on the Isle of Man and an offshore company called 'Gamma Civic', which is [registered](/img/LRegister_strata_penthouse.pdf) in Mauritius. 
 
-3. Eileen house is being developed by a [company](https://opencorporates.com/companies/im/113350C) based on the Isle of Man and which also [helps its customers](http://www.theguardian.com/uk/2012/dec/16/london-property-tax-avoidance-offshore) avoid stamp duty by setting up SPV's on the Isle to buy the finished flats.
+3. [O'Central](http://83cramptonstreet.co.uk/), [South Central](http://oakmayneproperties.com/oakmayne-properties/portfolio/south-central-east/) and [Eileen house](/eileen-house) are being developed by 'Oakmayne' - a [company](https://opencorporates.com/companies/im/113350C) based on the Isle of Man and which also [helps its customers](http://www.theguardian.com/uk/2012/dec/16/london-property-tax-avoidance-offshore) avoid stamp duty by setting up SPV's on the Isle to buy the finished flats.
 
 Heygate developer Lend Lease's global corporate structure is too complex for us to see whether it shares its fellow developer's fondness of offshore companies. However, we have found that its development arm - Lend Lease Residential PLC [doesn't pay](http://crappistmartin.github.io/images/lendleasefinancialreport.pdf) a penny in UK corporation tax. 
 
