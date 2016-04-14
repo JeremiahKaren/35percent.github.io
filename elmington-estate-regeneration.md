@@ -8,7 +8,7 @@ footer: true
 
 The regeneration of Elmington estate was [decided](http://www.southwark.gov.uk/info/823/regeneration_projects/1798/elmington_regeneration) upon by Southwark's (Labour) administration in 2011.
 
-The regeneration is split into 10 blocks (A-J), of which F, H, I and J will be refurbished and the remainder redeveloped.  
+The regeneration is split into 10 blocks (A-J), of which F, H, I and J will be refurbished and the remainder redeveloped.
 
 ![](http://crappistmartin.github.io/images/elmington.png)
 
@@ -19,15 +19,20 @@ Sites A and B are currently being redeveloped By Notting Hill Housing Group, whe
 ![](http://crappistmartin.github.io/images/elmingtonestate.jpg)
 
 
-The [planning committee report](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!XXOecz%2bOmRk2JFLLeX0iRw%3d%3d!%7d%7d%7d) for Notting Hill's Camberwell Fields development, confirms that of the 279 homes 41 units would be social rented.
-However, the [section 106 agreement](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!J5kImYW5llmj0BA4PEvWpw%3d%3d!%7d%7d%7d) defines social rent as affordable rent:
+The [planning committee report](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!XXOecz%2bOmRk2JFLLeX0iRw%3d%3d!%7d%7d%7d) for Camberwell Fields confirms that of the 279 homes 41 units would be 'social rented' at 65% market rent and 22 units would be affordable rent at 80% market rent.
 
-![](http://crappistmartin.github.io/images/elmingtonestates106.png)
+![](https://pbs.twimg.com/media/CgB9qUqXIAEC4RY.jpg)
 
-[Land registry deeds](http://crappistmartin.github.io/images/LRegisterElmingtonAandB.pdf) show that the Council sold sites A&B to Notting Hill for just £11m.
+The departure from the Council's policy requirement of providing social rented housing was justified by the submission by Notting Hill of a viability appraisal, pleading poverty. The [planning committee report](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!XXOecz%2bOmRk2JFLLeX0iRw%3d%3d!%7d%7d%7d) said that the viability assessment had _"been scrutinised by a Property Valuer on behalf of the Council"_ and that _"the Valuer concluded that the appraisal was generally sound"_ (para 75). However, the [GLA report](https://www.london.gov.uk/sites/default/files/PAWS/media_id_204229/edmund_street_se5_report.pdf) for the application said that _"Southwark Council is assessing the viability appraisal in house"_ (para 32). 
+
+## Right to return
+[Council reports](http://moderngov.southwark.gov.uk/mgConvert2PDF.aspx?ID=17695) flag up the issues this raises with the promise of a right to return, which to previous tenants on the site whose homes were demolished, by acknowledging that the replacement 'social' housing may not be _'tailored to their housing needs'_.
+
+![](https://pbs.twimg.com/media/Cf_uVcCWQAAWZuF.jpg)
+
 
 ## Later phases
-In July 2012, the Council's Cabinet [resolved](http://moderngov.southwark.gov.uk/documents/s30291/Report%20Disposal%20of%20the%20Councils%20freehold%20interest%20in%20Elmington%20estate%20sites%20C%20D%20E%20and%20G%20Camberw.pdf) to sell sites C,D,E and G to a developer, with the proviso that 1&2 bed new-builds would be affordable rent, capped at 65% market rent in line with the agreement with Notting Hill for sites A&B. 
+In July 2012, the Council's Cabinet [resolved](http://moderngov.southwark.gov.uk/documents/s30291/Report%20Disposal%20of%20the%20Councils%20freehold%20interest%20in%20Elmington%20estate%20sites%20C%20D%20E%20and%20G%20Camberw.pdf) to sell sites C,D,E and G to a developer on the basis that replacement 1&2 bed 'social' housing would be affordable rent, capped at 65% market rent. 
 
 ![](http://crappistmartin.github.io/images/elmingtondisposal.png)
 
@@ -38,4 +43,11 @@ Tenants and leaseholders are currently being 'decanted' i.e. [evicted](https://h
 
 ![](http://crappistmartin.github.io/images/elmingtondemolition.jpg)
 
-[Land Registry deeds](/img/ElmingtonLR.pdf) show that the Council is selling off the elmington estate in parcels to Notting Hill for just £1.
+## The costs vs the benefits
+In 2009, the Council [estimated](http://moderngov.southwark.gov.uk/documents/s9280/Executive%20report.pdf) that refurbishing the estate would cost a total of £10m. 
+
+By 2016, the Council had [spent](https://www.whatdotheyknow.com/request/cost_to_date_of_elmington_estate?unfold=1#incoming-796509) £6.5m just on decanting and demolishing sites A&B.
+
+Some [Land Registry deeds](/img/ElmingtonLR.pdf) show that the Council has sold off parcels of the estate to Notting Hill for just £1.
+
+Other [Land registry deeds](http://crappistmartin.github.io/images/LRegisterElmingtonAandB.pdf) suggest that the Council has sold sites A&B to Notting Hill for £11m.
