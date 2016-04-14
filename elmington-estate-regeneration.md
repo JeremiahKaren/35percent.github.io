@@ -6,27 +6,25 @@ footer: true
 ---
 ![](http://1.bp.blogspot.com/_NXA8uOff0Lc/SwEmUGsp4BI/AAAAAAAAE_U/OXY8edV7nPI/s1600/Elmington.jpeg)
 
-The regeneration of Elmington estate was [decided](http://www.southwark.gov.uk/info/823/regeneration_projects/1798/elmington_regeneration) upon by Southwark's (Labour) administration in 2011.
-
-The regeneration is split into 10 blocks (A-J), of which F, H, I and J will be refurbished and the remainder redeveloped.
+The Elmington regeneration is split into 10 blocks (A-J), of which F, H, I and J will be refurbished and the remainder redeveloped.
 
 ![](http://crappistmartin.github.io/images/elmington.png)
 
-Sites A and B are currently being redeveloped By Notting Hill Housing Group, where [planning documents](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!XXOecz%2bOmRk2JFLLeX0iRw%3d%3d!%7d%7d%7d) confirm that it has [demolished](http://directobjective.blogspot.co.uk/2011/12/elmington-estate-revisited.html) 294 Council homes and replacing them with 279 homes in a 'mixed tenure' development that it has branded [Camberwell Fields](http://www.camberwellfields.com/). 
+Sites A and B are currently being redeveloped By Notting Hill Housing Group, where [planning documents](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!XXOecz%2bOmRk2JFLLeX0iRw%3d%3d!%7d%7d%7d) confirm that it has [demolished](http://directobjective.blogspot.co.uk/2011/12/elmington-estate-revisited.html) 294 Council homes and replacing them with 279 homes and 117 car parking spaces in a 'mixed tenure' development that it has branded [Camberwell Fields](http://www.camberwellfields.com/). 
 
 ![](http://crappistmartin.github.io/images/camberwellfieldslogo.png)
 
 ![](http://crappistmartin.github.io/images/elmingtonestate.jpg)
 
 
-The [planning committee report](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!XXOecz%2bOmRk2JFLLeX0iRw%3d%3d!%7d%7d%7d) for Camberwell Fields confirms that of the 279 homes 41 units would be 'social rented' at 65% market rent and 22 units would be affordable rent at 80% market rent.
+The [planning committee report](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!XXOecz%2bOmRk2JFLLeX0iRw%3d%3d!%7d%7d%7d) for Camberwell Fields confirms that of the 279 homes, 22 one & two bed units would be let at 'affordable rent' of 80% market rent and 41 three-bed units would be let at 65% market rent (which it misleadingly refers to as social rent elsewhere in the report).
 
 ![](https://pbs.twimg.com/media/CgB9qUqXIAEC4RY.jpg)
 
-The departure from the Council's policy requirement of providing social rented housing was justified by the submission by Notting Hill of a viability appraisal, pleading poverty. The [planning committee report](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!XXOecz%2bOmRk2JFLLeX0iRw%3d%3d!%7d%7d%7d) said that the viability assessment had _"been scrutinised by a Property Valuer on behalf of the Council"_ and that _"the Valuer concluded that the appraisal was generally sound"_ (para 75). However, the [GLA report](https://www.london.gov.uk/sites/default/files/PAWS/media_id_204229/edmund_street_se5_report.pdf) for the application said that _"Southwark Council is assessing the viability appraisal in house"_ (para 32). 
+The departure from the Council's policy requirement of providing (truly) social rented housing was justified by the submission by Notting Hill of a viability appraisal, which pleaded poverty. The [planning committee report](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!XXOecz%2bOmRk2JFLLeX0iRw%3d%3d!%7d%7d%7d) said that Notting Hill's viability assessment had _"been scrutinised by a Property Valuer on behalf of the Council"_ and that _"the Valuer concluded that the appraisal was generally sound."_ - (para 75). However, the [GLA report](https://www.london.gov.uk/sites/default/files/PAWS/media_id_204229/edmund_street_se5_report.pdf) for the application said that _"Southwark Council is assessing the viability appraisal in house."_ (para 32) 
 
 ## Right to return
-[Council reports](http://moderngov.southwark.gov.uk/mgConvert2PDF.aspx?ID=17695) flag up the issues this raises with the promise of a right to return, which to previous tenants on the site whose homes were demolished, by acknowledging that the replacement 'social' housing may not be _'tailored to their housing needs'_.
+[This Council report](http://moderngov.southwark.gov.uk/mgConvert2PDF.aspx?ID=17695) flags up the problems associated with the higher rent levels approved, in relation to the promises made of a 'right to return' previously made to decanted tenants. It acknowledges discretely that these may not exercise their right to return because the replacement housing may not be _'tailored to their housing needs'_.
 
 ![](https://pbs.twimg.com/media/Cf_uVcCWQAAWZuF.jpg)
 
