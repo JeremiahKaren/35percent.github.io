@@ -1,6 +1,6 @@
 ---
 
-title: "Completing london's clearances"
+title: "'We surrender' - Southwark Council and Skipton House latest"
 date: 2016-04-17
 layout: post
 published: true
@@ -9,7 +9,7 @@ published: true
 Revised planning documents for the redevelopment of Skipton House were published last week.  Our previous blog - ['Another Tower of Shame (with a cinema)'](http://35percent.org/2016-04-05-another-tower-of-shame-%28with-a-cinema%29/) -  detailed how developers L&R were offering zero affordable housing, but proposed throwing in an art house cinema by way of compensation.  L&R's revised [application](http://planbuild.southwark.gov.uk/documents/?casereference=15/AP/5125&system=DC) notches up the affordable housing 'offer', but only from the non-existent to the pathetic - L&R now propose a miserable 15% of a reduced total of 408 homes.  
 
 ![skipton house cgi](http://35percent.org/img/skiptonhouse.png)
-*image_caption*
+*CGI of redeveloped Skipton House*
 
 ## Affordable housing - on-site first
 
@@ -66,7 +66,7 @@ Keyworth Hostel
 
 <meta name="twitter:card" content="summary" />
 <meta name="twitter:title" content="Skipton House latest" />
-<meta name="twitter:description" content="'We surrender'- Southwark Council and Skipton House latest" />
+<meta name="twitter:description" content="'We surrender'- Southwark Council and Skipton House tower of shame latest" />
 <meta name="twitter:image" content="http://35percent.org/img/skiptonhouse.png" />
 
 
