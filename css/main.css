@@ -625,4 +625,6 @@ table tr td :last-child {
 
 .clearfix:after {
     clear: both;
-}   
+}
+
+img + em { }
