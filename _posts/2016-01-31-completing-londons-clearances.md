@@ -39,9 +39,11 @@ It also explores a number of additional strategies to achieve the desired _"impr
 
 ![](http://35percent.org/img/savills1.png)
 
+The publication of the report understandably created [concerns](http://www.southwarknews.co.uk/news/your-home-is-worth-less-than-nothing-council-report-evaluates-southwark-properties/) amongst tenants living on the _"poorly performing"_ estates. In response to these, the Council's Housing Boss [explained](http://www.southwarknews.co.uk/news/no-more-wholesale-estate-demolition-says-housing-boss/) that demolition will be considered on a “case by case basis” and that _“In a small number of cases it may mean demolition but in the vast majority of cases it certainly won’t.”_
 
-## Savills
-We [blogged](/2015-12-20-heygate-sell-off-how-much-are-we-getting/) about this in December and noted that Savills is just as happy [selling off](http://crappistmartin.github.io/sold-by-southwark/) Southwark's high-value assets, as it is identifying those low-value assets that could be candidates for demolition. Savills also prepared the notorious [viability assessment](http://crappistmartin.github.io/collated-viability-assessments/) that [allowed](/2015-06-25-heygate-viability-assessment-finally-revealed/) Lendlease to slash the social rented housing on [Elephant Park](http://www.elephantpark.co.uk) (the New Heygate) to just 82 social rented units. 
+
+## Savills and Southwark
+We [blogged](/2015-12-20-heygate-sell-off-how-much-are-we-getting/) about this in December and noted that Savills is just as happy [selling off](/auctions) Southwark's high-value assets, as it is identifying those low-value assets that could be candidates for demolition. Savills also prepared the notorious [viability assessment](http://crappistmartin.github.io/collated-viability-assessments/) that [allowed](/2015-06-25-heygate-viability-assessment-finally-revealed/) Lendlease to slash the social rented housing on [Elephant Park](http://www.elephantpark.co.uk) (the New Heygate) to just 82 social rented units. 
 
 ![](http://35percent.org/img/savills.png)
 
@@ -63,10 +65,6 @@ If local communities are to be protected then regeneration has to mean something
 [Refurbishment](http://www.engineering.ucl.ac.uk/engineering-exchange/demolition-refurbishment-social-housing/) needs to be considered. And if building new council homes [is costing £383k](http://www.estatesgazette.com/blogs/london-residential-research/2015/07/costs-southwark-council-528149-build-council-flat/) each, when homes on _'high investment needs estates'_ can be brought up to Decent Homes Standard for a fraction of this, then there is no reason not to do that.
 
 ![](http://crappistmartin.github.io/images/dhscosts.png)
-
-## PS: Housing News from Australia
-
-Lend Lease has taken all the lessons it has learnt in London back home to Sydney, where it has offered the Heygate’s redevelopment as a model for solving the city’s own housing problems – fortunately not everyone is convinced: [http://www.smh.com.au/nsw/will-poor-be-cleared-aside-for-key-workers-in-revamped-sydney-housing-estates-20160129-gmh7n8.html](http://www.smh.com.au/nsw/will-poor-be-cleared-aside-for-key-workers-in-revamped-sydney-housing-estates-20160129-gmh7n8.html)
 
 
 
