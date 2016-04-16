@@ -66,6 +66,18 @@ If local communities are to be protected then regeneration has to mean something
 
 ![](http://crappistmartin.github.io/images/dhscosts.png)
 
+## Latest GLA housing figures
+The [London Tenants Federation](http://www.londontenants.org/) has published its [analysis](/img/LTF_delivery_of_housing_in_London_2014-15.pdf) of the latest [GLA housing data](http://data.london.gov.uk/dataset/gla-affordable-housing-programme-outturn/resource/0ff48fbb-5119-4af1-9692-d0fa57093371) published for 2014/15. The analysis found that:
+
+* Southwark delivered 1,965 homes in 2014/15.
+
+* It delivered only 51 (net) affordable homes (3% of the homes delivered in the borough)
+
+* It demolished more social rented homes than it built – losing 170 social rented homes in total and delivered 75 affordable rent homes (a combined total of -95)
+
+* It delivered 1,914 market homes – 97% of the homes delivered in the borough in 2014/15
+
+
 
 
 __Footnotes:__  
