@@ -34,7 +34,7 @@ The Savills report goes on to explain the _"key potential options for identified
 
 ![](http://35percent.org/img/savills2.png)
 
-It also recommends a number of additional strategies to achieve the desired _"improvement in business plan capacity"_. These include increasing rents, albeit _"subject to the Council's policies on rents .. and plans to explored devolved management." - a practice that we argue is already being introduced via the back door[^3].
+It also recommends a number of additional strategies to achieve the desired _"improvement in business plan capacity"_. These include increasing rents, albeit _"subject to the Council's policies on rents .. and plans to explored devolved management"_ - (a practice that we argue is already being introduced via the back door[^3]).
 
 ![](http://35percent.org/img/savills1.png)
 
