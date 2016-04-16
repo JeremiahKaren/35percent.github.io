@@ -1,7 +1,6 @@
 ---
 
 title: "We surrender - Southwark Council and Skipton House latest"
-date: 2016-04-17
 layout: post
 published: true
 
