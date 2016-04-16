@@ -43,7 +43,7 @@ The publication of the report understandably created [concerns](http://www.south
 
 
 ## Savills and Southwark
-<img src="/img/socialcleanserssavills.jpg" align="left" style="margin:10px" width="170">We [blogged](/2015-12-20-heygate-sell-off-how-much-are-we-getting/) about this in December and noted that Savills is just as happy [selling off](/auctions) Southwark's high-value assets, as it is identifying those low-value assets that could be candidates for demolition. Savills also prepared the notorious [viability assessment](http://crappistmartin.github.io/collated-viability-assessments/) that [allowed](/2015-06-25-heygate-viability-assessment-finally-revealed/) Lendlease to slash the social rented housing on [Elephant Park](http://www.elephantpark.co.uk) (the New Heygate) to just 82 social rented units. 
+<img src="/img/socialcleanserssavills.jpg" align="left" style="margin:10px" width="100">We [blogged](/2015-12-20-heygate-sell-off-how-much-are-we-getting/) about this in December and noted that Savills is just as happy [selling off](/auctions) Southwark's high-value assets, as it is identifying those low-value assets that could be candidates for demolition. Savills also prepared the notorious [viability assessment](http://crappistmartin.github.io/collated-viability-assessments/) that [allowed](/2015-06-25-heygate-viability-assessment-finally-revealed/) Lendlease to slash the social rented housing on [Elephant Park](http://www.elephantpark.co.uk) (the New Heygate) to just 82 social rented units. 
 
 ![](http://35percent.org/img/savills.png)
 
