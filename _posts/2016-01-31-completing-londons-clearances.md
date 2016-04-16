@@ -23,7 +23,7 @@ Here in Southwark, we know how these estate regenerations - full of [promises](/
 |   | __Total:__ | __7443__ | __11037__ | __3168__ |
 
 
-That's a net loss of 4,275 social rented homes as a direct result of Southwark's regeneration schemes to date and the [GLA has predicted](https://www.london.gov.uk/press-releases/assembly/darren-johnson/loss-of-social-housing-through-estate-regeneration) that Southwark will lose 2,051 social rented homes as a result of schemes in its current pipeline (far more than any other borough). In addition, we can't even be sure that the replacement social rented housing provided isn't actually affordable rent or won't morph into it - see the [CPO Public Inquiry](https://youtu.be/x0CIUdfA-JU?t=4m12s), our [corporate complaint](http://crappistmartin.github.io/images/Corporate_Complaint_15_Dec_2015Final.pdf) and [this local news article](http://crappistmartin.github.io/images/SN_affordablerent.pdf) for evidence of this.
+That's a net loss of 4,275 social rented homes as a direct result of Southwark's regeneration schemes to date and the [GLA has predicted](https://www.london.gov.uk/press-releases/assembly/darren-johnson/loss-of-social-housing-through-estate-regeneration) that Southwark will lose 2,051 social rented homes as a result of schemes in its current pipeline (far more than any other borough). In addition, we can't even be sure that the replacement social rented housing provided isn't actually affordable rent or won't morph into it - see the [CPO Public Inquiry](https://youtu.be/x0CIUdfA-JU?t=4m12s), our [corporate complaint](http://crappistmartin.github.io/images/Corporate_Complaint_15_Dec_2015Final.pdf), [full list of tenure breaches](http://crappistmartin.github.io/images/section106_tenure_breaches.pdf) and [local news article](http://crappistmartin.github.io/images/SN_affordablerent.pdf) for evidence of this.
 
 ## Southwark's estate regeneration pipeline
 Despite widespread criticism, Southwark is [ploughing ahead](/2015-03-28-manifesto-for-destruction-of-council-estates/) with further regeneration plans, largely informed by a Savills ['Asset Performance Evaluation'](http://moderngov.southwark.gov.uk/documents/s55626/Appendix%204%20Savills%20Evaluation.pdf) undertaken last year (the assets being our council homes).
@@ -35,7 +35,7 @@ The report goes on to explain the _"key potential options for identified poorly 
 
 ![](http://35percent.org/img/savills2.png)
 
-It also explores a number of additional strategies to achieve the desired _"improvement in business plan capacity"_. These include increasing rents, albeit _"subject to the Council's policies on rents .. and plans to explored devolved management."_
+It also explores a number of additional strategies to achieve the desired _"improvement in business plan capacity"_. These include increasing rents, albeit _"subject to the Council's policies on rents .. and plans to explored devolved management."_ A practice which we argue is already being introduced via the backdoor[^3].
 
 ![](http://35percent.org/img/savills1.png)
 
@@ -71,11 +71,9 @@ The [London Tenants Federation](http://www.londontenants.org/) has published its
 
 * Southwark delivered 1,965 homes in 2014/15.
 
-* It delivered only 51 (net) affordable homes (3% of the homes delivered in the borough)
+* It delivered only 51 (net) affordable homes (3% of the homes delivered in the borough).
 
-* It demolished more social rented homes than it built – losing 170 social rented homes in total and delivered 75 affordable rent homes (a combined total of -95)
-
-* It delivered 1,914 market homes – 97% of the homes delivered in the borough in 2014/15
+* It demolished more social rented homes than it built – losing 170 social rented homes in total and delivered 75 affordable rent homes (a combined total of -95).
 
 
 
@@ -85,6 +83,8 @@ __Footnotes:__
 [^1]: See paragraph 3.2.3 of the Council's [Housing Asset Management Strategy](https://consultations.southwark.gov.uk/housing-community-services-department-community-engagement-team/asset-management-consultation/supporting_documents/Asset%20Management%20Strategy.pdf)
 
 [^2]: See Paragraph 5.10 (page 22) of the Savills [Asset Performance Evaluation](http://moderngov.southwark.gov.uk/documents/s55626/Appendix%204%20Savills%20Evaluation.pdf)
+
+[^3]: See the [Council's response](https://www.whatdotheyknow.com/request/297570/response/725827/attach/2/Freedom%20of%20Information%20request%20response%20for%20570900.pdf) to [this FOI request](https://www.whatdotheyknow.com/request/temporary_housing_on_estates_for#incoming-725827), which confirms it is charging more than twice the average council rent on properties located within regeneration schemes.
 
 <meta name="twitter:card" content="summary" />
 <meta name="twitter:title" content="Completing London's Clearances" />
