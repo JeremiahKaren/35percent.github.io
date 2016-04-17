@@ -1,9 +1,9 @@
 ---
 
+categories: Shopping centre
 layout: post
 published: true
 title: 'We surrender - Southwark Council and Skipton House latest'
-categories: '[Shopping centre]'
 
 ---
 Revised planning documents for the redevelopment of Skipton House were published last week.  Our previous blog - ['Another Tower of Shame (with a cinema)'](http://35percent.org/2016-04-05-another-tower-of-shame-%28with-a-cinema%29/) -  detailed how developers L&R were offering zero affordable housing, but proposed throwing in an art house cinema by way of compensation.  L&R's revised [application](http://planbuild.southwark.gov.uk/documents/?casereference=15/AP/5125&system=DC) notches up the affordable housing 'offer', but only from the non-existent to the pathetic - L&R now propose a miserable 15% of a reduced total of 408 homes.  
