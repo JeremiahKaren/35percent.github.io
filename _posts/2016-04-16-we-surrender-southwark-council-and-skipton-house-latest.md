@@ -1,6 +1,6 @@
 ---
 
-categories: Shopping centre
+categories: '"[Shopping centre]"'
 layout: post
 published: true
 title: 'We surrender - Southwark Council and Skipton House latest'
