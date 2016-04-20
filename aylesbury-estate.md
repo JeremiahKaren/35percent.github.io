@@ -20,21 +20,21 @@ In 2001, residents on the estate were balloted on the prospect of stock transfer
 In 2002, the council's Head of Housing Regeneration [said](http://www.insidehousing.co.uk/journals/insidehousing/legacydata/uploads/pdfs/IH.020222.028f.pdf) it was planning to press ahead with the redevelopment regardless, claiming that bringing the existing estate up to scratch would cost £200 million, a sum that the council simply didn't have. 
 
 ## Social or 'affordable' rent
-Residents' concerns about Housing Associations charging higher rents turned out to be well founded, when it [emerged](http://crappistmartin.github.io/blog/2015/09/24/southwark-backs-down-over-bermondsey-spa-dispute/) that Notting Hill Housing (the council's development partner) had secured funding for the scheme, which was linked to the provision of affordable rent rather than social rent (nevertheless capped at 50% rather than 80% market rent). However, even capped at 50% market rent Southwark's own housing data shows that the minimum income required to afford this, is twice what Southwark council tenants earn on average.
+Residents' concerns about Housing Associations charging higher rents turned out to be well founded, when it [emerged](http://crappistmartin.github.io/blog/2015/09/24/southwark-backs-down-over-bermondsey-spa-dispute/) that Notting Hill Housing (the council's development partner) had secured funding for the scheme, linked to the provision of _affordable rent_ rather than _social rent_ (nevertheless capped at 50% rather than 80% market rent). However, even capped at 50% market rent Southwark's own [housing data](http://www.southwark.gov.uk/downloads/download/2914/affordable_rent_in_southwark_2011) shows that the minimum income required to afford this, is twice what Southwark council tenants earn on average.
 
 ![](http://crappistmartin.github.io/images/affordable_rent_50percent.png)
 
-The council insists that all new rented homes will be social rented not affordable rent, but [revelations](http://www.southwarknews.co.uk/news/council-takes-no-legal-action-over-44-missing-social-housing-units/) that Notting Hill had delivered affordable rent instead of the social rent agreed at its Bermondsey Spa regeneration, have further thrown these promises into doubt. The [long list](http://crappistmartin.github.io/images/section106_tenure_breaches.pdf) of similar tenure switches we have identified shows that this is a widespread practice, which appears to be tolerated by Southwark. 
+The council insists that all new rented homes will be social rented not affordable rent, but [revelations](http://www.southwarknews.co.uk/news/council-takes-no-legal-action-over-44-missing-social-housing-units/) that Notting Hill had delivered affordable rent instead of the social rent agreed at its Bermondsey Spa regeneration, have further thrown these promises into doubt. The [long list](http://crappistmartin.github.io/images/section106_tenure_breaches.pdf) of similar tenure switches we have identified shows that this sleight-of-hand is a widespread practice, which appears to be tolerated by Southwark. 
 
 The council also insists that Notting Hill has a contractual obligation to provide social rent rather than affordable rent in the redevelopment. But its [contractual agreement](http://crappistmartin.github.io/images/LBS_NHHT_DPAgreement.pdf) contains no reference to the term social rent whatsoever. Instead it refers just to 'target rent’ set by government, without any reference to the term __social rent__ or the National Rent Regime regulatory framework which governs it. There is an obvious concern that this could be interpreted as affordable rent, as there are'target rents' for both __social rent__ and __affordable rent__ set by government.
 
 ![](http://crappistmartin.github.io/images/Aylesbury_targetrent.png)
 
-In any case Notting Hill's [planning application](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!clWxEC35adJ29O7pMe62Bg%3d%3d!%7d%7d%7d) for the redevelopment admits that there will be an overall loss of 934 social rented units through the redevelopment (assuming that the replacements will be social, not affordable rent:
+In any case Notting Hill's [planning application](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!clWxEC35adJ29O7pMe62Bg%3d%3d!%7d%7d%7d) for the redevelopment admits that there will be an overall loss of 934 social rented units through the redevelopment (even if the replacements were to be social, not affordable rent:
 
 ![](http://crappistmartin.github.io/images/aylesburyahstatement.png)
 
-Note that the replacement social housing is referred to both as social rent and affordable rent throughout the planning application documents.
+We note that the replacement social housing is referred to ambiguously as both as social rent and affordable rent throughout the planning application documents. We also note that these would be [material considerations](http://www.11kbw.com/blogs/local-government-law/ambiguous-planning-permission/806) should there later be any dispute about the precise definition of the tenure provision intended. 
 
 ## Harvard Gardens
 ![](http://crappistmartin.github.io/images/site7.jpg)
@@ -43,6 +43,8 @@ The most recent phase of the scheme [(site 7 - Wolverton/'Harvard Gardens')](htt
 
 ![](http://crappistmartin.github.io/images/wolvertonss106_mayorquestion.png)
 
+In October 2015, we managed to obtain the [actual rent levels](http://35percent.org/2015-10-12-notting-hill-comes-clean/) proposed by Notting Hill for its first phase of the Aylesbury. These confirmed that rents are being determined as a percentage of market rent and not using the National Rent Regime formula for social rents. They also illustrate the main difference between social and affordable rent, namely that affordable rents rise in line with market rent trends. This is shown by the fact that rents in the first phase are higher, but not that much higher than social rents, while the higher rents in later phases demonstrate the widening gap due to expected increases in market rents.
+   
 ## Refurb vs Demolition
 At the 2015 CPO Public Inquiry, Professor Jane Rendell from the Bartlett School of Architecture questioned the council's cost/benefit appraisal for its decision to redevelop rather than refurbish. She took the Inquiry through all of the figures and showed that cost estimates for refurbishment had been inflated by nearly £150m. (See [AJ article](http://crappistmartin.github.io/images/ajaylesbury.pdf)).
 
@@ -97,7 +99,11 @@ More criticisms of the estate and grounds for its demolition can be found in oth
 
 
 ## Prudent Profits
-The 35% Campaign has also obtained a redacted copy of Notting Hill's [viability assesment](http://crappistmartin.github.io/images/NHHT_AylesburyViabilityAssessment.pdf) for the Aylesbury redevelopment via an FOI/EIR request. Despite being a registered charity, Notting Hill has claimed commercial confidentiality as the grounds for its redactions. Interestingly we see that despite the development being publicly funded and built on public land, Notting Hill claims that _"increasing the number of affordable homes would result in the scheme falling below the prudent profit level for Notting Hill"_.  
+The 35% Campaign has also obtained a redacted copy of Notting Hill's [viability assesment](http://crappistmartin.github.io/images/NHHT_AylesburyViabilityAssessment.pdf) for the Aylesbury redevelopment via an FOI/EIR request. Despite being a registered charity, Notting Hill has claimed commercial confidentiality as the grounds for its redactions. Interestingly we see that despite the development being publicly funded and built on public land, Notting Hill claims that _"increasing the number of affordable homes would result in the scheme falling below the prudent profit level for Notting Hill"_. This profit level is 15%, representing approximately £150m extracted in profit which could have been spent on affordable housing.
+
+It's important to note that Notting Hill won't be building the new homes. This has been contracted to Barratt in a joint-venture agreement, which will see Barratt also receiving a slice of the profits. Before Notting Hill takes its slice, Barratt will receive 21% from the sale of all the private units in the development.
+
+![](img/barratprofit.png)
 
 ## Environment/Sustainability
 The Aylesbury estate masterplan outline planning application gave consent for a total of 1,378 parking spaces in the new development, equating to four out of ten new households with parking.[^3]
@@ -107,6 +113,8 @@ The [officer's report](http://planbuild.southwark.gov.uk/documents/?GetDocument=
 ![](http://crappistmartin.github.io/images/aylesburygreenspace.png)
 
 Further, the new open spaces in the development will not be public open spaces adopted by the council; they will be privately owned and managed by a subsidiary of Notting Hill Housing Group. 
+
+![Aylesbury estate green space](https://municipaldreams.files.wordpress.com/2013/12/balcony-view-ii.jpg)
 
 ## Misc docs
 [2005 Frost Associates](http://crappistmartin.github.io/images/AylesburyTotalEstateCostReview2.pdf)  
