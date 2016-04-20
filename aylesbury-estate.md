@@ -19,7 +19,7 @@ In 2001, residents on the estate were balloted on the prospect of stock transfer
 
 In 2002, the council's Head of Housing Regeneration [said](http://www.insidehousing.co.uk/journals/insidehousing/legacydata/uploads/pdfs/IH.020222.028f.pdf) it was planning to press ahead with the redevelopment regardless, claiming that bringing the existing estate up to scratch would cost £200 million, a sum that the council simply didn't have. 
 
-## Social or 'affordable' rent
+## Social or 'affordable' rent?
 Residents' concerns about Housing Associations charging higher rents turned out to be well founded, when it [emerged](http://crappistmartin.github.io/blog/2015/09/24/southwark-backs-down-over-bermondsey-spa-dispute/) that Notting Hill Housing (the council's development partner) had secured funding for the scheme, linked to the provision of _affordable rent_ rather than _social rent_ (nevertheless capped at 50% rather than 80% market rent). However, even capped at 50% market rent Southwark's own [housing data](http://www.southwark.gov.uk/downloads/download/2914/affordable_rent_in_southwark_2011) shows that the minimum income required to afford this, is twice what Southwark council tenants earn on average.
 
 ![](http://crappistmartin.github.io/images/affordable_rent_50percent.png)
@@ -115,8 +115,11 @@ The [officer's report](http://planbuild.southwark.gov.uk/documents/?GetDocument=
 Further, the new open spaces in the development will not be public open spaces adopted by the council; they will be privately owned and managed by a subsidiary of Notting Hill Housing Group. 
 
 ![Aylesbury estate green space](https://municipaldreams.files.wordpress.com/2013/12/balcony-view-ii.jpg)
+*Generous existing green space*
 
-## Misc docs
+## Misc links
+[Video footage](https://youtu.be/jw7LH2SREZI?list=PLHRf7Up774EnVkhes9K_4q9VUlLZtcwOo) of the 2015 Aylesbury estate CPO public inquiry.
+
 [2005 Frost Associates](http://crappistmartin.github.io/images/AylesburyTotalEstateCostReview2.pdf)  
 [April 2005 BPTW](http://crappistmartin.github.io/images/BPTW_Costings_28April20052.pdf)  
 [(Redacted) Development Partnership Agreement(DPA)](http://crappistmartin.github.io/images/LBS_NHHT_DPAgreement.pdf)  
