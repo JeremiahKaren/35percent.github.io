@@ -34,9 +34,9 @@ In any case Notting Hill's [planning application](http://planbuild.southwark.gov
 
 ![](http://crappistmartin.github.io/images/aylesburyahstatement.png)
 
-We note that the replacement social housing is referred to ambiguously as both as social rent and affordable rent throughout the planning application documents. We also note that these would be [material considerations](http://www.11kbw.com/blogs/local-government-law/ambiguous-planning-permission/806) should there later be any dispute about the precise definition of the tenure provision intended. 
+We note that the replacement social housing is referred to ambiguously as both as social rent and affordable rent throughout the planning application documents and that these would be [material considerations](http://www.11kbw.com/blogs/local-government-law/ambiguous-planning-permission/806) should there later be any dispute about the precise definition of the tenure provision intended. 
 
-We also note Notting Hill's predeliction for affordable rent. Indeed, its CEO Kate Davies was a [fellow](http://www.centreforsocialjustice.org.uk/about-us/csj-fellows/kate-davies) of the [Centre for Social Justice](http://www.centreforsocialjustice.org.uk/) - the conservative think tank set up and chaired by Iain Duncan Smith, which conceived the idea of both affordable rent and right-to-buy for housing association tenants.
+We also note Notting Hill's predilection for affordable rent. Indeed, its CEO Kate Davies was a [fellow](http://www.centreforsocialjustice.org.uk/about-us/csj-fellows/kate-davies) of the [Centre for Social Justice](http://www.centreforsocialjustice.org.uk/) - the conservative think tank set up and chaired by Iain Duncan Smith, which conceived the idea of both affordable rent and right-to-buy for housing association tenants.
 
 ![](http://pbs.twimg.com/media/CNUmHQlWIAAdSyI.png)
 
