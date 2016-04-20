@@ -63,9 +63,9 @@ It was also [confirmed](http://crappistmartin.github.io/images/Email14April2015_
 
 The council has therefore spent £46.8m demolishing and redeveloping 112 homes[^2] on the scheme to date (£417k per home), compared to the £20,261 per home it is spending bringing homes up to Decent Homes Standard elsewhere on the estate.
 
-When the Council Executive took its [decision](http://moderngov.southwark.gov.uk/CeListDocuments.aspx?CommitteeId=118&MeetingId=986&DF=27/09/2005&Ver=2) to redevelop the estate in September 2005, it did so on the basis of a [costings estimate](http://crappistmartin.github.io/images/annexc.pdf) which calculated that the scheme would incur an overall cost to the Council of £16.1m over the scheme's 10-year development period. However, the Council's [budget books](http://www.southwark.gov.uk/download/downloads/id/11869/budget_book_201516_-_capital_programme) show that it is spending nearly £14m on the Aylesbury scheme during the 2015/16 year alone and is expected to spend £150m just on decanting the estate[^4].
+When the Council Executive took its [decision](http://moderngov.southwark.gov.uk/CeListDocuments.aspx?CommitteeId=118&MeetingId=986&DF=27/09/2005&Ver=2) to redevelop the estate in September 2005, it did so on the basis of a [costings estimate](http://crappistmartin.github.io/images/annexc.pdf) which calculated that the scheme would incur an overall cost to the Council of £16.1m over the scheme's 10-year development period. However, the Council's [budget books](http://www.southwark.gov.uk/download/downloads/id/11869/budget_book_201516_-_capital_programme) show that it is spending nearly £14m on the Aylesbury scheme during the past year alone and is expected to spend £150m just on decanting the whole estate[^4].
 
-![](img/landassembly.png) 
+![](/img/landassembly.png) 
 
 Other London boroughs take a different approach to regeneration. Islington has an estate called the Six Acres estate near Finsbury Park. The Six Acres estate was built at the same time as Heygate & Aylesury, by the same contractors (Laing) using the [same system](![](http://betterelephant.org/images/SixAcresRegeneration.png)/images/LBI_SixAcres_Jespersen12M.pdf) (Jespersen 12M).  
 
