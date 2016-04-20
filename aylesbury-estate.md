@@ -67,9 +67,7 @@ When the Council Executive took its [decision](http://moderngov.southwark.gov.uk
 
 ![](/img/landassembly.png) 
 
-Other London boroughs take a different approach to regeneration. Islington has an estate called the Six Acres estate near Finsbury Park. The Six Acres estate was built at the same time as Heygate & Aylesury, by the same contractors (Laing) using the [same system](![](http://betterelephant.org/images/SixAcresRegeneration.png)/images/LBI_SixAcres_Jespersen12M.pdf) (Jespersen 12M).  
-
-![](http://betterelephant.org/images/SixAcresRegeneration.png)
+Other London boroughs take a different approach to regeneration. Islington has an estate called the Six Acres estate near Finsbury Park. The Six Acres estate was built at the same time as Heygate & Aylesury, by the same contractors (Laing) using the [same system](![](http://betterelephant.org/images/SixAcresRegeneration.png)/images/LBI_SixAcres_Jespersen12M.pdf) (Jespersen 12M). 
 
 Instead of demolshing its estate and handing it over to the private sector at a loss, Islington Council chose to refurbish the Six Acres estate in 2012. The 473 homes on the estate were refurbished with [new external wall insulation](http://www.lawtechltd.co.uk/Project_Tollington.aspx), new entry doors, exterior furnishing improvements, [green roofs](http://www.langley.co.uk/asx/six_acres_case_study.pdf) and [cycle shelters](http://greenroofshelters.co.uk/green-roofed-cycle-shelters-for-islington/).
 
@@ -115,6 +113,8 @@ It's important to note that Notting Hill won't be building the new homes. This h
 
 ![](http://35percent.org/img/barratprofit.png)
 
+The Council has [argued](http://www.southwark.gov.uk/news/article/2041/brand_new_library_plans_take_next_step_on_aylesbury) that the regeneration is providing public benefits including a new (replacement) library, a new (replacement) GP clinic, and new (replacement) nursery facilities. But what is not publicised is the fact that these are all being funded 100% by the Council, they are not being funded by Notting Hill or its development partner Barratt.
+
 ## Environment/Sustainability
 The Aylesbury estate masterplan outline planning application gave consent for a total of 1,378 parking spaces in the new development, equating to four out of ten new households with parking.[^3]
 
@@ -132,22 +132,21 @@ Loretta Lees, a leading professor of Human Geography has [published](http://thec
 
 ![](https://62e528761d0685343e1c-f3d1b99a743ffa4142d9d7f1978d9686.ssl.cf2.rackcdn.com/files/108780/width754/image-20160120-26082-kgyeqq.png)
 
-She also [gave evidence](http://35percent.org/2015-05-02-aylesbury-estate-compulsory-purchase-order-public-inquiry/) at the Aylesbury CPO public inquiry showing how leaseholders were also being displaced, not just from the area but to outer boroughs and beyond as a result of the low compensation payments they receive. 
+She also [gave evidence](http://35percent.org/2015-05-02-aylesbury-estate-compulsory-purchase-order-public-inquiry/) at the Aylesbury CPO public inquiry showing how leaseholders were also being displaced, not just from the area but to outer boroughs and beyond as a result of the low compensation payments they receive. Of the circa 250 leaseholders 'decanted' off the estate to date, only 7 have taken up shared ownership on new homes provided by the scheme. 
 
 Both [leaseholders](http://halag.wordpress.com) and [tenants](http://aylesburytenantsfirst.org.uk/) have set up action groups campaigning against demolition and for a more inclusive regeneration.
 
-<iframe width="400" height="225" src="https://www.youtube.com/embed/RtvghCKNJjQ" frameborder="0" allowfullscreen></iframe>
+<iframe width="400" height="225" src="https://www.youtube.com/embed/RtvghCKNJjQ" align="center" frameborder="0" allowfullscreen></iframe>
 
 ![](https://halag.files.wordpress.com/2010/09/snwolvertonleaseholdersimage.png?w=640) 
 
 ## Misc links
 [Video footage](https://youtu.be/jw7LH2SREZI?list=PLHRf7Up774EnVkhes9K_4q9VUlLZtcwOo) of the 2015 Aylesbury estate CPO public inquiry.
-
-[2005 Frost Associates](http://crappistmartin.github.io/images/AylesburyTotalEstateCostReview2.pdf)  
-[April 2005 BPTW](http://crappistmartin.github.io/images/BPTW_Costings_28April20052.pdf)  
-[(Redacted) Development Partnership Agreement(DPA)](http://crappistmartin.github.io/images/LBS_NHHT_DPAgreement.pdf)  
-[(Redacted) DPA Appendices](http://crappistmartin.github.io/images/LBS_NHHT_DPA_Appendices.pdf)  
-[(Redacted) DPA Appendix 7 - Business Plan](http://crappistmartin.github.io/images/LBS_NHHT_DPA_Appendix7_BusinessPlan.pdf)
+[2005 Frost Associates](http://crappistmartin.github.io/images/AylesburyTotalEstateCostReview2.pdf) report.
+[April 2005 BPTW](http://crappistmartin.github.io/images/BPTW_Costings_28April20052.pdf) report. 
+[(Redacted) Development Partnership Agreement(DPA)](http://crappistmartin.github.io/images/LBS_NHHT_DPAgreement.pdf).
+[(Redacted) DPA Appendices](http://crappistmartin.github.io/images/LBS_NHHT_DPA_Appendices.pdf).
+[(Redacted) DPA Appendix 7 - Business Plan](http://crappistmartin.github.io/images/LBS_NHHT_DPA_Appendix7_BusinessPlan.pdf).
 
 __Footnotes:__
 
