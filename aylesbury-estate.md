@@ -127,6 +127,19 @@ Further, the new open spaces in the development will not be public open spaces a
 ![Aylesbury estate green space](https://municipaldreams.files.wordpress.com/2013/12/balcony-view-ii.jpg)
 *Generous existing green space*
 
+## Aylesbury diaspora
+Loretta Lees, a leading professor of Human Geography has [published](http://theconversation.com/camerons-sink-estate-strategy-comes-at-a-human-cost-53358) a study researching the displacement of Aylesbury estate tenants as a result of the regeneration. 
+
+![](https://62e528761d0685343e1c-f3d1b99a743ffa4142d9d7f1978d9686.ssl.cf2.rackcdn.com/files/108780/width754/image-20160120-26082-kgyeqq.png)
+
+She also [gave evidence](http://35percent.org/2015-05-02-aylesbury-estate-compulsory-purchase-order-public-inquiry/) at the Aylesbury CPO public inquiry showing how leaseholders were also being displaced, not just from the area but to outer boroughs and beyond as a result of the low compensation payments they receive. 
+
+Both [leaseholders](http://halag.wordpress.com) and [tenants](http://aylesburytenantsfirst.org.uk/) have set up action groups campaigning against demolition and for a more inclusive regeneration.
+
+<iframe width="400" height="225" src="https://www.youtube.com/embed/RtvghCKNJjQ" frameborder="0" allowfullscreen></iframe>
+
+![](https://halag.files.wordpress.com/2010/09/snwolvertonleaseholdersimage.png?w=640) 
+
 ## Misc links
 [Video footage](https://youtu.be/jw7LH2SREZI?list=PLHRf7Up774EnVkhes9K_4q9VUlLZtcwOo) of the 2015 Aylesbury estate CPO public inquiry.
 
