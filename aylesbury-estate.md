@@ -20,7 +20,7 @@ In 2001, residents on the estate were balloted on the prospect of stock transfer
 In 2002, the council's Head of Housing Regeneration [said](http://www.insidehousing.co.uk/journals/insidehousing/legacydata/uploads/pdfs/IH.020222.028f.pdf) it was planning to press ahead with the redevelopment regardless, claiming that bringing the existing estate up to scratch would cost £200 million, a sum that the council simply didn't have. 
 
 ## Social or 'affordable' rent?
-Residents' concerns about Housing Associations charging higher rents turned out to be well founded, when it [emerged](http://crappistmartin.github.io/blog/2015/09/24/southwark-backs-down-over-bermondsey-spa-dispute/) that Notting Hill Housing (the council's development partner) had secured funding for the scheme, linked to the provision of _affordable rent_ rather than _social rent_ (nevertheless capped at 50% rather than 80% market rent). However, even capped at 50% market rent Southwark's own [housing data](http://www.southwark.gov.uk/downloads/download/2914/affordable_rent_in_southwark_2011) shows that the minimum income required to afford this, is twice what Southwark council tenants earn on average.
+Residents' concerns about Housing Associations charging higher rents turned out to be well founded, when it [emerged](/2015-09-24-southwark-backs-down-over-bermondsey-spa-dispute/) that Notting Hill Housing (the council's development partner) had secured funding for the scheme, linked to the provision of _affordable rent_ rather than _social rent_ (nevertheless capped at 50% rather than 80% market rent). However, even capped at 50% market rent Southwark's own [housing data](http://www.southwark.gov.uk/downloads/download/2914/affordable_rent_in_southwark_2011) shows that the minimum income required to afford this, is twice what Southwark council tenants earn on average.
 
 ![](http://crappistmartin.github.io/images/affordable_rent_50percent.png)
 
@@ -35,6 +35,14 @@ In any case Notting Hill's [planning application](http://planbuild.southwark.gov
 ![](http://crappistmartin.github.io/images/aylesburyahstatement.png)
 
 We note that the replacement social housing is referred to ambiguously as both as social rent and affordable rent throughout the planning application documents. We also note that these would be [material considerations](http://www.11kbw.com/blogs/local-government-law/ambiguous-planning-permission/806) should there later be any dispute about the precise definition of the tenure provision intended. 
+
+We also note Notting Hill's predeliction for affordable rent. Indeed, its CEO Kate Davies was a [fellow](http://www.centreforsocialjustice.org.uk/about-us/csj-fellows/kate-davies) of the [Centre for Social Justice](http://www.centreforsocialjustice.org.uk/) - the conservative think tank set up and chaired by Iain Duncan Smith, which conceived the idea of both affordable rent and right-to-buy for housing association tenants.
+
+![](http://pbs.twimg.com/media/CNUmHQlWIAAdSyI.png)
+
+Kate Davies co-authored [this report](http://www.centreforsocialjustice.org.uk/UserStorage/pdf/Pdf%20reports/HousingPoverty.pdf) by the CSJ, in which she claimed that council estates are _‘ghettos of the poorest and neediest people’_ that are _‘subsidised by the taxpayer’_ and provide _‘low cost living for life funded from the public purse’_. She said that tenants _‘often pay little or no rent, and get their home maintained in good order for free.’_ She concluded that _‘social housing is not a desirable destination’_ and that _‘private ownership is preferable to state provided solutions’_.
+
+When the unpopular social housing reforms were being pushed through parliament by the conservatives in 2011, Notting Hill Housing was one of the few housing providers to write in support of the affordable rent proposals. In its [official consultation response](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/8483/2109183.pdf) it wrote: _“Notting Hill strongly welcomes the Government’s social housing reforms. They will lead to a significant increase in the provision of new social housing, with the higher levels of income that associations will receive from affordable rent tenancies.”_
 
 ## Harvard Gardens
 ![](http://crappistmartin.github.io/images/site7.jpg)
