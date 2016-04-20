@@ -55,6 +55,8 @@ It seems incredible that Southwark are willing to entertain a planning  applicat
 
 The Theatre's Trust comment shows the obvious way forward. Delancey, the owners and developers of the shopping centre, should be told that the Coronet must be retained and L&R told that they must provide 35% affordable housing on-site and that building a venue a fraction of the Coronet's size is not an acceptable excuse for not doing so. If this is done then the value of the Elephant as a cultural destination can  be maintained and a policy-compliant amount of affordable housing secured.
 
+We have set up our [online objections form](http://commentform.herokuapp.com) and encourage people to use it to object to this application. All you need to do is enter your name and email address and your objection will be sent straight to Southwark Council. We have entered suggested wording in the box but please feel free to personalise it by amending or adding to it as you see fit. 
+
 <meta name="twitter:card" content="summary" />
 <meta name="twitter:title" content="Skipton House latest" />
 <meta name="twitter:description" content="'We surrender'- Southwark Council and Skipton House tower of shame latest" />
