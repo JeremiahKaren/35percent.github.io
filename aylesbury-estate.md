@@ -99,11 +99,11 @@ More criticisms of the estate and grounds for its demolition can be found in oth
 
 
 ## Prudent Profits
-The 35% Campaign has also obtained a redacted copy of Notting Hill's [viability assesment](http://crappistmartin.github.io/images/NHHT_AylesburyViabilityAssessment.pdf) for the Aylesbury redevelopment via an FOI/EIR request. Despite being a registered charity, Notting Hill has claimed commercial confidentiality as the grounds for its redactions. Interestingly we see that despite the development being publicly funded and built on public land, Notting Hill claims that _"increasing the number of affordable homes would result in the scheme falling below the prudent profit level for Notting Hill"_. This profit level is 15%, representing approximately £150m extracted in profit which could have been spent on affordable housing.
+The 35% Campaign has also obtained a redacted copy of Notting Hill's [viability assesment](http://crappistmartin.github.io/images/NHHT_AylesburyViabilityAssessment.pdf) for the Aylesbury redevelopment via an FOI/EIR request. Despite being a registered charity, Notting Hill has claimed commercial confidentiality as the grounds for its redactions. Interestingly we see that despite the development being publicly funded and built on public land, Notting Hill claims that _"increasing the number of affordable homes would result in the scheme falling below the prudent profit level for Notting Hill"_. This profit level has been set at 15%, representing approximately £150m extracted in profit which could have been spent on affordable housing.
 
-It's important to note that Notting Hill won't be building the new homes. This has been contracted to Barratt in a joint-venture agreement, which will see Barratt also receiving a slice of the profits. Before Notting Hill takes its slice, Barratt will receive 21% from the sale of all the private units in the development.
+It's important to note that Notting Hill won't be building the new homes. This has been [contracted](http://www.nottinghillhousing.org.uk/our-developments/aylesbury-estate-southwark) to Barratt Homes in a joint-venture agreement, which will see Barratt also receive a healthy slice of the profits. Before Notting Hill takes its slice, Barratt will receive 21% from the sale of all the private units in the development.
 
-![](img/barratprofit.png)
+![](http://35percent.org/img/barratprofit.png)
 
 ## Environment/Sustainability
 The Aylesbury estate masterplan outline planning application gave consent for a total of 1,378 parking spaces in the new development, equating to four out of ten new households with parking.[^3]
