@@ -28,17 +28,19 @@ That's a net loss of 4,275 social rented homes as a direct result of Southwark's
 ## Completing Southwark's clearances with Savills
 <img src="/img/socialcleanserssavills.jpg" align="left" style="margin:10px" width="100">Despite widespread criticism, Southwark is [ploughing ahead](/2015-03-28-manifesto-for-destruction-of-council-estates/) with further regeneration plans, largely informed by a Savills ['Asset Performance Evaluation'](http://moderngov.southwark.gov.uk/documents/s55626/Appendix%204%20Savills%20Evaluation.pdf) undertaken last year (the assets being our council homes).
 
-Savills's evaluation informed the Council's [2016 Housing Asset Management Strategy](https://consultations.southwark.gov.uk/housing-community-services-department-community-engagement-team/asset-management-consultation/supporting_documents/Asset%20Management%20Strategy.pdf), which established that _"11.5% of the stock (4,167 units) has a Net Present Value which is below zero"_ located on what it terms _'High Investment Needs Estates'_[^1] - for which it is recommended that _"options be explored with residents as to whether a small scale redevelopment or regeneration scheme may deliver better outcomes than direct refurbishment."_[^2]
-
-The Savills report goes on to explain the _"key potential options for identified poorly performing stock"_:
+The Savills evaluation rates the Council's 40,000 homes according to their Net Present Value (NPV) and makes clear recommendations outlining the _"key potential options for identified poorly performing stock"_:
 
 ![](http://35percent.org/img/savills2.png)
 
-It also recommends a number of additional strategies to achieve the desired _"improvement in business plan capacity"_. These include increasing rents, albeit _"subject to the Council's policies on rents .. and plans to explored devolved management"_ - (a practice that we argue is already being introduced via the back door[^3]).
+It goes on to recommend a number of additional strategies to achieve the desired _"improvement in business plan capacity"_. These include increasing rents, albeit _"subject to the Council's policies on rents .. and plans to explored devolved management"_ - (a practice that we argue is already being introduced via the back door[^3]).
 
 ![](http://35percent.org/img/savills1.png)
 
-The publication of the Savills report understandably created [concerns](http://www.southwarknews.co.uk/news/your-home-is-worth-less-than-nothing-council-report-evaluates-southwark-properties/) amongst tenants living on the _"poorly performing"_ estates. In response to these, the Council's Housing Boss [tried to reassure](http://www.southwarknews.co.uk/news/no-more-wholesale-estate-demolition-says-housing-boss/) people by explaining that options will be considered on a _“case by case basis”_ and that only _“in a small number of cases it may mean demolition_.”
+Savills's evaluation informed the Council's [2016 Housing Asset Management Strategy](https://consultations.southwark.gov.uk/housing-community-services-department-community-engagement-team/asset-management-consultation/supporting_documents/Asset%20Management%20Strategy.pdf), which explained that _"11.5% of the stock (4,167 units) has a Net Present Value which is below zero"_ located on what it terms _'High Investment Needs Estates'_[^1] - for which it is recommended that _"options be explored with residents as to whether a small scale redevelopment or regeneration scheme may deliver better outcomes than direct refurbishment."_[^2]
+
+![](http://crappistmartin.github.io/images/AssetManagementStrategy7.png)
+
+The publication of the Savills report and asset management strategy understandably created [concerns](http://www.southwarknews.co.uk/news/your-home-is-worth-less-than-nothing-council-report-evaluates-southwark-properties/) amongst tenants living on the _"poorly performing"_ estates. In response, the Council's Housing Boss [tried to reassure](http://www.southwarknews.co.uk/news/no-more-wholesale-estate-demolition-says-housing-boss/) people by explaining that options will be considered on a _“case by case basis”_ and that only _“in a small number of cases it may mean demolition_.”
 
 We [blogged](/2015-12-20-heygate-sell-off-how-much-are-we-getting/) about this in December and noted that Savills is just as happy [selling off](/auctions) Southwark's high-value assets, as it is identifying those low-value assets that could be candidates for demolition. Savills also prepared the notorious [viability assessment](http://crappistmartin.github.io/collated-viability-assessments/) that [allowed](/2015-06-25-heygate-viability-assessment-finally-revealed/) Lendlease to slash the social rented housing on [Elephant Park](http://www.elephantpark.co.uk) (the New Heygate) to just 82 social rented units. 
 
