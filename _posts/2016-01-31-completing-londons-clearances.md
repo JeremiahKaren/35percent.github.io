@@ -32,7 +32,7 @@ The Savills evaluation rates the Council's 40,000 homes according to their Net P
 
 ![](http://35percent.org/img/savills2.png)
 
-It goes on to recommend a number of additional strategies to achieve the desired _"improvement in business plan capacity"_. These include increasing rents, albeit _"subject to the Council's policies on rents .. and plans to explored devolved management"_ - (a practice that we argue is already being introduced via the back door[^3]).
+It goes on to recommend a number of additional strategies to achieve the desired _"improvement in business plan capacity"_. These include increasing rents, albeit _"subject to the Council's policies on rents .. and plans to explore devolved management"_ - (a practice that we argue is already being introduced via the back door[^3]).
 
 ![](http://35percent.org/img/savills1.png)
 
@@ -83,7 +83,7 @@ __Footnotes:__
 
 [^2]: See Paragraph 5.10 (page 22) of the Savills [Asset Performance Evaluation](http://moderngov.southwark.gov.uk/documents/s55626/Appendix%204%20Savills%20Evaluation.pdf)
 
-[^3]: See the [Council's response](https://www.whatdotheyknow.com/request/297570/response/725827/attach/2/Freedom%20of%20Information%20request%20response%20for%20570900.pdf) to [this FOI request](https://www.whatdotheyknow.com/request/temporary_housing_on_estates_for#incoming-725827), which confirms it is charging more than twice the average council rent on properties located within regeneration schemes.
+[^3]: See the [Council's response](https://www.whatdotheyknow.com/request/297570/response/725827/attach/2/Freedom%20of%20Information%20request%20response%20for%20570900.pdf) to [this FOI request](https://www.whatdotheyknow.com/request/temporary_housing_on_estates_for#incoming-725827), which confirms it is charging more than twice the average council rent on properties located within regeneration schemes. See also [this article](http://www.southwarknews.co.uk/news/southwark-council-to-set-up-own-housing-company/) confirming that the Council has set up a private company to manage its new 'council' homes.
 
 <meta name="twitter:card" content="summary" />
 <meta name="twitter:title" content="Completing London's Clearances" />
