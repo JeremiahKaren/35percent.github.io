@@ -74,7 +74,8 @@ The [London Tenants Federation](http://www.londontenants.org/) has published its
 
 * It demolished more social rented homes than it built – losing 170 social rented homes in total and delivered 75 affordable rent homes (a combined total of -95).
 
-
+## Summary
+We have produced a [briefing document](http://35percent.org/img/35percentbriefing.pdf) outlining a summary of the issues listed above, which provides most of the key figures. 
 
 
 __Footnotes:__  
