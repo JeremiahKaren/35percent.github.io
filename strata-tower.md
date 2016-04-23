@@ -12,6 +12,8 @@ The council [sold](http://crappistmartin.github.io/images/RegisterTGL251176.pdf)
 
 The Strata Tower is 148-metres (486 ft) tall, it has 43-storeys comprising 408 flats and was designed by Architects BFLS (formerly Hamiltons).
 
+<iframe width="400" height="225" src="https://www.youtube.com/embed/TDeFFG6WtEs" frameborder="0" align="center" allowfullscreen></iframe>
+
 The Strata was built with the help of shared-ownership Grant Funding from the GLA (25% of the flats are shared ownership). The developer argued (with the help of a viability assessment) that the scheme could not afford to provide the requisite 35% minimum affordable housing or any social rented housing, despite policy requiring that the 35% is split equally between intermediate and social rented. Instead the developer made a £1.3m payment in-lieu of the shortfall and any social rented provision.
 
 ## Wind Turbines
