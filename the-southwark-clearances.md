@@ -36,14 +36,17 @@ In 2014 the Council [instructed](http://moderngov.southwarksites.com/documents/s
 The Council's entire 40,000 homes were each rated according to their Net Present Value (NPV) and recommendations made outlining the _"key potential options for identified poorly performing stock"_:
 
 ![](http://35percent.org/img/savills2.png)
+*2015 Savills [evaluation](http://moderngov.southwark.gov.uk/documents/s55626/Appendix%204%20Savills%20Evaluation.pdf) of council housing stock*
 
 The evaluation went on to recommend a number of additional strategies to achieve the desired _"improvement in business plan capacity"_. These include increasing rents, albeit _"subject to the Council's policies on rents .. and plans to explore devolved management"_ - (a practice that we argue is already being introduced via the back door[^3]).
 
 ![](http://35percent.org/img/savills1.png)
+*2015 Savills [evaluation](http://moderngov.southwark.gov.uk/documents/s55626/Appendix%204%20Savills%20Evaluation.pdf) of council housing stock*
 
 Savills's evaluation informed the Council's [2016 Housing Asset Management Strategy](https://consultations.southwark.gov.uk/housing-community-services-department-community-engagement-team/asset-management-consultation/supporting_documents/Asset%20Management%20Strategy.pdf), which explained that _"11.5% of the stock (4,167 units) has a Net Present Value which is below zero"_ located on what it terms _'High Investment Needs Estates'_[^1] - for which it is recommended that _"options be explored with residents as to whether a small scale redevelopment or regeneration scheme may deliver better outcomes than direct refurbishment."_[^2]
 
 ![](http://crappistmartin.github.io/images/AssetManagementStrategy7.png)
+*2016 Housing Asset Management Strategy*
 
 The publication of the Savills report and asset management strategy understandably created [concerns](http://www.southwarknews.co.uk/news/your-home-is-worth-less-than-nothing-council-report-evaluates-southwark-properties/) amongst tenants living on the _"poorly performing"_ estates in negative value homes. In response, the Council's Housing Boss [tried to reassure](http://www.southwarknews.co.uk/news/no-more-wholesale-estate-demolition-says-housing-boss/) people by explaining that options will be considered on a _“case by case basis”_ and that only _“in a small number of cases it may mean demolition_.”
 
@@ -54,10 +57,12 @@ We [blogged](/2015-12-20-heygate-sell-off-how-much-are-we-getting/) about this i
 So it comes as no surprise to learn that Savills are the brains behind David Cameron's big idea of 'regenerating' 100 council estates, supplied by its Cabinet Office report ['Completing London's Streets'](http://www.savills.co.uk/research_articles/141285/198087-0). The report happens to feature a photo of a Southwark estate, the Brandon, to illustrate how the estate's generous green spaces constitute a _"housing typography"_ that is _"deeply inappropriate for current and coming decades"_.   
 
 ![](http://crappistmartin.github.io/images/completing-londons-streets-brandon.png)
+*Report shows Brandon estate in Southwark as prime candidate for redevelopment* 
 
 The report also uses the Nelson/Portland estate on East Street in Walworth as one of 6 case study sites to expound its ideas (Site C). Two other estates identified by the 35% Campaign are the Glyndon estate in Woolwich (Site B) and the Ampthill Square estate in Camden (Site A). The estates are not easily identified in the report, they are not named and have been disguised by flipping and rotating their layout plans.
 
 ![](http://crappistmartin.github.io/images/completing-londons-streets.png)
+*Case study site C unmasked as the Nelson/Portland estate in Southwark*
 
 Below Savills explains that their case study estates _"do not represent any current, existing or proposed scheme"_, so the residents of Nelson/Portland, Glyndon and Ampthill Square estates can rest easy in their beds...
 
@@ -91,6 +96,7 @@ This figure doesn't even include those lost through Right to Buy during the year
 Southwark's own [consultation](http://35percent.org/img/11000homesconsultation.pdf) on its programme to build 11,000 new homes made it clear that a certain number of these will involve the wholesale redevelopment of existing council estates: 
 
 ![Southwark's consultation on its 11000 new homes proposals](http://35percent.org/img/pledge6.png)
+*Extract from consultation on 11000 new homes proposals*
 
 In addition, the Council has [set up](http://www.southwarknews.co.uk/news/southwark-council-to-set-up-own-housing-company/) a Special Purpose Vehicle (SPV) - __Southwark Housing Company Ltd__ - a separate limited company that will own and manage the new 'council' homes. This has led to fears that these will be let at higher rents, as is the case where other councils are using SPVs to build 'council' homes - i.e. LB Lambeth. 
 
