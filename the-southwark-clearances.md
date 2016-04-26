@@ -46,7 +46,7 @@ The evaluation went on to recommend a number of additional strategies to achieve
 Savills's evaluation informed the Council's [2016 Housing Asset Management Strategy](https://consultations.southwark.gov.uk/housing-community-services-department-community-engagement-team/asset-management-consultation/supporting_documents/Asset%20Management%20Strategy.pdf), which explained that _"11.5% of the stock (4,167 units) has a Net Present Value which is below zero"_ located on what it terms _'High Investment Needs Estates'_[^1] - for which it is recommended that _"options be explored with residents as to whether a small scale redevelopment or regeneration scheme may deliver better outcomes than direct refurbishment."_[^2]
 
 ![](http://crappistmartin.github.io/images/AssetManagementStrategy7.png)
-*2016 Housing Asset Management Strategy*
+*2016 [Housing Asset Management Strategy](https://consultations.southwark.gov.uk/housing-community-services-department-community-engagement-team/asset-management-consultation/supporting_documents/Asset%20Management%20Strategy.pdf)*
 
 The publication of the Savills report and asset management strategy understandably created [concerns](http://www.southwarknews.co.uk/news/your-home-is-worth-less-than-nothing-council-report-evaluates-southwark-properties/) amongst tenants living on the _"poorly performing"_ estates in negative value homes. In response, the Council's Housing Boss [tried to reassure](http://www.southwarknews.co.uk/news/no-more-wholesale-estate-demolition-says-housing-boss/) people by explaining that options will be considered on a _“case by case basis”_ and that only _“in a small number of cases it may mean demolition_.”
 
