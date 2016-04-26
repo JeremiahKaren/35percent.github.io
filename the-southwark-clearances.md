@@ -30,7 +30,10 @@ That's a net loss of 4,275 social rented homes as a direct result of Southwark's
 <img src="/img/socialcleanserssavills.jpg" align="left" style="margin:10px" width="100">Despite widespread criticism, Southwark is [ploughing ahead](/2015-03-28-manifesto-for-destruction-of-council-estates/) with further regeneration plans, largely informed by Savills which it has instructed to develop and manage an (APEX) asset management system and advise on strategy for future management of its housing stock. In 2013 Savills produced a [Housing Stock Options report](http://moderngov.southwark.gov.uk/documents/s39341/Appendix%207%20Savills%20finance%20and%20stock%20options%20appraisal%20report.pdf), which described a _“legacy of housing in Southwark that is now reaching the end of its life”_ and outlined the _“potential for the Council to improve its business plan .. through effective asset management. This would mean identifying those assets which are a net liability in the plan, and exploring alternative options for those properties”_
 . 
 
-In 2015 Savills conducted an ['Asset Performance Evaluation'](http://moderngov.southwark.gov.uk/documents/s55626/Appendix%204%20Savills%20Evaluation.pdf) (the assets being our council homes), which rated each of these according to their Net Present Value (NPV) and made recommendations outlining the _"key potential options for identified poorly performing stock"_:
+In 2014 the Council [instructed](http://moderngov.southwarksites.com/documents/s47488/Report%20Long%20term%20plans%20for%20the%20delivery%20of%20new%20council%20homes.pdf) Savills to conduct an ['Asset Performance Evaluation'](http://moderngov.southwark.gov.uk/documents/s55626/Appendix%204%20Savills%20Evaluation.pdf), which was to _"identify as much potential land as possible for development opportunity"_, involving _"a detailed and comprehensive appraisal to be undertaken of the performance of the Housing Revenue Account (HRA) assets"_ (ie. our council homes), leading to _"an assessment of their worth to the housing business."_
+
+
+The Council's entire 40,000 homes were each rated according to their Net Present Value (NPV) and recommendations made outlining the _"key potential options for identified poorly performing stock"_:
 
 ![](http://35percent.org/img/savills2.png)
 
