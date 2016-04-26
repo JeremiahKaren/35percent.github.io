@@ -57,12 +57,12 @@ We [blogged](/2015-12-20-heygate-sell-off-how-much-are-we-getting/) about this i
 So it comes as no surprise to learn that Savills are the brains behind David Cameron's big idea of 'regenerating' 100 council estates, supplied by its Cabinet Office report ['Completing London's Streets'](http://www.savills.co.uk/research_articles/141285/198087-0). The report happens to feature a photo of a Southwark estate, the Brandon, to illustrate how the estate's generous green spaces constitute a _"housing typography"_ that is _"deeply inappropriate for current and coming decades"_.   
 
 ![](http://crappistmartin.github.io/images/completing-londons-streets-brandon.png)
-*Report shows Brandon estate in Southwark as prime candidate for redevelopment* 
+*Savills report shows Brandon estate in Southwark as prime candidate for redevelopment* 
 
 The report also uses the Nelson/Portland estate on East Street in Walworth as one of 6 case study sites to expound its ideas (Site C). Two other estates identified by the 35% Campaign are the Glyndon estate in Woolwich (Site B) and the Ampthill Square estate in Camden (Site A). The estates are not easily identified in the report, they are not named and have been disguised by flipping and rotating their layout plans.
 
 ![](http://crappistmartin.github.io/images/completing-londons-streets.png)
-*Case study site C unmasked as the Nelson/Portland estate in Southwark*
+*Savills Case study site C unmasked as the Nelson/Portland estate in Southwark*
 
 Below Savills explains that their case study estates _"do not represent any current, existing or proposed scheme"_, so the residents of Nelson/Portland, Glyndon and Ampthill Square estates can rest easy in their beds...
 
