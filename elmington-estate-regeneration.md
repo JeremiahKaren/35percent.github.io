@@ -33,7 +33,7 @@ Having made promises of a 'right to return' to former tenants, [this Council rep
 
 
 ## Later phases
-In July 2012, the Council's Cabinet [resolved](http://moderngov.southwark.gov.uk/documents/s30291/Report%20Disposal%20of%20the%20Councils%20freehold%20interest%20in%20Elmington%20estate%20sites%20C%20D%20E%20and%20G%20Camberw.pdf) to sell remaining sites C,D,E and G to a developer on the basis that replacement 1&2 bed 'social' housing would be affordable rent, capped at 65% market rent. 
+In July 2012, the Council's Cabinet [resolved](http://moderngov.southwark.gov.uk/documents/s30291/Report%20Disposal%20of%20the%20Councils%20freehold%20interest%20in%20Elmington%20estate%20sites%20C%20D%20E%20and%20G%20Camberw.pdf) to sell remaining sites C,D,E and G to developer Bellway Homes on the basis that replacement 1&2 bed 'social' housing would be affordable rent, capped at 65% market rent. These will be managed by [Family Mosaic](http://www.familymosaic.co.uk/home/index.html) - a housing assocation that features in our [list](http://35percent.org/img/section106_tenure_breaches.pdf) of those who have delivered affordable rent instead of social rent approved in the planning consent. 
 
 ![](http://crappistmartin.github.io/images/elmingtondisposal.png)
 
