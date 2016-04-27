@@ -8,14 +8,13 @@ footer: true
 
 The Elmington regeneration is split into 10 blocks (A-J), of which F, H, I and J will be refurbished and the remainder redeveloped.
 
-![](http://35percent.org/img/Elmington.jpeg)
-*Elmington Site A under demolition*
-
 Sites A and B are currently being redeveloped By Notting Hill Housing Group, where [planning documents](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!XXOecz%2bOmRk2JFLLeX0iRw%3d%3d!%7d%7d%7d) confirm that it has [demolished](http://directobjective.blogspot.co.uk/2011/12/elmington-estate-revisited.html) 294 Council homes and is replacing them with 279 homes and 117 car parking spaces in a 'mixed tenure' development that it has branded [Camberwell Fields](http://www.camberwellfields.com/). 
 
 ![](http://crappistmartin.github.io/images/camberwellfieldslogo.png)
+*Notting Hill's marketing for redeveloped site A&B*
 
 ![](http://crappistmartin.github.io/images/elmingtonestate.jpg)
+*Elmington site A&B demolition*
 
 
 The [planning committee report](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!XXOecz%2bOmRk2JFLLeX0iRw%3d%3d!%7d%7d%7d) for Camberwell Fields confirms that of the 279 new homes, 22 one & two bed units would be let at 'affordable rent' of 80% market rent and 41 three-bed units would be let at 65% market rent (which it misleadingly refers to as social rent elsewhere in the report).
@@ -23,6 +22,9 @@ The [planning committee report](http://planbuild.southwark.gov.uk/documents/?Get
 ![](https://pbs.twimg.com/media/CgB9qUqXIAEC4RY.jpg)
 
 The departure from the Council's policy requirement of providing (truly) social rented housing was justified by Notting Hill's submission of a viability appraisal, which pleaded development poverty. The [planning committee report](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!XXOecz%2bOmRk2JFLLeX0iRw%3d%3d!%7d%7d%7d) reassured the committee that the viability assessment had _"been scrutinised by a Property Valuer on behalf of the Council"_ and that _"the Valuer concluded that the appraisal was generally sound."_ - (para 75). However, the [GLA report](https://www.london.gov.uk/sites/default/files/PAWS/media_id_204229/edmund_street_se5_report.pdf) for the application said that _"Southwark Council is assessing the viability appraisal in house."_ (para 32) 
+
+![](http://35percent.org/img/Elmington.jpeg)
+*Elmington Site A*
 
 ## Right to return
 Having made promises of a 'right to return' to former tenants, [this Council report](http://moderngov.southwark.gov.uk/mgConvert2PDF.aspx?ID=17695) flags up the problems associated with the higher rent levels proposed. It acknowledges discretely that tenants may not be able to exercise their right to return because the replacement housing may not be _'tailored to their housing needs'_.
