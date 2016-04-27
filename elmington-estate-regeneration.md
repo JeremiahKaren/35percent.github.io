@@ -4,11 +4,12 @@ title: "Elmington Estate Regeneration"
 sharing: true
 footer: true
 ---
-![](http://1.bp.blogspot.com/_NXA8uOff0Lc/SwEmUGsp4BI/AAAAAAAAE_U/OXY8edV7nPI/s1600/Elmington.jpeg)
+![](http://crappistmartin.github.io/images/elmington.png)
 
 The Elmington regeneration is split into 10 blocks (A-J), of which F, H, I and J will be refurbished and the remainder redeveloped.
 
-![](http://crappistmartin.github.io/images/elmington.png)
+![](http://35percent.org/Elmington.png)
+*Elmington Site A under demolition*
 
 Sites A and B are currently being redeveloped By Notting Hill Housing Group, where [planning documents](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!XXOecz%2bOmRk2JFLLeX0iRw%3d%3d!%7d%7d%7d) confirm that it has [demolished](http://directobjective.blogspot.co.uk/2011/12/elmington-estate-revisited.html) 294 Council homes and is replacing them with 279 homes and 117 car parking spaces in a 'mixed tenure' development that it has branded [Camberwell Fields](http://www.camberwellfields.com/). 
 
@@ -38,8 +39,8 @@ In Oct 2012 the Council's Cabinet [resolved](http://moderngov.southwark.gov.uk/i
 
 Tenants and leaseholders are currently being 'decanted' i.e. [evicted](https://housingactionsouthwarkandlambeth.wordpress.com/2015/05/05/eviction-resistance-success-in-camberwell/) from these phases ahead of demolition. Tenants are still being promised a 'right to return' to the new homes, but are not being told that the replacement 'social' housing will be three times the level of Council rents. Leaseholders are being offered shared ownership deals on the replacement homes, but the [rent and repayments](http://crappistmartin.github.io/images/CamberwellFields.pdf) on these requires a minimum household income of at least £50k.
 
-
-![](http://crappistmartin.github.io/images/elmingtondemolition.jpg)
+![](https://pbs.twimg.com/media/Cg-Ek6uWgAAMaoF.jpg)
+*Sites C & D being demolished*
 
 ## The costs vs the benefits
 In 2009, the Council [estimated](http://moderngov.southwark.gov.uk/documents/s9280/Executive%20report.pdf) that refurbishing the estate would cost a total of £10m. 

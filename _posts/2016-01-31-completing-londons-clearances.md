@@ -58,6 +58,20 @@ Below Savills explains that their case study estates _"do not represent any curr
 
 ![](http://crappistmartin.github.io/images/ybarthes.png)
 
+## City Villages
+Savills and Cameron's _'Completing London's Street's_ report echoes many of the proposals put forward by Labour Lord Andrew Adonis, in his [_'City Villages'_](http://www.ippr.org/publications/city-villages-more-homes-better-communities) paper published earlier in the year. We [blogged in march](http://35percent.org/2015-03-28-manifesto-for-destruction-of-council-estates/) about Adonis's 'City Villages' and how they constituted a manifesto for the destruction of council estates. We also showed how he received support from Southwark Council leader Peter John, who wrote a [whole chapter](http://ippr.org/read/city-villages-more-homes-better-communities#regenerating-elephant-and-castle) of the paper, holding the Heygate regeneration up as a successful model and blueprint for the manifesto.
+
+Councillor John is a full subscriber to this cross-party 'sink estate' rhetoric. He wrote an [article](http://www.progressonline.org.uk/2016/01/14/camerons-has-much-to-learn-on-housing/) in support of David Cameron's estate demolition proposals in Jan 2016, arguing only that Cameron's plans weren't ambitious enough and that more government funding should be allocated to the programme. In the article he describes the Heygate & Aylesbury estates as _"symbols of inner-city neglect, with crime, antisocial behaviour, health inequalities and unemployment the only things that flourished there"_. He added that _"both had become hard to let to council tenants, and reinforced poverty, crime and inequality"_ and concluded that in any case, _"most brutal estates do not make the best use of the land they occupy."_ 
+
+![Cllr Peter John Quote](http://35percent.org/img/peterjohnquote_1and2.png)
+
+Councillor John has long been echoing these stereotyped opinions of council estates which seek to justify the demolitions. In a [radio interview](https://youtu.be/87Yg_SJoPjw?t=1m18s) he described the Heygate & Aylesbury estates as a _"byword for social failure, crime and anti-social behaviour - with all the sorts of problems that people are talking about being the problem with massive council estates."_
+
+In a local [news interview](http://www.southwarknews.co.uk/news/my-conscience-is-clear-council-leader-peter-john-comes-out-fighting-as-heygate-deal-scrutinised/) he claimed that _"brutalist architecture wasn’t conducive to building a successful economic community"._ He evidenced this claim with an anecdote, in which he described local MP Harriet Harman's visit to the Aylesbury estate: _"Harriet and a councillor were in a lift with a man injecting drugs in his penis. That’s not the sign of a successful community"._
+
+On his [blog](http://cllrpeterjohn.blogspot.co.uk/2012/06/development-partner-for-aylesbury.html) he repeats the same criticisms of council estates touted by the Tories and their proposed replacement by traditional street patterns: _"The answers which the Aylesbury provided were soon overshadowed by the problems which were inherent in the design of the huge monolithic and brutalist blocks.  The previous street pattern was replaced by long corridors and above-ground walkways, which paid little regard to the human desire to travel at ground level and have neighbours and communities within easy reach."_
+
+
 ## There is an alternative
 If local communities are to be protected then regeneration has to mean something other than state-sponsored gentrification championed by the property services industry, which makes great profit from it in every which way. 
 
@@ -65,26 +79,34 @@ If local communities are to be protected then regeneration has to mean something
 
 ![](http://crappistmartin.github.io/images/dhscosts.png)
 
-## Latest GLA housing figures
-The [London Tenants Federation](http://www.londontenants.org/) has published its [analysis](/img/LTF_delivery_of_housing_in_London_2014-15.pdf) of the latest [GLA housing data](http://data.london.gov.uk/dataset/gla-affordable-housing-programme-outturn/resource/0ff48fbb-5119-4af1-9692-d0fa57093371) published for 2014/15. The analysis found that:
+## 11,000 new 'council' homes
+The council's blanket response to criticism of its council estate clearances, is that it has embarked upon an ambitious plan to build 11,000 new council homes (over the next 30 years).
 
-* Southwark delivered 1,965 homes in 2014/15.
+However, in the two years since the Council launched this ambitious programme it has built a total of just 152[^4]. Meanwhile, according to GLA data during the last year alone the borough has seen a net loss of 170 social rented homes[^5]. 
 
-* It delivered only 51 (net) affordable homes (3% of the homes delivered in the borough).
+This figure doesn't even include those lost through Right to Buy during the year and according to figures quoted in [this article](http://crappistmartin.github.io/images/SNHeygateOverage.pdf) the council is predicted to lose 9,000 council homes through RtB during the next 30 years.
 
-* It demolished more social rented homes than it built – losing 170 social rented homes in total and delivered 75 affordable rent homes (a combined total of -95).
+Southwark's own [consultation](http://35percent.org/img/11000homesconsultation.pdf) on its programme to build 11,000 new homes made it clear that the programme will involve the wholesale redevelopment of existing council estates: 
 
-## Summary
-We have produced a [briefing document](http://35percent.org/img/35percentbriefing.pdf) outlining a summary of the issues listed above, which provides most of the key figures. 
+![Southwark's consultation on its 11000 new homes proposals](http://35percent.org/img/pledge6.png)
+*Extract from consultation on 11000 new homes proposals*
+
+In addition, the Council has [set up](http://www.southwarknews.co.uk/news/southwark-council-to-set-up-own-housing-company/) a Special Purpose Vehicle (SPV) - __Southwark Housing Company Ltd__ - a separate limited company that will own and manage the 11,000 new 'council' homes. This has led to fears that these will be let at higher rents, as is the case where other councils are using SPVs to build 'council' homes - i.e. LB Lambeth. 
+
 
 
 __Footnotes:__  
+
 
 [^1]: See paragraph 3.2.3 of the Council's [Housing Asset Management Strategy](https://consultations.southwark.gov.uk/housing-community-services-department-community-engagement-team/asset-management-consultation/supporting_documents/Asset%20Management%20Strategy.pdf)
 
 [^2]: See Paragraph 5.10 (page 22) of the Savills [Asset Performance Evaluation](http://moderngov.southwark.gov.uk/documents/s55626/Appendix%204%20Savills%20Evaluation.pdf)
 
 [^3]: See the [Council's response](https://www.whatdotheyknow.com/request/297570/response/725827/attach/2/Freedom%20of%20Information%20request%20response%20for%20570900.pdf) to [this FOI request](https://www.whatdotheyknow.com/request/temporary_housing_on_estates_for#incoming-725827), which confirms it is charging more than twice the average council rent on properties located within regeneration schemes. See also [this article](http://www.southwarknews.co.uk/news/southwark-council-to-set-up-own-housing-company/) confirming that the Council has set up a private company to manage its new 'council' homes.
+
+[^4]: See [Council Assembly Question 1, 26 Jan 2016](http://moderngov.southwark.gov.uk/documents/s59593/Members%20questions%20with%20responses.pdf). NB: only 21 of the 75 Willow Walk homes are social rented council homes.
+
+[^5]: The [London Tenants Federation](http://www.londontenants.org/) has published its [analysis](/img/LTF_delivery_of_housing_in_London_2014-15.pdf) of the latest [GLA housing data](http://data.london.gov.uk/dataset/gla-affordable-housing-programme-outturn/resource/0ff48fbb-5119-4af1-9692-d0fa57093371) published for 2014/15. The analysis found that Southwark demolished more social rented homes than it built – a net loss of 170 social rented homes in total.
 
 <meta name="twitter:card" content="summary" />
 <meta name="twitter:title" content="Completing London's Clearances" />
