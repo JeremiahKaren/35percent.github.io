@@ -12,10 +12,13 @@ Half of the Silwood estate used to lie in Lewisham, the rest of the estate used 
 
 ![](http://crappistmartin.github.io/images/LRegisterSilwood.png)
 
+The Land Registry documents and the committee report both confirmed that the Council had signed an 'overage' agreement as part of the deal. This means that it would supposedly receive a share of the profits should sale price targets for the private units be exceeded upon completion. 
 
-The Land Registry documents and the committee report both confirmed that the Council had signed an 'overage' agreement as part of the deal. This means that it would supposedly receive a share of the profits once the new development was complete. 
+![](http://35percent.org/img/silwoodoverage.png)
 
-We made an [FOI request](https://www.whatdotheyknow.com/request/silwood_estate_regeneration_site/new) asking how much overage (if any) the Council received from the agreement.
+Given the 40% rise in property prices between the signing of the overage deal and completion of the development, we made an [FOI request](https://www.whatdotheyknow.com/request/silwood_estate_regeneration_site/new) in March 2016, asking how much overage the Council had received. The Council responded that _"I am able to confirm that £546,047 was received in September 2014, but a further overage payment is currently being negotiated."_
+
+The response is baffling. Why hasn't Southwark profited from the huge increase in property prices between 2009 and 2014 when the development completed? Why is it having to try and 'negotiate' futher overage now? Surely if a legal agreement had been signed securing the overage then negotiation wouldn't be necessary?
 
 ![](http://crappistmartin.github.io/images/silwood.jpg)
 
