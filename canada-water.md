@@ -36,7 +36,7 @@ Besides having emphasised that the social rented units would be truly 'target re
 However, according to the Council's planning portal there has been no such viability review, despite the significant increase in property prices since the scheme was consented in 2011.
 
 ## Canada Water Sites A&B
-![](https://pbs.twimg.com/media/CKr8DTiWUAAJn7n.jpg)
+![](http://35percent.org/img/maplequays.jpg)
 
 This first phase of the Canada Water regeneration comprised 9 buildings ranging up to 26 storeys, providing 668 residential units of which 47 are shared ownership and 123 are 'affordable rent' of up to 80% market rent.
 
