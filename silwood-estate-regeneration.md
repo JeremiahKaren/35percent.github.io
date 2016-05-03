@@ -16,9 +16,9 @@ The Land Registry documents and the committee report both confirmed that the Cou
 
 ![](http://35percent.org/img/silwoodoverage.png)
 
-Given the 40% rise in property prices between the signing of the overage deal and completion of the development, we made an [FOI request](https://www.whatdotheyknow.com/request/silwood_estate_regeneration_site/new) in March 2016, asking how much overage the Council had received. The Council responded that _"I am able to confirm that £546,047 was received in September 2014, but a further overage payment is currently being negotiated."_
+Given the 40%+ rise in Southwark property prices between the signing of the overage deal and completion of the development, we made an [FOI request](https://www.whatdotheyknow.com/request/silwood_estate_regeneration_site/new) in March 2016, asking how much overage the Council had received. The Council responded that it was _"able to confirm that £546,047 was received in September 2014, but a further overage payment is currently being negotiated."_
 
-The response is baffling. Why hasn't Southwark profited from the huge increase in property prices between 2009 and 2014 when the development completed? Why is it having to try and 'negotiate' futher overage now? Surely if a legal agreement had been signed securing the overage then negotiation wouldn't be necessary?
+Southwark's response is baffling. Why hasn't it profited from the huge increase in property prices between 2009 and 2014 when the development completed? Why is it having to try and 'negotiate' futher overage now? Surely if a legal agreement had been signed securing the overage then 'further negotiation' wouldn't be necessary?
 
 ![](http://crappistmartin.github.io/images/silwood.jpg)
 
