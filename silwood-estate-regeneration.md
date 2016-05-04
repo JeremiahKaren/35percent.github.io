@@ -35,6 +35,8 @@ However, the [Section 106 legal](http://planbuild.southwark.gov.uk/documents/?Ge
 
 We [wrote](https://www.whatdotheyknow.com/request/conversions_from_social_rent_to_3) to Notting Hill asking whether these 22 units were currently being let at social rents or affordable rent. They didn't reply and have not responded to follow up requests.
 
+We since discovered that the 22 'social rented' units are listed in the [GLA affordable housing database](http://data.london.gov.uk/dataset/gla-affordable-housing-programme-outturn/resource/0c87e5dc-f1e9-4edf-b246-bef6b40a9ba3) as affordable rent.
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ZM733_MrNfI" frameborder="0" allowfullscreen></iframe>
 
 
