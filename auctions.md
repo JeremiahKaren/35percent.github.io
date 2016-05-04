@@ -79,3 +79,23 @@ The table below is by no means an exhaustive list of all the homes it has flogge
 | <img src="http://crappistmartin.github.io/images/dunstonroad.jpg" height="200" width="200"> | [153 Dunston's Rd, SE22 OHB](http://crappistmartin.github.io/images/dunstonroad.pdf) | £200k | Sep 2010 |
 | <img src="http://crappistmartin.github.io/images/darrellroad.jpg" height="200" width="200"> | [44 Darrell Rd, SE22 9NL](http://crappistmartin.github.io/images/darrellroad.pdf) | £170k | Oct 2010 |
 | <img src="http://crappistmartin.github.io/images/141fortroad.jpg" height="200" width="200"> | [141 Fort Rd, SE1 5PZ](http://crappistmartin.github.io/images/141fortroad.pdf) | unavailable | Apr 2010 |
+
+
+The Council has not just been selling off council homes, it has also been selling off commercial and other properties it owns.
+
+For example it owns a number of pubs in the borough. This is the Oriwu Spot pub on Champion Hill in East Dulwich, which the Council [sold](/img/LRegisterOriwuSpot.pdf) to developers for £170k in 2012. 
+
+![](/img/oriwuspot.jpg)
+*Oriwu Spot pub - sold by the Council to developers in 2012 for redevelopment*
+
+This is the Uxbridge arms on the Rockingham estate at Elephant & Castle. It was [sold](http://35percent.org/img/LRegister_uxbridgearms.pdf) by the Council to developers in 2013 for just £400k. It is currently being demolished 
+
+![](/img/uxbridgearms.jpg)
+*Uxbridge Arms on Rockingham estate - sold by the Council to developers*
+
+This is what will replace the Uxbridge Arms - 100% private housing. Not one of the new homes in this 6-storey block will be in any way affordable.
+
+![](/img/TheUxbridge.png)
+*Development replacing the Uxbridge Arms - 100% private market housing*
+
+
