@@ -10,12 +10,15 @@ Southwark has consistently opposed the provision of affordable rent on the basis
 
 ![](/img/southwarkplanextract.png)
 
-However, in March 2015 - exchange 44 units at affordable rent.. 
+However, the vast majority of replacement social rented homes on the Heygate were substituted for affordable rent and in March 2015 we [discovered](http://35percent.org/2015-03-18-stand-up-for-more-social-housing/) that 44 social rented units that were supposed to have replaced 54 council homes demolished at the Bermondsey Spa regeneration had been provided at affordable rent of 62% market rent - in breach of planning conditions. 
 
-the following list of identified breaches in tenure provision causes concern that the Council is opposed to affordable rent only in appearance - not in practice. The list is by no means exhaustive and we are calling for a full audit in order to establish the full scale, of what we believe to be a systemic monitoring and compliance failure on behalf of the local planning authority.
+We subsequently discovered that housing associations were routinely breaching planning conditions by substituting social for affordable rent. By cross-checking planning committee reports, section 106 agreements, Land Registry information and the GLA affordable housing outturn dataset (1/4/2011 – 31/3/2014), we have compiled a [list](http://35percent.org/img/section106_tenure_breaches.pdf) of identified breaches in tenure provision. This causes concern that the Council is opposed to affordable rent only in appearance - not in practice; and concern that the planning process is being abused so that the political administration can claim to have delivered social rented housing, which is in fact nothing of the kind.
 
-Until such time as there has been a borough-wide s106 audit, enforcement action taken and procedures put in place for ongoing monitoring of compliance, then the Council’s commitment to social rented housing remains in question.
+The [list](http://35percent.org/img/section106_tenure_breaches.pdf) is by no means exhaustive and we are calling for a full audit in order to establish the full scale, of the problem.
+
+Until such time as there has been a borough-wide s106 audit, enforcement action taken and procedures put in place for ongoing monitoring of compliance, then the Council’s use of the term __social rent__ must be assumed to be __affordable rent__.
  
+The following are a few examples of the 43 breaches in our [list](http://35percent.org/img/section106_tenure_breaches.pdf):
 
 ## Colorama buildings
 This redevelopment of the former [Colorama film processing warehouse](http://35percent.org/colorama/) in SE1 was completed in April 2016. 

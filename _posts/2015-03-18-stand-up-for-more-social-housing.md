@@ -3,7 +3,7 @@ layout: post
 title: "Stand up for more social housing (at 80% market rent)"
 date: 2015-03-18 09:29:17 +0000
 comments: true
-categories: 
+categories: [Estate regeneration, Aylesbury regeneration, Affordable housing definitions]
 ---
 _"Let's all of us stand up for more social housing"_ was the [call to arms](https://twitter.com/NottingHillHG/status/577771553842167808) during the ['impassioned speech'](http://www.24dash.com/news/housing/2015-03-18-The-Homes-for-Britain-bus-relay-reaches-Westminister) from Notting Hill Housing Trust's Director Kate Davies at yesterday's ['Homes for Britain'](http://www.theguardian.com/society/2015/mar/17/london-housing-rally-protesters-gather-at-homes-for-britain-event) rally. The rally was part of an ongoing campaign organised by the [National Housing Federation](http://www.housing.org.uk/), of which NHHT is a founding member. 
 
