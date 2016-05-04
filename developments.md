@@ -110,6 +110,16 @@ subtitle: Summary of regeneration schemes
 </br>
 </article>
 
+<article class="post-preview">
+  
+<h1><a href="/coopers-road-estate/">Coopers Road estate regeneration</a></h1>
+
+<img src="/img/coopersroad1.jpg" width="100" align="left">
+</br></br></br>
+</br>
+</br>
+</article>
+
 
 <article class="post-preview">
   

@@ -11,28 +11,27 @@ Southwark Council has [fought vehemently](http://www.southwark.gov.uk/news/artic
 Southwark has consistently opposed the provision of affordable rent on the basis that it is not affordable for the majority of the borough’s residents and its [planning policy](http://www.southwark.gov.uk/download/downloads/id/12867/new_southwark_plan_preferred_option_consultation_version_web) is unambiguous in its requirement for social rather than affordable rent:
 
 ![](/img/southwarkplanextract.png)
+*Extract from [New Southwark Plan Oct 2015](http://www.southwark.gov.uk/download/downloads/id/12867/new_southwark_plan_preferred_option_consultation_version_web)*
 
-However, the vast majority of replacement social rented homes on the Heygate were substituted for affordable rent and in March 2015 we [discovered](http://35percent.org/2015-03-18-stand-up-for-more-social-housing/) that 44 social rented units that were supposed to have replaced 54 council homes demolished at the Bermondsey Spa regeneration had been provided at affordable rent of 62% market rent - in breach of planning conditions. We then discovered that Notting Hill Housing Association had pulled the same tenure switch with its regeneration of the Silwood estate in Bermondsey and that housing associations across the borough were routinely breaching planning conditions by substituting social for affordable rent.
+However, the vast majority of replacement social rented homes on the Heygate were substituted for affordable rent and in March 2015 we [discovered](http://35percent.org/2015-03-18-stand-up-for-more-social-housing/) that 44 social rented units that were supposed to have replaced 54 council homes demolished at the Bermondsey Spa regeneration, had in fact been provided as affordable rent of 62% market rent - in breach of the planning approval. We then discovered that Notting Hill Housing Association had pulled the same tenure switch with its regeneration of the Silwood estate in Bermondsey and that housing associations across the borough were routinely breaching planning approvals by substituting social for affordable rent.
 
-By cross-checking planning committee reports, section 106 agreements, Land Registry information and the [GLA affordable housing outturn dataset](http://data.london.gov.uk/dataset/gla-affordable-housing-programme-outturn/resource/0c87e5dc-f1e9-4edf-b246-bef6b40a9ba3), we have compiled a [list](http://35percent.org/img/section106_tenure_breaches.pdf) of identified breaches in tenure provision. This causes great concern that the Council is opposed to affordable rent only in appearance - not in practice; and concern that the planning process is being abused so that the political administration can claim to have delivered social rented housing, which is in fact nothing of the kind.
+By cross-checking planning committee reports, section 106 agreements, Land Registry information and the [GLA affordable housing outturn dataset](http://data.london.gov.uk/dataset/gla-affordable-housing-programme-outturn/resource/0c87e5dc-f1e9-4edf-b246-bef6b40a9ba3), we have compiled a [long list](http://35percent.org/img/section106_tenure_breaches.pdf) of identified breaches in tenure provision. This causes great concern that the Council is opposed to affordable rent only in appearance - not in practice. We believe that the Council's admininstration is turning a blind eye to this practice, which helps it make claims to delivering social rented housing in the borough, which is in fact nothing of the kind.
 
 The [list](http://35percent.org/img/section106_tenure_breaches.pdf) is by no means exhaustive and we are calling for a full audit in order to establish the full scale, of the problem. We submitted it to the Council as part of our corporate complaint in December 2015 and are yet to receive a substantive response.
 
 Until such time as there has been a borough-wide s106 audit, enforcement action taken and procedures put in place for ongoing monitoring of compliance, then the Council’s use of the term __social rent__ must be assumed to mean __affordable rent__.
  
-The following are a few examples of the 43 breaches identified in our [list](http://35percent.org/img/section106_tenure_breaches.pdf). In most cases the rents are currently lower than 80% market rent, but still significantly higher than the [average £100pw council rents](http://www.southwark.gov.uk/news/article/1738/southwark_council_keeping_social_rent_affordable_for_londoners). In 2015, Southwark conducted an [Affordable Rent Study](http://www.southwark.gov.uk/downloads/download/2914/affordable_rent_in_southwark_2011), which showed that Housing association social rents are currently around 25% of market rent and concluded that _"as market rents are very high in Southwark, significant incomes are required to afford high proportions of market rent, but average incomes of people living in Southwark are low."_ The study [showed](http://www.southwark.gov.uk/download/downloads/id/13082/affordable_rent_study_-_december_2015) that a single person on the average median income for Southwark cannot afford more than 26% market rent and that a lone parent working on average income cannot afford more than 11% market rent. 
+The following are a few examples of the 43 breaches identified in our [list](http://35percent.org/img/section106_tenure_breaches.pdf). In most cases the rents are currently lower than 80% market rent, but still significantly higher than the [average £100pw council rents](http://www.southwark.gov.uk/news/article/1738/southwark_council_keeping_social_rent_affordable_for_londoners). In 2015, Southwark conducted an [Affordable Rent Study](http://www.southwark.gov.uk/downloads/download/2914/affordable_rent_in_southwark_2011), which concluded that _"as market rents are very high in Southwark, significant incomes are required to afford high proportions of market rent, but average incomes of people living in Southwark are low."_ The study [showed](http://www.southwark.gov.uk/download/downloads/id/13082/affordable_rent_study_-_december_2015) that a single person on the average median income for Southwark cannot afford more than 26% market rent and that a lone parent working on average income cannot afford more than 11% market rent. 
 
 ![](/img/arstudy.png)
 *Southwark Affordable Rent Study 2015*
 
 ## Colorama buildings
-This redevelopment of the former [Colorama film processing warehouse](http://35percent.org/colorama/) in SE1 was completed in April 2016. 
-
-The [planning report](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!Zz6kQSuw9WcG1eGU1VRSAg%3d%3d!%7d%7d%7d) for the application said that the redevelopment would provide a total of 19 social rented habitable rooms.  
+This redevelopment of the former [Colorama film processing warehouse](http://35percent.org/colorama/) in SE1 was completed in April 2016. The [planning report](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!Zz6kQSuw9WcG1eGU1VRSAg%3d%3d!%7d%7d%7d) for the application said that the redevelopment would provide a total of 19 social rented habitable rooms.  
 
 ![](http://crappistmartin.github.io/images/colorama_or.png)
 
-However, two years later when the Greater London Authority published its [affordable housing outturn data](http://data.london.gov.uk/dataset/gla-affordable-housing-programme-outturn/resource/0c87e5dc-f1e9-4edf-b246-bef6b40a9ba3), it showed that the developer had provided affordable rented units not social rented. These range up to 59% market rent and are listed in the GLA dataset as prospective rent levels of £215pw (excl. service charge) for a 1-bed flat, which is well over twice the current average social rent in Southwark ([£100 pw](http://www.southwark.gov.uk/news/article/1738/southwark_council_keeping_social_rent_affordable_for_londoners)).
+However, when the Greater London Authority published its [affordable housing outturn data](http://data.london.gov.uk/dataset/gla-affordable-housing-programme-outturn/resource/0c87e5dc-f1e9-4edf-b246-bef6b40a9ba3), it showed that the developer had provided affordable rented units not social rented. These range up to 59% market rent and are listed in the GLA dataset as prospective rent levels of £215pw (excl. service charge) for a 1-bed flat, which is well over twice the current average social rent in Southwark ([£100 pw](http://www.southwark.gov.uk/news/article/1738/southwark_council_keeping_social_rent_affordable_for_londoners)).
 
 ![](http://crappistmartin.github.io/images/coloramagladata.png)
 
@@ -40,9 +39,8 @@ The scheme (now branded the ['Chroma Buildings'](http://www.fabrica.co.uk/The-Ch
 
 ![](http://crappistmartin.github.io/images/colorama_chroma.jpg)
 
-## 177-184 Grange Road
-177-184 Grange Rd - (11/AP/1390)
-The [planning committee report](http://moderngov.southwark.gov.uk/documents/s21421/Item%201%20report.pdf) for this redevelopment of existing buildings providing 38 new homes, says that it was supposed to provide 9 social rented units. The GLA data shows that these have been delivered by Leicester Housing Association as affordable rents of up to 52% market rent.
+## 177-184 Grange Road, Bermondsey
+The [planning committee report](http://moderngov.southwark.gov.uk/documents/s21421/Item%201%20report.pdf) (11/AP/1390) for this development approved 38 new homes, of which 9 were supposed to be social rented units. The GLA data shows that these have been delivered by Leicester Housing Association as affordable rents of up to 52% market rent.
 
 ![](/img/177-184GrangeRoad.png)
 *177-184 Grange Road, Bermondsey*
@@ -77,7 +75,7 @@ Southwark's [planning committee report](http://planbuild.southwark.gov.uk/docume
 *Crown St Depot redevelopment*
 
 ## Rolls Rd/Coopers Rd - (Peabody development)
-The [planning committee report](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!LxiP99PHNyQALLSNryD5lQ%3d%3d!%7d%7d%7d) (12/AP/3201) confirms that of the 47 new homes in this development, 9 should be social rent and 2 let at affordable rent. The GLA data shows that the 9 ‘social rented’ units are being let by Peabody as affordable rent at 37% market rent.
+This is the fourth and final phase of the [Coopers Road estate regeneration](/coopers-road-estate), which saw a block of 12 family maisonettes demolished. The [planning committee report](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!LxiP99PHNyQALLSNryD5lQ%3d%3d!%7d%7d%7d) (12/AP/3201) confirms that of the 47 new homes in this development, 9 should be social rent and 2 let at affordable rent. The GLA data shows that the 9 ‘social rented’ units are being let by Peabody as affordable rent at 37% market rent.
 
 ![](/img/rollsroad.png)
 *Rolls Rd/Coopers Rd development*
@@ -92,12 +90,13 @@ The [planning committee report](http://planbuild.southwark.gov.uk/documents/?Get
 The [planning committee report](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!z6IxAI8v8vQ0Jgh0sn1SbQ%3d%3d!%7d%7d%7d) (12/AP/0164) approves 46 units of which 38 private, 7 social rent and 1 affordable rent capped at 65% market rent. However, in the section 106 agreement for this application, the social rented units are described as ‘affordable rent’ and the GLA shows all units as affordable rents of between 27% and 58% market rent. In Jan 2016, Hyde [advertised](http://web.archive.org/web/20160112154349/https://www.sharetobuy.com/sharedownershippropertydetails?id=21879) a 3-bed ‘affordable’ unit in this development for rent at £1,849 per month.
 
 ![](http://web.archive.org/web/20160112154349im_/https://www.sharetobuy.com/images/properties/21879_1.jpeg)
-*Hyde Housing's 126 Spa Road development*
+*Hyde Housing's 126 Spa Road development on former council land*
 
 ## Bermondsey Spa Site C (Grange Yard) 
 The [planning committee report](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b%21NSTsGbiMYYs7hVWdLHOlOA%3d%3d%21%7d%7d%7d) (14/AP/2102) for this Linden Homes development (on former [council-owned land](/bermondsey-spa-regeneration) confirms that this site was to provide 167 residential units, of which 34 were to be social rent. The GLA dataset lists this scheme (under Leicester Housing association) with rents at affordable rents of 52% market rent.
 
-![]
+![](/img/lindenhomesbs.jpg)
+*Linden Homes Grange Yard development*
 
 ## BERMONDSEY SPA SITE C5 (10/AP/3010)
 This application was made by Notting Hill Housing Trust, for the redevelopment of 54 council homes as part of the Bermondsey Spa regeneration and was approved by planning committee On 21st December 2010. Permission allowed for the demolition of a number of Council homes and construction of 205 new homes, some commercial and community premises and associated works. 
