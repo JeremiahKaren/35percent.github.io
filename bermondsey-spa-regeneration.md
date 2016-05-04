@@ -78,6 +78,9 @@ The Council's [planning portal](http://planbuild.southwark.gov.uk:8190/online-ap
 
 [Council papers](http://moderngov.southwark.gov.uk/documents/s38849/Report%20Disposal%20of%20The%20Grange%20Sites%20C2%20and%20C4%20Bermondsey%20Spa%20London%20SE1.pdf) show that next to Larnaca, site C also comprised a council office block (Mable Goldwyn House); a residential care centre for adults with learning disabilities (Gibson House); and a centre for learning disability services (Evelyn Coyle House).
 
+![](/img/lindenhomessite.jpg)
+*Mable Goldwyn House being demolished*
+
 These were demolished and this site was sold to Linden Homes. The [officer's report](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!NSTsGbiMYYs7hVWdLHOlOA%3d%3d!%7d%7d%7d) for the planning application confirms that this site was to provide 167 residential units, of which 34 were to be social rent. There is no section 106 agreement published for this site on the Council's portal and it is not known whether the 34 social rented units have been delivered. 
 
 The GLA dataset shows Family Mosaic with 10 units and 8 units and Leicester Housing with 9 units (all affordable rent) and in the latter case up to 52% market rent (£154 pw plus £20 service charge). We don't know whether they relate to this site at this stage.

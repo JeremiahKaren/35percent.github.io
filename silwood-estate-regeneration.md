@@ -39,4 +39,6 @@ We since discovered that the 22 'social rented' units are listed in the [GLA aff
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ZM733_MrNfI" frameborder="0" allowfullscreen></iframe>
 
+![](/img/silwoodhalfdemolished.jpeg)
+
 
