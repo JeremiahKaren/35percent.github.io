@@ -11,9 +11,9 @@ footer: true
 
 ![](/img/coopersroad1.jpg)
 
-![](/img/coopersroad1.jpg)
+![](/img/coopersroad2.jpg)
 
-![](/img/coopersroad1.jpg)
+![](/img/coopersroad3.jpg)
 
 ![](http://35percent.org/img/rollsroad.png)
 
