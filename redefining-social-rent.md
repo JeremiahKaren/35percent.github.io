@@ -103,8 +103,8 @@ This application was made by Notting Hill Housing Trust, for the redevelopment o
 Our [2015 blog post](http://www.the-exchange-london.com/web/images/01/gallery/exterior/camera-2.jpg) covers the development in more detail, showing how the 44 social rented homes were provide at affordable rents of up to 62% market rent.
 This is the one scheme that the Council has responded to in our complaint. It considers the matter resolved, partly through having secured a number of social rented units from Notting Hill Housing Trust at its [Manor Place depot development](http://35percent.org/manor-place-depot/). However, these units were required to meet the affordable housing quota for that site and therefore cannot be used to offset the shortfall at the Bermondsey Spa redevelopment; a net loss of social rented housing remains across the two sites).
 
-![](theexchange.jpg)
-*Notting Hill's "The Exchange" - Bermondsey Spa redevelopment*
+![](/img/theexchange.jpg)
+*Notting Hill's "The Exchange" - 205 unit Bermondsey Spa redevelopment*
 
 ## Silwood estate regeneration Site 4B (11/AP/0139)
 Notting Hill Housing was supposed to provide 22 social rented homes as part of its [redevelopment of the Silwood estate](/silwood-estate-regeneration) involving the demolition of 57 council homes and construction of 127 new homes. The the definition of social rented in the section 106 agreement is worded as affordable rent and these are showing up in the GLA data as having been provided as affordable rent. The GLA data only provides indicative rent levels and the levels given in 2013 as part of its funding bid are not too far off social rents, but we don't know what the actual rent levels charged are. Both the Council and Notting Hill have refused to our repeated requests for a schedule of acutal rents for the 22 'social rented' units. 
@@ -113,7 +113,7 @@ Notting Hill Housing was supposed to provide 22 social rented homes as part of i
 *Redeveloped Silwood estate*
 
 ## Aylesbury estate
-Given Notting Hill's track record for tenure substitutions and Southwark's complicity, we are under no illusion as to what kind of 'social rented' housing will 
+Given Notting Hill's track record for tenure substitutions and Southwark's complicity, we are under no illusion as to what kind of 'social rented' housing Notting Hill will provide in its redevelopment of the Aylesbury. We have documented on [this page](/aylesbury-estate) how Notting Hill's GLA funding agreement for the Aylesbury, ties it to the provision of affordable rent rather than social rent. 
 
 
 
