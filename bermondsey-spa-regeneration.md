@@ -102,6 +102,9 @@ Site C5 was also home to George Tingle House and Larnaca House, two council bloc
 
 The entirety of site C5 was [sold](http://moderngov.southwark.gov.uk/documents/s4670/Disposal%20of%20the%20Councils%20Freehold%20Interest%20in%20Site%20C5%20Grange%20Walk%20and%20the%20One%20Stop%20Shop%2017%20Spa%20Road.pdf) to Notting Hill Housing Group, for the buildings to be demolished and replaced by a development comprising 205 new homes of which 44 were supposed to have been social rented.
 
+![](/img/theexchange.jpg)
+*Notting Hill's 'The Exchange' development*
+
 However, we [discovered](http://crappistmartin.github.io/blog/2015/09/24/southwark-backs-down-over-bermondsey-spa-dispute/) that these 44 social rented units had been delivered at 'affordable rents' of up to 63% of market rent.
 
 [http://www.southwarknews.co.uk/news/southwark-council-probes-44-missing-social-homes/](http://www.southwarknews.co.uk/news/southwark-council-probes-44-missing-social-homes/)

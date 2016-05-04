@@ -104,7 +104,7 @@ This application was made by Notting Hill Housing Trust, for the redevelopment o
 Our [2015 blog post](http://www.the-exchange-london.com/web/images/01/gallery/exterior/camera-2.jpg) covers the development in more detail, showing how the 44 social rented homes were provide at affordable rents of up to 62% market rent.
 This is the one scheme that the Council has responded to in our complaint. It considers the matter resolved, partly through having secured a number of social rented units from Notting Hill Housing Trust at its [Manor Place depot development](http://35percent.org/manor-place-depot/). However, these units were required to meet the affordable housing quota for that site and therefore cannot be used to offset the shortfall at the Bermondsey Spa redevelopment; a net loss of social rented housing remains across the two sites).
 
-![](http://www.the-exchange-london.com/web/images/01/gallery/exterior/camera-2.jpg)
+![](theexchange.jpg)
 *Notting Hill's "The Exchange" - Bermondsey Spa redevelopment*
 
 ## Silwood estate regeneration Site 4B (11/AP/0139)
@@ -112,6 +112,9 @@ Notting Hill Housing was supposed to provide 22 social rented homes as part of i
 
 ![](/img/silwoodstreet.png)
 *Redeveloped Silwood estate*
+
+## Aylesbury estate
+Given Notting Hill's track record for tenure substitutions and Southwark's complicity, we are under no illusion as to what kind of 'social rented' housing will 
 
 
 
