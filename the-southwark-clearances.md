@@ -106,6 +106,28 @@ Southwark's own [consultation](http://35percent.org/img/11000homesconsultation.p
 In addition, the Council has [set up](http://www.southwarknews.co.uk/news/southwark-council-to-set-up-own-housing-company/) a Special Purpose Vehicle (SPV) - __Southwark Housing Company Ltd__ - a separate limited company that will own and manage the 11,000 new 'council' homes. This has led to fears that these will be let at higher rents, as is the case where other councils are using SPVs to build 'council' homes - i.e. LB Lambeth. 
 
 
+## CPO archive
+Compulsory Purchase Orders are a key part of any estate demolition and require the Council to put forward a _"compelling case in the public interest"_ for demolition. Below are links to archived CPO _Statements of Reasons_ for several estate regenerations to date. They provide an interesting record of the arguments used to justify demolition, for example: 
+
+>"The scale and orthogonal formation of the blocks does not correspond to human scale, nor does it create opportunities for neighbourliness and local neighbourhood identity."[^6]
+
+>"residents are deprived of a clear address, and identity."[^6]
+
+>"High-level walkways .. contribute to crime and anti-social behaviour".[^6]
+
+>"While the estate presents generous green space, the lack of designated use and the lack of ownership of these spaces mean that they are under used."[^6]
+
+>"There is poor estate lighting, lack of ownership of open areas and lack of identity within the larger blocks".[^7]
+
+>"an arrangement of monolithic land uses that is out of place in this city fringe location."[^8]
+
+ * [Heygate estate CPO Statement of Reasons](/img/SoR.pdf)
+ * [Aylesbury Phase 1a CPO Statement of Reasons](/img/sor1a.pdf)
+ * [Aylesbury Site 7 CPO Statement of Reasons](/img/WolvertonCPO.pdf)
+ * [Aylesbury Phase 1b CPO Statement of Reasons](/img/STATEMENTOFCASE.pdf)
+ * [Silwood Phase 4C CPO Statement of Reasons](/img/Silwood_Estate.pdf)
+ * [Elmington Site E Statement of Reasons](/img/ElmingtonSiteE_SOR.pdf)
+
 
 __Footnotes:__  
 
@@ -118,6 +140,12 @@ __Footnotes:__
 [^4]: See [Council Assembly Question 1, 26 Jan 2016](http://moderngov.southwark.gov.uk/documents/s59593/Members%20questions%20with%20responses.pdf). NB: only 21 of the 75 Willow Walk homes are social rented council homes.
 
 [^5]: The [London Tenants Federation](http://www.londontenants.org/) has published its [analysis](/img/LTF_delivery_of_housing_in_London_2014-15.pdf) of the latest [GLA housing data](http://data.london.gov.uk/dataset/gla-affordable-housing-programme-outturn/resource/0ff48fbb-5119-4af1-9692-d0fa57093371) published for 2014/15. The analysis found that Southwark demolished more social rented homes than it built – a net loss of 170 social rented homes in total.
+
+[^6]: See Southwark's in-house architect's [Witness evidence](http://crappistmartin.github.io/images/Catherine_Bates2.pdf) to the Aylesbury CPO public inquiry.
+
+[^7]: See Silwood estate [CPO Statement of Reasons.](/img/Silwood_Estate.pdf)
+
+[^8]: See Heygate [CPO Statement of Reasons](/img/SoR.pdf) Para 7.22
 
 <meta name="twitter:card" content="summary" />
 <meta name="twitter:title" content="Completing London's Clearances" />
