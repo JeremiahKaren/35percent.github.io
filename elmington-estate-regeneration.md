@@ -6,6 +6,8 @@ footer: true
 ---
 ![](http://crappistmartin.github.io/images/elmington.png)
 
+The decision to redevelop the Elmington estate was taken as part of the ['Southwark Estates Initiative'](http://embed.verite.co/timeline/?source=0Aprl6XcACewydEhRaWFOLVBfUjBSVW1HUGVZNEhGeFE&font=Bevan-PotanoSans&maptype=toner&lang=en&hash_bookmark=true&start_zoom_adjust=2&height=650#1), a regeneration strategy devised by Southwark's Labour administration as part of New Labour's 'Urban Task Force' urban renewal strategy. 
+
 The Elmington regeneration is split into 10 blocks (A-J), of which F, H, I and J will be refurbished and the remainder redeveloped.
 
 Sites A and B are currently being redeveloped By Notting Hill Housing Group, where [planning documents](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!XXOecz%2bOmRk2JFLLeX0iRw%3d%3d!%7d%7d%7d) confirm that it has [demolished](http://directobjective.blogspot.co.uk/2011/12/elmington-estate-revisited.html) 294 Council homes and is replacing them with 279 homes and 117 car parking spaces in a 'mixed tenure' development that it has branded [Camberwell Fields](http://www.camberwellfields.com/). 

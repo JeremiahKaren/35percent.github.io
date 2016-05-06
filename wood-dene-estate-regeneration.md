@@ -6,6 +6,8 @@ footer: true
 ---
 ![](http://crappistmartin.github.io/images/wooddene1.jpg)
 
+The Wood Dene estate was demolished as part of the ['Southwark Estates Initiative'](http://embed.verite.co/timeline/?source=0Aprl6XcACewydEhRaWFOLVBfUjBSVW1HUGVZNEhGeFE&font=Bevan-PotanoSans&maptype=toner&lang=en&hash_bookmark=true&start_zoom_adjust=2&height=650#1), a regeneration strategy devised by Southwark's Labour administration as part of New Labour's 'Urban Task Force' urban renewal strategy. 
+
 Planning application [documents](http://moderngov.southwark.gov.uk/documents/s38968/Report.pdf) confirm that the Wood Dene estate comprised 323 council homes within two interlocking blocks, of which 7 were council leaseholders. The estate was demolished in 2007. 
 
 ![](http://crappistmartin.github.io/images/wooddene2.jpg)
