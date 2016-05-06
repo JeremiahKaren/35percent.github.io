@@ -38,6 +38,8 @@ Appended to the section 106 agreement are also the deeds of sale showing that th
  * Phase 2: £1.5m
  * Phase 3: £689,416
 
+![](/img/coopersdeeds.png)
+
 ## Phase 4
 The final phase of the regeneration was completed in 2015. This [Cabinet report](http://moderngov.southwark.gov.uk/documents/s26116/Report%20Disposal%20of%20Land%20at%20Coopers%20Road%20SE1.pdf) from the Council's Cabinet member for Housing, Cllr Richard Livingstone, shows how ambiguous terms serve to blur the boundaries between social and affordable rent: 
 
