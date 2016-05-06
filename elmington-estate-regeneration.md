@@ -41,6 +41,8 @@ In July 2012, the Council's Cabinet [resolved](http://moderngov.southwark.gov.uk
 
 In Oct 2012 the Council's Cabinet [resolved](http://moderngov.southwark.gov.uk/ieListDocuments.aspx?CId=302&MId=4247&Ver=4) to issue a Compulsory Purchase Order on remaining leaseholders and tenants on phase 3 (Sites C, D, E and G).
 
+In 2015 the Council served the Compulsory Purchase Order on Site E and submitted its [Statement of Reasons](/img/ElmingtonSiteE_SOR.pdf) to the Secrectary of State. 
+
 Tenants and leaseholders are currently being 'decanted' i.e. [evicted](https://housingactionsouthwarkandlambeth.wordpress.com/2015/05/05/eviction-resistance-success-in-camberwell/) from these phases ahead of demolition. Tenants are still being promised a 'right to return' to the new homes, but are not being told that the replacement 'social' housing will be three times the level of Council rents. Leaseholders are being offered shared ownership deals on the replacement homes, but the [rent and repayments](http://crappistmartin.github.io/images/CamberwellFields.pdf) on these requires a minimum household income of at least £50k.
 
 ![](https://pbs.twimg.com/media/Cg-Ek6uWgAAMaoF.jpg)

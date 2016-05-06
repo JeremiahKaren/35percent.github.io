@@ -25,14 +25,12 @@ The estate was redeveloped as part of the ['Southwark Estates Initiative'](http:
 
 
 # Phase 3
-Phase 3, which also incorporated a victoria factory was demolished in 2010. The replacement development _"Success House"_ was completed in 2013 and comprises 46 new homes; 22 units for shared ownership and 24 units for 'social rent'. It is not known whether these have been let as social rent or affordable rent. In any event the section 106 agreement for these defines social rents as rents which _"meet targets for affordable rented housing set by the Tenants Services Authority (and successor bodies from time to time in existence)."_ The Tenants Services Authority has since been succeeded by the Homes & Communities Agency, whose definition of affordable rented housing is anything up to 80% market rent.
+Phase 3, which also incorporated a victorian factory on the corner of Coopers/Old Kent rd, was demolished in 2010. The replacement development _"Success House"_ was completed in 2013 and comprises 46 new homes; 22 units for shared ownership and 24 units for 'social rent'. It is not known whether these have been let as social rent or affordable rent. In any event the section 106 agreement for these defines social rents as rents which _"meet targets for affordable rented housing set by the Tenants Services Authority (and successor bodies from time to time in existence)."_ The Tenants Services Authority has since been succeeded by the Homes & Communities Agency, whose definition of affordable rented housing is anything up to 80% market rent.
 
 ![](/img/successhouse.jpg)
 *Success House - completed in 2012*
 
-The [section 106 agreement](/img/coopersroadestate_section106.pdf) for phase 3 shows that of the 46 new homes approved at _"Success House"_, 14 will be shared ownership and none will be social rented.
-
-Appended to the section 106 agreement are also the deeds of sale showing that the Council sold the land in the separate phases of the estate to Peabody for the following amounts:
+Appended to the [section 106 agreement](/img/coopersroadestate_section106.pdf) for phase 3 were also the deeds of sale, showing that the Council sold the land for the separate phases of the estate to Peabody & Countryside Properties for the following amounts:
 
  * Phase 1: £810,632
  * Phase 2: £1.5m
