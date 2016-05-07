@@ -51,3 +51,8 @@ __Footnotes:__
 [^1]: Actually it's worse: the figure is improved to -5% by taking account of the 75 affordable rent units - a tenure which Southwark specifically excludes from its housing and planning policies.
 
 [^2]: See [Council Assembly Question 1, 26 Jan 2016](http://moderngov.southwark.gov.uk/documents/s59593/Members%20questions%20with%20responses.pdf). NB: only 21 of the 75 Willow Walk homes are social rented council homes, the remainder is temporary accommodation at higher rents. ↩
+
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:title" content="Southwark in bottom 3 boroughs for affordable housing delivery" />
+<meta name="twitter:description" content="Latest GLA data shows Southwark in bottom 3 boroughs for the delivery of affordable housing" />
+<meta name="twitter:image" content="http://35percent.org/img/LTF_table.png" />
