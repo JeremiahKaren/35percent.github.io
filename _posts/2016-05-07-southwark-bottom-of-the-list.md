@@ -1,6 +1,6 @@
 ---
 
-title: 'Southwark in bottom 3 boroughs for affordable housing delivery"
+title: 'Southwark in bottom 3 boroughs for affordable housing delivery'
 layout: post
 published: true
 categories: '[Aylesbury regeneration, Estate regeneration]'
