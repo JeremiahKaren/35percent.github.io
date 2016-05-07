@@ -53,5 +53,3 @@ __Footnotes:__
 *Extract from [New Southwark Plan 2015](http://www.southwark.gov.uk/download/downloads/id/12867/new_southwark_plan_preferred_option_consultation_version_web)*
 
 [^2]: See [Council Assembly Question 1, 26 Jan 2016](http://moderngov.southwark.gov.uk/documents/s59593/Members%20questions%20with%20responses.pdf). NB: only 21 of the 75 Willow Walk homes are social rented council homes, the remainder is temporary accommodation at higher rents. ↩
-
-
