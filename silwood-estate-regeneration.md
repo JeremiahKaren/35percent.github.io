@@ -10,7 +10,7 @@ The estate was redeveloped as part of the ['Single Regeneration Budget Initiativ
 
 Southwark's half of the estate was split into two phases; 4A and 4B. Phase 4A was redeveloped first by _Presentation Housing Association_, which then merged to become part of Notting Hill Housing. Full details of phase 4A can be found in this [Executive Committee Item (Item 10)](http://moderngov.southwark.gov.uk/CeListDocuments.aspx?CommitteeId=118&MeetingId=995&DF=14%2f02%2f2006&Ver=2) and the [Statement of Reasons](/img/Silwood_Estate.pdf) for the Compulsory Purchase Order.
 
-[This](http://moderngov.southwarksites.com/Published/C00000118/M00003082/AI00003831/$VarytermsofdisposalSilwoodPhase4BRotherhitheSE16open.docA.ps.pdf) Committee report confirms that Southwark subsequently sold phase 4B to Notting Hill Housing Group for an undisclosed sum in 2009. Site 4B was home to Gillam House pictured below, which comprised 57 council flats and 6 council-leasehold flats.
+[This](http://moderngov.southwarksites.com/Published/C00000118/M00003082/AI00003831/$VarytermsofdisposalSilwoodPhase4BRotherhitheSE16open.docA.ps.pdf) Committee report confirms that Southwark subsequently sold phase 4B to Notting Hill Housing Group and its development partner Higgins Homes for an undisclosed sum in 2009. Site 4B was home to Gillam House pictured below, which comprised 57 council flats and 6 council-leasehold flats.
 
 [Land registry documents](http://crappistmartin.github.io/images/LRegisterSilwood.pdf) show that the Council sold the land to Notting Hill and its development partner Higgins Homes for the sum of just £2.1 million.
 
@@ -21,6 +21,9 @@ The Land Registry documents and the committee report both confirmed that the Cou
 ![](http://35percent.org/img/silwoodoverage.png)
 
 Given the 40%+ rise in Southwark property prices between the signing of the overage deal and completion of the development, we made an [FOI request](https://www.whatdotheyknow.com/request/silwood_estate_regeneration_site/new) in March 2016, asking how much overage the Council had received. The Council responded that it was _"able to confirm that £546,047 was received in September 2014, but a further overage payment is currently being negotiated."_
+
+![](/img/silwoodstreetplan.png)
+*Silwood estate - sold to Higgins Homes and Notting Hill for just £2.6m*
 
 Southwark's response is baffling. Why hasn't it profited from the huge increase in property prices between 2009 and 2014 when the development completed? Why is it having to try and 'negotiate' futher overage now? Surely if a legal agreement had been signed securing the overage then 'further negotiation' wouldn't be necessary?
 
