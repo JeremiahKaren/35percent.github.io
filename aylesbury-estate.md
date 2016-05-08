@@ -128,7 +128,7 @@ In May 2009 the [AAAP](http://www.southwark.gov.uk/downloads/download/4444/area_
 Even with the lower figure of £65.73m, the AAAP was still unviable and showed a funding gap of £82.63m.
 
 ![](/img/aaapfundinggap.png)
-*Extract from [Aylesbury Area Action Plan 2010](http://www.southwark.gov.uk/downloads/download/4444/area_action_plans) shwowing funding gap*
+*Extract from [Aylesbury Area Action Plan 2010](http://www.southwark.gov.uk/downloads/download/4444/area_action_plans) showing the funding gap*
 
 It is presumed that the Council reduced the leaseholder buyback budget in order help try and bridge the funding gap. A requirement of an Area Action Plan is that it must generally be seen to be viable.
 
