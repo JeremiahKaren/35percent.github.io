@@ -26,7 +26,7 @@ The following are a few examples of the 43 breaches identified in our [list](htt
 ![](/img/arstudy.png)
 *Southwark Affordable Rent Study 2015*
 
-The same [affordable rent study](http://www.southwark.gov.uk/downloads/download/2914/affordable_rent_in_southwark_2011) shows that social rent in Southwark reflects these very low incomes; a simple calculation tells us that a social rent in Southwark for a 1-bed flat is £96.88 on average (incl. service charge) - this is 25.5% of market rent; a 2-bed social rented flat is £110.76 per week on average (24.2% market rent); a 3-bed is £124.18 pw (22.5% market rent); a 4-bed is £139.69 (19.3% market rent).
+The same [affordable rent study](http://www.southwark.gov.uk/downloads/download/2914/affordable_rent_in_southwark_2011) shows that social rent in Southwark reflects these very low incomes; the [study data](http://www.southwark.gov.uk/download/downloads/id/13083/affordable_rent_study_xls_-_december_2015) shows us that a social rent in Southwark for a 1-bed flat is £96.88 on average (incl. service charge), which works out to be 25.5% of market rent for a 1-bed (£378.79); a 2-bed social rented flat is £110.76 per week on average (24.2% market rent); a 3-bed is £124.18 pw (22.5% market rent); a 4-bed is £139.69 (19.3% market rent).
 
 ![](/img/AffordableRentStudy2015.png)
 *Southwark's Affordable Rent Study 2015 showing average weekly market and social rents*

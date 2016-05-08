@@ -20,9 +20,19 @@ In 2001, residents on the estate were balloted on the prospect of stock transfer
 In 2002, the council's Head of Housing Regeneration [said](http://www.insidehousing.co.uk/journals/insidehousing/legacydata/uploads/pdfs/IH.020222.028f.pdf) it was planning to press ahead with the redevelopment regardless, claiming that bringing the existing estate up to scratch would cost £200 million, a sum that the council simply didn't have. 
 
 ## Social or 'affordable' rent?
-Residents' concerns about Housing Associations charging higher rents turned out to be well founded, when it [emerged](/2015-09-24-southwark-backs-down-over-bermondsey-spa-dispute/) that Notting Hill Housing (the council's development partner) had secured funding for the scheme, linked to the provision of _affordable rent_ rather than _social rent_ (nevertheless capped at 50% rather than 80% market rent). However, even capped at 50% market rent Southwark's own [housing data](http://www.southwark.gov.uk/downloads/download/2914/affordable_rent_in_southwark_2011) shows that the minimum income required to afford this, is twice what Southwark council tenants earn on average.
+Residents' concerns about Housing Associations charging higher rents turned out to be well founded, when it [emerged](/2015-09-24-southwark-backs-down-over-bermondsey-spa-dispute/) that Notting Hill Housing (the council's development partner) had secured funding for the scheme, linked to the provision of _affordable rent_ rather than _social rent_ (nevertheless capped (initially) at around 50% rather than 80% market rent). However, even capped at 50% market rent Southwark's own [housing data](http://www.southwark.gov.uk/downloads/download/2914/affordable_rent_in_southwark_2011) shows that the minimum income required to afford this, is twice what Southwark council tenants earn on average. However, the crucial difference between social rent and affordable rent is that the latter is linked to market trends and is rebased according to increases in market rents. In Southwark market rents are increasing at well over 10% per annum.
 
 ![](http://crappistmartin.github.io/images/affordable_rent_50percent.png)
+
+In 2015, Southwark conducted an [Affordable Rent Study](http://www.southwark.gov.uk/downloads/download/2914/affordable_rent_in_southwark_2011), which concluded that _"as market rents are very high in Southwark, significant incomes are required to afford high proportions of market rent, but average incomes of people living in Southwark are low."_ The study [showed](http://www.southwark.gov.uk/download/downloads/id/13082/affordable_rent_study_-_december_2015) that a single person on the average median income for Southwark cannot afford more than 26% market rent and that a lone parent working on average income cannot afford more than 14% market rent. These figures are a lot lower than the 35%/40% and 50% of market rent routinely quoted by Councillors, council officers and developers as social rents or their equivalents.
+
+![](/img/arstudy.png)
+*Southwark Affordable Rent Study 2015*
+
+The same [affordable rent study](http://www.southwark.gov.uk/downloads/download/2914/affordable_rent_in_southwark_2011) shows that social rent in Southwark reflects these very low incomes; the [study data](http://www.southwark.gov.uk/download/downloads/id/13083/affordable_rent_study_xls_-_december_2015) shows us that a social rent in Southwark for a 1-bed flat is £96.88 on average (incl. service charge), which works out to be 25.5% of market rent for a 1-bed (£378.79); a 2-bed social rented flat is £110.76 per week on average (24.2% market rent); a 3-bed is £124.18 pw (22.5% market rent); a 4-bed is £139.69 (19.3% market rent).
+
+![](/img/AffordableRentStudy2015.png)
+*Southwark's Affordable Rent Study 2015 showing average weekly market and social rents*
 
 The council insists that all new rented homes will be social rented not affordable rent, but [revelations](http://www.southwarknews.co.uk/news/council-takes-no-legal-action-over-44-missing-social-housing-units/) that Notting Hill had delivered affordable rent instead of the social rent agreed at its Bermondsey Spa regeneration, have further thrown these promises into doubt. The [long list](http://crappistmartin.github.io/images/section106_tenure_breaches.pdf) of similar tenure switches we have identified shows that this sleight-of-hand is a widespread practice, which appears to be tolerated by Southwark. 
 
@@ -105,15 +115,39 @@ More criticisms of the estate and grounds for its demolition can be found in oth
 [Tim Cutts - Planning Policy Team Leader, Southwark Council](http://crappistmartin.github.io/images/Tim_Cutts.pdf)  
 [Jane Seymour - Development Partnership Broker, Southwark Council](http://crappistmartin.github.io/images/Jane_Seymour.pdf)  
 
+One fact that receives little mention in the CPO papers is that the Aylesbury estate is not exclusively concrete construction; there are over 300 brick built properties on the estate equally earmarked for demolition.
 
-## Prudent Profits
-The 35% Campaign has also obtained a redacted copy of Notting Hill's [viability assesment](http://crappistmartin.github.io/images/NHHT_AylesburyViabilityAssessment.pdf) for the Aylesbury redevelopment via an FOI/EIR request. Despite being a registered charity, Notting Hill has claimed commercial confidentiality as the grounds for its redactions. Interestingly we see that despite the development being publicly funded and built on public land, Notting Hill claims that _"increasing the number of affordable homes would result in the scheme falling below the prudent profit level for Notting Hill"_. This profit level has been set at 15%, representing approximately £150m extracted in profit which could have been spent on affordable housing.
+![](/img/aylesburyredbrick.jpg)
+*One block of over 300 red brick properties on the Aylesbury estate*
+
+## Bridging the (viability) gap
+In Jan 2009 the AAAP table A7.2 allowed £130.422m for leasehold acquisitions. This should have covered the purchase of 392+54+36=__482__ properties. 
+
+In May 2009 the [AAAP](http://www.southwark.gov.uk/downloads/download/4444/area_action_plans) was revised to allow only £65.73m for leasehold acquisitions. There is no evidence available to justify this decision. When questioned as part of the public inquiry into the Aylesbury compulsory purchase order, the Council said that it had been an officer decision and that the IDM report justifying the decision to revise the leaseholder buyback budget had gone missing.
+
+Even with the lower figure of £65.73m, the AAAP was still unviable and showed a funding gap of £82.63m.
+
+![](/img/aaapfundinggap.png)
+*Extract from [Aylesbury Area Action Plan 2010](http://www.southwark.gov.uk/downloads/download/4444/area_action_plans) shwowing funding gap*
+
+It is presumed that the Council reduced the leaseholder buyback budget in order help try and bridge the funding gap. A requirement of an Area Action Plan is that it must generally be seen to be viable.
+
+The AAAP goes on to explain possible scenarios for bridging this funding gap, which include _"delivering different and more financially viable tenure mixes"_.
+
+![](/img/aaapbridgingthegap.png)
+*Extract from AAAP*
+
+Development schemes in Southwark are currently [delivering](http://35percent.org/2016-05-07-southwark-in-bottom-3-boroughs-for-affordable-housing-delivery/) on average 3% affordable housing, largely with social rent substituted for affordable rent. So we find it hard to believe that Notting Hill can deliver a scheme with 50% affordable housing comprising 75% social rent. We find it even more difficult to believe that Notting Hill is also expecting to extract a 15% profit margin (representing ca. £150m) and Southwark is also expecting to receive payments for the land. 
+
+Despite its new [transparency policy](http://www.southwark.gov.uk/news/article/2062/viability_assessments_must_be_published_in_southwark_%E2%80%93_consultation_launched) the Council has rejected our request for a copy of Notting Hill's [viability report](http://crappistmartin.github.io/images/NHHT_AylesburyViabilityAssessment.pdf) for the Aylesbury redevelopment. Despite being a registered charity, Notting Hill has claimed commercial confidentiality as the grounds for its redactions. In April 2016, the Information Commissioner upheld our complaint and directed Southwark Council to disclose the unredacted viability report. Watch this space!
 
 It's important to note that Notting Hill won't be building the new homes. This has been [contracted](http://www.nottinghillhousing.org.uk/our-developments/aylesbury-estate-southwark) to Barratt Homes in a joint-venture agreement, which will see Barratt also receive a healthy slice of the profits. Before Notting Hill takes its slice, Barratt will receive a 21% priority return and half the remaining profit from the sale of private units in the development.
 
 ![](http://35percent.org/img/barratprofit.png)
 
 The Council has [argued](http://www.southwark.gov.uk/news/article/2041/brand_new_library_plans_take_next_step_on_aylesbury) that the regeneration is providing public benefits including a new (replacement) library, a new (replacement) GP clinic, and new (replacement) nursery facilities. But what is not publicised is the fact that these are all being funded 100% by the Council, they are not being funded by Notting Hill or its development partner Barratt.
+
+In conclusion, the Aylsebury redevelopment is not viable. It is only being made viable via a combination of huge public subsidy from the Council, shortchanging the leaseholders and substituting social for affordable rented tenure.
 
 ## Environment/Sustainability
 The Aylesbury estate masterplan outline planning application gave consent for a total of 1,378 parking spaces in the new development, equating to four out of ten new households with parking.[^3]
@@ -124,8 +158,8 @@ The [officer's report](http://planbuild.southwark.gov.uk/documents/?GetDocument=
 
 Further, the new open spaces in the development will not be public open spaces adopted by the council; they will be privately owned and managed by a subsidiary of Notting Hill Housing Group. 
 
-![Aylesbury estate green space](https://municipaldreams.files.wordpress.com/2013/12/balcony-view-ii.jpg)
-*Generous existing green space*
+![Aylesbury estate open space](/img/aylesburyfdsbasketballcourt.jpg)
+*Generous existing open space that will not be replaced*
 
 ## Aylesbury diaspora
 Loretta Lees, a leading professor of Human Geography has [published](http://theconversation.com/camerons-sink-estate-strategy-comes-at-a-human-cost-53358) a study researching the displacement of Aylesbury estate tenants as a result of the regeneration. 
