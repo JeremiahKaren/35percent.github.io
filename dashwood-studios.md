@@ -17,3 +17,8 @@ According to the [website](http://london-southwark.victoriahall.com/booking-lond
 
 
 <iframe width="420" height="315" src="https://www.youtube.com/embed/x1N0sORtB-U" frameborder="0" allowfullscreen></iframe>
+
+Below is a CGI visual used by architects Rolfe Judd for the planning application (which was refused and granted on appeal). Funny how the finished product never looks much like the CGI mock ups..
+
+![](/img/dashwoodcgi.jpg)
+*CGI mock up of Dashwood Studios*

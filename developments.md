@@ -376,6 +376,16 @@ subtitle: Summary of regeneration schemes
 
 <article class="post-preview">
   
+<h1><a href="/bermondsey-works/">Bermondsey Works</a></h1>
+
+<img src="http://www.se16.com/wp-content/uploads/Appendix-Image.jpg" width="100" align="left">
+</br></br></br>
+</br>
+</br>
+</article>
+
+<article class="post-preview">
+  
 <h1><a href="/paris-gardens/">Paris Gardens</a></h1>
 
 <img src="http://www.mclarengroup.com/wp-content/uploads/2014/09/Paris-gardens-duo-1198x500.jpg" width="100" align="left">
