@@ -20,6 +20,9 @@ We have taken part in community events and helped to produce <a href="http://ele
 
 The 35% Campaign was set up as a result of many new developments failing to meet the Council's minimum policy requirement of 35% affordable housing.
 
+![](http://35percent.org/img/newsouthwarkplanah.png)
+*[New Southwark Plan](http://www.southwark.gov.uk/download/downloads/id/12867/new_southwark_plan_preferred_option_consultation_version_web) - Southwark's planning policy*
+
 You can sign up to our mailing list by using the form below and receive email alerts when we publish a blog post. 
 
 <!-- Begin MailChimp Signup Form -->
