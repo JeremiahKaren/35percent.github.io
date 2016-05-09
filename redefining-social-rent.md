@@ -44,7 +44,7 @@ The scheme (now branded the ['Chroma Buildings'](http://www.fabrica.co.uk/The-Ch
 
 ![](http://crappistmartin.github.io/images/colorama_chroma.jpg)
 
-## 177-184 Grange Road, Bermondsey
+## 177-184 Grange Road, Bermondsey (Linden Homes Ltd)
 The [planning committee report](http://moderngov.southwark.gov.uk/documents/s21421/Item%201%20report.pdf) (11/AP/1390) for this development approved 38 new homes, of which 9 were supposed to be social rented units. The GLA data shows that these have been delivered by Leicester Housing Association as affordable rents of up to 52% market rent.
 
 ![](/img/177-184GrangeRoad.png)
