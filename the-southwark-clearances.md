@@ -107,7 +107,7 @@ In addition, the Council has [set up](http://www.southwarknews.co.uk/news/southw
 
 
 ## CPO archive
-Compulsory Purchase Orders are a key part of any estate demolition and require the Council to put forward a _"compelling case in the public interest"_ for demolition. Below are links to archived CPO _Statements of Reasons_ for several estate regenerations to date. They provide an interesting record of the arguments used to justify demolition, for example: 
+Compulsory Purchase Orders are a key part of any estate demolition and require the Council to put forward a _"compelling case in the public interest"_ for demolition. Below are links to archived CPO _Statements of Reasons_ for several estate regenerations to date. They provide an interesting record of the tenuous arguments used to justify demolition, for example: 
 
 >"The scale and orthogonal formation of the blocks does not correspond to human scale, nor does it create opportunities for neighbourliness and local neighbourhood identity."[^6]
 
