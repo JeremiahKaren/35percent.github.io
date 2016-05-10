@@ -51,13 +51,13 @@ The [planning committee report](http://moderngov.southwark.gov.uk/documents/s214
 *177-184 Grange Road, Bermondsey*
 
 ## 32 Crosby Row SE1 3PT
-Southwark's [planning committee report](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!gKqBYbE9RsCLZlddMhjvOA%3d%3d!%7d%7d%7d) (11/AP/0140) approved 22 new homes, which should have included 5 social rented units, but the GLA dataset shows that these have been delivered by Family Mosaic as affordable rent at up to 57% of market rent.
+Southwark's [planning committee report](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!gKqBYbE9RsCLZlddMhjvOA%3d%3d!%7d%7d%7d) (11/AP/0140) approved the [demolition](http://www.london-se1.co.uk/news/view/5235) of St Hugh's church on Crosby Row and the construction of 22 new homes, which should have included 5 social rented units. But the GLA dataset shows that these have been delivered by Family Mosaic as affordable rent at up to 57% of market rent.
 
 ![](/img/crosbyrow.png)
 *32 Crosby Row SE1 3PT*
 
 ![](/img/crosbyrowchurch.jpg)
-*St Hugh's Church - demolished to make way for new flats*
+*St Hugh's Church on Crosby Row - demolished to make way for the new flats*
 
 ## 430 Old Kent Road SE1 5AG - (Family Mosaic development)
 This is one of the [Neo-Bankside](/neo-bankside) off-site affordable housing sites, which according to Southwark's [planning committee report](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!siQ3eaBQc4N16%2bb1RFDnxQ%3d%3d!%7d%7d%7d) (11/AP/0138) approved 22 social rented units, but the GLA dataset shows that these have been delivered by Family Mosaic at affordable rents of up to 49% market rent.
