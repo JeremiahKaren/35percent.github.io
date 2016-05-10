@@ -126,19 +126,17 @@ In Jan 2009, the [draft Aylesbury Area Action Plan](/img/DraftAAAP.pdf) showed t
 ![](/img/DraftAAAP_appendices.png) 
 *Page 92 of the [appendices](/img/DraftAAAP_appendices.pdf) to the draft AAAP*
 
-However, one of the requirements of an Area Action Plan is that it must be shown to be viable and therefore deliverable.  
-
-The Council's response was to slash the estimates considerably, without providing any evidence or justification for the revised budget estimates. For example, the £130m estimated for leasehold acquisitions of the 482 leasehold properties on the estate was slashed by half, with no explanation as to why the value of leaseholders' homes had their values cut by 50% overnight. 
+However, one of the requirements of an Area Action Plan is that it must be shown to be viable and therefore deliverable. The inspector flagged up the funding gap and viability problem in her [report](/img/AAAP_inspectors_report.pdf) and the Council responded by simply slashing the cost estimates, without providing any evidence or justification. For example, the £130m estimated for leasehold acquisitions of the 482 leasehold properties on the estate was slashed by half, with no explanation as to why the value of leaseholders' homes had their values cut by 50% overnight. 
 
 ![](/img/DraftAAAP_strikethrough.png)
-*Table from Draft AAAP showing cost estimates slashed* 
+*Table from appendices to [AAAP Inspector's report](/img/AAAP_inspectors_report.pdf) showing cost estimates slashed* 
 
-Altogether, the cost estimates were cut by around half, reducing the funding gap from £299m down to £169m and this is the figure given in the final adopted version of the [AAAP](http://www.southwark.gov.uk/downloads/download/4444/area_action_plans). 
+Altogether, the cost estimates were reduced by around a half, reducing the funding gap from £299m down to £169m and this is the figure given in the final adopted version of the [AAAP](http://www.southwark.gov.uk/downloads/download/4444/area_action_plans). 
 
 ![](/img/aaapfundinggap.png)
 *Extract from final adopted version of [Aylesbury Area Action Plan 2010](http://www.southwark.gov.uk/downloads/download/4444/area_action_plans) showing the funding gap*
 
-The Council was expecting to cover the revised funding shortfall with government PFI funding and this is how the Area Action Plan was deemed sound at its Examination in Public. However, just under a year after the Area Action Plan was adopted, the government [withdrew](http://www.theguardian.com/society/2010/dec/26/cut-regeneration-tony-blair-housing) all PFI funding for the scheme. 
+The Council was expecting to cover the funding shortfall with government PFI funding and this is how the Area Action Plan was deemed sound at its Examination in Public. However, just under a year after the Area Action Plan was adopted, the government [withdrew](http://www.theguardian.com/society/2010/dec/26/cut-regeneration-tony-blair-housing) all PFI funding for the scheme. 
 
 The AAAP goes on to explain possible scenarios for bridging the funding gap should funding and viability issues arise; these include _"delivering different and more financially viable tenure mixes"_.
 
