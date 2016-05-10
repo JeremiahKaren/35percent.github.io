@@ -126,7 +126,7 @@ In Jan 2009, the [draft Aylesbury Area Action Plan](/img/DraftAAAP.pdf) showed t
 ![](/img/DraftAAAP_appendices.png) 
 *Page 92 of the [appendices](/img/DraftAAAP_appendices.pdf) to the draft AAAP*
 
-However, one of the requirements of an Area Action Plan is that it must be shown to be generally viable. The £299m funding gap would have been too large a gap for the Area Action Plan to be approved at the Examination in Public into the soundness of the plan. 
+However, one of the requirements of an Area Action Plan is that it must be shown to be viable and therefore deliverable.  
 
 The Council's response was to slash the estimates considerably, without providing any evidence or justification for the revised budget estimates. For example, the £130m estimated for leasehold acquisitions of the 482 leasehold properties on the estate was slashed by half, with no explanation as to why the value of leaseholders' homes had their values cut by 50% overnight. 
 
@@ -136,14 +136,14 @@ The Council's response was to slash the estimates considerably, without providin
 Altogether, the cost estimates were cut by around half, reducing the funding gap from £299m down to £169m and this is the figure given in the final adopted version of the [AAAP](http://www.southwark.gov.uk/downloads/download/4444/area_action_plans). 
 
 ![](/img/aaapfundinggap.png)
-*Extract from [Aylesbury Area Action Plan 2010](http://www.southwark.gov.uk/downloads/download/4444/area_action_plans) showing the funding gap*
+*Extract from final adopted version of [Aylesbury Area Action Plan 2010](http://www.southwark.gov.uk/downloads/download/4444/area_action_plans) showing the funding gap*
 
-The Council was expecting to cover the revised £169m funding shortfall with £180m of government PFI funding and this is how the Area Action Plan was deemed sound at its Examination in Public. However, a year after the Area Action Plan was adopted, the government [withdrew](http://www.theguardian.com/society/2010/dec/26/cut-regeneration-tony-blair-housing) the £180m PFI funding. 
+The Council was expecting to cover the revised funding shortfall with government PFI funding and this is how the Area Action Plan was deemed sound at its Examination in Public. However, just under a year after the Area Action Plan was adopted, the government [withdrew](http://www.theguardian.com/society/2010/dec/26/cut-regeneration-tony-blair-housing) all PFI funding for the scheme. 
 
-The AAAP goes on to explain possible scenarios for bridging this funding gap should viability issues arise; these include _"delivering different and more financially viable tenure mixes"_.
+The AAAP goes on to explain possible scenarios for bridging the funding gap should funding and viability issues arise; these include _"delivering different and more financially viable tenure mixes"_.
 
 ![](/img/aaapbridgingthegap.png)
-*Extract from AAAP*
+*Extract from final adopted version of the AAAP*
 
 Development schemes in Southwark are currently [delivering](http://35percent.org/2016-05-07-southwark-in-bottom-3-boroughs-for-affordable-housing-delivery/) on average 3% affordable housing, largely with social rent substituted for affordable rent. So we find it hard to believe that Notting Hill can deliver a scheme with 50% affordable housing comprising 75% social rent. We find it even more difficult to believe that Notting Hill is also expecting to extract a 15% profit margin (representing ca. £150m) and Southwark is also expecting to receive payments for the land. 
 
