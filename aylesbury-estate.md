@@ -121,24 +121,26 @@ One fact that receives little mention in the CPO papers is that the Aylesbury es
 *One block of over 300 red brick properties on the Aylesbury estate*
 
 ## Bridging the (viability) gap
-In Jan 2009, the [draft Aylesbury Area Action Plan](/img/DraftAAAP.pdf) showed that there was a funding shortfall of £299m, i.e. this is what the cost of the scheme to the Council would be.
+In Jan 2009, the [draft Aylesbury Area Action Plan](/img/DraftAAAP.pdf) showed that there was a funding shortfall of £299m, i.e. this is what the cost of the regeneration scheme to the Council would be.
 
 ![](/img/DraftAAAP_appendices.png) 
 *Page 92 of the [appendices](/img/DraftAAAP_appendices.pdf) to the draft AAAP*
 
+However, one of the requirements of an Area Action Plan is that it must be shown to be generally viable. The £299m funding gap would have been too large a gap for the Area Action Plan to be approved at the Examination in Public into the soundness of the plan. 
 
-In Jan 2009 the AAAP table A7.2 allowed £130.422m for leasehold acquisitions. This should have covered the purchase of 392+54+36=__482__ properties. 
+The Council's response was to slash the estimates considerably, without providing any evidence or justification for the revised budget estimates. For example, the £130m estimated for leasehold acquisitions of the 482 leasehold properties on the estate was slashed by half, with no explanation as to why the value of leaseholders' homes had their values cut by 50% overnight. 
 
-In May 2009 the [AAAP](http://www.southwark.gov.uk/downloads/download/4444/area_action_plans) was revised to allow only £65.73m for leasehold acquisitions. There is no evidence available to justify this decision. When questioned as part of the public inquiry into the Aylesbury compulsory purchase order, the Council said that it had been an officer decision and that the IDM report justifying the decision to revise the leaseholder buyback budget had gone missing.
+![](/img/DraftAAAP_strikethrough.png)
+*Table from Draft AAAP showing cost estimates slashed* 
 
-Even with the lower figure of £65.73m, the AAAP was still unviable and showed a funding gap of £82.63m.
+Altogether, the cost estimates were cut by around half, reducing the funding gap from £299m down to £169m and this is the figure given in the final adopted version of the [AAAP](http://www.southwark.gov.uk/downloads/download/4444/area_action_plans). 
 
 ![](/img/aaapfundinggap.png)
 *Extract from [Aylesbury Area Action Plan 2010](http://www.southwark.gov.uk/downloads/download/4444/area_action_plans) showing the funding gap*
 
-It is presumed that the Council reduced the leaseholder buyback budget in order help try and bridge the funding gap. A requirement of an Area Action Plan is that it must generally be seen to be viable.
+The Council was expecting to cover the revised £169m funding shortfall with £180m of government PFI funding and this is how the Area Action Plan was deemed sound at its Examination in Public. However, a year after the Area Action Plan was adopted, the government [withdrew](http://www.theguardian.com/society/2010/dec/26/cut-regeneration-tony-blair-housing) the £180m PFI funding. 
 
-The AAAP goes on to explain possible scenarios for bridging this funding gap, which include _"delivering different and more financially viable tenure mixes"_.
+The AAAP goes on to explain possible scenarios for bridging this funding gap should viability issues arise; these include _"delivering different and more financially viable tenure mixes"_.
 
 ![](/img/aaapbridgingthegap.png)
 *Extract from AAAP*
@@ -153,7 +155,7 @@ It's important to note that Notting Hill won't be building the new homes. This h
 
 The Council has [argued](http://www.southwark.gov.uk/news/article/2041/brand_new_library_plans_take_next_step_on_aylesbury) that the regeneration is providing public benefits including a new (replacement) library, a new (replacement) GP clinic, and new (replacement) nursery facilities. But what is not publicised is the fact that these are all being funded 100% by the Council, they are not being funded by Notting Hill or its development partner Barratt.
 
-In conclusion, the Aylsebury redevelopment is not viable. It is only being made viable via a combination of huge public subsidy from the Council, shortchanging the leaseholders and substituting social for affordable rented tenure.
+In conclusion, the Aylesbury redevelopment is not viable. It is only being made viable via a combination of huge public subsidy from the Council, shortchanging the leaseholders and substituting social for affordable rented tenure.
 
 ## Environment/Sustainability
 The Aylesbury estate masterplan outline planning application gave consent for a total of 1,378 parking spaces in the new development, equating to four out of ten new households with parking.[^3]
