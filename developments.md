@@ -428,6 +428,16 @@ subtitle: Summary of regeneration schemes
 
 <article class="post-preview">
   
+<h1><a href="/wyndham-redcar/">Wyndham Rd/Redcar St development</a></h1>
+
+<img src="/img/wyndhamredcar.jpg" width="100" align="left">
+</br></br></br>
+</br>
+</br>
+</article>
+
+<article class="post-preview">
+  
 <h1><a href="/manor-place-depot/">Manor Place Depot</a></h1>
 
 <img src="http://crappistmartin.github.io/images/manorplace.jpg" width="100" align="left">
