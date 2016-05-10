@@ -56,6 +56,9 @@ Southwark's [planning committee report](http://planbuild.southwark.gov.uk/docume
 ![](/img/crosbyrow.png)
 *32 Crosby Row SE1 3PT*
 
+![](/img/crosbyrowchurch.jpg)
+*St Hugh's Church - demolished to make way for new flats*
+
 ## 430 Old Kent Road SE1 5AG - (Family Mosaic development)
 This is one of the [Neo-Bankside](/neo-bankside) off-site affordable housing sites, which according to Southwark's [planning committee report](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!siQ3eaBQc4N16%2bb1RFDnxQ%3d%3d!%7d%7d%7d) (11/AP/0138) approved 22 social rented units, but the GLA dataset shows that these have been delivered by Family Mosaic at affordable rents of up to 49% market rent.
 
