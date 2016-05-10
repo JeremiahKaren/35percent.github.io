@@ -121,6 +121,12 @@ One fact that receives little mention in the CPO papers is that the Aylesbury es
 *One block of over 300 red brick properties on the Aylesbury estate*
 
 ## Bridging the (viability) gap
+In Jan 2009, the [draft Aylesbury Area Action Plan](/img/DraftAAAP.pdf) showed that there was a funding shortfall of £299m, i.e. this is what the cost of the scheme to the Council would be.
+
+![](/img/DraftAAAP_appendices.png) 
+*Page 92 of the [appendices](/img/DraftAAAP_appendices.pdf) to the draft AAAP*
+
+
 In Jan 2009 the AAAP table A7.2 allowed £130.422m for leasehold acquisitions. This should have covered the purchase of 392+54+36=__482__ properties. 
 
 In May 2009 the [AAAP](http://www.southwark.gov.uk/downloads/download/4444/area_action_plans) was revised to allow only £65.73m for leasehold acquisitions. There is no evidence available to justify this decision. When questioned as part of the public inquiry into the Aylesbury compulsory purchase order, the Council said that it had been an officer decision and that the IDM report justifying the decision to revise the leaseholder buyback budget had gone missing.
