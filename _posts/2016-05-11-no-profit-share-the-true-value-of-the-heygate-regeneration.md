@@ -1,6 +1,6 @@
 ---
 
-title: 'No profit overage for Southwark - the true value of the Heygate regeneration'
+title: 'No profit for Southwark - the true value of the Heygate regeneration'
 layout: post
 published: true
 
@@ -53,10 +53,10 @@ However it is equally hard to believe that the Council sought its  [professional
 
 We do not believe that there is any impropriety on the part of any of the parties involved in Trafalgar Place, but Southwark demolished 1,212 council homes to allow Lend Lease to build well over 2,000 private homes on the Heygate, so the public is entitled to the answers to some questions, three immediately coming to mind;
 
-- What advice did Southwark get from Herbert Smith Freehills?
 - How much profit have Lend Lease made on Trafalgar Place? 
 - In light of clause 3.7 will Southwark ever get any overage profit?
- 
+- What advice did Southwark get from Herbert Smith Freehills? The Council should respond to our [FOI request](https://www.whatdotheyknow.com/request/financial_advice_on_signing_rege#incoming-775158) and publish the advice immediately. 
+
 We leave the final words to the eminent architectural critic Rowan Moore, taken from the Heygate chapter of his recent book  ['Slow Burn City'](http://www.prospectmagazine.co.uk/features/london-time-for-plan-b) :  *“ Southwark Council has been played by developers. It has had its tummy tickled, arm twisted and arse kicked. It has got a poor deal in return for its considerable assets, multiple promises have been broken and violence done to the lives of many who lived there.”*
 
 We could not have put it better ourselves.
