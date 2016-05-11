@@ -124,14 +124,14 @@ One fact that receives little mention in the CPO papers is that the Aylesbury es
 In Jan 2009, the [draft Aylesbury Area Action Plan](/img/DraftAAAP.pdf) showed that there was a funding shortfall of £299m, i.e. this is what the cost of the regeneration scheme to the Council would be.
 
 ![](/img/DraftAAAP_appendices.png) 
-*Page 92 of the [appendices](/img/DraftAAAP_appendices.pdf) to the draft AAAP*
+*Page 92 of the [appendices](/img/DraftAAAP_appendices.pdf) to the [draft AAAP](/img/DraftAAAP.pdf)*
 
-However, one of the requirements of an Area Action Plan is that it must be shown to be viable and therefore deliverable. The inspector flagged up the funding gap and viability problem in her [report](/img/AAAP_inspectors_report.pdf) and the Council responded by simply slashing the cost estimates, without providing any evidence or justification. For example, the £130m estimated for leasehold acquisitions of the 482 leasehold properties on the estate was slashed by half, with no explanation as to why the value of leaseholders' homes had their values cut by 50% overnight. 
+However, one of the requirements of an Area Action Plan is that it must be shown to be viable and therefore deliverable. The inspector flagged up the funding gap and viability problem to the Council and her [final report](/img/AAAP_inspectors_report.pdf) on the AAAP shows that the Council's solution was to arbitrarily slash the cost estimates, without providing any evidence base or justification for doing so. For example, the £130m estimated for leasehold acquisitions of the 482 leasehold properties on the estate was slashed by half, with no explanation as to why it suddenly dropped its estimate of the market value of leaseholders' homes by 50% overnight. 
 
 ![](/img/DraftAAAP_strikethrough.png)
 *Table from appendices to [AAAP Inspector's report](/img/AAAP_inspectors_report.pdf) showing cost estimates slashed* 
 
-Altogether, the cost estimates were reduced by around a half, reducing the funding gap from £299m down to £169m and this is the figure given in the final adopted version of the [AAAP](http://www.southwark.gov.uk/downloads/download/4444/area_action_plans). 
+Altogether, the cost estimates were reduced by around a half, reducing the funding gap from £299m down to £169m and this is the figure given in the [final adopted version of the AAAP](http://www.southwark.gov.uk/downloads/download/4444/area_action_plans). 
 
 ![](/img/aaapfundinggap.png)
 *Extract from final adopted version of [Aylesbury Area Action Plan 2010](http://www.southwark.gov.uk/downloads/download/4444/area_action_plans) showing the funding gap*
@@ -145,7 +145,7 @@ The AAAP goes on to explain possible scenarios for bridging the funding gap shou
 
 Development schemes in Southwark are currently [delivering](http://35percent.org/2016-05-07-southwark-in-bottom-3-boroughs-for-affordable-housing-delivery/) on average 3% affordable housing, largely with social rent substituted for affordable rent. So we find it hard to believe that Notting Hill can deliver a scheme with 50% affordable housing comprising 75% social rent. We find it even more difficult to believe that Notting Hill is also expecting to extract a 15% profit margin (representing ca. £150m) and Southwark is also expecting to receive payments for the land. 
 
-Despite its new [transparency policy](http://www.southwark.gov.uk/news/article/2062/viability_assessments_must_be_published_in_southwark_%E2%80%93_consultation_launched) the Council has rejected our request for a copy of Notting Hill's [viability report](http://crappistmartin.github.io/images/NHHT_AylesburyViabilityAssessment.pdf) for the Aylesbury redevelopment. Despite being a registered charity, Notting Hill has claimed commercial confidentiality as the grounds for its redactions. In April 2016, the Information Commissioner upheld our complaint and directed Southwark Council to disclose the unredacted viability report. Watch this space!
+Despite its new [transparency policy](http://www.southwark.gov.uk/news/article/2062/viability_assessments_must_be_published_in_southwark_%E2%80%93_consultation_launched) the Council has rejected our request for an unredacted copy of Notting Hill's [viability report](http://crappistmartin.github.io/images/NHHT_AylesburyViabilityAssessment.pdf) for the Aylesbury redevelopment. Despite being a registered charity, Notting Hill has claimed commercial confidentiality as the grounds for its redactions. In April 2016, the Information Commissioner upheld our complaint and directed Southwark Council to disclose the unredacted viability report. Watch this space!
 
 It's important to note that Notting Hill won't be building the new homes. This has been [contracted](http://www.nottinghillhousing.org.uk/our-developments/aylesbury-estate-southwark) to Barratt Homes in a joint-venture agreement, which will see Barratt also receive a healthy slice of the profits. Before Notting Hill takes its slice, Barratt will receive a 21% priority return and half the remaining profit from the sale of private units in the development.
 
