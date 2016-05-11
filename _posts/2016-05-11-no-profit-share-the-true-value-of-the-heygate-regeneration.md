@@ -3,6 +3,7 @@
 title: 'No profit for Southwark - the true value of the Heygate regeneration'
 layout: post
 published: true
+comments: true
 
 ---
 Southwark Council has been stunned to be told by Lend Lease that they will not be getting their expected share of the profits from the first completed phase of the Heygate redevelopment (now known as [Trafalgar Place](http://www.elephantpark.co.uk/local-area/trafalgar-place)). The shock revelation is in response to a 35% Campaign [FOI request](https://www.whatdotheyknow.com/request/heygate_regeneration_agreement_a?nocache=incoming-800392#incoming-800392). 
@@ -13,7 +14,7 @@ Southwark Council has been stunned to be told by Lend Lease that they will not b
 Southwark are entitled to 50% of the overage under a profit share agreement, detailed in the [leaked](http://www.newstatesman.com/news/2013/02/southwark-accidentally-leaks-confidential-information) Heygate [regeneration agreement](https://southwarknotes.files.wordpress.com/2013/02/ra.pdf); the amount to be determined at the end of each development phase and paid upon the project's completion in 2025.  Phase 1 (Trafalgar Place) has 235 new homes and was finished last June.  Southwark were due to meet Lend Lease on 3 February 2016, but the meeting was cancelled - presumably because the Council would have left it empty handed.
 
 ![Trafalgar Place - Phase 1 of Heygate redevelopment](http://www.elephantpark.co.uk/local-area/~/media/Developments/UK/EP/Images/Trafalgar%20Place/CGI%20Gallery/DS31656%20002TP.jpg)
-*Trafalgar Place - completed phase 1 of the Heyate redevelopment*
+*Trafalgar Place - completed phase 1 of the Heygate redevelopment*
 
 This news will have come as a sore disappointment to Cllr Mark Williams, Cabinet member for Regeneration, who can be found ['setting the record straight'](http://www.southwark.gov.uk/news/article/1785/setting_the_record_straight_the_true_value_of_the_elephant_and_castle_regeneration) and telling us what the _"true value of the Elephant & Castle regeneration"_ is: 
  
