@@ -29,7 +29,7 @@ It could be that Trafalgar Place simply has not made enough profit to trigger an
 
 ![](http://35percent.org/img/lendleaseprofits.png)
 
-Alternatively, the explanation could lie in clause 3.7 of the [regeneration agreement](https://southwarknotes.files.wordpress.com/2013/02/ra.pdf). This states that _receipts from a disposal of any interest in land to a wholly-owned group company .. shall be disregarded for the purposes of calculating profit overage"_.  
+Alternatively, the explanation could lie in clause 3.7 of the [regeneration agreement](https://southwarknotes.files.wordpress.com/2013/02/ra.pdf). This states that _"receipts from a disposal of any interest in land to a wholly-owned group company .. shall be disregarded for the purposes of calculating profit overage"_.  
 
 ![Overage clause 3.7 in the regeneration agreement](http://35percent.org/img/overageclause.png)
 
