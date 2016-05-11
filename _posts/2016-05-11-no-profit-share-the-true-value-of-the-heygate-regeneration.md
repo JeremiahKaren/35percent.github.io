@@ -17,8 +17,8 @@ Southwark are entitled to 50% of the overage under a profit share agreement, det
 This news will have come as a sore disappointment to Cllr Mark Williams, Cabinet member for Regeneration, who can be found ['setting the record straight'](http://www.southwark.gov.uk/news/article/1785/setting_the_record_straight_the_true_value_of_the_elephant_and_castle_regeneration) and telling us what the _"true value of the Elephant & Castle regeneration"_ is: 
  
 > "Some figures we have seen reported on websites and in the media are misleading and incorrect. The council receives phased payments as the scheme progresses and the figures are made public as we receive them. Further payment will be made as the land is drawn down, set to happen soon. The true receipts will amount to hundreds of millions."
-> 
-![Heygate redevelopment site plan](http://35percent.org/img/elephantparkphases.png)
+
+It will also be a disappointment to council leader Peter John who, in response to criticism of the Heygate deal [claimed in December](https://youtu.be/Emvo16iBxFE?t=4m14s) that _"at the end of the day when profit is coming out of the site, the Council has a 50% share of the profits it delivers."_
 
 ## How can this be happening?
 
@@ -29,10 +29,6 @@ It could be that Trafalgar Place simply has not made enough profit to trigger an
 Alternatively, the explanation could lie in clause 3.7 of the [regeneration agreement](https://southwarknotes.files.wordpress.com/2013/02/ra.pdf). This states that _receipts from a disposal of any interest in land to a wholly-owned group company .. shall be disregarded for the purposes of calculating profit overage"_.  
 
 ![Overage clause 3.7 in the regeneration agreement](http://35percent.org/img/overageclause.png)
-
-
-
-
 
 Lend Lease has unsurprisingly set up precisely this kind of group company arrangement; the parent company is **Lend Lease Corporation**, while __Lend Lease (Elephant & Castle) Ltd__ is the contractual party to the [regeneration agreement](https://southwarknotes.files.wordpress.com/2013/02/ra.pdf). It purchased the Heygate land for £50m and now sells the individual phases on to  **Lend Lease Residential** companies.  The [land](http://35percent.org/img/LRegisterTrafalgarPlace.pdf) for Trafalgar Place was sold for £8m to  __Lend Lease Residential (BH) Ltd__ . Another plot, for Elephant Park (South Gardens), was [sold](http://crappistmartin.github.io/images/LRegisterSouthGardens.pdf) to __Lend Lease Residential (CG)  PLC__  for £5m. The [Land Registry deeds](http://crappistmartin.github.io/images/LRegisterSouthGardens.pdf) show the  **Lend Lease Residential** companies selling their apartments to the final owners and we can presume that these companies hold the sales receipts, at least in the first instance.
 
