@@ -18,7 +18,10 @@ This news will have come as a sore disappointment to Cllr Mark Williams, Cabinet
  
 > "Some figures we have seen reported on websites and in the media are misleading and incorrect. The council receives phased payments as the scheme progresses and the figures are made public as we receive them. Further payment will be made as the land is drawn down, set to happen soon. The true receipts will amount to hundreds of millions."
 
-It will also be a disappointment to council leader Peter John who, in response to criticism of the Heygate deal [claimed in December](https://youtu.be/Emvo16iBxFE?t=4m14s) that _"at the end of the day when profit is coming out of the site, the Council has a 50% share of the profits it delivers."_
+It will also come as a disappointment to council leader Peter John who, in response to criticism of the Heygate deal [claimed in December](https://youtu.be/Emvo16iBxFE?t=4m14s): _"at the end of the day when profit is coming out of the site, the Council has a 50% share of the profits it delivers."_
+
+![](http://www.london-se1.co.uk/news/imageuploads/1280161383_62.49.27.213.jpg)
+*Council leader Peter John signing Heygate regeneration agreement with Lend Lease's Dan Labbad*
 
 ## How can this be happening?
 
