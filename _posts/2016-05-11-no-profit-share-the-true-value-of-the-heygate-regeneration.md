@@ -27,7 +27,7 @@ It will also come as a disappointment to council leader Peter John who, in respo
 
 It could be that Trafalgar Place simply has not made enough profit to trigger an  overage payment, but this would appear to be contradicted by __Lend Lease Corporation__ [reporting](http://www.afr.com/real-estate/commercial/lendlease-firsthalf-net-profit-rises-121pc-to-354-million-20160216-gmvxux) to the Australian stock exchange that its profits were up 12% to AUD $354m(£192m) in the 6 months to February 2016. Exactly how much of this profit is from Trafalgar Place we don't know, although Lend Lease does [acknowledge](http://www.smh.com.au/business/property/lendlease-reports-a-3538-million-profit-20160216-gmvo2z.html) that the profits are a result of _"strong sales momentum at residential projects at Victoria Harbour in Melbourne and Elephant & Castle in London"_.  
 
-![](/img/lendleaseprofits.png)
+![](http://35percent.org/img/lendleaseprofits.png)
 
 Alternatively, the explanation could lie in clause 3.7 of the [regeneration agreement](https://southwarknotes.files.wordpress.com/2013/02/ra.pdf). This states that _receipts from a disposal of any interest in land to a wholly-owned group company .. shall be disregarded for the purposes of calculating profit overage"_.  
 
