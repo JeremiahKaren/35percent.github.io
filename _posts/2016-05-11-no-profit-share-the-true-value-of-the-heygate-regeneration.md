@@ -62,7 +62,7 @@ We do not believe that there is any impropriety on the part of any of the partie
 - In light of clause 3.7 will Southwark ever get any overage profit?
 - What advice did Southwark get from Herbert Smith Freehills? The Council should respond to our [FOI request](https://www.whatdotheyknow.com/request/financial_advice_on_signing_rege#incoming-775158) and publish the advice immediately. 
 
-We leave the final words to the eminent architectural critic Rowan Moore, taken from the Heygate chapter of his recent book  ['Slow Burn City'](http://www.prospectmagazine.co.uk/features/london-time-for-plan-b) :  *“ Southwark Council has been played by developers. It has had its tummy tickled, arm twisted and arse kicked. It has got a poor deal in return for its considerable assets, multiple promises have been broken and violence done to the lives of many who lived there.”*
+We leave the final words to the eminent architectural critic Rowan Moore, taken from the [Heygate chapter](http://crappistmartin.github.io/images/slowburncity.pdf) of his recent book  ['Slow Burn City'](http://www.prospectmagazine.co.uk/features/london-time-for-plan-b) :  *“ Southwark Council has been played by developers. It has had its tummy tickled, arm twisted and arse kicked. It has got a poor deal in return for its considerable assets, multiple promises have been broken and violence done to the lives of many who lived there.”*
 
 We could not have put it better ourselves.
 
