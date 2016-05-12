@@ -29,3 +29,7 @@ Despite being approved in 2013, the development is still under construction and 
 [Land Registry deeds](http://crappistmartin.github.io/images/LRegisterWoodDene.pdf) show that the Council sold the entire Wood Dene site to Notting Hill for just £7m. The [Regeneration Agreement](/img/RAWooddene.pdf) with Notting Hill provides for an 'overage' payment should the development turn out more profitable than expected. However, if Notting Hill's pitiful overage payment for its regeneration of the Silwood estate is anything to go by (£546k), then there is little hope that the Wood Dene is going to provide a windfall.
 
 ![](/img/wood_dene.jpg)
+
+![](/img/wooddenephoto.jpg)
+
+![](/img/wooddenephoto2.jpg)
