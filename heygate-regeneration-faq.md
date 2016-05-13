@@ -71,6 +71,11 @@ The topic was taken up on a BBC Politics show by local ctivist Peter Tatchell:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Emvo16iBxFE" frameborder="0" allowfullscreen></iframe>
 
+Subsequently, in May 2016, Southwark [conceded](http://35percent.org/2016-05-11-no-profit-share-the-true-value-of-the-heygate-regeneration/) that following the overage profit calculations for the first completed phase of the development, it would not be receiving a penny in overage.
+
+![](/img/noprofit.png)
+
+## Heygate was home
 ![](http://crappistmartin.github.io/images/HeygateWasHome_Screenshot.png) 
 Some Heygate residents have set up a digital archive, charting the broken promises of regeneration over the years and the impact it had on them as a community. This can be accessed at: [http://heygatewashome.org](http://heygatewashome.org) 
 
