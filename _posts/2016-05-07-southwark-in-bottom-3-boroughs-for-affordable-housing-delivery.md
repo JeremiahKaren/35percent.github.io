@@ -8,7 +8,7 @@ categories: '[Aylesbury regeneration, Estate regeneration]'
 ---
 Southwark is one of the worst three boroughs in London when it comes to delivery of social rented housing. Only 3% of the total homes delivered in 2014/15 were affordable and -5% of the total delivered was social rented (it is a minus figure because more have been [knocked down](http://35percent.org/the-southwark-clearances/) or [sold off](http://35percent.org/auctions/) than have been built)[^1].
 
-These shocking figures are revealed in an [analysis](http://35percent.org/img/LTF_delivery_of_housing_in_London_2014-15.pdf) by the [London Tenants Federation](http://www.londontenants.org/) of the most recently published [figures](http://data.london.gov.uk/publisher/gla?q=housing&sort=score+desc%2C+metadata_modified+desc) for housing delivery in the capital. Only Barking & Dagenham and Bromley performed worse, at least when it comes to social rented housing.
+These shocking figures are revealed in an [analysis](http://35percent.org/img/LTF_delivery_of_housing_in_London_2014-15.pdf) by the [London Tenants Federation](http://www.londontenants.org/) of the latest [GLA housing delivery data](http://data.london.gov.uk/publisher/gla?q=housing&sort=score+desc%2C+metadata_modified+desc) published in March. Only Barking & Dagenham and Bromley performed worse, at least when it comes to social rented housing.
 
 ![](http://35percent.org/img/LTF_table.png)
 *LTF [analysis](http://35percent.org/img/LTF_delivery_of_housing_in_London_2014-15.pdf) of GLA housing delivery data 2014/15*
