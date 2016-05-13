@@ -33,3 +33,9 @@ Despite being approved in 2013, the development is still under construction and 
 ![](/img/wooddenephoto.jpg)
 
 ![](/img/wooddenephoto2.jpg)
+
+![](/img/wooddene_demolition1.jpg)
+
+![](/img/wood_dene.jpg)
+
+![](/img/wooddene_demolition2.jpg)
