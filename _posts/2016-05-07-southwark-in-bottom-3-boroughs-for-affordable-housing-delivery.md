@@ -48,7 +48,7 @@ However, Southwark and Notting Hill Housing are determined to proceed and say th
 
 __Footnotes:__
 
-[^1]: Actually it's worse: the figure is improved to -5% by taking account of the 75 affordable rent units - a tenure which Southwark specifically excludes from its housing and planning policies.
+[^1]: Actually it's worse: the figure is improved to -5% by taking account of the 75 affordable rent units - a tenure which Southwark specifically excludes from its housing and planning policies. Neither does the figure take into account the loss of council homes lost through the right to buy during that period.
 
 [^2]: See [Council Assembly Question 1, 26 Jan 2016](http://moderngov.southwark.gov.uk/documents/s59593/Members%20questions%20with%20responses.pdf). NB: only 21 of the 75 Willow Walk homes are social rented council homes, the remainder is temporary accommodation at higher rents. ↩
 
