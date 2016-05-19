@@ -61,4 +61,7 @@ Glover stepped down as councillor in May 2014. Amongst other things, Bellenden o
 With his 12 years as a senior Southwark councillor, we don't doubt that Mr Glover is very well placed to provide this service.  
 
 
+## Postscript update - 19 May 2016
+The planning application has been withdrawn following an acrimonious [dispute](http://www.london-se1.co.uk/news/view/8775) between the Ministry of Sound and Peabody.
+
 [^1]: See paragraph 8.4 on pages 93-94 of the council's [2004 Elephant & Castle Supplementary Planning Guidance](http://www.scribd.com/doc/82420796/Southwark-Council-2004-Development-Framework)
