@@ -48,4 +48,5 @@ We since discovered that the 22 'social rented' units are listed in the [GLA aff
 
 ![](/img/silwoodhalfdemolished.jpeg)
 
+![](/img/silwoodalpineroad.jpg)
 

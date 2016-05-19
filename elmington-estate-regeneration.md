@@ -10,6 +10,11 @@ The decision to redevelop the Elmington estate was taken as part of the ['Southw
 
 The Elmington regeneration is split into 10 blocks (A-J), of which F, H, I and J will be refurbished and the remainder redeveloped.
 
+## Phase 1
+375 council homes were demolished in phase 1 of the Elmington redevelopment and 136 new council homes were built to replace them.
+
+
+## Phase 2
 Sites A and B are currently being redeveloped By Notting Hill Housing Group, where [planning documents](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!XXOecz%2bOmRk2JFLLeX0iRw%3d%3d!%7d%7d%7d) confirm that it has [demolished](http://directobjective.blogspot.co.uk/2011/12/elmington-estate-revisited.html) 294 Council homes and is replacing them with 279 homes and 117 car parking spaces in a 'mixed tenure' development that it has branded [Camberwell Fields](http://www.camberwellfields.com/). 
 
 ![](http://crappistmartin.github.io/images/camberwellfieldslogo.png)
@@ -34,12 +39,14 @@ Having made promises of a 'right to return' to former tenants, [this Council rep
 ![](https://pbs.twimg.com/media/Cf_uVcCWQAAWZuF.jpg)
 
 
-## Later phases
+## Phase 3
 In July 2012, the Council's Cabinet [resolved](http://moderngov.southwark.gov.uk/documents/s30291/Report%20Disposal%20of%20the%20Councils%20freehold%20interest%20in%20Elmington%20estate%20sites%20C%20D%20E%20and%20G%20Camberw.pdf) to sell remaining sites C,D,E and G to developer Bellway Homes on the basis that replacement 1&2 bed 'social' housing would be affordable rent, capped at 65% market rent. These will be managed by [Family Mosaic](http://www.familymosaic.co.uk/home/index.html) - a housing assocation that features in our [list](http://35percent.org/img/section106_tenure_breaches.pdf) of those who have delivered affordable rent instead of social rent approved in the planning consent. 
 
 ![](http://crappistmartin.github.io/images/elmingtondisposal.png)
 
 In Oct 2012 the Council's Cabinet [resolved](http://moderngov.southwark.gov.uk/ieListDocuments.aspx?CId=302&MId=4247&Ver=4) to issue a Compulsory Purchase Order on remaining leaseholders and tenants on phase 3 (Sites C, D, E and G).
+
+On 31st March 2014, the Council approved planning applications for 14/AP/3277
 
 In 2015 the Council served the Compulsory Purchase Order on Site E and submitted its [Statement of Reasons](/img/ElmingtonSiteE_SOR.pdf) to the Secrectary of State. 
 
