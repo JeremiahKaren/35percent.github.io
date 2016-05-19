@@ -19,3 +19,7 @@ The [GLA report](http://legacy.london.gov.uk/mayor/planning_decisions/strategic_
 The GLA report confirms that the Five Estates project comprised 3203 homes, which were demolished and replaced by 2019 new homes provided in a _"more balanced tenure mix"_. Overall, the scheme resulted in a net loss of 1184 social-rented dwellings. It is unknown how many of the new-build social rented dwellings (managed by housing associations) have since been converted to affordable rent (i.e. up to 80% market rent. 
 
 ![](http://crappistmartin.github.io/images/northpeckham2.jpg)
+
+![](/img/northpeckhamaerial.jpg)
+
+<iframe width="420" height="315" src="https://www.youtube.com/embed/FGKzlVNkOZ8" frameborder="0" allowfullscreen></iframe>
