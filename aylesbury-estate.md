@@ -128,8 +128,8 @@ In Jan 2009, the [draft Aylesbury Area Action Plan](/img/DraftAAAP.pdf) showed t
 
 However, one of the requirements of an Area Action Plan is that it must be shown to be viable and therefore deliverable. The inspector flagged up the funding gap and viability problem to the Council and her [final report](/img/AAAP_inspectors_report.pdf) on the AAAP shows that the Council's solution was to arbitrarily slash the cost estimates, without providing any evidence base or justification for doing so. For example, the £130m estimated for leasehold acquisitions of the 482 leasehold properties on the estate was slashed by half, with no explanation as to why it suddenly dropped its estimate of the market value of leaseholders' homes by 50% overnight. 
 
-![](/img/DraftAAAP_strikethrough.png)
-*Table from appendices to [AAAP Inspector's report](/img/AAAP_inspectors_report.pdf) showing cost estimates slashed* 
+![](/img/Recommended_Changes.png)
+*[Table of Recommended Changes to AAAP (2009)](/img/Table_of_Recommended_Changes.pdf) showing cost estimates slashed* 
 
 Altogether, the cost estimates were reduced by around a half, reducing the funding gap from £299m down to £169m and this is the figure given in the [final adopted version of the AAAP](http://www.southwark.gov.uk/downloads/download/4444/area_action_plans). 
 
