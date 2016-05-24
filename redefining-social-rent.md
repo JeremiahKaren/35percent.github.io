@@ -65,8 +65,8 @@ This is one of the [Neo-Bankside](/neo-bankside) off-site affordable housing sit
 ![](/img/430okr.png)
 *430 Old Kent Road*
 
-## 34-42 Grange Road, Bermondsey
-Southwark's [planning committee report](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!zsXhZcwMT4Yjxyeq6tsl1w%3d%3d!%7d%7d%7d) (11/AP/3251) approved 8 social rented units, but the GLA dataset shows that these have been delivered by Leicester Housing Association at affordable rents of up to 52% market rent.
+## 34-42 Grange Road, Bermondsey (Bellway Homes)
+Southwark's [planning committee report](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!zsXhZcwMT4Yjxyeq6tsl1w%3d%3d!%7d%7d%7d) (11/AP/3251) approved 41 new homes of which 8 social rented, but the GLA dataset shows that these have been delivered by Leicester Housing Association at affordable rents of up to 52% market rent.
 
 ![](/img/twistgrangeroad.png)
 
