@@ -86,6 +86,10 @@ In a [BBC interview](https://youtu.be/Emvo16iBxFE?t=6m16s) he claimed _"The Heyg
 
 On his [blog](http://cllrpeterjohn.blogspot.co.uk/2012/06/development-partner-for-aylesbury.html) he repeats the same criticisms of council estates touted by the Tories and their proposed replacement by traditional street patterns: _"The answers which the Aylesbury provided were soon overshadowed by the problems which were inherent in the design of the huge monolithic and brutalist blocks.  The previous street pattern was replaced by long corridors and above-ground walkways, which paid little regard to the human desire to travel at ground level and have neighbours and communities within easy reach."_
 
+Southwark's (Labour) Cabinet member for Regeneration also once said in an [interview](https://youtu.be/dmO66YRwQG8?t=5m59s) about the Heygate: _"council estates are full of people who aren't working and are on benefits"_.
+
+![](/img/cllrcolleyquote.png)
+
 ## There is an alternative
 The council leader's claims are mistaken. [This poll](http://betterelephant.github.com/images/mori.pdf) shows that the majority of Heygate residents were happy living on the estate and [crime stats](http://betterelephant.org/images/HeygateCrimeStats.pdf) show that the crime rate was 45% below the borough average. Likewise, 73% of Aylesbury residents [voted against](http://www.theguardian.com/society/2001/dec/27/1) demolition in the only ballot to have been held on the estate and crime rates there were consistently [lower](https://books.google.co.uk/books?id=RpHOAwAAQBAJ&lpg=PT72&vq=crime%20statistics&pg=PT72#v=snippet&q=crime%20statistics&f=false) than the borough average.
 
