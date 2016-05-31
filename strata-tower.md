@@ -58,9 +58,8 @@ Paragraph 93 of the [officer's report](http://moderngov.southwark.gov.uk/Data/Pl
 
 ![](http://crappistmartin.github.io/images/stratas106variation.png)
 
-However, both retail units at the base of the tower remain unoccupied and rumour has it that they are going to be occupied by an estate agent. Watch this space..
-
-
+The affordable retail unit was eventually provided - albeit according to the very minimum requirements: 19 square metres was provided to Inura, a money transfer agent from the shopping centre now occupying what is nothing more than a kiosk. 
+![](/img/stratapavkiosk.jpg)
 
 
 
