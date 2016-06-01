@@ -59,4 +59,6 @@ Appendices:
 ## West Ham Stadium development 
 [Financial viability assessment and appraisal reports](http://crappistmartin.github.io/images/FVAWestHamStadium.pdf) for the West Ham Stadium development in Newham.  
 
+## Wilds Rents
+[Financial viability assessment (GLA toolkit)](/img/wildsrents.pdf) for a residential development in Wilds Rents Bermondsey.
 
