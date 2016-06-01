@@ -11,8 +11,11 @@ The Elmington regeneration is split into 10 blocks (A-J), of which F, H, I and J
 ![](/img/elmingtonphasingplan.jpg)
 
 ## Phase 1
-Phase 1 was completed in 2006, it comprises 136 new council homes of questionable design and build quality. Exterior timber balcony structures have not been maintained and the woodwork is already showing signs of rot 10 years after being completed. 
+Phase 1 was completed in 2006, it comprises 136 new council homes which are of questionable design and build quality - despite winning awards. This [article](http://www.building.co.uk/bright-young-homes/3053009.article) by Building Magazine claims that tenants should _'regard themselves as quite lucky. For in place of dreary high-rise living, they now have human-scale housing that includes and abundance of colour, form and detail'_. However, a few years on and the abundance of colourful paint appears to be flaking off to reveal a remarkably cheap and shoddy build quality. 
 
+![](/img/brisbanestreet.jpg)
+
+We wonder how long it will be before these too are condemned for redevelopment..
 
 ## Phase 2
 Phase 2 comprises sites A and B, which are being redeveloped By Notting Hill Housing Group, where [planning documents](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!XXOecz%2bOmRk2JFLLeX0iRw%3d%3d!%7d%7d%7d) confirm that it has [demolished](http://directobjective.blogspot.co.uk/2011/12/elmington-estate-revisited.html) 294 Council homes and is replacing them with 279 homes and 117 car parking spaces in a 'mixed tenure' development that it has branded [Camberwell Fields](http://www.camberwellfields.com/). 
