@@ -40,14 +40,16 @@ We found that Savills has used the same old tricks with Hadley's viability asses
     
 Had the viability assessment complied with policy and used CUV +20% (£6.9m) as the benchmark then at least an extra £1.15m would become available for extra affordable housing provision[^2].
 
-Hadley's viability assessment also assumes a 25% developer profit, amounting to £17.6m. This is excessive - especially given the involvement of the Council and its land assets in the scheme. A recent development in Peckham submitted a [viability assessment](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!nspksmACnecLtzpJPG4%2fhw%3d%3d!%7d%7d%7d) assuming 16% developer profit. Why does Hadley require 25% profit? were it to assume a profit of 16% this would free up around £7m for the provision of extra affordable housing.
+Hadley's viability assessment also assumes a 25% developer profit, amounting to £17.6m. This is excessive - especially given the involvement of the Council and its land assets in the scheme. A recent development in Peckham submitted a [viability assessment](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!nspksmACnecLtzpJPG4%2fhw%3d%3d!%7d%7d%7d) assuming 16% developer profit. Why does Hadley require 25% profit? were it to assume a profit of 16% (ca. £10m) this would free up around £7m for the provision of extra affordable housing.
 
 ## Land give-away?
 Curiously, Hadley's viability assessment doesn't include the cost of buying/leasing the Green Dale land from the Council. Does this mean that the Council is planning to hand over its [Green Dale land](http://35percent.org/img/LRegisterGreenDale.pdf) for the new stadium for free?
 
-Even more curiously, Council leader Peter John has [said publicly](http://www.southwarknews.co.uk/news/final-plans-new-dulwich-hamlet-stadium-submitted/) "I am opposed to the Hadley scheme", so why is he handing over the Council's land for Hadley to build a new stadium?
+Even more curiously, Council leader Peter John has [said publicly](http://www.southwarknews.co.uk/news/final-plans-new-dulwich-hamlet-stadium-submitted/) _"I am opposed to the Hadley scheme"_, so why is he handing over the Council's land for Hadley to build a new stadium?
 
 Over to you Councillor John..
+
+__Footnotes:__
 
 [^1]: See paragraph 6.74 of the application's [Planning Statement](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!s5yeW%2bePQpbhAWzOWHVWkg%3d%3d!%7d%7d%7d)
 
