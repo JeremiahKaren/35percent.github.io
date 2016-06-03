@@ -4,7 +4,7 @@ title: 'Dulwich Hamlet stadium redevelopment'
 layout: page
 
 ---
-This is what Dulwich Hamlet football clud and adjacent Green Dale playing fields in East Dulwich used to look like up until around 20 years ago: 
+This is what Dulwich Hamlet football club and adjacent Green Dale playing fields in East Dulwich used to look like until around 20 years ago: 
 ![](/img/greendale.jpg)
 *Dulwich Hamlet FC & Green Dale Playing Fields pre-1990s: ca. 15 Hectares of public open space*
 
