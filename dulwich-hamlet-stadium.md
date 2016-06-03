@@ -23,6 +23,9 @@ It claims that the residential development along with proposals for a new stadiu
 
 However, having sold off all its spare land to Sainsburys the club was faced with the small problem of having nowhere to build the 155 new homes. This is where Southwark has come to the rescue and offered to sell the club part of the adjacent Green Dale playing fields. The stadium can thus be relocated to where the Green Dale astro turf pitches are currently located and the new homes can be built on the site of the existing stadium.
 
+![](/http://35percent.org/img/dhfc3.jpg)
+*New housing and DHFC stadium relocated to Green Dale Playing Fields*
+
 This has naturally met with local opposition as Green Dale is not only [council-owned](http://35percent.org/img/LRegisterGreenDale.pdf) open space, but enjoys [Metropolitan Open Land (MOL)](https://en.wikipedia.org/wiki/Metropolitan_Open_Land) protection. However, this doesn't necessarily stop the Council granting permission and it has [done so](http://35percent.org/sustainable-development/) before. 
  
 Notwithstanding the loss of council-owned public open space, the application is even more questionable in that of the 155 new homes proposed, not one is going to be social rented. This is a clear breach of the Council's planning policy which requires 35% affordable housing, 70% of which social rented. This would normally then be expected to provide 38 social rented homes for Southwark families who can't afford market rent. Instead the application proposes just 16% affordable housing in a mix of shared ownership and 'affordable rent' - i.e. rents of up to 80% market rent[^1].
