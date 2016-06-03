@@ -98,4 +98,13 @@ This is what will replace the Uxbridge Arms - 100% private housing. Not one of t
 ![](/img/TheUxbridge.png)
 *Development replacing the Uxbridge Arms - 100% private market housing*
 
+The Council is also busy selling off former council offices and council-owned land. This is the former Harper rd childrens services office, which the Council has [sold off](http://moderngov.southwark.gov.uk/mgIssueHistoryHome.aspx?IId=50010611&PlanId=404) to developers:
+![](/img/harperroad.png)
 
+This is Council owned-land on Ilderton road (formerly leased) which it is [selling off](http://moderngov.southwark.gov.uk/mgIssueHistoryHome.aspx?IId=50009366&PlanId=404) to developers:
+
+![](/img/ilderton.png)
+
+This is 48 Willowbrook road which the Council is planning to [sell at auction](http://moderngov.southwark.gov.uk/mgIssueHistoryHome.aspx?IId=50009053&PlanId=404) in summer 2016.
+
+![](/img/willowbrookroad.png)
