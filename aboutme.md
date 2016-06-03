@@ -4,7 +4,7 @@ title: About us
 ---
 ![](http://crappistmartin.github.io/images/elephantamenitylogo.jpg)
 
-We are local residents, traders and others who have an interest in the regeneration of the Elephant & Castle. We try to engage in planning matters ranging from housing to public realm and sustainable development. We are associated with the <a href="http://elephantamenity.wordpress.com">Elephant Amenity Network</a>, which is listed as a primary consultee in the [local planning policy](https://www.southwark.gov.uk/downloads/download/2896/elephant_and_castle_spd_supporting_documents) and has 3 guiding principles:
+We are local residents, traders and others who have an interest in the regeneration of the Elephant & Castle. We try to engage in planning matters ranging from housing to public realm and sustainable development. We are associated with the <a href="http://elephantamenity.wordpress.com">Elephant Amenity Network</a>, which is listed as a primary consultee in [local planning policy](https://www.southwark.gov.uk/downloads/download/2896/elephant_and_castle_spd_supporting_documents) and has 3 guiding principles:
 
 * Open Masterplanning
 * Benefits for All
