@@ -4,16 +4,17 @@ title: 'Dulwich Hamlet stadium redevelopment'
 layout: page
 
 ---
-This is what the Green Dale playing fields in East Dulwich used to look like: 
+This is what the Dulwich Hamlet and Green Dale playing fields in East Dulwich used to look like: 
 ![](/img/greendale.jpg)
+*Dulwich Hamlet & Green Dale Playing Fields - ca. 15 Hectares of public open space*
 
-In the early 90s the club owners came to Southwark Council pleading poverty and claiming that the 100 year-old club was unviable and wouldn't be able to survive unless it was given planning to sell some of its ground for redevelopment.  
+In the early 90s the club owners came to Southwark Council pleading poverty and claiming that the 100 year-old club was unviable and wouldn't be able to survive unless it was given planning permission to sell some of its ground for redevelopment.  
 
-The Council reluctantly granted planning permission for a Sainsbury's superstore and car park along with consent for a new clubhouse with a health and fitness club, including gym and squash courts. 
+The Council reluctantly granted permission for a Sainsbury's superstore and car park along with consent for a new clubhouse with a health and fitness club, including gym and squash courts. 
 
 ![](/img/dhfc2.jpg)
 
-Now the club's owners (a property developer based on the Isle of Man) have come back to the Council once again pleading viability poverty. In its covering letter](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!MOs846oklOp6ieOeJtYFyA%3d%3d!%7d%7d%7d) to the planning application, the club's owner claims _"The current stadium was constructed in the early 1990s to include a full-sized football pitch plus 5-a-side pitches, main stand, clubhouse and health and fitness club, including gym and squash courts. This previous redevelopment of the club was intended to provide a strong and financially sustainable base for DHFC, but in reality the Club has been unable to support the level of ancillary facilities currently provided on site. The gym, squash courts and entertainment space have been consistent loss makers that have resulted in a wholly financially insecure future for DHFC."_
+Now the club's owner ([Hadley](http://hadleypropertygroup.com/) - a property developer operating using an SPV [registered](http://35percent.org/img/LRegisterDHFC.pdf) on the Isle of Man) has come back to the Council once again pleading viability poverty. In its [covering letter](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!MOs846oklOp6ieOeJtYFyA%3d%3d!%7d%7d%7d) to the planning application, the club's owner claims _"The current stadium was constructed in the early 1990s to include a full-sized football pitch plus 5-a-side pitches, main stand, clubhouse and health and fitness club, including gym and squash courts. This previous redevelopment of the club was intended to provide a strong and financially sustainable base for DHFC, but in reality the Club has been unable to support the level of ancillary facilities currently provided on site. The gym, squash courts and entertainment space have been consistent loss makers that have resulted in a wholly financially insecure future for DHFC."_
 
 It goes on to explain that these new  "_proposals will also deliver 155 residential units, which will facilitate the stadium’s relocation and redevelopment whilst delivering a vibrant community of affordable and private homes, contributing towards the delivery of much needed housing in the Dulwich area."_
 
@@ -22,23 +23,29 @@ It claims that the residential development along with proposals for a new stadiu
 However, having sold off all its spare land to Sainsburys the club was faced with the small problem of having nowhere to build the 155 new homes. This is where Southwark has come to the rescue and offered to sell the club part of the adjacent Green Dale playing fields. The stadium can thus be relocated to where the Green Dale astro turf pitches are currently located and the new homes can be built on the site of the existing stadium.
 
 
+
+This has naturally met with local opposition as Green Dale is not only [council-owned](http://35percent.org/img/LRegisterGreenDale.pdf) open space, but enjoys [Metropolitan Open Land (MOL)](https://en.wikipedia.org/wiki/Metropolitan_Open_Land) protection. However, this doesn't necessarily stop the Council granting permission and it has [done so](http://35percent.org/sustainable-development/) before. 
  
+Notwithstanding the loss of council-owned public open space, the application is even more questionable in that of the 155 new homes proposed, not one is going to be social rented. This is a clear breach of the Council's planning policy which requires 35% affordable housing, 70% of which social rented. This would normally then be expected to provide 38 social rented homes for Southwark families who can't afford market rent. Instead the application proposes just 16% affordable housing in a mix of shared ownership and 'affordable rent' - i.e. rents of up to 80% market rent[^1].
+
+Hadley justifies this pitiful affordable housing offer by playing the usual viability trump card - i.e. the development is not viable enough to provide the requisite 35% policy-compliant affordable housing mix. Under normal circumstances this would be the end of the story; the developer's viability figures would remain confidential and the application would be waved through on the argument that 16% is the most that can viably be provided. However, as a result of the Council's new policy forcing viability assessments to be made public, we are able to examine the key assumptions in the [viability assessment summary](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!g6Huud%2ffC8539Zj%2bH4Z0qg%3d%3d!%7d%7d%7d) submitted by Hadley.
+
+## First impressions
+The first thing that strikes us is that it was created by our old friends Savills. Savills has a long chequered history in all things viability - it was behind [Lend Lease's viability assessment](http://35percent.org/2015-06-25-heygate-viability-assessment-finally-revealed/) for the Heygate redevelopment and is [advising](http://35percent.org/the-southwark-clearances/#completing-southwarks-clearances-with-savills) both Southwark and David Cameron on council estate regeneration policy.
+
+Besides underestimating sales revenue, over-estimating build costs and including an excessive profit margin of 25%, the viability assessment for Hadley's redevelopment has used the much-maligned trick of substituting market value for Existing Use Value (EUV) in the viability equation. Obviously the value of the land is a key input in any calculating the viability of a given development. The higher the figure the less the scheme looks viable and vice versa. This is why Southwark's new planning policy for viability testing makes it clear that Existing Use Value must be used - not market value, which is effectively hope value; i.e. the estimated value of the completed scheme and not the land in its current use.
+
+![](except from SPD)
+    
+Hadley then had used its estimated market value of £8.4m in the viability assessment when it should have used the Existing Use Value (EUV), which arguably is reflected in the price it [paid for the land](http://35percent.org/img/LRegisterDHFC.pdf) in 2014 of £5.75m. By doing so, Hadley has effectively made the scheme look artificially £2.65m less viable than it is.
+
+Hadley's viability assessment also assumes a 25% developer profit, amounting to £17.6m. This is excessive - especially given the involvement of the Council and its land assets in the scheme. A recent development in Peckham submitted a [viability assessment](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!nspksmACnecLtzpJPG4%2fhw%3d%3d!%7d%7d%7d) assuming just 16% developer profit. Why does Hadley require 25% profit? were it to assume a profit of 16% this would free up around £7m for the provision of extra affordable housing.
 
 
-![](https://s3-eu-west-1.amazonaws.com/rbi-blogs/wp-content/blogs.dir/303/files/2016/04/04-04-2016-11-57-34.jpg)
+Curiously, Hadley's viability assessment doesn't include the cost of buying/leasing the Green Dale land from the Council. Does this mean that the Council is planning to hand over its [Green Dale land](http://35percent.org/img/LRegisterGreenDale.pdf) for the new stadium for free?
 
-155 new homes of which 10 shared ownership and 15 affordable rent.
+Even more curiously, Council leader Peter John has [said publicly](http://www.southwarknews.co.uk/news/final-plans-new-dulwich-hamlet-stadium-submitted/) "I am opposed to the Hadley scheme", so why is he handing over the Council's land for Hadley to build a new stadium?
 
-62 car parking spaces.
+Over to you Councillor John..
 
-[Viability executive summary](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!g6Huud%2ffC8539Zj%2bH4Z0qg%3d%3d!%7d%7d%7d)
-
-The plans involving moving the stadium to a different position and building on open metropolitan land.
-
-![](https://s3-eu-west-1.amazonaws.com/rbi-blogs/wp-content/blogs.dir/303/files/2016/04/04-04-2016-11-58-11.jpg)
-
-[Estate Gazzette article](http://www.estatesgazette.com/blogs/london-residential-research/2016/04/dulwich-hamlet-submits-plans-stadium-flats/)
-
-Council leader Peter John has [said publicly](http://www.southwarknews.co.uk/news/final-plans-new-dulwich-hamlet-stadium-submitted/) "I am opposed to the Hadley scheme", so why is he agreeing to sell it the necessary land?
-
-
+[^1]: See paragraph 6.74 of the application's [Planning Statement](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!s5yeW%2bePQpbhAWzOWHVWkg%3d%3d!%7d%7d%7d)
