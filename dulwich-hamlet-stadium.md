@@ -22,8 +22,6 @@ It claims that the residential development along with proposals for a new stadiu
 
 However, having sold off all its spare land to Sainsburys the club was faced with the small problem of having nowhere to build the 155 new homes. This is where Southwark has come to the rescue and offered to sell the club part of the adjacent Green Dale playing fields. The stadium can thus be relocated to where the Green Dale astro turf pitches are currently located and the new homes can be built on the site of the existing stadium.
 
-
-
 This has naturally met with local opposition as Green Dale is not only [council-owned](http://35percent.org/img/LRegisterGreenDale.pdf) open space, but enjoys [Metropolitan Open Land (MOL)](https://en.wikipedia.org/wiki/Metropolitan_Open_Land) protection. However, this doesn't necessarily stop the Council granting permission and it has [done so](http://35percent.org/sustainable-development/) before. 
  
 Notwithstanding the loss of council-owned public open space, the application is even more questionable in that of the 155 new homes proposed, not one is going to be social rented. This is a clear breach of the Council's planning policy which requires 35% affordable housing, 70% of which social rented. This would normally then be expected to provide 38 social rented homes for Southwark families who can't afford market rent. Instead the application proposes just 16% affordable housing in a mix of shared ownership and 'affordable rent' - i.e. rents of up to 80% market rent[^1].
@@ -31,17 +29,20 @@ Notwithstanding the loss of council-owned public open space, the application is 
 Hadley justifies this pitiful affordable housing offer by playing the usual viability trump card - i.e. the development is not viable enough to provide the requisite 35% policy-compliant affordable housing mix. Under normal circumstances this would be the end of the story; the developer's viability figures would remain confidential and the application would be waved through on the argument that 16% is the most that can viably be provided. However, as a result of the Council's new policy forcing viability assessments to be made public, we are able to examine the key assumptions in the [viability assessment summary](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!g6Huud%2ffC8539Zj%2bH4Z0qg%3d%3d!%7d%7d%7d) submitted by Hadley.
 
 ## First impressions
-The first thing that strikes us is that it was created by our old friends Savills. Savills has a long chequered history in all things viability - it was behind [Lend Lease's viability assessment](http://35percent.org/2015-06-25-heygate-viability-assessment-finally-revealed/) for the Heygate redevelopment and is [advising](http://35percent.org/the-southwark-clearances/#completing-southwarks-clearances-with-savills) both Southwark and David Cameron on council estate regeneration policy.
+<img src="http://35percent.org/img/socialcleanserssavills.jpg" align="left" style="margin:10px" width="100">The first thing that strikes us is that it was created by our old friends Savills. Savills has a long chequered history in all things viability - it was behind [Lend Lease's viability assessment](http://35percent.org/2015-06-25-heygate-viability-assessment-finally-revealed/) for the Heygate redevelopment and is [advising](http://35percent.org/the-southwark-clearances/#completing-southwarks-clearances-with-savills) both Southwark and David Cameron on council estate regeneration policy.
 
-Besides underestimating sales revenue, over-estimating build costs and including an excessive profit margin of 25%, the viability assessment for Hadley's redevelopment has used the much-maligned trick of substituting market value for Existing Use Value (EUV) in the viability equation. Obviously the value of the land is a key input in any calculating the viability of a given development. The higher the figure the less the scheme looks viable and vice versa. This is why Southwark's new planning policy for viability testing makes it clear that Existing Use Value must be used - not market value, which is effectively hope value; i.e. the estimated value of the completed scheme and not the land in its current use.
+![](http://35percent.org/img/savills.png)
 
-![](except from SPD)
+We found that Savills has used the same old tricks with Hadley's viability assessment as it used with the Heygate one; underestimating sales revenue; over-estimating build costs; using an excessive profit margin of 25%; and similarly using market value (£8.4m) instead of Current Use Value (CUV) in the viability calculations. Obviously the value of the land is a key input in any viability assessment. The higher the figure, the less the scheme looks viable and vice versa. This is why Southwark's new planning policy for viability testing makes it clear that Current Use Value plus 20% uplift must be used and explicitly rejects market value from being used as the benchmark.
+
+![](http://35percent.org/img/spd_cuv.png)
+*Paragraph 38 of Southwark's [Development Viability SPD](http://www.southwark.gov.uk/download/downloads/id/13431/development_viability_spd)*
     
-Hadley then had used its estimated market value of £8.4m in the viability assessment when it should have used the Existing Use Value (EUV), which arguably is reflected in the price it [paid for the land](http://35percent.org/img/LRegisterDHFC.pdf) in 2014 of £5.75m. By doing so, Hadley has effectively made the scheme look artificially £2.65m less viable than it is.
+Had the viability assessment complied with policy and used CUV +20% (£6.9m) as the benchmark then at least an extra £1.15m would become available for extra affordable housing provision[^2].
 
-Hadley's viability assessment also assumes a 25% developer profit, amounting to £17.6m. This is excessive - especially given the involvement of the Council and its land assets in the scheme. A recent development in Peckham submitted a [viability assessment](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!nspksmACnecLtzpJPG4%2fhw%3d%3d!%7d%7d%7d) assuming just 16% developer profit. Why does Hadley require 25% profit? were it to assume a profit of 16% this would free up around £7m for the provision of extra affordable housing.
+Hadley's viability assessment also assumes a 25% developer profit, amounting to £17.6m. This is excessive - especially given the involvement of the Council and its land assets in the scheme. A recent development in Peckham submitted a [viability assessment](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!nspksmACnecLtzpJPG4%2fhw%3d%3d!%7d%7d%7d) assuming 16% developer profit. Why does Hadley require 25% profit? were it to assume a profit of 16% this would free up around £7m for the provision of extra affordable housing.
 
-
+## Land give-away?
 Curiously, Hadley's viability assessment doesn't include the cost of buying/leasing the Green Dale land from the Council. Does this mean that the Council is planning to hand over its [Green Dale land](http://35percent.org/img/LRegisterGreenDale.pdf) for the new stadium for free?
 
 Even more curiously, Council leader Peter John has [said publicly](http://www.southwarknews.co.uk/news/final-plans-new-dulwich-hamlet-stadium-submitted/) "I am opposed to the Hadley scheme", so why is he handing over the Council's land for Hadley to build a new stadium?
@@ -49,3 +50,5 @@ Even more curiously, Council leader Peter John has [said publicly](http://www.so
 Over to you Councillor John..
 
 [^1]: See paragraph 6.74 of the application's [Planning Statement](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!s5yeW%2bePQpbhAWzOWHVWkg%3d%3d!%7d%7d%7d)
+
+[^2]: The Current Use Value (CUV) is arguably reflected in the price Hadley [paid for the land](http://35percent.org/img/LRegisterDHFC.pdf) in 2014 of £5.75m. A better way to calculate it would be to take the current rent paid by the club and capitalise it using a yield of say 6% but that information has not been made available.
