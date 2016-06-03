@@ -6,13 +6,14 @@ layout: page
 ---
 This is what the Dulwich Hamlet and Green Dale playing fields in East Dulwich used to look like: 
 ![](/img/greendale.jpg)
-*Dulwich Hamlet & Green Dale Playing Fields - ca. 15 Hectares of public open space*
+*Dulwich Hamlet FC & Green Dale Playing Fields pre-1990s: ca. 15 Hectares of public open space*
 
 In the early 90s the club owners came to Southwark Council pleading poverty and claiming that the 100 year-old club was unviable and wouldn't be able to survive unless it was given planning permission to sell some of its ground for redevelopment.  
 
 The Council reluctantly granted permission for a Sainsbury's superstore and car park along with consent for a new clubhouse with a health and fitness club, including gym and squash courts. 
 
 ![](/img/dhfc2.jpg)
+*Dulwich Hamlet FC & Green Dale playing fields today*
 
 Now the club's owner ([Hadley](http://hadleypropertygroup.com/) - a property developer operating using an SPV [registered](http://35percent.org/img/LRegisterDHFC.pdf) on the Isle of Man) has come back to the Council once again pleading viability poverty. In its [covering letter](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!MOs846oklOp6ieOeJtYFyA%3d%3d!%7d%7d%7d) to the planning application, the club's owner claims _"The current stadium was constructed in the early 1990s to include a full-sized football pitch plus 5-a-side pitches, main stand, clubhouse and health and fitness club, including gym and squash courts. This previous redevelopment of the club was intended to provide a strong and financially sustainable base for DHFC, but in reality the Club has been unable to support the level of ancillary facilities currently provided on site. The gym, squash courts and entertainment space have been consistent loss makers that have resulted in a wholly financially insecure future for DHFC."_
 
