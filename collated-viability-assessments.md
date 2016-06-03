@@ -62,3 +62,5 @@ Appendices:
 ## Wilds Rents
 [Financial viability assessment (GLA toolkit)](/img/wildsrents.pdf) for a residential development in Wilds Rents Bermondsey.
 
+## 87 Cleveland St (Westminster)
+[Appraisal of financial viability assessment](/img/87clevelandstreet.pdf) for 87 Cleveland St in Westminster.
