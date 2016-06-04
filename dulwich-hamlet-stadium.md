@@ -4,20 +4,25 @@ title: 'Dulwich Hamlet stadium redevelopment'
 layout: page
 
 ---
-This is what Dulwich Hamlet football club and adjacent Green Dale playing fields in East Dulwich used to look like until around 20 years ago: 
+Dulwich Hamlet FC is a much-loved Southwark football club with an impressive history. This is their Champion Hill ground adjacent to Green Dale playing fields where the club has been playing since 1931: 
 ![](/img/greendale.jpg)
 *Dulwich Hamlet FC & Green Dale Playing Fields pre-1990s: ca. 15 Hectares of public open space*
 
-In the early 90s the club owners came to Southwark Council pleading poverty and claiming that the 100 year-old club was unviable and wouldn't be able to survive unless it was given planning permission to sell some of its ground for redevelopment.  
+The club was doing well until the freehold owners of the grounds (King's College) sold the site to property developers and has since joined the long list of football clubs (particularly in London and not only at non-league level) falling victim to the ambitions of property developers. In the early 90s the site saw its first redevelopment supported by arguments that the 100 year-old club had become unviable and wouldn't survive unless it was given planning permission to sell some of its ground for redevelopment and build leisure facilities to provide extra revenue.  
 
-The Council reluctantly granted permission for a Sainsbury's superstore and car park along with consent for a new clubhouse with a health and fitness club, including gym and squash courts. As part of the section 106 agreement it was agreed that the developer would pay for three half-size astro-turf pitches to be installed on the Council-owned Green Dale playing fields adjacent to the DHFC stadium.
+The Council reluctantly granted permission for a Sainsbury's superstore and car park along with consent for a new clubhouse with a health and fitness club, including gym and squash courts. As part of the section 106 agreement it was agreed that Sainsbury's would pay for three half-size astro-turf pitches to be installed on the Council-owned Green Dale playing fields adjacent to the DHFC stadium.
 
 ![](/img/dhfc2.jpg)
 *Dulwich Hamlet FC & Green Dale playing fields today*
 
-Now the owner ([Hadley](http://hadleypropertygroup.com/) - a [Hong Kong backed](http://hadleypropertygroup.com/our-shareholders/peterson-group) property developer using an SPV [registered](http://35percent.org/img/LRegisterDHFC.pdf) on the Isle of Man) has come back to the Council once again pleading viability poverty. In its [covering letter](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!MOs846oklOp6ieOeJtYFyA%3d%3d!%7d%7d%7d) to the planning application, Hadley claims _"The current stadium was constructed in the early 1990s to include a full-sized football pitch plus 5-a-side pitches, main stand, clubhouse and health and fitness club, including gym and squash courts. This previous redevelopment of the club was intended to provide a strong and financially sustainable base for DHFC, but in reality the Club has been unable to support the level of ancillary facilities currently provided on site. The gym, squash courts and entertainment space have been consistent loss makers that have resulted in a wholly financially insecure future for DHFC."_
 
-Hadley goes on to explain that these new  "_proposals will also deliver 155 residential units, which will facilitate the stadium’s relocation and redevelopment whilst delivering a vibrant community of affordable and private homes, contributing towards the delivery of much needed housing in the Dulwich area."_
+In September 2013, Dulwich Hamlet Supporters’ Trust announced that the Champion Hill stadium, had been listed as an “Asset of Community Value” by Southwark Council. It was the first London football ground to be listed. However, shortly after the now owner ([Hadley Group](http://hadleypropertygroup.com/)) purchased the site in 2014, Southwark Council removed the club's ACV status on the grounds of a legal technicality. 
+
+Hadley is owned by Hong Kong developer Peterson group, [owned](http://www.telegraph.co.uk/business/2016/04/07/wealthy-hong-kong-family-to-plough-200m-into-uk-real-estate/) by Hong Kong business tycoons the Yeung family and used an SPV [registered](http://35percent.org/img/LRegisterDHFC.pdf) on the Isle of Man) to purchase the site. 
+
+Hadley has now come back to the Council once again pleading viability poverty. In its [covering letter](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!MOs846oklOp6ieOeJtYFyA%3d%3d!%7d%7d%7d) to the planning application, Hadley claims _"The current stadium was constructed in the early 1990s to include a full-sized football pitch plus 5-a-side pitches, main stand, clubhouse and health and fitness club, including gym and squash courts. This previous redevelopment of the club was intended to provide a strong and financially sustainable base for DHFC, but in reality the Club has been unable to support the level of ancillary facilities currently provided on site. The gym, squash courts and entertainment space have been consistent loss makers that have resulted in a wholly financially insecure future for DHFC."_
+
+Hadley goes on to explain that these new proposals _"will also deliver 155 residential units, which will facilitate the stadium’s relocation and redevelopment whilst delivering a vibrant community of affordable and private homes, contributing towards the delivery of much needed housing in the Dulwich area."_
 
 It claims that the residential development along with proposals for a new stadium _"will remove financial burdens for the club"_ which _"will ensure a long term sustainable future for DHFC, protecting its historical significance."_
 
@@ -47,11 +52,13 @@ Had the viability assessment complied with policy and used CUV +20% (£6.9m) as 
 Hadley's viability assessment also assumes a 25% developer profit, amounting to £17.6m. This is excessive - especially given the involvement of the Council and its land assets in the scheme. A recent development in Peckham submitted a [viability assessment](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!nspksmACnecLtzpJPG4%2fhw%3d%3d!%7d%7d%7d) assuming 16% developer profit. Why does Hadley require 25% profit? were it to assume a profit of 16% (ca. £10m) this would free up around £7m for the provision of extra affordable housing.
 
 ## Land give-away?
-Curiously, Hadley's viability assessment doesn't include the cost of buying/leasing the Green Dale land from the Council. Does this mean that the Council is planning to hand over its [Green Dale land](http://35percent.org/img/LRegisterGreenDale.pdf) for the new stadium for free?
+Curiously, Hadley's viability assessment doesn't include the cost of buying/leasing the Green Dale land from the Council. Does this mean that the Council is planning to hand over its [Green Dale land](http://35percent.org/img/LRegisterGreenDale.pdf) for the new stadium for free? could this be yet another gift to property developers?
 
 Even more curiously, Council leader Peter John has [said publicly](http://www.southwarknews.co.uk/news/final-plans-new-dulwich-hamlet-stadium-submitted/) _"I am opposed to the Hadley scheme"_, so why is he handing over the Council's land for Hadley to build a new stadium?
 
-Over to you Councillor John..
+Meanwhile, Dulwich Hamlet FC's wikipedia page claims that its supporters have _"gained a reputation for the activist element of their support, with the fans behind the goal going by the nickname of "The Rabble"_ which have _"backed anti-discrimination and anti-homophobia initiatives."_
+
+With the club and supporters [writing in to support](http://www.pitchero.com/clubs/dulwichhamlet/news/dulwich-hamlet-new-stadium-support-the-application-1613670.html) Hadley's planning application, we wonder what kind of rabble.. bla bla .. can't think of sentence to end.. 
 
 __Footnotes:__
 
