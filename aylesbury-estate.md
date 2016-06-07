@@ -187,6 +187,7 @@ Both [leaseholders](http://halag.wordpress.com) and [tenants](http://aylesburyte
 [(Redacted) Development Partnership Agreement(DPA)](http://crappistmartin.github.io/images/LBS_NHHT_DPAgreement.pdf).
 [(Redacted) DPA Appendices](http://crappistmartin.github.io/images/LBS_NHHT_DPA_Appendices.pdf).
 [(Redacted) DPA Appendix 7 - Business Plan](http://crappistmartin.github.io/images/LBS_NHHT_DPA_Appendix7_BusinessPlan.pdf).
+[Audit showing community spaces lost](/img/Aylesbury_Audit_Community_Spaces.pdf)
 
 __Footnotes:__
 
