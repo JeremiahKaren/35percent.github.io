@@ -17,7 +17,7 @@ In 1992 the Council reluctantly granted permission for a Sainsbury's superstore 
 The football stadium changed hands again in 2008 when it was bought by cypriot businessmen, the Muduroglu brothers for £1.2m. The Moroduglu brothers had previously bought up Fisher Athletic and sold its Salter Road stadium to Fairview homes for redevelopment, enabled by Southwark Council allocating land for relocation of the stadium to the nearby St Paul’s playing fields.
 
 ![](http://farm9.static.flickr.com/8244/8664376611_0e970777b3.jpg)
-*Salter Road stadium shortly before its redevelopment as flats*
+*Fisher Athletic's Salter Road stadium shortly before its redevelopment as flats*
 
 The Moroduglu brothers later tried the same maneuver with Dulwich Hamlet; in 2012 it applied to Southwark for permission build on the Champion Hill stadium site and rebuild the stadium on the adjacent Green Dale playing fields. The application was refused on the grounds that the playing fields enjoy [Metropolitan Open Land (MOL)](https://en.wikipedia.org/wiki/Metropolitan_Open_Land) protection.  
 
