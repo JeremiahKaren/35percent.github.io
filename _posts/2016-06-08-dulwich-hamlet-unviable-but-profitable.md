@@ -31,7 +31,7 @@ Hadley goes on to explain that these new proposals _"will deliver 155 residentia
 
 Hadley claims that the proposed residential development, along with the new stadium _"will remove financial burdens for the club"_, which _"will ensure a long term sustainable future for DHFC, protecting its historical significance."_
 
-But with the club having sold off all its spare land to Sainsbury's, Hadley is faced with the small problem of having nowhere to build its 155 new homes. Hadley only owns the 1.9 hectare stadium and Green Dale playing fields is owned by Southwark. Hadley needs Southwark to release or sell part of this land, so the stadium can be relocated to where the Council's astro-turf pitches are located.
+But with its spare pitch now occupied by a Sainsbury's superstore and car park, Hadley is faced with the small problem of having nowhere to build its 155 new homes. Hadley only owns the 1.9 hectare stadium and Green Dale playing fields is owned by Southwark. Hadley needs Southwark to release or sell part of this land, so the stadium can be relocated to where the Council's astro-turf pitches are located.
 
 ![](http://35percent.org/img/dhfc3.jpg)
 *New housing built on DHFC site and stadium relocated to Green Dale playing fields*
