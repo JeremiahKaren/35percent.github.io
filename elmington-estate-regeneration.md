@@ -49,9 +49,14 @@ In July 2012, the Council's Cabinet [resolved](http://moderngov.southwark.gov.uk
 
 ![](http://crappistmartin.github.io/images/elmingtondisposal.png)
 
-In Oct 2012 the Council's Cabinet [resolved](http://moderngov.southwark.gov.uk/ieListDocuments.aspx?CId=302&MId=4247&Ver=4) to issue a Compulsory Purchase Order on remaining leaseholders and tenants on phase 3 (Sites C, D, E and G).
+In Oct 2012 the Council's Cabinet [resolved](http://moderngov.southwark.gov.uk/ieListDocuments.aspx?CId=302&MId=4247&Ver=4) to issue a Compulsory Purchase Order on remaining leaseholders and tenants on phase 3 (Sites C, D, E and G). In 2014 the Council approved the following planning applications for these sites.
 
-On 31st March 2014, the Council approved planning applications for 14/AP/3277, which enabled the provision of 130 new private homes, 36 intermediate and 38 social rented.
+ * 14/AP/3277 - 89 new homes, 11 of which shared ownership and 22 social rented.
+
+ * 14/AP/3276 - 54 new homes, of which 7 shared ownership and 14 social rented.
+
+ * 14/AP/3288 - 82 new homes, of which 9 shared ownership and 21 social rented.
+
 
 In 2015 the Council served the Compulsory Purchase Order on Site E and submitted its [Statement of Reasons](/img/ElmingtonSiteE_SOR.pdf) to the Secrectary of State. 
 
@@ -59,6 +64,12 @@ Tenants and leaseholders are currently being 'decanted' i.e. [evicted](https://h
 
 ![](https://pbs.twimg.com/media/Cg-Ek6uWgAAMaoF.jpg)
 *Sites C & D being demolished*
+
+## Net loss
+Phases 1&2 (375 demolished) 136 replaced on phase 1; 22 on phase 2 (affordable rent) 
+Phase 3 (144 demolished) - 57 social rented replacements.
+
+Even counting affordable rent as replacement 'social' housing - we have a net loss of 323 units across the estate.
 
 ## The costs vs the benefits
 In 2009, the Council [estimated](http://moderngov.southwark.gov.uk/documents/s9280/Executive%20report.pdf) that refurbishing the estate would cost a total of £10m. 

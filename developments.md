@@ -388,7 +388,7 @@ subtitle: Summary of regeneration schemes
   
 <h1><a href="/dulwich-hamlet-stadium/">Dulwich Hamlet Stadium</a></h1>
 
-<img src="https://s3-eu-west-1.amazonaws.com/rbi-blogs/wp-content/blogs.dir/303/files/2016/04/04-04-2016-11-57-34.jpg" width="100" align="left">
+<img src="http://35percent.org/img/dhfc2.jpg" width="100" align="left">
 </br></br></br>
 </br>
 </br>
