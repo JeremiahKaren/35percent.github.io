@@ -22,6 +22,8 @@ The Ombudsman's findings come after a complaint from the leaseholder Adrian Glas
 
 The payments she has ordered refunded the cost of the bailiffs, which Southwark had deducted from the Glasspools' compensation and the professional fees the Glasspools incurred as a consequence of the eviction, plus a small 'time and trouble' payment.   Southwark had previously made a payment of £500 in compensation for an iPhone stolen during the eviction. An FOI request for information relating to the eviction could not be met because Southwark had lost it all _"due to technical difficulties"_.
 
+![](http://35percent.org/img/handlingfoi.png)
+
 The Ombudsman issued her draft decision in Sept 2015; Southwark then haggled over the detail, so the final decision was not issued until Jan 2016 and the recommended payments not fully made until May 2016. Among other things, Southwark was anxious that the Ombudsman should omit a reference from the [draft decision notice](http://35percent.org/img/Draftdecision.pdf), to it taking a particularly tough line with the Glasspools, because it believed they were "politically motivated". The Ombudsman agreed to do this.
 
 ![](http://35percent.org/img/politicallymotivated.png)
