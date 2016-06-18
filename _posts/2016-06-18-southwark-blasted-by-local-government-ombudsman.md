@@ -3,11 +3,11 @@ layout: post
 title: "At fault and unjust - Southwark slammed by Ombudsman"
 published: true
 ---
-The Local Government Ombudsman has delivered a [damning verdict](http://35percent.org/img/LGO_Glasspool14-019-995) on Southwark's eviction of the last leaseholder from the Heygate estate. She has ruled that Southwark was at 'fault', causing the leaseholder an 'injustice' and has directed that Southwark give a written apology and make compensation payments amounting to over £11,000. She further directed that Southwark produce proper policies and procedures for dealing with the compulsory purchase of leaseholder properties. Southwark Council has agreed with the Ombudsman's proposals for remedying the injustice.
+The Local Government Ombudsman has delivered a [damning verdict](http://35percent.org/img/LGO_Glasspool14-019-995.pdf) on Southwark's eviction of the last leaseholder from the Heygate estate. She has ruled that Southwark was at 'fault', causing the leaseholder an 'injustice' and has directed that Southwark give a written apology and make compensation payments amounting to over £11,000. She further directed that Southwark produce proper policies and procedures for dealing with the compulsory purchase of leaseholder properties. Southwark Council has agreed with the Ombudsman's proposals for remedying the injustice.
 
 ![](http://35percent.org/img/FINALDECISION.png)
 
-In making her [judgement](http://www.lgo.org.uk/decisions/housing/other/14-019-995) the Ombudsman found that Southwark had - 
+In making her [judgement](http://www.lgo.org.uk/decisions/housing/other/14-019-995) th35% Campaign update: At fault and unjust - Southwark slammed by Ombudsmane Ombudsman found that Southwark had - 
 
  * failed to make an advanced payment of compensation to the leaseholder, as required to by compulsory purchase order (CPO) law, preventing the leaseholder from rehousing himself[^1].
  * failed to offer any alternative accommodation, also required by CPO law[^2].
@@ -25,6 +25,7 @@ The payments she has ordered refunded the cost of the bailiffs, which Southwark 
 The Ombudsman issued her draft decision in Sept 2015; Southwark then haggled over the detail, so the final decision was not issued until Jan 2016 and the recommended payments not fully made until May 2016. Among other things, Southwark was anxious that the Ombudsman should omit a reference from the [draft decision notice](http://35percent.org/img/Draftdecision.pdf), to it taking a particularly tough line with the Glasspools, because it believed they were "politically motivated". The Ombudsman agreed to do this.
 
 ![](http://35percent.org/img/politicallymotivated.png)
+* Para 25 of the draft decision notice - deleted after protest from the Council*
 
 Southwark also made the desperate and bizarre claim that Mr Glasspool had never in fact requested an advance payment, despite this being the subject of the complaint for nearly three years. The Ombdusman gave this argument shorter shrift, noting both that Mr Glasspool had a delivery receipt for the request and that it was a matter only raised after the complaint had been referred to her. 
 
