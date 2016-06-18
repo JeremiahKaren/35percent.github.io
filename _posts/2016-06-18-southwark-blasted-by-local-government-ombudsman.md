@@ -25,7 +25,7 @@ The payments she has ordered refunded the cost of the bailiffs, which Southwark 
 The Ombudsman issued her draft decision in Sept 2015; Southwark then haggled over the detail, so the final decision was not issued until Jan 2016 and the recommended payments not fully made until May 2016. Among other things, Southwark was anxious that the Ombudsman should omit a reference from the [draft decision notice](http://35percent.org/img/Draftdecision.pdf), to it taking a particularly tough line with the Glasspools, because it believed they were "politically motivated". The Ombudsman agreed to do this.
 
 ![](http://35percent.org/img/politicallymotivated.png)
-* Para 25 of the draft decision notice - deleted after protest from the Council*
+*Para 25 of the draft decision notice - deleted after protest from the Council*
 
 Southwark also made the desperate and bizarre claim that Mr Glasspool had never in fact requested an advance payment, despite this being the subject of the complaint for nearly three years. The Ombdusman gave this argument shorter shrift, noting both that Mr Glasspool had a delivery receipt for the request and that it was a matter only raised after the complaint had been referred to her. 
 
