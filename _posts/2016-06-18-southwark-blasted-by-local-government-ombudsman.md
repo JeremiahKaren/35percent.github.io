@@ -7,7 +7,7 @@ The Local Government Ombudsman has delivered a [damning verdict](http://35percen
 
 ![](http://35percent.org/img/FINALDECISION.png)
 
-In making her [judgement](http://www.lgo.org.uk/decisions/housing/other/14-019-995) th35% Campaign update: At fault and unjust - Southwark slammed by Ombudsmane Ombudsman found that Southwark had - 
+In making her [judgement](http://www.lgo.org.uk/decisions/housing/other/14-019-995) the Ombudsman found that Southwark had - 
 
  * failed to make an advanced payment of compensation to the leaseholder, as required to by compulsory purchase order (CPO) law, preventing the leaseholder from rehousing himself[^1].
  * failed to offer any alternative accommodation, also required by CPO law[^2].
