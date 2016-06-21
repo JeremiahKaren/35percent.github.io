@@ -10,22 +10,6 @@ subtitle: Summary of regeneration schemes
 <h1><a href="/heygate-regeneration-faq/">Heygate estate regeneration</a></h1>
 
 <img src="http://www.construction360.co.uk/wp-content/uploads/cantillon-balfour-014.jpg" width="100" align="left">
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
 </article>
 
 <article class="post-preview">
@@ -34,19 +18,6 @@ subtitle: Summary of regeneration schemes
 
 
 <img src="https://metrouk2.files.wordpress.com/2010/09/article-1285092120827-0b4a3ec1000005dc-922862_636x376.jpg" width="100" align="left">
-</br></br></br>
-</br>
-</br></br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
 </article>
 
 <article class="post-preview">
@@ -55,19 +26,6 @@ subtitle: Summary of regeneration schemes
 
 
 <img src="http://crappistmartin.github.io/images/BermondseySpaDemolition.jpg" width="100" align="left">
-</br></br></br>
-</br>
-</br></br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
 </article>
 
 <article class="post-preview">
