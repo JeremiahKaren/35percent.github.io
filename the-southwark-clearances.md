@@ -24,6 +24,7 @@ Here in Southwark, we know how these estate regenerations - full of [promises](/
 | <img src="http://35percent.org/img/marchantyeomancourts.jpg" height="150" width="150"> | [Coopers Road estate](http://35percent.org/coopers-road-estate/) | 196 | 247 | 98 |
 |   | __Total:__ | __7639__ | __11284__ | __3266__ |
 
+![](http://35percent.org/img/kthb1.jpg)
 
 That's a net loss of 4,424 social rented homes as a direct result of Southwark's regeneration schemes to date and the [GLA has predicted](https://www.london.gov.uk/press-releases/assembly/darren-johnson/loss-of-social-housing-through-estate-regeneration) that Southwark will lose 2,051 social rented homes as a result of schemes in its current pipeline (far more than any other borough). In addition, we can't even be sure that the replacement social rented housing provided isn't actually affordable rent or won't morph into it - see the [CPO Public Inquiry](https://youtu.be/x0CIUdfA-JU?t=4m12s), our [corporate complaint](http://crappistmartin.github.io/images/Corporate_Complaint_15_Dec_2015Final.pdf) and [this local news article](http://crappistmartin.github.io/images/SN_affordablerent.pdf) for evidence of this. We have also compiled a [list](http://35percent.org/img/section106_tenure_breaches.pdf) of 42 developments where we believe such tenure switches have taken place, comprising a total of 1139 homes approved at planning committee as social rent but provided as affordable rent. 
 
