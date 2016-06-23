@@ -4,7 +4,7 @@ title: "North Peckham estate regeneration"
 sharing: true
 footer: true
 ---
-![](/images/northpeckhamestate.jpg)
+![](http://crappistmartin.github.io/images/northpeckhamestate.jpg)
 
 [http://news.bbc.co.uk/1/hi/england/1841755.stm](http://news.bbc.co.uk/1/hi/england/1841755.stm)
 
