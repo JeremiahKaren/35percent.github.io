@@ -537,7 +537,20 @@ L.polygon([
 [51.49121712928709, -0.05872964859008789],
 [51.489587144891544, -0.05628347396850586]
 
-		], {color: '#FF0000'}).addTo(map).bindPopup('<img src="http://35percent.org/img/rennie.jpg" width="200"></br>Bonamy estate</br>301 Council Homes</br>NPV: Above Average</br>Sustainability: Below Average</br>Combined Score: 5.12');
+		], {color: '#FF0000'}).addTo(map).bindPopup('<img src="http://35percent.org/img/rennie.jpg" width="200"></br>Rennie estate</br>301 Council Homes</br>NPV: Above Average</br>Sustainability: Below Average</br>Combined Score: 5.12');
+
+var greenIcon = L.icon({
+    iconUrl: '/img/Bakerloo.jpg',
+    shadowUrl: 'leaf-shadow.png',
+
+    iconSize:     [38, 95], // size of the icon
+    shadowSize:   [50, 64], // size of the shadow
+    iconAnchor:   [22, 94], // point of the icon which will correspond to marker's location
+    shadowAnchor: [4, 62],  // the same for the shadow
+    popupAnchor:  [-3, -76] // point from which the popup should open relative to the iconAnchor
+});
+
+L.marker([51.48830449324924, -0.0763249397277832], {icon: greenIcon}).addTo(map);
 
 
 
