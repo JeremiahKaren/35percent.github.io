@@ -29,7 +29,7 @@ This seems to be another case of Southwark Council either turning a blind eye to
 
 
 ## Elephant  Parks
-Elephant Park will eventually be linked to the the new market square, to be built by Delancey, as part of the[Tribeca Sq scheme](http://35percent.org/tribeca-square/), just nearing completion.
+Elephant Park will eventually be linked to the the new market square, being built by Delancey, as part of the[Tribeca Sq scheme](http://35percent.org/tribeca-square/), just nearing completion.
 
 ![](http://35percent.org/img/castlesquare.JPG)
 *Delancey's market square - currently under construction*
@@ -46,5 +46,6 @@ In 2008 Southwark Council closed the Park and leased the land to Delancey for 99
 This sweet deal for Delancy sums up the way that developers are colonising the Elephant and Castle.  Public land has been sacrificed to commercial gain and if [Southwark's overage agreement with Lend Lease ](http://35percent.org/2016-05-11-no-profit-share-the-true-value-of-the-heygate-regeneration/) is any standard, there is little hope that its net revenue agreement with Delancey will reap much reward.
 
 
+__Footnotes:__
 [^1]: See paragraph 324 of the [planning committee report](http://35percent.org/img/heygatemasterplanor.pdf) for the Heygate masterplan application.![](http://35percent.org/img/parkobjections.png)
 
