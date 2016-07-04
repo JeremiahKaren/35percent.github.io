@@ -20,11 +20,16 @@ Notting Hill has long since turned its back on social rented housing and was not
 
 Notting Hill's CEO Kate Davies is a [fellow](http://www.centreforsocialjustice.org.uk/about-us/csj-fellows/kate-davies) of the [Centre for Social Justice](http://www.centreforsocialjustice.org.uk), the conservative think tank set up and chaired by Iain Duncan Smith, which conceived the idea of both __affordable rent__ and right-to-buy for housing association tenants. 
 
-![](http://pbs.twimg.com/media/CNUmHQlWIAAdSyI.png)
+![](http://35percent.org/img/kdquotes.png)
 
-Kate Davies co-authored [this report](http://www.centreforsocialjustice.org.uk/UserStorage/pdf/Pdf%20reports/HousingPoverty.pdf) by the CSJ, in which she claimed that council estates are _‘ghettos of the poorest and neediest people’_ that are _‘subsidised by the taxpayer’_ and provide _‘low cost living for life funded from the public purse'_. She said that tenants _‘often pay little or no rent, and get their home maintained in good order for free.’_ She concluded that _‘social housing is not a desirable destination’_ and that _‘private ownership is preferable to state provided solutions’_.  
+In 2007, a government commissioned report by John Hills laid set out suggestions for reforming social housing, including suggestions of removing secure tenancies and increasing rents. After the report was criticised, Kate Davies [wrote](/img/20070306TT.pdf) in support of John Hills and his suggestions, claiming that _"social housing should not be seen as a destination, but as a springboard to a better life"_.
+
+In 2008, she featured in [this article](/img/20081114.pdf) claiming that social housing required reform and different tenures including some at _"nearly market rent"_. 
+
+Kate Davies later co-authored [this report](http://www.centreforsocialjustice.org.uk/UserStorage/pdf/Pdf%20reports/HousingPoverty.pdf) by the CSJ, in which she claimed that council estates are _‘ghettos of the poorest and neediest people’_ that are _‘subsidised by the taxpayer’_ and provide _‘low cost living for life funded from the public purse'_. She said that tenants _‘often pay little or no rent, and get their home maintained in good order for free.’_ She concluded that _‘social housing is not a desirable destination’_ and that _‘private ownership is preferable to state provided solutions’_.  
 
 When the unpopular social housing reforms were being pushed through parliament by the conservatives in 2011, Notting Hill Housing was one of the few housing providers to write in support of the __affordable rent__ proposals. In its official [consultation response](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/8483/2109183.pdf) it wrote: _"Notting Hill strongly welcomes the Government’s social housing reforms. They will lead to a significant increase in the provision of new social housing, with the higher levels of income that associations will receive from affordable rent tenancies."_ 
+
 
 
 ## From social to target to (capped) affordable rent
