@@ -24,7 +24,7 @@ Notting Hill's CEO Kate Davies is a [fellow](http://www.centreforsocialjustice.o
 
 In 2007, a government commissioned [report](http://eprints.lse.ac.uk/5568/1/Ends_and_Means_The_future_roles_of_social_housing_in_England_1.pdf) by John Hills laid set out suggestions for reforming social housing, including suggestions of removing secure tenancies and increasing rents. After the report was criticised, Kate Davies [wrote](/img/20070306TT.pdf) in support of John Hills and his suggestions, claiming that _"social housing should not be seen as a destination, but as a springboard to a better life"_.
 
-In 2008, she featured in [this article](/img/20081114.pdf) claiming that social housing required reform and different tenures including some at _"nearly market rent"_. 
+In 2008, she featured in [this article](/img/20081114.pdf) claiming that social housing required reform, that tenures shouldn't be for life and that different tenures should be introduced, including rents at _"almost market price"_. 
 
 Kate Davies later co-authored [this report](http://www.centreforsocialjustice.org.uk/UserStorage/pdf/Pdf%20reports/HousingPoverty.pdf) by the CSJ, in which she claimed that council estates are _‘ghettos of the poorest and neediest people’_ that are _‘subsidised by the taxpayer’_ and provide _‘low cost living for life funded from the public purse'_. She said that tenants _‘often pay little or no rent, and get their home maintained in good order for free.’_ She concluded that _‘social housing is not a desirable destination’_ and that _‘private ownership is preferable to state provided solutions’_.  
 
