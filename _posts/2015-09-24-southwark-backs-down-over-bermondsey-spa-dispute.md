@@ -22,7 +22,7 @@ Notting Hill's CEO Kate Davies is a [fellow](http://www.centreforsocialjustice.o
 
 ![](http://35percent.org/img/kdquotes.png)
 
-In 2007, a government commissioned report by John Hills laid set out suggestions for reforming social housing, including suggestions of removing secure tenancies and increasing rents. After the report was criticised, Kate Davies [wrote](/img/20070306TT.pdf) in support of John Hills and his suggestions, claiming that _"social housing should not be seen as a destination, but as a springboard to a better life"_.
+In 2007, a government commissioned [report](http://eprints.lse.ac.uk/5568/1/Ends_and_Means_The_future_roles_of_social_housing_in_England_1.pdf) by John Hills laid set out suggestions for reforming social housing, including suggestions of removing secure tenancies and increasing rents. After the report was criticised, Kate Davies [wrote](/img/20070306TT.pdf) in support of John Hills and his suggestions, claiming that _"social housing should not be seen as a destination, but as a springboard to a better life"_.
 
 In 2008, she featured in [this article](/img/20081114.pdf) claiming that social housing required reform and different tenures including some at _"nearly market rent"_. 
 
@@ -30,7 +30,7 @@ Kate Davies later co-authored [this report](http://www.centreforsocialjustice.or
 
 When the unpopular social housing reforms were being pushed through parliament by the conservatives in 2011, Notting Hill Housing was one of the few housing providers to write in support of the __affordable rent__ proposals. In its official [consultation response](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/8483/2109183.pdf) it wrote: _"Notting Hill strongly welcomes the Government’s social housing reforms. They will lead to a significant increase in the provision of new social housing, with the higher levels of income that associations will receive from affordable rent tenancies."_ 
 
-
+It seems that Kate Davies has come an awful long way from her far left roots as [general secretary of the RCP](/img/19870211.pdf) - (maiden name Kate Marshall).
 
 ## From social to target to (capped) affordable rent
 So how does Notting Hill's predilection for __affordable rent__ fit in with its redevelopment of the Aylesbury estate, which requires social rented housing?
