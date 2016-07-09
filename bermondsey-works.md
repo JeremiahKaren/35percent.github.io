@@ -10,6 +10,10 @@ CIL [exemption](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%
 
 Officers report also says that Council didn't agree the assumptions in the viability assessment..
 
+[Section 106 agreement](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!KaiWotaf%2bxHDP83nK8Z9gw%3d%3d!%7d%7d%7d) says that the total contribution made towards new local transport infrastructure is £88,546.
+
+![](http://35percent.org/img/transportcontribution.png)
+
 Architect and planning agent is Rolfe Judd - also involved in Malt St development opposite (Berkeley) and Dashwood Studios Scheme (planning appeal) on Walworth rd.
 
 Viability assessment prepared by ['Affordalbehousingsolutions.com'](http://www.ah-solutions.com/)
