@@ -1,10 +1,10 @@
 ---
 
+title: "Opportunity knocks down the Old Kent Road"
 layout: post
 published: true
 
 ---
-## Opportunity knocks (down council estates?)
 The first stage towards knocking down the Heygate estate was to call the Elephant & Castle an opportunity area. So anybody living on a Council estate down the Old Kent Road can be forgiven for being a little worried by Southwark's proposal to call it an Opportunity Area with a [draft Area Action Plan](http://www.southwark.gov.uk/downloads/download/4596/old_kent_road_area_action_plan) on top. 
 
 This is a map of all of those Council estates that fall within the proposed Area Action Plan boundary.
