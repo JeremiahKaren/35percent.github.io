@@ -46,7 +46,7 @@ The first major development along the Old Kent Road 'Bermondsey Works' shows wha
 This works out at just £560 per unit and if this precedent is followed Southwark would only receive £11.2m from its 20,000 new homes towards the £1.25bn cost of the tube stations. If Southwark can't do better than that, the only opportunities down the the Old Kent Rd will be for developer's profit.
 
 ![](http://35percent.org/img/transportcontribution.png)
-*Extract from Bermondsey Works S106 agreement*
+*Extract from Bermondsey Works [S106 agreement](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!KaiWotaf%2bxHDP83nK8Z9gw%3d%3d!%7d%7d%7d)*
 
 
 
