@@ -33,13 +33,15 @@ The report speaks of _"high investment need estates"_ and _"a legacy of poorly d
 
 It goes on to highlight _"the  need  to  make  difficult  choices"_ accompanied by _"the  prospect  of  leveraging  in  private  sector investment"._
 
-Development in the new Opportunity Area will be driven by the construction of the Bakerloo line extension with two new tube stations along the Old Kent Road. [Council documents](http://www.southwark.gov.uk/download/downloads/id/13643/infrastructure_plan) show that the funding requirement for this is a staggering £1.25bn, to be funded jointly by TFL and planning gain from the developments that are going to provide the 20,000 new homes. This will create pressure on affordable housing, which Southwark emphasises will be 'subject to viability' rather than simply stating the 35% requirement of its Core Strategy - an open invitation to developers to reduce it to a minimum. 
+## Mind the gap
+Development in the new Opportunity Area will be driven by the construction of the Bakerloo line extension with two new tube stations along the Old Kent Road. [Council documents](http://www.southwark.gov.uk/download/downloads/id/13643/infrastructure_plan) show that the funding requirement for this is a staggering £1.25bn, to be funded jointly by TFL and planning gain from the developments that are going to provide the 20,000 new homes. This will create pressure on affordable housing, which Southwark emphasises will be 'subject to viability' rather than simply stating the 35% requirement of its [Core Strategy](http://www.southwark.gov.uk/info/200210/core_strategy) - an open invitation to developers to reduce it to a minimum. 
 
 ![](http://35percent.org/img/subjecttoviability.jpg)
 
-The first major development along the Old Kent Road 'Bermondsey Works' shows what can go wrong when developments are 'subject to viability'. This 19 storey, 158-unit scheme is providing just 10 affordable homes (none social rented) and paying £88,546 towards the new tube stations.  
+The first major development along the Old Kent Road 'Bermondsey Works' shows what can go wrong when developments are 'subject to viability'. This 19 storey, 158-unit scheme is providing just 10 affordable homes (none social rented) and contributing just £88,546 towards the cost of new tube stations.  
 
 ![](http://35percent.org/img/bermondseyworks.jpg)
+*Bermondsey Works - 158 homes currently under construction*
 
 This works out at just £560 per unit and if this precedent is followed Southwark would only receive £11.2m from its 20,000 new homes towards the £1.25bn cost of the tube stations. If Southwark can't do better than that, the only opportunities down the the Old Kent Rd will be for developer's profit.
 
