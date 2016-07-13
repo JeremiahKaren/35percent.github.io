@@ -84,7 +84,7 @@ The entire Six Acres estate refurbishment and public realm improvement works cos
 
 Extensive [research by the University College London](http://www.engineering.ucl.ac.uk/engineering-exchange/demolition-refurbishment-social-housing/) and [case studies](https://heygateestate.files.wordpress.com/2012/12/genslerheygate.pdf) by leading architects has shown that refurbishment is better not just financially, but also socially and environmentally.  
  
-More information about the Six Acres estate regeneration can be found [here](http://www.langley.co.uk/asx/six_acres_case_study_-_newsletter.pdf), [here](http://bit.ly/1ssLvV6), [here](http://www.langley.co.uk/asx/six_acres_case_study.pdf), [here](http://crappistmartin.github.io/images/OCD28_SixAcresestateRefurb_Illustrations.pdf) and under planning application ref: P072153 on [Islington Council's Planning Portal](http://www.islington.gov.uk/services/planning/planninginisl/plan_interest/Pages/planning-search.aspx#header).
+More information about the Six Acres estate regeneration can be found [here](http://www.langley.co.uk/asx/six_acres_case_study_-_newsletter.pdf), [here](http://bit.ly/1ssLvV6), [here](http://www.langley.co.uk/asx/six_acres_case_study.pdf), [here](http://crappistmartin.github.io/images/OCD28_SixAcresestateRefurb_Illustrations.pdf) and under planning application ref: P072153 on [Islington Council's Planning Portal](/img/6acrescasereport.pdf).
 
 
 ![](http://betterelephant.org/images/sixacresbefore4.jpg) 
