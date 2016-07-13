@@ -80,11 +80,11 @@ Other London boroughs take a different approach to regeneration. Islington has a
 
 Instead of demolshing its estate and handing it over to the private sector at a loss, Islington Council chose to refurbish the Six Acres estate in 2012. The 473 homes on the estate were refurbished with [new external wall insulation](http://www.lawtechltd.co.uk/Project_Tollington.aspx), new entry doors, exterior furnishing improvements, [green roofs](http://www.langley.co.uk/asx/six_acres_case_study.pdf) and [cycle shelters](http://greenroofshelters.co.uk/green-roofed-cycle-shelters-for-islington/).
 
-The entire Six Acres estate refurbishment and public realm improvement works cost a total of just £5.15m. This works out at around £10k per dwelling; far less than the Council is spending per dwelling on demolishing the Aylesbury.  
+The entire Six Acres estate refurbishment and public realm improvement works cost a total of £17m, which works out at around £47k per dwelling; far less than the Council is spending per dwelling on demolishing its homes on the Aylesbury.  
 
 Extensive [research by the University College London](http://www.engineering.ucl.ac.uk/engineering-exchange/demolition-refurbishment-social-housing/) and [case studies](https://heygateestate.files.wordpress.com/2012/12/genslerheygate.pdf) by leading architects has shown that refurbishment is better not just financially, but also socially and environmentally.  
  
-More information about the Six Acres estate regeneration can be found [here](http://www.langley.co.uk/asx/six_acres_case_study_-_newsletter.pdf), [here](http://bit.ly/1ssLvV6), [here](http://www.langley.co.uk/asx/six_acres_case_study.pdf), [here](/images/OCD28_SixAcresestateRefurb_Illustrations.pdf) and under planning application ref: P072153 on [Islington Council's Planning Portal](http://www.islington.gov.uk/services/planning/planninginisl/plan_interest/Pages/planning-search.aspx#header).
+More information about the Six Acres estate regeneration can be found [here](http://www.langley.co.uk/asx/six_acres_case_study_-_newsletter.pdf), [here](http://bit.ly/1ssLvV6), [here](http://www.langley.co.uk/asx/six_acres_case_study.pdf), [here](http://crappistmartin.github.io/images/OCD28_SixAcresestateRefurb_Illustrations.pdf) and under planning application ref: P072153 on [Islington Council's Planning Portal](http://www.islington.gov.uk/services/planning/planninginisl/plan_interest/Pages/planning-search.aspx#header).
 
 
 ![](http://betterelephant.org/images/sixacresbefore4.jpg) 
