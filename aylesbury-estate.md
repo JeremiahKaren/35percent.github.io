@@ -189,6 +189,8 @@ Both [leaseholders](http://halag.wordpress.com) and [tenants](http://aylesburyte
 [Audit showing community spaces lost](/img/Aylesbury_Audit_Community_Spaces.pdf)
 [Albany Place - DHN info](/img/Totters_Court.pdf)
 
+Guardian (Long Read) [article](https://www.theguardian.com/society/2016/jul/13/aylesbury-estate-south-london-social-housing) by Andy Beckett - 13th July 2016. 
+
 __Footnotes:__
 
 
