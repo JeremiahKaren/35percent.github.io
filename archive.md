@@ -21,7 +21,8 @@ title: Blog Archive
   {% endfor %}
 </ul>
 
-<h2>Categories</h2>
+
+<h2 id="categories">Categories</h2>
 <ul>
 {% for category in site.categories %}
   <li><h3>{{ category | first }}</h3>
