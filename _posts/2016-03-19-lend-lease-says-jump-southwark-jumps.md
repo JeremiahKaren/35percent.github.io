@@ -3,7 +3,7 @@ layout: post
 title: "Lendlease says jump - Southwark jumps"
 date: 2016-03-19 12:03:23 +0000
 comments: true
-categories: [Viability assessments] 
+categories: [Heygate regeneration, Viability assessments] 
 ---
 <img src="http://crappistmartin.github.io/images/viabilityspd.png" Height="300" width="200" align="left" style="margin:20px"> Southwark Council has bowed to developers' will and restricted public access to financial viability appraisals of planning applications. Instead of being published when planning applications are submitted, the appraisals will be published just one week before the planning committee takes its decision. The changes were made following pressure from developers, who have long been using these appraisals to reduce the amount of affordable housing they have to build.
 

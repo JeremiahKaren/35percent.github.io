@@ -4,7 +4,7 @@ title: 'No profit for Southwark - the true value of the Heygate regeneration'
 layout: post
 published: true
 comments: true
-
+categories: [Heygate regeneration]
 ---
 Southwark Council has been stunned to be told by Lend Lease that they will not be getting their expected share of the profits from the first completed phase of the Heygate redevelopment (now known as [Trafalgar Place](http://www.elephantpark.co.uk/local-area/trafalgar-place)). The shock revelation is in response to a 35% Campaign [FOI request](https://www.whatdotheyknow.com/request/heygate_regeneration_agreement_a?nocache=incoming-800392#incoming-800392). 
 
