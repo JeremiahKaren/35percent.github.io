@@ -18,10 +18,12 @@ We have taken part in community events and helped to produce <a href="http://ele
 
 ![](http://crappistmartin.github.io/images/forestfeast.jpg) We supported the <a href="http://elephantamenity.files.wordpress.com/2011/12/ean-interim-use-presentation-241111-web.pdf">interim uses</a> and activities that blossomed on the Heygate estate before it was demolished, and tried to engage with developers, the council and the planning process. In the course of doing so, we have given evidence at Examinations in Public of local planning policy frameworks, the London Plan and Public Inquiries for both the Heygate and Aylesbury Compulsory Purchase Orders.
 
-The 35% Campaign was set up as a result of many new developments failing to meet the Council's minimum policy requirement of 35% affordable housing.
+The 35% Campaign was set up as a result of the Heygate regeneration and numerous subsequent developments, failing to meet the Council's minimum policy requirement of 35% affordable housing.
 
 ![](http://35percent.org/img/newsouthwarkplanah.png)
 *[New Southwark Plan](http://www.southwark.gov.uk/download/downloads/id/12867/new_southwark_plan_preferred_option_consultation_version_web) - Southwark's planning policy*
+
+![](/img/heygatefigures.jpg)
 
 You can sign up to our mailing list by using the form below and receive email alerts when we publish a blog post. 
 
