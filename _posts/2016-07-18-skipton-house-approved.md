@@ -5,7 +5,7 @@ published: true
 ---
 The mixed-used re-development of [Skipton House](http://35percent.org/skipton-house) was [approved by Southwark Council’s planning committee](http://moderngov.southwark.gov.uk/documents/s62738/Report%20Skipton%20House%2080%20London%20Road%20Perry%20Library%20250%20Southwark%20Bridge%20Road%20and%20Keyworth%20Street%20.pdf) last Tuesday. It will have 421 new homes with an estimated average price of £820,000[^1]. The development should have provided 35% affordable housing, which would have equated to around 150 affordable units, 75 of which would have been social rented. However, it was argued that delivering affordable housing on site would render the scheme unviable. 
 
-![](http://35percent.org/img/skiptonbeforeafter.png)
+![](http://35percent.org/img/skiptonbeforafter.png)
 
 Instead developer [London & Regional Properties Ltd](http://35percent.org/skipton-house/#who-are-lr) will build, or fund the delivery of 89 'affordable' homes elsewhere, off-site, at a cost of £16.8m – just 2% of the scheme's total development value of £745m. Meanwhile, the developer profit ringfenced in the [viability assessment](http://35percent.org/img/skiptonhouseFVA.pdf) is ‘assumed’ at £75m.
 
