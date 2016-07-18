@@ -9,6 +9,12 @@ The mixed-used re-development of [Skipton House](http://35percent.org/skipton-ho
 
 Instead developer [London & Regional Properties Ltd](http://35percent.org/skipton-house/#who-are-lr) will build, or fund the delivery of 89 'affordable' homes elsewhere, off-site, at a cost of £16.8m – just 2% of the scheme's total development value of £747m. Meanwhile, a minimum 17.5% developer profit margin has been ring-fenced in the [viability assessment](http://35percent.org/img/skiptonhouseFVA.pdf), representing a guaranteed windfall of £130m for the developer[^2].
 
+![](http://35percent.org/img/profitskipton.png)
+*L&R's viability assessment assumes a minium developer profit of 17.5%*
+
+![](http://35percent.org/img/skiptongdv.png)
+*L&R's viability assessment estimates the Gross Development Value at £747m*
+
 ## L&R hits the jackpot
 This is a win on many counts for London & Regional (L&R). It avoids building the full 35% affordable housing required by policy, at a loss to the community of around 60 affordable homes. It avoids sullying the purity of its 100% private development, allowing L&R to sell them at premium prices. In addition, by agreeing to build or fund the delivery of the off-site affordable units, it avoids [Southwark's tariff](http://crappistmartin.github.io/images/affordablehousingspg.pdf) for payments in-lieu of affordable housing. This in-lieu payment would have amounted to £47.8m[^3]. By getting away with a paltry £16.8m L&R has really hit the jackpot.
 
@@ -42,13 +48,7 @@ __Footnotes:__
 
 [^1]: Calculated using the weighted average of the 421 units from the column 'unit price' on the penultimate page of the [viability assessment](http://35percent.org/img/skiptonhouseFVA.pdf). 
 
-[^2]: See paragraph 10.4 on page 39 of the [viability assessment](http://35percent.org/img/skiptonhouseFVA.pdf) which says that the minimum required profit level is 17.5% of the Gross Development Value:
-
-![](http://35percent.org/img/profitskipton.png)
-
-The viability assessment shows the Gross Development Value as £747m. Therefore the minimum required profit is £130m (17.5% of £747m).
-
-![](http://35percent.org/img/skiptongdv.png)
+[^2]: See paragraph 10.4 on page 39 of the [viability assessment](http://35percent.org/img/skiptonhouseFVA.pdf) which says that the minimum required profit level is 17.5% of the Gross Development Value. The viability assessment shows the Gross Development Value as £747m. Therefore the minimum required profit is £130m (17.5% of £747m).
 
 [^3]: Southwark's tariff for in-lieu payments is £100k per habitable room of affordable housing not provided. The scheme is proposing 1,366 habitable rooms in total; 35% of 1,366 is 478 habitable rooms; 478 X £100,000 = £47.8m
 
