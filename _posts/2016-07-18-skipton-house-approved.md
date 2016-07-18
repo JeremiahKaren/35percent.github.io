@@ -22,7 +22,7 @@ L&R achieved this stunning victory for profit over affordable housing, by succes
 ![](http://35percent.org/img/blv.png)
 *Southwark's [Development Viability SPD](http://www.southwark.gov.uk/download/downloads/id/13431/development_viability_spd)*
 
-## £16m versus £67
+## £16m versus £67m
 Southwark's expert consultant questioned L&R's use of market value as the benchmark and also L&R's claim that only a maximum of £16m was available for affordable housing; he came up with a much higher figure - £67m[^4]. However, the planning committee was easily persuaded to settle for the lower figure by the promise of a viability review, after development has started, which might get further payments for affordable housing, if, amongst other things, residential and office values rose and building costs fell.
 
 ## Abject Labour
