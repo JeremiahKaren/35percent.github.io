@@ -7,7 +7,7 @@ The mixed-used re-development of [Skipton House](http://35percent.org/skipton-ho
 
 ![](http://35percent.org/img/skiptonbeforafter.png)
 
-Instead developer [London & Regional Properties Ltd](http://35percent.org/skipton-house/#who-are-lr) will build, or fund the delivery of 89 'affordable' homes elsewhere, off-site, at a cost of £16.8m – just 2% of the scheme's total development value of £747m. Meanwhile, the developer profit ringfenced in the [viability assessment](http://35percent.org/img/skiptonhouseFVA.pdf) is ‘assumed’ at £130m[^2].
+Instead developer [London & Regional Properties Ltd](http://35percent.org/skipton-house/#who-are-lr) will build, or fund the delivery of 89 'affordable' homes elsewhere, off-site, at a cost of £16.8m – just 2% of the scheme's total development value of £747m. Meanwhile, a minimum 17.5% developer profit margin has been ring-fenced in the [viability assessment](http://35percent.org/img/skiptonhouseFVA.pdf), representing a guaranteed windfall of £130m for the developer[^2].
 
 ## L&R hits the jackpot
 This is a win on many counts for London & Regional (L&R). It avoids building the full 35% affordable housing required by policy, at a loss to the community of around 60 affordable homes. It avoids sullying the purity of its 100% private development, allowing L&R to sell them at premium prices. In addition, by agreeing to build or fund the delivery of the off-site affordable units, it avoids [Southwark's tariff](http://crappistmartin.github.io/images/affordablehousingspg.pdf) for payments in-lieu of affordable housing. This in-lieu payment would have amounted to £47.8m[^3]. By getting away with a paltry £16.8m L&R has really hit the jackpot.
