@@ -64,3 +64,6 @@ Appendices:
 
 ## 87 Cleveland St (Westminster)
 [Appraisal of financial viability assessment](/img/87clevelandstreet.pdf) for 87 Cleveland St in Westminster.
+
+## Soda Studios (Hackney)
+[Financial Viability Assessment](/img/sodastudioshackney.pdf) for the redevelopment of the Soda Studios in Hackney.
