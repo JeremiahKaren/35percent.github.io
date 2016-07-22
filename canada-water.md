@@ -4,13 +4,27 @@ title: "Canada Water regeneration"
 sharing: true
 footer: true
 ---
-Canada Water regeneration masterplan and [area action plan](http://www.southwark.gov.uk/downloads/download/3015/canada_water_aap_adoption) was drawn up by [Allies & Morrison](http://www.alliesandmorrison.com/urban-practitioners/), the architecture firm [founded](http://www.brixtonbuzz.com/2015/06/private-eye-picks-up-on-brixton-buzz-story-about-helen-hayes-mp-and-possible-brixton-arches-conflict-of-interest/) by Southwark Councillor and MP Helen Hayes. 
+Canada Water regeneration masterplan and [area action plan](http://www.southwark.gov.uk/downloads/download/3015/canada_water_aap_adoption) was drawn up by [Allies & Morrison](http://www.alliesandmorrison.com/urban-practitioners/), the architecture firm [founded](http://www.brixtonbuzz.com/2015/06/private-eye-picks-up-on-brixton-buzz-story-about-helen-hayes-mp-and-possible-brixton-arches-conflict-of-interest/) by Southwark Councillor and MP Helen Hayes. It will eventually provide a total of over 6000 new homes.
 
-The regeneration comprises a number of different sites, just under half of which was in the freehold ownership of the Council and will provide around 6000 new homes in total.
+The regeneration comprises a number of different sites, the majority of which are in the freehold ownership of Southwark Council.
 
-The regeneration has provided a replacement library for the one demolished on Albion street, but makes no further public infrastructure contributions.
+![](/img/canadawaterregeneration.png)
+*Sites in pink under freehold ownership of Council*
 
-![](http://crappistmartin.github.io/images/canadawater_siteplan.jpg) 
+Sites A&B were [sold](http://moderngov.southwark.gov.uk/documents/s20069/Report%20-%20Improved%20terms%20for%20the%20sale%20of%20sites%20A%20and%20B%20at%20Canada%20Water.pdf) by the Council to Barratt Homes in 2011. We have made an [FOI request](https://www.whatdotheyknow.com/request/canada_water_regeneration_receip?nocache=incoming-842584#incoming-842584) to find out how much the Council sold the land for.
+
+![](/img/freeholdownership.png)
+*Extract from the Canada Water Area Action Plan*
+
+The regeneration has provided a replacement library for the one demolished on Albion street, but provides no further public or transport infrastructure to support the estimated 20,000 new residents.
+
+![](/img/canadawaterlibraries.jpg)
+
+
+## Site D
+224 residential units - 34 'rented affordable'. 
+Council owned?
+http://planbuild.southwark.gov.uk/documents/?casereference=01/AP/1095&system=DC
 
 ## Quebec Quarter
 ['Quebec Quarter'](http://www.quebecquarter.co.uk/) is a scheme by [London & Quadrant](http://www.lqgroup.org.uk/) designed by [Alan Camp architects](http://www.alancamp.com/), which borders Quebec Way and overlooks Russia Dock Woodland.
