@@ -11,7 +11,7 @@ The regeneration comprises a number of different sites, the majority of which ar
 ![](/img/canadawaterregeneration.png)
 *Sites in pink under freehold ownership of Council*
 
-Sites A&B were [sold](http://moderngov.southwark.gov.uk/documents/s20069/Report%20-%20Improved%20terms%20for%20the%20sale%20of%20sites%20A%20and%20B%20at%20Canada%20Water.pdf) by the Council to Barratt Homes in 2011. We have made an [FOI request](https://www.whatdotheyknow.com/request/canada_water_regeneration_receip?nocache=incoming-842584#incoming-842584) to find out how much the Council sold the land for.
+Sites A&B were [sold](http://moderngov.southwark.gov.uk/documents/s20069/Report%20-%20Improved%20terms%20for%20the%20sale%20of%20sites%20A%20and%20B%20at%20Canada%20Water.pdf) by the Council to Barratt Homes in 2011. We have made an [FOI request](https://www.whatdotheyknow.com/request/canada_water_regeneration_receip?nocache=incoming-842584#incoming-842584) to find out how much the Council sold the land for. The following extract from the Area Action Plan confirms that sites F and G (shopping centre/petrol station) and the printworks sites are under freehold ownership of the Council.
 
 ![](/img/freeholdownership.png)
 *Extract from the Canada Water Area Action Plan*
@@ -19,11 +19,10 @@ Sites A&B were [sold](http://moderngov.southwark.gov.uk/documents/s20069/Report%
 The regeneration has provided a replacement library for the one demolished on Albion street, but provides no further public or transport infrastructure to support the estimated 20,000 new residents.
 
 ![](/img/canadawaterlibraries.jpg)
-
+*Now demolished Rotherhithe Library & Civic Centre (left) - New library(right)*
 
 ## Site D
 224 residential units - 34 'rented affordable'. 
-Council owned?
 http://planbuild.southwark.gov.uk/documents/?casereference=01/AP/1095&system=DC
 
 ## Quebec Quarter
@@ -67,11 +66,11 @@ However, when the [section 106 legal agreement](http://planbuild.southwark.gov.u
 
 Former Cabinet member for Regeneration Fiona Colley was responsible for overseeing the delivery of sites A&B. She was so happy with the scheme that she bought (and then sold) no less than two of the new-build flats on this phase off-plan[^1].
 
-## Canada Water Site C
+## Canada Water Sites C&E
 
 ![](http://media.timeout.com/images/101432507/617/347/image.jpg)
 
-Site C is the footprint of the former Decathlon sports superstore and garden centre behind it. The site was purchased with extant planning permission by Shard developer Sellar in 2010 for £16m. 
+Sites C&E are the footprint of the former Decathlon sports superstore and garden centre behind it. The site was purchased with extant planning permission by Shard developer Sellar in 2010 for £16m. 
 
 The [extant permission](http://planbuild.southwark.gov.uk/documents/?casereference=09/AP/1783&system=DC) was for 430 homes of which 74 would be social rented. Southwark council had stood firm on this original application by [insisting](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!CFyLnDePeJAeI7ElqRPpKA%3d%3d!%7d%7d%7d) that the site could support 28% affordable housing at the policy compliant tenure mix (shared ownership/social rented).
 
@@ -94,7 +93,7 @@ Despite the planning officer's report clearly stating 'social rented', when it c
 
 ![](http://i3.wharf.co.uk/incoming/article9095859.ece/ALTERNATES/s615/Decathlon.jpg)
 
-## Canada Water Site E - former Mulberry Business Park
+## Former Mulberry Business Park
 
 ![](http://crappistmartin.github.io/images/kcl-overview.jpg)
 
@@ -107,8 +106,8 @@ However, the [section 106 agreement](http://planbuild.southwark.gov.uk/documents
 ![](http://crappistmartin.github.io/images/canadawatersiteE.jpg)
 
 
-## Canada Water Sites F & G - Harmsworth Quays
-Sites F & G comprising the former Daily Mail printworks and the Surrey Quays shopping centre site, have not yet been granted planning consent. This monumentous scheme comprising approx 7 million sqft of development across 46 acres, is currently in the early stages of consultation and the process is being managed by 'consultation experts - __Soundings__' (the company which undertook the consultation for the Heygate masterplan on behalf of Lend Lease). The owner and developer of the site C scheme is [__British Land__](https://en.wikipedia.org/wiki/British_Land) - one of the UK's largest developers, formerly run by British property magnate Sir John Ritblatt (father of Delancey's Jamie Ritblatt).
+## British Land masterplan site
+Sites F & G comprising the petrol station and shopping centre, together with the former Daily Mail printworks and Surrey Quays leisure park, have not yet been granted planning consent. This huge site comprising approx 7 million sqft of development across 46 acres, is being brought forward by British Land in a joint venture with Southwark Council and is currently in the early stages of consultation. The consultation process is being managed by 'consultation experts - __Soundings__' (the company which undertook the consultation for the Heygate masterplan on behalf of Lend Lease). [__British Land__](https://en.wikipedia.org/wiki/British_Land) - one of the UK's largest developers, formerly run by British property magnate Sir John Ritblatt (father of Delancey's Jamie Ritblatt).
 
 ![](http://crappistmartin.github.io/images/CanadaWaterSiteC.png)
 
