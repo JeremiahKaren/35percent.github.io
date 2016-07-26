@@ -16,7 +16,7 @@ With the Council approving approximately 2000 new homes each year (approx 6000 n
 
 Another visible upside to regeneration is the number of 'new' community facilities like the ['new' library](http://www.bbc.co.uk/news/uk-england-london-15912616) at Canada Water and ['new' leisure centre](http://www.southwark.gov.uk/info/200229/investing_in_leisure/1793/the_castle_leisure_centre) at Elephant and Castle. However, what is easily forgotten is that old libraries and leisure centres were demolished and sold off to make way for the new ones.
 
-![](/img/elephantcastleleisurecentre_rotherhithelibrary.jpg)
+![](/img/elephantcastleleisurecentre_rotherthithelibrary.jpg)
 *Former Rotherhithe library & civic centre (left), former E&C leisure centre (right)*
 
 Southwark likes to claim that the new facilities are funded by the land sales and contributions from developers, but the reality is that this funding represents just a fraction of the cost of the new facilities. The 'Castle' leisure centre at the Elephant cost nearly £30m to build, towards which regeneration partner Lend Lease is contributing just £3.5m - in fact the Council agreed this payment in-lieu of Lend Lease's 'One the Elephant' development providing any affordable housing.  
