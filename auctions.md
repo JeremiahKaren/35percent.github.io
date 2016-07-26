@@ -7,7 +7,7 @@ footer: true
 ---
 This is a map of all the social services community spaces that have been lost to regeneration:   
 <center>
-<iframe src="http://35percent.org/map.html" width="800" height="600"></iframe> 
+<iframe src="http://35percent.org/soldbysouthwark.html" width="800" height="600"></iframe> 
 <font size="2">Click <a href="http://35percent.org/soldbysouthwark.html">here</a> to view our interactive map in a separate browser window</font> 
 </center>
 
