@@ -32,6 +32,8 @@ The same [affordable rent study](http://www.southwark.gov.uk/downloads/download/
 ![](/img/AffordableRentStudy2015.png)
 *Southwark's Affordable Rent Study 2015 showing average weekly market and social rents*
 
+The main problem with linking rents to market rents is that rents rise in line with market increases not wages. This has the obvious result of pricing out those whose incomes cannot keep up with the manic gentrification programme fuelled by Southwark Council's policies. The result is that teachers and nurses are being [forced out](http://www.standard.co.uk/news/london/nurses-and-teachers-living-in-affordable-housing-scheme-face-20-rent-rise-a3304431.html) of the borough by 20% year-on-year rent increases.  
+
 ## Colorama buildings
 This redevelopment of the former [Colorama film processing warehouse](http://35percent.org/colorama/) in SE1 was completed in April 2016. The [planning report](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!Zz6kQSuw9WcG1eGU1VRSAg%3d%3d!%7d%7d%7d) for the application said that the redevelopment would provide a total of 19 social rented habitable rooms.  
 
