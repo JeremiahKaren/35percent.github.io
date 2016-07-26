@@ -16,7 +16,7 @@ Sites A&B were [sold](http://moderngov.southwark.gov.uk/documents/s20069/Report%
 ![](/img/freeholdownership.png)
 *Extract from the Canada Water Area Action Plan*
 
-The regeneration has provided a replacement library for the one demolished on Albion street, but provides no further public or transport infrastructure to support the estimated 18,000 new residents and 15,000 new workplaces - NO schools, NO nurseries, NO GP or health-care facilities.
+The regeneration has provided a replacement library for the one demolished on Albion street, but provides no further public or transport infrastructure to support the estimated 18,000 new residents and 15,000 new workplaces - NO new schools, NO new child-care facilities, NO new GP clinic or other health-care facilities.
 
 ![](/img/canadawaterlibraries.jpg)
 *Now demolished Rotherhithe Library & Civic Centre (left) - New library(right)*
@@ -117,20 +117,18 @@ Initial [consultation plans](http://www.southwarknews.co.uk/comment/comment-time
 
 The site will also include a new campus for King's College London. King's College is being advised on the scheme by Kim Humphries - former deputy council leader. Kim lost his seat in 2010 and has since founded [__'Carvil Ventures'__](http://carvil-ventures.co.uk/), which [offers](http://carvil-ventures.co.uk/our-core-services) _"planning advice"_ and _"assistance in the negotiation of s106 agreements"_.  
 
-The consultation plans have so far failed to say how many (if any) of its new residential homes will be affordable and under what tenure. Although a [pre-application consultation document](/images/canada-water-masterplan-exhibition.pdf) does say:
+The [initial consultation proposals](http://crappistmartin.github.io/images/canada-water-masterplan-exhibition.pdf) have failed to say what level of affordable housing is proposed. However, in November 2014, the Council had laid out its [negotiating priorities](http://moderngov.southwark.gov.uk/documents/s57870/Appendix%202%20Council%20negotiating%20priorities.pdf) with British Land in which it says the scheme will provide a policy complaint 35% affordable housing offer. In addition the Council says that it will have an option to buy the social rented units from the developer: 
 
-![](http://crappistmartin.github.io/images/preappconsultation.png)
+![](/img/negotiatingpriorities.png)
 
-As freehold owner of the land, the Council [agreed](http://moderngov.southwark.gov.uk/documents/s57868/Report%20Canada%20Water%20Regeneration.pdf) in November 2015 to sign a [heads of terms agreement](http://moderngov.southwark.gov.uk/documents/s57869/Appendix%201%20Heads%20of%20terms.pdf) with British Land for the redevelopment of the site.
+As freehold owner of the land and development partner to British Land, the Council [agreed](http://moderngov.southwark.gov.uk/documents/s57868/Report%20Canada%20Water%20Regeneration.pdf) in November 2015 to sign a [heads of terms agreement](http://moderngov.southwark.gov.uk/documents/s57869/Appendix%201%20Heads%20of%20terms.pdf) with British.
 
-A year previously, in November 2014, the Council had laid out its [negotiating priorities](http://moderngov.southwark.gov.uk/documents/s57870/Appendix%202%20Council%20negotiating%20priorities.pdf) with British Land in which it says it will insist on 35% affordable housing.
-
->The development will deliver a policy compliant affordable housing offer with the council having an option to acquire the social rented units. __(Council briefing report)__
-
-However, paragraph 4.11 of the final [heads of terms agreement](http://moderngov.southwark.gov.uk/documents/s57869/Appendix%201%20Heads%20of%20terms.pdf) says that British Land must provide the requisite 35% affordable housing, but with the caveat that if they are unable to, then the Council will bail them out and pay for any shortfall in its affordable housing offer:
+Paragraph 4.11 of the [heads of terms agreement](http://moderngov.southwark.gov.uk/documents/s57869/Appendix%201%20Heads%20of%20terms.pdf) says that British Land must provide the requisite 35% affordable housing, but then confusingly then goes on to talk about the Council having _"the option to acquire additional [private] units [from BL], which can be available for social renting to take the scheme to an equivalent 35%"_..
 
 ![](http://crappistmartin.github.io/images/headsofterms.png)
 
+In any case, the latest British Land consulation documents are silent on the proposed affordable housing levels and say only that this _"will be determined via the planning process"_. 
+![](/img/cwmasterplan.png)
 
 __Footnotes:__
 
