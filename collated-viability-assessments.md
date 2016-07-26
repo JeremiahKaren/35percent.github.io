@@ -5,14 +5,16 @@ subtitle: "Collating and analysing viability assessments"
 sharing: true
 footer: true
 ---
-We have been very active in campaigning for transparency in viability testing. Viability assessments are a key factor in any planning application as they determine the level of planning obligations deemed viable.
+We have been very active in campaigning for transparency in viability testing. Viability assessments are a key factor in any planning application as they determine the level of planning obligations available for affordable housing. They are also routinely used as justification to breach policy requirements on the number of parking spaces and reduce contributions towards public infrastructure.
 
-Following the publication of Part 1 our [Viability for Dummies](http://35percent.org/images/viabilityfordummies.pdf) hanbook, we have had some success in obtaining viability information via the Information Commissioner and the courts. 
+Following the publication of Part 1 our [Viability for Dummies](http://35percent.org/images/viabilityfordummies.pdf) hanbook, we have had some success in obtaining viability information via the Information Commissioner and the Tribunal system. 
 
-Following our success in [obtaining the viability assessment](http://35percent.org/2015-06-25-heygate-viability-assessment-finally-revealed/) for the Heygate redevelopment, [media pressure](https://www.theguardian.com/cities/2015/jun/25/london-developers-viability-planning-affordable-social-housing-regeneration-oliver-wainwright) has resulted in three boroughs introducing policies to make viability assessments public (Islington, Greenwich and Southwark).
+Following our success in [obtaining the viability assessment](http://35percent.org/2015-06-25-heygate-viability-assessment-finally-revealed/) for the Heygate redevelopment, [media pressure](https://www.theguardian.com/cities/2015/jun/25/london-developers-viability-planning-affordable-social-housing-regeneration-oliver-wainwright) has resulted in three boroughs introducing policies to make viability assessments public (Islington, Greenwich and Southwark). It is understood that the Mayor is currently drafting supplementary planning guidance on viability testing.
 
 Part 2 of Viability for Dummies will explain how viability assessments work and how to understand and challenge most of the basic assumptions using publicly available information. In the meantime [this talk](https://vimeo.com/175548004) by 
 Guardian reporter Olly Wainwright gives a good introduction to viability testing and how developers cook the books (starts around 11mins in).
+
+# Collated viability assessments
 
 ## Heygate Viability Assessment
 [Viability Assessment - Main Report](http://crappistmartin.github.io/images/HeygateViabilityAssessment_MainReport.pdf)
