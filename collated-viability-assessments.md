@@ -1,12 +1,20 @@
 ---
 layout: page
-title: "Collated viability assessments"
+title: "Viability assessments"
+subtitle: "Collating and analysing viability assessments"
 sharing: true
 footer: true
 ---
+We have been very active in campaigning for transparency in viability testing. Viability assessments are a key factor in any planning application as they determine the level of planning obligations deemed viable.
+
+Following the publication of Part 1 our [Viability for Dummies](http://35percent.org/images/viabilityfordummies.pdf) hanbook, we have had some success in obtaining viability information via the Information Commissioner and the courts. 
+
+Following our success in [obtaining the viability assessment](http://35percent.org/2015-06-25-heygate-viability-assessment-finally-revealed/) for the Heygate redevelopment, [media pressure](https://www.theguardian.com/cities/2015/jun/25/london-developers-viability-planning-affordable-social-housing-regeneration-oliver-wainwright) has resulted in three boroughs introducing policies to make viability assessments public (Islington, Greenwich and Southwark).
+
+Part 2 of Viability for Dummies will explain how viability assessments work and how to understand and challenge most of the basic assumptions using publicly available information. In the meantime [this talk](https://vimeo.com/175548004) by 
+Guardian reporter Olly Wainwright gives a good introduction to viability testing and how developers cook the books (starts around 11mins in).
 
 ## Heygate Viability Assessment
-
 [Viability Assessment - Main Report](http://crappistmartin.github.io/images/HeygateViabilityAssessment_MainReport.pdf)
 
 Appendices:  
@@ -71,5 +79,5 @@ Appendices:
 ## Skipton House
 [Financial viability assessment](http://35percent.org/img/skiptonhouseFVA.pdf) for the redevelopment of Skipton House at Elephant & Castle.
 
-## Wyvil Road, Lambeth
+## Wyvil Road (Lambeth)
 [Financial viablity assessment](http://www.ourcity.london/wp-content/uploads/2016/07/14_03701_FUL-Viability_Assessment__Private___Confidential_-1209999-1.pdf) for the redevelopment of 12-20 Wyvil Rd, Lambeth. See George Turner's summary [here](http://www.ourcity.london/case-studies/12-20-wyvil-road/).
