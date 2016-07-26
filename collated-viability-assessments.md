@@ -67,3 +67,9 @@ Appendices:
 
 ## Soda Studios (Hackney)
 [Financial Viability Assessment](/img/sodastudioshackney.pdf) for the redevelopment of the Soda Studios in Hackney.
+
+## Skipton House
+[Financial viability assessment](http://35percent.org/img/skiptonhouseFVA.pdf) for the redevelopment of Skipton House at Elephant & Castle.
+
+## Wyvil Road, Lambeth
+[Financial viablity assessment](http://www.ourcity.london/wp-content/uploads/2016/07/14_03701_FUL-Viability_Assessment__Private___Confidential_-1209999-1.pdf) for the redevelopment of 12-20 Wyvil Rd, Lambeth. See George Turner's summary [here](http://www.ourcity.london/case-studies/12-20-wyvil-road/).

@@ -12,21 +12,21 @@ This planning application for a development in Peckham is symptomatic of so many
 ![](/img/localparkscontribution.png)
 *[Planning Committee report](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!yP1lK1SBYnvpeezqHiCudA%3d%3d!%7d%7d%7d) for a large development in Peckham*
 
-With the Council approving approximately 2000 new homes each year (approx 6000 new residents), it is no wonder that Southwark's parks have become busier and more used.
+With the Council approving approximately 2000 new homes each year (approx 6000 new residents), it is little wonder that Southwark's parks have received plenty of funding and become much busier and more used.
 
 Another visible upside to regeneration is the number of 'new' community facilities like the ['new' library](http://www.bbc.co.uk/news/uk-england-london-15912616) at Canada Water and ['new' leisure centre](http://www.southwark.gov.uk/info/200229/investing_in_leisure/1793/the_castle_leisure_centre) at Elephant and Castle. However, what is easily forgotten is that old libraries and leisure centres were demolished and sold off to make way for the new ones.
 
 ![](/img/elephantcastleleisurecentre_rotherthithelibrary.jpg)
 *Former Rotherhithe library & civic centre (left), former E&C leisure centre (right)*
 
-Southwark likes to claim that the new facilities are funded by the land sales and contributions from developers, but the reality is that this funding represents just a fraction of the cost of the new facilities. The 'Castle' leisure centre at the Elephant cost nearly £30m to build, towards which regeneration partner Lend Lease is contributing just £3.5m - in fact the Council agreed this payment in-lieu of Lend Lease's 'One the Elephant' development providing any affordable housing.  
+Southwark likes to claim that the new facilities are funded by financial contributions from developers, but the reality is that this funding represents just a fraction of the cost of the new facilities. The ['Castle' leisure centre](http://www.southwark.gov.uk/info/200229/investing_in_leisure/1793/the_castle_leisure_centre) at the Elephant cost nearly £30m to build, towards which regeneration partner Lend Lease is contributing just £3.5m - in fact the Council agreed this payment in-lieu of Lend Lease's ['One the Elephant'](http://35percent.org/one-the-elephant/) development providing any affordable housing.  
 
-The new library and health centre to be built on the Aylesbury estate are direct replacements for the ones disposed of. The existing health centre in the Taplow block on Thurlow street is being demolished and the library on East St was [sold](http://www.london-se1.co.uk/news/view/8433) by the council in 2015. The [new library and health centre](http://www.aylesburynow.london/news/posts/new-public-square-moves-one-step-closer) is being entirely funded by Southwark Council. Its development partners Notting Hill and Barratt Homes are not making any contribution towards them at all.
+The [new library and health centre](http://www.aylesburynow.london/news/posts/new-public-square-moves-one-step-closer) to be built on the redeveloped [Aylesbury estate](/aylesbury-estate) are direct replacements for the existing medical centre and library being disposed of. The existing health centre in the Taplow block on Thurlow street is being demolished and the library on East St was [sold](http://www.london-se1.co.uk/news/view/8433) by the council in 2015. The [new library and health centre](http://www.aylesburynow.london/news/posts/new-public-square-moves-one-step-closer) is being entirely funded by Southwark Council. Its development partners Notting Hill and Barratt Homes are not making any contribution towards them at all.
 
 ![](/img/aylesburymedicalcentreandlibrary.jpg)
 *Existing Aylesbury Medical Centre and Library* 
 
-Meanwhile, in order to make up the shortfall in funding the construction of the new libraries and leisure centre, the Council has been making drastic cuts to social services and frantically selling off premises used by them.
+Meanwhile, in order to make up the shortfall in funding the construction of the replacement libraries, health and leisure centre, the Council has been making drastic cuts to social services and frantically selling off premises used by them.
 The Council has [cut](http://moderngov.southwark.gov.uk/documents/s59115/Policy%20and%20Resources%20Strategy%20201617%20to%20201819.pdf) a staggering £39m from the current year's budget for education and adult services alone. Here is a map of some social services buildings that have previously been sold off or closed by the Council's current administration:
    
 <center>
@@ -36,8 +36,7 @@ The Council has [cut](http://moderngov.southwark.gov.uk/documents/s59115/Policy%
 
 Add also Keyworth St homeless hostel and Lorrimore Centre (Bethwin Rd?).
 
-Besides [selling off its council estates](http://35percent.org/the-southwark-clearances/) it has also sold its [Town halls](http://35percent.org/southwark-town-halls/) and street property council homes. We have compiled a [brochure](/images/sold_by_southwark.pdf) showing some of the street properties it has auctioned off since May 2010.
-
+Besides selling off its social services facilities, the Council has been busy [selling off its council estates](http://35percent.org/the-southwark-clearances/), its [Town halls](http://35percent.org/southwark-town-halls/) and street properties. We have compiled a [brochure](/images/sold_by_southwark.pdf) showing some of the street property Council homes that have been sold at auction by the current (Labour) administration.
 
 | Council House  | Address  | Sold Price  | Date  |
 |---|---|---|---|
