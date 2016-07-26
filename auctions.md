@@ -12,7 +12,7 @@ This planning application for a development in Peckham is symptomatic of so many
 ![](/img/localparkscontribution.png)
 *[Planning Committee report](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!yP1lK1SBYnvpeezqHiCudA%3d%3d!%7d%7d%7d) for a large development in Peckham*
 
-With the Council approving approximately 2000 new homes each year (approx 6000 new residents), it is little wonder that Southwark's parks have received plenty of funding and become much busier and more used.
+With the Council approving approximately 2000 new homes each year (approx 6000 new residents), it is little wonder that Southwark's parks have received plenty of funding and become much busier.
 
 Another visible upside to regeneration is the number of 'new' community facilities like the ['new' library](http://www.bbc.co.uk/news/uk-england-london-15912616) at Canada Water and ['new' leisure centre](http://www.southwark.gov.uk/info/200229/investing_in_leisure/1793/the_castle_leisure_centre) at Elephant and Castle. However, what is easily forgotten is that old libraries and leisure centres were demolished and sold off to make way for the new ones.
 
@@ -27,7 +27,7 @@ The [new library and health centre](http://www.aylesburynow.london/news/posts/ne
 *Existing Aylesbury Medical Centre and Library* 
 
 Meanwhile, in order to make up the shortfall in funding the construction of the replacement libraries, health and leisure centre, the Council has been making drastic cuts to social services and frantically selling off premises used by them.
-The Council has [cut](http://moderngov.southwark.gov.uk/documents/s59115/Policy%20and%20Resources%20Strategy%20201617%20to%20201819.pdf) a staggering £39m from the current year's budget for education and adult services alone. Here is a map of some social services buildings that have previously been sold off or closed by the Council's current administration:
+The Council has [cut](http://moderngov.southwark.gov.uk/documents/s59115/Policy%20and%20Resources%20Strategy%20201617%20to%20201819.pdf) a staggering £39m from the current year's budget for education and adult services alone. Here is a map of some social services buildings that have previously been sold off or closed by the Council's current (Labour) administration:
    
 <center>
 <iframe src="http://35percent.org/soldbysouthwark.html" width="800" height="600"></iframe> 
