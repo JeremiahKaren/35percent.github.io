@@ -129,7 +129,12 @@ This is what will replace the Uxbridge Arms - 100% private housing. Not one of t
 ![](/img/TheUxbridge.png)
 *Development replacing the Uxbridge Arms - 100% private market housing*
 
-The Council is also busy selling off former council offices and council-owned land. This is the former Harper rd childrens services office, which the Council has [sold off](http://moderngov.southwark.gov.uk/mgIssueHistoryHome.aspx?IId=50010611&PlanId=404) to developers:
+The Council has also sold off the Royal Standard pub on Harper Road and [given planning consent](http://www.london-se1.co.uk/news/view/8836) for its redevelopment as private residential flats.
+
+![](http://www.london-se1.co.uk/news/imageuploads/1469111270_147.147.150.210.jpg)
+*Royal Standard Pub on Harper Road*
+
+This is the former Harper rd childrens services office, which the Council has [sold off](http://moderngov.southwark.gov.uk/mgIssueHistoryHome.aspx?IId=50010611&PlanId=404) to developers:
 ![](/img/harperroad.png)
 
 This is Council owned-land on Ilderton road (formerly leased) which it is [selling off](http://moderngov.southwark.gov.uk/mgIssueHistoryHome.aspx?IId=50009366&PlanId=404) to developers:
