@@ -21,6 +21,10 @@ Another visible upside to regeneration is the number of 'new' community faciliti
 
 Southwark likes to claim that the new facilities are funded by the land sales and contributions from developers, but the reality is that this funding represents just a fraction of the cost of the new facilities. The 'Castle' leisure centre at the Elephant cost nearly £30m to build, towards which regeneration partner Lend Lease is contributing just £3.5m - in fact the Council agreed this payment in-lieu of Lend Lease's 'One the Elephant' development providing any affordable housing.  
 
+The new library and health centre to be built on the Aylesbury estate are direct replacements for the ones disposed of. The existing health centre in the Taplow block on Thurlow street is being demolished and the library on East St was [sold](http://www.london-se1.co.uk/news/view/8433) by the council in 2015. The [new library and health centre](http://www.aylesburynow.london/news/posts/new-public-square-moves-one-step-closer) is being entirely funded by Southwark Council. Its development partners Notting Hill and Barratt Homes are making any contribution towards them.
+
+![](/img/aylesburymedicalcentreandlibrary.jpg)
+*Existing Aylesbury Medical Centre and Library* 
 
 Meanwhile, in order to make up the shortfall in funding the construction of the new libraries and leisure centre, the Council has been making drastic cuts to social services and frantically selling off premises used by them.
 This is a map of all the social services spaces that have been sold off or closed by the Council's current administration:
