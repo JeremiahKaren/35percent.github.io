@@ -1,10 +1,21 @@
 ---
 layout: page
-title: "Sold by Savills"
-subtitle: Council homes sold at auction by Southwark
+title: "Sold by Southwark"
+subtitle: Council homes and premise sold for development by Southwark
 sharing: true
 footer: true
 ---
+This is a map of all the social services community spaces that have been lost to regeneration:   
+<center>
+<iframe src="http://35percent.org/map.html" width="800" height="600"></iframe> 
+<font size="2">Click <a href="http://35percent.org/soldbysouthwark.html">here</a> to view our interactive map in a separate browser window</font> 
+</center>
+
+Add also Keyworth St homeless hostel and Lorrimore Centre (Bethwin Rd?).
+
+Has also sold its [Town halls](http://35percent.org/southwark-town-halls/)
+
+
 While Southwark (Labour) Council are busy campaigning against the Tory Housing Bill, claiming that it will force them to sell off much-needed council homes, we have compiled a [brochure](/images/sold_by_southwark.pdf) showing some of council homes it has auctioned off since May 2010.
 
 The table below is by no means an exhaustive list of all the homes it has flogged, merely those sold by auction houses with historic data available on the web. We note that the vast majority of these council homes have been auctioned with Savills - the estate agent which Southwark has instructed to advise on housing asset management and the future of its council stock.

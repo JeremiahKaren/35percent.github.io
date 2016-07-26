@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Leaflet Quick Start Guide Example</title>
+	<meta charset="utf-8" />
+
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+	<link rel="stylesheet" href="https://npmcdn.com/leaflet@1.0.0-rc.2/dist/leaflet.css" />
+</head>
+<body>
+	<div id="map" style="width: 600px; height: 400px"></div>
+
+	<script src="https://npmcdn.com/leaflet@1.0.0-rc.2/dist/leaflet.js"></script>
+	<script>
+		var map = L.map('map').setView([51.5, -0.09], 14);
+
+
+		L.tileLayer('http://{s}.tiles.mapbox.com/v3/enrico-in-w.ka4k56fp/{z}/{x}/{y}.png',  { attribution: 'Map tiles &copy; <a href="http://mapbox.com">MapBox</a>' }).addTo(map);
+
+		var LeafIcon = L.Icon.extend({
+			options: {
+				shadowUrl: 'img/savillsshadow.png',
+				iconSize:     [38, 95],
+				shadowSize:   [50, 64],
+				iconAnchor:   [22, 94],
+				shadowAnchor: [4, 62],
+				popupAnchor:  [-3, -76]
+			}
+		});
+
+		var greenIcon = new LeafIcon({iconUrl: 'img/savillssign.png'}),
+			redIcon = new LeafIcon({iconUrl: 'img/savillssign.png'}),
+			orangeIcon = new LeafIcon({iconUrl: 'img/savillssign.png'});
+
+		L.marker([51.49243, -0.09948850], {icon: greenIcon}).bindPopup('<img src="img/castledaycentre.jpg" width="100"></br><a href="http://www.london-se1.co.uk/news/view/5867">Castle Day Centre</a></br>Hampton St, SE1 6SN</br>Mental Health Day Centre').addTo(map);
+		L.marker([51.49885, -0.09603918], {icon: redIcon}).bindPopup('<img src="img/harperroad.jpg" width="100"></br><a href="http://www.london-se1.co.uk/news/view/7479">Harper Rd Social Services</a></br>23 Harper Rd, SE1 6AW</br>Childrens social services offices').addTo(map);
+		L.marker([51.49742, -0.07878721], {icon: orangeIcon}).bindPopup('<img src="img/abbeystreet.jpg" width="100"></br><a href="http://moderngov.southwarksites.com/documents/s4006/Disposal%20of%20Four%20Sites%20to%20Native%20Land%20Off-site%20Affordable%20Housing.pdf">Abbey St Childrens Home</a></br>70 Abbey St, SE1 3NG</br>Childrens Home').addTo(map);
+                L.marker([51.49810, -0.07927537], {icon: orangeIcon}).bindPopup('<img src="img/whitstabledaynursery.png" width="100"></br><a href="http://moderngov.southwarksites.com/documents/s4006/Disposal%20of%20Four%20Sites%20to%20Native%20Land%20Off-site%20Affordable%20Housing.pdf">Whitstable Day Nursery</a></br>Stevens St, SE1 3BX</br>Childrens Day Nursery').addTo(map);
+                L.marker([51.49859, -0.05967379], {icon: orangeIcon}).bindPopup('<img src="img/OpendoorJamaicaRoad.jpg" width="100"></br><a href="http://www.southwarknews.co.uk/news/mental-health-charities-issue-warnings-over-centre-closures-in-southwark/">Opendoor Resource Centre</a></br>224 Jamaica Road, SE16 4BD</br>Mental Health Day Centre').addTo(map);
+
+                L.marker([51.46732, -0.06663948], {icon: orangeIcon}).bindPopup('<img src="img/crosswayscentre.jpg" width="100"></br><a href="http://www.southwarknews.co.uk/news/mental-health-charities-issue-warnings-over-centre-closures-in-southwark/">Crossways Centre</a></br>184-186 Rye Lane, SE15 4NF</br>Mental Health Day Centre').addTo(map);
+
+                L.marker([51.49164, -0.09561539], {icon: orangeIcon}).bindPopup('<img src="img/wanseyst.jpg" width="100"></br><a href="http://moderngov.southwark.gov.uk/Data/Executive/20071016/Agenda/Item%2017%20-30-32,%2036%20and%2038-40%20Wansey%20Street%20-%20Disposal%20of%20Properties%20-Report.pdf">Wansey St Homeless Hostels</a></br>30-32 & 38-40 Wansey St, SE17</br>Homeless Hostels').addTo(map);
+
+	</script>
+</body>
+</html>
