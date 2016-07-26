@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "Redefining social rent"
+subtitle: "Morphing social into affordable rent"
 sharing: true
 footer: true
 ---
