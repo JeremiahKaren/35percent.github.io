@@ -27,7 +27,7 @@ The [new library and health centre](http://www.aylesburynow.london/news/posts/ne
 *Existing Aylesbury Medical Centre and Library* 
 
 Meanwhile, in order to make up the shortfall in funding the construction of the replacement libraries, health and leisure centre, the Council has been making drastic cuts to social services and frantically selling off premises used by them.
-The Council has [cut](http://moderngov.southwark.gov.uk/documents/s59115/Policy%20and%20Resources%20Strategy%20201617%20to%20201819.pdf) a staggering £39m from the current year's budget for education and adult services alone. Here is a map of some social services buildings that have previously been sold off or closed by the Council's current (Labour) administration:
+The Council has [cut](http://moderngov.southwark.gov.uk/documents/s59115/Policy%20and%20Resources%20Strategy%20201617%20to%20201819.pdf) a staggering £39m from the current year's budget for education and adult services alone. Here is a map of some social services buildings and other Council-owned buildings for community use that have been, or are being sold off or closed down by the Council's current (Labour) administration:
    
 <center>
 <iframe src="http://35percent.org/soldbysouthwark.html" width="800" height="600"></iframe> 
