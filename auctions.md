@@ -34,8 +34,6 @@ The Council has [cut](http://moderngov.southwark.gov.uk/documents/s59115/Policy%
 <font size="2">Click <a href="http://35percent.org/soldbysouthwark.html">here</a> to view our map in a separate browser window</font> 
 </center>
 
-Add also Keyworth St homeless hostel and Lorrimore Centre (Bethwin Rd?).
-
 Besides selling off its social services facilities, the Council has been busy [selling off its council estates](http://35percent.org/the-southwark-clearances/), its [Town halls](http://35percent.org/southwark-town-halls/) and street properties. We have compiled a [brochure](/images/sold_by_southwark.pdf) showing some of the street property Council homes that have been sold at auction by the current (Labour) administration.
 
 | Council House  | Address  | Sold Price  | Date  |

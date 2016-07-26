@@ -29,7 +29,7 @@ It also looks at the overall 'green' credentials of the scheme and shows how the
 
 <center>
 <iframe src="http://crappistmartin.github.io/map.html" width="800" height="600"></iframe>
-</br><font size="2">Click <a href="http://crappistmartin.github.io/map.html">here</a> to view our interactive map in a separate browser window</font>
+<font size="2">Click <a href="http://crappistmartin.github.io/map.html">here</a> to view our interactive map in a separate browser window</font>
 </center>
 
 * Southwark argues that it will receive a share of the 'overage' profits when the Heygate development is completed in 2025, but this 'overage' arrangement only applies to profit surpluses after Lend Lease has pocketed a 20% "Priority Return" plus a 2.6% "Management Fee"[^6].
