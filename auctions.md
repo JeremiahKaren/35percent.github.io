@@ -1,24 +1,38 @@
 ---
 layout: page
-title: "Sold by Southwark"
-subtitle: Council homes and premise sold for development by Southwark
+title: "Selling Southwark"
+subtitle: The nether side of regeneration
 sharing: true
 footer: true
 ---
-This is a map of all the social services community spaces that have been lost to regeneration:   
+One of the most visible marks of regeneration in Southwark is the persistent improvements to its major parks. The extra funding being spent on improvements to parks is undeniably one of the positive aspects to regeneration, but doesn't come without its nether side.  
+
+This planning application for a development in Peckham is symptomatic of so many developments approved in recent years. It has been built at more than twice the density permitted by policy and has provided only half the required amount of amenity space as a result. The Council's planning committee squares this by accepting a financial contribution from the developer towards the improvement of existing local parks. 
+
+![](/img/localparkscontribution.png)
+*[Planning Committee report](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!yP1lK1SBYnvpeezqHiCudA%3d%3d!%7d%7d%7d) for a large development in Peckham*
+
+With the Council approving approximately 2000 new homes each year (approx 6000 new residents), it is no wonder that Southwark's parks have become busier and more used.
+
+Another visible upside to regeneration is the number of 'new' community facilities like the ['new' library](http://www.bbc.co.uk/news/uk-england-london-15912616) at Canada Water and ['new' leisure centre](http://www.southwark.gov.uk/info/200229/investing_in_leisure/1793/the_castle_leisure_centre) at Elephant and Castle. However, what is easily forgotten is that old libraries and leisure centres were demolished and sold off to make way for the new ones.
+
+![](/img/elephantcastleleisurecentre_rotherhithelibrary.jpg)
+*Former Rotherhithe library & civic centre (left), former E&C leisure centre (right)*
+
+Southwark likes to claim that the new facilities are funded by the land sales and contributions from developers, but the reality is that this funding represents just a fraction of the cost of the new facilities. The 'Castle' leisure centre at the Elephant cost nearly £30m to build, towards which regeneration partner Lend Lease is contributing just £3.5m - in fact the Council agreed this payment in-lieu of Lend Lease's 'One the Elephant' development providing any affordable housing.  
+
+
+Meanwhile, in order to make up the shortfall in funding the construction of the new libraries and leisure centre, the Council has been making drastic cuts to social services and frantically selling off premises used by them.
+This is a map of all the social services spaces that have been sold off or closed by the Council's current administration:
+   
 <center>
 <iframe src="http://35percent.org/soldbysouthwark.html" width="800" height="600"></iframe> 
-<font size="2">Click <a href="http://35percent.org/soldbysouthwark.html">here</a> to view our interactive map in a separate browser window</font> 
+<font size="2">Click <a href="http://35percent.org/soldbysouthwark.html">here</a> to view our map in a separate browser window</font> 
 </center>
 
 Add also Keyworth St homeless hostel and Lorrimore Centre (Bethwin Rd?).
 
-Has also sold its [Town halls](http://35percent.org/southwark-town-halls/)
-
-
-While Southwark (Labour) Council are busy campaigning against the Tory Housing Bill, claiming that it will force them to sell off much-needed council homes, we have compiled a [brochure](/images/sold_by_southwark.pdf) showing some of council homes it has auctioned off since May 2010.
-
-The table below is by no means an exhaustive list of all the homes it has flogged, merely those sold by auction houses with historic data available on the web. We note that the vast majority of these council homes have been auctioned with Savills - the estate agent which Southwark has instructed to advise on housing asset management and the future of its council stock.
+Besides [selling off its council estates](http://35percent.org/the-southwark-clearances/) it has also sold its [Town halls](http://35percent.org/southwark-town-halls/) and street property council homes. We have compiled a [brochure](/images/sold_by_southwark.pdf) showing some of the street properties it has auctioned off since May 2010.
 
 
 | Council House  | Address  | Sold Price  | Date  |
