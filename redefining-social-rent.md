@@ -123,8 +123,10 @@ Notting Hill Housing was supposed to provide 22 social rented homes as part of i
 ![](/img/silwoodstreet.png)
 *Redeveloped Silwood estate*
 
-## Aylesbury estate
-Given Notting Hill's track record for tenure substitutions and Southwark's complicity, we are under no illusion as to what kind of 'social rented' housing Notting Hill will provide in its redevelopment of the Aylesbury. We have documented on [this page](/aylesbury-estate) how Notting Hill's GLA funding agreement for the Aylesbury, ties it in any case to the provision of affordable rent rather than social rent. 
+## The future
+Despite its vehement objections to affordable rent, which are enshrined in its planning policy, Southwark Council is allowing affordable rent to be substituted for social rent. Not only is affordable rent being delivered where social rent was required by planning consent, but [planning applications proposing affordable rent](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!MWINWqCKxftA59dMPpEkdQ%3d%3d!%7d%7d%7d) are being approved as policy compliant.  
+ 
+There is also the quesion of ambiguous definitions in section 106 agreements. Notting Hill Housing's Bermondsey Spa scheme is an example of where this ambiguity has been exploited. We are under no illusion as to its intention with the 'social rented' component of its redevelopment of the Aylesbury estate. We have documented on [this page](/aylesbury-estate) how Notting Hill's GLA funding agreement for the Aylesbury, ties it in any case to the provision of affordable rent rather than social rent. 
 
 
 
