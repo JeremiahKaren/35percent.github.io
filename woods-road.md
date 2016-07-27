@@ -1,9 +1,11 @@
 ---
 layout: page
-title: "Tuke Street School/Woods Road"
+title: "Tuke St School/Woods Road"
 sharing: true
 footer: true
 ---
+![](/img/woodstaerial.jpg)
+
 The former Tuke Street School site on Woods Road in Peckham is being redeveloped by a... 
 The school site was Council owned and sold to developers in 2013. The [Cabinet report](http://moderngov.southwarksites.com/documents/s39367/Report%20Disposal%20of%20Property%20at%20Woods%20Road%20London%20SE15.pdf) approving the disposal of the site says that the site is being sold on the basis that the proposed development of 115 homes will comply with policy requirements on affordable housing:
 
