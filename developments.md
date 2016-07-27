@@ -284,6 +284,13 @@ subtitle: Summary of regeneration schemes
 
 <article class="post-preview">
   
+<h1><a href="/woods-road/">Tuke St School/Woods Road</a></h1>
+
+<img src="http://35percent.org/img/proudlypeckham.jpg" width="100" align="left">
+</article>
+
+<article class="post-preview">
+  
 <h1><a href="/skipton-house/">Skipton House</a></h1>
 
 <img src="http://www.constructionenquirer.com/wp-content/uploads/Screen-Shot-2015-10-06-at-11.00.45-600x414.png" width="100" align="left">
