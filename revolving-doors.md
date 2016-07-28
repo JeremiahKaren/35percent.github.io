@@ -1,9 +1,10 @@
----
-layout: post
-title: "Report uncovers conflicts of interest"
-comments: true
-categories: 
----
+---                                                                             
+layout: page
+title: "Revolving Doors"
+subtitle: "Southwark Council's links to the development industry"
+sharing: true
+footer: true
+--- 
 A [report](http://www.spinwatch.org/index.php/component/k2/item/5458-the-local-lobby-and-the-failure-of-democracy) by [journalist Anna Minton](http://www.guardian.co.uk/commentisfree/2013/mar/27/reconfiguration-london-akin-social-cleansing) has found that _"20  per  cent  of  Southwark’s  63 councillors work as lobbyists"_ for developers in the planning industry and that a significant number of Councillors and Council officers making use of a _'well-oiled revolving door'_ to the planning and development industry. We have documented a few of the starkest examples of these.
 
 ![](http://farm9.staticflickr.com/8244/8637497136_d25afc426a.jpg)
@@ -13,13 +14,9 @@ A [report](http://www.spinwatch.org/index.php/component/k2/item/5458-the-local-l
 Tom subsequently left the Council in 2011 to start work directly for Lend Lease, where he is now Development Manager for the Elephant & Castle project.
 
 
-{% imgcap left /images/kura.jpg Kura Perkins %}Kura Perkins worked for Southwark Council on the Elephant & Castle project as [Communications Manager](http://moderngov.southwark.gov.uk/Data/Executive/20050727/Agenda/Item%2007%20-%20Elephant%20andCastle%20graphic%20design%20and%20brand%20management%20contract%20-%20variationdecision%20report.pdf) up until 2006. Kura then left the council to work for Lend Lease as [its](http://www.london-se1.co.uk/news/view/3048) Communications Manager until 2011.
+<img src="http://crappistmartin.github.io/images/kura.jpg "width="200" height="200">[Kura Perkins](https://uk.linkedin.com/in/kura-perkins-3871541) worked for Southwark Council on the Elephant & Castle project as [Communications Manager](http://moderngov.southwark.gov.uk/Data/Executive/20050727/Agenda/Item%2007%20-%20Elephant%20andCastle%20graphic%20design%20and%20brand%20management%20contract%20-%20variationdecision%20report.pdf) up until 2006. Kura then left the council to work for Lend Lease as [its](http://www.london-se1.co.uk/news/view/3048) Communications Manager until 2011.
 
 
-</br>
-</br>
-</br>
-</br>
 {% imgcap left https://media.licdn.com/mpr/mpr/shrink_200_200/p/1/000/041/17d/0479262.jpg 150 150 Cllr Dimoldenberg %}[Paul Dimoldenberg](https://www.linkedin.com/pub/paul-dimoldenberg/a/5b5/b44) was Senior Research Officer at Southwark Council for 8 years. He later became a councillor in the borough of Westminster where is now the Labour Group leader. He also set up PR company called [Quarto PR](http://www.quatro-pr.co.uk/), which Lend Lease currently instructs to deal with public relations for all its major developments.  
 </br>
 </br>
