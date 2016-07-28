@@ -4,22 +4,19 @@ title: "Canada Water regeneration"
 sharing: true
 footer: true
 ---
-Canada Water regeneration masterplan and [area action plan](http://www.southwark.gov.uk/downloads/download/3015/canada_water_aap_adoption) was drawn up by [Allies & Morrison](http://www.alliesandmorrison.com/urban-practitioners/), the architecture firm [founded](http://www.brixtonbuzz.com/2015/06/private-eye-picks-up-on-brixton-buzz-story-about-helen-hayes-mp-and-possible-brixton-arches-conflict-of-interest/) by Southwark Councillor and MP Helen Hayes. It will eventually provide a total of over 6000 new homes (ca. 18,000 new residents) together with retail and office space for 15,000 new jobs.
-
-The regeneration comprises a number of different sites, the majority of which are in the freehold ownership of Southwark Council.
+The regeneration of Canada Water has been in the news lately. This former docklands area in Southwark is the biggest regeneration scheme in the borough. There are ten sites being completed in four phases. Three sites have been completed (A,B & D), three are under construction (C, E & Quebec Way) and the remainder will come forward in one final phase. It will eventually provide a total of over 6000 new homes (ca. 18,000 new residents) together with retail and office space for 15,000 new jobs. However, very few of the new homes will be social rented if the completed schemes are anything to go by. 
 
 ![](/img/canadawaterregeneration.png)
 *Sites in pink under freehold ownership of Council*
 
-Sites A&B were [sold](http://moderngov.southwark.gov.uk/documents/s20069/Report%20-%20Improved%20terms%20for%20the%20sale%20of%20sites%20A%20and%20B%20at%20Canada%20Water.pdf) by the Council to Barratt Homes in 2011. We have made an [FOI request](https://www.whatdotheyknow.com/request/canada_water_regeneration_receip?nocache=incoming-842584#incoming-842584) to find out how much the Council sold the land for. The following extract from the Area Action Plan confirms that sites F and G (shopping centre/petrol station) and the printworks sites are under freehold ownership of the Council.
-
-![](/img/freeholdownership.png)
-*Extract from the Canada Water Area Action Plan*
+Sites A&B were [sold](http://moderngov.southwark.gov.uk/documents/s20069/Report%20-%20Improved%20terms%20for%20the%20sale%20of%20sites%20A%20and%20B%20at%20Canada%20Water.pdf) by the Council to Barratt Homes in 2011. We have made an [FOI request](https://www.whatdotheyknow.com/request/canada_water_regeneration_receip?nocache=incoming-842584#incoming-842584) to find out how much the Council sold the land for. 
 
 The regeneration has provided a replacement library for the one demolished on Albion street, but provides no further public or transport infrastructure to support the estimated 18,000 new residents and 15,000 new workplaces - NO new schools, NO new child-care facilities, NO new GP clinic or other health-care facilities.
 
 ![](/img/canadawaterlibraries.jpg)
 *Now demolished Rotherhithe Library & Civic Centre (left) - New library(right)*
+
+The reason for the lack of infrastructure planning is partly because the [original masterplan] was drawn up before the Daily Mail printworks announced it would be moving to Thurrock. The original masterplan had also been up to a much lower density and because the tube station works were completed in conjunction with sites A&B, it didn't take into account the possibility of the printworks site being included or the density being increased in general.
 
 ## Site D
 224 residential units - 34 'rented affordable'. 
@@ -110,6 +107,11 @@ However, the [section 106 agreement](http://planbuild.southwark.gov.uk/documents
 Sites F & G comprising the petrol station and shopping centre, together with the former Daily Mail printworks and Surrey Quays leisure park, have not yet been granted planning consent. This huge site comprising approx 7 million sqft of development across 46 acres, is being brought forward by British Land in a joint venture with Southwark Council and is currently in the early stages of consultation. The consultation process is being managed by 'consultation experts - __Soundings__' (the company which undertook the consultation for the Heygate masterplan on behalf of Lend Lease). [__British Land__](https://en.wikipedia.org/wiki/British_Land) - one of the UK's largest developers, formerly run by British property magnate Sir John Ritblatt (father of Delancey's Jamie Ritblatt).
 
 ![](http://crappistmartin.github.io/images/CanadaWaterSiteC.png)
+
+The following extract from the Area Action Plan confirms that sites F and G (shopping centre/petrol station) and the printworks sites are under freehold ownership of the Council.
+
+![](/img/freeholdownership.png)
+*Extract from the Canada Water Area Action Plan*
 
 As freehold owner of the entire shopping centre and printworks site, Southwark council initially [said](http://www.theguardian.com/media/2012/jun/29/southwark-council-daily-mail-print-works) it was going to block the sale of the printworks lease to British Land, but later backed down. 
 
