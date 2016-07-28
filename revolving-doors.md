@@ -11,7 +11,7 @@ A [report](http://www.spinwatch.org/index.php/component/k2/item/5458-the-local-l
 
 ## Council Officers
 
-<img src="http://betterelephant.org/images/tombranton.jpg" align="left" width="200" height="200">[Tom Branton](http://linkedin.com/pub/tom-branton/26/132/b83) was Southwark's [lead officer](http://euroalert.net/en/contracts.aspx?idl=875833) responsible for the [procurement](http://euroalert.net/en/contracts.aspx?idl=875833) of Lend Lease as Southwark's regeneration partner and who authored the [report](http://moderngov.southwarksites.com/Published/C00000308/M00003633/AI00011300/$ElephantandCastleRegenerationAgreementandDisposalofAssociatedLandReport.docA.ps.pdf) to the Council's cabinet recommending the signing of the regeneration agreement in July 2010.
+<img src="http://betterelephant.org/images/tombranton.jpg" align="left" style="margin:10px" width="200" height="200">[Tom Branton](http://linkedin.com/pub/tom-branton/26/132/b83) was Southwark's [lead officer](http://euroalert.net/en/contracts.aspx?idl=875833) responsible for the [procurement](http://euroalert.net/en/contracts.aspx?idl=875833) of Lend Lease as Southwark's regeneration partner and who authored the [report](http://moderngov.southwarksites.com/Published/C00000308/M00003633/AI00011300/$ElephantandCastleRegenerationAgreementandDisposalofAssociatedLandReport.docA.ps.pdf) to the Council's cabinet recommending the signing of the regeneration agreement in July 2010.
 
 Tom subsequently left the Council in 2011 to start work directly for Lend Lease, where he is now Development Manager for the Elephant & Castle project.
 
