@@ -114,6 +114,10 @@ Southwark's own [consultation](http://35percent.org/img/11000homesconsultation.p
 
 In addition, the Council has [set up](http://www.southwarknews.co.uk/news/southwark-council-to-set-up-own-housing-company/) a Special Purpose Vehicle (SPV) - __Southwark Housing Company Ltd__ - a separate limited company that will own and manage the 11,000 new 'council' homes. This has led to fears that these will be let at higher rents, as is the case where other councils are using SPVs to build 'council' homes - i.e. LB Lambeth. 
 
+The first of this new wave of demolitions is currently being progressed at Canada Water, where several blocks on the Canada Water estate are being redeveloped (the ones overlooking the park). Needless to say, the Council is not delivering on its pledges and residents are [up in arms..](http://www.southwarknews.co.uk/news/windrush-veteran-among-residents-fearing-regeneration-will-see-moved-canada-estate/)
+
+![](/img/edmontonhouse.png)
+*Residents facing decant and displacement from their homes on the Canada Water estate*
 
 ## CPO archive
 Compulsory Purchase Orders are a key part of any estate demolition and require the Council to put forward a _"compelling case in the public interest"_ for demolition. Below are links to archived CPO _Statements of Reasons_ for several estate regenerations to date. They provide an interesting record of the tenuous arguments used to justify demolition, for example: 
