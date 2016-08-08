@@ -128,7 +128,9 @@ Despite its vehement objections to affordable rent, which are enshrined in its p
  
 There is also the quesion of ambiguous definitions in section 106 agreements. Notting Hill Housing's Bermondsey Spa scheme is an example of where this ambiguity has been exploited. We are under no illusion as to its intention with the 'social rented' component of its redevelopment of the Aylesbury estate. We have documented on [this page](/aylesbury-estate) how Notting Hill's GLA funding agreement for the Aylesbury, ties it in any case to the provision of affordable rent rather than social rent. 
 
+This [report](https://www.jrf.org.uk/report/rethinking-planning-obligations-balancing-housing-numbers-and-affordability) from the Joseph Rowntree Foundation found that there is no reliable and consistent data on affordable housing delivery via S106 contributions.
 
+![](/img/JRFreport.jpg)
 
 
 
