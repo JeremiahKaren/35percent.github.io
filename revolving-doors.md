@@ -5,7 +5,7 @@ subtitle: "Southwark Council's links to the development industry"
 sharing: true
 footer: true
 --- 
-A [report](http://www.spinwatch.org/index.php/component/k2/item/5458-the-local-lobby-and-the-failure-of-democracy) by [journalist Anna Minton](http://www.guardian.co.uk/commentisfree/2013/mar/27/reconfiguration-london-akin-social-cleansing) has found that _"20  per  cent  of  Southwark’s  63 councillors work as lobbyists"_ for developers in the planning industry and that a significant number of Councillors and Council officers are making use of a _'well-oiled revolving door'_ to the industry. Here we have documented a few of the most striking examples.
+A [report](http://www.spinwatch.org/index.php/component/k2/item/5458-the-local-lobby-and-the-failure-of-democracy) by journalist Anna Minton has found that _"20  per  cent  of  Southwark’s  63 councillors work as lobbyists"_ for developers in the planning industry and that a significant number of Councillors and Council officers are making use of a _'well-oiled revolving door'_ to the industry. Here we have documented a few of the most striking examples.
 
 ![](http://farm9.staticflickr.com/8244/8637497136_d25afc426a.jpg)
 

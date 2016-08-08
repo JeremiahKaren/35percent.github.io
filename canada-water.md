@@ -9,18 +9,39 @@ The regeneration of Canada Water has been in the news lately. This former dockla
 ![](/img/canadawaterregeneration.png)
 *Sites in pink under freehold ownership of Council*
 
-Sites A&B were [sold](http://moderngov.southwark.gov.uk/documents/s20069/Report%20-%20Improved%20terms%20for%20the%20sale%20of%20sites%20A%20and%20B%20at%20Canada%20Water.pdf) by the Council to Barratt Homes in 2011. We have made an [FOI request](https://www.whatdotheyknow.com/request/canada_water_regeneration_receip?nocache=incoming-842584#incoming-842584) to find out how much the Council sold the land for. 
+Sites A&B were [sold](http://moderngov.southwark.gov.uk/documents/s20069/Report%20-%20Improved%20terms%20for%20the%20sale%20of%20sites%20A%20and%20B%20at%20Canada%20Water.pdf) by the Council to Barratt Homes in 2011. An [FOI request](https://www.whatdotheyknow.com/request/canada_water_regeneration_receip#incoming-848790) shows that the Council received £64m for the land and just £2.5m from its profit share (overage) agreement with Barratt. 
 
-The regeneration has provided a replacement library for the one demolished on Albion street, but provides no further public or transport infrastructure to support the estimated 18,000 new residents and 15,000 new workplaces - NO new schools, NO new child-care facilities, NO new GP clinic or other health-care facilities.
+The regeneration has provided a replacement library for the one demolished on Albion street, but provides no further public or transport infrastructure to support the estimated 18,000 new residents and 15,000 new workplaces - NO new schools, NO new child-care facilities, NO new GP clinic or other health-care facilities. Further, the replacement library cost £14m to build and was entirely funded by the Council without any contributions from developers.
 
 ![](/img/canadawaterlibraries.jpg)
 *Now demolished Rotherhithe Library & Civic Centre (left) - New library(right)*
 
-The reason for the lack of infrastructure planning is partly because the [original masterplan] was drawn up before the Daily Mail printworks announced it would be moving to Thurrock. The original masterplan had also been up to a much lower density and because the tube station works were completed in conjunction with sites A&B, it didn't take into account the possibility of the printworks site being included or the density being increased in general.
+The reason for the lack of infrastructure planning is partly because the [original masterplan](http://www.canadawater.org/maps.html#original) was drawn up before the Daily Mail printworks announced it would be moving to Thurrock. The original masterplan had also been up to a much lower density and because the new tube station was completed in conjunction with sites A&B, it didn't take into account the possibility of the printworks site being included or the density being increased in general. This has led to Canada Water's new tube station being in the [top 10](http://www.standard.co.uk/news/transport/revealed-londons-most-overcrowded-tube-stations-a3277706.html) most overcrowded tube stations in London. 
 
 ## Site D
-224 residential units - 34 'rented affordable'. 
-http://planbuild.southwark.gov.uk/documents/?casereference=01/AP/1095&system=DC
+This first phase of the regeneration saw 224 residential units built by Wimpey homes. The [section 106 agreement](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!4mKWuhZm7mWZRdcrUQtRVQ%3d%3d!%7d%7d%7d) requires 52 of these to be affordable of which 40 social rented, managed by Wandle Housing Association. 
+
+![](/img/sited.png)
+
+## Canada Water Sites A&B
+![](http://crappistmartin.github.io/sitesandb.jpg)
+
+This second phase of the regeneration, branded ['Maple Quays'](http://barrattdevelopments.co.uk/barratt/reports/ar2013/business-review/case-studies/barratt-london-maple-quays.html) comprised 668 residential units by developer Barratt with affordable housing provider [Affinity Sutton](http://www.affinitysutton.com/).
+
+The [planning committee report](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!vAhB%2bWXWLqfrJmcf89aX8A%3d%3d!%7d%7d%7d) for the planning application promised 123 __social rented__ homes:
+ 
+![](http://crappistmartin.github.io//images/CanadaWaterSiteA_OR.png) *[Officer report](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!vAhB%2bWXWLqfrJmcf89aX8A%3d%3d!%7d%7d%7d) for Site A planning permission (ref:09/AP/1870) *
+
+However, when the [section 106 legal agreement](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!x3RgHHSbSY10notKcDq0rQ%3d%3d!%7d%7d%7d) which sealed the permission was drawn up, there was no mention of social rented housing - only __'affordable rent'__ (i.e. 80% market rent):  
+
+![](http://crappistmartin.github.io/images/CanadaWaterS106.png)
+* [S106 Legal agreement](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!x3RgHHSbSY10notKcDq0rQ%3d%3d!%7d%7d%7d) for Site A*
+
+Earlier this year we made an [FOI request](https://www.whatdotheyknow.com/request/canada_water_regeneration_sectio) asking whether the Council had monitored sites A&B to ensure the development was consistent with its planning consent. It responded that the development had not been monitored since it was completed. 
+
+Former Cabinet member for Regeneration Fiona Colley was responsible for overseeing the delivery of sites A&B. She bought (and then sold) no less than two of the new-build flats on this phase off-plan[^1].
+
+
 
 ## Quebec Quarter
 ['Quebec Quarter'](http://www.quebecquarter.co.uk/) is a scheme by [London & Quadrant](http://www.lqgroup.org.uk/) designed by [Alan Camp architects](http://www.alancamp.com/), which borders Quebec Way and overlooks Russia Dock Woodland.
@@ -45,23 +66,7 @@ Besides having emphasised that the social rented units would be truly 'target re
 
 However, according to the Council's planning portal there has been no such viability review, despite the significant increase in property prices since the scheme was consented in 2011.
 
-## Canada Water Sites A&B
-![](http://35percent.org/img/maplequays.jpg)
 
-This first phase of the Canada Water regeneration comprised 9 buildings ranging up to 26 storeys, providing 668 residential units of which 47 are shared ownership and 123 are 'affordable rent' of up to 80% market rent.
-
-The developer was barratts, which has branded the development ['Maple Quays'](http://barrattdevelopments.co.uk/barratt/reports/ar2013/business-review/case-studies/barratt-london-maple-quays.html) and the housing association is 
-[Affinity Sutton](http://www.affinitysutton.com/), which has [come under fire](http://www.theguardian.com/culture/2015/mar/05/eddie-izzard-locks-horns-landlords-chelsea-social-housing-estate) elsewhere for abandoning its social aims in favour of more corporate ones. 
-
-The [planning case report](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!vAhB%2bWXWLqfrJmcf89aX8A%3d%3d!%7d%7d%7d) for the planning application behind this development, informed the general public and committee members that it would provide 123 __social rented__ homes:
- 
-![](http://crappistmartin.github.io/images/CanadaWaterSiteA_OR.png)
-
-However, when the [section 106 legal agreement](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!x3RgHHSbSY10notKcDq0rQ%3d%3d!%7d%7d%7d) was drawn up, there was no mention of social rented housing - only __'affordable rent'__ (i.e. 80% market rent):  
-
-![](http://crappistmartin.github.io/images/CanadaWaterS106.png)
-
-Former Cabinet member for Regeneration Fiona Colley was responsible for overseeing the delivery of sites A&B. She was so happy with the scheme that she bought (and then sold) no less than two of the new-build flats on this phase off-plan[^1].
 
 ## Canada Water Sites C&E
 

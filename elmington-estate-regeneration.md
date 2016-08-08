@@ -41,8 +41,6 @@ Having made promises of a 'right to return' to former tenants, [this Council rep
 
 ![](https://pbs.twimg.com/media/Cf_uVcCWQAAWZuF.jpg)
 
-Phase 1 and 2 comprised a total of 375 council homes, of which only 136 have been replaced.
-
 ## Phase 3
 Phase 3 involves the demolition of 144 council homes (of which 31 leaseholders) and a number of existing Elmington blocks which have been refurbished (blocks F,H,J & K).
 In July 2012, the Council's Cabinet [resolved](http://moderngov.southwark.gov.uk/documents/s30291/Report%20Disposal%20of%20the%20Councils%20freehold%20interest%20in%20Elmington%20estate%20sites%20C%20D%20E%20and%20G%20Camberw.pdf) to sell remaining sites C,D,E and G to developer Bellway Homes on the basis that replacement 1&2 bed 'social' housing would be affordable rent, capped at 65% market rent. These will be managed by [Family Mosaic](http://www.familymosaic.co.uk/home/index.html) - a housing assocation that features in our [list](http://35percent.org/img/section106_tenure_breaches.pdf) of those who have delivered affordable rent instead of social rent approved in the planning consent. 
@@ -62,20 +60,20 @@ In 2015 the Council served the Compulsory Purchase Order on Site E and submitted
 
 Tenants and leaseholders are currently being 'decanted' i.e. [evicted](https://housingactionsouthwarkandlambeth.wordpress.com/2015/05/05/eviction-resistance-success-in-camberwell/) from these phases ahead of demolition. Tenants are still being promised a 'right to return' to the new homes, but are not being told that the replacement 'social' housing will be three times the level of Council rents. Leaseholders are being offered shared ownership deals on the replacement homes, but the [rent and repayments](http://crappistmartin.github.io/images/CamberwellFields.pdf) on these requires a minimum household income of at least £50k.
 
-![](https://pbs.twimg.com/media/Cg-Ek6uWgAAMaoF.jpg)
-*Sites C & D being demolished*
+![](/img/elmingtongreen.jpg)
+*Sites C & D being demolished to make way for _Elmington Green_*
 
 ## Net loss
 Phases 1&2 (375 demolished) 136 replaced on phase 1; 22 on phase 2 (affordable rent) 
 Phase 3 (144 demolished) - 57 social rented replacements.
 
-Even counting affordable rent as replacement 'social' housing - we have a net loss of 323 units across the estate.
+Even if we were to count affordable rent as replacement 'social' housing - we have a net loss of 323 social rented units across the estate.
 
 ## The costs vs the benefits
 In 2009, the Council [estimated](http://moderngov.southwark.gov.uk/documents/s9280/Executive%20report.pdf) that refurbishing the estate would cost a total of £10m. 
 
 By 2016, the Council had [spent](https://www.whatdotheyknow.com/request/cost_to_date_of_elmington_estate?unfold=1#incoming-796509) £6.5m just on decanting and demolishing sites A&B.
 
-Some [Land Registry deeds](/img/ElmingtonLR.pdf) show that the Council has sold off parcels of sites A&B to Notting Hill for just £1.
+Some [Land Registry deeds](/img/ElmingtonLR.pdf) show that the Council has sold off some parcels of land in sites A&B to Notting Hill for just £1.
 
-Other [Land registry deeds](http://crappistmartin.github.io/images/LRegisterElmingtonAandB.pdf) suggest that the Council has sold the largest parcel of sites A&B to Notting Hill for £11m.
+Other [Land registry deeds](http://crappistmartin.github.io/images/LRegisterElmingtonAandB.pdf) suggest that the Council has sold the largest parcel of land in sites A&B to Notting Hill for £11m.
