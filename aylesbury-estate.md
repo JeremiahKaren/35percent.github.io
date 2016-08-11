@@ -144,15 +144,20 @@ The AAAP goes on to explain possible scenarios for bridging the funding gap shou
 
 Development schemes in Southwark are currently [delivering](http://35percent.org/2016-05-07-southwark-in-bottom-3-boroughs-for-affordable-housing-delivery/) on average 3% affordable housing, largely with social rent substituted for affordable rent. So we find it hard to believe that Notting Hill can deliver a scheme with 50% affordable housing comprising 75% social rent. We find it even more difficult to believe that Notting Hill is also expecting to extract a 15% profit margin (representing ca. £150m) and Southwark is also expecting to receive payments for the land. 
 
-Despite its new [transparency policy](http://www.southwark.gov.uk/news/article/2062/viability_assessments_must_be_published_in_southwark_%E2%80%93_consultation_launched) the Council rejected our FOI request for a copy of Notting Hill's viability assessment for the Aylesbury redevelopment. Despite being a registered charity, Notting Hill has claimed commercial confidentiality as the grounds for its redactions. In April 2016, the Information Commissioner [upheld our complaint](https://ico.org.uk/media/action-weve-taken/decision-notices/2016/1624349/fs_50589692.pdf) and directed Southwark Council to disclose the unredacted viability report. The [viability assessment](/img/document.pdf) reveals that Notting Hill expects to make a minimum £190m profit from the scheme, while Southwark will receive just £68m for the sale of the estate. 
+Despite its new [transparency policy](http://www.southwark.gov.uk/news/article/2062/viability_assessments_must_be_published_in_southwark_%E2%80%93_consultation_launched) the Council rejected our FOI request for a copy of Notting Hill's viability assessment for the Aylesbury redevelopment. Despite being a registered charity, Notting Hill has claimed commercial confidentiality as the grounds for its redactions. In April 2016, the Information Commissioner [upheld our complaint](https://ico.org.uk/media/action-weve-taken/decision-notices/2016/1624349/fs_50589692.pdf) and directed Southwark Council to disclose the unredacted viability report. The [viability assessment](/img/document.pdf) reveals that Notting Hill will make a minimum (guaranteed) 21% profit from the scheme, expected to amount to £163m, while Southwark will receive staged land payments calculated as a residual value once scheme costs and Notting Hill's 21% profit has been deducted. The assessment shows that this is currently expected to amount to just £51m. 
 
 ![](/img/profitshare.png)
 
-It's important to note that Notting Hill won't be building the new homes. This has been [contracted](http://www.nottinghillhousing.org.uk/our-developments/aylesbury-estate-southwark) to Barratt Homes in a joint-venture agreement, which will see Barratt also receive a healthy slice of the profits. Before Notting Hill takes its slice, Barratt will receive a 21% priority return and half the remaining profit from the sale of private units in the development.
+Southwark does have the benefit of a planning overage clause where it receives 50% of any overage sales profit, but this is only triggered once sales values exceed £471 per sqft[^5]. 
+
+It's important to note that Notting Hill won't be building the new homes. This has been [contracted](http://www.nottinghillhousing.org.uk/our-developments/aylesbury-estate-southwark) to Barratt Homes in a joint-venture agreement, which will see Barratt also receive a healthy slice of the profits. The development agreement gives Barratt half of the Gross Development Value (based on £451 per sqft) less Notting Hill's 21% guaranteed profit. According to Notting Hill's [viability assessment](/img/document.pdf) this amounts to £300m[^6].
 
 ![](http://35percent.org/img/barratprofit.png)
 
-The Council has [argued](http://www.southwark.gov.uk/news/article/2041/brand_new_library_plans_take_next_step_on_aylesbury) that the regeneration is providing public benefits including a new (replacement) library, a new (replacement) GP clinic, and new (replacement) nursery facilities. But what is not publicised is the fact that these are all being funded 100% by the Council, they are not being funded by Notting Hill or its development partner Barratt.
+The Council has [argued](http://www.southwark.gov.uk/news/article/2041/brand_new_library_plans_take_next_step_on_aylesbury) that the regeneration is [providing public benefits](http://www.aylesburynow.london/news/posts/new-public-square-moves-one-step-closer) including a new library, a new GP clinic, and new nursery facilities. But what is not publicised is the fact that these are all being funded 100% by the Council, they are not being funded by Notting Hill or its development partner Barratt. Neither is it explained that these new facilities are replacements for the those closed down or demolished by the Council.
+
+![](http://35percent.org/img/aylesburymedicalcentreandlibrary.jpg)
+*Existing Aylesbury Medical Centre (left) East St Library (centre) Wells Way Library (right)*
 
 In conclusion, the Aylesbury redevelopment is not viable. It is only being made viable via a combination of huge public subsidy from the Council, shortchanging the leaseholders and substituting social for affordable rented tenure.
 
@@ -206,3 +211,6 @@ __Footnotes:__
 
 [^4]: See paragraph 17 of [this council report](http://moderngov.southwark.gov.uk/documents/s52089/Report)
 
+[^5]: Paragraph 39 of the closed version of [this April 2014 Chief Executive report](http://moderngov.southwark.gov.uk/ieDecisionDetails.aspx?Id=4612) _"39.  At sales values over £471 per ft² the Council will receive 50% of the profit."_
+
+[^6]: Paragraph 19 of the closed version of the above closed report says _"Barratt will agree to pay NHHT at practical completion half of the private sale Gross Development Value (based on £451 per sqft) less 21% which they retain in profit."_
