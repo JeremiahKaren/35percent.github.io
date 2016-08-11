@@ -157,7 +157,7 @@ It's important to note that Notting Hill won't be building the new homes. This h
 The Council has [argued](http://www.southwark.gov.uk/news/article/2041/brand_new_library_plans_take_next_step_on_aylesbury) that the regeneration is [providing public benefits](http://www.aylesburynow.london/news/posts/new-public-square-moves-one-step-closer) including a new library, a new GP clinic, and new nursery facilities. But what is not publicised is the fact that these are all being funded 100% by the Council, they are not being funded by Notting Hill or its development partner Barratt. Neither is it explained that these new facilities are replacements for the those closed down or demolished by the Council.
 
 ![](http://35percent.org/img/aylesburymedicalcentreandlibrary.jpg)
-*Existing Aylesbury Medical Centre (left) East St Library (centre) Wells Way Library (right)*
+*Existing Aylesbury Medical Centre (left) East St Library, Wells Way Library, Early Learning Centre (right)*
 
 In conclusion, the Aylesbury redevelopment is not viable. It is only being made viable via a combination of huge public subsidy from the Council, shortchanging the leaseholders and substituting social for affordable rented tenure.
 

@@ -24,7 +24,7 @@ Southwark likes to claim that the new facilities are funded by financial contrib
 The [new library and health centre](http://www.aylesburynow.london/news/posts/new-public-square-moves-one-step-closer) to be built on the redeveloped [Aylesbury estate](/aylesbury-estate) are direct replacements for the existing medical centre which is being demolished and the East St library and Wells Way library which are being closed. Furthermore, the [new library and health centre](http://www.aylesburynow.london/news/posts/new-public-square-moves-one-step-closer) is being entirely funded by Southwark Council. Its development partners Notting Hill and Barratt Homes are not making any contribution towards them at all.
 
 ![](/img/aylesburymedicalcentreandlibrary.jpg)
-*Existing Aylesbury Medical Centre (left) East St Library (centre) Wells Way Library (right)* 
+*Existing Aylesbury Medical Centre (left) East St Library, Wells Way Library, Aylesbury Learning Centre (right)* 
 
 Likewise, the new Camberwell library is a replacement of the one that was closed down in 2015.
 
