@@ -72,6 +72,8 @@ However, according to the Council's planning portal there has been no such viabi
 
 ![](http://media.timeout.com/images/101432507/617/347/image.jpg)
 
+![](/img/cande.png)
+
 Sites C&E are the footprint of the former Decathlon sports superstore and garden centre behind it. The site was purchased with extant planning permission by Shard developer Sellar in 2010 for £16m. 
 
 The [extant permission](http://planbuild.southwark.gov.uk/documents/?casereference=09/AP/1783&system=DC) was for 430 homes of which 74 would be social rented. Southwark council had stood firm on this original application by [insisting](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!CFyLnDePeJAeI7ElqRPpKA%3d%3d!%7d%7d%7d) that the site could support 28% affordable housing at the policy compliant tenure mix (shared ownership/social rented).

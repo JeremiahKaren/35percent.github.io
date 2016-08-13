@@ -4,11 +4,11 @@ title: "Aylesbury Estate"
 sharing: true
 footer: true
 ---
-The Aylesbury estate regeneration was initiated by Tony Blair as part of New Labour's '[Urban Task Force](http://en.wikipedia.org/wiki/Towards_an_Urban_Renaissance)' inner-city renewal programme. He chose the Aylesbury as the location for his inaugural ['forgotten people'](https://www.youtube.com/watch?v=q_HGgT--AGs) speech, directly after being voted in as prime minister in 1997.
+The Aylesbury estate regeneration was initiated by Tony Blair as part of New Labour's '[Urban Task Force](http://en.wikipedia.org/wiki/Towards_an_Urban_Renaissance)' inner-city renewal programme. He chose the Aylesbury as the location for his inaugural ['forgotten people'](https://www.youtube.com/watch?v=q_HGgT--AGs) speech, directly after being voted in as prime minister in 1997. He visited the estate again in 2005, shortly before the Cabinet decision was made to proceed with the redevelopment.
 
 ![](http://static.guim.co.uk/sys-images/Guardian/Pix/pictures/2010/12/26/1293402722326/Tony-Blair-at-the-Aylesbu-007.jpg)
 
-It was subsequently awarded £56m funding under the ['New Deal for Communities'](http://en.wikipedia.org/wiki/New_Deal_for_Communities) partnership as part of Blair's urban renewal programme.  
+The project was subsequently awarded £56m funding under the ['New Deal for Communities'](http://en.wikipedia.org/wiki/New_Deal_for_Communities) partnership as part of Blair's urban renewal programme.  
 
 ## Failed Ballot
 ![](http://betterelephant.org/images/novote.png)
@@ -144,7 +144,7 @@ The AAAP goes on to explain possible scenarios for bridging the funding gap shou
 
 Development schemes in Southwark are currently [delivering](http://35percent.org/2016-05-07-southwark-in-bottom-3-boroughs-for-affordable-housing-delivery/) on average 3% affordable housing, largely with social rent substituted for affordable rent. So we find it hard to believe that Notting Hill can deliver a scheme with 50% affordable housing comprising 75% social rent. We find it even more difficult to believe that Notting Hill is also expecting to extract a 15% profit margin (representing ca. £150m) and Southwark is also expecting to receive payments for the land. 
 
-Despite its new [transparency policy](http://www.southwark.gov.uk/news/article/2062/viability_assessments_must_be_published_in_southwark_%E2%80%93_consultation_launched) the Council rejected our FOI request for a copy of Notting Hill's viability assessment for the Aylesbury redevelopment. Despite being a registered charity, Notting Hill has claimed commercial confidentiality as the grounds for its redactions. In April 2016, the Information Commissioner [upheld our complaint](https://ico.org.uk/media/action-weve-taken/decision-notices/2016/1624349/fs_50589692.pdf) and directed Southwark Council to disclose the unredacted viability report. The [viability assessment](/img/document.pdf) reveals that Notting Hill will make a minimum (guaranteed) 21% profit from the scheme, expected to amount to £163m, while Southwark will receive staged land payments calculated as a residual value once scheme costs and Notting Hill's 21% profit has been deducted[^5]. The assessment shows that this is currently expected to amount to just £51m. 
+Despite its new [transparency policy](http://www.southwark.gov.uk/news/article/2062/viability_assessments_must_be_published_in_southwark_%E2%80%93_consultation_launched) the Council rejected our FOI request for a copy of Notting Hill's viability assessment for the Aylesbury redevelopment. Despite being a registered charity, Notting Hill has claimed commercial confidentiality as the grounds for its redactions. In April 2016, the Information Commissioner [upheld our complaint](https://ico.org.uk/media/action-weve-taken/decision-notices/2016/1624349/fs_50589692.pdf) and directed Southwark Council to disclose the unredacted viability report. The disclosed [viability assessment](/img/document.pdf) reveals that Notting Hill will make a minimum (guaranteed) 21% profit from the scheme, expected to amount to £163m, while Southwark will receive staged land payments calculated as a residual value once scheme costs and Notting Hill's 21% profit has been deducted[^5]. The assessment shows that this is currently expected to amount to just £51m. 
 
 ![](/img/profitshare.png)
 
