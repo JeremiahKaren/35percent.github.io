@@ -296,6 +296,13 @@ subtitle: Summary of regeneration schemes
 <img src="http://www.constructionenquirer.com/wp-content/uploads/Screen-Shot-2015-10-06-at-11.00.45-600x414.png" width="100" align="left">
 </article>
 
+<article class="post-preview">
+  
+<h1><a href="/old-kent-road/">Old Kent Road</a></h1>
+
+<img src="http://35percent.org/img/old-kent-road.png" width="100" align="left">
+</article>
+
 </div>
 
 
