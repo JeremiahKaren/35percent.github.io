@@ -74,7 +74,7 @@ However, according to the Council's planning portal there has been no such viabi
 
 ![](/img/cande.png)
 
-![Land Registry docs for 2003 sale](/img/LRSitesCandE.pdf)
+[Land Registry docs for 2003 sale](/img/LRSitesCandE.pdf)
 
 Sites C&E are the footprint of the former Decathlon sports superstore and garden centre behind it. The site was purchased with extant planning permission by Shard developer Sellar in 2010 for £16m. 
 
