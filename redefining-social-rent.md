@@ -113,10 +113,10 @@ The [planning committee report](http://planbuild.southwark.gov.uk/documents/?Get
 The London & Brigton Pub on the corner of Queen's Road/Asylum Road in Peckham dated back to 1863. The pub was demolished in 2013 after Wandle housing association was granted planning permission for a development which would provide 12 new homes, of which 6 would be much-needed affordable homes for Southwark residents and 3 of these would be social rent. However, the government's [CORE system](https://core.communities.gov.uk/) for social housing lettings data shows that these 3 homes have been let at affordable rent of up to 80% market rent, rather than social rent. 
 
 ![](/img/londonbrightonqueensroad.jpg)
-*Demolished London & Brighton pub replaced by Wandle flats.
+*Demolished London & Brighton pub replaced by Wandle flats.*
 
-## Royal Road (Heygate replacement housing site - 09/AP/2388)
-This development was built on the site of a former old people's home. The Council gave the site to Affinity Sutton housing association as it was supposed to be a replacement housing site for decanted Heygate tenants. The site was completed 5 years after the last Heygate tenant was decanted and the 76 social rented homes consented were described as 'affordable rent' in the S106 agreement. The government's CORE system is showing only 45 units let at social rents at this site.
+## Royal Road, Kennington (09/AP/2388)
+This development was built on the site of a former old people's home. The Council sold the site (at cost) to Affinity Sutton housing association as it was designated as a replacement housing site for decanted Heygate tenants. The development was completed 5 years after the last Heygate tenant was decanted and the 76 social rented homes consented were described as 'affordable rent' in the S106 agreement. The government's CORE system is showing only 45 units let at social rents at this site.
 
 ![](/img/royalroad.jpg)
 
@@ -137,9 +137,11 @@ Notting Hill Housing was supposed to provide 22 social rented homes as part of i
 ## The future
 Despite its vehement objections to affordable rent, which are enshrined in its planning policy, Southwark Council is allowing affordable rent to be substituted for social rent. Not only is affordable rent being delivered where social rent was required by planning consent, but [planning applications proposing affordable rent](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!MWINWqCKxftA59dMPpEkdQ%3d%3d!%7d%7d%7d) are being approved as policy compliant.  
  
-There is also the quesion of ambiguous definitions in section 106 agreements. Notting Hill Housing's Bermondsey Spa scheme is an example of where this ambiguity has been exploited. We are under no illusion as to its intention with the 'social rented' component of its redevelopment of the Aylesbury estate. We have documented on [this page](/aylesbury-estate) how Notting Hill's GLA funding agreement for the Aylesbury, ties it in any case to the provision of affordable rent rather than social rent. 
+There is also the quesion of ambiguous definitions in section 106 agreements. Notting Hill Housing's Bermondsey Spa scheme is an example of where this ambiguity has been exploited. We are under no illusion as to its intention with the 'social rented' component of its redevelopment of the Aylesbury estate. We have documented on [this page](/aylesbury-estate) how Notting Hill's GLA funding agreement for the Aylesbury enables the provision of affordable rent rather than social rent. 
 
-This [report](https://www.jrf.org.uk/report/rethinking-planning-obligations-balancing-housing-numbers-and-affordability) from the Joseph Rowntree Foundation found that there is no reliable and consistent data on affordable housing delivery via S106 contributions.
+In July 2016 we finally received a [response](/img/complaintresponseMWilliams.pdf) from Southwark Council to our complaint. We were very disappointed to discover that the Council hadn't actually investigated what tenures actually been delivered on the sites we identified (it had merely insisted that the S106 agreement wording for each site is sound). We subsequently [referred](/img/Ombudsman18July2016.pdf) our complaint the Local Government Ombudsman. In August 2016, we received notification that the Ombudsman had decided to investigate our complaint - watch this space!
+
+Meanwhile, we have met with Sian Berry assembly member at the GLA who has offered to help us look further into the problem of S106 monitoring, as we don't think that it is limited just to Southwark. This [report](https://www.jrf.org.uk/report/rethinking-planning-obligations-balancing-housing-numbers-and-affordability) from the Joseph Rowntree Foundation found that there is no reliable and consistent data on affordable housing delivery via S106 contributions.
 
 ![](/img/JRFreport.jpg)
 
