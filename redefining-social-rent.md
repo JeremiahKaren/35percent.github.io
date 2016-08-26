@@ -104,10 +104,21 @@ The [planning committee report](http://planbuild.southwark.gov.uk/documents/?Get
 *Hyde Housing's 126 Spa Road development on former council land*
 
 ## Bermondsey Spa Site C (Grange Yard) 
-The [planning committee report](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b%21NSTsGbiMYYs7hVWdLHOlOA%3d%3d%21%7d%7d%7d) (14/AP/2102) for this Linden Homes development (on former [council-owned land](/bermondsey-spa-regeneration) confirms that this site was to provide 167 residential units, of which 34 were to be social rent. The GLA dataset lists this scheme (under Leicester Housing association) with rents at affordable rents of 52% market rent.
+The [planning committee report](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b%21NSTsGbiMYYs7hVWdLHOlOA%3d%3d%21%7d%7d%7d) (14/AP/2102) for this Linden Homes development (on former [council-owned land](/bermondsey-spa-regeneration) confirms that this site was to provide 167 residential units, of which 34 were to be social rent. However, housing association Wandle's [brochure](/img/wandlebrochure.pdf) lists these 34 units as affordable rent. 
 
 ![](/img/lindenhomesbs.jpg)
 *Linden Homes Grange Yard development*
+
+## London & Brighton Pub, Queens Rd Peckham (10/AP/3239)
+The London & Brigton Pub on the corner of Queen's Road/Asylum Road in Peckham dated back to 1863. The pub was demolished in 2013 after Wandle housing association was granted planning permission for a development which would provide 12 new homes, of which 6 would be much-needed affordable homes for Southwark residents and 3 of these would be social rent. However, the government's [CORE system](https://core.communities.gov.uk/) for social housing lettings data shows that these 3 homes have been let at affordable rent of up to 80% market rent, rather than social rent. 
+
+![](/img/londonbrightonqueensroad.jpg)
+*Demolished London & Brighton pub replaced by Wandle flats.
+
+## Royal Road (Heygate replacement housing site - 09/AP/2388)
+This development was built on the site of a former old people's home. The Council gave the site to Affinity Sutton housing association as it was supposed to be a replacement housing site for decanted Heygate tenants. The site was completed 5 years after the last Heygate tenant was decanted and the 76 social rented homes consented were described as 'affordable rent' in the S106 agreement. The government's CORE system is showing only 45 units let at social rents at this site.
+
+![](/img/royalroad.jpg)
 
 ## BERMONDSEY SPA SITE C5 (10/AP/3010)
 This application was made by Notting Hill Housing Trust, for the redevelopment of 54 council homes as part of the Bermondsey Spa regeneration and was approved by planning committee On 21st December 2010. Permission allowed for the demolition of a number of Council homes and construction of 205 new homes, some commercial and community premises and associated works. 
@@ -118,7 +129,7 @@ This is the one scheme that the Council has responded to in our complaint. It co
 *Notting Hill's "The Exchange" - 205 unit Bermondsey Spa redevelopment*
 
 ## Silwood estate regeneration Site 4B (11/AP/0139)
-Notting Hill Housing was supposed to provide 22 social rented homes as part of its [redevelopment of the Silwood estate](/silwood-estate-regeneration) involving the demolition of 57 council homes and construction of 127 new homes. The the definition of social rented in the section 106 agreement is worded as affordable rent and these are showing up in the GLA data as having been provided as affordable rent. The GLA data only provides indicative rent levels and the levels given in 2013 as part of its funding bid are not too far off social rents, but we don't know what the actual rent levels charged are. Both the Council and Notting Hill have refused to our repeated requests for a schedule of acutal rents for the 22 'social rented' units. 
+Notting Hill Housing was supposed to provide 22 social rented homes as part of its [redevelopment of the Silwood estate](/silwood-estate-regeneration) involving the demolition of 57 council homes and construction of 127 new homes. The the definition of social rented in the section 106 agreement is worded as affordable rent and the [CORE lettings data system](https://core.communities.gov.uk/) shows that only 19 units have been let at social rent levels. 
 
 ![](/img/silwoodstreet.png)
 *Redeveloped Silwood estate*
