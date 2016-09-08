@@ -22,4 +22,4 @@ MP Simon Hughes [investigated](http://www.independent.co.uk/news/uk/politics/lib
 
 >Mr Hughes had attempted to arrange meetings with fellow MPs and councillors to discuss the "Rotherhithe New Road regeneration project", put forward by SCCD Developments – which owns Southwark Metals.
 
-
+![](/img/bworks.jpg)

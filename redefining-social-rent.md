@@ -106,7 +106,7 @@ The [planning committee report](http://planbuild.southwark.gov.uk/documents/?Get
 ## Bermondsey Spa Site C (Grange Yard) 
 The [planning committee report](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b%21NSTsGbiMYYs7hVWdLHOlOA%3d%3d%21%7d%7d%7d) (14/AP/2102) for this Linden Homes development (on former [council-owned land](/bermondsey-spa-regeneration) confirms that this site was to provide 167 residential units, of which 34 were to be social rent. However, housing association Wandle's [brochure](/img/wandlebrochure.pdf) lists these 34 units as affordable rent. 
 
-![](/img/lindenhomesbs.jpg)
+![](/img/lhomes.jpg)
 *Linden Homes Grange Yard development*
 
 ## London & Brighton Pub, Queens Rd Peckham (10/AP/3239)
