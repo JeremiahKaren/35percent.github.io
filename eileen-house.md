@@ -19,4 +19,4 @@ The architects for the scheme are Allies Morrison - a company of which [Southwar
 
 The planning advisors and planning agent for the scheme was __Four Communications__, a company [founded](http://betterelephant.org/blog/2014/10/19/gamekeepers-turned-poachers/) by former Lambeth council leader Jeremy Fraser and former Southwark Cabinet member for Regeneration Steve Lancashire.
 
-The development has now been rebranded [__'Two Fifty One London'__](http://www.twofiftyonelondon.com/home/).
+The development has now been rebranded [__'Two Fifty One London'__](http://www.twofiftyonelondon.com/home/). In July 2016 the development went on sale in Bahrain, with flats marketed as including a private cinema. The [marketing pitch](http://www.arabianknightonline.com/Details/1600/London-luxury-apartments-go-on-sale) is clearly aimed at investors rather than prospective owner occupiers: _"The £3 billion regeneration of Elephant and Castle is being billed as a huge draw for investors who want to benefit from long-term capital growth."_
