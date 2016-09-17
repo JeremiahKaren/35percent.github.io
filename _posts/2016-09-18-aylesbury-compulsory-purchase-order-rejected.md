@@ -1,6 +1,8 @@
 ---
 title: "Victory for Aylesbury Leaseholders"
 subtitle: "Government blocks compulsory purchase order"
+layout: post
+published: true
 ---
 ![](http://35percent.org/img/alag.png)
 
@@ -10,7 +12,7 @@ The judgement is a humiliating blow to the Council, who are found to have not ta
 
 The Government therefore refused to override the leaseholders' interests and interfere with their human rights by forcing them to sell their homes. The decision was taken by the Secretary of State for the Department of Communities and Local Government (DCLG), Sajid Javid.
 
-Eleven leaseholders objected to the CPO and a gruelling hearings before the DCLG inspector were heard in [April](http://35percent.org/2015-05-02-aylesbury-estate-compulsory-purchase-order-public-inquiry/), [May](http://35percent.org/2015-05-16-aylesbury-cpo-inquiry-extra-time/) and [October 2015](. The leaseholders live in the Bradenham, Chartridge, Arklow and Chiltern blocks - the 'First Development Site' (FDS), which was [granted] planning permission in xxx 2015. Over 200 leaseholders have been decanted to make way for the scheme to date, only 3 of whom have been rehoused on the Aylesbury. There are around 300 leaseholders remaining on the rest of the estate. 
+Eleven leaseholders objected to the CPO and a gruelling hearings before the DCLG inspector were heard in [April](http://35percent.org/2015-05-02-aylesbury-estate-compulsory-purchase-order-public-inquiry/), [May](http://35percent.org/2015-05-16-aylesbury-cpo-inquiry-extra-time/) and [October 2015](http://35percent.org/2015-10-12-notting-hill-comes-clean/#aylesbury-cpo-inquiry-resumes). The leaseholders live in the Bradenham, Chartridge, Arklow and Chiltern blocks - the 'First Development Site' (FDS), which was [granted] planning permission in xxx 2015. Over 200 leaseholders have been decanted to make way for the scheme to date, only 3 of whom have been rehoused on the Aylesbury. There are around 300 leaseholders remaining on the rest of the estate. 
 
 ![](http://35percent.org/img/cpoinquiry.png)
 *2015 Aylesbury CPO Public Inquiry - Council lawyers (left), Inspector Coffey, Aylesbury leaseholders (right)*
