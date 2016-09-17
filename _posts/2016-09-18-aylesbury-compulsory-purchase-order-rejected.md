@@ -46,3 +46,8 @@ __Footnotes:__
 [^1]: See paragraph 17 of the [Tues Sep 20th 2016 Cabinet report](http://moderngov.southwark.gov.uk/documents/s63817/Report.Aylesbury%20Regeneration%20Delivery.pdf)
 
 [^2]: See paragraph 13 of the [Tues Sep 20th 2016 Cabinet report](http://moderngov.southwark.gov.uk/documents/s63817/Report.Aylesbury%20Regeneration%20Delivery.pdf)
+
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:title" content="CPO Victory for Aylesbury Leaseholders" />
+<meta name="twitter:description" content="Aylesbury estate leaseholders win legal fight against demolition of their homes" />
+<meta name="twitter:image" content="http://35percent.org/img/alag.png" />
