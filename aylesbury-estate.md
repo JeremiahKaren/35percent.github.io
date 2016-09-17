@@ -120,12 +120,12 @@ One fact that receives little mention in the CPO papers is that the Aylesbury es
 *One block of over 300 red brick properties on the Aylesbury estate*
 
 ## Bridging the (viability) gap
-Documents show that the Aylesbury redevelopment scheme is not viable and that the viability gap is being bridged by ripping off leaseholders. In Jan 2009, the [draft Aylesbury Area Action Plan](/img/DraftAAAP.pdf) showed that there was a funding shortfall of £299m, i.e. this is what the cost of the regeneration scheme to the Council would be.
+Documents show that the Aylesbury redevelopment scheme is not viable and that the viability gap is being bridged by shortchanging leaseholders. In Jan 2009, the [draft Aylesbury Area Action Plan](/img/DraftAAAP.pdf) showed that there was a funding shortfall of £299m.
 
 ![](/img/DraftAAAP_appendices.png) 
 *Page 92 of the [appendices](/img/DraftAAAP_appendices.pdf) to the [draft AAAP](/img/DraftAAAP.pdf)*
 
-However, one of the requirements of an Area Action Plan is that it must be shown to be viable and therefore deliverable. The inspector flagged up the funding gap and viability problem to the Council and her [final report](/img/AAAP_inspectors_report.pdf) on the AAAP shows that the Council's solution was to arbitrarily slash the cost estimates, without providing any evidence base or justification for doing so. For example, the £130m estimated for leasehold acquisitions of the 482 leasehold properties on the estate was slashed by half, with no explanation as to why it suddenly dropped its estimate of the market value of leaseholders' homes by 50% overnight. 
+However, one of the requirements of an Area Action Plan is that it must be shown to be viable and therefore deliverable. The inspector flagged up the significant funding gap to the Council and her [final report](/img/AAAP_inspectors_report.pdf) on the AAAP shows that the Council's solution was to arbitrarily slash the cost estimates, without providing any evidence base or justification for doing so. The £130m originally estimated for leasehold acquisitions of the circa 500 leasehold properties on the estate was slashed by half. There is no explanation as to why the Council slashed its estimate of the market value of leaseholders' homes by 50% overnight. 
 
 ![](/img/Recommended_Changes.png)
 *[Table of Recommended Changes to AAAP (2009)](/img/Table_of_Recommended_Changes.pdf) showing cost estimates slashed* 
