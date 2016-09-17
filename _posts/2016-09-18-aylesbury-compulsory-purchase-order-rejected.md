@@ -50,4 +50,4 @@ __Footnotes:__
 <meta name="twitter:card" content="summary" />
 <meta name="twitter:title" content="CPO Victory for Aylesbury Leaseholders" />
 <meta name="twitter:description" content="Aylesbury estate leaseholders win legal fight against demolition of their homes" />
-<meta name="twitter:image" content="http://35percent.org/img/alag.png" />
+<meta name="twitter:image" content="http://35percent.org/img/cpoinquiry2.png" />
