@@ -1,8 +1,11 @@
 ---
+
 title: "Victory for Aylesbury Leaseholders"
 subtitle: "Government blocks compulsory purchase order"
 layout: post
 published: true
+categories: [Aylesbury regeneration, Estate regeneration]
+
 ---
 ![](http://35percent.org/img/alag.png)
 
