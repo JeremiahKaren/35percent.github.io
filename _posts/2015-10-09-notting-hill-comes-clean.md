@@ -33,7 +33,12 @@ But the figures don’t lie and while Southwark keeps council rents in the borou
 
 ![](http://crappistmartin.github.io/images/lbs_keepingrentslow.png)
 
-We'll be voicing our discontent by supporting the objectors at the [Aylesbury CPO Inquiry](/2015-05-02-aylesbury-estate-compulsory-purchase-order-public-inquiry/), which resumes back at [the Den](http://www.millwallfc.co.uk/tickets/how0-to-get-here/) tomorrow. The Inquiry kicks off at 10am on Tuesday & Wednesday - come and lend your support to the [Aylesbury leaseholders](http://halag.wordpress.com) who are fighting for their homes. 
+## Aylesbury CPO Inquiry resumes
+We raised the issue of rent levels at the resumption of the [Aylesbury CPO Inquiry](/2015-05-02-aylesbury-estate-compulsory-purchase-order-public-inquiry/). You can see barrister Chris Jacob's closing statement outlining the issue of rent levels here: 
+
+<iframe width="400" height="225" src="https://www.youtube.com/embed/hC898Rm9rW0" frameborder="0" allowfullscreen></iframe>
+
+More footage from the Public Inquiry is also available online via [this link](https://www.youtube.com/playlist?list=PLHRf7Up774EnVkhes9K_4q9VUlLZtcwOo). 
 
 
 

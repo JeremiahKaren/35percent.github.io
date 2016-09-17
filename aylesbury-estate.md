@@ -120,7 +120,7 @@ One fact that receives little mention in the CPO papers is that the Aylesbury es
 *One block of over 300 red brick properties on the Aylesbury estate*
 
 ## Bridging the (viability) gap
-In Jan 2009, the [draft Aylesbury Area Action Plan](/img/DraftAAAP.pdf) showed that there was a funding shortfall of £299m, i.e. this is what the cost of the regeneration scheme to the Council would be.
+Documents show that the Aylesbury redevelopment scheme is not viable and that the viability gap is being bridged by ripping off leaseholders. In Jan 2009, the [draft Aylesbury Area Action Plan](/img/DraftAAAP.pdf) showed that there was a funding shortfall of £299m, i.e. this is what the cost of the regeneration scheme to the Council would be.
 
 ![](/img/DraftAAAP_appendices.png) 
 *Page 92 of the [appendices](/img/DraftAAAP_appendices.pdf) to the [draft AAAP](/img/DraftAAAP.pdf)*
