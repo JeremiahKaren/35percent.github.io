@@ -40,9 +40,9 @@ The council also insists that Notting Hill has a contractual obligation to provi
 
 ![](http://crappistmartin.github.io/images/Aylesbury_targetrent.png)
 
-In any case Notting Hill's [planning application](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!clWxEC35adJ29O7pMe62Bg%3d%3d!%7d%7d%7d) for the redevelopment admits that there will be an overall loss of 934 social rented units through the redevelopment (even if the replacements were to be social, not affordable rent:
+In any case Southwark's [planning report](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!clWxEC35adJ29O7pMe62Bg%3d%3d!%7d%7d%7d) for the redevelopment admits that there will be an overall loss of between 778 and 1,166 social rented units through the redevelopment (and this is assuming the replacement social rented housing won't morph into affordable rent:
 
-![](http://crappistmartin.github.io/images/aylesburyahstatement.png)
+![](http://crappistmartin.github.io/images/aylesburynetloss.png)
 
 We note that the replacement social housing is referred to ambiguously as both as social rent and affordable rent throughout the planning application documents and that these would be [material considerations](http://www.11kbw.com/blogs/local-government-law/ambiguous-planning-permission/806) should there later be any dispute about the precise definition of the tenure provision intended. 
 
