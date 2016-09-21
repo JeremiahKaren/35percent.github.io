@@ -40,7 +40,7 @@ The council also insists that Notting Hill has a contractual obligation to provi
 
 ![](http://crappistmartin.github.io/images/Aylesbury_targetrent.png)
 
-In any case Southwark's [planning report](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!clWxEC35adJ29O7pMe62Bg%3d%3d!%7d%7d%7d) for the redevelopment admits that there will be an overall loss of between 778 and 1,166 social rented units through the redevelopment (and this is assuming the replacement social rented housing won't morph into affordable rent:
+In any case Southwark's [planning report](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!Vbu5QpckfYCnJrulzlWyuQ%3d%3d!%7d%7d%7d) for the redevelopment admits that there will be an overall loss of between 778 and 1,166 social rented units through the redevelopment (and this is assuming the replacement social rented housing won't morph into affordable rent:
 
 ![](http://crappistmartin.github.io/images/aylesburynetloss.png)
 
