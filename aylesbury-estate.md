@@ -180,6 +180,10 @@ Loretta Lees, a leading professor of Human Geography has [published](http://thec
 
 She also [gave evidence](http://35percent.org/2015-05-02-aylesbury-estate-compulsory-purchase-order-public-inquiry/) at the Aylesbury CPO public inquiry showing how leaseholders were also being displaced, not just from the area but to outer boroughs and beyond as a result of the low compensation payments they receive. Of the circa 250 leaseholders 'decanted' off the estate to date, only 7 have taken up shared ownership on new homes provided by the scheme. 
 
+In Sep 2016, the Secretary of State [announced](http://35percent.org/2016-09-18-aylesbury-compulsory-purchase-order-rejected/) that he would be blocking Southwark's application for a Compulsory Purchase Order, on the grounds that the scheme is in breach of basic human and equalities rights. The Secretary of State's decision was based on the fact that many elderly residents and those from black and ethnic minority groups were being forced to relocate elsewhere, rather than being rehoused on the scheme footprint.
+
+<iframe width="375" height="211" src="https://www.youtube.com/embed/Z1j_UP39cn0" frameborder="0" allowfullscreen></iframe>
+
 Both [leaseholders](http://halag.wordpress.com) and [tenants](http://aylesburytenantsfirst.org.uk/) have set up action groups campaigning against demolition and for a more inclusive regeneration.
 
 <iframe width="400" height="225" src="https://www.youtube.com/embed/RtvghCKNJjQ" align="center" frameborder="0" allowfullscreen></iframe>
