@@ -24,16 +24,16 @@ In his damning [decision](http://35percent.org/img/Decision_Letter_Final.pdf), t
 
 In the Secretary of State's [judgement](http://35percent.org/img/inspectorsreport.pdf), the rehousing options offered to leaseholders would either impoverish them by requiring them to spend all their savings, or leave the area altogether in search of cheaper housing elsewhere. The inspector's report has this to say about elderly leaseholders in particular: _'Many of the leaseholders are of an age where they would be unable to obtain a mortgage to make up any shortfall and their future earning potential is limited. The requirement to use their savings and other investments severely limits their ability to choose how they spend their retirement and the use to which they put their savings and investments.'_ (Para. 372)
 
-## The future must change
+## Notting Hill gets cold feet
 
-While the Secretary of State accepted that the regeneration scheme was viable, Southwark's development partner, Notting Hill Housing Trust (NHHT) plainly had concerns about the costs even before the CPO decision was issued and has made a whole series of financial demands, which are to be agreed at a [Cabinet meeting](http://moderngov.southwark.gov.uk/ieListDocuments.aspx?CId=302&MId=5373&Ver=4) this coming Tuesday. NHHT is said in the [Cabinet report](http://moderngov.southwark.gov.uk/documents/s63817/Report.Aylesbury%20Regeneration%20Delivery.pdf) to need more payments from Southwark because of the delay in the CPO decision. However, the Cabinet report was drafted before the Secretary of State's CPO decision, so the possibility of NHHT coming back for more is real. In the meantime, the payments NHHT is demanding include;
+While the Secretary of State accepted that the regeneration scheme was viable, Southwark's development partner, Notting Hill Housing Trust (NHHT) plainly had concerns about the costs even before the CPO decision was issued and has made a whole series of financial demands, which are to be agreed at a [Cabinet meeting](http://moderngov.southwark.gov.uk/ieListDocuments.aspx?CId=302&MId=5373&Ver=4) this coming Tuesday. NHHT is said in the [Cabinet report](http://moderngov.southwark.gov.uk/documents/s63817/Report.Aylesbury%20Regeneration%20Delivery.pdf) to demand that Southwark shoulder the ongoing site assembly costs of the scheme, because of the delay and uncertainty resulting from the CPO. NHHT is demanding that Southwark forward fund £21m of the ongoing costs of progressing the scheme, that it was originally required to fund under the terms of the [Development Partnership Agreement](http://crappistmartin.github.io/images/LBS_NHHT_DPAgreement.pdf):
 
  * £16.8m demolition costs for the First Development Site
  * £0.8m for the demolition of Plot 18
  * £2m to underwrite the cost of Plot 18's planning application
  * £2m to underwrite the design fees for phase 2
 
-In total the Council is now forecast to spend £52.5m over the next three years on the Aylesbury redevelopment scheme[^1]. 
+These costs are in addition to the Council's other costs that it has already agreed to allocate to the scheme. In total the Council is now forecast to spend £52.5m over the next three years on the Aylesbury redevelopment scheme[^1]. 
 
 Notting Hill Housing's commitment to the scheme is also plainly a concern. The report goes on to say that _'if the scheme has not proceeded in accordance with the DPA (Development Partnership Agreement)'_ then _'at that point all design work will pass to the council enabling the council to market the site'_[^2] - in plain language: if Notting Hill drops out then Southwark takes over and looks for another developer.
 
