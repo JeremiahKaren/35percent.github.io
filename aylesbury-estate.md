@@ -68,7 +68,7 @@ At the 2015 CPO Public Inquiry, Professor Jane Rendell from the Bartlett School 
 Objectors gave evidence showing that later phases of the estate had been allocated funds under the council's [WDS programme](http://www.southwark.gov.uk/info/200510/major_works/3407/1_what_is_warm_dry_and_safe) (Decent Homes Standard works programme). They showed the Inquiry [section 20 invoices](http://crappistmartin.github.io/images/DHS_MajorWorks_Section20Invoice.pdf) that they had been sent by the council, detailing the estimated cost of the Decent Homes Standard major works charges, i.e. bringing the homes up to modern standards. These showed that homes on the estate were being brought up to Decent Homes Standard at an average cost of just £20,261 per home[^1]. 
 
 
-It was also [confirmed](http://crappistmartin.github.io/images/Email14April2015_KReed.pdf) during the course of the Public Inquiry, that the council has spent a staggering £46.8m on the Aylesbury regeneration scheme to date. This has comprised total capital account costs of £32.1m (demolition & acquisiton) and revenue account costs amounting to £14.7m (Management & Administration).
+It was also [confirmed](http://35percent.org/img/alag_cpoinquiry_correspondence.pdf) during the course of the Public Inquiry, that the council has spent a staggering £46.8m on the Aylesbury regeneration scheme to date. This has comprised total capital account costs of £32.1m (demolition & acquisiton) and revenue account costs amounting to £14.7m (Management & Administration).
 
 The council has therefore spent £46.8m demolishing and redeveloping 112 homes[^2] on the scheme to date (£417k per home), compared to the £20,261 per home it is spending bringing homes up to Decent Homes Standard elsewhere on the estate.
 
