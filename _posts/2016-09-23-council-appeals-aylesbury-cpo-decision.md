@@ -24,10 +24,13 @@ There could be a reason for Southwark's intransigence though; the finances of th
 Increasing the current compensation offered to remaining leaseholders by £50k each, would result in a further cost of approximately £15m to the scheme. This could have the knock-on effect of increasing compensation payable to leaseholders on other estates the Council has earmarked for redevelopment and which are already on the margin of being viable. We understand the Council is currently in talks about redevelopment options with TRA committees on the Tustin estate in the [Old Kent Road Opportunity Area](http://35percent.org/2016-07-10-opportunity-knocks-down-the-old-kent-road/).  
 
 ## The business case for a moratorium 
-We call for a moratorium on Southwark's [council estate regeneration programme](http://35percent.org/the-southwark-clearances). We think that the £52m earmarked for the Aylesbury estate regeneration and funds being spent on the legal challenge would be better spent building new council homes elsewhere. 
+We call for a moratorium on Southwark's [council estate regeneration programme](http://35percent.org/the-southwark-clearances). The Council has spent a staggering £47m on the Aylesbury regeneration scheme to date and is set to spend a further £52m on it over the next 3 years alone. We think these funds and the money it is spending on the legal challenge to the Secretary of State would be better spent maintaining existing council homes and building new ones elsewhere in the borough.
+
+![](/img/expenditure.png)
+*CPO Inquiry [correspondence](/img/alag_cpoinquiry_correspondence.pdf) from the Council confirming expenditure on scheme to date* 
 
 ![](/img/aylesburyspendprofile.png)
-*Extract from the Sep 2016 Cabinet [report](http://moderngov.southwark.gov.uk/documents/s63817/Report.Aylesbury%20Regeneration%20Delivery.pdf)*
+*Extract from the Sep 2016 Cabinet [report](http://moderngov.southwark.gov.uk/documents/s63817/Report.Aylesbury%20Regeneration%20Delivery.pdf) showing estimated expenditure over next 3 yrs*
 
 In April 2016, the Information Commissioner [upheld our complaint](https://ico.org.uk/media/action-weve-taken/decision-notices/2016/1624349/fs_50589692.pdf) and directed Southwark Council to disclose the unredacted viability report. The disclosed [viability assessment](/img/document.pdf) reveals that Notting Hill will make a minimum (guaranteed) 21% profit from the scheme, expected to amount to £163m, while Southwark will receive staged land payments calculated as a residual value once scheme costs and Notting Hill's 21% profit has been deducted[^1]. The assessment shows that this is currently expected to amount to just £51m - less than the Council is spending on the scheme over the next 3 years alone. 
 
