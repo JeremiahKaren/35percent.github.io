@@ -4,7 +4,7 @@ subtitle: "Council to mount legal challenge against the Secretary of State"
 categories: [Aylesbury regeneration, Estate regeneration]
 published: false
 ---
-Southwark Council's shameful response to the government's refusal to grant it a compulsory purchase order (CPO) application against  [Aylesbury estate](http://35percent.org/aylesbury-estate) leaseholders, will be to try to overturn the decsion through the courts.  Southwark's Cabinet met on Tuesday and agreed to seek a judicial review of the Secretary of State, Sajid Javid's decision.
+Southwark Council's shameful response to the government's refusal to grant it a compulsory purchase order (CPO) application against  [Aylesbury estate](http://35percent.org/aylesbury-estate) leaseholders will be to try to overturn the decsion through the courts.  Southwark's Cabinet met on Tuesday and agreed to seek a judicial review of the Secretary of State, Sajid Javid's decision.
 Experienced observers attending the meeting noted that some members of the committee had some reservations, Cllr Livingstone in particular, who suggested that it would be sensible to get legal council's opinion before approving what could be a costly and futile legal challange - a prudent course of action from the Council's point of view, which may explain why it has not happened.
 
 Coincidentally, the same meeting also received a deputation from the [Aylesbury Leaseholders Group](http://halag.wordpress.com), who led the battle against the CPO, and now propossed non-binding arbitration to help resolve disputed valuations. Southwark reluctantly agreed to this while also making it plain that it is going to continue the demolition programme - around the remaining leaseholders if need be.
