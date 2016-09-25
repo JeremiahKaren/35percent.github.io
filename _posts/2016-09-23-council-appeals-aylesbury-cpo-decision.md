@@ -59,4 +59,4 @@ Finally, if despite all good arguments to the contrary, Southwark is determined 
 
 __Footnotes:__
 
-[^1]: See paragraphs 26 and 27 of [this Executive report](http://moderngov.southwark.gov.uk/documents/s44910/Report.pdf) which say that a fixed land receipt has been agreed for the First Development Site (£17.5) but that land receipts for remaining phases will be calculated on a residual basis.
+[^1]: See paragraphs 26 and 27 of [this Executive report](http://moderngov.southwark.gov.uk/documents/s44910/Report.pdf) which say that a fixed land receipt has been agreed for the First Development Site (£17.5m) but that land receipts for remaining phases will be calculated on a residual basis.
