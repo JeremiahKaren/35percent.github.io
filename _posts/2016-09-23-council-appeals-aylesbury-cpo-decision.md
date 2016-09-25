@@ -28,7 +28,12 @@ There could be a reason for Southwark's panicked dash to the courts, though, whi
 *Extract from [Table of Changes proposed for adoption of the Area Action Plan](http://35percent.org/img/Table_of_Recommended_Changes.pdf)*
 
 ## The business case for a moratorium 
-The CPO decision means that the time has come for a moratorium on Southwark Council's [council estate regeneration programme](http://35percent.org/the-southwark-clearances). The Council has already spent £47m on the Aylesbury regeneration scheme and is due to spend a further £52m over the next 3 years alone - a staggering £99m.  In return we will have lost 2,249 council homes and the 4,000 new properties being built to replace them will have anything between 778 and 1,166 fewer social rented homes than the old Aylesbury. (We're charitably assuming that the replacement social housing won't be switched to affordable rents at up to 80% market rent as Notting Hill Housing has [done elsewhere](http://35percent.org/redefining-social-rent/#bermondsey-spa-site-c5-10ap3010)).
+The CPO decision means that the time has come for a moratorium on Southwark Council's [council estate regeneration programme](http://35percent.org/the-southwark-clearances). The Council has already spent £47m on the Aylesbury regeneration scheme and is due to spend a further £52m over the next 3 years alone - a staggering £99m.  
+
+
+
+
+In return we will have lost 2,249 council homes and the 4,000 new properties being built to replace them will have anything between 778 and 1,166 fewer social rented homes than the old Aylesbury. (We're charitably assuming that the replacement social housing won't be switched to affordable rents at up to 80% market rent as Notting Hill Housing has [done elsewhere](http://35percent.org/redefining-social-rent/#bermondsey-spa-site-c5-10ap3010)).
 
 ![](http://35percent.org/img/aylesburynetloss.png)
 *Extract from [Planning Committee report](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!Vbu5QpckfYCnJrulzlWyuQ%3d%3d!%7d%7d%7d) for Aylesbury masterplan*
