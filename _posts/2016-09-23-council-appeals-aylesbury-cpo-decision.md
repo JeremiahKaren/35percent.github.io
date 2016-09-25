@@ -36,7 +36,7 @@ The CPO decision means that the time has come for a moratorium on Southwark Coun
 ![](/img/aylesburyspendprofile.png)
 *Extract from the Sep 2016 Cabinet [report](http://moderngov.southwark.gov.uk/documents/s63817/Report.Aylesbury%20Regeneration%20Delivery.pdf) showing estimated expenditure over next 3 yrs*
 
-In return we will have lost 2,249 council homes and the 4,000 new properties being built to replace them will have anything between 778 and 1,166 fewer social rented homes than the old Aylesbury. (We're charitably assuming that the replacement social housing won't be switched to affordable rents at up to 80% market rent as Notting Hill Housing has [done elsewhere](http://35percent.org/redefining-social-rent/#bermondsey-spa-site-c5-10ap3010)).
+In return for all this expenditure we will have lost 2,249 council homes and the 4,000 new properties being built to replace them will have anything between 778 and 1,166 fewer social rented homes than the old Aylesbury. (We're charitably assuming that the replacement social housing won't be switched to affordable rents at up to 80% market rent as Notting Hill Housing has [done elsewhere](http://35percent.org/redefining-social-rent/#bermondsey-spa-site-c5-10ap3010)).
 
 ![](http://35percent.org/img/aylesburynetloss.png)
 *Extract from [Planning Committee report](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!Vbu5QpckfYCnJrulzlWyuQ%3d%3d!%7d%7d%7d) for Aylesbury masterplan*
