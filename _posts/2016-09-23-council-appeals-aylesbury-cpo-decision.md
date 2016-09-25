@@ -43,7 +43,7 @@ In April 2016, the Information Commissioner [upheld our complaint](https://ico.o
 ![](http://35percent.org/img/profitshare.png)
 *Extract from Notting Hill's [viability assessment](/img/document.pdf) for the Aylesbury redevelopment*
 
-Not only is the Council be losing money on the sale of the Aylesbury estate, it is losing much-needed council homes; the Council's own [planning documents](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!Vbu5QpckfYCnJrulzlWyuQ%3d%3d!%7d%7d%7d) show that it will be losing somewhere between 778 and 1,166 social rented homes as a result of the scheme; and this is assuming all of the replacement social housing won't be switched to affordable rents of up to 80% market rent as Notting Hill has [done elsewhere](http://35percent.org/redefining-social-rent/#bermondsey-spa-site-c5-10ap3010). 
+Not only is the Council be losing money on the sale of the Aylesbury estate, it is losing much-needed council homes; the Council's own [planning report](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!Vbu5QpckfYCnJrulzlWyuQ%3d%3d!%7d%7d%7d) show that it will be losing somewhere between 778 and 1,166 social rented homes as a result of the scheme; and this is assuming all of the replacement social housing won't be switched to affordable rents of up to 80% market rent as Notting Hill has [done elsewhere](http://35percent.org/redefining-social-rent/#bermondsey-spa-site-c5-10ap3010). 
 
 ![](http://35percent.org/img/aylesburynetloss.png)
 *Extract from [Planning Committee report](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!Vbu5QpckfYCnJrulzlWyuQ%3d%3d!%7d%7d%7d) for Aylesbury masterplan*
