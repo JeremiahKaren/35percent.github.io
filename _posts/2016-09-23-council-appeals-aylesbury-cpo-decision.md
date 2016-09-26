@@ -57,7 +57,7 @@ Southwark must therefore ask itself a basic question - is this really the best w
 
 Southwark should abandon any thoughts of appealing the CPO decision. There should instead be a moratorium on council estate regeneration, during which it must consider the grounds of the Secretary of State's verdict.  There must be root and branch reform of the relevant Council departments to ensure that Southwark is never stained again by the judgement that it has failed members of our community from black and ethnic minority backgrounds.
 
-Southwark should also take the lead of the Aylesbury Leaseholders Action Group, who, unlike the Council, have shown themselves to be reasonable and fair in their negotiating approach and true representatives of leaseholders' interests.
+Southwark should also take the lead of the [Aylesbury Leaseholders Action Group](http://halag.wordpress.com), who, unlike the Council, have shown themselves to be reasonable and fair in their negotiating approach and true representatives of leaseholders' interests.
 
 Finally, if despite all good arguments to the contrary, Southwark is determined to be obstinate and does appeal against the CPO decision, we think it should publish its legal advice on the chances of a successful challenge.
 
