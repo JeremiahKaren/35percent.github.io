@@ -1,10 +1,12 @@
 ---
-title: "Southwark to appeal against lost CPO decision"
-subtitle: "Council to mount legal challenge against the Secretary of State"
+
+title: 'Southwark to appeal against lost CPO decision'
+subtitle: 'Council to mount legal challenge against the Secretary of State'
 categories: [Aylesbury regeneration, Estate regeneration]
 date: 2016-09-26T08:20:00Z
 layout: post
 published: true
+
 ---
 Southwark Council's shameful response to the government's refusal to grant it a compulsory purchase order (CPO) application against  [Aylesbury estate](http://35percent.org/aylesbury-estate) leaseholders, will be to try to overturn the decision through the courts.  Southwark's Cabinet met on Tuesday and agreed to seek a judicial review of the Secretary of State, Sajid Javid's decision.
 Experienced observers attending the meeting noted that some members of the committee had some reservations, [Cllr Livingstone](https://twitter.com/livingstone_rj) in particular, who suggested that it would be sensible to get legal counsel's opinion before approving what could be a costly and futile legal challange - a prudent course of action from the Council's point of view, which may explain why it has not happened.
