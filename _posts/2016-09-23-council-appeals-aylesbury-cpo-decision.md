@@ -3,7 +3,7 @@
 title: 'Southwark to appeal against lost CPO decision'
 subtitle: 'Council to mount legal challenge against the Secretary of State'
 categories: [Aylesbury regeneration, Estate regeneration]
-date: 2016-09-26T08:20:00Z
+date: 2016-09-26
 layout: post
 published: true
 
