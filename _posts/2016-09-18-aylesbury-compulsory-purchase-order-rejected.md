@@ -40,7 +40,7 @@ Notting Hill Housing's commitment to the scheme is also plainly a concern. The r
 
 The CPO decision is a serious indictment of Southwark's conduct since the start of the scheme in 1997. It confirms what leaseholders on the estate have always known - Southwark wants to remove them as [cheaply as possible](http://35percent.org/aylesbury-estate/#bridging-the-viability-gap) and has little concern for how it damages them personally or where they go. This bad treatment goes beyond leaseholders; it takes in the majority of residents on the estate who come from black and ethnic minority backgrounds and whose interests have not been protected as they should have been. On top of this, Southwark's development partner NHHT is clearly getting cold feet. All in all, the flaws in the regeneration scheme are opening up and Southwark Council should take the opportunity now to consider its whole future.  
 
-We conclude with blog post with one of the concluding paragraphs of the [inspector's report](/img/inspectorsreport.pdf):
+We conclude this blog post with one of the concluding paragraphs of the [inspector's report](/img/inspectorsreport.pdf):
 
 ![](/img/inspectorsreport377.png) 
 
