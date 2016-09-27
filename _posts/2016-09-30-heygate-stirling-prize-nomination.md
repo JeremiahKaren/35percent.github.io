@@ -49,11 +49,3 @@ i.e. Biomass - 100% renewable promised, not delivered
 Aylesbury also biomass promised but not delivered 
 
 
-
-## Environmental, Social and economic well-being test
-
-Paul Palley's paragraph from the Inspector's report where she says the scheme won't have beneficial social, environmental and economic impact.
-
-> "I conclude that the CPO would not fully achieve the social, economic and environmental well-being sought. In reaching this view I have had regard to the fact that planning permission has been granted for the redevelopment of the Order Lands." (para 377) 
-
-
