@@ -29,6 +29,7 @@ The regeneration is now stalled while Southwark and Notting Hill Housing digest 
 
 ASH have organised a protest for the evening of the Stirling award – details can be found at the end of the blog here -https://architectsforsocialhousing.wordpress.com/2016/09/20/ash-meeting-with-the-riba/
 
+
 ![](/img/trafalgarplacecourtyard.jpg)
 *Raised courtyard at Trafalgar Place*
 
