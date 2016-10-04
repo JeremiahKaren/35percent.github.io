@@ -3,7 +3,7 @@
 title: 'Heygate nominated for Stirling Prize'
 subtitle: 'First completed phase of Heygate regeneration nominated for architecture award'
 categories: ['Heygate regeneration, Estate regeneration']
-published: false
+published: true
 
 ---
 Trafalgar Place, the first completed phase of the Heygate estate redevelopment has been nominated for the Royal Institute of British Architect’s (RIBA) Stirling Prize https://www.architecture.com/Awards/Awards2016/StirlingPrize/Home.aspx.
