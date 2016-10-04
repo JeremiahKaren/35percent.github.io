@@ -43,7 +43,7 @@ Another reason given for refusal was that _'the deficiencies of the scheme inclu
 
 HTA Design LLP can't be held fully responsible for Southwark’s failure of course, but Mr Derbyshire has very properly noted that the built environment professions have a duty _‘not to infringe human rights in the way we design and deliver services’_, so it might nonetheless be a case for RIBA to consider when the drafting any national code of conduct and ethics under Mr Derbyshire’s leadership.
 
-ASH have organised a protest for the evening of the Stirling award – details can be found at the end of the following blog post: [https://architectsforsocialhousing.wordpress.com/2016/09/20/ash-meeting-with-the-riba/](https://architectsforsocialhousing.wordpress.com/2016/09/20/ash-meeting-with-the-riba/)
+ASH have organised a protest at the Stirling Prize awards ceremony tomorrow evening outside RIBA's HQ in Portland Place – full details can be found at the end of the following blog post: [https://architectsforsocialhousing.wordpress.com/2016/09/20/ash-meeting-with-the-riba/](https://architectsforsocialhousing.wordpress.com/2016/09/20/ash-meeting-with-the-riba/)
 
 
 ![](http://35percent.org/img/labourandtories_trafalgarplace.png)
