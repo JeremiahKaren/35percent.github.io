@@ -38,7 +38,10 @@ The Aylesbury estate regeneration is now stalled, while Southwark and Notting Hi
 
 Another reason given for refusal was that _'the deficiencies of the scheme include the number of dwellings that fail to meet the Council’s adopted standards for sunlight and daylight, and the extent of overshadowing to the proposed amenity areas'._
 
-HTA Design LLP can't be held responsible for Southwark’s failure of course, but Mr Derbyshire has very properly noted that the built environment professions have a duty _‘not to infringe human rights in the way we design and deliver services’_, so it might nonetheless be a case for RIBA to consider when the drafting any national code of conduct and ethics under Mr Derbyshire’s leadership.
+![](http://35percent.org/img/aylesburyfdsmodel.jpg)
+*CGI model of HTA Design's Aylesbury plans deemed 'deficient' due to overshadowing* 
+
+HTA Design LLP can't be held fully responsible for Southwark’s failure of course, but Mr Derbyshire has very properly noted that the built environment professions have a duty _‘not to infringe human rights in the way we design and deliver services’_, so it might nonetheless be a case for RIBA to consider when the drafting any national code of conduct and ethics under Mr Derbyshire’s leadership.
 
 ASH have organised a protest for the evening of the Stirling award – details can be found at the end of the following blog post: [https://architectsforsocialhousing.wordpress.com/2016/09/20/ash-meeting-with-the-riba/](https://architectsforsocialhousing.wordpress.com/2016/09/20/ash-meeting-with-the-riba/)
 
