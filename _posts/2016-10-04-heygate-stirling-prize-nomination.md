@@ -17,7 +17,7 @@ It’ll be gratifying to ex-Heygate residents that a private development founded
 What therefore has prompted the nomination of what looks pretty much like every other new development in London?  It cannot be an acknowledgement of its environmental credentials – it has 47 car-parking spaces in what was intended to be a car-free development. Developer Lendlease persuaded Southwark Council that the viability of the whole Heygate redevelopment depended on [having 663 car-parking spaces](http://35percent.org/sustainable-development/#car-free-development), of which the 47 are a small part, despite the Elephant being a car-free development zone, with the highest rating for accessibility to public transport(PTAL 6). Trafalgar Place’s car parking lot also serves to elevate its courtyard above and beyond any public access.
 
 ![](http://35percent.org/img/trafalgarplaceraisedcourtyard.png)
-*Raised courtyard above parking lot at Trafalgar Place*
+*Raised private courtyard above parking lot at Trafalgar Place*
 
 Trafalgar Place should also have showcased the [much lamented MUSCo](http://35percent.org/sustainable-development/#zero-carbon-homes) (Multi Utility Services Company), whose cutting edge delivery of utilities and use of on-site renewable energy were [lauded](http://news.bbc.co.uk/1/hi/england/london/8056859.stm) by Bill Clinton and [hailed](http://www.london-se1.co.uk/news/view/6032) as an example of ‘climate positive development’. The MUSCo, alas, [fell victim](http://www.london-se1.co.uk/news/view/5052) to hard negotiations on the Regeneration Agreement in 2010 and we have instead an [‘Energy Centre’](http://35percent.org/sustainable-development/#zero-carbon-homes), which is essentially a gas-fired boiler. The previous gas-fired boiler on the Heygate, supplied heat and hot water through a [district heating network to over 2,000 homes](http://crappistmartin.github.io/images/HeygateDHN.png) on both the Heygate and the neighbouring Salisbury estate. Lendlease’s district heating network will not extend beyond the Heygate footprint - it will not supply the Salisbury estate, and will not be supplying telecoms, potable water, non-potable water, drainage, gas, fibre-optics and vacuum waste as the original MUSCo had planned to. Proposals to supply other estates and developments have been dropped, and all methods of supplying heat and water that rely on renewable sources of energy were [rejected on grounds of their cost impact on viability](http://crappistmartin.github.io/blog/2012/07/03/its-all-about-financial-viability/).
 
@@ -47,7 +47,7 @@ ASH have organised a protest for the evening of the Stirling award – details c
 *Tweets from both [Labour](https://twitter.com/leicesterliz/status/720581957978075136) and [Tory](https://twitter.com/ElephantParkLDN/status/606461178991255552) leadership praising Trafalgar Place*
 
 ![](http://35percent.org/img/TrafalgarPlaceCN.png)
-*Trafalgar Place and Elephant Park marketed in Asia*
+*Trafalgar Place and Elephant Park [marketed](http://35percent.org/img/West_Grove_Colliers_Fact_Sheet.pdf) for sale in Asia*
 
 
 
