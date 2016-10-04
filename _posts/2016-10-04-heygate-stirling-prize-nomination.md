@@ -10,7 +10,9 @@ layout: post
 Trafalgar Place, the first completed phase of the Heygate estate redevelopment has been nominated for the Royal Institute of British Architect’s (RIBA) [Stirling Prize](https://www.architecture.com/Awards/Awards2016/StirlingPrize/Home.aspx).
 It follows the nomination last year of [Neo Bankside](http://35percent.org/neo-bankside), another development in north Southwark that [failed](https://www.theguardian.com/artanddesign/architecture-design-blog/2015/jul/21/neo-bankside-how-richard-rogers-new-non-dom-accom-cut-out-the-poor) to provide promised affordable housing.
 
-It’ll be gratifying to ex-Heygate residents that a private development founded on the rubble of their homes is in line for such a prestigious prize, but we would have thought RIBA would be looking for something with a bit more élan.  Trafalgar Place’s most distinctive characteristic is that it is built on the footprint of 104 demolished council homes, while itself providing only eight social rented homes out of its total 235 units. Over 60% of its units, combined with those of developer Lendlease’s [One the Elephant](http://35percent.org/one-the-elephant/), were pre-sold off-plan, most likely overseas, before it was even built  http://lendlease2013.reportonline.com.au/annual-report/europe.
+It’ll be gratifying to ex-Heygate residents that a private development founded on the rubble of their homes is in line for such a prestigious prize, but we would have thought RIBA would be looking for something with a bit more élan. Trafalgar Place’s most distinctive characteristic is that it is built on the footprint of 104 demolished council homes, while itself providing only eight social rented homes out of its total 235 units. Over 60% of its units, combined with those of developer Lendlease’s [One the Elephant](http://35percent.org/one-the-elephant/), were pre-sold off-plan, most likely overseas, before it was even built http://lendlease2013.reportonline.com.au/annual-report/europe.
+
+![](http://35percent.org/img/trafalgarplacedemolition.jpg)
 
 What therefore has prompted the nomination of what looks pretty much like every other new development in London?  It cannot be an acknowledgement of its environmental credentials – it has 47 car-parking spaces in what was intended to be a car-free development. Developer Lendlease persuaded Southwark Council that the viability of the whole Heygate redevelopment depended on having over 600 car-parking spaces, of which the 47 are a small part, despite the Elephant being a car-free development zone, with the highest rating for accessibility to public transport(PTAL 6). Trafalgar Place’s car parking lot also serves to elevate its courtyard above and beyond any public access.
 
@@ -38,31 +40,15 @@ HTA Design LLP can't be held responsible for Southwark’s failure of course, bu
 ASH have organised a protest for the evening of the Stirling award – details can be found at the end of the following blog post: [https://architectsforsocialhousing.wordpress.com/2016/09/20/ash-meeting-with-the-riba/](https://architectsforsocialhousing.wordpress.com/2016/09/20/ash-meeting-with-the-riba/)
 
 
-![](/img/trafalgarplacecourtyard.jpg)
-*Raised courtyard at Trafalgar Place*
+![](http://35percent.org/img/labourandtories_trafalgarplace.png)
+*Tweets from both [Labour](https://twitter.com/leicesterliz/status/720581957978075136) and [Tory](https://twitter.com/ElephantParkLDN/status/606461178991255552) leadership praising Trafalgar Place*
 
-![](http://crappistmartin.github.io/images/heygate_raised_courtyards2.png)
-*Raised courtyard above underground parking*
+![](http://35percent.org/img/TrafalgarPlaceCN.png)
+*Trafalgar Place and Elephant Park marketed in Asia*
 
-![](/img/undergroundcarpark.jpg)
-*Trafalgar Place - pic of parking plot*
 
-![](/img/pjlizkendalltrafalgarplace.jpg)
-*Council leader Peter John showing Liz Kendall around Trafalgar Place*
 
-![](/img/pj_lizkendal_heygate.png)
 
-![](/img/TrafalgarPlaceCN.png)
-
-![](/img/bojoandpj.jpg)
-
-![](/img/heygatevisit.jpg)
-
-![](/img/brandonlewistrafalgarplace.png)
-
-![](/img/trafalgarplacebasketballcourt.jpg)
-
-![](/img/trafalgarplacedemolition.jpg)
 
 
 
