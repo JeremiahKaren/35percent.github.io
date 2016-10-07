@@ -5,11 +5,13 @@ title: 'Notting Hill'
 published: false
 
 ---
+## Heading 2
 Bermondsey Spa - give example of rent level
 Elmington estate - ""
 
-Ombusman investigation
+Ombusman [investigation](http://whatever.com)
 
+### Heading 3
 Kate Marshall 
 Social housing reforms
 
