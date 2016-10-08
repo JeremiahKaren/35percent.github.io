@@ -48,15 +48,15 @@ It's hard to believe that Southwark would not have anticipated the consequences 
 
 
 ![Herbert Smith Freehills website](http://35percent.org/img/hsf.png)
-*[Press release](http://www.herbertsmithfreehills.com/news/news20100810-hs-advises-the-london-borough-of-southwark-on-elephant-and-castle-regeneration) published on Herbert Smith Freehills' website.*
+*[Press release](https://web.archive.org/web/20160316171355/http://www.herbertsmithfreehills.com/news/news20100810-hs-advises-the-london-borough-of-southwark-on-elephant-and-castle-regeneration) originally published on Herbert Smith Freehills' website.*
 
-However it is equally hard to believe that the Council sought its  [professional advice](http://www.herbertsmithfreehills.com/news/news20100810-hs-advises-the-london-borough-of-southwark-on-elephant-and-castle-regeneration) from the same company (Herbert Smith Freehills), which back in Australia has a [ _"longstanding relationship with Lend Lease and is the company's principal legal advisor"_.](http://www.herbertsmithfreehills.com/news/news20120707-fh-freehillsadvisortolendleasebarangaroosouthdev)  
+However it is equally hard to believe that the Council sought its  [professional advice](https://web.archive.org/web/20160316171355/http://www.herbertsmithfreehills.com/news/news20100810-hs-advises-the-london-borough-of-southwark-on-elephant-and-castle-regeneration) from the same company (Herbert Smith Freehills), which back in Australia has a [ _"longstanding relationship with Lend Lease and is the company's principal legal advisor"_.](https://web.archive.org/web/20160228155112/http://www.herbertsmithfreehills.com/news/news20120707-fh-freehillsadvisortolendleasebarangaroosouthdev)  
 
 
 ![Herbert Smith Freehills website](https://i.imgur.com/m55Lk1a.png)
-*[Press release](http://www.herbertsmithfreehills.com/news/news20120707-fh-freehillsadvisortolendleasebarangaroosouthdev) published on Herbert Smith Freehills' website.*
+*[Press release](https://web.archive.org/web/20160228155112/http://www.herbertsmithfreehills.com/news/news20120707-fh-freehillsadvisortolendleasebarangaroosouthdev) published on Herbert Smith Freehills' website.*
 
-We do not believe that there is any impropriety on the part of any of the parties involved in Trafalgar Place, but Southwark demolished 1,212 council homes to allow Lend Lease to build well over 2,000 private homes on the Heygate, so the public is entitled to the answers to some questions, three immediately coming to mind;
+Southwark demolished 1,212 council homes to allow Lend Lease to build well over 2,000 private homes on the Heygate, so we think that the public is entitled to the answers to some questions, three immediately coming to mind;
 
 - How much profit have Lend Lease made on Trafalgar Place? 
 - In light of clause 3.7 will Southwark ever get any overage profit?
