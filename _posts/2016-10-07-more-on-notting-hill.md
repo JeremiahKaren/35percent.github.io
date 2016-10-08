@@ -1,10 +1,17 @@
 ---
 
 layout: post
-title: 'Notting Hill'
+title: 'More on Notting Hill'
+subtitle: 'Notting Hill publishes its estate regeneration manifesto'
 published: false
 
 ---
+Notting Hill Housing Trust has 
+
+
+![](/img/keydrivers.png)
+*Extract from the G15 estate regeneration report*
+
 ## Heading 2
 Bermondsey Spa - give example of rent level
 Elmington estate - ""
@@ -25,3 +32,8 @@ Credit rating downgrade
    -> Big pipeline
    
 St James Place -> the future of Aylesbury
+
+## CPO decision called in
+JR will cost less than paying the leaseholders market value
+CPO decision delaying delivery of 800 new homes
+If council doesn't challenge then leaseholders will be able to hold council to ransome
