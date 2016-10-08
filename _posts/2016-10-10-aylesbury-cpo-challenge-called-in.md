@@ -6,7 +6,9 @@ published: false
 ---
 The Aylesbury CPO decision has taken a further twist this week. Southwark Council's Overview and Scrutiny Committee has 'called-in' the decision for further examination, which it will [scrutinise on Monday evening](http://moderngov.southwark.gov.uk/ieListDocuments.aspx?CId=308&MId=5456&Ver=4).
 
-The Committee only has the power to refer the decision back to Cabinet or the full Council Assembly for reconsideration. Given the political majorities in these bodies, it is very unlikely that the decision to appeal will be reversed. However, the OSC action shows the levels of disquiet at Southwark's behaviour. Aylesbury leaseholders are due to give evidience to the Committee. The Committee has been briefed on the decision to seek leave for the appeal by Southwark's __'Director of Law Democracy'__- Doreen Forrester-Brown and her [briefing report](http://moderngov.southwark.gov.uk/documents/s64406/Briefing%20Paper%20OSC%20101016%202.pdf) has several interesting points. 
+The Committee only has the power to refer the decision back to Cabinet or the full Council Assembly for reconsideration. Given the political majorities in these bodies, it is very unlikely that the decision to appeal will be reversed. However, the OSC action shows the levels of disquiet at Southwark's behaviour. The [Aylesbury Leaseholders Group](http://halag.wordpress.com) is also due to give evidience to the Committee.
+
+The Committee has been briefed on the decision to seek leave for the appeal by Southwark's __'Director of Law Democracy'__- Doreen Forrester-Brown and her [briefing report](http://moderngov.southwark.gov.uk/documents/s64406/Briefing%20Paper%20OSC%20101016%202.pdf) has several interesting points. 
 
 First, just when you thought that there couldn't be any more blunders by Southwark, it seems that the [report](http://moderngov.southwark.gov.uk/documents/s64034/Report%20Aylesbury%20Delivery%20supplemental%20report.pdf) to the Cabinet meeting that took the decision to appeal was wrong in one important respect; 'Recommendation 2(d)' of the [report](http://moderngov.southwark.gov.uk/documents/s64034/Report%20Aylesbury%20Delivery%20supplemental%20report.pdf) misled the Cabinet committee to think that deciding to appeal was a matter for the Council; in fact the Cabinet was misinformed and instead it is a decision for someone called the 'Monitoring Officer' (see para 11 of the [Doreen Forrester-Brown's briefing](http://moderngov.southwark.gov.uk/documents/s64406/Briefing%20Paper%20OSC%20101016%202.pdf)).
 
@@ -28,6 +30,15 @@ Beyond the leaseholders, the decision looks as if it could benefit all regenerat
 ![](/img/lexologyquote.jpg)
 
 Herbert Smith Freehills are Southwark's [legal advisors](https://web.archive.org/web/20160316171355/http://www.herbertsmithfreehills.com/news/news20100810-hs-advises-the-london-borough-of-southwark-on-elephant-and-castle-regeneration) for the Elephant & Castle regeneration. 
+
+Many legal publications and law firms have published legal opinion on the Aylesbury CPO decision, as it appears to be a landmark case. [This opinion](http://mypreferences.ashurst.com/reaction/PDF/CPOmailing.pdf) from law firm Ashurst is listed in Doreen Forrester-Brown's briefing and provides the following advice:
+ 
+![](/img/CPOmailing.png)
+
+This begs the question as to the integrity of the advice Southwark has received from its counsel on the chances of a judicial review succeeding. We think Southwark should publish the advice it has received from counsel and tell us the following:
+
+ *How much did it spent on the Aylesbury Compulsory Purchase Order proceedings?
+ *How much does it expect to spend on its high court challenge of the Secretary of State's decision?
 
 ## Conclusion
 The Aylesbury regeneration is at the end of the day a commercial development with the aim of building 1773 private homes to gain Notting Hill Housing £163m in profit. Southwark's part of the deal is to spend nearly £150m[^1] of public money and to demolish 2,249 council houses with [no adequate] replacement affordable housing. To any objective observer all this makes no sense.
