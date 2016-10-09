@@ -6,7 +6,7 @@ published: false
 ---
 The Aylesbury CPO decision has taken a further twist this week. Southwark Council's [Overview and Scrutiny Committee](http://moderngov.southwark.gov.uk/mgCommitteeDetails.aspx?ID=308) has 'called-in' the decision for further examination, which it will [scrutinise on Monday evening](http://moderngov.southwark.gov.uk/ieListDocuments.aspx?CId=308&MId=5456&Ver=4).
 
-The committee only has the power to refer the decision back to Cabinet or Council Assembly for reconsideration and given the political majorities in these bodies, it is very unlikely that the decision to appeal will be reversed. However, the OSC action shows the levels of disquiet at Southwark's behaviour. The [Aylesbury Leaseholders Group](http://halag.wordpress.com) is also due to give evidience at the Scrutiny Committee meeting.
+The committee only has the power to refer the decision back to Cabinet or Council Assembly for reconsideration and given the political majorities in these bodies, it is very unlikely that the decision to appeal will be reversed. However, the call-in shows the levels of disquiet at Southwark's behaviour. The [Aylesbury Leaseholders Group](http://halag.wordpress.com) is also due to give evidience at the Scrutiny Committee meeting.
 
 The committee has been briefed on the decision to seek leave for the appeal by Southwark's __'Director of Law Democracy'__- Doreen Forrester-Brown and her [briefing report](http://moderngov.southwark.gov.uk/documents/s64406/Briefing%20Paper%20OSC%20101016%202.pdf) has several interesting points. 
 
