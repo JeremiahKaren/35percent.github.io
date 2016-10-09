@@ -19,13 +19,13 @@ Second, having employed one QC, who lost them the case, Southwark has decided it
 Third, the future of the Aylesbury regeneration is now indeed in doubt. The briefing says that if the Secretary of State's decision is not overturned then _'it undoubtedly indicates a shift in focus that will be hugely difficult to accommodate within the context of scheme viability and deliverability'_ - in simple language, Southwark won't be able to deliver the estate's regeneration if it has to pay leaseholders fair compensation for the loss of their homes.
 
 ## Desperate measures
-The Council's desperation is such that it has been led to [accuse](http://www.southwarknews.co.uk/news/aylesbury-plan-face-scrutiny/) leaseholders of holding it to ransom. It says that _'they are being offered market value plus ten percent'_, but we have shown the kind of dirty tricks it gets up to in its determination of market value, such as [using a one bedroom flat illegaly converted in four bedrooms as a comparison](http://35percent.org/2014-05-16-southwark-gives-green-light-to-slum-landlords/). These tricks have resulted in the Council getting away with making valuations as low as [£75k for a 1-bed flat in 2012](https://www.theguardian.com/cities/2016/sep/20/aylesbury-estate-ruling-future-regeneration-sajid-javid). 
+The Council's desperation is such that it has been led to [accuse](http://www.southwarknews.co.uk/news/aylesbury-plan-face-scrutiny/) leaseholders of holding it to ransom. It says that _'they are being offered market value plus ten percent'_, but we have shown the kind of dirty tricks it gets up to in its determination of market value, such as [using a one bedroom flat illegaly converted into four bedrooms as a comparison](http://35percent.org/2014-05-16-southwark-gives-green-light-to-slum-landlords/). These tricks have resulted in the Council getting away with making valuations as low as [£75k for a 1-bed flat in 2012](https://www.theguardian.com/cities/2016/sep/20/aylesbury-estate-ruling-future-regeneration-sajid-javid). 
 
 ![Architects Journal graphic](/img/aylesburyestategraphic.png)
 *Graphic produced by the [Architects Journal](https://www.architectsjournal.co.uk/news/aylesbury-estate-cpo-ruling-what-went-wrong/10012171.article) showing leaseholder compensation levels*
 
 ## The Right to Remain
-The significance of the Aylesbury CPO decision has led a number of law firms to publish their legal opinions.  In [this opinion](http://www.lexology.com/library/detail.aspx?g=7d876b71-cdee-48a9-ad05-240a210b0d82) from  [Herbert Smith Freehills](https://www.herbertsmithfreehills.com/) the decision is heralded as a possible future 'right to remain' for council estate residents:
+The significance of the Aylesbury CPO decision has led a number of law firms to publish their legal opinions. In [this opinion](http://www.lexology.com/library/detail.aspx?g=7d876b71-cdee-48a9-ad05-240a210b0d82) from  [Herbert Smith Freehills](https://www.herbertsmithfreehills.com/) the decision is heralded as a possible future 'right to remain' for council estate residents:
 
 ![](/img/lexologyquote.jpg)
 
@@ -35,11 +35,11 @@ Herbert Smith Freehills are Southwark's [legal advisors](https://web.archive.org
 
 ![](/img/CPOmailing.png)
 
-Both the manner in which Southwark has decided to appeal agains the CPO decision and the decision itself begs some questions - who took the decision, the Cabinet or the mysterious Monitoring Officer?  Why was the decision to appeal taken, when at least one respected opinion rates its chances of success so low?  If Southwark has received any legal advice which says the appeal can succeed it should be made public.  We think the Council should also answer the questions;
+Both the manner in which Southwark has decided to appeal against the CPO decision and the decision itself begs some questions - who took the decision, the Cabinet or the mysterious Monitoring Officer?  Why was the decision to appeal taken, when at least one respected legal opinion rates its chances of success so low?  If Southwark has received any legal advice which says the appeal can succeed it should be made public. We think the Council should also answer the questions;
 
-*How much did it spend on the Aylesbury Compulsory Purchase Order proceedings?
+ *How much did it spend on the Aylesbury Compulsory Purchase Order proceedings?
 
-*How much does it expect to spend on its high court challenge of the Secretary of State's decision?
+ *How much does it expect to spend on its high court challenge of the Secretary of State's decision?
 
 ## Conclusion
 The Aylesbury regeneration is essentially a commercial development with the aim of building 1773 private homes to make Notting Hill Housing £163m in profit. Southwark's part of the deal is to spend nearly £150m[^1] of public money and to demolish 2,249 council houses, replacing it with 'affordable' housing that is simply unaffordable to those who need it most. To any objective observer none of this makes any sense.
