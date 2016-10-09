@@ -6,7 +6,7 @@ published: true
 ---
 The Aylesbury CPO decision took a further twist this week when Southwark Council's [Overview and Scrutiny Committee](http://moderngov.southwark.gov.uk/mgCommitteeDetails.aspx?ID=308) 'called-in' the decision for further examination, which it will [scrutinise on Monday evening](http://moderngov.southwark.gov.uk/ieListDocuments.aspx?CId=308&MId=5456&Ver=4).
 
-The committee only has the power to refer the decision back to Cabinet or Council Assembly for reconsideration and given the political majorities in these bodies, it is very unlikely that the decision to appeal will be reversed. However, the call-in shows the levels of disquiet at Southwark's behaviour. The [Aylesbury Leaseholders Group](http://halag.wordpress.com) is also due to give evidence at the Scrutiny Committee meeting.
+The committee only has the power to refer the decision back to Cabinet or Council Assembly for reconsideration and given the political majorities in these bodies, it is very unlikely that the decision to appeal will be reversed. However, the call-in shows the levels of disquiet at Southwark's behaviour. The [Aylesbury Leaseholders Group](http://halag.wordpress.com) is also due to give [evidence](https://halag.files.wordpress.com/2016/10/oscdeputation_10102016.pdf) at the Scrutiny Committee meeting.
 
 The committee has been briefed on the decision to seek leave for the appeal by Southwark's __'Director of Law Democracy'__- Doreen Forrester-Brown and her [briefing report](http://moderngov.southwark.gov.uk/documents/s64406/Briefing%20Paper%20OSC%20101016%202.pdf) has several interesting points. 
 
@@ -27,13 +27,13 @@ The Council's desperation is such that it has been led to [accuse](http://www.so
 ## The Right to Remain
 The significance of the Aylesbury CPO decision has led a number of law firms to publish their legal opinions. In [this opinion](http://www.lexology.com/library/detail.aspx?g=7d876b71-cdee-48a9-ad05-240a210b0d82) from  [Herbert Smith Freehills](https://www.herbertsmithfreehills.com/) the decision is heralded as a possible future 'right to remain' for council estate residents:
 
-![](/img/lexologyquote.jpg)
+![](http://35percent.org/img/lexologyquote.jpg)
 
 Herbert Smith Freehills are Southwark's [legal advisors](https://web.archive.org/web/20160316171355/http://www.herbertsmithfreehills.com/news/news20100810-hs-advises-the-london-borough-of-southwark-on-elephant-and-castle-regeneration) for the Elephant & Castle regeneration, so Southwark should pay them  particular heed.
 
 [Another opinion](http://mypreferences.ashurst.com/reaction/PDF/CPOmailing.pdf) is from leading law firm [Ashurst](https://www.ashurst.com) and is listed in Doreen Forrester-Brown's briefing, but, given Southwark's decision to appeal, the following paragraph appears to have been entirely ignored:  
 
-![](/img/CPOmailing.png)
+![](http://35percent.org/img/CPOmailing.png)
 
 Both the manner in which Southwark has decided to appeal against the CPO decision and the decision itself begs some questions - who took the decision, the Cabinet or the mysterious Monitoring Officer?  Why was the decision to appeal taken, when at least one respected legal opinion rates its chances of success so low?  If Southwark has received any legal advice which says the appeal can succeed it should be made public. We think the Council should also answer the questions;
 
