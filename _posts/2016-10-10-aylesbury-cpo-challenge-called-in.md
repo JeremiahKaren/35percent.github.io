@@ -37,9 +37,9 @@ Herbert Smith Freehills are Southwark's [legal advisors](https://web.archive.org
 
 Both the manner in which Southwark has decided to appeal against the CPO decision and the decision itself begs some questions - who took the decision, the Cabinet or the mysterious Monitoring Officer?  Why was the decision to appeal taken, when at least one respected legal opinion rates its chances of success so low?  If Southwark has received any legal advice which says the appeal can succeed it should be made public. We think the Council should also answer the questions;
 
- *How much did it spend on the Aylesbury Compulsory Purchase Order proceedings?
+ * How much did it spend on the Aylesbury Compulsory Purchase Order proceedings?
 
- *How much does it expect to spend on its high court challenge of the Secretary of State's decision?
+ * How much does it expect to spend on its high court challenge of the Secretary of State's decision?
 
 ## Conclusion
 The Aylesbury regeneration is essentially a commercial development with the aim of building 1773 private homes to make Notting Hill Housing £163m in profit. Southwark's part of the deal is to spend nearly £150m[^1] of public money and to demolish 2,249 council houses, replacing it with 'affordable' housing that is simply unaffordable to those who need it most. To any objective observer none of this makes any sense.
