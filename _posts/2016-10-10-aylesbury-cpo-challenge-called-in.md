@@ -25,7 +25,7 @@ The Council's desperation is such that it has been led to [accuse](http://www.so
 *Graphic produced by the [Architects Journal](https://www.architectsjournal.co.uk/news/aylesbury-estate-cpo-ruling-what-went-wrong/10012171.article) showing leaseholder compensation levels*
 
 ## The Right to Remain
-A number of law firms have published legal opinions on the Aylesbury CPO decision.  In [this opinion](http://www.lexology.com/library/detail.aspx?g=7d876b71-cdee-48a9-ad05-240a210b0d82) from  [Herbert Smith Freehills](https://www.herbertsmithfreehills.com/) the decision is heralded as a possible future 'right to remain' for council estate residents:
+The significance of the Aylesbury CPO decision has led a number of law firms have published legal opinions on the Aylesbury CPO decision.  In [this opinion](http://www.lexology.com/library/detail.aspx?g=7d876b71-cdee-48a9-ad05-240a210b0d82) from  [Herbert Smith Freehills](https://www.herbertsmithfreehills.com/) the decision is heralded as a possible future 'right to remain' for council estate residents:
 
 ![](/img/lexologyquote.jpg)
 
