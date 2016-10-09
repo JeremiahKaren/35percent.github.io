@@ -35,7 +35,8 @@ Herbert Smith Freehills are Southwark's [legal advisors](https://web.archive.org
 
 ![](/img/CPOmailing.png)
 
-Both the manner in which Southwark has decided to appeal agains the CPO decision and the decision itself begs some questions - who took the decision, the Cabinet or the mysterious Monitoring officer?  Why was the decision to appeal take when at least one piece of advice rates it chances of success so low?  Any contrary legal advice, which says the appeal can succeed should be made public.  We think the Council should also say 
+Both the manner in which Southwark has decided to appeal agains the CPO decision and the decision itself begs some questions - who took the decision, the Cabinet or the mysterious Monitoring officer?  Why was the decision to appeal taken, when at leastone  respected opinion rates it chances of success so low?  If Southwark has received any legal advice which says the appeal can succeed it should be made public.  We think the Council should also answer the questions;
+
 *How much did it spend on the Aylesbury Compulsory Purchase Order proceedings?
 *How much does it expect to spend on its high court challenge of the Secretary of State's decision?
 
