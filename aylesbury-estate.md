@@ -50,7 +50,9 @@ We also note Notting Hill's [predilection](http://35percent.org/2015-09-24-south
 
 ![](http://35percent.org/img/kdquotes.png)
 
-Kate Davies co-authored [this report](http://www.centreforsocialjustice.org.uk/UserStorage/pdf/Pdf%20reports/HousingPoverty.pdf) by the CSJ, in which she claimed that council estates are _‘ghettos of the poorest and neediest people’_ that are _‘subsidised by the taxpayer’_ and provide _‘low cost living for life funded from the public purse’_. She said that tenants _‘often pay little or no rent, and get their home maintained in good order for free.’_ She concluded that _‘social housing is not a desirable destination’_ and that _‘private ownership is preferable to state provided solutions’_.
+Kate Davies co-authored [this report](http://www.centreforsocialjustice.org.uk/UserStorage/pdf/Pdf%20reports/HousingPoverty.pdf) by the CSJ, in which she claimed that council estates are _‘ghettos of the poorest and neediest people’_ that are _‘subsidised by the taxpayer’_ and provide _‘low cost living for life funded from the public purse’_. She said that tenants _‘often pay little or no rent, and get their home maintained in good order for free.’_ She concluded that _‘social housing is not a desirable destination’_, that _‘private ownership is preferable to state provided solutions’_ and that social housing providers should be able to sent rent levels without restrictions.
+
+![](/img/csjquoterents.png)
 
 
 ## Harvard Gardens
