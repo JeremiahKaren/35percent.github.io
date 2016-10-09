@@ -4,7 +4,7 @@ title: "CPO legal challenge called in for scrutiny"
 subtitle: "Southwark's decision to challenge the Secretary of State's CPO decision has been called in by its Overview & Scrutiny Committee"
 published: true
 ---
-The Aylesbury CPO decision took a further twist this week when Southwark Council's [Overview and Scrutiny Committee](http://moderngov.southwark.gov.uk/mgCommitteeDetails.aspx?ID=308) 'called-in' the decision for further examination, which it will [scrutinise on Monday evening](http://moderngov.southwark.gov.uk/ieListDocuments.aspx?CId=308&MId=5456&Ver=4).
+The Aylesbury CPO decision took a further twist this week when Southwark Council's [Overview and Scrutiny Committee](http://moderngov.southwark.gov.uk/mgCommitteeDetails.aspx?ID=308) 'called-in' the Cabinet's decision to mount a legal challenge, which it will [scrutinise on Monday evening](http://moderngov.southwark.gov.uk/ieListDocuments.aspx?CId=308&MId=5456&Ver=4).
 
 ![](http://35percent.org/img/oscpic.jpg)
 *Southwark's Overview & Scrutiny Committee*
