@@ -31,6 +31,7 @@ Likewise, the new Camberwell library is a replacement of the one that was closed
 ![](/img/camberwelllibraries.jpg)
 *Former Camberwell library (left), new Camberwell library (right)* 
 
+## Selling Southwark's adult care services
 Meanwhile, in order to make up the shortfall in funding the construction of the replacement libraries, health and leisure centre, the Council has been making drastic cuts to social services and frantically selling off premises used by them.
 The Council has [cut](http://moderngov.southwark.gov.uk/documents/s59115/Policy%20and%20Resources%20Strategy%20201617%20to%20201819.pdf) a staggering £39m from the current year's budget for education and adult services alone. Here is a map of some adult services buildings that have been, or are being sold off or closed down by the Council's current (Labour) administration:
    
