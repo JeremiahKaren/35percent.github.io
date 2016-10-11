@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Aylesbury CPO Scrutiny'
-subtitle: 'Southwark's Overview & Scrutiny meeting'
+title: "Aylesbury CPO Scrutiny"
+subtitle: "Southwark's Overview & Scrutiny meeting"
 published: false
 ---
 At last night's 'call-in' meeting by the Overview and Scrutiny Committee, Cabinet member Mark Williams confirmed that the Council had spent a total of £200k on the Aylesbury CPO inquiry and that it will cost a further £50k to mount the High Court challenge. He explained that this would be a cheaper option than having to pay more compensation to each of the remaining leaseholders. He followed this up by re-iterating all the usual arguments about how he has a duty to the public purse and made a point of explaining that these funds were not coming from Council tax payers but from the Council's Housing Revenue account; i.e. the rent paid by the borough's Council tenants.
@@ -31,7 +31,9 @@ Cllr Lury absent - staircased in less than a year.
 Grounds for appeal published - we have applied to be an interested party in the case.
 Piers Corbyn made submissions to the Inquiry about daylight issues
 
+Creation Trust appeared to give evidence at the Committee in support of overriding leaseholders' human rights and that they didn't agree that they should be entitled to like-for-like swaps.
 
+Cllr Williams register of interest - wife works for Regis Homes. 
 
  
 
