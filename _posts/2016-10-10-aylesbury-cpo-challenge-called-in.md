@@ -50,7 +50,11 @@ The Aylesbury regeneration is essentially a commercial development with the aim 
 As we said in our last blog, Southwark should take this opportunity to call a halt to this misconceived regeneration and abandon what could be its futile and costly attempt to overturn the Secretary of State's decision. 
 
 ## Post Script
-The Council has published its pre-action protocol [letter before claim](/img/20161007_Secretary_of_State_Aylesbury_CPO.pdf) outlining its grounds for appealing the decision.
+The Council has published its pre-action protocol [claim](/img/20161007_Secretary_of_State_Aylesbury_CPO.pdf) stating that it is applying for judicial review to the High Court and outlining its grounds for appealing the decision. The letter is dated 7th October - 3 days before the decisionto appeal was to be called in for scrutiny..
+
+A short clip showing the highlights of the scrutiny committee meeting has been posted online:
+
+<iframe width="400" height="225" src="https://www.youtube.com/embed/GlTuN-ffEZk" frameborder="0" allowfullscreen></iframe>
 
 __Footnotes:__
 
