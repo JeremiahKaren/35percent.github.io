@@ -18,7 +18,10 @@ Judi's [FOI request](https://www.whatdotheyknow.com/request/352116/response/8732
 
 The meeting also confirmed that the decision to mount the legal challenge lies was taken by its 'monitoring officer' Doreen Forrester-Brown and that no agreement by Council members was necessary.
 
-The most vocal of members on the Scrutiny committee was Southwark momentum councillor Paul Fleming, who instead of scrutinising the Council's decision to appeal against the Secretary of State, decided to scrutinise .. He also dismissed the leaseholders' request for like-for-like swaps as 'privatising council housing'.
+The most vocal of members on the Scrutiny committee was Southwark momentum councillor Paul Fleming, who instead of scrutinising the Council's decision to appeal against the Secretary of State, decided to scrutinise .. 
+He went on to defend the monitoring officer's decision to appeal against the Secretary of State's decision, explaining the Council's main ground of appeal, which is that the Inspector failed to take into account the fact that the Council had made improvements to it re-housing offer to leaseholders. What Councillor Fleming didn't explain is that these changes to leaseholder rehousing policy were made two months after the public inquiry had closed and that [inquiry rules] state that new evidence cannot be submitted by either party after a public inquiry has closed. This is for the obvious practical reasons.
+
+He also dismissed the leaseholders' request for like-for-like swaps as 'privatising council housing'.
 
 Cllr Fleming who is also ward Councillor for the Aylesbury estate, bought a terraced house overlooking the next phase of the regeneration scheme.
 He was the only person to speak in support of the scheme at the planning application hearing for the Aylesbury redevelopment.
