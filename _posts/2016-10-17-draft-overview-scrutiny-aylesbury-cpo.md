@@ -18,6 +18,17 @@ Judi's [FOI request](https://www.whatdotheyknow.com/request/352116/response/8732
 
 The meeting also confirmed that the decision to mount the legal challenge lies was taken by its 'monitoring officer' Doreen Forrester-Brown and that no agreement by Council members was necessary.
 
+The most vocal of members on the Scrutiny committee was Southwark momentum councillor Paul Fleming, who instead of scrutinising the Council's decision to appeal against the Secretary of State, decided to scrutinise .. He also dismissed the leaseholders' request for like-for-like swaps as 'privatising council housing'.
+
+Cllr Fleming who is also ward Councillor for the Aylesbury estate, bought a terraced house overlooking the next phase of the regeneration scheme.
+He was the only person to speak in support of the scheme at the planning application hearing for the Aylesbury redevelopment.
+
+Cllr Lury absent - staircased in less than a year.
+
+Grounds for appeal published - we have applied to be an interested party in the case.
+Piers Corbyn made submissions to the Inquiry about daylight issues
+
+
 ### do you know where I could find a basic outline of the finances of the Aylesbury regeneration?
 
 Some of the basic financials are laid out here: http://35percent.org/aylesbury-estate/#bridging-the-viability-gap
