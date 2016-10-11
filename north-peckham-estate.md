@@ -26,6 +26,8 @@ The GLA report confirms that the Five Estates project comprised 3203 homes, whic
 
 Luna Glucksberg, lecturer in urban studies at Goldsmiths University wrote very interesting and informative [chapter](https://southwarknotes.files.wordpress.com/2012/03/peckham-glucksbergl_2013.pdf) of her PHD thesis on the regeneration of the North Peckham estate.
 
+The excellent Municipal Dreams blog has written extensively [here](https://municipaldreams.wordpress.com/2016/10/11/the-five-estates-peckham-part-one/) about the history of the North Peckham estate.
+
 ![](/img/northpeckhamdemogoogle.png)
 
 ![](/img/northpeckhamdemo.jpg)
@@ -34,8 +36,5 @@ Luna Glucksberg, lecturer in urban studies at Goldsmiths University wrote very i
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/YwYSjJgd3Ig" frameborder="0" allowfullscreen></iframe>
 
-![](/img/nplhl1.jpg)
-
-![](/img/nplhl2.jpg)
 
 <iframe width="400" height="225" src="https://www.youtube.com/embed/zw467IeO4dI" frameborder="0" allowfullscreen></iframe>
