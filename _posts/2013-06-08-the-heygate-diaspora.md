@@ -32,7 +32,8 @@ These start at £330k for a 1 Bed flat, £455k for a 2 Bed flat and £590k for a
 
 With shared ownership flats [requiring](http://crappistmartin.github.io/images/landqpricelisttp.pdf) a minimum income of £57k and just [82 of the 2,704](/affordable-housing/) new homes at social rents, not many residents - whether tenant or a leaseholder - will be exercising their right to return to the new Heygate.
 
-
+![](http://heygatewashome.org/img/HeygateEstateLeaseholderDisplacement.png)
+*Our displacement map re-worked by Sorbonne student showing correlation with property prices*
 
 
 
