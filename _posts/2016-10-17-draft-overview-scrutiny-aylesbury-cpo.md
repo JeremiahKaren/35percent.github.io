@@ -6,7 +6,16 @@ published: false
 ---
 ![](http://35percent.org/img/oscprotest.jpg)
 
-The Aylesbury estate Leaseholders Group staged a protest at the Council's Overview & Scrutiny Committee meeting on Monday. They protested at the Council's decision to appeal the Secretary of State's damning judgement on equalities/human rights breaches and directions to offer them a better re-housing deal.
+The [Aylesbury estate Leaseholders Group](http://halag.wordpress.com) staged a protest at the Council's Overview & Scrutiny Committee meeting on Monday. They protested at the Council's [decision](http://35percent.org/2016-09-26-council-appeals-aylesbury-cpo-decision/) to appeal the Secretary of State's [damning judgement](http://35percent.org/2016-09-18-aylesbury-compulsory-purchase-order-rejected/) that their equalities/human rights were being breached.
+
+The leaseholders made a [written submission](https://halag.files.wordpress.com/2016/10/oscdeputation_10102016.pdf) and gave evidence to the Committee, asserting that the High Court challenge was uneccessary. Having been [accused](http://www.southwarknews.co.uk/news/aylesbury-plan-face-scrutiny/) of 'holding the Council to ransom', the leaseholders pointed out that all they wanted was to remain homeowners in the borough.They reminded the Council of its like-for-like rehousing offer and its mysterious disappearance from the list of options available to them early on in the scheme. 
+
+
+
+
+
+
+  and directions to offer them a better re-housing deal.
 
 At last night's 'call-in' meeting by the Overview and Scrutiny Committee, Cabinet member Mark Williams confirmed that the Council had spent a total of £200k on the Aylesbury CPO inquiry and that it will cost a further £50k to mount the High Court challenge. He explained that this would be a cheaper option than having to pay more compensation to each of the remaining leaseholders. He followed this up by re-iterating all the usual arguments about how he has a duty to the public purse and made a point of explaining that these funds were not coming from Council tax payers but from the Council's Housing Revenue account; i.e. the rent paid by the borough's Council tenants.
 
