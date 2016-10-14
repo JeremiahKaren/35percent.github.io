@@ -68,6 +68,8 @@ See this blog post for more info on these figures: http://35percent.org/2016-09-
 Construction and associated costs are estimated at £888m in the viability figures we obtained via FOI. It gets a bit more complicated because Notting Hill has an agreement with developers Barratt homes who are actually the ones building the new homes. I understand from the redacted Development Partnership Agreement that Barratt will foot most of the construction costs in return for being able to keep half of the sales revenue on the sale of the private units up to an agreed price per square ft (£451 per square ft).
  
 ### And what about the land, do Southwark just sell it to Notting Hill or do they keep owning it?
+Need to look at this and the explanations in the closed Cabinet report as to who gets what from the deal. My initial understanding is that Southwark gives NHHT the land, NHHT then lets Barratt build the new homes on it. In return for building the new homes Barratt gets to keep 50% of the sales revenue (up to a level of £451 per sqft). What about the affordable units though? What does the report say about these?
+
 
 Southwark is selling the entire estate to Notting Hill. The Council will receive payments from Notting Hill in return for selling the land but these will be dependent on the viability of each individual phase; i.e. after each phase is completed the total construction costs (plus a 21% profit margin for Notting Hill - [included as a cost]) are deducted from the total sales revenue, and whatever is left over the Council receives as a land receipt for the sale of the Land.
 The Council also has a profit share agreement with Notting Hill, whereby it receives 50% of the sales profit if sales exceed a given benchmark (£472 per square ft). 

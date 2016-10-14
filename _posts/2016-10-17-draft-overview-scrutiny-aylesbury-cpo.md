@@ -4,6 +4,10 @@ title: "Aylesbury CPO Scrutiny"
 subtitle: "Southwark's Overview & Scrutiny meeting"
 published: false
 ---
+![](http://35percent.org/img/oscprotest.jpg)
+
+The Aylesbury estate Leaseholders Group staged a protest at the Council's Overview & Scrutiny Committee meeting on Monday. They protested at the Council's decision to appeal the Secretary of State's damning judgement on equalities/human rights breaches and directions to offer them a better re-housing deal.
+
 At last night's 'call-in' meeting by the Overview and Scrutiny Committee, Cabinet member Mark Williams confirmed that the Council had spent a total of £200k on the Aylesbury CPO inquiry and that it will cost a further £50k to mount the High Court challenge. He explained that this would be a cheaper option than having to pay more compensation to each of the remaining leaseholders. He followed this up by re-iterating all the usual arguments about how he has a duty to the public purse and made a point of explaining that these funds were not coming from Council tax payers but from the Council's Housing Revenue account; i.e. the rent paid by the borough's Council tenants.
 
 <iframe width="400" height="225" src="https://www.youtube.com/embed/GlTuN-ffEZk" frameborder="0" allowfullscreen></iframe>
