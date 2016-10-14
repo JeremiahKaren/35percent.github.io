@@ -33,6 +33,3 @@ In addition, the inspector was provided with full copies of all the objections r
 As objectors who made representations to the public inquiry we have applied to become an interested party in the Council's application to appeal. We will be submitting representations to the High Court, including a full copy of Piers Corbyn's witness evidence and other evidence showing Southwark's claim to be unfounded and simply a desperate attempt to...
  
 
-We blogged [previously] about the mysterious budget slashing in the run up to approval of the Area Action Plan for the estate.. 
-
-Judi's [FOI request](https://www.whatdotheyknow.com/request/352116/response/873296/attach/3/160926%20EIR%20FOI%20685920.pdf)
