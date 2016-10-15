@@ -6,6 +6,22 @@ subtitle: 'Notting Hill publishes its estate regeneration manifesto'
 published: false
 
 ---
+Southwark the tenants' friend? - really?
+
+ *Demolishing 2,200 council homes 
+ *Replacing them with 'affordable' housing 
+ *Diverting £££Ms of funds from other estates to shore up NHHT's finances
+ *Forcing council tenants through the misery of Homesearch
+ *Denying those on the housing waiting list a better chance of a council home
+
+These are the losers, here are the winners:
+
+NHHT, Barratt Homes
+
+NHHT profit - where does it go? into building new 'social housing' or paying of its historic £700m debt?
+
+
+
 The [g15](https://en.wikipedia.org/wiki/G15_%28housing_associations%29) – who represent London’s largest housing associations – has launched a report which documents 35 of its estate regeneration projects. It highlights the importance of estate regeneration in solving the capital’s housing crisis and identifies what is required to deliver more. Notting Hill Housing Trust is a key player in the g15 group and the report was also authored with the help of Southwark's Director of Housing & Modernisation Gerri Scott[^1]. 
 
 The report repeats all of the usual right wing arguments against council estates: create mixed communities; replace poor quality housing; address social deprivation etc, etc.
