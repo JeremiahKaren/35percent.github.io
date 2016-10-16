@@ -27,7 +27,7 @@ geometry: a4paper, left=25mm, right=25mm, top=50mm, bottom=25mm
 Dear Sir,  
 I write on behalf of the 35% Campaign, which made written and oral submissions in objection to the above compulsory purchase order. We are writing to you in response to the pre-action protocol letter issued by Southwark Council pursuant to its application for a judicial review of the Secretary of State's decision on the order.
 
-As objectors to the order and interested parties in the case, we strongly urge you to reject the Council's appeal to quash the decision for the above order and re-run the public inquiry.
+As objectors to the order and interested parties in the case, we strongly urge you to reject the Council's appeal to quash the decision for the above order and the request to re-run the public inquiry.
 
 We agree with the conclusion in Inspector Coffey's 29 Jan 2016 report that _"the CPO would not achieve the social, economic and environmental well-being sought"_ and urge the Secretary of State to stand by his decision to refuse the order on the grounds given in his 16 Sep 2016 decision letter. 
 
@@ -59,16 +59,16 @@ The Council goes on to claim in its grounds of appeal that:
 
 Again, this information is misleading; it fails to give the number of leaseholders at the second sitting of the Inquiry (October 2015) and fails to point out the significant time period between issuing of the order (June 2014) and Secretary of State's decision (Sep 2016). 
 
-It also fails to take into account the difficult conditions caused by disruption to services by the acquiring authority since the close of the inquiry. In May 2014, the Secretary of State had to [intervene](http://35percent.org/2016-05-07-southwark-in-bottom-3-boroughs-for-affordable-housing-delivery/#aylesbury-bashing) to stop the Council commencing demolition works before the order had been confirmed. The disruption to services caused by its soft-strip demolition works has been widely reported[^1] in the local press, with heating/services, security, postal deliveries affected. This has taken its toll on elderly and more vulnerable leaseholders, many of whom have since felt forced to move out of their homes as a result.
+It also fails to take into account the difficult conditions caused by disruption to services by the acquiring authority since the close of the inquiry. In May 2014, the Secretary of State had to [intervene](http://35percent.org/2016-05-07-southwark-in-bottom-3-boroughs-for-affordable-housing-delivery/#aylesbury-bashing) to stop the Council commencing demolition works before the order had been confirmed. The disruption to services caused by its soft-strip demolition works has been widely reported[^1] in the local press, with heating/services, security, local election candidates and postal deliveries affected. This has taken its toll on elderly and more vulnerable leaseholders, many of whom have since felt forced to move out of their homes as a result. Through its actions, the Council has also demonstrated disdain for the Secretary of State's decision by considering the result of the inquiry a foregone conclusion.
 
 #Valuation issues
 The Council claims in its grounds of appeal that inspector Coffey was wrong to infer that the Council's valuation of leaseholers' properties was low and that this should be a matter for the Upper (Lands) Tribunal rather than CPO public inquiry:
  
 >_"The Council’s position at the inquiry was that the offers made were compliant with the compensation code, being based on “on-estate” comparables in accordance with decisions of the Lands Tribunal. No adverse finding was made in that respect by either the Inspector or the Secretary of State."_
 
-To our knowledge, no evidence was submitted or discussed at the inquiry regarding valuation methods. There was evidence submitted by objectors complaining that the Council is using non-qualified and non RICS-registered officers to value their homes, but there was no discussion around valuation methodology.
+To our knowledge, no evidence was submitted or discussed at the inquiry regarding valuation methods. There was evidence submitted by objectors demonstrating that the Council is using non-qualified and non RICS-registered officers to value their homes, but there was no discussion around valuation methodology.
 
-In any event, the Council's claim that its valuation method using _"on-estate comparables is in accordance with the decisions of the Lands Tribunal"_; both Lands Tribunal cases for the Aylesbury estate have been explicitly dismissed as inappropriate - see __Joshua v London Borough of Southwark [2014] UKUT 0511 (LC) (paras 34-36)__ and __John v London Borough of Southwark [2014] UKUT 0538 (LC) (para. 58).__
+In any event, regarding the Council's claim that its valuation method is using _"on-estate comparables is in accordance with the decisions of the Lands Tribunal"_: both Lands Tribunal cases for the Aylesbury estate have been explicitly dismissed as inappropriate - see __Joshua v London Borough of Southwark [2014] UKUT 0511 (LC) (paras 34-36)__ and __John v London Borough of Southwark [2014] UKUT 0538 (LC) (para. 58).__
 
 #Public Sector Equalities Duty (PSED)
 In its grounds of appeal, the Council claims that:
@@ -91,7 +91,7 @@ Further, the planning committee report itself makes the point of explicitly admi
 #Remedying the failure
 The Council makes the further claim that the Secretary of State has _"failed to identify in what respects the Council’s actions had fallen short of “reasonable steps” or what further steps were needed to remedy the failure he concluded existed."_
 
-But the Secretary of State's decision letter is clear on what steps are necessary for the Council to take:
+However, the Secretary of State's decision letter is clear on what steps are necessary for the Council to take:
 
 >_"He considers that potentially there is a good opportunity for the Council to work positively with the remaining leaseholders to alleviate the negative aspects he has highlighted above with a view to resubmitting an Order in due course." (DL 36)_
 
@@ -100,7 +100,7 @@ Instead of working positively with remaining leaseholders, the Council has chose
 #Conclusion
 The Council's grounds of appeal are weak and lack any reasoned argument based in fact. We urge the Secretary of State to contest Southwark Council's appeal of his decision to refuse the Aylesbury estate compulsory purchase order. With the regeneration of council estates at scale now working its way into government policy proposals, the Secretary of State is right to have set a bar that this should not come at the cost of trampling over and dispersing long-standing communities. Southwark Council's appeal is a panicked response to the CPO decision and a desperate attempt to rescue a regeneration scheme whose viability rests on the systematic breach of human and equalities rights.
 
-The 35% Campaign is not opposed to regeneration per se, but when the strategy is based on using statutory compulsory purchase powers in order to shortchange and forcibly dispossess members of our local community (who are often least able to defend themselves), then we are unable to stand by and watch passively. We are therefore gearing up to give the greatest possible support to the Aylesbury leaseholders, will be applying to attach ourselves as interested parties to the appeal and look forward to providing all the assistance we can to other parties in the case. 
+The 35% Campaign is not opposed to regeneration per se, but when the strategy is based on using statutory compulsory purchase powers in order to shortchange and forcibly dispossess members of our local community (who are often least able to defend themselves), then we are unable to stand by and watch passively. We are therefore continue to offer our utmost support to the Aylesbury leaseholders. We will be applying to attach ourselves as interested parties to the appeal and look forward to providing all the assistance we can to other parties in the case. 
 
 
 [^1]: See: [Southwark News 22092016](http://www.southwarknews.co.uk/news/aylesbury-cpo-lease-holders-call-council-improve-living-conditions-governments-verdict-can-stay/), [Southwark News 18032015](http://www.southwarknews.co.uk/news/aylesbury-estate-residents-its-like-living-in-alcatraz/), [Southwark News 24032016](http://www.southwarknews.co.uk/news/8458-2/)
