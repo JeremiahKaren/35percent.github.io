@@ -2,7 +2,7 @@
 layout: post
 title: "CPO Scrutiny Committee - helpless and hopeless"
 subtitle: "Southwark's Overview & Scrutiny Committee rejects call for legal challenge to be reconsidered"
-published: false 
+published: true 
 ---
 Last Monday evening, Southwark's Overview and Scrutiny Committee rejected calls for its decision to appeal against the government's refusal to grant it a CPO against Aylesbury leaseholders, after it heard that it was powerless to do so.
 
@@ -31,8 +31,8 @@ The second of the Council's two arguments listed in its [grounds of appeal](http
 
 <iframe width="400" height="225" src="https://www.youtube.com/embed/LMx8CfY3PbM" frameborder="0" allowfullscreen></iframe>
 
-In addition, the inspector was provided with full copies of all the objections received by the Council to the planning application, several of which raised the issue of overshadowing.
+In addition, the inspector was provided with full copies of all the objections received by the Council to the planning application, several of which raised the issue of overshadowing. We have drafted full responses to the Council's grounds of appeal in [a letter](http://35percent.org/img/SoSletter17102016.pdf) we have sent to the Secretary of State as an interested party in the appeal case.
 
 Aylesbury leaseholders and their supporters have already received 'letters before claim' (dated 3 days before the Scrutiny Committee meeting) formally notifying them of Southwark's intention to challenge the CPO decision. Campaigners are therefore gearing up to give the greatest possible support to the leaseholders. Southwark's panicked response to the CPO decision is a desperate attempt to rescue a regeneration scheme whose viability rests on a breach of human rights and shortchanging leaseholders. Southwark's and Notting Hill Housing Trust's entire strategy is based on a cheap method of dispossessing residents. With 250 leaseholders remaining on the Aylesbury estate and thousands more on estates across the borough, the outcome of this case is likely to have implications for regeneration schemes in years to come. 
 
-The leaseholders' fight is the tenants' fight; the Aylesbury regeneration is losing us 2,200 Council homes, which are not being replaced by the scheme. The leaseholders' fight is the tenants' fight and it's a battle against this regeneration model that is sucking up hundreds of millions of pounds of Southwark's funds, while offering very little hope of new housing to those who most need it.
+A [legal opinion](http://hsfnotes.com/realestatedevelopment/2016/09/28/a-new-right-to-a-community-decision-by-the-secretary-of-state-not-to-confirm-the-cpo-for-aylesbury-estate/) says that this decision could herald a possible new 'right to a community' for council estate residents, a right that is sorely needed. We have now set up a [crowdfunding campaign](https://www.gofundme.com/aylesbury-the-right-to-a-community-2uefgf2s) to pay for a barrister to represent the objectors at Southwark's appeal hearing. Any contribution that you can make to this fund, small or large, will help both the Aylesbury leaseholders and be a step towards making the 'right to a community' a reality. 
