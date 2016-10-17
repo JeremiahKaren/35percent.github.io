@@ -4,14 +4,11 @@ title: "Scrutiny fails - Southwark submits grounds of appeal"
 subtitle: "Council submits grounds of appeal while Scrutiny Committee rejects call for legal challenge to be reconsidered"
 published: true 
 ---
-Last Monday evening, Southwark's Overview and Scrutiny Committee rejected calls for its decision to appeal against the government's refusal to grant it a CPO against Aylesbury leaseholders, after it heard that it was powerless to do so.
+Last Monday evening, Southwark's Overview and Scrutiny Committee rejected calls for the Council's [decision](http://35percent.org/2016-09-26-council-appeals-aylesbury-cpo-decision/) to appeal against the government's refusal to grant it a CPO against Aylesbury leaseholders to be reconsidered, after it heard that it was powerless to do so.
 
 ![](http://35percent.org/img/oscprotest.jpg)
 
-The [Aylesbury estate Leaseholders Group](http://halag.wordpress.com) staged a protest at the meeting, angered at the damning judgement that their equalities and human rights had been breached and Southwark's refusal to accept the judgement. 
-
-
-Council's [decision](http://35percent.org/2016-09-26-council-appeals-aylesbury-cpo-decision/) to appeal the Secretary of State's [damning judgement](http://35percent.org/2016-09-18-aylesbury-compulsory-purchase-order-rejected/) that their equalities/human rights were being breached.
+The [Aylesbury estate Leaseholders Group](http://halag.wordpress.com) staged a protest at the meeting, angered at the [damning judgement](http://35percent.org/2016-09-18-aylesbury-compulsory-purchase-order-rejected/) tthat their equalities and human rights had been breached and Southwark's refusal to accept the judgement. 
 
 The leaseholders made a [written submission](https://halag.files.wordpress.com/2016/10/oscdeputation_10102016.pdf) and gave evidence to the Committee, arguing that the High Court challenge was uneccessary. Having been [accused](http://www.southwarknews.co.uk/news/aylesbury-plan-face-scrutiny/) of 'holding the Council to ransom', the leaseholders pointed out that all they wanted was to remain homeowners in the borough. They reminded the Council of its like-for-like rehousing offer and its mysterious disappearance from the list of options available to them early on in the delivery of the present scheme (like-for-like being a simple swap for a similar size flat on a council estate elsewhere in the borough).  
 
