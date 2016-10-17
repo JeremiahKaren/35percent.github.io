@@ -18,6 +18,7 @@ The leaseholders made a [written submission](https://halag.files.wordpress.com/2
 Council members came up with some questionable excuses as to why the like-for-like policy was dropped and insisted the best course of action was to challenge the Secretary of State's decision and continue shortchanging leaseholders.   
 
 <iframe width="400" height="225" src="https://www.youtube.com/embed/GlTuN-ffEZk" frameborder="0" allowfullscreen></iframe>
+[https://www.youtube.com/embed/GlTuN-ffEZk](https://www.youtube.com/embed/GlTuN-ffEZk)
 
 The committee also heard that the Council has spent a total of £200k on the Aylesbury CPO inquiry to date and that it estimates a further £50k is required in order to mount the High Court challenge. It was not able to give an estimate of costs it would become liable for should it lose the High Court battle and be forced to pay the Secretary of State's legal fees and court costs. 
 
