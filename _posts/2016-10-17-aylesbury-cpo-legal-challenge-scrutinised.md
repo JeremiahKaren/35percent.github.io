@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "CPO Scrutiny Committee - helpless and hopeless"
-subtitle: "Southwark's Overview & Scrutiny Committee rejects call for legal challenge to be reconsidered"
+title: "Scrutiny fails - Southwark submits grounds of appeal"
+subtitle: "Council submits grounds of appeal while Scrutiny Committee rejects call for legal challenge to be reconsidered"
 published: true 
 ---
 Last Monday evening, Southwark's Overview and Scrutiny Committee rejected calls for its decision to appeal against the government's refusal to grant it a CPO against Aylesbury leaseholders, after it heard that it was powerless to do so.
@@ -27,9 +27,9 @@ The most vocal member of the Scrutiny committee was Southwark's only Corbynite C
   
 Cllr Fleming dismissed leaseholders' request for like-for-like swaps as 'privatising council housing' and defended Doreen Forrester-Brown's decision to appeal, explaining that the Council can't afford to delay selling the Aylesbury estate to Notting Hill Housing and its development partner Barratt Homes any longer.
 
-## Let defeat be snatched from the jaws of victory?
-Three days before the Scrutiny Committee met, the Council [wrote](http://35percent.org/img/20161007_Secretary_of_State_Aylesbury_CPO.pdf) to the Secretary of State and objectors stating its intent and outlining its grounds of appeal. We have drafted a full response to the Council's grounds of appeal in [a letter](http://35percent.org/img/SoSletter17102016.pdf) that we have sent to the Secretary of State as an interested party in the case.
+## shaky grounds
+Three days before the Scrutiny Committee met, the Council [wrote](http://35percent.org/img/20161007_Secretary_of_State_Aylesbury_CPO.pdf) to the Secretary of State and objectors stating its intent and outlining its grounds of appeal. We have drafted a full response to the Council's grounds of appeal in [a letter](http://35percent.org/img/SoSletter17102016.pdf) that we have sent to the Secretary of State as an interested party in the case. As the points raised in our response show, Southwark's grounds of appeal are shaky to say the least.
 
-We are gearing up to give the greatest possible support to the leaseholders. Southwark's panicked response to the CPO decision is a desperate attempt to rescue a regeneration scheme whose viability rests on a breach of human rights and shortchanging leaseholders. Southwark's and Notting Hill Housing Trust's entire strategy is based on a cheap method of dispossessing residents. With 250 leaseholders remaining on the Aylesbury estate and thousands more on estates across the borough, the outcome of this case is likely to have implications for regeneration schemes in years to come. 
+Southwark's appeal is a panicked response to the CPO decision and a desperate attempt to rescue a regeneration scheme whose viability rests on a breach of human rights and shortchanging leaseholders. Southwark's and Notting Hill Housing Trust's entire strategy is based on a cheap method of dispossessing residents. With 250 leaseholders remaining on the Aylesbury estate and thousands more on estates across the borough, the outcome of this case is likely to have implications for regeneration schemes in years to come. 
 
 A [legal opinion](http://hsfnotes.com/realestatedevelopment/2016/09/28/a-new-right-to-a-community-decision-by-the-secretary-of-state-not-to-confirm-the-cpo-for-aylesbury-estate/) says that this decision could herald a possible new 'right to a community' for council estate residents, a right that is sorely needed. We have now set up a [crowdfunding campaign](https://www.gofundme.com/aylesbury-the-right-to-a-community-2uefgf2s) to pay for a barrister to represent the objectors at Southwark's appeal hearing. Any contribution that you can make to this fund, small or large, will help both the Aylesbury leaseholders and be a step towards making the 'right to a community' a reality. 
