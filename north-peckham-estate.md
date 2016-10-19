@@ -4,7 +4,7 @@ title: "North Peckham estate regeneration"
 sharing: true
 footer: true
 ---
-![](http://crappistmartin.github.io/images/northpeckhamestate.jpg)
+![](/img/camden-estate-2.jpg)
 
 [http://news.bbc.co.uk/1/hi/england/1841755.stm](http://news.bbc.co.uk/1/hi/england/1841755.stm)
 
@@ -26,11 +26,13 @@ The GLA report confirms that the Five Estates project comprised 3203 homes, whic
 
 Luna Glucksberg, lecturer in urban studies at Goldsmiths University wrote very interesting and informative [chapter](https://southwarknotes.files.wordpress.com/2012/03/peckham-glucksbergl_2013.pdf) of her PHD thesis on the regeneration of the North Peckham estate.
 
-The excellent Municipal Dreams blog has written extensively [here](https://municipaldreams.wordpress.com/2016/10/11/the-five-estates-peckham-part-one/) about the history of the North Peckham estate.
+The excellent Municipal Dreams blog has written extensively [here](https://municipaldreams.wordpress.com/2016/10/11/the-five-estates-peckham-part-one/) and [here](https://municipaldreams.wordpress.com/2016/10/18/the-five-estates-peckham-part-ii/) about the history of the North Peckham estate.
 
 ![](/img/northpeckhamdemogoogle.png)
 
 ![](/img/northpeckhamdemo.jpg)
+
+![](http://crappistmartin.github.io/images/northpeckhamestate.jpg)
 
 ![](/img/northpeckhamstockphoto.jpg)
 
