@@ -4,6 +4,18 @@ title: "Enter the title of the blog post here"
 subtitle: "Enter the subtitle of the blog post here"
 published: false
 ---
+## S106 contributions
+Go through S106 agreements for Elephant & Castle and sum up the total S106 
+contributions for 
+
+ * Health/GP services
+ * Education
+ * Leisure
+
+Show how pitiful these are in comparison to the total new number of residents 
+(ca. 15,000)
+
+
 ## This is a sub-heading
 
 This is how to embed an image
