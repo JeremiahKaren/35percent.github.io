@@ -14,16 +14,10 @@ crowd-funding campaign, the Aylesbury leaseholders have been able to instruct a
 barrister to make initial submissions. We'll be further fundraising for them to 
 go all the way to the hearing. 
 
-## Battle for the Shopping Centre is on
-http://www.southwarknews.co.uk/news/im-going-nowhere-owner-elephant-bingo-hall-pours-doubt-delanceys-schedule-demolishing-shopping-centre/
+Govt rows back on Cameron's pledge
+http://35percent.org/img/propertyweek20102016.pdf
 
-![](/img/planneddecline.jpg)
-*Empty units at the shopping centre*
-
-Following the Aylesbury CPO decision, Southwark may be realising that obtaining 
-a compulsory purchase order for the shopping centre may not be quite as 
-straightforward as it had orginally anticipated.
-
+Aylesbury DPA FOI
 
 
 ## Barratts chief arrested for fiddling contracts awards
@@ -37,10 +31,11 @@ private market homes.
 
 Mention also Blackfriars Circus and how they are described in the DPA.
 
+see also http://35percent.org/2015-09-14-barratt-conquers-southwark/
+
 Southwark the tenants' friend? - really?
 
-Govt rows back on Cameron's pledge
-http://35percent.org/img/propertyweek20102016.pdf
+
 
 
 
