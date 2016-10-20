@@ -6,7 +6,43 @@ subtitle: 'Notting Hill publishes its estate regeneration manifesto'
 published: false
 
 ---
+## Battle for the Aylesbury is on
+Secretary of State has confirmed that he will contest the Council's appeal of 
+his Aylesbury CPO decision. We submitted our [response] to the Council's [shaky 
+grounds of appeal] last week. Following an impressive kick-start to our 
+crowd-funding campaign, the Aylesbury leaseholders have been able to instruct a 
+barrister to make initial submissions. We'll be further fundraising for them to 
+go all the way to the hearing. 
+
+## Battle for the Shopping Centre is on
+http://www.southwarknews.co.uk/news/im-going-nowhere-owner-elephant-bingo-hall-pours-doubt-delanceys-schedule-demolishing-shopping-centre/
+
+![](/img/planneddecline.jpg)
+*Empty units at the shopping centre*
+
+Following the Aylesbury CPO decision, Southwark may be realising that obtaining 
+a compulsory purchase order for the shopping centre may not be quite as 
+straightforward as it had orginally anticipated.
+
+
+
+## Barratts chief arrested for fiddling contracts awards
+Southwark has made a big deal of the fact that the Aylesbury estate is being 
+redeveloped by a Notting Hill Housin Trust, a 'non-profit' housing association.  
+It has kept very quiet about the fact that Notting Hill's _'developer partner'_ 
+for the scheme is Britain's xx largest private developer Barratt Homes and that 
+Barratt will be both building and selling all of the redeveloped estate's 1800 
+private market homes.
+![](/img/barrattasdeveloperpartner.png)
+
+Mention also Blackfriars Circus and how they are described in the DPA.
+
 Southwark the tenants' friend? - really?
+
+Govt rows back on Cameron's pledge
+http://35percent.org/img/propertyweek20102016.pdf
+
+
 
  *Demolishing 2,200 council homes 
  *Replacing them with 'affordable' housing 
