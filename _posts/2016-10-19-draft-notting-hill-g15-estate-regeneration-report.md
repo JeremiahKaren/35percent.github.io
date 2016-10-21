@@ -14,11 +14,46 @@ crowd-funding campaign, the Aylesbury leaseholders have been able to instruct a
 barrister to make initial submissions. We'll be further fundraising for them to 
 go all the way to the hearing. 
 
-Govt rows back on Cameron's pledge
-http://35percent.org/img/propertyweek20102016.pdf
+![](/img/andybelton.png)
+NHHT describes its pipeline as affordable rent
 
-Aylesbury DPA FOI
+Lambeth [sold](/img/LRclaremontgarages.pdf) the Claremont East estate garages 
+to Notting Hill in 2013 for the knock down price of £1.5m, on the basis that it 
+would provide 100% social rented housing.
 
+![](/img/claremontlanddisposal.png)
+*Extract from [planning committee 
+minutes](https://moderngov.lambeth.gov.uk/mgAi.aspx?ID=13743)*
+
+By the time it Lambeth's [planning committee 
+resolved](https://moderngov.lambeth.gov.uk/mgAi.aspx?ID=13743) to grant Notting 
+Hill consent to build on the Claremont East estate, on the basis that 70% of 
+the affordable housing would be social rented.
+![](/img/claremontplanningcommittee.png)
+*Extract from the [planning committee 
+report](https://moderngov.lambeth.gov.uk/mgAi.aspx?ID=13743)* 
+
+However, [GLA 
+data](https://data.london.gov.uk/dataset/gla-affordable-housing-programme-outturn/resource/0c87e5dc-f1e9-4edf-b246-bef6b40a9ba3) 
+shows that these have been provided instead as affordable rent of up to 68% 
+market rent.
+
+## Fabrik
+[Planning Committee 
+report](https://moderngov.lambeth.gov.uk/mgConvert2PDF.aspx?ID=16725) for 
+Notting Hill's 'Fabrik' development on Coldharbour lane shows it was given 
+consent for 43 social rented homes. We understand from the CORE lettings data 
+system that a number of these are now being let at affordable rent. 
+
+## NHHT in Southwark
+We know that NHHT pulled this trick with its redevelopment of .. estate during 
+the Bermondsey Spa regeneration, where 54 council homes were replaced 44 
+affordable rented homes at up to 62% market rent.
+
+We know that it has replaced the Elmington estate with affordable rent of upt 
+to 65% market rent.
+
+Is this the future of Wood Dene and Aylesbury?
 
 ## Barratts chief arrested for fiddling contracts awards
 Southwark has made a big deal of the fact that the Aylesbury estate is being 
@@ -31,11 +66,10 @@ private market homes.
 
 Mention also Blackfriars Circus and how they are described in the DPA.
 
-see also http://35percent.org/2015-09-14-barratt-conquers-southwark/
-
 Southwark the tenants' friend? - really?
 
-
+Govt rows back on Cameron's pledge
+http://35percent.org/img/propertyweek20102016.pdf
 
 
 
@@ -53,9 +87,18 @@ NHHT profit - where does it go? into building new 'social housing' or paying of 
 
 
 
-The [g15](https://en.wikipedia.org/wiki/G15_%28housing_associations%29) – who represent London’s largest housing associations – has launched a report which documents 35 of its estate regeneration projects. It highlights the importance of estate regeneration in solving the capital’s housing crisis and identifies what is required to deliver more. Notting Hill Housing Trust is a key player in the g15 group and the report was also authored with the help of Southwark's Director of Housing & Modernisation Gerri Scott[^1]. 
+The [g15](https://en.wikipedia.org/wiki/G15_%28housing_associations%29) – who 
+represent London’s largest housing associations – has [launched a 
+report](https://www.nhhg.org.uk/news/news/all/meeting-the-challenges-of-urban-renewal/) 
+which documents 35 of its estate regeneration projects. It highlights the 
+importance of estate regeneration in solving the capital’s housing crisis and 
+identifies what is required to deliver more. Notting Hill Housing Trust is a 
+key player in the g15 group and the report was also authored with the help of 
+Southwark's Director of Housing & Modernisation Gerri Scott[^1]. 
 
-The report repeats all of the usual right wing arguments against council estates: create mixed communities; replace poor quality housing; address social deprivation etc, etc.
+The report repeats all of the usual right wing arguments against council 
+estates: create mixed communities; replace poor quality housing; address social 
+deprivation etc, etc.
 
 ![](/img/keydrivers.png)
 *Extract from the G15 estate regeneration report*
