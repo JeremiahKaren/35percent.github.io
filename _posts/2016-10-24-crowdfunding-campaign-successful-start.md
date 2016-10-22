@@ -32,6 +32,23 @@ Barratt was in the news last week, when its top London executive was
 on suspicion of bribery following an investigation into the awarding of 
 contracts.
 
+SEE
+THIS!
+http://www.insidehousing.co.uk/residents-anger-set-to-force-sub-let-u-turn/6504705.article
+
+AND
+_Alastair Baird, Regional Managing Director of Barratt London, said: "We are delighted to be working on the regeneration at Canada Water and are progressing quickly with the construction of high quality new homes for Rotherhithe. In the last two years, we have delivered 232 new homes and work is progressing well on the next phases of the development, with almost 700 more homes due for completion by summer 2013."_ from http://www.southwark.gov.uk/news/article/146/new_iconic_southwark_building_emerges
+
+AND 
+https://www.architectsjournal.co.uk/news/hta-design-wins-barratt/aj-home-of-the-future-competition/8690667.article
+
+AND
+http://nineelmslondon.com/wp-content/uploads/2015/11/Nine-Elms-Vauxhall-Strategy-Board-Agenda-6-March-2015.pdf
+
+can't read this, but may be interesting:
+https://www.scribd.com/document/294568418/DB-London-housing-market-pdf
+
+
 ![](/img/backhanders.jpg)
 
 Notting Hill Housing hasn't been subject to any such criminal investigation, 
