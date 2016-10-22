@@ -23,7 +23,8 @@ redeveloped by a Notting Hill Housing Trust, a 'non-profit' housing
 association.  It has kept silent about the fact that Notting Hill's _'developer 
 partner'_ for the scheme is the UK's largest private developer, Barratt Homes 
 and that Barratt will be both building and selling all of the redeveloped 
-estate's 1773 private market homes.
+estate's 1773 private market homes.  
+
 ![](/img/barrattasdeveloperpartner.png)
 
 Barratt was in the news last week, when its top London executive was 
@@ -34,9 +35,7 @@ contracts.
 ![](/img/backhanders.jpg)
 
 Notting Hill Housing hasn't been subject to any such criminal investigation, 
-but we have shown how its conduct has been undoubtedly questionable.
-
-We saw how they 
+but we have shown how its conduct has been undoubtedly questionable. We saw how they 
 [substituted](http://www.southwarknews.co.uk/news/council-takes-no-legal-action-over-44-missing-social-housing-units/) 
 affordable rent for social rent at the [Bermondsey Spa 
 regeneration](http://35percent.org/bermondsey-spa-regeneration/) and how [GLA 
@@ -45,7 +44,7 @@ shows it having delivered replacement 'social' housing on the Elmington estate
 at affordable rents of up to 65% market rent.  
 
 ## Not just Southwark
-What we haven't mentioned before is that this tenure switch practice appears to 
+What we haven't mentioned before is that this 'tenure switch' practice appears to 
 extend to beyond Southwark and it appears that Lambeth is having the wool 
 pulled over its eyes by Notting Hill too.
 
@@ -68,8 +67,8 @@ report](https://moderngov.lambeth.gov.uk/mgAi.aspx?ID=13743)*
 
 However, [GLA 
 data](https://data.london.gov.uk/dataset/gla-affordable-housing-programme-outturn/resource/0c87e5dc-f1e9-4edf-b246-bef6b40a9ba3) 
-shows that these have been provided instead as affordable rent of up to 68% 
-market rent.
+shows that these have been provided instead as affordable rent (charging up to 68% 
+market rent).
 
 Likewise, Lambeth's [Planning Committee 
 report](https://moderngov.lambeth.gov.uk/mgConvert2PDF.aspx?ID=16725) for 
@@ -115,7 +114,12 @@ This echoes Notting Hill CEO Kate Davies' call for less rent control in the [pol
 *Extract from [CSJ policy proposals](http://www.centreforsocialjustice.org.uk/UserStorage/pdf/Pdf%20reports/HousingPoverty.pdf) co-authored by Notting Hill CEO Kate Davies*
 
 ## St James Place
-St James Place estate is a good example of what happens when Notting Hill is free to sent rent levels without restrictions. Rent hikes of xx have resulted in a spate of evictions. http://www.southwarknews.co.uk/news/housing-association-slammed-nightmare-scenario-eviction-threat-bermondseys-st-james-estate/
+St James Place estate is a good example of what happens when Notting Hill takes over an estate from the local authority and is free to sent rent levels without restrictions. Rent hikes of xx have resulted in a spate of evictions. http://www.southwarknews.co.uk/news/housing-association-slammed-nightmare-scenario-eviction-threat-bermondseys-st-james-estate/
+
+CHECK OUT THESE, maybe we can figure out the rent increase and also extract weekly rents from this:
+page two of this [](https://www.foliolondon.co.uk/clever_search.jsp?autoSearch=true)
+[](https://www.foliolondon.co.uk/property_for_rent/Achilles%20Close_R_033109_overview)
+[](https://www.foliolondon.co.uk/property_for_rent/Abercorn%20Way_R_033252_overview)
 
 
 __Footnotes:__
