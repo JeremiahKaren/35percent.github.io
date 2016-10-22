@@ -117,9 +117,9 @@ This echoes Notting Hill CEO Kate Davies' call for less rent control in the [pol
 St James Place estate is a good example of what happens when Notting Hill takes over an estate from the local authority and is free to sent rent levels without restrictions. Rent hikes of xx have resulted in a spate of evictions. http://www.southwarknews.co.uk/news/housing-association-slammed-nightmare-scenario-eviction-threat-bermondseys-st-james-estate/
 
 CHECK OUT THESE, maybe we can figure out the rent increase and also extract weekly rents from this:
-page two of this [](https://www.foliolondon.co.uk/clever_search.jsp?autoSearch=true)
-[](https://www.foliolondon.co.uk/property_for_rent/Achilles%20Close_R_033109_overview)
-[](https://www.foliolondon.co.uk/property_for_rent/Abercorn%20Way_R_033252_overview)
+page two of this https://www.foliolondon.co.uk/clever_search.jsp?autoSearch=true
+https://www.foliolondon.co.uk/property_for_rent/Achilles%20Close_R_033109_overview
+https://www.foliolondon.co.uk/property_for_rent/Abercorn%20Way_R_033252_overview
 
 
 __Footnotes:__
