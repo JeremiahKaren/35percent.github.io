@@ -14,6 +14,13 @@ has enabled the leaseholders' barrister to start work on the case and submit
 preliminary responses to the Council's [letter before 
 claim](http://35percent.org/img/20161007_Secretary_of_State_Aylesbury_CPO.pdf).
 
+On Monday, the Secretary of State issued his [detailed 
+response](/img/SoSresponsetoLbC.pdf)  to Southwark's 'letter before claim'.It 
+says he considers Southwark's grounds of appeal 'unarguable' and has vowed to 
+'robustly defend' its CPO decision and 'seek his costs of doing so'.
+
+![](/img/SoSresponsetoLbC.png) 
+
 Meanwhile, Southwark continues to justify its appeal by claiming that the CPO 
 decision is preventing it from continuing with the regeneration of the estate 
 which will deliver at least 1,260 new 'affordable' homes. 
