@@ -16,7 +16,7 @@ has got off to a great start. We have raised over £2000 in the first week, a te
 ![](http://35percent.org/img/gfmscreenshot.png)
 
 In the meantime the leaseholders' barrister has started work on the case and on 
-submitting a preliminary responses to the Council's [letter before 
+submitting a preliminary response to the Council's [letter before 
 claim](http://35percent.org/img/20161007_Secretary_of_State_Aylesbury_CPO.pdf). 
 
 On Monday the Secretary of State issued his own [detailed 
@@ -37,7 +37,8 @@ Barratt Homes. Barratt is the UK's largest private developer and will be both
 building and selling all of the redeveloped estate's 1773 private market homes, 
 with an [expected gross worth of £768m.](http://35percent.org/img/document.pdf) 
 
-Barratt was in the news last week, when its top London executive was 
+Barratt was in the news last week, when its chief London executive Alastair 
+Baird, was 
 [arrested](https://www.theguardian.com/business/2016/oct/19/barratt-executive-arrested-internal-inquiry-alastair-baird) 
 on suspicion of bribery, following an investigation into the awarding of 
 contracts. Barratt has a large number of [developments in 
