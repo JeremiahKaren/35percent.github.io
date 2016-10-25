@@ -1,68 +1,9 @@
 ---
 layout: post
-title: 'Crowdfunding kicks off to successful start'
-subtitle: 'Launch of our crowdfunding campaign to fight the Council's appeal of 
-Aylesbury CPO decision raises over £2000 in first week'
+title: "Notting Hill tenure switch in Lambeth"
+subtitle: "NHHT up to its same tricks in other boroughs"
 published: false
 ---
-to a successful start. We have raised over £2000 in the first week alone. This 
-has enabled the leaseholders' barrister to start work on the case and submit 
-preliminary responses to the Council's [letter before 
-claim](http://35percent.org/img/20161007_Secretary_of_State_Aylesbury_CPO.pdf).
-
-On Monday, the Secretary of State issued his [detailed 
-response](/img/SoSresponsetoLbC.pdf)  to Southwark's 'letter before claim'.It 
-says he considers Southwark's grounds of appeal 'unarguable' and has vowed to 
-'robustly defend' its CPO decision and 'seek his costs of doing so'.
-
-![](/img/SoSresponsetoLbC.png) 
-
-Meanwhile, Southwark continues to justify its appeal by claiming that the CPO 
-decision is preventing it from continuing with the regeneration of the estate 
-which will deliver at least 1,260 new 'affordable' homes. 
-
-Southwark has made a big deal of the fact that the Aylesbury estate is being 
-redeveloped by a Notting Hill Housing Trust, a 'non-profit' housing 
-association.  It has kept silent about the fact that Notting Hill's _'developer 
-partner'_ for the scheme is the UK's largest private developer, Barratt Homes 
-and that Barratt will be both building and selling all of the redeveloped 
-estate's 1773 private market homes.  
-
-![](/img/barrattasdeveloperpartner.png)
-
-Barratt was in the news last week, when its top London executive was 
-[arrested](https://www.theguardian.com/business/2016/oct/19/barratt-executive-arrested-internal-inquiry-alastair-baird) 
-on suspicion of bribery following an investigation into the awarding of 
-contracts.
-
-SEE
-THIS!
-http://www.insidehousing.co.uk/residents-anger-set-to-force-sub-let-u-turn/6504705.article
-
-AND
-_Alastair Baird, Regional Managing Director of Barratt London, said: "We are delighted to be working on the regeneration at Canada Water and are progressing quickly with the construction of high quality new homes for Rotherhithe. In the last two years, we have delivered 232 new homes and work is progressing well on the next phases of the development, with almost 700 more homes due for completion by summer 2013."_ from http://www.southwark.gov.uk/news/article/146/new_iconic_southwark_building_emerges
-
-AND 
-https://www.architectsjournal.co.uk/news/hta-design-wins-barratt/aj-home-of-the-future-competition/8690667.article
-
-AND
-http://nineelmslondon.com/wp-content/uploads/2015/11/Nine-Elms-Vauxhall-Strategy-Board-Agenda-6-March-2015.pdf
-
-can't read this, but may be interesting:
-https://www.scribd.com/document/294568418/DB-London-housing-market-pdf
-
-
-![](/img/backhanders.jpg)
-
-Notting Hill Housing hasn't been subject to any such criminal investigation, 
-but we have shown how its conduct has been undoubtedly questionable. We saw how they 
-[substituted](http://www.southwarknews.co.uk/news/council-takes-no-legal-action-over-44-missing-social-housing-units/) 
-affordable rent for social rent at the [Bermondsey Spa 
-regeneration](http://35percent.org/bermondsey-spa-regeneration/) and how [GLA 
-data](https://data.london.gov.uk/dataset/gla-affordable-housing-programme-outturn/resource/0c87e5dc-f1e9-4edf-b246-bef6b40a9ba3) 
-shows it having delivered replacement 'social' housing on the Elmington estate 
-at affordable rents of up to 65% market rent.  
-
 ## Not just Southwark
 What we haven't mentioned before is that this 'tenure switch' practice appears to 
 extend to beyond Southwark and it appears that Lambeth is having the wool 
