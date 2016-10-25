@@ -68,7 +68,9 @@ bandied about far too often and isn’t actually true in a lot of cases”_.
 
 Rio selected one scheme in particular for criticism: the regeneration of the 
 Aylesbury Estate. He said _“Kids from my foundation can’t afford to live there.  
-They grew up on that estate but they can’t live there.  It’s not affordable"._
+They grew up on that estate but they can’t live there. It’s not affordable"._
+
+![](https://i.ytimg.com/vi/F_sQGhxOr-s/maxresdefault.jpg)
 
 In coming blogs we'll be taking a closer look at Notting Hill Housing Trust's deal with Barratt, Notting Hill's wider role in the [Aylesbury redevelopment partnership](https://www.whatdotheyknow.com/request/aylesbury_estate_development_par#outgoing-591461) and the growing [disquiet](https://twitter.com/coyleneil/status/787588742366232576) 
 about [Notting Hill's conduct](http://www.southwarknews.co.uk/news/housing-association-slammed-nightmare-scenario-eviction-threat-bermondseys-st-james-estate/) elsewhere in the borough.
