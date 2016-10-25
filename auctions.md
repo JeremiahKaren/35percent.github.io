@@ -14,7 +14,14 @@ This planning application for a development in Peckham is symptomatic of so many
 
 With the Council approving approximately 2000 new homes each year (approx 6000 new residents), it is little wonder that Southwark's parks have received plenty of funding and become much busier.
 
-Another visible upside to regeneration is the number of 'new' community facilities like the ['new' library](http://www.bbc.co.uk/news/uk-england-london-15912616) at Canada Water and ['new' leisure centre](http://www.southwark.gov.uk/info/200229/investing_in_leisure/1793/the_castle_leisure_centre) at Elephant and Castle. However, what is easily forgotten is that old libraries and leisure centres were demolished and sold off to make way for the new ones.
+## Libraries
+Another visible upside to regeneration is the number of 'new' community 
+facilities like the ['new' 
+library](http://www.bbc.co.uk/news/uk-england-london-15912616) at Canada Water 
+and ['new' leisure 
+centre](http://www.southwark.gov.uk/info/200229/investing_in_leisure/1793/the_castle_leisure_centre) 
+at Elephant and Castle. However, what is easily forgotten is that old libraries 
+and leisure centres were demolished and sold off to make way for the new ones.
 
 ![](/img/elephantcastleleisurecentre_rotherthithelibrary.jpg)
 *Former Rotherhithe library & civic centre (left), former E&C leisure centre (right)*

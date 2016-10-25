@@ -43,8 +43,9 @@ Baird, was
 on suspicion of bribery, following an investigation into the awarding of 
 contracts. Barratt has a large number of [developments in 
 Southwark](http://35percent.org/2015-09-14-barratt-conquers-southwark/) and was 
-contracted to build the replacement Canada Water library. Here Mr Baird can be 
-seen alongside Council chiefs at the [topping-out ceremony for
+contracted to build the [replacement](http://35percent.org/auctions#libraries) 
+Canada Water library.  Here Mr Baird can be seen alongside Council chiefs at 
+the [topping-out ceremony for
 the new library](http://www.southwark.gov.uk/news/article/146/new_iconic_southwark_building_emerges).
 
 ![](http://35percent.org/img/cwltoppingout.png)
