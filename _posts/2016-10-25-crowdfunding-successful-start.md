@@ -70,7 +70,7 @@ specific reference to the regeneration of the Aylesbury Estate. He said _“Kids
 from my foundation can’t afford to live there.  They grew up on that estate but 
 they can’t live there.  It’s not affordable"._
 
-![](https://i.ytimg.com/vi/F_sQGhxOr-s/maxresdefault.jpg)
+![](http://35percent.org/img/rio.jpg)
 
 In coming blogs we'll be taking a closer look at Notting Hill's varying 
 definitions of afforable housing, its deal with Barratt, its wider role in the 
