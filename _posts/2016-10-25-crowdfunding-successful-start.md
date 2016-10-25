@@ -58,7 +58,7 @@ estate's gas boiler system.
 
 ## Rio sticks the boot in
 The Aylesbury regeneration came under fire from footballer Rio Ferdinand, who 
-grew up on the nearby Unwin & Friary estate. In an [interview with Inside 
+grew up on the nearby Friary estate. In an [interview with Inside 
 Housing](http://www.insidehousing.co.uk/news/news-by-region/london/rio-ferdinand-criticises-unaffordable-regeneration-schemes/7017357.article) 
 he was highly critical of the impact regeneration was having on communities.  
 
