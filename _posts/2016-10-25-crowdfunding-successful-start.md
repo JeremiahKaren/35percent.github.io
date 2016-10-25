@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'Aylesbury Crowdfunding kicks off to successful start'
-subtitle: 'Launch of our campaign to fight the Council's appeal of Aylesbury 
-CPO decision raises over £2000 in first week'
+title: "Aylesbury Crowdfunding kicks off to successful start"
+subtitle: "Launch of our campaign to fight the Council's appeal of Aylesbury 
+CPO decision raises over £2000 in first week"
 published: true
 ---
 ## Aylesbury Crowdfunding success

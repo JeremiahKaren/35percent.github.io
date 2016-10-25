@@ -5,10 +5,6 @@ subtitle: 'Launch of our crowdfunding campaign to fight the Council's appeal of
 Aylesbury CPO decision raises over £2000 in first week'
 published: false
 ---
-## Crowdfunding success
-Our [crowdfunding 
-campaign](https://www.gofundme.com/aylesbury-the-right-to-a-community-2uefgf2s) 
-to help fight Southwark's appeal of the Aylesbury CPO decision has gotten off 
 to a successful start. We have raised over £2000 in the first week alone. This 
 has enabled the leaseholders' barrister to start work on the case and submit 
 preliminary responses to the Council's [letter before 
