@@ -146,13 +146,34 @@ The AAAP goes on to explain possible scenarios for bridging the funding gap shou
 
 Development schemes in Southwark are currently [delivering](http://35percent.org/2016-05-07-southwark-in-bottom-3-boroughs-for-affordable-housing-delivery/) on average 3% affordable housing, largely with social rent substituted for affordable rent. So we find it hard to believe that Notting Hill can deliver a scheme with 50% affordable housing comprising 75% social rent. We find it even more difficult to believe that Notting Hill is also expecting to extract a 15% profit margin (representing ca. £150m) and Southwark is also expecting to receive payments for the land. 
 
-Despite its new [transparency policy](http://www.southwark.gov.uk/news/article/2062/viability_assessments_must_be_published_in_southwark_%E2%80%93_consultation_launched) the Council rejected our FOI request for a copy of Notting Hill's viability assessment for the Aylesbury redevelopment. Despite being a registered charity, Notting Hill has claimed commercial confidentiality as the grounds for its redactions. In April 2016, the Information Commissioner [upheld our complaint](https://ico.org.uk/media/action-weve-taken/decision-notices/2016/1624349/fs_50589692.pdf) and directed Southwark Council to disclose the unredacted viability report. The disclosed [viability assessment](/img/document.pdf) reveals that Notting Hill will make a minimum (guaranteed) 21% profit from the scheme, expected to amount to £163m, while Southwark will receive staged land payments calculated as a residual value once scheme costs and Notting Hill's 21% profit has been deducted[^5]. The assessment shows that this is currently expected to amount to just £51m. 
+Despite its new [transparency 
+policy](http://www.southwark.gov.uk/news/article/2062/viability_assessments_must_be_published_in_southwark_%E2%80%93_consultation_launched) 
+the Council rejected our FOI request for a copy of Notting Hill's viability 
+assessment for the Aylesbury redevelopment. Despite being a registered charity, 
+Notting Hill has claimed commercial confidentiality as the grounds for its 
+redactions. In April 2016, the Information Commissioner [upheld our 
+complaint](https://ico.org.uk/media/action-weve-taken/decision-notices/2016/1624349/fs_50589692.pdf) 
+and directed Southwark Council to disclose the unredacted viability report. The 
+disclosed [viability assessment](/img/document.pdf) reveals that Barratt will 
+make a minimum (guaranteed) 21% profit from the scheme, expected to amount to a 
+minimum of £163m, while Southwark will receive staged land payments calculated 
+as a residual value once scheme costs once Notting Hill's 15% and Barratt's 21% 
+profit has been deducted[^5].  The assessment shows that this is currently 
+expected to amount to just £51m. 
 
 ![](/img/profitshare.png)
 
 Southwark does have the benefit of a planning overage clause where it receives 50% of any overage sales profit, but this is only triggered once sales values exceed £471 per sqft[^6]. 
 
-It's important to note that Notting Hill won't be building the new homes. This has been [contracted](http://www.nottinghillhousing.org.uk/our-developments/aylesbury-estate-southwark) to Barratt Homes in a joint-venture agreement, which will see Barratt also receive a healthy slice of the profits. The development agreement gives Barratt half of the Gross Development Value (based on £451 per sqft) less Notting Hill's 21% guaranteed profit. According to Notting Hill's [viability assessment](/img/document.pdf) this amounts to £300m[^7].
+It's important to note that Notting Hill won't be building the new homes. This 
+has been 
+[contracted](http://www.nottinghillhousing.org.uk/our-developments/aylesbury-estate-southwark) 
+to Barratt Homes in a joint-venture agreement, which will see Barratt also 
+receive a healthy slice of the profits. The development agreement gives Barratt 
+a 21% guaranteed profit on the private sales values plus half of the Gross 
+Development Value (based on £451 per sqft).  According to Notting Hill's 
+[viability assessment](/img/document.pdf) the 21% profit alone will amount to 
+£163m[^7].
 
 ![](http://35percent.org/img/barratprofit.png)
 
