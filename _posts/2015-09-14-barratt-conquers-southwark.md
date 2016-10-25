@@ -5,13 +5,32 @@ date: 2015-09-14 18:01:50 +0100
 comments: true
 categories: 
 ---
-
-Barratt Homes, Britains third-largest housebuilder, has just [posted](http://www.cityam.com/223932/building-bonanza-barratt-profits-jump-45-cent) a 45% rise in profits to £565.5m during the last financial year.
+Barratt Homes, Britains third-largest housebuilder, has just 
+[posted](http://www.cityam.com/223932/building-bonanza-barratt-profits-jump-45-cent) 
+a 45% rise in profits to £565.5m during the last financial year.
 
 Barratt's success is due in part to its pipeline of major developments in Southwark, which include [__Maple Quays__](http://www.barratthomes.co.uk/new-homes/greater-london/h469201-maple-quays/) (668 homes in phase 1 of the [Canada Water regeneration](/canada-water/)); [__The Galleria__](http://www.barratthomes.co.uk/new-homes/greater-london/track-record---article-pages/the-galleria/) development in Peckham; [__Redwood Park__](http://www.barratthomes.co.uk/new-homes/greater-london/h309201-redwood-park/) (212 homes on former council land at Surrey Quays) and the 60-acre, 3,500-home Aylesbury estate redevelompent for which Barratt is Notting Hill Housing's [development partner](http://www.nottinghillhousing.org.uk/our-developments/aylesbury-estate-southwark).
 
 
-Barratt has also recently started work on its [__'Blackfriars Circus'__](http://www.barratthomes.co.uk/new-homes/greater-london/H625601-Blackfriars-circus/) development, comprising 336 new homes in 5 buildings ranging up to 27 storeys in height, overlooking the South Bank University campus near Elephant & Castle. According to [SE1 website](http://www.london-se1.co.uk/news/view/8441) the tallest of these will be known as __'The Conquest Apartments'__. This is an appropriate name for a development that was able to dupe Southwark council into waiving the tenure requirements of its 35% affordable housing Policy. These would have secured a minimum 70 social rented homes in the development, but Barratt submitted a viability assessment claiming it would only be viable to provide 8 social rented homes and 48 affordable rent homes. The [officer's report](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!5wmNTTJlhAE1P%2fSH390aXg%3d%3d!%7d%7d%7d) explains that the council had the viability assessment appraised by the 'Borough Valuer' and that __ _"Whilst a number of inputs into the valuation have been agreed (including commercial values, ground rents, and professional fees) an agreement has not been reached on two fundamental matters: methodology of calculating the benchmark value of the site; and residential sale values. As such, the applicant and the Borough Valuer have not reached an agreed position about how much affordable housing can be delivered on site."_ __ (para. 109)
+Barratt has also recently started work on its [__'Blackfriars 
+Circus'__](http://www.barratthomes.co.uk/new-homes/greater-london/H625601-Blackfriars-circus/) 
+development, comprising 336 new homes in 5 buildings ranging up to 27 storeys 
+in height, overlooking the South Bank University campus near Elephant & Castle. 
+According to [SE1 website](http://www.london-se1.co.uk/news/view/8441) the 
+tallest of these will be known as __'The Conquest Apartments'__. This is an 
+appropriate name for a development that was able to dupe Southwark council into 
+waiving the tenure requirements of its 35% affordable housing Policy. These 
+would have secured a minimum 70 social rented homes in the development, but 
+Barratt submitted a viability assessment claiming it would only be viable to 
+provide 8 social rented homes and 48 affordable rent homes. The [officer's 
+report](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!5wmNTTJlhAE1P%2fSH390aXg%3d%3d!%7d%7d%7d) 
+explains that the council had the viability assessment appraised by the 
+'Borough Valuer' and that _"Whilst a number of inputs into the valuation have 
+been agreed (including commercial values, ground rents, and professional fees) 
+an agreement has not been reached on two fundamental matters: methodology of 
+calculating the benchmark value of the site; and residential sale values. As 
+such, the applicant and the Borough Valuer have not reached an agreed position 
+about how much affordable housing can be delivered on site."_ (para. 109)
 
 ![](https://betterblackfriars.files.wordpress.com/2013/05/erlang-house.jpg)
 
@@ -31,9 +50,23 @@ However, when the [section 106 legal agreement](http://planbuild.southwark.gov.u
 ![](http://crappistmartin.github.io/images/CanadaWaterS106.png)
 
 ## Chambers Wharf
-It is starting to look this these tenure switches have become routine practice for new developments in Southwark. The arrangement suits both developers and the council, who can [claim the credit](http://www.southwarknews.co.uk/news/100-affordable-homes-open-on-brownfield-site/) for delivering new social rented housing, which is in actual fact affordable rent.  
-We recently discovered such a tenure switch at __Chambers Wharf__, Berkeley Homes' latest development on Southwark's riverside. In May this year, Councillor Williams [proclaimed](http://www.berkeleygroup.co.uk/press-releases/2015/southwark-development-sets-new-standard-for-affordable-housing-in-london) the completion of __ _"106 social rented apartments and 14 social rented family homes,"_ __ which he claimed was proof that the council is __ _"tackling the housing crisis head on and are doing all we can to build the quality affordable homes our residents so desperately need"_ __.  
-But what Councillor Williams' press statement didn't say was that the 89 of the social rented homes had been converted to affordable rents of 65% market rent by [mutual agreement](http://moderngov.southwark.gov.uk/ieDecisionDetails.aspx?Id=3617) with the council, following a 'viability review' of the scheme in 2013.
+It is starting to look this these tenure switches have become routine practice 
+for new developments in Southwark. The arrangement suits both developers and 
+the council, who can [claim the 
+credit](http://www.southwarknews.co.uk/news/100-affordable-homes-open-on-brownfield-site/) 
+for delivering new social rented housing, which is in actual fact affordable 
+rent.  We recently discovered such a tenure switch at __Chambers Wharf__, 
+Berkeley Homes' latest development on Southwark's riverside. In May this year, 
+Councillor Williams 
+[proclaimed](http://www.berkeleygroup.co.uk/press-releases/2015/southwark-development-sets-new-standard-for-affordable-housing-in-london) 
+the completion of _"106 social rented apartments and 14 social rented family 
+homes,"_ which he claimed was proof that the council is _"tackling the housing 
+crisis head on and are doing all we can to build the quality affordable homes 
+our residents so desperately need"_.  But what Councillor Williams' press 
+statement didn't say was that the 89 of the social rented homes had been 
+converted to affordable rents of 65% market rent by [mutual 
+agreement](http://moderngov.southwark.gov.uk/ieDecisionDetails.aspx?Id=3617) 
+with the council, following a 'viability review' of the scheme in 2013.
 
 ![](http://crappistmartin.github.io/images/chamberswharf.jpg)
 
