@@ -56,6 +56,20 @@ meeting](http://www.insidehousing.co.uk/residents-anger-set-to-force-sub-let-u-t
 on the Bedfont Lakes estate in Feltham, to answer for serious flaws in the 
 estate's gas boiler system.
 
+## Rio sticks the boot in
+The Aylesbury regeneration came under fire from footballer Rio Ferdinand, who 
+grew up on the nearby Unwin & Friary estate. In an [interview with Inside 
+Housing](http://www.insidehousing.co.uk/news/news-by-region/london/rio-ferdinand-criticises-unaffordable-regeneration-schemes/7017357.article) 
+he was highly critical of the impact regeneration was having on communities.  
+He said he has spoken to people, including family members, who had been forced 
+to move to different areas because regeneration work had resulted in schemes 
+that were _“not affordable”_. He said _“The word affordable, I think, is 
+bandied about far too often and isn’t actually true in a lot of cases”_.
+
+Rio selected one scheme in particular for criticism: the regeneration of the 
+Aylesbury Estate. He said _“Kids from my foundation can’t afford to live there.  
+They grew up on that estate but they can’t live there.  It’s not affordable"._
+
 In coming blogs we'll be taking a closer look at Notting Hill Housing Trust's deal with Barratt, Notting Hill's wider role in the [Aylesbury redevelopment partnership](https://www.whatdotheyknow.com/request/aylesbury_estate_development_par#outgoing-591461) and the growing [disquiet](https://twitter.com/coyleneil/status/787588742366232576) 
 about [Notting Hill's conduct](http://www.southwarknews.co.uk/news/housing-association-slammed-nightmare-scenario-eviction-threat-bermondseys-st-james-estate/) elsewhere in the borough.
 
