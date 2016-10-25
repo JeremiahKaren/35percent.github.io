@@ -72,7 +72,7 @@ they can’t live there.  It’s not affordable"._
 
 ![](http://35percent.org/img/rio.jpg)
 
-In coming blogs we'll be taking a closer look at Notting Hill's varying 
+In coming blogs we'll be taking a closer look at Notting Hill Housing's varying 
 definitions of afforable housing, its deal with Barratt, its wider role in the 
 [Aylesbury redevelopment 
 partnership](https://www.whatdotheyknow.com/request/aylesbury_estate_development_par#outgoing-591461) 
