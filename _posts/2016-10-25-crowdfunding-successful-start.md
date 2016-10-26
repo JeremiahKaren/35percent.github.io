@@ -16,18 +16,25 @@ has got off to a great start. We have raised over £2000 in the first week, a te
 ![](http://35percent.org/img/gfmscreenshot.png)
 
 In the meantime the leaseholders' barrister has started work on the case and on 
-submitting a preliminary response to the Council's [letter before 
+submitting a preliminary response to the Council's grounds of appeal in its 
+[letter before 
 claim](http://35percent.org/img/20161007_Secretary_of_State_Aylesbury_CPO.pdf). 
 
 On Monday the Secretary of State issued his own [detailed 
-response](/img/SoSresponsetoLbC.pdf) to Southwark's 'letter before claim'. It 
-says that Southwark's grounds of appeal have 'no merit', are all 'unarguable' 
-and that the SoS will 'robustly defend' its CPO decision and 'seek his costs of 
-doing so'.
+response](/img/SoSresponsetoLbC.pdf) to Southwark's grounds of appeal, saying 
+that they have 'no merit', are all 'unarguable' and that the SoS will 'robustly 
+defend' its CPO decision and 'seek his costs of doing so'.
 
 ![](http://35percent.org/img/SoSresponsetoLbC.png)
 
-Meanwhile, Southwark continues to justify its appeal by claiming that the CPO decision is preventing it from continuing with the regeneration of the estate which will deliver at least 1,260 new 'affordable' homes. As we have [repeatedly pointed out](http://35percent.org/2016-09-26-council-appeals-aylesbury-cpo-decision/), however, the scheme will still result in a net loss of at least 778 social rented homes, so we count any decision that goes towards preventing this as a good one.
+Meanwhile, Southwark continues to justify its appeal by claiming that the CPO 
+decision is preventing it from continuing with the regeneration of the estate 
+which will deliver at least 1,260 new 'affordable' homes. As we have 
+[repeatedly pointed 
+out](http://35percent.org/2016-09-26-council-appeals-aylesbury-cpo-decision/), 
+however, the new 'affordable' homes won't be affordable to most and the scheme 
+will still result in a net loss of at least 778 social rented homes, so we 
+count any decision that goes towards preventing this as a good one.
 
 ## Development partner in the dock
 Southwark has made much of the fact that the Aylesbury estate is being 
@@ -57,8 +64,9 @@ on the Bedfont Lakes estate in Feltham, to answer for serious flaws in the
 estate's gas boiler system.
 
 ## Rio sticks the boot in
-The Aylesbury regeneration came under fire from footballer Rio Ferdinand, who 
-grew up on the nearby Friary estate. In an [interview with Inside 
+The Aylesbury regeneration came under fire from footballer Rio Ferdinand this 
+week, who grew up in Southwark on the nearby Friary estate. In an [interview 
+with Inside 
 Housing](http://www.insidehousing.co.uk/news/news-by-region/london/rio-ferdinand-criticises-unaffordable-regeneration-schemes/7017357.article) 
 he was highly critical of the impact regeneration was having on communities.  
 
@@ -66,9 +74,9 @@ He said he has spoken to people, including family members, who had been forced
 to move to different areas because regeneration work had resulted in schemes 
 that were _“not affordable”_. He said _“The word affordable, I think, is 
 bandied about far too often and isn’t actually true in a lot of cases”_. With 
-specific reference to the regeneration of the Aylesbury Estate. He said _“Kids 
-from my foundation can’t afford to live there.  They grew up on that estate but 
-they can’t live there.  It’s not affordable"._
+specific reference to the Aylesbury, he said _“Kids from my foundation can’t 
+afford to live there.  They grew up on that estate but they can’t live there.  
+It’s not affordable"._
 
 ![](http://35percent.org/img/rio.jpg)
 
