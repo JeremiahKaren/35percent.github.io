@@ -75,7 +75,7 @@ to move to different areas because regeneration work had resulted in schemes
 that were _“not affordable”_. He said _“The word affordable, I think, is 
 bandied about far too often and isn’t actually true in a lot of cases”_. With 
 specific reference to the Aylesbury, he said _“Kids from my foundation can’t 
-afford to live there.  They grew up on that estate but they can’t live there.  
+afford to live there.  They grew up on that estate but they can’t live there. 
 It’s not affordable"._
 
 ![](http://35percent.org/img/rio.jpg)
