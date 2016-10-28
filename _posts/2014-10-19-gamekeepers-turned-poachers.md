@@ -34,14 +34,14 @@ The South Bank's King's Reach Tower provides a good example of how __Four Commun
    cronies Peter John (council leader) and Fiona Colley (Cabinet Member for 
 Regeneration).  
 
-![](http://crappistmartin.github.io/images/FourCommunicationsMeetingsCouncilMembers.png)
+![](http://betterelephant.github.io/images/FourCommunicationsMeetingsCouncilMembers.png)
 *Extract from page 6 of [King's Reach SCI produced by Four Communications 
 ](http://planningonline.southwark.gov.uk/DocsOnline/Documents/152101_1.pdf)*
 
 2. The old friends agree to nod through the development despite its numerous 
    planning policy breaches like the lack of any on-site affordable housing. 
 3. The council leader and regen boss brief their planning officers instructing them to recommend the application to the (heavily whipped) planning committee.
-providing phony evidence that local residents support the application.    
+providing evidence that local residents support the application.    
 
 Every major planning application requires a Statement of Community Involvement 
 (SCI) to demonstrate that the developer has consulted with the local community 
@@ -78,13 +78,12 @@ The planning application was duly nodded through and Strata Tower - entirely wit
 ## Inclusive prosperity
 It is worth noting that the council's E&C regeneration partner Lend Lease, is absent from the list of __Four__'s clients. That's because Lend Lease employs a different PR company called [__Quatro__](http://www.quatro-pr.co.uk/) to handle PR for its developments. It's also worth noting that __Quatro__'s Managing Director [Paul Dimoldenberg](https://www.linkedin.com/pub/paul-dimoldenberg/a/5b5/b44), is a former senior Southwark council officer and current leader of the Labour group on Westminster city council. 
 
- ![](http://crappistmartin.github.io/images/dimoldenberg.jpg)
+ ![](http://betterelephant.github.io/images/dimoldenberg.jpg)
 *Private Eye (issue 1380 - 25 Nov 2014)*
 
 Paul is one of [many](/revolving-doors/) former Southwark Council officers and members who have shown that regeneration does indeed provide a wealth of opportunity. They have given a whole new meaning to the mantra of __"inclusive prosperity"__.   
 
 __Footnotes:__
 
-[^1]: See pages 34 & 51 of the <a 
-  href="http://planningonline.southwark.gov.uk/DocsOnline/Documents/152101_1.pdf">South 
-Bank Tower SCI</a> for evidence of this.
+[^1]: See pages 34 & 51 of the [Southbank Tower 
+  SCI](http://planningonline.southwark.gov.uk/DocsOnline/Documents/152101_1.pdf)
