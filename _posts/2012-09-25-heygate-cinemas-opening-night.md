@@ -48,11 +48,9 @@ Steel have been filming on the estate since the decant started, and have
 inspired the confidence of residents past and present.  They are due to release 
 a feature length documentary about the estate in Autumn 2013.
 
-
-
-    <iframe allowfullscreen frameborder="0" height="225" 
-src="http://www.youtube.com/embed/sl2rSodPHV8" width="400"></iframe>
-
+<iframe width="400" height="225" 
+src="https://www.youtube.com/embed/sl2rSodPHV8" frameborder="0" 
+allowfullscreen></iframe>
 
 Three days after the event, four council officers turned up to deliver the 
 enforcement notice pictured below.
