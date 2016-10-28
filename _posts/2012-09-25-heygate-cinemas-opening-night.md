@@ -7,12 +7,12 @@ categories: [Heygate regeneration]
  ---
 
 Following last year's attempts by Southwark Council to <a 
-href="http://betterelephant.org/images/unauthorised_activities.pdf">prosecute 
+href="http://betterelephant.github.io/images/unauthorised_activities.pdf">prosecute 
 remaining residents</a> involved in Better Elephant's interim use programme, 
 this year Better Elephant decided to create a pop-up cinema which can be popped 
 up and then quickly popped down again.
 
-![](http://betterelephant.org/images/heygate_cinema.JPG)
+![](http://betterelephant.github.io/images/heygate_cinema.JPG)
 
 Around 50 people attended the opening night of the cinema last Saturday 22 Sep, 
 for the premiere screening of the film ['Doreen'](http://youtu.be/CnkVzJXibyI) 
@@ -23,7 +23,7 @@ In the film, Doreen Gee - former Chair of the Tenants and Residents Association
 - reminisces about the culture of the estate and what went wrong with the 
   regeneration.
 
-![](http://betterelephant.org/images/heygate_cinema2.JPG)
+![](http://betterelephant.github.io/images/heygate_cinema2.JPG)
 
 The evening was curated by our very own Jerry Flynn, former estate resident and 
 experienced local campaigner.
@@ -55,7 +55,7 @@ allowfullscreen></iframe>
 Three days after the event, four council officers turned up to deliver the 
 enforcement notice pictured below.
 
-![](http://betterelephant.org/images/CinemaNotice.JPG)
+![](http://betterelephant.github.io/images/CinemaNotice.JPG)
 
 ![](http://alicecalcagno.files.wordpress.com/2012/09/dsc_9857-2.jpg)
 
@@ -69,7 +69,7 @@ speculation and urban gentrification.
 
 ## Hotel Elephant
 
-![](http://crappistmartin.github.io/images/daveware.jpg)
+![](http://betterelephant.github.io/images/daveware.jpg)
 
 Meanwhile, 'developer-compliant' interim uses on other parts of the estate 
 continue with the council's full backing: <a 
@@ -87,13 +87,13 @@ estate's new
 community.
 
 
-![](http://crappistmartin.github.io/images/daveware2.jpg)
+![](http://betterelephant.github.io/images/daveware2.jpg)
 
 Dave Ware from Southwark Council's regeneration team marked the opening of the 
 studios<a href="http://www.elefest.org/event/hotel-elephant-launch/">on 6th 
 October with</a> a performance by a gas-powered firebreathing robotic dragon. 
 
-![](http://crappistmartin.github.io/images/hotelelephant.jpg) 
+![](http://betterelephant.github.io/images/hotelelephant.jpg)
 *Hotel Elephant's Director Reuben Powell*
 
 <iframe width="350" height="197" src="https://www.youtube.com/embed/DymdD3Nq-e0" frameborder="0" allowfullscreen></iframe>
