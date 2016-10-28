@@ -5,7 +5,7 @@ date: 2014-07-11 17:30
 comments: true
 categories: 
 ---
-![](https://pbs.twimg.com/media/BsMSNi1IEAEATUy.jpg)
+![](/img/laestateregeneration.jpg)
 
 Last Friday saw the second meeting of the London Assembly's 
 [investigation](https://www.london.gov.uk/mayor-assembly/london-assembly/investigations/demolition-and-refurbishment-of-social-housing-estates-in-london) 
@@ -80,13 +80,20 @@ More information about the Six Acres estate regeneration can be found [here](htt
 
 
 <center>
-<div style="width:330px; font-size:80%; text-align:center;"><a href="https://www.flickr.com/photos/46360829@N03/sets/72157645684480295/"><img src="/images/sixacresbefore4.jpg" width="330" height="220"></a>Six Acres estate before regen - more photos <a href="https://www.flickr.com/photos/46360829@N03/sets/72157645684480295/">[here.]</a></div>
+<div style="width:330px; font-size:80%; text-align:center;"><a 
+href="https://www.flickr.com/photos/46360829@N03/sets/72157645684480295/"><img 
+src="http://betterelephant.github.io/images/sixacresbefore4.jpg" width="330" 
+height="220"></a>Six Acres estate before regen - more photos <a 
+href="https://www.flickr.com/photos/46360829@N03/sets/72157645684480295/">[here.]</a></div>
 </center>
 
 <center>
-<div style="width:330px; font-size:80%; text-align:center;"><a href="https://www.flickr.com/photos/46360829@N03/sets/72157645684757965/"><img src="/images/sixacresafter.JPG" width="330" height="220"></a>Six Acres estate after regen - more photos <a href="https://www.flickr.com/photos/46360829@N03/sets/72157645684757965/">[here.]</a></div>
+<div style="width:330px; font-size:80%; text-align:center;"><a 
+href="https://www.flickr.com/photos/46360829@N03/sets/72157645684757965/"><img 
+src="http://betterelephant.github.io/images/sixacresafter.JPG" width="330" 
+height="220"></a>Six Acres estate after regen - more photos <a 
+href="https://www.flickr.com/photos/46360829@N03/sets/72157645684757965/">[here.]</a></div>
 </center>
-</br>
 
 ![](http://betterelephant.github.io/images/Pickles_TearDownEstates.jpg)
 
@@ -96,7 +103,8 @@ council estate demolitons and sell-offs?
 
 
 __Footnotes:__
-[^1]:See [Paragraphs 5.34 & 5.35 of CPO Statement of 
+
+[^1]: See [Paragraphs 5.34 & 5.35 of CPO Statement of 
   Evidence](http://www.southwark.gov.uk/download/downloads/id/8171/proofs_of_evidence_%E2%80%93_jon_abbot_%E2%80%93_final_proof)
  
 [^2]: See [Paragraph 2.8 of Heygate CPO Statement of 

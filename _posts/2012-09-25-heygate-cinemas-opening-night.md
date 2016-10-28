@@ -4,7 +4,7 @@ title: "Heygate Cinema Celebrates Opening Night"
 date: 2012-09-25 17:16
 comments: true
 categories: [Heygate regeneration]
- ---
+---
 
 Following last year's attempts by Southwark Council to <a 
 href="http://betterelephant.github.io/images/unauthorised_activities.pdf">prosecute 

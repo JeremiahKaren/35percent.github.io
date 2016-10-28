@@ -30,7 +30,7 @@ Lancashire.[^1]
 
 The South Bank's King's Reach Tower provides a good example of how __Four Communications__' lobbying service works. In 2010, Developer [__CIT__](http://www.cit.co.uk/) employed __Four__ to 'help' get permission for its controversial 41 storey Blackfriars development. This is how __Four__'s 4 step lobbying process was implemented:
 
-1. __Four__'s Steve Lancashire sets up meetings with his Southwark Labour 
+ * __Four__'s Steve Lancashire sets up meetings with his Southwark Labour 
    cronies Peter John (council leader) and Fiona Colley (Cabinet Member for 
 Regeneration).  
 
@@ -38,10 +38,12 @@ Regeneration).
 *Extract from page 6 of [King's Reach SCI produced by Four Communications 
 ](http://planningonline.southwark.gov.uk/DocsOnline/Documents/152101_1.pdf)*
 
-2. The old friends agree to nod through the development despite its numerous 
+ * The old friends agree to nod through the development despite its numerous 
    planning policy breaches like the lack of any on-site affordable housing. 
-3. The council leader and regen boss brief their planning officers instructing them to recommend the application to the (heavily whipped) planning committee.
-providing evidence that local residents support the application.    
+
+ * The council leader and regen boss brief their planning officers instructing 
+   them to recommend the application to the (heavily whipped) planning 
+committee, providing evidence that local residents support the application.    
 
 Every major planning application requires a Statement of Community Involvement 
 (SCI) to demonstrate that the developer has consulted with the local community 

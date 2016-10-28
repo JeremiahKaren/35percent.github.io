@@ -5,8 +5,8 @@ date: 2013-07-18 12:34
 comments: true
 categories: 
 ---
-Southwark’s Elephant & Castle regeneration plans were branded __ _“a miserable 
-failure”_ __ by former Heygate residents at a public inquiry into the Heygate 
+Southwark’s Elephant & Castle regeneration plans were branded _“a miserable 
+failure”_ by former Heygate residents at a public inquiry into the Heygate 
 Compulsory Purchase Order.
 
 ![](http://betterelephant.github.io/images/IMG_3290.JPG)
@@ -152,8 +152,7 @@ Remaining leaseholder and statutory objector Adrian Glasspool said _“We have
 simply exercised our right to say no. This is a privilege that tenants on the 
 estate didn't have - 198 of whom were forced to leave their homes under the 
 shadow of [eviction 
-proceedings](http://betterelephant.github.io/images/jonabbottCPOinquiry8Feb2013.pdf)."_ 
-__
+proceedings](http://betterelephant.github.io/images/jonabbottCPOinquiry8Feb2013.pdf)."_
 
 
 ![](http://2.bp.blogspot.com/-2ZJgFmnm42M/URLp52OPDEI/AAAAAAAAA9w/03rzKuUo-Js/s400/2013-02-06+10.18.46+HDR+copy.jpg)
@@ -187,16 +186,15 @@ A short audio recording of objectors giving evidence at the inquiry can be
 downloaded from [here](http://heygate.github.io/img/CPORichardLee.mp3). 
 
 __Footnotes:__
+
 [^1]: <a 
   href="http://betterelephant.github.com/images/jonabbottCPOinquiry8Feb2013.pdf">Inquiry 
 Document 32</a> tabled by Project Director Jon Abbott during Public Inquiry on 
 8 Feb 2013
-[^2]: Mr Tinker's written statement, Objectors' Statement of Case 
-- page 45.
+[^2]: Mr Tinker's written statement, Objectors' Statement of Case - page 45.
 [^3]: Mr Edwards' written statement, Inquiry Document 21.
 [^4]: Professor Lees' written statement, Inquiry Document 26.
-[^5]: Mr Redpath's written statement, Objectors' Statement of Case 
-- page 43.
+[^5]: Mr Redpath's written statement, Objectors' Statement of Case - page 43.
 [^6]: See also paragraph 26 of the <a 
   href="http://heygate.github.io/img/leaseholderpolicy7.png">2005 Leaseholder 
 Policy </a>and paragraphs 4 & 33 of the <a 
