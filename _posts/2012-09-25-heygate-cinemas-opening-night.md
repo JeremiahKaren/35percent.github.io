@@ -3,13 +3,14 @@ layout: post
 title: "Heygate Cinema Celebrates Opening Night"
 date: 2012-09-25 17:16
 comments: true
-categories: 
----
-    Following last year's attempts by Southwark Council to <a 
+categories: [Heygate regeneration]
+ ---
+
+Following last year's attempts by Southwark Council to <a 
 href="http://betterelephant.org/images/unauthorised_activities.pdf">prosecute 
 remaining residents</a> involved in Better Elephant's interim use programme, 
 this year Better Elephant decided to create a pop-up cinema which can be popped 
-up and then quickly popped down again.</p>
+up and then quickly popped down again.
 
 ![](http://betterelephant.org/images/heygate_cinema.JPG)
 
@@ -85,16 +86,17 @@ href="http://www.bbc.co.uk/news/uk-england-london-19371334">'unpopular social
 housing' estate</a>, the drab interiors of the former community centre are 
 being converted to plush artist studios in the first step towards creating the 
 estate's new
-community.</p>
+community.
 
 
-![](http://crappistmartin.github.io/images/daveware2.jpg) Dave Ware from 
-Southwark Council's regeneration team marked the opening of the studios<a 
-href="http://www.elefest.org/event/hotel-elephant-launch/">on 6th October 
-with</a> a performance by a gas-powered firebreathing robotic dragon.</br> 
+![](http://crappistmartin.github.io/images/daveware2.jpg)
 
-![](http://crappistmartin.github.io/images/hotelelephant.jpg) *Hotel Elephant's 
-Director Reuben Powell*
+Dave Ware from Southwark Council's regeneration team marked the opening of the 
+studios<a href="http://www.elefest.org/event/hotel-elephant-launch/">on 6th 
+October with</a> a performance by a gas-powered firebreathing robotic dragon. 
+
+![](http://crappistmartin.github.io/images/hotelelephant.jpg) 
+*Hotel Elephant's Director Reuben Powell*
 
 <iframe width="350" height="197" src="https://www.youtube.com/embed/DymdD3Nq-e0" frameborder="0" allowfullscreen></iframe>
 

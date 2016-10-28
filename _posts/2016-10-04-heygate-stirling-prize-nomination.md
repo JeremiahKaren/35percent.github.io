@@ -2,7 +2,7 @@
 
 title: 'Heygate nominated for Stirling Prize'
 subtitle: 'First completed phase of Heygate regeneration nominated for architecture award'
-categories: ['Heygate regeneration, Estate regeneration']
+categories: [Heygate regeneration, Estate regeneration]
 published: true
 layout: post
 
