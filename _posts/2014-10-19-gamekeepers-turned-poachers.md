@@ -81,7 +81,10 @@ It is worth noting that the council's E&C regeneration partner Lend Lease, is ab
  ![](http://crappistmartin.github.io/images/dimoldenberg.jpg)
 *Private Eye (issue 1380 - 25 Nov 2014)*
 
-Paul is one of many former Southwark Council officers and members who have shown that regeneration does indeed provide a wealth of opportunity. They have given a whole new meaning to the mantra of __"inclusive prosperity"__.   
+Paul is one of [many](/revolving-doors/) former Southwark Council officers and members who have shown that regeneration does indeed provide a wealth of opportunity. They have given a whole new meaning to the mantra of __"inclusive prosperity"__.   
 
 __Footnotes:__
-<p id="footnote-1">[1]: See pages 34 & 51 of the <a href="http://planningonline.southwark.gov.uk/DocsOnline/Documents/152101_1.pdf">South Bank Tower SCI</a> for evidence of this.
+
+[^1]: See pages 34 & 51 of the <a 
+  href="http://planningonline.southwark.gov.uk/DocsOnline/Documents/152101_1.pdf">South 
+Bank Tower SCI</a> for evidence of this.

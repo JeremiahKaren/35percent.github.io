@@ -45,9 +45,11 @@ new ‘[affordable
 rent](http://www.guardian.co.uk/society/2013/mar/05/social-rents-increases-break-up-communities)’, 
 which will be at least double the level of council rents. Just 1 in 5 secure 
 tenants on the estate have managed to stay living in the SE17 postcode, the 
-rest have been scattered across the four corners of the borough and beyond:
+rest have been 
+[scattered](http://35percent.org/2013-06-08-the-heygate-diaspora/) across the 
+four corners of the borough and beyond:
 
-[{% img http://heygate.github.io/img/DisplacedTenants.png %}](http://mapsengine.google.com/map/viewer?mid=zp9B4NC378BY.kEuISBfzdwZE)
+![](http://heygate.github.io/img/DisplacedTenants.png) 
 
 The objectors were also supported by academic expert witnesses who gave evidence showing the negative effects of displacement on the community, and produced [data](http://heygate.github.io/img/tenurechangeanalysis.pdf) showing how the development plans - if passed - would create a far less mixed community at the Elephant & Castle (just 8% social housing in total).
 
