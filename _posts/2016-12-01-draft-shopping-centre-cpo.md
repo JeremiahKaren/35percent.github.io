@@ -1,11 +1,36 @@
 ---
 layout: post
-title: "Enter the title of the blog post here"
-subtitle: "Enter the subtitle of the blog post here"
+title: "Going nowhere in a hurry"
+subtitle: "Shopping Centre's major leaseholder says he's staying put"
 published: false
 ---
-## Battle for the Shopping Centre is on
-http://www.southwarknews.co.uk/news/im-going-nowhere-owner-elephant-bingo-hall-pours-doubt-delanceys-schedule-demolishing-shopping-centre/
+![](http://www.southwarknews.co.uk/wp-content/uploads/2016/10/Patrick-Duffey-Elephant-and-Castle-Shopping-Centre.jpg)
+*Going nowhere - Patrick Duffey of the bingo hall and bowling alley*
+
+Patrick Duffey, the owner of the Elephant & Castle shopping centre's bingo hall 
+and bowling alley has 
+[announced](http://www.southwarknews.co.uk/news/im-going-nowhere-owner-elephant-bingo-hall-pours-doubt-delanceys-schedule-demolishing-shopping-centre/).
+In an interview with the local newspaper, Duffey poured water on Delancey's 
+plans, claiming that he has not been approached about by Delancey about the 
+demolition plans. He said _“I tell you, this man’s not going anywhere in a 
+hurry. I’m going nowhere."_
+
+A year ago, Southwark Council 
+[resolved](http://moderngov.southwark.gov.uk/documents/s57189/Report%20Elephant%20and%20castle.pdf) 
+to use a compulsory purchase order (CPO) in order forcibly to  buy out the 
+businesses with long leases. But one year on and after its failure with the 
+Aylesbury CPO, it looks like the council is rowing back.  Councillor Mark 
+Williams, Southwark Council’s cabinet membe for regeneration has now said: _"we 
+would only want to use CPOs as an absolute last resort"._
+
+_“We are strongly encouraging Delancey to do whatever they can to reach a 
+voluntary agreement with their tenants at the shopping centre so they can gain 
+full possession."_
+
+In the meantime, it looks like Delancey has embarked upon a strategy of managed 
+decline for the shopping centre. Many of its shops are now empty as a result of 
+traders not being able to afford the sharp increases in service charges by 
+Delancey.
 
 ![](/img/planneddecline.jpg)
 *Empty units at the shopping centre*
@@ -14,6 +39,8 @@ Following the Aylesbury CPO decision, Southwark may be realising that obtaining
 a compulsory purchase order for the shopping centre may not be quite as 
 straightforward as it had orginally anticipated.
 
+The traders with long lease that will either need to be bought out or CPO'd 
+are:
 1. Ria Money Transfer on the first floor
 2. Bodeguita and the Jamaican bank next to it on the first floor
 3. Andrea's Hair & Beauty on the ground floor
@@ -22,7 +49,7 @@ straightforward as it had orginally anticipated.
 6. Bowling Alley
 7. Charlie Chaplin Pub
 
-## Heygate !
+## Heygate affordables!
 The Evening Standard ran a [big splash](/img/standard26102016.pdf) in its 
 property section this week, claiming _'sympathy for the Heygate residents who 
 put up such a fight to stop the redevelopment'_, but arguing that the new 
@@ -40,4 +67,14 @@ The price list also shows that there are just 5 1-beds and xx 2-beds left -
 hurry now!
 
 ## LRegister overseas names
-The Land Registry deeds for this phase of the development show that ...
+The Land Registry deeds for this phase of the development show that ..
+
+
+![](http://crappistmartin.github.io/images/h6ctof.png)
+*H6(C-F) - 'South Gardens'*
+
+Plot H06(C-F) 209 units of which 2 are affordable housing (AR) - 50 registered 
+with LR - all overseas buyers.
+
+[Land Registry title for South 
+Gardens](http://crappistmartin.github.io/images/LRegisterSouthGardens.pdf)
