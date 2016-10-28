@@ -111,8 +111,6 @@ at home covered in blankets huddled around a portable electric fan heater -
 whilst artists and revellers gather around the spectacle of a fire-breathing 
 dragon in the estate's former community hall. 
 
-<center>
-<img src="http://heygate.github.io/img/mrsmustafa.jpg" height="400" width="400"/>
-</center>
+![](http://heygate.github.io/img/mrsmustafa.jpg)
 
 
