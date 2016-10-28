@@ -23,9 +23,8 @@ In the film, Doreen Gee - former Chair of the Tenants and Residents Association
 - reminisces about the culture of the estate and what went wrong with the 
   regeneration.
 
-
-
 ![](http://betterelephant.org/images/heygate_cinema2.JPG)
+
 The evening was curated by our very own Jerry Flynn, former estate resident and 
 experienced local campaigner.
 
@@ -41,7 +40,6 @@ of the estate and how many were forced into unsuitable accommodation much
 further afield. She also claimed she had been victimised after speaking out 
 against the regeneration.
 
-
 The film was accompanied by a number of newsclips about the estate and an 
 excerpt from the film-makers' new feature-length documentary about the 
 regeneration of the estate ([Larry and Janet Move 
@@ -51,8 +49,9 @@ inspired the confidence of residents past and present.  They are due to release
 a feature length documentary about the estate in Autumn 2013.
 
 
-<p style="text-align: center; ">
-    <iframe allowfullscreen="" frameborder="0" height="225" src="http://www.youtube.com/embed/sl2rSodPHV8" width="400"></iframe></p>
+
+    <iframe allowfullscreen frameborder="0" height="225" 
+src="http://www.youtube.com/embed/sl2rSodPHV8" width="400"></iframe>
 
 
 Three days after the event, four council officers turned up to deliver the 
@@ -71,6 +70,7 @@ Michael Wadleigh's 1981 film 'Wolfen' - a cautionary metaphor about real estate
 speculation and urban gentrification.
 
 ## Hotel Elephant
+
 ![](http://crappistmartin.github.io/images/daveware.jpg)
 
 Meanwhile, 'developer-compliant' interim uses on other parts of the estate 
