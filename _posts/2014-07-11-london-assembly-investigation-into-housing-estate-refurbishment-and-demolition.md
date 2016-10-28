@@ -104,10 +104,8 @@ council estate demolitons and sell-offs?
 
 __Footnotes:__
 
-[^1]: See [Paragraphs 5.34 & 5.35 of CPO Statement of 
-  Evidence](http://www.southwark.gov.uk/download/downloads/id/8171/proofs_of_evidence_%E2%80%93_jon_abbot_%E2%80%93_final_proof)
+[^1]: See [Paragraphs 5.34 & 5.35 of CPO Statement of Evidence](http://www.southwark.gov.uk/download/downloads/id/8171/proofs_of_evidence_%E2%80%93_jon_abbot_%E2%80%93_final_proof)
  
-[^2]: See [Paragraph 2.8 of Heygate CPO Statement of 
-  Reasons](http://www.southwark.gov.uk/download/downloads/id/8194/core_document_2_-_statement_of_reasons_sor_-_sor)
+[^2]: See [Paragraph 2.8 of Heygate CPO Statement of Reasons](http://www.southwark.gov.uk/download/downloads/id/8194/core_document_2_-_statement_of_reasons_sor_-_sor)
 
 

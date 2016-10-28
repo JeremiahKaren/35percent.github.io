@@ -87,5 +87,4 @@ Paul is one of [many](/revolving-doors/) former Southwark Council officers and m
 
 __Footnotes:__
 
-[^1]: See pages 34 & 51 of the [Southbank Tower 
-  SCI](http://planningonline.southwark.gov.uk/DocsOnline/Documents/152101_1.pdf)
+[^1]: See pages 34 & 51 of the [Southbank Tower SCI](http://planningonline.southwark.gov.uk/DocsOnline/Documents/152101_1.pdf)

@@ -187,24 +187,14 @@ downloaded from [here](http://heygate.github.io/img/CPORichardLee.mp3).
 
 __Footnotes:__
 
-[^1]: <a 
-  href="http://betterelephant.github.com/images/jonabbottCPOinquiry8Feb2013.pdf">Inquiry 
-Document 32</a> tabled by Project Director Jon Abbott during Public Inquiry on 
-8 Feb 2013
+[^1]: <a href="http://betterelephant.github.com/images/jonabbottCPOinquiry8Feb2013.pdf">Inquiry 
+Document 32</a> tabled by Project Director Jon Abbott during Public Inquiry on 8 Feb 2013.
 [^2]: Mr Tinker's written statement, Objectors' Statement of Case - page 45.
 [^3]: Mr Edwards' written statement, Inquiry Document 21.
 [^4]: Professor Lees' written statement, Inquiry Document 26.
 [^5]: Mr Redpath's written statement, Objectors' Statement of Case - page 43.
-[^6]: See also paragraph 26 of the <a 
-  href="http://heygate.github.io/img/leaseholderpolicy7.png">2005 Leaseholder 
-Policy </a>and paragraphs 4 & 33 of the <a 
-href="http://heygate.github.io/img/18May2004.pdf">Executive Report - 'Heygate 
-Estate Decant Arrangements'</a>, 18 May 2004: <b><i>"Council Executive agrees 
-to develop housing options for leaseholders whose interests will be acquired as 
-part of the main scheme, including shared and retained equity arrangements. The 
-negotiation of shared ownership retained equity schemes for people to buy a 
-share in a higher valued property will form part of the procurement exercise to 
-select housing association and developer partners."</i></b>
+[^6]: See also paragraph 26 of the <a href="http://heygate.github.io/img/leaseholderpolicy7.png">2005 Leaseholder Policy </a>and paragraphs 4 & 33 of the <a href="http://heygate.github.io/img/18May2004.pdf">Executive Report - 'Heygate Estate Decant Arrangements'</a>, 18 May 2004: <b><i>"Council Executive agrees to develop housing options for leaseholders whose interests will be acquired as part of the main scheme, including shared and retained equity arrangements. The negotiation of shared ownership retained equity schemes for people to buy a 
+share in a higher valued property will form part of the procurement exercise to select housing association and developer partners."</i></b>
 
 
 
