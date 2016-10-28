@@ -22,9 +22,22 @@ straightforward as it had orginally anticipated.
 6. Bowling Alley
 7. Charlie Chaplin Pub
 
-## This is a sub-heading
+## Heygate !
+The Evening Standard ran a [big splash](/img/standard26102016.pdf) in its 
+property section this week, claiming _'sympathy for the Heygate residents who 
+put up such a fight to stop the redevelopment'_, but arguing that the new 
+shared ownership properties are ranging from £111,250 for a 25% share of a 
+one-bedroom apartment.
 
-This is how to embed an image
-![](http://35percent.org/img/london-borough-of-southwark-street-sign3.png)
+affordable  ![](/img/standard26102016.jpg)
 
-This is how to embed a hyperlink to [our website](http://www.35percent.org).
+However, the small print in the [price 
+list](https://lqpricedin.co.uk/wp-content/uploads/2015/04/Elephant-park-1-bed-October16.pdf) 
+shows that a minimum deposit of £30k is required, as is a minimum income of 
+£42,918. 
+
+The price list also shows that there are just 5 1-beds and xx 2-beds left - 
+hurry now!
+
+## LRegister overseas names
+The Land Registry deeds for this phase of the development show that ...
