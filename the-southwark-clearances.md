@@ -6,7 +6,7 @@ categories: [Estate regeneration, New council homes]
 ---
 David Cameron's [announcement](https://www.gov.uk/government/news/prime-minister-pledges-to-transform-sink-estates) that the government will be regenerating 100 council estates across the country, should send a chill down the spine of every council tenant and leaseholder in the country.
 
-![](http://crappistmartin.github.io/images/david-cameron_peter-john.jpg)
+![](/img/camerondailymail.jpg)
 
 This, combined with the Housing & Planning Bill that's being railroaded through parliament, has been interpreted by many as the end of social housing. It is hard to disagree.
 
