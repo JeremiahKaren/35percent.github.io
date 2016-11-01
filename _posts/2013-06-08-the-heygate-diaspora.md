@@ -7,11 +7,14 @@ categories: [Heygate regeneration]
 ---
 >"There is a huge silent majority of people that have been moved out of the Heygate that are happy in their new homes." __(Cllr Fiona Colley, Cabinet Member for Regeneration)__
 
+[Interview with Property Week Magazine 
+- 17/05/13](http://heygate.github.io/img/examples/PROPWK170513.pdf)
+
 >“I could no longer afford to stay in the area and, in the end, the offer I was made plus £45,000 of my life savings bought me a terraced property 15 miles out of London. I have, I feel, given up my home to accommodate the building of homes for overseas investors.” __(Terry Redpath, Former Heygate Leaseholder)__
 
-[Property Week Magazine - 17/05/13](http://heygate.github.io/img/examples/PROPWK170513.pdf)
-
-In our [last blog post](/2013-05-26-peters-denial/) we corrected some of the more [fanciful claims](http://www.youtube.com/embed/87Yg_SJoPjw) that council leader Peter John made about the rehousing of Heygate tenants.
+In our [last blog post](/2013-05-26-peters-denial/) we corrected some of the
+more [fanciful claims](http://www.youtube.com/embed/87Yg_SJoPjw) that council 
+leader Peter John made about the rehousing of Heygate tenants.
 [We showed](/2013-05-26-peters-denial/) that only 45 Heygate tenants have actually been rehoused in new homes. We now also know that only around 1 in 5 Heygate secure tenants actually remain in the SE17 postcode (216 tenants out of 1034). This information comes from a response to an [FOI request](https://www.whatdotheyknow.com/request/analysis_of_displaced_heygate_re#incoming-394155). The rest have been scattered to the outer corners of the borough and beyond:
 
 ![](http://heygate.github.io/img/DisplacedTenants.png)
