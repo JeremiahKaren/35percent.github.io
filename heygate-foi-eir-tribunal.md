@@ -26,7 +26,7 @@ title: "Heygate FOI/EIR Tribunal"
 <ul>
   <li>
     <ul>
-    {% for post in site.categories.viability_assessments %}
+    {% for post in site.categories.viability %}
        {% if post.url %} <li><a href="{{ post.url }}">{{ post.title }}</a></li>
        {% endif %}
     </ul>
