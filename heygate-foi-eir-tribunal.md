@@ -25,12 +25,14 @@ title: "Heygate FOI/EIR Tribunal"
 <h2 id="categories">Categories</h2>
 <ul>
 {% for category in site.categories %}
-  <li><h3>{{ category | first }}</h3>
+  <li>
+{% if category = "Viability assessments" %}
     <ul>
     {% for posts in category %}
       {% for post in posts %}
        {% if post.url %} 
         <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+       {% endif %}
        {% endif %}
       {% endfor %}
     {% endfor %}
