@@ -33,7 +33,6 @@ title: "Heygate FOI/EIR Tribunal"
        {% if post.url %} 
         <li><a href="{{ post.url }}">{{ post.title }}</a></li>
        {% endif %}
-       {% endif %}
       {% endfor %}
     {% endfor %}
     </ul>
