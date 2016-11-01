@@ -5,7 +5,6 @@ title: "Heygate FOI/EIR Tribunal"
 
 <h2 id="categories">Blog posts about Heygate viability assessment FOI 
 Tribunal</h2>
-<ul>
   <li>
     <ul>
     {% for post in site.categories.viability %}
