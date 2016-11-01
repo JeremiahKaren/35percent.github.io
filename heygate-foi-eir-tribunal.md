@@ -1,9 +1,9 @@
 ---
 layout: page
-title: "Heygate FOI/EIR Tribunal"
+title: "Heygate FOI Tribunal"
 ---
 
-<h2 id="categories">Blog posts about Heygate viability assessment FOI 
+<h2 id="categories">Blog posts about the Heygate viability assessment FOI 
 Tribunal</h2>
    
 

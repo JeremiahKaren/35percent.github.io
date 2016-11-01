@@ -5,7 +5,6 @@ subtitle: 'First completed phase of Heygate regeneration nominated for architect
 categories: [Heygate regeneration, Estate regeneration]
 published: true
 layout: post
-
 ---
 Trafalgar Place, the first completed phase of the Heygate estate redevelopment has been nominated for the Royal Institute of British Architect’s (RIBA) [Stirling Prize](https://www.architecture.com/Awards/Awards2016/StirlingPrize/Home.aspx).
 It follows the nomination last year of [Neo Bankside](http://35percent.org/neo-bankside), another development in north Southwark that [failed](https://www.theguardian.com/artanddesign/architecture-design-blog/2015/jul/21/neo-bankside-how-richard-rogers-new-non-dom-accom-cut-out-the-poor) to provide promised affordable housing.

@@ -3,7 +3,7 @@ layout: post
 title: "It's all about Financial Viability"
 date: 2012-07-03 11:47
 comments: true
-categories: [Viability assessments, Heygate regeneration]
+categories: [Heygate regeneration]
 ---
 ![](http://crappistmartin.github.io/images/hca.png)
 

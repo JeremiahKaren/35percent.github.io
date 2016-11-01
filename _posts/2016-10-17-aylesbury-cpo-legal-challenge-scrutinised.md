@@ -2,7 +2,8 @@
 layout: post
 title: "Scrutiny fails - Southwark submits grounds of appeal"
 subtitle: "Council submits grounds of appeal while Scrutiny Committee rejects call for legal challenge to be reconsidered"
-published: true 
+categories: [Aylesbury regeneration]
+published: true
 ---
 Last Monday evening, Southwark's Overview and Scrutiny Committee rejected calls for the Council's [decision](http://35percent.org/2016-09-26-council-appeals-aylesbury-cpo-decision/) to appeal against the government's refusal to grant it a CPO against Aylesbury leaseholders to be reconsidered, after it heard that it was powerless to do so.
 

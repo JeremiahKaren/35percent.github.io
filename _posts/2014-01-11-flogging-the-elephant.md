@@ -3,7 +3,6 @@ layout: post
 title: "D'One at the Elephant"
 date: 2014-01-11 13:21
 comments: true
-categories: [Viability assessments]  
 ---
 ![](http://crappistmartin.github.io/images/leisurecentreaerial.jpg)
 
