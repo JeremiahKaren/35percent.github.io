@@ -4,7 +4,7 @@ title: "How to avoid providing affordable housing - a guide for developers"
 date: 2013-07-30 18:27
 redirect_from: /blog/2013/07/30/how-to-avoid-providing-affordable-housing-a-guide-for-developers/
 comments: true
-categories: [Viability assessments]
+categories: [viability]
 ---
 Since our [last blog post](/2013-07-24-heygate-figures-must-b-be-revealed-information-commissioner/) we have been asked to explain more about viability assessments - also known as viability reports. These are a developer's analysis of the finances of their own scheme, and if this self-assessment demonstrates to the council's satisfaction that the scheme is not financially viable, then the developer is able do duck out of providing affordable housing. 
 

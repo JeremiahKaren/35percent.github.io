@@ -3,7 +3,7 @@ layout: post
 title: "Heygate Figures must be Revealed - Information Commissioner"
 date: 2013-07-24 20:03
 comments: true
-categories: [Viability assessments] 
+categories: [viability]
 ---
 Southwark Council has been ordered to disclose the financial viability assessment provided by developer Lend Lease to secure the approval of its Heygate masterplan application. This assessment justified the reduction in the affordable housing requirement from 35% to 25% and the reduction of social rented housing to just 71 units.
 
