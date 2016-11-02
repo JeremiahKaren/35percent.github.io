@@ -12,63 +12,68 @@ claiming that 'foreign buyers have been made an easy scapegoat' for the high
 cost of housing the capital.
 
 The article refers to research being commissioned by City Hall, which is 
-attempting to address _'concerns about the role that overseas money plays in 
-London’s property market'_ and _"the positive role that overseas buyers play in 
-enabling developments to go ahead."_
+attempting to address not only  _'concerns about the role that overseas money 
+plays in London’s property market'_, but also _"the positive role that overseas 
+buyers play in enabling developments to go ahead."_
  
-Dave Hill argues that _"a considerable amount of London’s new “affordable” 
-homes aimed at people on low and middle incomes are built as a condition of 
-permission being granted for large, foreigner-financed housing schemes to go 
-ahead. "_
+Dave Hill dismisses the 'populist narrative' around overseas buyers and argues 
+that _"a considerable amount of London’s new “affordable” homes aimed at people 
+on low and middle incomes are built as a condition of permission being granted 
+for large, foreigner-financed housing schemes to go ahead. "_
 
 Last week, the Evening Standard ran a [big splash](/img/standard26102016.pdf) 
-echoing a similar perspective. It claimed that with 2-beds in [Elephant 
-Park](http://elephantpark.co.uk) selling for just shy of £1m, there was 
-_'sympathy for the Heygate residents who put up such a fight to stop the 
-redevelopment'_, but that locals can still pick up an 'affordable' shared 
-ownership flat for just £111,250 (for a 25% share of a 1-bed).
+echoing a similar trumpeting of the 'affordable' housing these schemes provide.  
+It claimed that with 2-beds in [Elephant Park](http://elephantpark.co.uk) 
+selling for just shy of £1m, there was plenty of _'sympathy for the Heygate 
+residents who put up such a fight to stop the redevelopment'_, but argued that 
+locals can nevertheless still pick up an 'affordable' shared ownership flat for 
+just £111,250 (for a 25% share of a 1-bed).
 
 ![](/img/standard26102016.jpg)
 
-What the article doesn't mention is that of the 360 new homes in ['South 
+What the Evening Standard article doesn't mention is that of the 360 new homes 
+in ['South 
 Gardens'](http://www.elephantpark.co.uk/elephant-park/explore-the-development/south-garden) 
 (the next phase under development), only 25 are available for shared ownership 
-and only 7 units are left unsold[^1]. The small print in the [price 
+and only 7 units were still available at the time it went to print[^1]. The 
+small print in the [price 
 list](https://lqpricedin.co.uk/wp-content/uploads/2015/04/Elephant-park-1-bed-October16.pdf) 
 also shows that a minimum deposit of £30k is required, as is a minimum income 
 of £42,918. 
 
-## The private units
-The 284 private units in South Gardens have been heavily marketed overseas.  
-Colliers International was 
-[appointed](http://www.costar.co.uk/en/assets/news/2013/April/Lend-Lease-picks-Colliers-to-drive-Elephant-overseas-housing-sales/) 
-by Lendlease to market its homes in Singapore and Hong Kong. 
+## South (East Asia) Gardens
+The vast majority of the remaining units in the next phase of the Heygate 
+redevelopment are units for private sale. 
 
-Colliers launched sales at South Gardens during [an event on 11th April 
-2014](http://www.propertyguru.com.sg/property-management-news/2014/4/37646/elephant-park-sales-in-singapore) 
-in Singapore. Within a month it sold 55? apartments.
-
-Colliers' [sales brochure](/img/South-Gardens-Fact-Sheet-CIHK.pdf) lists 
+This is plot H06(D,E & F) of South Gardens, otherwise known as 'South Garden 
+Point'. There are 179 apartments here - all for private sale. Most have been 
+sold. We don't know to who because Lendlease and the Council [won't tell us].  
+But we do know that 46 have been sold by Colliers in Hong Kong and Singapore, 
+because Colliers' recommended solicitors 'Riseamsharples' has a policy of 
+registering purchases with the Land Registry, even though such registration is 
+not required or normally effected until the building is completed.
 
 ![](/img/purchaserssolicitor.png)
 *Extract from Colliers Singapore sales brochure*
+
+
+Colliers International was 
+[appointed](http://www.costar.co.uk/en/assets/news/2013/April/Lend-Lease-picks-Colliers-to-drive-Elephant-overseas-housing-sales/) 
+by Lendlease to market its homes in Singapore and Hong Kong. __Chestertons__ are Lendlease's [appointed agents in Dubai](http://www.tradearabia.com/news/CONS_281117.html), but their solicitors don't register the sales until completion.
+
+Colliers launched sales at South Gardens during [an event on 11th April 
+2014](http://www.propertyguru.com.sg/property-management-news/2014/4/37646/elephant-park-sales-in-singapore) in Singapore. Within a month 46 apartments at 'South Garden Point' were 
+registered with the Land registry.
+
+Colliers' [sales brochure](/img/South-Gardens-Fact-Sheet-CIHK.pdf) lists 
 
 
 The [Land Registry deeds](/img/LRegisterSouthGardens.pdf) for this phase of the 
 development show that ..
 
 
-![](http://crappistmartin.github.io/images/h6ctof.png)
-*H6(C-F) - 'South Gardens'*
 
-Plot H06(C-F) 209 units of which 2 are affordable housing (AR) - 50 registered 
-with LR - all overseas buyers.
 
-[Land Registry title for South 
-Gardens](http://crappistmartin.github.io/images/LRegisterSouthGardens.pdf)
-
-All registered with the same conveyancing firm, Chestertons are the agents in 
-Dubai: http://www.tradearabia.com/news/CONS_281117.html
 
 One of the apartments is registered to a Hong Kong-based asset management 
 company called ['Total Gain International 
