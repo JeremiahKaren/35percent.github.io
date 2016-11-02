@@ -49,35 +49,3 @@ are:
  6. Bowling Alley
  7. Charlie Chaplin Pub
 
-## Heygate affordables!
-The Evening Standard ran a [big splash](/img/standard26102016.pdf) in its 
-property section this week, claiming _'sympathy for the Heygate residents who 
-put up such a fight to stop the redevelopment'_, but arguing that the new 
-shared ownership properties are ranging from £111,250 for a 25% share of a 
-one-bedroom apartment.
-
-affordable  ![](/img/standard26102016.jpg)
-
-However, the small print in the [price 
-list](https://lqpricedin.co.uk/wp-content/uploads/2015/04/Elephant-park-1-bed-October16.pdf) 
-shows that a minimum deposit of £30k is required, as is a minimum income of 
-£42,918. 
-
-The price list also shows that there are just 5 1-beds and xx 2-beds left - 
-hurry now!
-
-## LRegister overseas names
-The Land Registry deeds for this phase of the development show that ..
-
-
-![](http://crappistmartin.github.io/images/h6ctof.png)
-*H6(C-F) - 'South Gardens'*
-
-Plot H06(C-F) 209 units of which 2 are affordable housing (AR) - 50 registered 
-with LR - all overseas buyers.
-
-[Land Registry title for South 
-Gardens](http://crappistmartin.github.io/images/LRegisterSouthGardens.pdf)
-
-All registered with the same conveyancing firm, Chestertons are the agents in 
-Dubai: http://www.tradearabia.com/news/CONS_281117.html
