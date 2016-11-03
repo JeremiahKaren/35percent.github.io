@@ -18,7 +18,16 @@ The event was covered by ITV and the BBC:
 The TV reports emphasised the lack of affordable housing. Mayor Johnson and Councillor Colley responded with the well-rehearsed defence that _One the Elephant_ was providing a leisure centre instead, and that 1600 'affordable' housing units will be provided elsewhere in the regeneration. 
 
 ## Affordable Housing?
-However, as was revealed at the recent CPO inquiry[^1], less than half of these 1600 so-called 'affordable' homes will be social rented - a net loss of around 500 after the loss of the Heygate estate. The affordable housing also includes part-buy/part-rent and over 200 units at the new iniquitous 'affordable rent' at 50% market rent. Neither of these are options that are really affordable for the vast majority of people who need housing in Southwark. As this blog has repeatedly emphasised - social rent is the kind of affordable housing that Southwark needs most, yet it is precisely the kind that the Elephant regeneration is destroying.
+However, as was revealed at the recent CPO inquiry[^1] that only a small 
+fraction of these 1600 so-called 'affordable' homes will be social rented and 
+Southwark's [changing definitions](/redefining-social-rent/) have seen this 
+term now include 'affordable rent' - i.e. up to 80% market rent. The affordable 
+housing also includes part-buy/part-rent and over 200 units at the new 
+iniquitous 'affordable rent' at 50% market rent.  Neither of these are options 
+that are really affordable for the vast majority of people who need housing in 
+Southwark. As this blog has repeatedly emphasised 
+- social rent is the kind of affordable housing that Southwark needs most, yet 
+  it is precisely the kind that the Elephant regeneration is destroying.
 
 In the ITV interview, Councillor Colley also referred to Southwark Council's [recent pledge](http://www.southwark.gov.uk/news/article/1301/council_bucks_national_trend_and_promises_vast_increase_in_number_of_council_houses) to build 10,000 council houses over the next 30 years. This pledge is very welcome and we hope to see it fulfilled, but affordable housing was to be one of the key benefits of the Elephant & Castle regeneration, and these are homes that should be being built now.
 
