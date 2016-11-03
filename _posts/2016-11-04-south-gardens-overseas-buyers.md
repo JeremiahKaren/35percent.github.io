@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Enter the title of the blog post here"
-subtitle: "Enter the subtitle of the blog post here"
+title: "Panama Connections - Total Gain International"
+subtitle: "The redeveloped Heygate estate's connection with overseas buyers and the Panama Papers"
 published: false
 ---
 Guardian columnist, Labour hack and [gentrification 
@@ -45,20 +45,15 @@ of £42,918.
 The vast majority of the remaining units in South Gardens are for private sale. 
 
 This is plot H06(D,E & F) of South Gardens, otherwise known as 'South Garden 
-Point'. There are 179 apartments here - all for private sale.
-
+Point'. There are two blocks with 179 apartments here - all for private sale.
 
 ![](/img/southgardenpoint.JPG)
 
 All but 28 of the apartments here have been sold. We don't know how many were sold to 
-overseas buyers because Lendlease and the Council [won't 
-say](https://youtu.be/WZRV4KMxuEk). What we do know is that 46 of the 179 
-apartments have been sold by international real estate firm __Colliers 
-International__ in Hong Kong and Singapore. We know this because Colliers' [sales brochure](/img/South-Gardens-Fact-Sheet-CIHK.pdf) lists its recommended solicitors as ['Riseamsharples'](http://www.riseamsharples.com/legal-services/overseas-property-exhibitions):
+overseas buyers because Lendlease and the Council [won't say](https://youtu.be/WZRV4KMxuEk). What we do know is that 46 of the 179 apartments have been sold by international real estate firm __Colliers International__ in Hong Kong and Singapore. We know this because Colliers' [sales brochure](/img/South-Gardens-Fact-Sheet-CIHK.pdf) lists its recommended solicitors as ['Riseamsharples'](http://www.riseamsharples.com/legal-services/overseas-property-exhibitions):
 
 ![](/img/purchaserssolicitor.png)
 *Extract from Colliers Singapore sales brochure*
-
 
 [__Riseamsharples__](http://www.riseamsharples.com/legal-services/overseas-property-exhibitions) has a policy of registering clients' purchases with the Land Registry, even though such registration is not required or normally effected until the development is completed.
 
@@ -66,12 +61,14 @@ International__ in Hong Kong and Singapore. We know this because Colliers' [sale
 Colliers International was [appointed](http://www.costar.co.uk/en/assets/news/2013/April/Lend-Lease-picks-Colliers-to-drive-Elephant-overseas-housing-sales/) 
 by Lendlease to market its homes only in Singapore and Hong Kong.Colliers launched sales at South Gardens during [an event on 11th April 2014](http://www.propertyguru.com.sg/property-management-news/2014/4/37646/elephant-park-sales-in-singapore) in Singapore. Within a month 46 apartments at 'South Garden Point' were registered with the Land registry.
 
+The UK launch for South Gardens [begins next week](/img/southgardensuklaunch.jpg) with prices starting at £550k. Hurry now - there are only 28 apartments left!
+
  __Chestertons__ are Lendlease's [appointed agents in Dubai](http://www.tradearabia.com/news/CONS_281117.html), but their solicitors don't register the sales until completion.
 
-## Panama connections
+## Panama connections - Total Gain International
 A closer look at the [Land Registry deeds](/img/LRegisterSouthGardens.pdf) showing the 46 buyers who bought through Colliers gives us something of an insight into who the purchasers are and the nature of their interest.
 
-One of the apartments is registered to a Hong Kong-based asset management company called ['Total Gain International Limited'](https://www.hkgbusiness.com/en/company/Total-Gain-International-Limited). Some of the other buyers are listed as:
+One of the apartments is registered to a Hong Kong-based asset management company, appropriately called ['Total Gain International Limited'](https://www.hkgbusiness.com/en/company/Total-Gain-International-Limited). Some of the other buyers are listed as:
 
  * Ahsan Din - Director of [sakacapital.com](http://www.bankingandfinance.com.sg/company/details/80119512/saka-capital-pte-ltd) 
 (bought two apartments)
@@ -114,6 +111,11 @@ This is what Lendlease estimates as the rental income for the cheapest of the re
 ![](/img/Availability_1_bedrooms_WC_South_Gardens.png)
 *Price list for South Gardens* 
 
+## Private Property
+While taking the above photograph of South Gardens we were approached by a Lendlease and told not to take photographs because we were on private property..
+
+![](/img/nophotography.jpg)
+*Security guard telling us not to take photographs of South Gardens*
 
 
 
