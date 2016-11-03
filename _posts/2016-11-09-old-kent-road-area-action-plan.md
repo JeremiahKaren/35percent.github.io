@@ -26,4 +26,7 @@ These are all well-worn and familiar tactics used to avoid building affordable h
 
 BLE – rational
 
-Concluding para – open invitation to developers; not so much open for business as open to being ripped off.  Southwark or SK to rip it up; 
+Concluding para – open invitation to developers; not so much open for business as open to being ripped off.  Southwark or SK to rip it up;
+
+[link](http://35percent.org/img/EANresponse_draftOKRAAP.pdf) to our draft 
+response to AAAP consultation. 
