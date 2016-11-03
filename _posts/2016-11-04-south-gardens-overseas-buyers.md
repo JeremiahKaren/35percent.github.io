@@ -49,21 +49,37 @@ Point'. There are two blocks with 179 apartments here - all for private sale.
 
 ![](/img/southgardenpoint.JPG)
 
-All but 28 of the apartments here have been sold. We don't know how many were sold to 
-overseas buyers because Lendlease and the Council [won't say](https://youtu.be/WZRV4KMxuEk). What we do know is that 46 of the 179 apartments have been sold by international real estate firm __Colliers International__ in Hong Kong and Singapore. We know this because Colliers' [sales brochure](/img/South-Gardens-Fact-Sheet-CIHK.pdf) lists its recommended solicitors as ['Riseamsharples'](http://www.riseamsharples.com/legal-services/overseas-property-exhibitions):
+All but 28 of the apartments here have been sold. We don't know how many were 
+sold to overseas buyers because Lendlease and the Council [won't 
+say](https://youtu.be/WZRV4KMxuEk). What we do know is that 46 of the 179 
+apartments have been sold by international real estate firm __Colliers 
+International__ in Hong Kong and Singapore. We know this because Colliers' 
+[sales brochure](/img/South-Gardens-Fact-Sheet-CIHK.pdf) lists its recommended 
+solicitors as ['Riseam 
+Sharples'](http://www.riseamsharples.com/legal-services/overseas-property-exhibitions) 
+and 46 buyers are listed in the [Land Registry 
+deeds](/img/LRegisterSouthGardens.pdf) at Riseam Sharples HQ (2 Tower St, WC2H 
+9NP):
 
 ![](/img/purchaserssolicitor.png)
 *Extract from Colliers Singapore sales brochure*
 
-[__Riseamsharples__](http://www.riseamsharples.com/legal-services/overseas-property-exhibitions) has a policy of registering clients' purchases with the Land Registry, even though such registration is not required or normally effected until the development is completed.
+[__Riseam 
+Sharples__](http://www.riseamsharples.com/legal-services/overseas-property-exhibitions) 
+has a policy of registering clients' purchases with the Land Registry, even 
+though such registration is not required or normally effected until the 
+development is completed.
 
 ## Not sure if this next bit is necessary
-Colliers International was [appointed](http://www.costar.co.uk/en/assets/news/2013/April/Lend-Lease-picks-Colliers-to-drive-Elephant-overseas-housing-sales/) 
-by Lendlease to market its homes only in Singapore and Hong Kong.Colliers launched sales at South Gardens during [an event on 11th April 2014](http://www.propertyguru.com.sg/property-management-news/2014/4/37646/elephant-park-sales-in-singapore) in Singapore. Within a month 46 apartments at 'South Garden Point' were registered with the Land registry.
+Colliers International was 
+[appointed](http://www.costar.co.uk/en/assets/news/2013/April/Lend-Lease-picks-Colliers-to-drive-Elephant-overseas-housing-sales/) 
+by Lendlease to market its homes only in Singapore and Hong Kong.Colliers 
+launched sales at South Gardens during [an event on 11th April 
+2014](http://www.propertyguru.com.sg/property-management-news/2014/4/37646/elephant-park-sales-in-singapore) 
+in Singapore. Within a month 46 apartments at 'South Garden Point' were 
+[registered with the Land registry](/img/LRegisterSouthGardens.pdf).
 
 The UK launch for South Gardens [begins next week](/img/southgardensuklaunch.jpg) with prices starting at £550k. Hurry now - there are only 28 apartments left!
-
- __Chestertons__ are Lendlease's [appointed agents in Dubai](http://www.tradearabia.com/news/CONS_281117.html), but their solicitors don't register the sales until completion.
 
 ## Panama connections - Total Gain International
 A closer look at the [Land Registry deeds](/img/LRegisterSouthGardens.pdf) showing the 46 buyers who bought through Colliers gives us something of an insight into who the purchasers are and the nature of their interest.
