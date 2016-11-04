@@ -133,6 +133,12 @@ While taking the above photograph of South Gardens we were approached by a Lendl
 ![](/img/nophotography.jpg)
 *Security guard telling us not to take photographs of South Gardens*
 
+## How Laundered money shapes London's property market
+_“We think it very likely that the influx of corrupt money into the housing market has pushed up prices,”_ said Rachel Davies, senior advocacy manager at Transparency International. Donald Toon, head of the National Crime Agency, has gone further, saying last year that _“the London property market has been skewed by laundered money. Prices are being artificially driven up by overseas criminals who want to sequester their assets here in the UK”_.
+https://www.ft.com/content/f454e3ec-fc02-11e5-b5f5-070dca6d0a0d
+
+Conclusion: How can an influx of corrupt money into London's property market, artificially driving up prices be a good thing?
+
 
 
 __Footnotes:__
