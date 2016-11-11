@@ -79,7 +79,11 @@ in Singapore. Within a month 46 apartments at 'South Garden Point' were
 The UK launch for South Gardens [begins next week](/img/southgardensuklaunch.jpg) with prices starting at £550k. Hurry now - there are only 28 apartments left!
 
 ## Panama connections - Total Gain International
-A closer look at the [Land Registry deeds](/img/LRegisterSouthGardens.pdf) showing the 46 buyers who bought through Colliers gives us something of an insight into who the purchasers are and the nature of their interest.
+We took a closer look at the [Land Registry 
+deeds](/img/LRegisterSouthGardens.pdf) to try and find out a bit more a bout 
+the 46 buyers who bought through Colliers. A simple google search of the names 
+of the buyers in the deeds comes up with the following results. We can't say 
+for sure if these are the actual buyers or whether they share the same name.
 
 One of the apartments is registered to a Hong Kong-based asset management company, appropriately called ['Total Gain International Limited'](https://www.hkgbusiness.com/en/company/Total-Gain-International-Limited). Some of the other buyers are listed as:
 
