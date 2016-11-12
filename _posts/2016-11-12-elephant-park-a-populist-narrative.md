@@ -165,10 +165,10 @@ these prices.
 
 ![](/img/standard26102016.jpg)
 
-## Conclusion
-The Heygate redevelopment isn't an exception at the Elephant and Castle - out 
-of 5000 new homes in the six major schemes barely 80 are social rented - nor is 
-it an exception for London, as the [LTF 
+## Gentrification by the numbers
+The Heygate redevelopment isn't an exception at the Elephant and Castle 
+- out of 5000 new homes in the six major schemes barely 80 are social rented - 
+  nor is it an exception for London, as the [LTF 
 figures](http://35percent.org/img/LTF_delivery_of_housing_in_London_2014-15.pdf) 
 show.
 
