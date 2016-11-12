@@ -7,9 +7,10 @@ published: true
 Are you __a)__ someone in Southwark in desperate need of a home?
   or __b)__ a property investor in Hong Kong or Singapore?
 
- * If __a)__ join the lengthening council waiting list (if you can);
- * if __b)__ welcome to the Elephant and Castle, we have a good investment for 
-   you.
+ * If __a)__ join the lengthening council waiting list for a council home, if 
+   you can.
+ * if __b)__ welcome to the Elephant and Castle, there is a good investment 
+   opportunity waiting for you.
 
 This is the conclusion of our own investigation into who will live on the new 
 Heygate estate. It was prompted by recent press apologetics for gentrification. 
@@ -40,7 +41,7 @@ of the latest available figures on affordable housing delivery, which shows
 that less than 1 in 5 new homes being built are affordable and only 1 in 10 
 social rented - half the London Mayor's target in both cases.
 
-The Evening Standard has recently provided us with a [case study 
+The Evening Standard has recently provided us with a [case 
 study](/img/standard26102016.pdf) of one such _'foreigner-financed housing 
 scheme'_ 
 - __Elephant Park__ (Heygate as was). A perfect test, we thought, of whether 
@@ -61,6 +62,7 @@ week](https://github.com/35percent/35percent.github.io/blob/master/img/southgard
 with prices starting at £550k, but it’s really just to mop up what's left from 
 the Singapore sales which [started on 11th April 
 2014](http://www.propertyguru.com.sg/property-management-news/2014/4/37646/elephant-park-sales-in-singapore).  
+
 We don't know how many units have been sold to overseas buyers because 
 Lendlease and the Council [won't say](https://youtu.be/WZRV4KMxuEk), but [Land 
 Registry 
@@ -89,12 +91,12 @@ at Riseam Sharples HQ (2 Tower St, WC2H 9NP):
 
 
 ## Total Gain International
-While one of the buyers listed in the [Land Registry 
+While one of the Colliers buyers listed in the [Land Registry 
 deeds](/img/LRegisterSouthGardens.pdf) is clearly an asset management company, 
 appropriately called ['Total Gain International 
 Limited'](https://www.hkgbusiness.com/en/company/Total-Gain-International-Limited), 
 we cannot categorically state that the remaining 45 buyers are also investors, 
-but a google search possible links to the following companies:
+but a google search brings up possible links to the following companies:
 
  * Ahsan Din - Director of 
    [sakacapital.com](http://www.bankingandfinance.com.sg/company/details/80119512/saka-capital-pte-ltd) 
@@ -134,42 +136,56 @@ of DFZ Capital (bought three apartments)
 Leaving all this aside, there is no doubt that these properties are being 
 marketed as investment assets - not homes. This is clear from the sales 
 information that Lendlease supplies to potential buyers. They very helpfully 
-estimate the rental income and the cheapest of the remaining flats at South 
-Garden Point will earn you a healthy £22,360 per year. This is what Lendlease 
-estimates as the rental income for the cheapest of the remaining flats at South 
-Garden Point. 
+estimate that the cheapest of the remaining flats at South Garden Point will 
+earn you a healthy rental income of £22,360 per year. So if you have got £430 
+per week to spare and need a 1-bed flat, head for South Garden Point. 
 
 ![](/img/Availability_1_bedrooms_WC_South_Gardens.png)
 *Lendlease's [price list](/img/Availability_1_bedrooms_WC_South_Gardens.pdf) 
 for South Gardens*
 
-So if you have got £430 per week to spare and need a 1-bed flat, head for South 
-Garden Point.
-
 ## The other side of the coin - affordable housing
-What about the affordable housing at South Gardens? The aforemention Evening 
-Standard article argued that while 2-beds in [Elephant 
-Park](http://elephantpark.co.uk) might be selling for £1m, 'locals' can 
+What about the affordable housing at South Gardens? The [Evening Standard 
+article](/img/standard26102016.pdf) argued that while 2-beds in [Elephant 
+Park](http://elephantpark.co.uk) might be selling for £1m, locals could 
 nonetheless pick up an 'affordable' shared ownership flat for just £111,250 
-(for a 25% share of a 1-bed). 
+(for a 25% share of a 1-bed).  
 
-![](/img/standard26102016.jpg)
-
-If the Standard had looked at the small print of the price, they would have 
-seen that out of total 360 homes in ['South 
+If the Standard had looked at the small print of the [price 
+list](https://lqpricedin.co.uk/wp-content/uploads/2015/04/Elephant-park-1-bed-October16.pdf), 
+they would have seen that out of total 360 homes in ['South 
 Gardens'](http://www.elephantpark.co.uk/elephant-park/explore-the-development/south-garden)
 only twenty five were available for shared ownership and only 7 were still 
 available[^1]. The same small print in the [price 
 list](https://lqpricedin.co.uk/wp-content/uploads/2015/04/Elephant-park-1-bed-October16.pdf) 
 also shows that a minimum deposit of £30k is required and a minimum income of 
-£42,918. We can assure the Evening Standard that there are not many 'locals' at 
-the Elephant and Castle who can afford this.
+£42,918. We can assure the Evening Standard that there are not many at the 
+Elephant and Castle who will be _'reviving the dream of home ownership'_ at 
+these prices.
+
+![](/img/standard26102016.jpg)
 
 ## Conclusion
-It is not the populist narrative that is false as Dave Hill suggests, it is the 
-deluded pro-gentrification narrative, which suffers from two misapprehensions; 
-that affordable housing is actually affordable and that developers are actually 
-building it. 
+The Heygate redevelopment isn't an exception at the Elephant and Castle - out 
+of 5000 new homes in the six major schemes barely 80 are social rented - nor is 
+it an exception for London, as the [LTF 
+figures](http://35percent.org/img/LTF_delivery_of_housing_in_London_2014-15.pdf) 
+show.
+
+|Development| Total homes  | Social rented  |
+|---|---|---|
+| Heygate  | 2704  | 82  |
+| Strata Tower  | 408  | 0  |
+| One the Elephant  | 284  | 0  |
+| Tribeca Square | 640 | 0 |
+| Eileen House | 335 | 0 |
+| London 360 Tower | 457 | 0 |
+| Total: | 4828 | 82 |
+
+So it is not the populist narrative that is false as Dave Hill suggests, it is 
+the deluded pro-gentrification narrative, which suffers from two 
+misapprehensions; that affordable housing is actually affordable and that 
+developers are actually building it.
 
 __Footnotes:__
 
