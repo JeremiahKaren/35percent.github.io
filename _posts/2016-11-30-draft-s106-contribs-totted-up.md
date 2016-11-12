@@ -19,10 +19,6 @@ Explain how leisure centre and elephant tube upgrade paid out of HRA account,
 i.e. money from council rents that would normally be spent on upkeep and 
 maintenance of the borough's estates. These now left to rot. 
 
-
-## This is a sub-heading
-
-This is how to embed an image
-![](http://35percent.org/img/london-borough-of-southwark-street-sign3.png)
-
-This is how to embed a hyperlink to [our website](http://www.35percent.org).
+Land value uplift should finance the public infrastructure required as a result 
+of increased density development. Instead what is happening is that publically 
+funded infrastructure is helping developers line their pockets.

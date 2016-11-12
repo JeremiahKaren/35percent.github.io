@@ -1,10 +1,19 @@
 ---
 layout: post
-title: "Panama Connections - Total Gain International"
-subtitle: "The redeveloped Heygate estate's connection with overseas buyers and the Panama Papers"
-published: false
+title: "Elephant Park - a populist narrative"
+subtitle: "The Heygate redevelopment's connection with overseas buyers and the 
+Panama Papers"
+published: true
 ---
-Guardian columnist, Labour hack and [gentrification 
+Are you a) someone in Southwark in desperate need of a home, or b) a property 
+investor in Hong Kong or Singapore? If a) join the lengthening council waiting 
+list (if you can); if b) welcome to the Elephant and Castle, we have a place 
+for you.
+
+This is the conclusion of our own investigation into who will live on the new 
+Heygate estate. It was prompted by recent press apologetics for gentrification. 
+
+First up, Guardian columnist, Labour hack and [gentrification 
 advocate](https://www.theguardian.com/uk-news/davehillblog/2016/oct/24/lets-get-our-gentrification-story-straight) 
 Dave Hill, has written an 
 [article](https://www.theguardian.com/uk-news/davehillblog/2016/nov/01/london-housing-sadiq-khan-research-brief-recognises-need-for-overseas-investors) 
@@ -18,11 +27,26 @@ buyers play in enabling developments to go ahead."_
  
 Hill dismisses the 'populist narrative' around overseas buyers and argues that 
 _"a considerable amount of London’s new “affordable” homes aimed at people on 
-low and middle incomes are built as a condition of permission being granted for 
-large, foreigner-financed housing schemes to go ahead. "_
+low and middle incomes, are built as a condition of permission being granted 
+for large, foreigner-financed housing schemes to go ahead. "_ 
 
-Last week, the Evening Standard ran a [big splash](/img/standard26102016.pdf) 
-about a large, 'foreigner-financed housing scheme' - the redeveloped Heygate.  
+Dave Hill is quite right; planning permissions are often given on condition 
+that affordable housing is built, but unfortunately the promise is seldom kept.  
+
+This has been amply demonstrated by London Tenants Federation's 
+[analysis](http://35percent.org/2016-05-07-southwark-in-bottom-3-boroughs-for-affordable-housing-delivery/) 
+of the latest available figures on affordable housing delivery, which shows 
+that less than 1 in 5 new homes being built are affordable and only 1 in 10 
+social rented.
+
+The Evening Standard has recently provided us with a [case study 
+study](/img/standard26102016.pdf) of one such _'foreigner-financed housing 
+scheme'_ 
+- __Elephant Park__ (Heygate as was). A perfect test, we thought, of whether 
+  [gifting public 
+land](http://35percent.org/2016-05-11-no-profit-share-the-true-value-of-the-heygate-regeneration/) 
+and resources to private developers actually delivers affordable housing.
+
 It claimed that while 2-beds in [Elephant Park](http://elephantpark.co.uk) were 
 selling for £1m, there was plenty of _'sympathy for the Heygate residents who 
 put up such a fight to stop the redevelopment'_, but argued that locals can 
@@ -42,52 +66,55 @@ also shows that a minimum deposit of £30k is required, as is a minimum income
 of £42,918. 
 
 ## South (East Asia) Gardens
-This is plot H06(D,E & F) of South Gardens, otherwise known as 'South Garden 
-Point'. There are two blocks with 179 apartments here - all for private sale.
 
 ![](/img/southgardenpoint.JPG)
 
-The South Gardens launch next week is really just there to mop up what's left from the Singapore sales which started with a launch [on 11th April 2014](http://www.propertyguru.com.sg/property-management-news/2014/4/37646/elephant-park-sales-in-singapore). We don't know how many were sold to overseas buyers because Lendlease and the Council [won't 
-say](https://youtu.be/WZRV4KMxuEk). What we do know is that 46 of the 179 
-apartments have been sold by international real estate firm __Colliers 
-International__ in Hong Kong and Singapore. We know this because Colliers' 
-[sales brochure](/img/South-Gardens-Fact-Sheet-CIHK.pdf) lists its recommended 
-solicitors as ['Riseam 
-Sharples'](http://www.riseamsharples.com/legal-services/overseas-property-exhibitions) 
-and 46 buyers are listed in the [Land Registry 
-deeds](/img/LRegisterSouthGardens.pdf) at Riseam Sharples HQ (2 Tower St, WC2H 
-9NP):
+The latest phase of Elephant Park is [South 
+Gardens](http://www.elephantpark.co.uk/elephant-park/explore-the-development/south-garden) 
+which has 360 homes. Above is plot H06 (D,E & F) otherwise known as 'South 
+Garden Point'. It comprises two blocks with 179 apartments, all for private 
+sale. The UK sales launch [began this 
+week](https://github.com/35percent/35percent.github.io/blob/master/img/southgardensuklaunch.jpg), 
+with prices starting at £550k, but it’s really just to mop up what's left from 
+the Singapore sales which [started on 11th April 
+2014](http://www.propertyguru.com.sg/property-management-news/2014/4/37646/elephant-park-sales-in-singapore).  
+We don't know how many units have been sold to overseas buyers because 
+Lendlease and the Council [won't say](https://youtu.be/WZRV4KMxuEk), but [Land 
+Registry 
+information](https://github.com/35percent/35percent.github.io/blob/master/img/LRegisterSouthGardens.pdf) 
+tells us that it is at least 46. They have been sold via international real 
+estate firm [Colliers International](http://www.colliers.com/en-us) in Hong 
+Kong and Singapore. Colliers' [sales 
+brochure](https://github.com/35percent/35percent.github.io/blob/master/img/South-Gardens-Fact-Sheet-CIHK.pdf) recommends 
+solicitors ['Riseam 
+Sharples'](http://www.riseamsharples.com/legal-services/overseas-property-exhibitions), 
+who attend Colliers' overseas sales launches.
+
+Riseam Sharples began travelling to Hong Kong and Singapore in the 80s and 90s 
+with the aim of helping [_'offshore investors to get a 
+bargain'_](http://www.riseamsharples.com/legal-services/overseas-property-exhibitions).
+
+Riseam Sharples also has a commendable policy of registering clients' purchases 
+with the Land Registry, even though such registration is not required or 
+normally effected until the development is completed. The 46 buyers are 
+Registered in the [Land Registry 
+deeds](https://github.com/35percent/35percent.github.io/blob/master/img/LRegisterSouthGardens.pdf) as 
+at Riseam Sharples HQ (2 Tower St, WC2H 9NP):
 
 ![](/img/purchaserssolicitor.png)
 *Extract from Colliers Singapore sales brochure*
 
-[__Riseam 
-Sharples__](http://www.riseamsharples.com/legal-services/overseas-property-exhibitions) 
-has a policy of registering clients' purchases with the Land Registry, even 
-though such registration is not required or normally effected until the 
-development is completed.
 
-## Not sure if this next bit is necessary - cut it
-Colliers International was 
-[appointed](http://www.costar.co.uk/en/assets/news/2013/April/Lend-Lease-picks-Colliers-to-drive-Elephant-overseas-housing-sales/) 
-by Lendlease to market its homes only in Singapore and Hong Kong.Colliers 
-launched sales at South Gardens during [an event on 11th April 
-2014](http://www.propertyguru.com.sg/property-management-news/2014/4/37646/elephant-park-sales-in-singapore) 
-in Singapore. Within a month 46 apartments at 'South Garden Point' were 
-[registered with the Land registry](/img/LRegisterSouthGardens.pdf).
+## Total Gain International
+While one of the buyers listed in the [Land Registry 
+deeds](/img/LRegisterSouthGardens.pdf) is clearly an asset management company, 
+appropriately called ['Total Gain International 
+Limited'](https://www.hkgbusiness.com/en/company/Total-Gain-International-Limited), 
+we cannot categorically state that the remaining 45 buyers are also investors, 
+but a google search possible links to the following companies:
 
-The UK launch for South Gardens [begins next week](/img/southgardensuklaunch.jpg) with prices starting at £550k. Hurry now - there are only 28 apartments left!
-
-## Panama connections - Total Gain International
-We took a closer look at the [Land Registry 
-deeds](/img/LRegisterSouthGardens.pdf) to try and find out a bit more a bout 
-the 46 buyers who bought through Colliers. A simple google search of the names 
-of the buyers in the deeds comes up with the following results. We can't say 
-for sure if these are the actual buyers or whether they share the same name.
-
-One of the apartments is registered to a Hong Kong-based asset management company, appropriately called ['Total Gain International Limited'](https://www.hkgbusiness.com/en/company/Total-Gain-International-Limited). Some of the other buyers are listed as:
-
- * Ahsan Din - Director of [sakacapital.com](http://www.bankingandfinance.com.sg/company/details/80119512/saka-capital-pte-ltd) 
+ * Ahsan Din - Director of 
+   [sakacapital.com](http://www.bankingandfinance.com.sg/company/details/80119512/saka-capital-pte-ltd) 
 (bought two apartments)
 
  * Ai Li Oon - [Director of Debt Capital Markets at HSBC Hong Kong](https://www.linkedin.com/in/ai-li-oon-b0734b)
@@ -121,25 +148,26 @@ of DFZ Capital (bought three apartments)
  * Li Hwei Yeo - [Investment Banking Strategic Projects, JP Morgan](https://www.linkedin.com/in/li-hwei-yeo-b87543)
 
 ## Assets not homes
-It's clear to see that these are being bought as assets not homes. That's not to say that they won't be lived in, either for a few weeks in the year as a holiday retreat, to [rent out on AirBnB](https://twitter.com/SouthwarkNotes/status/793959246907981824), or to rent out to local people - albeit ones that can afford to pay upwards of £430 per week (for a 1 bed).
-
-This is what Lendlease estimates as the rental income for the cheapest of the remaining flats at South Garden Point (£22,360 per annum). We made enquiries to Lendlease's (domestic) sales team, who sent us the following [price list](/img/Availability_1_bedrooms_WC_South_Gardens.pdf):
+Leaving all this aside, there is no doubt that these properties are being 
+marketed as investment assets - not homes. This is clear from the sales 
+information that Lendlease supplies to potential buyers. They very helpfully 
+estimate the rental income and the cheapest of the remaining flats at South 
+Garden Point will earn you a healthy £22,360 per year. This is what Lendlease 
+estimates as the rental income for the cheapest of the remaining flats at South 
+Garden Point. 
 
 ![](/img/Availability_1_bedrooms_WC_South_Gardens.png)
-*Price list for South Gardens* 
+*Lendlease's [price list](/img/Availability_1_bedrooms_WC_South_Gardens.pdf) 
+for South Gardens*
 
-## Private Property - cut it, UNNECESSARY
-While taking the above photograph of South Gardens we were approached by a Lendlease and told not to take photographs because we were on private property..
-
-![](/img/nophotography.jpg)
-*Security guard telling us not to take photographs of South Gardens*
+So if you have got £430 per week to spare and need a 1-bed flat, head for South 
+Garden Point.
 
 ## How Laundered money shapes London's property market
 _“We think it very likely that the influx of corrupt money into the housing market has pushed up prices,”_ said Rachel Davies, senior advocacy manager at Transparency International. Donald Toon, head of the National Crime Agency, has gone further, saying last year that _“the London property market has been skewed by laundered money. Prices are being artificially driven up by overseas criminals who want to sequester their assets here in the UK”_.
 https://www.ft.com/content/f454e3ec-fc02-11e5-b5f5-070dca6d0a0d
 
 Conclusion: How can an influx of corrupt money into London's property market, artificially driving up prices be a good thing?
-
 
 
 __Footnotes:__
