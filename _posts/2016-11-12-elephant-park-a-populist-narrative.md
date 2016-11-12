@@ -4,11 +4,12 @@ title: "Elephant Park - a populist narrative"
 subtitle: "Overseas investors and the Heygate estate"
 published: true
 ---
-Are you a) someone in Southwark in desperate need of a home?
-  or b) a property investor in Hong Kong or Singapore?
+Are you __a)__ someone in Southwark in desperate need of a home?
+  or __b)__ a property investor in Hong Kong or Singapore?
 
- * If a) join the lengthening council waiting list (if you can);
- * if b) welcome to the Elephant and Castle, we have a place for you.
+ * If __a)__ join the lengthening council waiting list (if you can);
+ * if __b)__ welcome to the Elephant and Castle, we have a good investment for 
+   you.
 
 This is the conclusion of our own investigation into who will live on the new 
 Heygate estate. It was prompted by recent press apologetics for gentrification. 
@@ -37,7 +38,7 @@ This has been amply demonstrated by London Tenants Federation's
 [analysis](http://35percent.org/2016-05-07-southwark-in-bottom-3-boroughs-for-affordable-housing-delivery/) 
 of the latest available figures on affordable housing delivery, which shows 
 that less than 1 in 5 new homes being built are affordable and only 1 in 10 
-social rented.
+social rented - half the London Mayor's target in both cases.
 
 The Evening Standard has recently provided us with a [case study 
 study](/img/standard26102016.pdf) of one such _'foreigner-financed housing 
@@ -46,24 +47,6 @@ scheme'_
   [gifting public 
 land](http://35percent.org/2016-05-11-no-profit-share-the-true-value-of-the-heygate-regeneration/) 
 and resources to private developers actually delivers affordable housing.
-
-It claimed that while 2-beds in [Elephant Park](http://elephantpark.co.uk) were 
-selling for £1m, there was plenty of _'sympathy for the Heygate residents who 
-put up such a fight to stop the redevelopment'_, but argued that locals can 
-nevertheless still pick up an 'affordable' shared ownership flat for just 
-£111,250 (for a 25% share of a 1-bed).
-
-![](/img/standard26102016.jpg)
-
-What the Standard article doesn't mention is that of the 360 new homes in 
-['South 
-Gardens'](http://www.elephantpark.co.uk/elephant-park/explore-the-development/south-garden) 
-(the next phase under development), only 25 are available for shared ownership 
-and only 7 units were still available at the time it went to print[^1]. The 
-small print in the [price 
-list](https://lqpricedin.co.uk/wp-content/uploads/2015/04/Elephant-park-1-bed-October16.pdf) 
-also shows that a minimum deposit of £30k is required, as is a minimum income 
-of £42,918. 
 
 ## South (East Asia) Gardens
 
@@ -163,12 +146,30 @@ for South Gardens*
 So if you have got £430 per week to spare and need a 1-bed flat, head for South 
 Garden Point.
 
-## How Laundered money shapes London's property market
-_“We think it very likely that the influx of corrupt money into the housing market has pushed up prices,”_ said Rachel Davies, senior advocacy manager at Transparency International. Donald Toon, head of the National Crime Agency, has gone further, saying last year that _“the London property market has been skewed by laundered money. Prices are being artificially driven up by overseas criminals who want to sequester their assets here in the UK”_.
-https://www.ft.com/content/f454e3ec-fc02-11e5-b5f5-070dca6d0a0d
+## The other side of the coin - affordable housing
+What about the affordable housing at South Gardens? The aforemention Evening 
+Standard article argued that while 2-beds in [Elephant 
+Park](http://elephantpark.co.uk) might be selling for £1m, 'locals' can 
+nonetheless pick up an 'affordable' shared ownership flat for just £111,250 
+(for a 25% share of a 1-bed). 
 
-Conclusion: How can an influx of corrupt money into London's property market, artificially driving up prices be a good thing?
+![](/img/standard26102016.jpg)
 
+If the Standard had looked at the small print of the price, they would have 
+seen that out of total 360 homes in ['South 
+Gardens'](http://www.elephantpark.co.uk/elephant-park/explore-the-development/south-garden)
+only twenty five were available for shared ownership and only 7 were still 
+available[^1]. The same small print in the [price 
+list](https://lqpricedin.co.uk/wp-content/uploads/2015/04/Elephant-park-1-bed-October16.pdf) 
+also shows that a minimum deposit of £30k is required and a minimum income of 
+£42,918. We can assure the Evening Standard that there are not many 'locals' at 
+the Elephant and Castle who can afford this.
+
+## Conclusion
+It is not the populist narrative that is false as Dave Hill suggests, it is the 
+deluded pro-gentrification narrative, which suffers from two misapprehensions; 
+that affordable housing is actually affordable and that developers are actually 
+building it. 
 
 __Footnotes:__
 
