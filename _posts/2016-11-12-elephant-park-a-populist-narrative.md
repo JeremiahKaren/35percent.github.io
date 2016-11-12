@@ -1,14 +1,14 @@
 ---
 layout: post
 title: "Elephant Park - a populist narrative"
-subtitle: "The Heygate redevelopment's connection with overseas buyers and the 
-Panama Papers"
+subtitle: "Overseas investors and the Heygate estate"
 published: true
 ---
-Are you a) someone in Southwark in desperate need of a home, or b) a property 
-investor in Hong Kong or Singapore? If a) join the lengthening council waiting 
-list (if you can); if b) welcome to the Elephant and Castle, we have a place 
-for you.
+Are you a) someone in Southwark in desperate need of a home?
+  or b) a property investor in Hong Kong or Singapore?
+
+ * If a) join the lengthening council waiting list (if you can);
+ * if b) welcome to the Elephant and Castle, we have a place for you.
 
 This is the conclusion of our own investigation into who will live on the new 
 Heygate estate. It was prompted by recent press apologetics for gentrification. 
