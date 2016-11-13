@@ -58,7 +58,7 @@ Gardens](http://www.elephantpark.co.uk/elephant-park/explore-the-development/sou
 which has 360 homes. Above is plot H06 (D,E & F) otherwise known as 'South 
 Garden Point'. It comprises two blocks with 179 apartments, all for private 
 sale. The UK sales launch [began this 
-week](https://github.com/35percent/35percent.github.io/blob/master/img/southgardensuklaunch.jpg), 
+week](http://35percent.org/img/southgardensuklaunch.jpg), 
 with prices starting at £550k, but it’s really just to mop up what's left from 
 the Singapore sales which [started on 11th April 
 2014](http://www.propertyguru.com.sg/property-management-news/2014/4/37646/elephant-park-sales-in-singapore).  
@@ -66,11 +66,11 @@ the Singapore sales which [started on 11th April
 We don't know how many units have been sold to overseas buyers because 
 Lendlease and the Council [won't say](https://youtu.be/WZRV4KMxuEk), but [Land 
 Registry 
-information](https://github.com/35percent/35percent.github.io/blob/master/img/LRegisterSouthGardens.pdf) 
+information](http://35percent.org/img/LRegisterSouthGardens.pdf) 
 tells us that it is at least 46. They have been sold via international real 
 estate firm [Colliers International](http://www.colliers.com/en-us) in Hong 
 Kong and Singapore. Colliers' [sales 
-brochure](https://github.com/35percent/35percent.github.io/blob/master/img/South-Gardens-Fact-Sheet-CIHK.pdf) shows 
+brochure](http://35percent.org/img/South-Gardens-Fact-Sheet-CIHK.pdf) shows 
 that it partners with solicitors ['Riseam 
 Sharples'](http://www.riseamsharples.com/legal-services/overseas-property-exhibitions), 
 who attend Colliers' overseas sales launches.
@@ -82,7 +82,7 @@ Riseam Sharples also has a commendable policy of registering clients' purchases
 with the Land Registry, even though such registration is not required or 
 normally effected until the development is completed. The 46 buyers are 
 Registered in the [Land Registry 
-deeds](https://github.com/35percent/35percent.github.io/blob/master/img/LRegisterSouthGardens.pdf) as 
+deeds](http://35percent.org/img/LRegisterSouthGardens.pdf) as 
 at Riseam Sharples HQ (2 Tower St, WC2H 9NP):
 
 ![](http://35percent.org/img/purchaserssolicitor.png)
