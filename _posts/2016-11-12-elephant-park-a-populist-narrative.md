@@ -70,15 +70,14 @@ information](https://github.com/35percent/35percent.github.io/blob/master/img/LR
 tells us that it is at least 46. They have been sold via international real 
 estate firm [Colliers International](http://www.colliers.com/en-us) in Hong 
 Kong and Singapore. Colliers' [sales 
-brochure](https://github.com/35percent/35percent.github.io/blob/master/img/South-Gardens-Fact-Sheet-CIHK.pdf) recommends 
-solicitors ['Riseam 
+brochure](https://github.com/35percent/35percent.github.io/blob/master/img/South-Gardens-Fact-Sheet-CIHK.pdf) shows 
+that it partners with solicitors ['Riseam 
 Sharples'](http://www.riseamsharples.com/legal-services/overseas-property-exhibitions), 
 who attend Colliers' overseas sales launches.
 
 Riseam Sharples began travelling to Hong Kong and Singapore in the 80s and 90s 
 with the aim of helping [_'offshore investors to get a 
-bargain'_](http://www.riseamsharples.com/legal-services/overseas-property-exhibitions).
-
+bargain'_](http://www.riseamsharples.com/legal-services/overseas-property-exhibitions). 
 Riseam Sharples also has a commendable policy of registering clients' purchases 
 with the Land Registry, even though such registration is not required or 
 normally effected until the development is completed. The 46 buyers are 
@@ -172,7 +171,7 @@ The Heygate redevelopment isn't an exception at the Elephant and Castle
 figures](http://35percent.org/img/LTF_delivery_of_housing_in_London_2014-15.pdf) 
 show.
 
-|Development| Total homes  | Social rented  |
+|__Development__| __Total homes__  | __Social rented__ |
 |---|---|---|
 | Heygate  | 2704  | 82  |
 | Strata Tower  | 408  | 0  |
@@ -180,7 +179,7 @@ show.
 | Tribeca Square | 640 | 0 |
 | Eileen House | 335 | 0 |
 | London 360 Tower | 457 | 0 |
-| Total: | 4828 | 82 |
+| __Total:__ | __4828__ | __82__ |
 
 So it is not the populist narrative that is false as Dave Hill suggests, it is 
 the deluded pro-gentrification narrative, which suffers from two 
@@ -189,8 +188,4 @@ developers are actually building it.
 
 __Footnotes:__
 
-[^1]: See the [price 
-  list](https://lqpricedin.co.uk/wp-content/uploads/2015/04/Elephant-park-1-BED-pricelist-OCT16.pdf) 
-for 1-beds (3 available); and [price 
-list](https://lqpricedin.co.uk/wp-content/uploads/2015/04/Elephant-park-pricelist-31-10-16-OCT16.pdf) 
-for 2-beds (4 available).
+[^1]: See the [price list](https://lqpricedin.co.uk/wp-content/uploads/2015/04/Elephant-park-1-BED-pricelist-OCT16.pdf) for 1-beds (3 available); and [price list](https://lqpricedin.co.uk/wp-content/uploads/2015/04/Elephant-park-pricelist-31-10-16-OCT16.pdf) for 2-beds (4 available).
