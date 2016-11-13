@@ -42,7 +42,7 @@ that less than 1 in 5 new homes being built are affordable and only 1 in 10
 social rented - half the London Mayor's target in both cases.
 
 The Evening Standard has recently provided us with a [case 
-study](/img/standard26102016.pdf) of one such _'foreigner-financed housing 
+study](http://35percent.org/img/standard26102016-rotated.pdf) of one such _'foreigner-financed housing 
 scheme'_ 
 - __Elephant Park__ (Heygate as was). A perfect test, we thought, of whether 
   [gifting public 
@@ -51,7 +51,7 @@ and resources to private developers actually delivers affordable housing.
 
 ## South (East Asia) Gardens
 
-![](/img/southgardenpoint.JPG)
+![](http://35percent.org/img/southgardenpoint.JPG)
 
 The latest phase of Elephant Park is [South 
 Gardens](http://www.elephantpark.co.uk/elephant-park/explore-the-development/south-garden) 
@@ -85,17 +85,13 @@ Registered in the [Land Registry
 deeds](https://github.com/35percent/35percent.github.io/blob/master/img/LRegisterSouthGardens.pdf) as 
 at Riseam Sharples HQ (2 Tower St, WC2H 9NP):
 
-![](/img/purchaserssolicitor.png)
+![](http://35percent.org/img/purchaserssolicitor.png)
 *Extract from Colliers Singapore sales brochure*
 
 
 ## Total Gain International
 While one of the Colliers buyers listed in the [Land Registry 
-deeds](/img/LRegisterSouthGardens.pdf) is clearly an asset management company, 
-appropriately called ['Total Gain International 
-Limited'](https://www.hkgbusiness.com/en/company/Total-Gain-International-Limited), 
-we cannot categorically state that the remaining 45 buyers are also investors, 
-but a google search brings up possible links to the following companies:
+deeds](http://35percent.org/img/LRegisterSouthGardens.pdf) is clearly an asset management company, appropriately called ['Total Gain International Ltd'](https://www.hkgbusiness.com/en/company/Total-Gain-International-Limited), we cannot categorically state that the remaining 45 buyers are also investors, but a google search brings up possible links to the following companies:
 
  * Ahsan Din - Director of 
    [sakacapital.com](http://www.bankingandfinance.com.sg/company/details/80119512/saka-capital-pte-ltd) 
@@ -139,14 +135,13 @@ estimate that the cheapest of the remaining flats at South Garden Point will
 earn you a healthy rental income of £22,360 per year. So if you have got £430 
 per week to spare and need a 1-bed flat, head for South Garden Point. 
 
-![](/img/Availability_1_bedrooms_WC_South_Gardens.png)
-*Lendlease's [price list](/img/Availability_1_bedrooms_WC_South_Gardens.pdf) 
+![](http://35percent.org/img/Availability_1_bedrooms_WC_South_Gardens.png)
+*Lendlease's [price list](http://35percent.org/img/Availability_1_bedrooms_WC_South_Gardens.pdf) 
 for South Gardens*
 
 ## The other side of the coin - affordable housing
 What about the affordable housing at South Gardens? The [Evening Standard 
-article](/img/standard26102016.pdf) argued that while 2-beds in [Elephant 
-Park](http://elephantpark.co.uk) might be selling for £1m, locals could 
+article](http://35percent.org/img/standard26102016-rotated.pdf) argued that while 2-beds in [Elephant Park](http://elephantpark.co.uk) might be selling for £1m, locals could 
 nonetheless pick up an 'affordable' shared ownership flat for just £111,250 
 (for a 25% share of a 1-bed).  
 
@@ -162,7 +157,9 @@ also shows that a minimum deposit of £30k is required and a minimum income of
 Elephant and Castle who will be _'reviving the dream of home ownership'_ at 
 these prices.
 
-![](/img/standard26102016.jpg)
+![](http://35percent.org/img/standard26102016.jpg)
+*[Evening Standard 
+article](http://35percent.org/img/standard26102016-rotated.pdf) 26/10/2016*
 
 ## Gentrification by the numbers
 The Heygate redevelopment isn't an exception at the Elephant and Castle 
