@@ -1,6 +1,5 @@
-| Jerry Flynn |
+| ![](http://35percent.org/img/london-borough-of-southwark-street-sign3.png) |
 |------------:|
-| 35% Campaign |
 | c/o Market Place |
 | Bermondsey SE16 3UQ |
 | 19 November 2016 |
@@ -8,6 +7,7 @@
 Paul Warren
 Investigator
 Local Government Ombudsman
+Coventry CV4 OEH
 
 Complaint ref:__16 005 626__
 
