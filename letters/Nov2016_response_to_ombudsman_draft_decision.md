@@ -4,9 +4,9 @@
 | Bermondsey SE16 3UQ |
 | 19 November 2016 |
 
-Paul Warren
-Investigator
-Local Government Ombudsman
+Paul Warren  
+Investigator  
+Local Government Ombudsman  
 Coventry CV4 OEH
 
 Complaint ref:__16 005 626__
@@ -35,7 +35,8 @@ Having provided the Ombudsman investigation with evidence that developers
 __have indeed failed__ to provide the right number of social rented housing 
 units and given that the Council has acknowledged this, we request that this 
 paragraph be updated to reflect this. We suggest the following revised wording: 
-_"Mr X provided evidence indicating that by failing to supervise compliance 
+
+>_"Mr X provided evidence indicating that by failing to supervise compliance 
 some developers have failed to provide the right number of social rented 
 housing units."_.
 
@@ -47,10 +48,10 @@ question 5 of the Ombudsman's investigation that a 'small number' of the 43
 instances we submitted, _"have resulted in under-provision and are currently 
 progressing these through legal channels, including trial at the High Court."_
  
-We suggest the following revised wording: _"In response to my enquiries the 
-Council has said that it is taking enforcement in response to several of the 
-breaches identified by Mr X and that it did not have a systematic supervision 
-procedure to check compliance._"
+We suggest the following revised wording:
+>_"In response to my enquiries the Council has said that it is taking 
+enforcement in response to several of the breaches identified by Mr X and that 
+it did not have a systematic supervision procedure to check compliance._"
 
 Secondly, we feel that the investigation has failed to address a major aspect 
 of our complaint; namely that the Council has failed to take effective 
@@ -74,6 +75,6 @@ require further details regarding any of the above.
 
 Yours sincerely,
 
-Jerry Flynn 
-35% Campaign 
+Jerry Flynn  
+35% Campaign  
 www.35percent.org 
