@@ -19,16 +19,18 @@ invitation to comment on the draft notice.
 Firstly, we have comments to make on the wording of the following paragraphs of 
 the draft decision notice:
 
+## Paragraph 10
 >"Social rented housing and affordable housing now have specific meanings. 
-For my purposes I shall use the term social housing units."(para. 10)
+For my purposes I shall use the term social housing units."
 
-According to sections 68 and 69 of the Housing and Regeneration Act 2008[^1], 
+According to sections 68 and 69 of the Housing and Regeneration Act 2008, 
 'social housing' encompasses both social rented and affordable rented housing.  
-To avoid confusion we suggest that the term 'social rented housing' is used 
-throughout the decision notice.
+In order to avoid confusion we suggest that the term 'social rented housing' is 
+used throughout the decision notice.
 
+## Paragraph 11
 >"Mr X says that by failing to supervise compliance some developers have failed 
->to provide the right number of social housing units."(para. 11)
+>to provide the right number of social housing units."
 
 Having provided the Ombudsman investigation with evidence that developers 
 __have indeed failed__ to provide the right number of social rented housing 
@@ -39,8 +41,9 @@ paragraph be updated to reflect this. We suggest the following revised wording:
 some developers have failed to provide the right number of social rented 
 housing units."_.
 
+## Paragraph 12
 >"In response to my enquiries the Council accepts it did not have a systematic 
->supervision procedure to check compliance.(para. 12)
+>supervision procedure to check compliance.
 
 This fails to reflect the Council's admission in its (3/11/2016) response to 
 question 5 of the Ombudsman's investigation that a 'small number' of the 43 
@@ -52,18 +55,22 @@ We suggest the following revised wording:
 enforcement in response to several of the breaches identified by Mr X and that 
 it did not have a systematic supervision procedure to check compliance._"
 
+## Effective enforcement action
 Secondly, we feel that the investigation has failed to address a major aspect 
 of our complaint; namely that the Council has failed to take effective 
 enforcement action to remedy the situtation in at least one instance where we 
-discovered that social rented housing has failed to be provided. Our complaint 
-specifically referred to a development of 205 homes at the Bermondsey Spa 
-regeneration (ref:10/AP/3010), where 44 social rented homes required by 
-planning consent were not provided.The Council argued that the situation was 
-resolved by the agreement that the 44 units are going to be provided by the RSL 
-concerned at a development elsewhere (Manor Place Depot 15/AP/1062). We 
-complained that this remedy is ineffective because these 44 units are being 
-used to fulfil the affordable housing quota for that development and therefore 
-cannot be used to offset the shortfall.
+discovered that social rented housing has failed to be provided.
+
+Our complaint specifically referred to a development of 205 homes at the 
+Bermondsey Spa regeneration (ref:10/AP/3010), where 44 social rented homes 
+required by planning consent were not provided.
+
+The Council argued that the situation was resolved by the agreement that the 44 
+units are going to be provided by the RSL concerned at a development elsewhere 
+(Manor Place Depot 15/AP/1062). We complained that this remedy is ineffective 
+because these 44 units are being used to fulfil the affordable housing quota 
+for that development and therefore cannot be used to offset the shortfall.
+
 
 It would appear that this part of our complaint has not been addressed by the 
 investigation or the Ombudsman's decision notice. We request that it is 
@@ -78,5 +85,3 @@ Jerry Flynn
 35% Campaign  
 www.35percent.org  
 
-[^1]: See 
-  [http://www.legislation.gov.uk/ukpga/2008/17/section/68](http://www.legislation.gov.uk/ukpga/2008/17/section/68)
