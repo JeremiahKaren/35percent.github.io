@@ -1,6 +1,10 @@
-**\hfill some right aligned on same line bolded text**
+|>                             right-justified
+|>                       ignores leading space
+|>                                   last line
+
 
 Paul Warren
+Investigator
 Local Government Ombudsman
 
 Complaint ref:__16 005 626__
@@ -68,6 +72,6 @@ require further details regarding any of the above.
 
 Yours sincerely,
 
-Jerry Flynn
-35% Campaign
+Jerry Flynn 
+35% Campaign 
 www.35percent.org 
