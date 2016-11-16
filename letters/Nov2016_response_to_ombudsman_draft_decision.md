@@ -16,17 +16,16 @@ Dear Mr Warren,
 Thank you for your email dated 14th Nov with the Ombudsman's draft decision and 
 invitation to comment on the draft notice.
 
-Firstly, we have the following comments to make on some of the wording in the 
-draft decision notice:
+Firstly, we have comments to make on the wording of the following paragraphs of 
+the draft decision notice:
 
 >"Social rented housing and affordable housing now have specific meanings. 
 For my purposes I shall use the term social housing units."(para. 10)
 
-According to [section 68 (& 69) of the Housing and Regeneration Act 
-2008](http://www.legislation.gov.uk/ukpga/2008/17/section/68), 'social housing' 
-encompasses both social rented and affordable rented housing. To avoid 
-confusion we suggest that the term 'social rented housing' is used throughout 
-the decision notice.
+According to sections 68 and 69 of the Housing and Regeneration Act 2008[^1], 
+'social housing' encompasses both social rented and affordable rented housing.  
+To avoid confusion we suggest that the term 'social rented housing' is used 
+throughout the decision notice.
 
 >"Mr X says that by failing to supervise compliance some developers have failed 
 >to provide the right number of social housing units."(para. 11)
@@ -77,4 +76,7 @@ Yours sincerely,
 
 Jerry Flynn  
 35% Campaign  
-www.35percent.org 
+www.35percent.org  
+
+[^1]: See 
+  [http://www.legislation.gov.uk/ukpga/2008/17/section/68](http://www.legislation.gov.uk/ukpga/2008/17/section/68)
