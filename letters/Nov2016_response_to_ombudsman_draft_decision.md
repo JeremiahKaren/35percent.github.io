@@ -55,8 +55,13 @@ We suggest the following revised wording:
 enforcement in response to several of the breaches identified by Mr X and that 
 it did not have a systematic supervision procedure to check compliance._"
 
+## Monitoring procedures
+We feel that the proposed procedure outlined in paragraph 16 of asking developers to confirm that they have complied, is inadequate. We feel that the procedure should be that checks are conducted by an independent authority - one that can demonstrate that it has no ‘skin in the game’, either with the Council or the developers involved. We see no reason why the monitoring procedures shouldn't additionaly include a cross-check with the government's CORE lettings data system.   
+
 ## Effective enforcement action
-Secondly, we feel that the investigation has failed to address a major aspect 
+Paragraph 14: the Ombudsman has made the point in para 6 that enforcement powers are discretionary. Our point is that severe harm is always caused by the failure to deliver social housing; (there is a 20,000 housing waiting list in Southwark). So the presumptions should be that the discovery of any failure to deliver on S106 agreements should result in enforcement action.
+
+In this respect we feel that the investigation has failed to address a major aspect 
 of our complaint; namely that the Council has failed to take effective 
 enforcement action to remedy the situtation in at least one instance where we 
 discovered that social rented housing has failed to be provided.
