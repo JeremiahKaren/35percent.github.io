@@ -1,7 +1,8 @@
 ---
 layout: post
-title: "Planning policy loopholes down the Old Kent Road"
-subtitle: "Loopholes in draft planning policy for Old Kent Road provide open invitation for developers to exploit"
+title: "More loopholes in Old Kent Road Planning policy"
+subtitle: "Affordable housing Loopholes in draft Old Kent Rd planning policy 
+offer open invitation to developers"
 published: true
 ---
 
