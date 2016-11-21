@@ -33,27 +33,37 @@ inquiries](http://35percent.org/2016-09-18-aylesbury-compulsory-purchase-order-r
 and want easier ways to rip affordable housing out of the local community.  
 Southwark has dutifully obliged.
 
-First up, Southwark's new planning policy for the Old Kent Road will allow developers to define what affordable housing actually is. The term is thoroughly discredited anyhow, with affordable rent at up 80% market rents and intermediate housing that [requires minium salaries of £57k](http://crappistmartin.github.io/images/LQPriceList.pdf), but Southwark still think it 
-worth driving a stake through its heart, by introducing yet another kind – ‘discounted market rent’. This does not meet any of the policy definitions of affordable housing and Southwark does not bother to explain how much it reckons the market rent will be or how big the discount.
+First up, Southwark's new planning policy for the Old Kent Road will allow 
+developers to define what affordable housing actually is. The term is 
+thoroughly discredited anyhow, with affordable rent at up to 80% market rents 
+and intermediate housing that [requires minium salaries of 
+£57k](http://crappistmartin.github.io/images/LQPriceList.pdf), but Southwark 
+still think it worth driving a stake through its heart, by introducing yet 
+another kind – ‘discounted market rent’. This does not meet any of the policy 
+definitions of affordable housing and Southwark does not bother to explain how 
+much it reckons the market rent will be or how big the discount.
 
 ![](/img/discountedmarketrent.png)
+*Extract from the [draft Old Kent Rd Area Action 
+Plan](http://www.southwark.gov.uk/download/downloads/id/13714/draft_old_kent_road_area_action_plan_-_part_1)*
+
 
 Second, the viability loophole will be joined by two more – the ‘design loophole’ and the ‘property management strategy’ loophole. Citing any of these will now be enough to dump affordable housing.
 
 ![](/img/flexibility.png)
+*Extract from the [draft Old Kent Rd Area Action 
+Plan](http://www.southwark.gov.uk/download/downloads/id/13714/draft_old_kent_road_area_action_plan_-_part_1)*
+
 
 Third, Southwark has fallen in love with ‘build to rent’ private rented sector (PRS) development.  Developers (eg Delancey) are desperately trying to position PRS as affordable housing, when it is nothing of the kind, and themselves as providers of affordable housing,– Southwark is doing all it can to help and is promising ‘flexibility' on delivery of affordable housing.  There will be ‘flexibility’  on family housing too,  where the developer can demonstrate ‘a market demand for single/two-bed flats’. We wonder how many will, particularly when density limits and restrictions on tall buildings are being ripped up too.
 
 Finally, the ‘subject to viability’ loophole has not been abandoned; it used to be buried down in the smaller print of previous policies, but has now been elevated right up into the policy box AAP 3: Affordable homes, just so that there is no doubt that when Southwark says that all new developments will have 35% affordable housing, it is only kidding.
 
 ![](http://35percent.org/img/subjecttoviability.jpg)
+*Extract from the [draft Old Kent Rd Area Action 
+Plan](http://www.southwark.gov.uk/download/downloads/id/13714/draft_old_kent_road_area_action_plan_-_part_1)*
 
 These are all well-worn and familiar tactics used to avoid building affordable housing, but now they are to be enshrined in policy.  Southwark aims to build 20000 new homes in the Old Kent Rd Opportunity Area, stretching all the way from the Elephant to New Cross. 
 
 All in all, Southwark's draft planning policy for the Old Kent Road opportunity area is an open invitation to developers; it is not so much presenting itself as open for business, but rather as open to being ripped off. We have submitted a detailed response to the Council's consultation, which you can read [here](http://35percent.org/img/EANresponse_draftOKRAAP.pdf).
 
-## Tustin estate consultation
-We pointed out in a [previous blog post](http://35percent.org/2016-07-10-opportunity-knocks-down-the-old-kent-road/) how the Council's plans for 20,000 new homes in the opportunity area will inevitably involve knocking down council estates. The following mailout to residents on the estate suggests that the Tustin could be the first in line.
-
-![](/img/tustinconsultation.jpg)
-*Council mailout to residents on the Tustin estate*
