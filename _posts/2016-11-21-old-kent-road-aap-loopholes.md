@@ -19,13 +19,13 @@ Affordable Housing) applies the recipe that’s turning the Elephant & Castle
 Opportunity Area into a social-housing free zone, with a few added ingredients.
 
 Up until now developers have relied upon on claiming that their [profit-gushing 
-developments](http://www.ourcity.london/issues/viability/house_builders_profits/) were nonetheless unviable, to duck out of building affordable 
+developments](http://www.ourcity.london/issues/viability/house_builders_profits/) were nonetheless unviable, in order to duck out of building affordable 
 housing, with spectacular results – out of nearly 5000 dwellings on the six 
 major private developments at the Elephant there will be just 82 social rented 
 homes.
 
 But the likes of Lendlease, Delancey, Berkeley Homes and Barratt are evidently 
-getting wary of being humiliated at [Information 
+becoming wary of being humiliated at [Information 
 Tribunals](http://35percent.org/2015-06-25-heygate-viability-assessment-finally-revealed/) 
 and [CPO 
 inquiries](http://35percent.org/2016-09-18-aylesbury-compulsory-purchase-order-rejected/) 
@@ -43,16 +43,16 @@ Second, the viability loophole will be joined by two more – the ‘design loop
 
 Third, Southwark has fallen in love with ‘build to rent’ private rented sector (PRS) development.  Developers (eg Delancey) are desperately trying to position PRS as affordable housing, when it is nothing of the kind, and themselves as providers of affordable housing,– Southwark is doing all it can to help and is promising ‘flexibility' on delivery of affordable housing.  There will be ‘flexibility’  on family housing too,  where the developer can demonstrate ‘a market demand for single/two-bed flats’. We wonder how many will, particularly when density limits and restrictions on tall buildings are being ripped up too.
 
-Finally, the ‘subject to viability’ loophole has not been abandoned; it used to being buried down in the smaller print of previous policies, but has now been elevated right up into the policy box AAP 3: Affordable homes, just so that there is no doubt that when Southwark says that all new developments will have 35% affordable housing it is only kidding.
+Finally, the ‘subject to viability’ loophole has not been abandoned; it used to be buried down in the smaller print of previous policies, but has now been elevated right up into the policy box AAP 3: Affordable homes, just so that there is no doubt that when Southwark says that all new developments will have 35% affordable housing, it is only kidding.
 
 ![](http://35percent.org/img/subjecttoviability.jpg)
 
 These are all well-worn and familiar tactics used to avoid building affordable housing, but now they are to be enshrined in policy.  Southwark aims to build 20000 new homes in the Old Kent Rd Opportunity Area, stretching all the way from the Elephant to New Cross. 
 
-All in all, Southwark's draft planning policy for the Old Kent Road opportunity area is an open invitation to developers; it is not so much open for business, but rather open to being ripped off. We have submitted a detailed response to the Council's consultation, which you can read [here](http://35percent.org/img/EANresponse_draftOKRAAP.pdf).
+All in all, Southwark's draft planning policy for the Old Kent Road opportunity area is an open invitation to developers; it is not so much presenting itself as open for business, but rather as open to being ripped off. We have submitted a detailed response to the Council's consultation, which you can read [here](http://35percent.org/img/EANresponse_draftOKRAAP.pdf).
 
-## Tustin estate 
+## Tustin estate consultation
 We pointed out in a [previous blog post](http://35percent.org/2016-07-10-opportunity-knocks-down-the-old-kent-road/) how the Council's plans for 20,000 new homes in the opportunity area will inevitably involve knocking down council estates. The following mailout to residents on the estate suggests that the Tustin could be the first in line.
 
-![](/img/tustinconsultation.png)
+![](/img/tustinconsultation.jpg)
 *Council mailout to residents on the Tustin estate*
