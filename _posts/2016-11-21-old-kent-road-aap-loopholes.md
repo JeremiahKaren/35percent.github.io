@@ -6,7 +6,7 @@ exploits for developers"
 published: true
 ---
 
-![](/img/okrheader.png)
+![](http://35percent.org/img/okrheader.png)
 
 Just as Southwark Council embarks on a costly [legal battle to evict Aylesbury 
 leaseholders](http://35percent.org/2016-10-10-aylesbury-cpo-challenge-called-in/) 
@@ -43,14 +43,14 @@ another kind – ‘discounted market rent’. This does not meet any of the pol
 definitions of affordable housing and Southwark does not bother to explain how 
 much it reckons the market rent will be or how big the discount.
 
-![](/img/discountedmarketrent.png)
+![](http://35percent.org/img/discountedmarketrent.png)
 *Extract from the [draft Old Kent Rd Area Action 
 Plan](http://www.southwark.gov.uk/download/downloads/id/13714/draft_old_kent_road_area_action_plan_-_part_1)*
 
 
 Second, the viability loophole will be joined by two more – the ‘design loophole’ and the ‘property management strategy’ loophole. Citing any of these will now be enough to dump affordable housing.
 
-![](/img/flexibility.png)
+![](http://35percent.org/img/flexibility.png)
 *Extract from the [draft Old Kent Rd Area Action 
 Plan](http://www.southwark.gov.uk/download/downloads/id/13714/draft_old_kent_road_area_action_plan_-_part_1)*
 
