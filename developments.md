@@ -264,7 +264,7 @@ subtitle: Summary of regeneration schemes
   
 <h1><a href="/biscuit-factory/">Biscuit Factory</a></h1>
 
-<img src="http://www.grantmillswood.com/media/94/294-main.jpg" width="100" align="left">
+<img src="http://35percent.org/img/biscuit-factory.png" width="100" align="left">
 </article>
 
 
@@ -294,6 +294,13 @@ subtitle: Summary of regeneration schemes
 <h1><a href="/skipton-house/">Skipton House</a></h1>
 
 <img src="http://www.constructionenquirer.com/wp-content/uploads/Screen-Shot-2015-10-06-at-11.00.45-600x414.png" width="100" align="left">
+</article>
+
+<article class="post-preview">
+  
+<h1><a href="/onetowerbridge/">One Tower Bridge</a></h1>
+
+<img src="http://35percent.org/img/one_tower_bridge.jpg" width="150" align="left">
 </article>
 
 <article class="post-preview">
