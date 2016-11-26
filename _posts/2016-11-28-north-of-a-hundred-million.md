@@ -5,6 +5,8 @@ subtitle: "Council leader Peter John claims the Heygate deal will provide the
 Council with 'North of £100m profit'"
 published: false
 ---
+![](/img/cllrjohngrilled.jpg)
+
 Council leader Peter John has been grilled by Australian national broadcaster 
 ABC, in an interview about the Heygate redevelopment.
 
@@ -58,6 +60,17 @@ developers, we ask Cllr John to publish the following:
 
 3. The regeneration agreement for the Aylesbury estate, which the Council is 
    continuing to withhold.
+
+4. Undisclosed DVS report
+
+5. Annual Business Plan/Audit report
+
+6. Viability Assessment for One the Elephant
+
+The following annual report shows Lendlease reported a profit from Trafalgar Place in 2016:
+http://www.lendlease.com/-/media/llcom/investor-relations/asx-announcements/2016/19082016-asx_full-year-results-announcement.ashx
+
+[LL financial report Aug 2016](/img/lendleasefinancialreport_aug2016.pdf)
 
 ## 11000 new council homes
 Cllr John brushes off criticism with his usual spiel about how Southwark has 

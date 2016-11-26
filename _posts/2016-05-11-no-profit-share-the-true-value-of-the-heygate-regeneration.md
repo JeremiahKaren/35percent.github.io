@@ -6,10 +6,14 @@ published: true
 comments: true
 categories: [Heygate regeneration]
 ---
-Southwark Council has been stunned to be told by Lend Lease that they will not be getting their expected share of the profits from the first completed phase of the Heygate redevelopment (now known as [Trafalgar Place](http://www.elephantpark.co.uk/local-area/trafalgar-place)). The shock revelation is in response to a 35% Campaign [FOI request](https://www.whatdotheyknow.com/request/heygate_estate_regeneration_annu). 
+> "Lend Lease have informed the Council that no overage is forecast at the end of phase 1(Trafalgar Place)" [Response to FOI request ref:570320](https://www.whatdotheyknow.com/request/heygate_regeneration_agreement_a#incoming-800392)
+
+Southwark Council has been stunned to be told by Lend Lease that they will not be getting their expected share of the profits from the first completed phase of the Heygate redevelopment (now known as [Trafalgar Place](http://www.elephantpark.co.uk/local-area/trafalgar-place)). The shock revelation is in response to a 35% Campaign [FOI request](https://www.whatdotheyknow.com/request/heygate_regeneration_agreement_a).
+
+The revelation confirms doubts raised from a [Previous FOI request](https://www.whatdotheyknow.com/request/heygate_estate_regeneration_annu#incoming-841546) we made for the annual audit of the development account, which said that no overage is currently forecast to be payable.
 
 ![Council's response to our FOI request about overage](/img/ElephantParkBusinessPlanFeb2016.png)
-*Southwark Council's response to our[ FOI request](https://www.whatdotheyknow.com/request/heygate_estate_regeneration_annu)*
+*Southwark Council's response to our[ FOI request](https://www.whatdotheyknow.com/request/heygate_estate_regeneration_annu) for the annual audit of the development account*
 
 Southwark are entitled to 50% of the overage under a profit share agreement, detailed in the [leaked](http://www.newstatesman.com/news/2013/02/southwark-accidentally-leaks-confidential-information) Heygate [regeneration agreement](https://southwarknotes.files.wordpress.com/2013/02/ra.pdf); the amount to be determined at the end of each development phase and paid upon the project's completion in 2025.  Phase 1 (Trafalgar Place) has 235 new homes and was finished last June.  Southwark were due to meet Lend Lease on 3 February 2016, but the meeting was cancelled - presumably because the Council would have left it empty handed.
 
