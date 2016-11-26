@@ -12,7 +12,9 @@ footer: true
 Southwark Council 
 [sold](http://moderngov.southwark.gov.uk/documents/s20069/Report%20-%20Improved%20terms%20for%20the%20sale%20of%20sites%20A%20and%20B%20at%20Canada%20Water.pdf) 
 1.4 acres of the old leisure centre site to developer _Lend Lease_ for the 
-bargain price of £6.5m. The site will now be home to ['One the 
+bargain price of £6.5m. The Council claims that it will receive a share of the 'overage' profits from Lendlease when the development is completed. We submitted an [FOI request](https://www.whatdotheyknow.com/request/profit_overage_payment_received) asking how much overage profit the Council has received, but it said the overage hasn't yet been calculated.
+
+ The site will now be home to ['One the 
 Elephant'](http://www.onetheelephant.com) - a 37 storey tower with 4 storey 
 pavillion. _Lend Lease_ also recently acquired the 25-acre Heygate estate site 
 for a [generous 

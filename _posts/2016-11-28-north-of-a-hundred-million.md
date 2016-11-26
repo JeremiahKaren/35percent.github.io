@@ -5,8 +5,6 @@ subtitle: "Council leader Peter John claims the Heygate deal will provide the
 Council with 'North of £100m profit'"
 published: false
 ---
-![](/img/cllrjohngrilled.jpg)
-
 Council leader Peter John has been grilled by Australian national broadcaster 
 ABC, in an interview about the Heygate redevelopment.
 
@@ -30,6 +28,7 @@ To anyone who has been following the Heygate saga, these claims would
 immediately suspicious. We show here the reality behind some of the 
 'perceptions' put forward in Cllr John's claims:
 
+## North of £100m profit overage
 >"I believe the Council will receive north of £100m profit from the deal"
 
 __Factcheck:__ Under the terms of the [regeneration agreement] that Cllr John 
@@ -44,11 +43,8 @@ Council:
 
 >"20-25% is a normal profit margin for developments in London"
 
-This is not true. The Council is currently negotiating a development agreement 
-with British land for the redevelopment of Canada Water, in which 15% is the 
-agreed profit level. Why did Cllr John allow Lendlease to assume a much higher 
-profit level.
-
+This is not true. The district valuer who reviewed Lendlease's viability assessment, said that 15% was the normal profit margin assumed by developers. The Council is currently negotiating a development agreement 
+with British land for the redevelopment of Canada Water, in which 15% is the agreed profit level. Why did Cllr John allow Lendlease to assume a much higher profit level.
 
 If he really does subscribe to openness and accountability in his dealings with 
 developers, we ask Cllr John to publish the following:
