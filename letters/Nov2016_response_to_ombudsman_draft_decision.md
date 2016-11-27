@@ -21,7 +21,7 @@ Firstly, we have comments to make on the wording of the following paragraphs of 
 ## Paragraph 10
 >_"Social rented housing and affordable housing now have specific meanings. For my purposes I shall use the term social housing units."_
 
-We would like to point out that according to [sections 68 and 69 of the Housing and Regeneration Act 2008](http://www.legislation.gov.uk/ukpga/2008/17/section/68), 'social housing' encompasses both social rented and affordable rented housing. In order to avoid confusion we suggest that the term 'social rented housing' is used throughout the decision notice.
+We would like to point out that according to [sections 68 and 69 of the Housing and Regeneration Act 2008](http://www.legislation.gov.uk/ukpga/2008/17/section/68), 'social housing' encompasses both social rented and affordable rented housing. In order to avoid confusion we suggest that the term 'social rented housing' is used throughout the decision notice. Social rented housing is the legal definition at the heart of our complaint and the distinction between affordable rented and social rented housing collapses under the blanket term social housing.
 
 ## Paragraph 11
 >_"Mr X says that by failing to supervise compliance some developers have failed to provide the right number of social housing units."_
@@ -46,10 +46,12 @@ While Southwark is taking legal action against 2 out of the 43 developments we s
 
 Southwark acknowledges that it has no systematic monitoring procedure and while its [27-page detailed table of responses](http://35percent.org/img/ComplaintResponse583183.pdf) to our 43 breaches gives a paper trail from planning committee reports through to S106 agreements and their variations, it does not actually state what has been delivered on site. Instead it is simply relying on _'trust'_ and the assertion that _"the S106 requires all affordable rented homes to be social rent"_.
 
+We leave it to the Ombudsman as to whether this is a matter that should be commented upon and how.
+
 ## Paragraph 14
 The Ombudsman has noted in paragraph 6 of the draft decision notice, that enforcement powers are discretionary. Southwark currently has 12,000 people on its housing waiting list, so the presumption should be that for as long as there is a shortage of social rented homes for those who are unable to afford any other tenure, then harm is always inevitably caused by the failure to deliver social rented housing. Therefore the presumption should be that any failure to deliver social rented housing in relation to S106 agreements should result in enforcement action.
 
-Southwark notes that it has not taken legal enforcement action in the case of Bermondsey Spa (ref:10/AP/3010), but claims that it has instead negotiated the delivery of the 44 missing units on another site. This still results in a net loss of 44 social rented units over the two sites and while the Bermondsey Spa scheme has been completed, its social rented housing has not been delivered. Enforcement action in this case has therefore not been proportionate because it hasn't supplied a remedy.
+Southwark notes that it has not taken legal enforcement action in the case of Bermondsey Spa (ref:10/AP/3010), but claims that it has instead negotiated the delivery of the 44 missing units on another site. This still results in a net loss of 44 social rented units over the two sites and while the Bermondsey Spa scheme has been completed, its social rented housing has not been delivered. Enforcement action in this case has therefore not been proportionate because it hasn't supplied a remedy. Moreover, we have not been reassured that the increase in 44 units on the other site is to this total number or by 44 social rented units.
 
 Paragraph 207 of the National Planning Policy Framework says that:
 
@@ -64,11 +66,11 @@ We therefore think that Southwark should publish a local enforcement plan and th
 ## Paragraph 16
 We feel that the outline audit procedure proposed by the Council is inadequate.
 
-In addition to what is proposed, the Council should cross check delivery data with the government's [CORE lettings data system](https://core.communities.gov.uk/); the annual audit should be subject to verification by external auditors; and formally approved by both the planning committee and the Council's Cabinet. This will help ensure accuracy and improve accountability. 
+In addition to what is proposed, the Council should cross check delivery data with the government's [CORE lettings data system](https://core.communities.gov.uk/), the annual audit should be subject to verification by external auditors, and formally approved by both the planning committee and the Council's Cabinet. This will help ensure accuracy and improve accountability. 
 
-We believe that the planning committee has an important role to play, as this is the body which determines how much social rented housing should be delivered by a development scheme in the first instance, and is therefore in the best position to confirm that the provisions intended have been achieved.
+We believe that the planning committee has an important role to play, as this is the body which determines how much social rented housing should be delivered by a development scheme in the first instance, and is therefore in the best position to confirm that the provisions intended have been achieved. Its meetings are public and the body has formal oversight in place.
 
-## Paragraph 20
+## Paragraph 20 (NOT SURE ABOUT THIS, FEELS LIKE WE'RE TELLING THEM HOW TO RUN THINGS. IN TRUTH WE DON'T KNOW WHAT THE 60K IS FOR AND THAT'S THE REAL PROBLEM, ERGO WOULD FOCUS ON THAT IF AT ALL. THE ARGUMENT STANDS, BUT IS MORE FOR THE BLOG.)
 We note that Southwark has agreed to allocate £60,000 to pay for software and staffing resources for monitoring purposes (response to Ombudsman's question 6). We think that this is a very small amount and is wholly insufficient.
 
 Southwark charges developers a 2% administration fee on the sum total of financial S106 contributions agreed, among other things for the purpose of monitoring S106 conditions. As can be seen from the table below this amounts to a considerable sum each year. We believe that for more of it should be invested to ensure that the S106 affordable housing conditions are monitored and enforced.
