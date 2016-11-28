@@ -12,8 +12,8 @@ There is an entire [page here](/affordable-housing) charting the broken promises
 <img src="/img/energy_envrnmtl-services_lge.gif" width="300" align="left" style="margin:10px">Likewise, there is an entire [page here](/sustainable-development) charting the broken promises of replacement public realm and original 'zero carbon' biomass energy objectives of the regeneration.
 It also looks at the overall 'green' credentials of the scheme and shows how the entire Elephant & Castle regeneration footprint is going to be privately managed space.  
 
-## The deal with Lendlease
-* In July 2007, Southwark Council valued its 25 acre Heygate site at £150m[^1]. The estate comprised 1,212 council homes of which 179 were leaseholders.
+## Decant Costs
+* In July 2007, Southwark Council valued its 25 acre Heygate site at £150m[^1]. The estate comprised 1,212 council homes of which 189 were leaseholders.
 
 * The Council spent a total of £51.4m emptying the estate and this figure doesn't include lost rental income or general costs associated with progressing the scheme[^2]. The breakdown provided in [this briefing report](/img/heygate_disposal_briefing.pdf) to is as follows:
 
@@ -29,7 +29,7 @@ It also looks at the overall 'green' credentials of the scheme and shows how the
 | __Total__ | £51.437m|  
   
 
-
+## The deal with Lendlease
 * Just 8 weeks after taking power from the Lib dems in 2010, Labour council leader Peter John signed an agreement to sell Lendlease the 25 acre Heygate site for £50m[^5] and 1.4 acres of the old leisure centre site for [£6.5m](http://crappistmartin.github.io/blog/2014/01/11/flogging-the-elephant/) - significantly less than [other E&C development sites which have exchanged hands](http://crappistmartin.github.io/map.html) on the open market.
 
 ![](http://www.london-se1.co.uk/news/imageuploads/1280161383_62.49.27.213.jpg)
@@ -49,9 +49,10 @@ It also looks at the overall 'green' credentials of the scheme and shows how the
 
 ![FOI request](https://www.whatdotheyknow.com/request/financial_advice_on_signing_rege#incoming-840903) for consultant's advice to the Council on signing the regeneration agreement.
 
-Despite a policy requirement of 35%, the [Regeneration Agreement](http://southwarknotes.files.wordpress.com/2013/02/ra.pdf) signed by the council leader in 2010 stipulated that Lendlease was to provide _"A minimum of 25 per cent Affordable Housing"_(pg 95), which is _"to be divided equally between Social Rented Housing and Intermediate Affordable Housing"_(page 1). However, when the planning application was submitted in Jan 2013, it provided 25% affordable housing but had largely substituted social rent for [affordable rent](http://www.theguardian.com/housing-network/2014/feb/03/affordable-housing-meaning-rent-social-housing) of up to 80% market on the grounds of financially viability. As a result, of the 2,704 new homes on the Heygate, 198 will be intermediate 'affordable rent', 316 shared ownership and just 82 will be social rented. These 82 social rented homes fall well short of the [500 new homes promised](/affordable-housing/) to Heygate residents who had been offered the 'right to return' to the estate.[^9] 
+## Contractual agreement breached
+Despite a policy requirement of 35%, the [Regeneration Agreement](http://southwarknotes.files.wordpress.com/2013/02/ra.pdf) signed by the council leader in 2010 stipulated that Lendlease was to provide _"A minimum of 25 per cent Affordable Housing"_(pg 95), which is _"to be divided equally between Social Rented Housing and Intermediate Affordable Housing"_(page 1). However, when the planning application was submitted in Jan 2013, it propsed 25% affordable housing but Lendlease had substituted most of the social rent component for [affordable rent](http://www.theguardian.com/housing-network/2014/feb/03/affordable-housing-meaning-rent-social-housing) of up to 80% market on the grounds of financially viability.
 
-![](http://crappistmartin.github.io/images/UpdatedAHStatement.png) 
+As a result, of the 2,704 new homes on the Heygate, 198 will be intermediate 'affordable rent', 316 shared ownership and just 82 will be social rented. This is a breach of the terms of the contractual agreement with Lendlease, which would have provided for 432 social rented units had it been adhered to. The pitiful 82 social rented homes provided, fall well short of the [500 new homes promised](/affordable-housing/) to Heygate residents who had been offered the 'right to return' to the estate.[^9] 
 
 ## Cooking the books
 <img src="http://crappistmartin.github.io/images/guardianviabilityassessment.png" align="left" width="300" style="margin:10px">In 2015, after a three year Tribunal battle by Lendlease and Southwark to prevent its disclosure, the 35% campaign [succeeded](http://crappistmartin.github.io/blog/2015/06/25/heygate-viability-assessment-finally-revealed/) in obtaining a [copy](/collated-viability-assessments) of the viability assessment submitted by Lendlease to justify the reductions in its affordable 
