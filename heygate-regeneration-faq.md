@@ -15,7 +15,19 @@ It also looks at the overall 'green' credentials of the scheme and shows how the
 ## The deal with Lendlease
 * In July 2007, Southwark Council valued its 25 acre Heygate site at £150m[^1]. The estate comprised 1,212 council homes of which 179 were leaseholders.
 
-* By Jan 2014, the council had spent £65m emptying the estate[^2] and a further £18m forward-funding its demolition[^3]. 
+* The Council spent a total of £51.4m emptying the estate and this figure doesn't include lost rental income or general costs associated with progressing the scheme[^2]. The breakdown provided in [this briefing report](/img/heygate_disposal_briefing.pdf) to is as follows:
+
+| Cost  | Amount  |
+|---|---|
+| Decommissioning Costs  | £8.315m  |
+| Cost of buyouts  | £28.373m  |
+| Cost of new Crossway Church  | £5.097m  |
+| Tenant relocation & homeloss  | £5.779m  |
+| Cost of buyouts  | £28.373m  |
+| Council tax on voids  | £1.819m  |
+| Temporary footway & Security  | £0.419m  |
+| Demolition of Wingrave/RR site  | £1.635m  |[^3]
+
 
 * A 2012 appraisal study by global architects Gensler showed that the Heygate could be comprehensively refurbished for a total cost of £35m[^4].
 
@@ -84,12 +96,20 @@ Some Heygate residents have set up a digital archive, charting the broken promis
 __Footnotes:__
 
 [^1]: See paragraph 14 of [this July 2007 Executive report](http://moderngov.southwark.gov.uk/Data/Overview%20&%20Scrutiny%20Committee/20070709/Agenda/Cover%20report.pdf)  
-[^2]: See paragraph 50(ix) of the [Heygate Tribunal evidence](http://crappistmartin.github.io/images/LL_Response_EIR.pdf) - _"The Council’s costs as at January 2013 amounted to about £47.5 million in capital expenditure and just under £18 million in review costs managing the estate"_.
-[^3]: See See para 76 of the [Project Director's evidence](http://crappistmartin.github.io/images/LBS_Jon_Abbott.pdf) and this [2012 council report](http://moderngov.southwark.gov.uk/documents/s30387/120709%20Heygate%20Estate%20Demolition%20Business%20Case%20signed%20report.pdf).  
+
+[^2]: See paragraph 50(ix) of the [Heygate Tribunal evidence](http://crappistmartin.github.io/images/LL_Response_EIR.pdf) for more information on this - _"The Council’s costs as at January 2013 amounted to about £47.5 million in capital expenditure and just under £18 million in review costs managing the estate"_. The £18m review costs include the lost revenue over the decant period.
+
+[^3]: Para 76 of the [Project Director's evidence](http://crappistmartin.github.io/images/LBS_Jon_Abbott.pdf) and this [2012 council report](http://moderngov.southwark.gov.uk/documents/s30387/120709%20Heygate%20Estate%20Demolition%20Business%20Case%20signed%20report.pdf) confirm that demolition of the main Heygate site was forward-funded by the Council but reimbursed by Lendlease, but the demolition of the Wingrave/Rodney Rd site was solely funded by the Council.
+  
 [^4]: See this [2012 cost appraisal study](http://heygateestate.files.wordpress.com/2012/12/genslerheygate.pdf) by global architects [Gensler](http://gensler.com) and construction consultancy [Baqus](http://baqus.co.uk).
+
 [^5]: See 'Heygate Headlease Premium' on page 6 and the 'Rodney Road Headlease Premium' on page 10 of the [Regeneration Agreement](http://southwarknotes.files.wordpress.com/2013/02/ra.pdf).
+
 [^6]: See "Developer's Priority Return" and "Development Management Fee" on pg 83 of the leaked [Regeneration Agreement](http://southwarknotes.files.wordpress.com/2013/02/ra.pdf).
+
 [^7]: See para 86 of the Project Director's [Tribunal evidence](http://crappistmartin.github.io/images/LBS_Jon_Abbott.pdf)
+
 [^8]: See section 2 of the [S106 Draft Heads of Terms](planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!p5dzbz5vS8ke08vHYd6d2Q%3d%3d!%7d%7d%7d) for details of all S106 planning contributions.
+
 [^9]: See page 59 of the [original regeneration masterplan](https://www.scribd.com/doc/198503633/EandC-RegenMk1SLRplans) and the ['Heygate Action Plan' right-to-return documents](http://embed.verite.co/timeline/?source=0Aprl6XcACewydEhRaWFOLVBfUjBSVW1HUGVZNEhGeFE&font=Bevan-PotanoSans&maptype=toner&lang=en&hash_bookmark=true&start_zoom_adjust=2&height=650#19).
 

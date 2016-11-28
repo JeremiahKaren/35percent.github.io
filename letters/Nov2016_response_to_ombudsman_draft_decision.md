@@ -51,7 +51,7 @@ We leave it to the Ombudsman as to whether this is a matter that should be comme
 ## Paragraph 14
 The Ombudsman has noted in paragraph 6 of the draft decision notice, that enforcement powers are discretionary. Southwark currently has 12,000 people on its housing waiting list, so the presumption should be that for as long as there is a shortage of social rented homes for those who are unable to afford any other tenure, then harm is always inevitably caused by the failure to deliver social rented housing. Therefore the presumption should be that any failure to deliver social rented housing in relation to S106 agreements should result in enforcement action.
 
-Southwark notes that it has not taken legal enforcement action in the case of Bermondsey Spa (ref:10/AP/3010), but claims that it has instead negotiated the delivery of the 44 missing units on another site. This still results in a net loss of 44 social rented units over the two sites and while the Bermondsey Spa scheme has been completed, its social rented housing has not been delivered. Enforcement action in this case has therefore not been proportionate because it hasn't supplied a remedy. Moreover, we have not been reassured that the increase in 44 units on the other site is to this total number or by 44 social rented units.
+Southwark notes that it has not taken legal enforcement action in the case of Bermondsey Spa (ref:10/AP/3010), but claims that it has instead negotiated the delivery of the 44 missing units on another site. This still results in a net loss of 44 social rented units over the two sites and while the Bermondsey Spa scheme has been completed, its social rented housing has not been delivered. Enforcement action in this case has therefore not been proportionate because it hasn't supplied a remedy.
 
 Paragraph 207 of the National Planning Policy Framework says that:
 
@@ -70,7 +70,7 @@ In addition to what is proposed, the Council should cross check delivery data wi
 
 We believe that the planning committee has an important role to play, as this is the body which determines how much social rented housing should be delivered by a development scheme in the first instance, and is therefore in the best position to confirm that the provisions intended have been achieved. Its meetings are public and the body has formal oversight in place.
 
-## Paragraph 20 (NOT SURE ABOUT THIS, FEELS LIKE WE'RE TELLING THEM HOW TO RUN THINGS. IN TRUTH WE DON'T KNOW WHAT THE 60K IS FOR AND THAT'S THE REAL PROBLEM, ERGO WOULD FOCUS ON THAT IF AT ALL. THE ARGUMENT STANDS, BUT IS MORE FOR THE BLOG.)
+## Paragraph 20 
 We note that Southwark has agreed to allocate £60,000 to pay for software and staffing resources for monitoring purposes (response to Ombudsman's question 6). We think that this is a very small amount and is wholly insufficient.
 
 Southwark charges developers a 2% administration fee on the sum total of financial S106 contributions agreed, among other things for the purpose of monitoring S106 conditions. As can be seen from the table below this amounts to a considerable sum each year. We believe that for more of it should be invested to ensure that the S106 affordable housing conditions are monitored and enforced.
