@@ -33,6 +33,7 @@ It also looks at the overall 'green' credentials of the scheme and shows how the
 
 ![](http://www.london-se1.co.uk/news/imageuploads/1280161383_62.49.27.213.jpg)
 
+<center>
 <iframe src="http://crappistmartin.github.io/map.html" width="800" height="600"></iframe>
 <font size="2">Click <a href="http://crappistmartin.github.io/map.html">here</a> to view our interactive map in a separate browser window</font>
 </center>
