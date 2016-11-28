@@ -26,7 +26,7 @@ It also looks at the overall 'green' credentials of the scheme and shows how the
 | Council tax on voids  | £1.819m  |
 | Temporary footway & Security  | £0.419m  |
 | Demolition of Wingrave/RR site  | £1.635m  |[^3]
-¡ __Total:__ ¡ £51.437m ¡ 
+| __Total__ | £51.437m|
 
 
 * Just 8 weeks after taking power from the Lib dems in 2010, Labour council leader Peter John signed an agreement to sell Lend Lease the 25 acre Heygate site for £50m[^5] and 1.4 acres of the old leisure centre site for [£6.5m](http://crappistmartin.github.io/blog/2014/01/11/flogging-the-elephant/) - significantly less than other E&C development sites which have exchanged hands on the open market:
@@ -43,7 +43,7 @@ It also looks at the overall 'green' credentials of the scheme and shows how the
 ![](/img/DVSreport_managementfee.png)
 *Extract from the [DVS's review](http://crappistmartin.github.io/images/DVSreport_HeygateOutline.pdf) on the Heygate figures* 
 
-    Furthermore, the amount of 'overage' (if any) is calculated by Lend Lease, which has a track record for accounting disputes over such agreements; in April 2012 it was [fined](http://www.nytimes.com/2012/04/25/nyregion/lend-lease-expected-to-admit-to-fraud-scheme.html) $56m for overbilling authorities on a major public works contract in New York; in Dec 2012 it was [sued](http://www.smh.com.au/nsw/valuation-dispute-poses-threat-to-1b-return-from-barangaroo-20121206-2ay9e.html) by city authorities over its calculation of overage on a similar size regeneration scheme in Sydney (which the authorities [lost](http://www.smh.com.au/nsw/barangaroo-public-works-in-doubt-after-government-loses-court-battle-with-lend-lease-20140821-106lke.html)); and in 2014 it was embroiled in a [High Court battle](http://www.pitcher.com.au/news/lend-lease-decision-impact-property-development-arrangements) with authorities over the terms of a development contract in Northern Australia.
+* The amount of 'overage' payable (if any) is calculated by Lend Lease, which has a track record for accounting disputes over such agreements; in April 2012 it was [fined](http://www.nytimes.com/2012/04/25/nyregion/lend-lease-expected-to-admit-to-fraud-scheme.html) $56m for overbilling authorities on a major public works contract in New York; in Dec 2012 it was [sued](http://www.smh.com.au/nsw/valuation-dispute-poses-threat-to-1b-return-from-barangaroo-20121206-2ay9e.html) by city authorities over its calculation of overage on a similar size regeneration scheme in Sydney (which the authorities [lost](http://www.smh.com.au/nsw/barangaroo-public-works-in-doubt-after-government-loses-court-battle-with-lend-lease-20140821-106lke.html)); and in 2014 it was embroiled in a [High Court battle](http://www.pitcher.com.au/news/lend-lease-decision-impact-property-development-arrangements) with authorities over the terms of a development contract in Northern Australia.
 
 * In Feb 2013, Southwark's Cabinet Member for Regeneration admitted in a local press [article](http://heygate.github.io/img/SNDocumentBlunder7Feb2013.pdf) that _"currently viability tests suggested there was unlikely to be any profit"_ from the Heygate deal. This was further backed up by the Council's Project Director in Jan 2014, when he confirmed the possibility of _"the council receiving little or nothing from the profit-share provision in the Regeneration Agreement."_[^7]
 
@@ -82,9 +82,6 @@ Subsequently, in May 2016, Southwark [conceded](http://35percent.org/2016-05-11-
 
 ![](/img/noprofit.png)
 
-## Heygate was home
-![](http://crappistmartin.github.io/images/HeygateWasHome_Screenshot.png) 
-Some Heygate residents have set up a digital archive, charting the broken promises of regeneration over the years and the impact it had on them as a community. This can be accessed at: [http://heygatewashome.org](http://heygatewashome.org) 
 
 __Footnotes:__
 
