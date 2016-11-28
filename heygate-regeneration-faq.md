@@ -23,36 +23,28 @@ It also looks at the overall 'green' credentials of the scheme and shows how the
 | Cost of buyouts  | £28.373m  |
 | Cost of new Crossway Church  | £5.097m  |
 | Tenant relocation & homeloss  | £5.779m  |
-| Cost of buyouts  | £28.373m  |
 | Council tax on voids  | £1.819m  |
 | Temporary footway & Security  | £0.419m  |
 | Demolition of Wingrave/RR site  | £1.635m  |[^3]
+¡ __Total:__ ¡ £51.437m ¡ 
 
-
-* A 2012 appraisal study by global architects Gensler showed that the Heygate could be comprehensively refurbished for a total cost of £35m[^4].
 
 * Just 8 weeks after taking power from the Lib dems in 2010, Labour council leader Peter John signed an agreement to sell Lend Lease the 25 acre Heygate site for £50m[^5] and 1.4 acres of the old leisure centre site for [£6.5m](http://crappistmartin.github.io/blog/2014/01/11/flogging-the-elephant/) - significantly less than other E&C development sites which have exchanged hands on the open market:
 
 ![](http://www.london-se1.co.uk/news/imageuploads/1280161383_62.49.27.213.jpg)
 
-    * The 1.5 acre Tribeca Square site was sold for £40m
-    * The 0.51 acre Eileen House site was sold for £38m
-    * The 3.5 acre Shopping Centre site was sold for £80m
-
-<center>
 <iframe src="http://crappistmartin.github.io/map.html" width="800" height="600"></iframe>
 <font size="2">Click <a href="http://crappistmartin.github.io/map.html">here</a> to view our interactive map in a separate browser window</font>
 </center>
 
-* Southwark argues that it will receive a share of the 'overage' profits when the Heygate development is completed in 2025, but this 'overage' arrangement only applies to profit surpluses after Lend Lease has pocketed a 20% "Priority Return" plus a 2.6% "Management Fee"[^6].
+* Southwark argues that it will receive a share of the 'overage' profits when the Heygate development is completed in 2025, but this 'overage' arrangement only applies to profit surpluses after Lend Lease has pocketed a 20% "Priority Return" plus a 2.6% "Management Fee"[^6], which was criticised by the [District Valuer's review](http://crappistmartin.github.io/images/DVSreport_HeygateOutline.pdf) of the figures and described as 'additional profit'.
+
+![](/img/DVSreport_managementfee.png)
+*Extract from the [DVS's review](http://crappistmartin.github.io/images/DVSreport_HeygateOutline.pdf) on the Heygate figures* 
 
     Furthermore, the amount of 'overage' (if any) is calculated by Lend Lease, which has a track record for accounting disputes over such agreements; in April 2012 it was [fined](http://www.nytimes.com/2012/04/25/nyregion/lend-lease-expected-to-admit-to-fraud-scheme.html) $56m for overbilling authorities on a major public works contract in New York; in Dec 2012 it was [sued](http://www.smh.com.au/nsw/valuation-dispute-poses-threat-to-1b-return-from-barangaroo-20121206-2ay9e.html) by city authorities over its calculation of overage on a similar size regeneration scheme in Sydney (which the authorities [lost](http://www.smh.com.au/nsw/barangaroo-public-works-in-doubt-after-government-loses-court-battle-with-lend-lease-20140821-106lke.html)); and in 2014 it was embroiled in a [High Court battle](http://www.pitcher.com.au/news/lend-lease-decision-impact-property-development-arrangements) with authorities over the terms of a development contract in Northern Australia.
 
-* In Feb 2013, Southwark's Cabinet Member for Regeneration admitted in a local press [article](http://heygate.github.io/img/SNDocumentBlunder7Feb2013.pdf) that _"currently viability tests suggested there was unlikely to be any profit"_ from the Heygate deal. This was further backed up by council's Project Director in Jan 2014, when he confirmed the possibility of _"the council receiving little or nothing from the profit-share provision in the Regeneration Agreement."_[^7]
-
-* In 2014, Lend Lease's Head of International Operations Dan Labbad, who signed the deal with Southwark, [claimed](http://www.theaustralian.com.au/business/property/lend-leases-international-head-keeps-focus-on-growth-abroad/story-fnko7zi0-1227151774437?nk=08e105b4d18a57454f6a04527dac8fdf) that his company had bought the Elephant and Castle at "the lowest point in the cycle."
-
-![](http://crappistmartin.github.io/images/heygatesale.png)
+* In Feb 2013, Southwark's Cabinet Member for Regeneration admitted in a local press [article](http://heygate.github.io/img/SNDocumentBlunder7Feb2013.pdf) that _"currently viability tests suggested there was unlikely to be any profit"_ from the Heygate deal. This was further backed up by the Council's Project Director in Jan 2014, when he confirmed the possibility of _"the council receiving little or nothing from the profit-share provision in the Regeneration Agreement."_[^7]
 
 * Southwark has argued that it will receive other in-kind planning contributions from Lend Lease amounting to a value of £51m. But these are standard s106 obligations that all developers must deliver to mitigate the impact of a given development. This figure includes a £13m [local transport levy](http://www.planningportal.gov.uk/general/news/stories/2011/nov11/171111/171111_3) payment towards the [£160m cost](http://www.london-se1.co.uk/news/view/5293) of increasing capacity at the Northern Line tube station. The remainder consists largely of benefits in kind: £24.9m is the estimated value of the new 'public' park to be provided by Lend Lease and £7.5m is the estimated value of new traffic infrastructure to be provided within Lend Lease's development.[^8]
 ![Briefing report](/img/heygate_disposal_briefing.pdf) to the Tenants Council.
