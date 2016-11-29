@@ -35,19 +35,48 @@ It also looks at the overall 'green' credentials of the scheme and shows how the
 ![](http://www.london-se1.co.uk/news/imageuploads/1280161383_62.49.27.213.jpg)
 *Cllr John signing the regeneration agrement with Lendlease's CEO in July 2010*
 
-* Councillor John argues that the Council will receive a share of the 'overage' profits. But the regeneration agreement and [this Council briefing paper](/img/heygate_disposal_briefing.pdf) confirm that this is only payable once the development fully completes in 2025. Furthermore, this 'overage' profit share arrangement only applies to profit surpluses after Lendlease has pocketed a 20% "Priority Return" plus a 2.6% "Management Fee"[^6], which was criticised by the [District Valuer's review](http://crappistmartin.github.io/images/DVSreport_HeygateOutline.pdf) of the figures and described as 'additional profit'.
+* Councillor John argues that the Council will receive a share of the 'overage' profits. But the regeneration agreement and [this Council briefing paper](/img/heygate_disposal_briefing.pdf) confirm that this is only payable once the development is fully completed in 2025. Furthermore, this 'overage' profit share arrangement only applies to profit surpluses after Lendlease has pocketed a 20% "Priority Return" plus a 2.6% "Management Fee"[^6], which was criticised by the [District Valuer's review](http://crappistmartin.github.io/images/DVSreport_HeygateOutline.pdf) of the figures and described as 'additional profit'.
 
 ![](/img/DVSreport_managementfee.png)
+*Extract from the [DVS's review](http://crappistmartin.github.io/images/DVSreport_HeygateOutline.pdf) on the Heygate figures* 
+
+The District Valuer also questioned Lendlease's excessive profit level and pointed out that most schemes average out below 15%:
+
+![](/img/DVSacceptablereturn.png)
 *Extract from the [DVS's review](http://crappistmartin.github.io/images/DVSreport_HeygateOutline.pdf) on the Heygate figures* 
 
 * The amount of 'overage' payable (if any) is calculated by Lendlease, which has a track record for accounting disputes over such agreements; in April 2012 it was [fined](http://www.nytimes.com/2012/04/25/nyregion/lend-lease-expected-to-admit-to-fraud-scheme.html) $56m for overbilling authorities on a major public works contract in New York; in Dec 2012 it was [sued](http://www.smh.com.au/nsw/valuation-dispute-poses-threat-to-1b-return-from-barangaroo-20121206-2ay9e.html) by city authorities over its calculation of overage on a similar size regeneration scheme in Sydney (which the authorities [lost](http://www.smh.com.au/nsw/barangaroo-public-works-in-doubt-after-government-loses-court-battle-with-lend-lease-20140821-106lke.html)); and in 2014 it was embroiled in a [High Court battle](http://www.pitcher.com.au/news/lend-lease-decision-impact-property-development-arrangements) with authorities over the terms of a development contract in Northern Australia.
 
 * In Feb 2013, Southwark's Cabinet Member for Regeneration admitted in a local press [article](http://heygate.github.io/img/SNDocumentBlunder7Feb2013.pdf) that _"currently viability tests suggested there was unlikely to be any profit"_ from the Heygate deal. This was further backed up by the Council's Project Director in Jan 2014, when he confirmed the possibility of _"the council receiving little or nothing from the profit-share provision in the Regeneration Agreement."_[^7]
 
-* Southwark has argued that it will receive other in-kind planning contributions from Lendlease amounting to a value of £51m. But these are standard s106 obligations that all developers must deliver to mitigate the impact of a given development. This figure includes a £13m [local transport levy](http://www.planningportal.gov.uk/general/news/stories/2011/nov11/171111/171111_3) payment towards the [£160m cost](http://www.london-se1.co.uk/news/view/5293) of increasing capacity at the Northern Line tube station. The remainder consists largely of benefits in kind: £24.9m is the 'estimated' value of the new ['public' park](/sustainable-development/) to be provided by Lendlease and £7.5m is the estimated value of new traffic infrastructure to be provided within Lendlease's development.[^8]
-![Briefing report](/img/heygate_disposal_briefing.pdf) to the Tenants Council.
+* Southwark has argued that it will receive other contributions from Lendlease. But these are standard s106 obligations that all developers must deliver to mitigate the impact of a given development. This figure includes a £13m [local transport levy](http://www.planningportal.gov.uk/general/news/stories/2011/nov11/171111/171111_3) payment towards the [£160m cost](http://www.london-se1.co.uk/news/view/5293) of increasing capacity at the Northern Line tube station. The remainder consists mainly of benefits in kind: £24.9m is the 'estimated' value of the new ['public' park](/sustainable-development/) being built by Lendlease and £7.5m is the estimated value of new roads being built within the development.[^8]
+
+![](/img/RAcashflowforecast.png)
+*Redacted cash flow forecast showing the development account actuals*
+
+This year Lendlease [reported record profits](http://www.afr.com/real-estate/commercial/lendlease-firsthalf-net-profit-rises-121pc-to-354-million-20160216-gmvxux) of $354m(£192m) in the 6 months to February 2016, which it [claims](http://www.smh.com.au/business/property/lendlease-reports-a-3538-million-profit-20160216-gmvo2z.html) are partly down to _“strong sales momentum at residential projects at Victoria Harbour in Melbourne and Elephant & Castle in London”._
+
+Its August 2016 financial report confirms that the completed phase 1 of the Heygate (Trafalgar Place) turned a profit in 2016 and that phases two and three (South Gardens and West Grove) are due to turn a profit in 2018/19.  
+
+![](/img/llprofitprofile.png)
+*Extract from Lendlease's [financial report Aug 2016](/img/LLfinancialreport_aug2016.pdf)*
+
+The financial statements also show that Lendlease has presold 69% of its apartments in phase 3 (West Grove) off plan, netting it $435m (£260m) before construction has barely started.
+
+## North of £100m
+In an [interview](link to blog) with Australian national broadcaster ABC, council leader peter John claimed that the Council will receive _"north of £100m"_ from its profit share deal with Lendlease. 
+
+However, we made an FOI request for the yearly audit report, which [showed](http://35percent.org/2016-05-11-no-profit-share-the-true-value-of-the-heygate-regeneration/) that _"no profit overage is currently forecast to be payable to Southwark Council"_.
+
+![](http://35percent.org/img/ElephantParkBusinessPlanFeb2016.png)
+*Extract from the business plan report received in response to our [FOI request](https://www.whatdotheyknow.com/request/heygate_estate_regeneration_annu)*
+
+## Key figures and documents still witheld
+Southwark Council continues to withold key figures and documents relating to its deal with Lendlease. We call on the Council to stop hiding behind the mask of commercial confidentiality and public the following documents without delay:
 
 ![FOI request](https://www.whatdotheyknow.com/request/financial_advice_on_signing_rege#incoming-840903) for consultant's advice to the Council on signing the regeneration agreement.
+
+
 
 ## Contractual agreement breached
 Despite a policy requirement of 35%, the [Regeneration Agreement](http://southwarknotes.files.wordpress.com/2013/02/ra.pdf) signed by the council leader in 2010 stipulated that Lendlease was to provide _"A minimum of 25 per cent Affordable Housing"_(pg 95), which is _"to be divided equally between Social Rented Housing and Intermediate Affordable Housing"_(page 1). However, when the planning application was submitted in Jan 2013, it propsed 25% affordable housing but Lendlease had substituted most of the social rent component for [affordable rent](http://www.theguardian.com/housing-network/2014/feb/03/affordable-housing-meaning-rent-social-housing) of up to 80% market on the grounds of financially viability.

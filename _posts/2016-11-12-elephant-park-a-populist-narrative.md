@@ -163,20 +163,21 @@ article](http://35percent.org/img/standard26102016-rotated.pdf) 26/10/2016*
 
 ## Gentrification by the numbers
 The Heygate redevelopment isn't an exception at the Elephant and Castle 
-- out of 5000 new homes in the six major schemes barely 80 are social rented - 
+- out of 5249 new homes in the seven major schemes barely 80 are social rented - 
   nor is it an exception for London, as the [LTF 
 figures](http://35percent.org/img/LTF_delivery_of_housing_in_London_2014-15.pdf) 
 show.
 
 |__Development__| __Total homes__  | __Social rented__ |
 |---|---|---|
-| Heygate  | 2704  | 82  |
-| Strata Tower  | 408  | 0  |
-| One the Elephant  | 284  | 0  |
-| Tribeca Square | 640 | 0 |
-| Eileen House | 335 | 0 |
-| London 360 Tower | 457 | 0 |
-| __Total:__ | __4828__ | __82__ |
+| Heygate (12/AP/1092) | 2704  | 82  |
+| Strata Tower (05/AP/2502) | 408  | 0  |
+| One the Elephant (12/AP/2239) | 284  | 0  |
+| Tribeca Square (08/AP/2043) | 640 | 0 |
+| Eileen House (09/AP/0343) | 335 | 0 |
+| London 360 Tower (07/AP/0760) | 457 | 0 |
+| Skipton House (15/AP/5125) | 421 | 0 |
+| __Total:__ | __5249__ | __82__ |
 
 So it is not the populist narrative that is false as Dave Hill suggests, it is 
 the deluded pro-gentrification narrative, which suffers from two 

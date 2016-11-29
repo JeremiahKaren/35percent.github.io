@@ -21,7 +21,7 @@ Opportunity Area into a social-housing free zone, with a few added ingredients.
 
 Up until now developers have relied upon on claiming that their [profit-gushing 
 developments](http://www.ourcity.london/issues/viability/house_builders_profits/) were nonetheless unviable, in order to duck out of building affordable 
-housing, with spectacular results – out of nearly 5000 dwellings on the six 
+housing, with spectacular results – out of over 5000 dwellings in the seven 
 major private developments at the Elephant there will be just 82 social rented 
 homes.
 

@@ -73,7 +73,7 @@ We believe that the planning committee has an important role to play, as this is
 ## Paragraph 20 
 We note that Southwark has agreed to allocate £60,000 to pay for software and staffing resources for monitoring purposes (response to Ombudsman's question 6). We think that this is a very small amount and is wholly insufficient.
 
-Southwark charges developers a 2% administration fee on the sum total of financial S106 contributions agreed, among other things for the purpose of monitoring S106 conditions. As can be seen from the table below this amounts to a considerable sum each year. We believe that for more of it should be invested to ensure that the S106 affordable housing conditions are monitored and enforced.
+Southwark charges developers a 2% administration fee on the sum total of financial S106 contributions agreed, among other things for the purpose of monitoring S106 conditions. As can be seen from the table below this amounts to a considerable sum each year. We believe that far more of it should be invested to ensure that the S106 affordable housing conditions are monitored and enforced.
 
 ![](http://35percent.org/img/s106table.png)
 *Extract from the Council's most recent [S106 contributions report](http://www.southwark.gov.uk/download/downloads/id/13876/s106_annual_report_2012-14)*
