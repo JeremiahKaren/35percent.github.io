@@ -28,7 +28,7 @@ Putting all this into plain English, Southwark will put a financial value on eac
 * see which ones it doesn’t like....
 * see which ones it wants to ‘redevelop’....
 
-This all paints a rather alarming picture, particularly in light of the Heygate experience where an [options appraisal study](http://betterelephant.org/blog/2012/12/23/1998-southwark-housing-stock-survey/) which recommended retaining half the estate's buildings was ignored. The 35% campaign has requested a copy of the __'Asset Performance Evaluation Tool'__ given the key part it looks like playing in the future of every Southwark council estate resident.
+This all paints a rather alarming picture, particularly in light of the Heygate experience where an [options appraisal study](http://betterelephant.github.io/blog/2012/12/23/1998-southwark-housing-stock-survey/) which recommended retaining half the estate's buildings was ignored. The 35% campaign has requested a copy of the __'Asset Performance Evaluation Tool'__ given the key part it looks like playing in the future of every Southwark council estate resident.
 
 
 ## Aylesbury - Stop Press

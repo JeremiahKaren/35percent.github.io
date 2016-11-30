@@ -39,7 +39,7 @@ As part of its s106 contributions designed to contribute to the public realm aro
 
 
 ## Revolving doors
-In preparing its planning application Strata's developers employed [Four Communications Ltd](http://fourcommunications.com), a planning consultancy [founded and managed](http://betterelephant.org/blog/2014/10/19/gamekeepers-turned-poachers/) by former Labour Southwark Council leader Jeremy Fraser.
+In preparing its planning application Strata's developers employed [Four Communications Ltd](http://fourcommunications.com), a planning consultancy [founded and managed](http://betterelephant.github.io/blog/2014/10/19/gamekeepers-turned-poachers/) by former Labour Southwark Council leader Jeremy Fraser.
 
 ![](http://www.fourcommunications.com/sites/default/files/styles/four_square/public/people/jeremy.png)
 

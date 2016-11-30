@@ -59,7 +59,7 @@ enforcement notice pictured below.
 
 ![](http://alicecalcagno.files.wordpress.com/2012/09/dsc_9857-2.jpg)
 
-Fortunately, the <a href="http://betterelephant.org/space">Better Elephant 
+Fortunately, the <a href="http://betterelephant.github.io/space">Better Elephant 
 group</a> was able to hastily pop-down the pop-up cinema on Wednesday evening 
 before any harm came to it.
 

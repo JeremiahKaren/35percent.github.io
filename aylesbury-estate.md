@@ -11,7 +11,7 @@ The Aylesbury estate regeneration was initiated by Tony Blair as part of New Lab
 The project was subsequently awarded £56m funding under the ['New Deal for Communities'](http://en.wikipedia.org/wiki/New_Deal_for_Communities) partnership as part of Blair's urban renewal programme.  
 
 ## Failed Ballot
-![](http://betterelephant.org/images/novote.png)
+![](http://betterelephant.github.io/images/novote.png)
 
 In 2001, residents on the estate were balloted on the prospect of stock transfer and redevelopment by a Housing Association. There was a high turnout (73%) and over 70% of residents [voted against](http://www.theguardian.com/society/2001/dec/27/1) the proposals. [This council Executive report](http://moderngov.southwark.gov.uk/Data/Executive/20050927/Agenda/Item%2007%20-%20The%20AylesburyEstate%20Revised%20Strategy%20-%20Report.pdf) postulates that one of the reasons behind the 'NO' vote was that residents were concerned that they would have to pay higher rents and service charges on the redeveloped estate.  
 
@@ -89,11 +89,11 @@ Extensive [research by the University College London](http://www.engineering.ucl
 More information about the Six Acres estate regeneration can be found [here](http://www.langley.co.uk/asx/six_acres_case_study_-_newsletter.pdf), [here](http://bit.ly/1ssLvV6), [here](http://www.langley.co.uk/asx/six_acres_case_study.pdf), [here](http://crappistmartin.github.io/images/OCD28_SixAcresestateRefurb_Illustrations.pdf) and under planning application ref: P072153 on [Islington Council's Planning Portal](/img/6acrescasereport.pdf).
 
 
-![](http://betterelephant.org/images/sixacresbefore4.jpg) 
+![](http://betterelephant.github.io/images/sixacresbefore4.jpg) 
 [Photos of Six Acres before regeneration](https://www.flickr.com/photos/46360829@N03/sets/72157645684480295/)
 
 
-![](http://betterelephant.org/images/sixacresafter.JPG)
+![](http://betterelephant.github.io/images/sixacresafter.JPG)
 [Photos of Six Acres after regeneration](https://www.flickr.com/photos/46360829@N03/sets/72157645684757965/)
 
 

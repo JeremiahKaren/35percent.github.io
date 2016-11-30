@@ -57,7 +57,7 @@ _"Anti‐Social Behaviour Policy - The principles set out in the Anti‐Social B
 
 _"Security - The EMC and PMCs will have a key role in linking with local agencies, in particular the police, Southwark’s Anti‐Social Behaviour (ASB) services and the town centre security team and the local Community Safety teams."_(para. 8.2)  
 
-<img src="http://betterelephant.org/images/gatedcommunity.png" width="200" align="left" style="margin:10px">Further reference to the proposed privatisation of the space is found in the [Master Regeneration Plan](http://www.southwark.gov.uk/download/downloads/id/4928/cdh34_elephant_and_castle_regeneration_agreement_appendix_6): _"To ensure that the high quality external environment is maintained the completed site will be managed by its own security, maintenance and cleaning service."_(para 2.8)
+<img src="http://betterelephant.github.io/images/gatedcommunity.png" width="200" align="left" style="margin:10px">Further reference to the proposed privatisation of the space is found in the [Master Regeneration Plan](http://www.southwark.gov.uk/download/downloads/id/4928/cdh34_elephant_and_castle_regeneration_agreement_appendix_6): _"To ensure that the high quality external environment is maintained the completed site will be managed by its own security, maintenance and cleaning service."_(para 2.8)
 
 
 We have been campaigning in vain to have what little open space there is in the new development formally adopted by the council. Unfortunately it looks like the new 'Elephant Park' is going to be yet another addition to London's growing list of [POPAS](http://www.theguardian.com/artanddesign/2014/aug/24/cheesegrater-london-review-tower-of-no-small-ambition) (Privately Owned Publicly Accessible Spaces).

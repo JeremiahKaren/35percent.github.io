@@ -5,7 +5,7 @@ date: 2012-12-09 11:57
 comments: true
 categories: [Heygate regeneration]
 ---
-[Council documents](http://moderngov.southwark.gov.uk/documents/b4142/Supplemental%201%20Tuesday%2030-Nov-2010%2019.00%20Regeneration%20and%20Leisure%20Scrutiny%20Sub-Committee.pdf?T=9) show that Southwark taxpayers have now forked out at least £38m in emptying the Heygate estate, and are about to put their hands in their pockets for at least another [£15m to pay for its demolition](http://betterelephant.org/images/SNJuly2012.jpg).
+[Council documents](http://moderngov.southwark.gov.uk/documents/b4142/Supplemental%201%20Tuesday%2030-Nov-2010%2019.00%20Regeneration%20and%20Leisure%20Scrutiny%20Sub-Committee.pdf?T=9) show that Southwark taxpayers have now forked out at least £38m in emptying the Heygate estate, and are about to put their hands in their pockets for at least another [£15m to pay for its demolition](http://betterelephant.github.io/images/SNJuly2012.jpg).
 
 ![](http://medias.photodeck.com/32bd6aaa-7703-11e3-9b6b-89e177771d9e/JasonHawkes-8606_medium.jpg)
 

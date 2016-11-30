@@ -17,7 +17,7 @@ Southwark made no payment and instead today it went ahead with a forced eviction
 ## Brute force and ignorance
 Why did Southwark Council resort to physical force to remove Adrian? It clearly had the paperwork all ready to go, and was willing to authorise payment - __after__ his eviction.
 
-Southwark has behaved vindictively: Adrian and other leaseholders have fought long and hard to get a just amount for their homes. Homes they did not want to leave in an area where they can now no longer live. Unfortunately their battle was without success, but it was too much for Southwark who had to explain themselves at length at the [CPO public inquiry in Feb 2013](http://betterelephant.org/blog/2013/07/18/regeneration-branded-miserable-failure-at-cpo-public-inquiry/), when amongst many other embarrassing facts it was revealed that only 45 Heygate residents have been rehoused in new homes at the Elephant. 
+Southwark has behaved vindictively: Adrian and other leaseholders have fought long and hard to get a just amount for their homes. Homes they did not want to leave in an area where they can now no longer live. Unfortunately their battle was without success, but it was too much for Southwark who had to explain themselves at length at the [CPO public inquiry in Feb 2013](http://betterelephant.github.io/blog/2013/07/18/regeneration-branded-miserable-failure-at-cpo-public-inquiry/), when amongst many other embarrassing facts it was revealed that only 45 Heygate residents have been rehoused in new homes at the Elephant. 
 
 
 ## Leaseholders beware

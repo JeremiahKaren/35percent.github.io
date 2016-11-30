@@ -65,7 +65,7 @@ __Mara Ferreri__ - Queen Mary University of London
 
 
 Other witnesses giving evidence in support of the objectors included members of 
-local groups [Better Elephant](http://betterelephant.org/) and the [Elephant 
+local groups [Better Elephant](http://betterelephant.github.io/) and the [Elephant 
 Amenity Network](http://elephantamenity.wordpress.com/), Catherine Croft from 
 the Twentieth Century Society and Tim Tinker the original Heygate architect. 
 

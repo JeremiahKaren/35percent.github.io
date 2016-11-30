@@ -19,7 +19,7 @@ In response to an enquiry as to what housing might be available should leasehold
 
 <iframe width="420" height="315" src="//www.youtube.com/embed/7SsoCxnluv4" frameborder="0" allowfullscreen></iframe>
 
-This is a very long way from [__'NEW HOMES FOR HEYGATE'__](http://betterelephant.org/images/new_homes_for_heygate.pdf) where every resident on the estate - whether tenant or leaseholder - was promised a new home in one of 16 replacement housing sites. 
+This is a very long way from [__'NEW HOMES FOR HEYGATE'__](http://betterelephant.github.io/images/new_homes_for_heygate.pdf) where every resident on the estate - whether tenant or leaseholder - was promised a new home in one of 16 replacement housing sites. 
 
 ![](http://betterelephant.github.com/images/newhomesforheygate.jpg)
 
@@ -27,7 +27,7 @@ It is worth remembering exactly what was promised:
 
 <a href="http://heygate.github.io/img/Appendix8.pdf"><img src="http://heygate.github.io/img/HeygateNews.jpg" width="300" height="200" align="right" style="margin: 10px; float: right"></a>
 
-Leaseholders were <a href="http://heygate.github.io/img/HeygateLeaseholderPolicy2005.pdf">originally offered</a> a <a href="/images/HeygateLeaseholderToolkit.pdf">shared equity option</a> on buying a new home in one of <a href="http://betterelephant.org/images/new_homes_for_heygate.pdf">16 replacement housing sites</a> and the new-build Heygate homes[^1]. But despite reaching the point of being <a href="http://heygate.github.io/img/ChooseYourNewHome.pdf">asked to choose</a> what kind of layout they preferred for their new homes, the shared equity option never got written into the final agreements with the developers of the sites, and no leaseholders were able to move into any of the replacement housing sites or the new Heygate homes.
+Leaseholders were <a href="http://heygate.github.io/img/HeygateLeaseholderPolicy2005.pdf">originally offered</a> a <a href="/images/HeygateLeaseholderToolkit.pdf">shared equity option</a> on buying a new home in one of <a href="http://betterelephant.github.io/images/new_homes_for_heygate.pdf">16 replacement housing sites</a> and the new-build Heygate homes[^1]. But despite reaching the point of being <a href="http://heygate.github.io/img/ChooseYourNewHome.pdf">asked to choose</a> what kind of layout they preferred for their new homes, the shared equity option never got written into the final agreements with the developers of the sites, and no leaseholders were able to move into any of the replacement housing sites or the new Heygate homes.
 
 When asked at the recent CPO public inquiry why leaseholders didn't get the new homes that they had been promised, the council's lead officer replied _"I don't know, I wasn't employed by the council at the time the promises were made. But the new homes will be open for anybody to purchase and I am sure Lend Lease will be happy to sell to anybody."_: 
 

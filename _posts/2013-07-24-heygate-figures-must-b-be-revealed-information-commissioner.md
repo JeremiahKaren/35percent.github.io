@@ -9,7 +9,7 @@ Southwark Council has been ordered to disclose the financial viability assessmen
 
 A [Freedom of Information request](https://www.whatdotheyknow.com/request/viability_assessment_for_plannin#incoming-304798) for the viability assessment was rejected by Southwark Council, but the council's decision has now been overturned by the Information Commissioner who has given Southwark 35 days to produce the assessment. 
 
-The [Commissioner's report](http://betterelephant.org/images/HeygateFOICommissionersReport.pdf) is a closely argued and detailed 35-page document. It draws upon previous decisions made both by the Commissioner and the Information Tribunal to come to its conclusions.
+The [Commissioner's report](http://betterelephant.github.io/images/HeygateFOICommissionersReport.pdf) is a closely argued and detailed 35-page document. It draws upon previous decisions made both by the Commissioner and the Information Tribunal to come to its conclusions.
 
 ![](http://crappistmartin.github.io/images/HeygateFOICommissionersReport.png)
 
@@ -38,20 +38,20 @@ The Commissioner also considered that the disposal of the land and its sale pric
 ## A LANDMARK DECISION?
 Southwark can demonstrate its commitment to transparency and accountability by accepting the Commissioner's decision without further ado. There will be more viability assessments submitted in the future - local councillors, planning committee members, and members of the general public must be able to see them, particularly if council policy is not being fulfilled. It is ridiculous that the masterplan planning application was passed blind by the planning committee - it dents Southwark Council and Lend Lease's credibility, and local people's confidence in the regeneration process.
 
-The South London Press [reports](http://betterelephant.org/images/SouthLondonPress23July2013.pdf) that Southwark maintains that the assessment should not be made public and that it is __"seeking further advice to determine its best course of action"__. Every one of our elected councillors - regardless of which party they are in - should say different and insist that the viability assessment is released without further delay.  
+The South London Press [reports](http://betterelephant.github.io/images/SouthLondonPress23July2013.pdf) that Southwark maintains that the assessment should not be made public and that it is __"seeking further advice to determine its best course of action"__. Every one of our elected councillors - regardless of which party they are in - should say different and insist that the viability assessment is released without further delay.  
 
 >"With the increasing outsourcing of public services and disposal of public assets to private partners or third parties, the Commissioner considers that there is a growing need for transparency and accountability in authorities’ decision-making and expenditure, not least because many parties which authorities conduct business with will not themselves be subject to the EIR or FOIA." __(Information Commissioner's Report, Paragraph 171)__
 
 __Footnotes:__
 
-[^1]: <a href="http://betterelephant.org/images/HeygateFOICommissionersReport.pdf">Information Commissioner's Report</a>, Paragraph 171.
+[^1]: <a href="http://betterelephant.github.io/images/HeygateFOICommissionersReport.pdf">Information Commissioner's Report</a>, Paragraph 171.
 
-[^2]: <a href="http://betterelephant.org/images/HeygateFOICommissionersReport.pdf">Information Commissioner's Report</a>, Paragraph 172.
+[^2]: <a href="http://betterelephant.github.io/images/HeygateFOICommissionersReport.pdf">Information Commissioner's Report</a>, Paragraph 172.
 
-[^3]: <a href="http://betterelephant.org/images/HeygateFOICommissionersReport.pdf">Information Commissioner's Report</a>, Paragraph 168.
+[^3]: <a href="http://betterelephant.github.io/images/HeygateFOICommissionersReport.pdf">Information Commissioner's Report</a>, Paragraph 168.
 
-[^4]: <a href="http://betterelephant.org/images/HeygateFOICommissionersReport.pdf">Information Commissioner's Report</a>, Paragraph 169.
+[^4]: <a href="http://betterelephant.github.io/images/HeygateFOICommissionersReport.pdf">Information Commissioner's Report</a>, Paragraph 169.
 
-[^5]: <a href="http://betterelephant.org/images/HeygateFOICommissionersReport.pdf">Information Commissioner's Report</a>, Paragraph 104.
+[^5]: <a href="http://betterelephant.github.io/images/HeygateFOICommissionersReport.pdf">Information Commissioner's Report</a>, Paragraph 104.
 
-[^6]: <a href="http://betterelephant.org/images/HeygateFOICommissionersReport.pdf">Information Commissioner's Report</a>, Paragraph 105.
+[^6]: <a href="http://betterelephant.github.io/images/HeygateFOICommissionersReport.pdf">Information Commissioner's Report</a>, Paragraph 105.

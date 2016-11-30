@@ -20,7 +20,7 @@ Companies like Savills offer a [premium service](http://www.savills.co.uk/servic
 
 Viability reports are confidential, they are not made public and even members of the planning committee do not see them. They have to rely on the recommendation of planning officers (who in turn rely upon an assessment by the District Valuer’s Service).
 
-So the [Information Commissioner's decision](http://betterelephant.org/images/HeygateFOICommissionersReport.pdf) to order the release of Lend Lease's viability report for the Heygate masterplan is a significant one. He particularly emphasises the importance of transparency in planning matters, and the need to maintain public confidence in the authority's decisions. 
+So the [Information Commissioner's decision](http://betterelephant.github.io/images/HeygateFOICommissionersReport.pdf) to order the release of Lend Lease's viability report for the Heygate masterplan is a significant one. He particularly emphasises the importance of transparency in planning matters, and the need to maintain public confidence in the authority's decisions. 
 
 Southwark is [committed to transparency](http://www.youtube.com/watch?v=sbSCIuaLFQ4&feature=share&list=UU1yTdlADczSqDS-DsEliI8A), it must now accept the Commissioner's decision and release the report. 
 

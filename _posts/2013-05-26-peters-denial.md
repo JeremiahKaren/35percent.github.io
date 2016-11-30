@@ -37,13 +37,13 @@ In the same interview, Cllr John also paints a rosy picture of the rehousing of 
 
 
 ## Returning to Nowhere
-Cllr John also mentions the ['right to return'](http://betterelephant.org/images/righttoreturn.pdf) in his interview. This supposedly enables former Heygate residents to return to the new properties on the Heygate estate.
+Cllr John also mentions the ['right to return'](http://betterelephant.github.io/images/righttoreturn.pdf) in his interview. This supposedly enables former Heygate residents to return to the new properties on the Heygate estate.
 
 This was only offered to the secure tenants on the estate (only around 600 by the time of the decant in 2007). It expires on 30 Sep 2015. Only 8 social rented units and only 54 affordable units of any kind will be built by then. Above all, there will only be 79 social rented units in the whole development - whenever it is finished. 
 
 Leaseholders won't fare any better: the levels of compensation offered for their homes does not allow them to buy in the area, let alone at the prices quoted for [Trafalgar Place](http://trafalgarplace.com/) - the first phase of the new Heygate - which start at £310,000 for a one bedroom flat. 
 
-Worst off of all were the insecure tenants. Southwark stopped issuing secure tenancies in January 2001, and [by 2007](http://betterelephant.org/images/HeygateActionPlan.pdf) there were over 400 insecure tenants. By the [time of the decant](http://moderngov.southwark.gov.uk/Data/Housing%20Scrutiny%20Committee/20080123/Agenda/December%2011update.pdf) there were still around 300 temporary tenants. These were not given the right to return option at all.
+Worst off of all were the insecure tenants. Southwark stopped issuing secure tenancies in January 2001, and [by 2007](http://betterelephant.github.io/images/HeygateActionPlan.pdf) there were over 400 insecure tenants. By the [time of the decant](http://moderngov.southwark.gov.uk/Data/Housing%20Scrutiny%20Committee/20080123/Agenda/December%2011update.pdf) there were still around 300 temporary tenants. These were not given the right to return option at all.
 
 All in all, it doesn't matter what kind of resident you were, the chances of you getting back on the Heygate are very very small.
 
