@@ -61,7 +61,6 @@ Its August 2016 financial report confirms that the completed phase 1 of the Heyg
 
 The above report also shows that Lendlease had presold 69% of its apartments in phase 3 (West Grove) off plan, netting it $435m (£260m) before construction had barely started.
 
-## North of £100m
 In an [interview](link to blog) with Australian national broadcaster ABC, council leader peter John claimed that he thinks the Council will receive _"north of £100m"_ from its profit share deal with Lendlease and that he understood that profits would be shared in stages as the development proceeds. 
 
 We made an FOI request for the yearly audit report provided by Lendlease to the Council, which [showed](http://35percent.org/2016-05-11-no-profit-share-the-true-value-of-the-heygate-regeneration/) that _"no profit overage is currently forecast to be payable to Southwark Council"_.
@@ -72,19 +71,21 @@ We made an FOI request for the yearly audit report provided by Lendlease to the 
 ## Key figures and documents still witheld
 Southwark Council continues to withold key figures and documents relating to its deal with Lendlease. We call on the Council to stop hiding behind the mask of commercial confidentiality and publish the following documents without delay:
 
+1. [The professional advice](https://www.whatdotheyknow.com/request/financial_advice_on_signing_rege) that the Council leader received from external consultants on signing the regeneration agreement.
+
+2. The missing appendices of the [regeneration agreement](https://southwarknotes.files.wordpress.com/2013/02/ra.pdf) between Southwark and Lendlease.
+
+3. A full undredacted copy of the [District Valuer's report](http://crappistmartin.github.io/images/DVSreport_HeygateOutline.pdf).
+
+4. A full unredacted copy of the most recent [Annual Business Plan/Audit report](https://www.whatdotheyknow.com/request/heygate_estate_regeneration_annu)
+
+The last item on the list contains the following cash flow forecast, showing key information about the development account which is key to understanding whether there will be any ovreage for the Council.
 ![](/img/RAcashflowforecast.png)
 *Redacted cash flow forecast showing the development account actuals*
 
-![FOI request](https://www.whatdotheyknow.com/request/financial_advice_on_signing_rege#incoming-840903) for consultant's advice to the Council on signing the regeneration agreement.
+## Contractual agreement already breached
+Despite a policy requirement of 35%, the [Regeneration Agreement](http://southwarknotes.files.wordpress.com/2013/02/ra.pdf) signed by the council leader in 2010 stipulated that Lendlease was to provide _"A minimum of 25 per cent Affordable Housing"_(pg 95), which is _"to be divided equally between Social Rented Housing and Intermediate Affordable Housing"_(page 1). However, when the planning application was submitted in Jan 2013, it propsed 25% affordable housing but Lendlease had substituted most of the social rent component for [affordable rent](http://www.theguardian.com/housing-network/2014/feb/03/affordable-housing-meaning-rent-social-housing) of up to 80% market on the grounds of financial viability.
 
-
-
-## Contractual agreement breached
-Despite a policy requirement of 35%, the [Regeneration Agreement](http://southwarknotes.files.wordpress.com/2013/02/ra.pdf) signed by the council leader in 2010 stipulated that Lendlease was to provide _"A minimum of 25 per cent Affordable Housing"_(pg 95), which is _"to be divided equally between Social Rented Housing and Intermediate Affordable Housing"_(page 1). However, when the planning application was submitted in Jan 2013, it propsed 25% affordable housing but Lendlease had substituted most of the social rent component for [affordable rent](http://www.theguardian.com/housing-network/2014/feb/03/affordable-housing-meaning-rent-social-housing) of up to 80% market on the grounds of financially viability.
-
-As a result, of the 2,704 new homes on the Heygate, 198 will be intermediate 'affordable rent', 316 shared ownership and just 82 will be social rented. This is a breach of the terms of the contractual agreement with Lendlease, which would have provided for 432 social rented units had it been adhered to. The pitiful 82 social rented homes provided, fall well short of the [500 new homes promised](/affordable-housing/) to Heygate residents who had been offered the 'right to return' to the estate.[^9] 
-
-## Cooking the books
 <img src="http://crappistmartin.github.io/images/guardianviabilityassessment.png" align="left" width="300" style="margin:10px">In 2015, after a three year Tribunal battle by Lendlease and Southwark to prevent its disclosure, the 35% campaign [succeeded](http://crappistmartin.github.io/blog/2015/06/25/heygate-viability-assessment-finally-revealed/) in obtaining a [copy](/collated-viability-assessments) of the viability assessment submitted by Lendlease to justify the reductions in its affordable 
 housing offer.  
 
@@ -92,6 +93,8 @@ The figures [showed](http://www.theguardian.com/cities/2015/jun/25/london-develo
 
 
 <iframe width="350" height="197" src="https://www.youtube.com/embed/4Niw5_OaLu0" frameborder="0" allowfullscreen></iframe>
+
+As a result, of the 2,704 new homes on the Heygate, 198 will be intermediate 'affordable rent', 316 shared ownership and just 82 will be social rented. This is a breach of the terms of the contractual agreement with Lendlease, which would have provided for 432 social rented units had it been adhered to. The pitiful 82 social rented homes provided, fall well short of the [500 new homes promised](/affordable-housing/) to Heygate residents who had been offered the 'right to return' to the estate.[^9] 
 
 
 ## Dining out
