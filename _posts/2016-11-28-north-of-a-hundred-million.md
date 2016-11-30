@@ -17,56 +17,66 @@ src="https://www.youtube.com/embed/3ZrDvxOAV5A" align="center" frameborder="0"
 allowfullscreen></iframe>
 
 ABC reporter Steve Cannane also published his full 20min interview with Cllr 
-John, in which he made a number of fanciful claims about the deal he signed 
-with Australian developer Lendlease:
+John, in which he made a number of claims about the deal he signed 
+with Australian developer Lendlease just weeks after taking up office in 2010:
 
 <iframe width="400" height="225" 
 src="https://www.youtube.com/embed/gq_QpqIArGg" align="center" frameborder="0" 
 allowfullscreen></iframe>
 
-To anyone who has been following the Heygate saga, these claims would 
-immediately suspicious. We show here the reality behind some of the 
-'perceptions' put forward in Cllr John's claims:
+To anyone who has been following the Heygate saga, these claims would immediately suspicious. It may be a while since Councillor John signed the regeneration agreement with Lendlease, but as a [barrister]() in property law we would have expected him to have remembered a few of the details of the agreement governing one of London's largest public/private partnership developments. To help jog his memory we have outlined some of the key details of the [contractual agreement]() Cllr John signed with Lendlease.
 
-## North of £100m profit overage
->"I believe the Council will receive north of £100m profit from the deal"
+![](http://www.london-se1.co.uk/news/imageuploads/1280161383_62.49.27.213.jpg)
+*Cllr John signing the regeneration agrement with Lendlease's CEO in July 2010*
 
-__Factcheck:__ Under the terms of the [regeneration agreement] that Cllr John 
-signed with Lendlease, Lendlease is required to submit an 'annual business 
-plan' to the Council on an annual basis, which outlines the current cashflow 
-position of the development as well as any profit overage estimated to be due.  
-The most recent annual statement shows clearly that no overage is due to the 
-Council:
+* Councillor John argues that the Council will receive a share of the 'overage' profits from Lendlease. But the regeneration agreement and [this Council briefing paper](/img/heygate_disposal_briefing.pdf) confirm that overage is only payable once the development is fully completed in 2025. Furthermore, the overage profit share arrangement only applies to profit surpluses over and above Lendlease's ringfenced 20% "Priority Return" plus a 2.6% "Management Fee"[^6], which was criticised by the [District Valuer's review](http://crappistmartin.github.io/images/DVSreport_HeygateOutline.pdf) of the figures and described as 'additional profit'.
+
+![](/img/DVSreport_managementfee.png)
+*Extract from the [DVS's review](http://crappistmartin.github.io/images/DVSreport_HeygateOutline.pdf) on the Heygate figures*
+
+During the interview, Cllr John claims that _"20-25% is a normal profit margin for developments in London"_. However, the Council's own review of the scheme by the [District Valuer]() questioned this profit level and pointed out that most schemes average out below 15%:
+
+![](/img/DVSacceptablereturn.png)
+*Extract from the [DVS's review](http://crappistmartin.github.io/images/DVSreport_HeygateOutline.pdf) on the Heygate figures*
+
+* The amount of 'overage' payable (if any) is calculated by Lendlease, which has a track record for accounting disputes over such agreements; in April 2012 it was [fined](http://www.nytimes.com/2012/04/25/nyregion/lend-lease-expected-to-admit-to-fraud-scheme.html) $56m for overbilling authorities on a major public works contract in New York; in Dec 2012 it was [sued](http://www.smh.com.au/nsw/valuation-dispute-poses-threat-to-1b-return-from-barangaroo-20121206-2ay9e.html) by city authorities over its calculation of overage on a similar size regeneration scheme in Sydney (which the authorities [lost](http://www.smh.com.au/nsw/barangaroo-public-works-in-doubt-after-government-loses-court-battle-with-lend-lease-20140821-106lke.html)); and in 2014 it was embroiled in a [High Court battle](http://www.pitcher.com.au/news/lend-lease-decision-impact-property-development-arrangements) with authorities over the terms of a development contract in Northern Australia.
+
+## Record profits
+In the six months up to February 2016, Lendlease [reported record profits](http://www.afr.com/real-estate/commercial/lendlease-firsthalf-net-profit-rises-121pc-to-354-million-20160216-gmvxux) of $354m(£192m), which it [claims](http://www.smh.com.au/business/property/lendlease-reports-a-3538-million-profit-20160216-gmvo2z.html) were partly down to _“strong sales momentum at residential projects at Victoria Harbour in Melbourne and Elephant & Castle in London”._
+
+Its August 2016 financial report confirms that the completed phase 1 of the Heygate (Trafalgar Place) turned a profit in 2016 and that phases two and three (South Gardens and West Grove) are due to turn a profit in 2018/19.
+
+![](/img/llprofitprofile.png)
+*Extract from Lendlease's [financial report Aug 2016](/img/LLfinancialreport_aug2016.pdf)*
+
+The above report also shows that Lendlease had presold 69% of its apartments in phase 3 (West Grove) off plan, netting it $435m (£260m) before construction had barely started.
+
+During the interview Cllr John claimed that he believes the Council will receive _"north of £100m"_ from its profit share deal with Lendlease and that he understood that profits would be shared in stages as the development proceeds.
+
+We made an FOI request for the yearly audit report provided by Lendlease to the Council, which [showed](http://35percent.org/2016-05-11-no-profit-share-the-true-value-of-the-heygate-regeneration/) that _"no profit overage is currently forecast to be payable to Southwark Council"_.
 
 ![](http://35percent.org/img/ElephantParkBusinessPlanFeb2016.png)
-*Extract from Annual Business Plan Feb 2016*
+*Extract from the business plan report received in response to our [FOI request](https://www.whatdotheyknow.com/request/heygate_estate_regeneration_annu)*
 
->"20-25% is a normal profit margin for developments in London"
+## Key figures and documents still witheld
+During the interview Cllr John claims that he has been open and transparent about his deal with Lendlease. However, the Council continues to withold key figures and documents relating to its deal with Lendlease. We call on the Council to stop hiding behind the mask of commercial confidentiality and publish the following documents without delay:
 
-This is not true. The district valuer who reviewed Lendlease's viability assessment, said that 15% was the normal profit margin assumed by developers. The Council is currently negotiating a development agreement 
-with British land for the redevelopment of Canada Water, in which 15% is the agreed profit level. Why did Cllr John allow Lendlease to assume a much higher profit level.
+1. [The professional advice](https://www.whatdotheyknow.com/request/financial_advice_on_signing_rege) that the Council leader received from external consultants on signing the regeneration agreement.
 
-If he really does subscribe to openness and accountability in his dealings with 
-developers, we ask Cllr John to publish the following:
+2. The missing appendices of the [regeneration agreement](https://southwarknotes.files.wordpress.com/2013/02/ra.pdf) between Southwark and Lendlease.
 
-1. The advice he received from external consultants on signing the regeneration 
-   agreement.
+3. A full undredacted copy of the [District Valuer's report](http://crappistmartin.github.io/images/DVSreport_HeygateOutline.pdf).
 
-2. The appendices of the regeneration agreement itself.
+4. A full unredacted copy of the most recent [Annual Business Plan/Audit report](https://www.whatdotheyknow.com/request/heygate_estate_regeneration_annu)
 
-3. The regeneration agreement for the Aylesbury estate, which the Council is 
-   continuing to withhold.
+The last item on the list contains the following cash flow forecast, showing key information about the development account which is key to understanding whether there will be any overage for the Council.
+![](/img/RAcashflowforecast.png)
+*Redacted cash flow forecast showing the development account actuals*
 
-4. Undisclosed DVS report
 
-5. Annual Business Plan/Audit report
 
-6. Viability Assessment for One the Elephant
 
-The following annual report shows Lendlease reported a profit from Trafalgar Place in 2016:
-http://www.lendlease.com/-/media/llcom/investor-relations/asx-announcements/2016/19082016-asx_full-year-results-announcement.ashx
 
-[LL financial report Aug 2016](/img/lendleasefinancialreport_aug2016.pdf)
 
 ## 11000 new council homes
 Cllr John brushes off criticism with his usual spiel about how Southwark has 

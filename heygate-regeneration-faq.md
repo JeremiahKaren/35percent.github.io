@@ -79,7 +79,7 @@ Southwark Council continues to withold key figures and documents relating to its
 
 4. A full unredacted copy of the most recent [Annual Business Plan/Audit report](https://www.whatdotheyknow.com/request/heygate_estate_regeneration_annu)
 
-The last item on the list contains the following cash flow forecast, showing key information about the development account which is key to understanding whether there will be any ovreage for the Council.
+The last item on the list contains the following cash flow forecast, showing key information about the development account which is key to understanding whether there will be any overage for the Council.
 ![](/img/RAcashflowforecast.png)
 *Redacted cash flow forecast showing the development account actuals*
 
@@ -92,7 +92,7 @@ housing offer.
 The figures [showed](http://www.theguardian.com/cities/2015/jun/25/london-developers-viability-planning-affordable-social-housing-regeneration-oliver-wainwright) how Lendlease had cooked the books to make the development look unviable and thereby negotiate down its affordable housing obligations. 
 
 
-<iframe width="350" height="197" src="https://www.youtube.com/embed/4Niw5_OaLu0" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4Niw5_OaLu0" frameborder="0" allowfullscreen></iframe>
 
 As a result, of the 2,704 new homes on the Heygate, 198 will be intermediate 'affordable rent', 316 shared ownership and just 82 will be social rented. This is a breach of the terms of the contractual agreement with Lendlease, which would have provided for 432 social rented units had it been adhered to. The pitiful 82 social rented homes provided, fall well short of the [500 new homes promised](/affordable-housing/) to Heygate residents who had been offered the 'right to return' to the estate.[^9] 
 
@@ -103,13 +103,13 @@ The topic has been taken up on a BBC Politics show by local activist Peter Tatch
 
 Council leader Peter John has also been grilled by Australian national broadcaster ABC, in an interview about the Heygate redevelopment. The following interview was part of the following [report by ABC](http://www.abc.net.au/news/2016-11-11/homes-for-profit-not-people./8019560), which was broadcast on australian television:
 
-<iframe width="400" height="225"
+<iframe width="560" height="315"
 src="https://www.youtube.com/embed/3ZrDvxOAV5A" align="center" frameborder="0"
 allowfullscreen></iframe>
 
 ABC reporter Steve Cannane also published his full 20min interview with Cllr John, in which he made a number of fanciful claims about the deal he signed with Australian developer Lendlease:
 
-<iframe width="400" height="225"
+<iframe width="560" height="315"
 src="https://www.youtube.com/embed/gq_QpqIArGg" align="center" frameborder="0"
 allowfullscreen></iframe>
 
