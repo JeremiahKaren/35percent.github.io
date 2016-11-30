@@ -66,7 +66,7 @@ During the interview Cllr John claims that he has been open and transparent abou
 
 4. A full unredacted copy of the most recent [Annual Business Plan/Audit report](https://www.whatdotheyknow.com/request/heygate_estate_regeneration_annu)
 
-The last item on the list contains the following cash flow forecast, showing key information about the development account which is key to understanding whether there will be any overage for the Council.
+The last item on the list contains the following cash flow forecast, showing the key inflows and outflows to the development account which is key to understanding whether there will be any overage for the Council.
 ![](/img/RAcashflowforecast.png)
 *Redacted cash flow forecast showing the development account actuals*
 
@@ -76,7 +76,7 @@ During the interview Cllr John was questioned on the integrity of accepting gift
 ![](http://farm9.staticflickr.com/8244/8637497136_d25afc426a.jpg)
 
 
-If Cllr John wants us to believe that he is being honest and open about the deal he signed with Lendlease then the figures must be published. If Cllr John believes that the profit share agreement will net the Council over 100m from Lendlease then he should show us that this forecast is based in fact and not just a figure plucked out of thin air. As we pointed out in a [previous blog post](http://35percent.org/2016-05-11-no-profit-share-the-true-value-of-the-heygate-regeneration/#advised-by-experts), the Council was advised on signing the regeneration agreement by a consultant that happens to be Lendlease's principal legal advisor. It's time for the Council to publish what advice it was given and come clean with all the other figures that it continues to withold.
+If Cllr John wants us to believe that he is being honest and open about the deal he signed with Lendlease then the figures must be published. If Cllr John believes that the profit share agreement will net the Council over 100m from Lendlease then he should show us that this forecast is based in fact and not just a figure plucked out of thin air. As we pointed out in a [previous blog post](http://35percent.org/2016-05-11-no-profit-share-the-true-value-of-the-heygate-regeneration/#advised-by-experts), that the Council was advised on signing the regeneration agreement by a consultant that also happens to be Lendlease's principal legal advisor. It's time for the Council to publish what advice it was given and come clean with all the other key figures it continues to withold.
   
 ![](http://www.london-se1.co.uk/news/imageuploads/1280161383_62.49.27.213.jpg)
 *Cllr John with Lendlease CEO Dan Labbad signing the regeneration agrement in July 2010*
