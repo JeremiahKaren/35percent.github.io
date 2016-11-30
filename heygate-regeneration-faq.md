@@ -5,17 +5,17 @@ sharing: true
 footer: true
 ---
 ## Affordable Housing
-There is an entire [page here](/affordable-housing) charting the broken promises of replacement affordable housing on the Heygate estate and how the quota was slowly chipped away at as the regeneration proceeded.  
+There is an [entire page here](/affordable-housing) charting the broken promises of replacement affordable housing on the new Heygate, showing how just 82 of the 2,704 new homes will be for social rent.  
 
 
 ## Environment/Public Realm
 <img src="/img/energy_envrnmtl-services_lge.gif" width="300" align="left" style="margin:10px">Likewise, there is an entire [page here](/sustainable-development) charting the broken promises of replacement public realm and original 'zero carbon' biomass energy objectives of the regeneration.
-It also looks at the overall 'green' credentials of the scheme and shows how the entire Elephant & Castle regeneration footprint is going to be privately managed space.  
+It also looks at the overall 'green' credentials of the Heygate scheme and shows how the entire footprint is going to be privately managed space.  
 
 ## Decant Costs
 * In July 2007, Southwark Council valued its 25 acre Heygate site at £150m[^1]. The estate comprised 1,212 council homes of which 189 were leaseholders.
 
-* The Council spent a total of £51.4m emptying the estate and this figure doesn't include lost rental income or general costs associated with progressing the scheme[^2]. The breakdown provided in [this briefing report](/img/heygate_disposal_briefing.pdf) to is as follows:
+* The Council spent a total of £51.4m emptying the estate - and this figure doesn't include lost rental income or administration costs associated with progressing the scheme[^2]. The breakdown provided in [this briefing report](/img/heygate_disposal_briefing.pdf) to is as follows:
 
 | Cost  | Amount  |
 |---|---|
@@ -35,7 +35,7 @@ It also looks at the overall 'green' credentials of the scheme and shows how the
 ![](http://www.london-se1.co.uk/news/imageuploads/1280161383_62.49.27.213.jpg)
 *Cllr John signing the regeneration agrement with Lendlease's CEO in July 2010*
 
-* Councillor John argues that the Council will receive a share of the 'overage' profits. But the regeneration agreement and [this Council briefing paper](/img/heygate_disposal_briefing.pdf) confirm that this is only payable once the development is fully completed in 2025. Furthermore, this 'overage' profit share arrangement only applies to profit surpluses after Lendlease has pocketed a 20% "Priority Return" plus a 2.6% "Management Fee"[^6], which was criticised by the [District Valuer's review](http://crappistmartin.github.io/images/DVSreport_HeygateOutline.pdf) of the figures and described as 'additional profit'.
+* Councillor John argues that the Council will receive a share of the 'overage' profits from Lendlease. But the regeneration agreement and [this Council briefing paper](/img/heygate_disposal_briefing.pdf) confirm that overage is only payable once the development is fully completed in 2025. Furthermore, the overage profit share arrangement only applies to profit surpluses over and above Lendlease's ringfenced 20% "Priority Return" plus a 2.6% "Management Fee"[^6], which was criticised by the [District Valuer's review](http://crappistmartin.github.io/images/DVSreport_HeygateOutline.pdf) of the figures and described as 'additional profit'.
 
 ![](/img/DVSreport_managementfee.png)
 *Extract from the [DVS's review](http://crappistmartin.github.io/images/DVSreport_HeygateOutline.pdf) on the Heygate figures* 
@@ -51,28 +51,29 @@ The District Valuer also questioned Lendlease's excessive profit level and point
 
 * Southwark has argued that it will receive other contributions from Lendlease. But these are standard s106 obligations that all developers must deliver to mitigate the impact of a given development. This figure includes a £13m [local transport levy](http://www.planningportal.gov.uk/general/news/stories/2011/nov11/171111/171111_3) payment towards the [£160m cost](http://www.london-se1.co.uk/news/view/5293) of increasing capacity at the Northern Line tube station. The remainder consists mainly of benefits in kind: £24.9m is the 'estimated' value of the new ['public' park](/sustainable-development/) being built by Lendlease and £7.5m is the estimated value of new roads being built within the development.[^8]
 
-![](/img/RAcashflowforecast.png)
-*Redacted cash flow forecast showing the development account actuals*
-
-This year Lendlease [reported record profits](http://www.afr.com/real-estate/commercial/lendlease-firsthalf-net-profit-rises-121pc-to-354-million-20160216-gmvxux) of $354m(£192m) in the 6 months to February 2016, which it [claims](http://www.smh.com.au/business/property/lendlease-reports-a-3538-million-profit-20160216-gmvo2z.html) are partly down to _“strong sales momentum at residential projects at Victoria Harbour in Melbourne and Elephant & Castle in London”._
+## Record profits
+In the six months up to February 2016, Lendlease [reported record profits](http://www.afr.com/real-estate/commercial/lendlease-firsthalf-net-profit-rises-121pc-to-354-million-20160216-gmvxux) of $354m(£192m), which it [claims](http://www.smh.com.au/business/property/lendlease-reports-a-3538-million-profit-20160216-gmvo2z.html) were partly down to _“strong sales momentum at residential projects at Victoria Harbour in Melbourne and Elephant & Castle in London”._
 
 Its August 2016 financial report confirms that the completed phase 1 of the Heygate (Trafalgar Place) turned a profit in 2016 and that phases two and three (South Gardens and West Grove) are due to turn a profit in 2018/19.  
 
 ![](/img/llprofitprofile.png)
 *Extract from Lendlease's [financial report Aug 2016](/img/LLfinancialreport_aug2016.pdf)*
 
-The financial statements also show that Lendlease has presold 69% of its apartments in phase 3 (West Grove) off plan, netting it $435m (£260m) before construction has barely started.
+The above report also shows that Lendlease had presold 69% of its apartments in phase 3 (West Grove) off plan, netting it $435m (£260m) before construction had barely started.
 
 ## North of £100m
-In an [interview](link to blog) with Australian national broadcaster ABC, council leader peter John claimed that the Council will receive _"north of £100m"_ from its profit share deal with Lendlease. 
+In an [interview](link to blog) with Australian national broadcaster ABC, council leader peter John claimed that he thinks the Council will receive _"north of £100m"_ from its profit share deal with Lendlease and that he understood that profits would be shared in stages as the development proceeds. 
 
-However, we made an FOI request for the yearly audit report, which [showed](http://35percent.org/2016-05-11-no-profit-share-the-true-value-of-the-heygate-regeneration/) that _"no profit overage is currently forecast to be payable to Southwark Council"_.
+We made an FOI request for the yearly audit report provided by Lendlease to the Council, which [showed](http://35percent.org/2016-05-11-no-profit-share-the-true-value-of-the-heygate-regeneration/) that _"no profit overage is currently forecast to be payable to Southwark Council"_.
 
 ![](http://35percent.org/img/ElephantParkBusinessPlanFeb2016.png)
 *Extract from the business plan report received in response to our [FOI request](https://www.whatdotheyknow.com/request/heygate_estate_regeneration_annu)*
 
 ## Key figures and documents still witheld
-Southwark Council continues to withold key figures and documents relating to its deal with Lendlease. We call on the Council to stop hiding behind the mask of commercial confidentiality and public the following documents without delay:
+Southwark Council continues to withold key figures and documents relating to its deal with Lendlease. We call on the Council to stop hiding behind the mask of commercial confidentiality and publish the following documents without delay:
+
+![](/img/RAcashflowforecast.png)
+*Redacted cash flow forecast showing the development account actuals*
 
 ![FOI request](https://www.whatdotheyknow.com/request/financial_advice_on_signing_rege#incoming-840903) for consultant's advice to the Council on signing the regeneration agreement.
 
