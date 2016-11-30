@@ -16,19 +16,17 @@ which was broadcast on australian television:
 src="https://www.youtube.com/embed/3ZrDvxOAV5A" align="center" frameborder="0" 
 allowfullscreen></iframe>
 
-ABC reporter Steve Cannane also published his full 20min interview with Cllr John, in which he made a number of claims about the deal he signed with Australian developer Lendlease just weeks after taking up office in 2010:
+ABC reporter Steve Cannane has also published his full 20min interview with Cllr John, in which he defends the terms of the (shotgun) deal he [signed](http://www.london-se1.co.uk/news/view/4712) with Australian developer Lendlease just weeks after taking up office in 2010:
 
 <iframe width="400" height="225" 
 src="https://www.youtube.com/embed/gq_QpqIArGg" align="center" frameborder="0" 
 allowfullscreen></iframe>
 
-To anyone who has been following the Heygate saga, these claims would immediately suspicious. It may be a while since Councillor John signed the regeneration agreement with Lendlease, but as a [barrister](http://fivepaper.com/profiles/peter-john/) in property law we would have expected him to have remembered a few of the details of the [contractual agreement](https://southwarknotes.files.wordpress.com/2013/02/ra.pdf) he signed, governing one of London's largest public/private partnership deals. To help jog his memory we have outlined some of the key details of the regeneration agreement.
+To anyone who has been following the Heygate saga, several of the claims made by Cllr John during the interview are factually incorrect and misleading. It may be a while since Councillor John signed the regeneration agreement, but as a [barrister](http://fivepaper.com/profiles/peter-john/) in property law we would have expected him to have remembered a few of the details of the [contractual agreement](https://southwarknotes.files.wordpress.com/2013/02/ra.pdf) he signed, governing one of London's largest public/private partnership deals. To help jog his memory we have outlined some of the key details of the regeneration agreement.
 
-![](http://www.london-se1.co.uk/news/imageuploads/1280161383_62.49.27.213.jpg)
-*Cllr John with Lendlease CEO Dan Labbad signing the regeneration agrement in July 2010*
 
 ## The profit share agreement
-* Councillor John argues that the Council will receive a share of the 'overage' profits from Lendlease. But the regeneration agreement and [this Council briefing paper](/img/heygate_disposal_briefing.pdf) confirm that overage is only payable once the development is fully completed in 2025. Furthermore, the overage profit share arrangement only applies to profit surpluses over and above Lendlease's ringfenced 20% "Priority Return" plus a 2.6% "Management Fee"[^6], which was criticised by the [District Valuer's review](http://crappistmartin.github.io/images/DVSreport_HeygateOutline.pdf) of the figures and described as 'additional profit'.
+During the interview, Councillor John argues that the Council will receive a share of the 'overage' profits from Lendlease. But the regeneration agreement and [this Council briefing paper](/img/heygate_disposal_briefing.pdf) confirm that overage is only payable once the development is fully completed in 2025. Furthermore, the overage profit share arrangement only applies to profit surpluses over and above Lendlease's ringfenced 20% "Priority Return" plus a 2.6% "Management Fee"[^6], which was criticised by the [District Valuer's review](http://crappistmartin.github.io/images/DVSreport_HeygateOutline.pdf) of the figures and described as 'additional profit'.
 
 ![](/img/DVSreport_managementfee.png)
 *Extract from the [DVS's review](http://crappistmartin.github.io/images/DVSreport_HeygateOutline.pdf) on the Heygate figures*
@@ -71,6 +69,19 @@ During the interview Cllr John claims that he has been open and transparent abou
 The last item on the list contains the following cash flow forecast, showing key information about the development account which is key to understanding whether there will be any overage for the Council.
 ![](/img/RAcashflowforecast.png)
 *Redacted cash flow forecast showing the development account actuals*
+
+## Revolving doors
+During the interview Cllr John was questioned on the integrity of accepting gifts and a trip to the South of France from Lendlease and whether it was right for senior Council officers to go on to work for Lendlease. Councillor John failed to give a direct response and instead muttered something about perception not always being reality. For the avoidance of any doubt we have published [here](http://35percent.org/revolving-doors/) the details of the senior officers who have gone on to work for Lendlease. 
+
+![](http://farm9.staticflickr.com/8244/8637497136_d25afc426a.jpg)
+
+
+If Cllr John wants us to believe that he is being honest and open about the deal he signed with Lendlease then the figures must be published. If Cllr John believes that the profit share agreement will net the Council over 100m from Lendlease then he should show us that this forecast is based in fact and not just a figure plucked out of thin air. As we pointed out in a [previous blog post](http://35percent.org/2016-05-11-no-profit-share-the-true-value-of-the-heygate-regeneration/#advised-by-experts), the Council was advised on signing the regeneration agreement by a consultant that happens to be Lendlease's principal legal advisor. It's time for the Council to publish what advice it was given and come clean with all the other figures that it continues to withold.
+  
+![](http://www.london-se1.co.uk/news/imageuploads/1280161383_62.49.27.213.jpg)
+*Cllr John with Lendlease CEO Dan Labbad signing the regeneration agrement in July 2010*
+
+
 
 
 
