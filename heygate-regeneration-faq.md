@@ -96,22 +96,22 @@ The figures [showed](http://www.theguardian.com/cities/2015/jun/25/london-develo
 
 As a result, of the 2,704 new homes on the Heygate, 198 will be intermediate 'affordable rent', 316 shared ownership and just 82 will be social rented. This is a breach of the terms of the contractual agreement with Lendlease, which would have provided for 432 social rented units had it been adhered to. The pitiful 82 social rented homes provided, fall well short of the [500 new homes promised](/affordable-housing/) to Heygate residents who had been offered the 'right to return' to the estate.[^9] 
 
-
-## Dining out
-![](http://crappistmartin.github.io/images/private-eye-southwark-council-developers.png)
-
-In July 2014, council leader Peter John came under criticism for dining with developers and accepting an all-expenses paid trip to international property fair [MIPIM](http://www.theguardian.com/commentisfree/2014/oct/14/yacht-cannes-selling-homes-local-government-officials-mipim) in Cannes, paid for by Lendlease. (more details [here](http://embed.verite.co/timeline/?source=0Aprl6XcACewydEhRaWFOLVBfUjBSVW1HUGVZNEhGeFE&font=Bevan-PotanoSans&maptype=toner&lang=en&hash_bookmark=true&start_zoom_adjust=2&height=650#33))
-
-
-## Postscript update
-The Council has issued a [press statement](http://www.southwark.gov.uk/news/article/1785/setting_the_record_straight_the_true_value_of_the_elephant_and_castle_regeneration) claiming that it will receive "hundreds of millions" from the Heygate profit overage deal. But when we [asked](http://crappistmartin.github.io/blog/2015/12/20/heygate-sell-off-how-much-are-we-getting/) for a copy of its most recent audit report showing how much overage it expects, it claimed it hadn't received any audit reports - despite it being a requirement of the regeneration agreement. 
-The topic was taken up on a BBC Politics show by local ctivist Peter Tatchell:  
+## Media coverage
+The topic has been taken up on a BBC Politics show by local activist Peter Tatchell:  
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Emvo16iBxFE" frameborder="0" allowfullscreen></iframe>
 
-Subsequently, in May 2016, Southwark [conceded](http://35percent.org/2016-05-11-no-profit-share-the-true-value-of-the-heygate-regeneration/) that following the overage profit calculations for the first completed phase of the development, it would not be receiving a penny in overage.
+Council leader Peter John has also been grilled by Australian national broadcaster ABC, in an interview about the Heygate redevelopment. The following interview was part of the following [report by ABC](http://www.abc.net.au/news/2016-11-11/homes-for-profit-not-people./8019560), which was broadcast on australian television:
 
-![](/img/noprofit.png)
+<iframe width="400" height="225"
+src="https://www.youtube.com/embed/3ZrDvxOAV5A" align="center" frameborder="0"
+allowfullscreen></iframe>
+
+ABC reporter Steve Cannane also published his full 20min interview with Cllr John, in which he made a number of fanciful claims about the deal he signed with Australian developer Lendlease:
+
+<iframe width="400" height="225"
+src="https://www.youtube.com/embed/gq_QpqIArGg" align="center" frameborder="0"
+allowfullscreen></iframe>
 
 
 __Footnotes:__
