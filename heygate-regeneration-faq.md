@@ -51,35 +51,36 @@ In Feb 2013, Southwark's Cabinet Member for Regeneration admitted in a local pre
 
 Southwark has argued that it will receive other contributions from Lendlease. But these are standard s106 obligations that all developers must deliver to mitigate the impact of a given development. This figure includes a £13m [local transport levy](http://www.planningportal.gov.uk/general/news/stories/2011/nov11/171111/171111_3) payment towards the [£160m cost](http://www.london-se1.co.uk/news/view/5293) of increasing capacity at the Northern Line tube station. The remainder consists mainly of benefits in kind: £24.9m is the 'estimated' value of the new ['public' park](/sustainable-development/) being built by Lendlease and £7.5m is the estimated value of new roads being built within the development.[^8]
 
-## Record profits
-In the six months up to February 2016, Lendlease [reported record profits](http://www.afr.com/real-estate/commercial/lendlease-firsthalf-net-profit-rises-121pc-to-354-million-20160216-gmvxux) of $354m(£192m), which it [claims](http://www.smh.com.au/business/property/lendlease-reports-a-3538-million-profit-20160216-gmvo2z.html) were partly down to _“strong sales momentum at residential projects at Victoria Harbour in Melbourne and Elephant & Castle in London”._
-
-Its August 2016 financial report confirms that the completed phase 1 of the Heygate (Trafalgar Place) turned a profit in 2016 and that phases two and three (South Gardens and West Grove) are due to turn a profit in 2018/19.  
-
-![](/img/llprofitprofile.png)
-*Extract from Lendlease's [financial report Aug 2016](/img/LLfinancialreport_aug2016.pdf)*
-
-The above report also shows that Lendlease had presold 69% of its apartments in phase 3 (West Grove) off plan, netting it $435m (£260m) before construction had barely started.
-
-In an [interview](link to blog) with Australian national broadcaster ABC, council leader peter John claimed that he thinks the Council will receive _"north of £100m"_ from its profit share deal with Lendlease and that he understood that profits would be shared in stages as the development proceeds. 
+In an [interview](https://youtu.be/gq_QpqIArGg) with Australian national broadcaster ABC, council leader peter John claimed that he thinks the Council will receive _"north of £100m"_ from its profit share deal with Lendlease and that he understood that profits would be shared in stages as the development proceeds.
 
 We made an FOI request for the yearly audit report provided by Lendlease to the Council, which [showed](http://35percent.org/2016-05-11-no-profit-share-the-true-value-of-the-heygate-regeneration/) that _"no profit overage is currently forecast to be payable to Southwark Council"_.
 
 ![](http://35percent.org/img/ElephantParkBusinessPlanFeb2016.png)
 *Extract from the business plan report received in response to our [FOI request](https://www.whatdotheyknow.com/request/heygate_estate_regeneration_annu)*
 
+## Record profits
+In the six months up to February 2016, Lendlease [reported record profits](http://www.afr.com/real-estate/commercial/lendlease-firsthalf-net-profit-rises-121pc-to-354-million-20160216-gmvxux) of $354m(£192m), which it [claims](http://www.smh.com.au/business/property/lendlease-reports-a-3538-million-profit-20160216-gmvo2z.html) were partly down to _“strong sales momentum at residential projects at Victoria Harbour in Melbourne and Elephant & Castle in London”._
+
+Its [August 2016 financial report](/img/LLfinancialreport_aug2016.pdf) confirms that the completed phase 1 of the Heygate (Trafalgar Place) turned a profit in 2016 and that phases two and three (South Gardens and West Grove) are due to turn a profit in 2018/19.  
+
+![](/img/llprofitprofile.png)
+*Extract from Lendlease's [financial report Aug 2016](/img/LLfinancialreport_aug2016.pdf)*
+
+The report also shows that Lendlease had presold 69% of its apartments in phase 3 (West Grove) off plan, netting it $435m (£260m) before construction had barely started.
+
+
 ## Key figures and documents still witheld
 Southwark Council continues to withold key figures and documents relating to its deal with Lendlease. We call on the Council to stop hiding behind the mask of commercial confidentiality and publish the following documents without delay:
 
-1. [The professional advice](https://www.whatdotheyknow.com/request/financial_advice_on_signing_rege) that the Council leader received from external consultants on signing the regeneration agreement.
+1. [The professional advice](https://www.whatdotheyknow.com/request/financial_advice_on_signing_rege) that the Council received from external consultants on signing the regeneration agreement.
 
-2. The missing appendices of the [regeneration agreement](https://southwarknotes.files.wordpress.com/2013/02/ra.pdf) between Southwark and Lendlease.
+2. The unpublished appendices of the [regeneration agreement](https://southwarknotes.files.wordpress.com/2013/02/ra.pdf) between Southwark and Lendlease.
 
 3. A full undredacted copy of the [District Valuer's report](http://crappistmartin.github.io/images/DVSreport_HeygateOutline.pdf).
 
 4. A full unredacted copy of the most recent [Annual Business Plan/Audit report](https://www.whatdotheyknow.com/request/heygate_estate_regeneration_annu)
 
-The last item on the list contains the following cash flow forecast, showing key information about the development account which is key to understanding whether there will be any overage for the Council.
+The last item on the list contains the following cash flow forecast showing key cash inflows and outflows to the development account, which are key to understanding whether there will be any overage for the Council.
 ![](/img/RAcashflowforecast.png)
 *Redacted cash flow forecast showing the development account actuals*
 
