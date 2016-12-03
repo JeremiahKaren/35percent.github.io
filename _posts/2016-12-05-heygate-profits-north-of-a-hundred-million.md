@@ -3,7 +3,7 @@ layout: post
 title: "Fact-checking Cllr John's claims about the Heygate redevelopment"
 subtitle: "Council leader Peter John claims the Heygate deal will provide the 
 Council with 'North of £100m profit'"
-published: false
+published: true
 ---
 Southwark Council leader Peter John has been grilled by Australian national broadcaster 
 ABC, about the Heygate redevelopment in a report [broadcast](http://www.abc.net.au/news/2016-11-11/homes-for-profit-not-people./8019560) on Australian prime time television.
@@ -59,9 +59,12 @@ During the interview Cllr John was also asked about accepting gifts and a paid t
 
 ![](http://farm9.staticflickr.com/8244/8637497136_d25afc426a.jpg)
 ## Key documents still witheld
-Cllr John makes a big claim for Southwark's commitment to transparency, but in reality the Council continues to withold key figures and documents relating to the deal. Cllr John says that Southwark will be getting a share of the Elephant Park profits 'north of £100m', when all the available evidence is to the contrary. If Cllr John knows something that we and the people of Southwark don't know, he should tell us. Southwark should also publish a full unredacted copy of the most recent [Annual Business Plan](https://www.whatdotheyknow.com/request/heygate_estate_regeneration_annu), showing the inflows and outflows to the development account and is key to understanding whether there will be any overage for the Council.
+Cllr John makes a big claim for Southwark's commitment to transparency, but in reality the Council continues to withold key figures and documents relating to the deal. Cllr John says that Southwark will be getting a share of the Elephant Park profits 'north of £100m', when all the available evidence is to the contrary. If Cllr John knows something that we and the people of Southwark don't know, he should tell us. In particular, Southwark should publish a full unredacted copy of the most recent [Annual Business Plan](https://www.whatdotheyknow.com/request/heygate_estate_regeneration_annu). This shows the inflows and outflows to the development and whether there will be any overage for the Council.
 
-Southwark should publish the following documents without delay
+![](/img/RAcashflowforecast.png)
+*Redacted cash flow forecast showing the development account actuals*
+
+In addition, Southwark should publish:
 
 1. [The professional advice](https://www.whatdotheyknow.com/request/financial_advice_on_signing_rege) that the Council received from external consultants on signing the regeneration agreement.
 
@@ -69,27 +72,9 @@ Southwark should publish the following documents without delay
 
 3. A full undredacted copy of the [District Valuer's report](http://crappistmartin.github.io/images/DVSreport_HeygateOutline.pdf).
 
-The last item on the list contains the following cash flow forecast, 
-
-
-
-
-
-
-If Cllr John wants us to believe that he is being honest and open about the deal with Lendlease then then he must publish the remaining documents witheld. If Cllr John believes that the profit share agreement will net the Council over 100m from Lendlease then he should show us that this forecast is based in fact and not just a figure plucked out of thin air.
-
-As we pointed out in a [previous blog post](http://35percent.org/2016-05-11-no-profit-share-the-true-value-of-the-heygate-regeneration/#advised-by-experts), the Council was advised on signing the regeneration agreement by a consultant which also happens to be Lendlease's principal legal advisor. It's time for the Council to publish the supposedly 'independnet' advice it was given and come clean with all the other key figures it continues to withold.
   
 ![](http://www.london-se1.co.uk/news/imageuploads/1280161383_62.49.27.213.jpg)
 *Cllr John with Lendlease CEO Dan Labbad signing the regeneration agrement in July 2010*
-
-## 11000 new council homes
-During the interview, Cllr John brushes off criticism concerning the loss of social housing on the Heygate, with the claim that Southwark has got the country's largest council house building programme, with a target of building 11,000 new council homes over the next 30 years (366 per year).  
-However, [data just published by the 
-government](https://medium.com/@lukewbarratt/fact-checking-hackney-mayor-philip-glanville-on-social-housing-b3ceeeaf53e3#.149mqus0q) shows that during the last 12 months Southwark built just 74 new council homes. At this rate it will be 149 years before it reaches its target of 11,000 new council homes.
-  
-[Government 
-data](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/568423/LiveTable_123.xls) shows that in the same year it demolished 410 homes. 
 
 
 __Footnotes:__
