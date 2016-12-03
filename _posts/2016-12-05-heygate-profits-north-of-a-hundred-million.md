@@ -1,27 +1,26 @@
 ---
 layout: post
-title: "Fact-checking Cllr John's claims about the Heygate redevelopment"
-subtitle: "Council leader Peter John claims the Heygate deal will provide the 
-Council with 'North of £100m profit'"
+title: "Heygate profit - north of the facts"
+subtitle: "Council leader Peter John claims Heygate deal will provide Council with _'north of £100m profit'_"
 published: true
 ---
-Southwark Council leader Peter John has been grilled by Australian national broadcaster 
-ABC, about the Heygate redevelopment in a report [broadcast](http://www.abc.net.au/news/2016-11-11/homes-for-profit-not-people./8019560) on Australian prime time television.
+Council leader Peter John claimed that Southwark Council would be getting _"north of £100m"_ from the Heygate estate's redevelopment as 'Elephant Park'. He made the claim while being grilled by Australian national broadcaster 
+ABC, in a report [broadcast](http://www.abc.net.au/news/2016-11-11/homes-for-profit-not-people./8019560) on Australian prime time television.
 
 <iframe width="400" height="225" 
 src="https://www.youtube.com/embed/3ZrDvxOAV5A" align="center" frameborder="0" 
 allowfullscreen></iframe>
 
-ABC reporter Steve Cannane has also posted his full 20min interview with Cllr John online, in which Cllr John defends the (shotgun) deal he [signed](http://www.london-se1.co.uk/news/view/4712) with Australian developer Lendlease just weeks after being elected in 2010.
+ABC reporter Steve Cannane has also posted his full 20min interview with Cllr John online, in which Cllr John defends the shotgun deal he [signed](http://www.london-se1.co.uk/news/view/4712) with Australian developer Lendlease just weeks after being elected in 2010.
 
 <iframe width="400" height="225" 
 src="https://www.youtube.com/embed/gq_QpqIArGg" align="center" frameborder="0" 
 allowfullscreen></iframe>
 
-Cllr John make a number of unsubstantiated or inaccurate claims which will be familiar to those who have followed the Heygate saga. 
+Cllr John made a number of unsubstantiated or inaccurate claims which will be familiar to those who have followed the Heygate saga. 
 
 ## No profit for Southwark
-Cllr John says that Southwark will receive a share of the profits _"north of £100m"_, but we won't know exactly how much until the development, now known as Elephant Park is completed in 2025. The 35% Campaign is glad to help Cllr John on this point. We have received the 2016 Elephant Park Business Plan in response to an [FOI request](https://www.whatdotheyknow.com/request/heygate_estate_regeneration_annu) and this baldly [states](http://35percent.org/2016-05-11-no-profit-share-the-true-value-of-the-heygate-regeneration/) that _"no profit overage is currently forecast to be payable to Southwark Council"_, adding for good measure _"previous plan reported nil overage payable"_ too.
+While Cllr John says that Southwark will receive _"north of £100m"_, he says he cannot say exactly how much this will be until the deveolpment is complete in 2025. The 35% Campaign is glad to help Cllr John on this point. We have received the 2016 Elephant Park Business Plan in response to an [FOI request](https://www.whatdotheyknow.com/request/heygate_estate_regeneration_annu) and this baldly [states](http://35percent.org/2016-05-11-no-profit-share-the-true-value-of-the-heygate-regeneration/) that _"no profit overage is currently forecast to be payable to Southwark Council"_, adding for good measure _"previous plan reported nil overage payable"_ too.
 
 ![](http://35percent.org/img/ElephantParkBusinessPlanFeb2016.png)
 *Extract from the business plan report received in response to our [FOI request](https://www.whatdotheyknow.com/request/heygate_estate_regeneration_annu)*
