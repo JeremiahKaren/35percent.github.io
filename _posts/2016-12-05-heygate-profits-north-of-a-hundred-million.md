@@ -35,12 +35,12 @@ Not so, according to the regeneration agreement (see paragraphs 6.1.1 of schedul
 ## Some further points to be noted about Southwark's overage profit share.
 Southwark will be getting only 50% of the profit above Lendlease's ringfenced 20% "Priority Return" plus its 2.6% "Management Fee"[^1]. The management fee was criticised by the [District Valuer's review](http://crappistmartin.github.io/images/DVSreport_HeygateOutline.pdf) of the viability assessment figures, which he described as 'additional profit'.
 
-![](/img/DVSreport_managementfee.png)
+![](http://35percent.org/img/DVSreport_managementfee.png)
 *Extract from the [DVS's review](http://crappistmartin.github.io/images/DVSreport_HeygateOutline.pdf) on the Heygate figures*
 
 Cllr John claims that _"20-25% is a normal profit margin for developments in London"_. However, again the [District Valuer](https://www.gov.uk/government/organisations/district-valuer-services-dvs/about) questioned this profit level and pointed out that most schemes at the time averaged below 15%:
 
-![](/img/DVSacceptablereturn.png)
+![](http://35percent.org/img/DVSacceptablereturn.png)
 *Extract from the [DVS's review](http://crappistmartin.github.io/images/DVSreport_HeygateOutline.pdf) on the Heygate figures*
 
 Lendlease has a track record of accounting disputes with public authorities. In April 2012 it was [fined](http://www.nytimes.com/2012/04/25/nyregion/lend-lease-expected-to-admit-to-fraud-scheme.html) $56m for overbilling on a major public works contract in New York and in December 2012 it was [sued](http://www.smh.com.au/nsw/valuation-dispute-poses-threat-to-1b-return-from-barangaroo-20121206-2ay9e.html) by city authorities over its calculation of overage on the Barangaroo regeneration scheme in Australia, a case the Sydney authority [lost](http://www.smh.com.au/nsw/barangaroo-public-works-in-doubt-after-government-loses-court-battle-with-lend-lease-20140821-106lke.html)). In 2014 it was embroiled in a [High Court battle](http://www.pitcher.com.au/news/lend-lease-decision-impact-property-development-arrangements) with the Victoria Urban Development Authority in Northern Australia.
@@ -52,7 +52,7 @@ For the six months up to Feb 2016, Lendlease has [reported record profits](http:
 
 Its [August 2016 financial report](/img/LLfinancialreport_aug2016.pdf) confirmed that the completed phase 1 of the Heygate (Trafalgar Place) turned a profit in 2016 and that phases two and three (South Gardens and West Grove) are also due to turn a profit in 2018/19.
 
-![](/img/llprofitprofile.png)
+![](http://35percent.org/img/llprofitprofile.png)
 *Extract from Lendlease's [financial report Aug 2016](/img/LLfinancialreport_aug2016.pdf)*
 
 The report also shows that Lendlease had presold 69% of its apartments in phase 3 (West Grove) off plan, netting it $435m (£260m) while construction had barely started. 
@@ -67,7 +67,7 @@ Cllr John claims a big commitment to transparency, but the Council continues to 
 
 If Cllr John knows something that we and the people of Southwark don't know, he should tell us. In particular, Southwark should publish a full unredacted copy of the most recent [Annual Business Plan](https://www.whatdotheyknow.com/request/heygate_estate_regeneration_annu). This shows the inflows and outflows to the development and can tell us whether there will be any overage for the Council.
 
-![](/img/RAcashflowforecast.png)
+![](http://35percent.org/img/RAcashflowforecast.png)
 *Redacted cash flow forecast showing the development account actuals*
 
 In addition, Southwark should publish:
