@@ -4,23 +4,23 @@ title: "Heygate profit - north of the facts"
 subtitle: "Council leader Peter John claims Heygate deal will provide Council with 'north of £100m profit'"
 published: true
 ---
-Council leader Peter John claimed that Southwark Council would be getting _"north of £100m"_ from the Heygate estate's redevelopment as 'Elephant Park'. He made the claim while being grilled by Steve Cananne of Australian national broadcaster 
+Council leader Peter John has claimed that Southwark Council will be getting _"north of £100m"_ from the Heygate estate's redevelopment as ['Elephant Park'](http://www.elephantpark.co.uk). He made the claim while being grilled by Steve Cananne of Australian national broadcaster 
 ABC, in a report [broadcast](http://www.abc.net.au/news/2016-11-11/homes-for-profit-not-people./8019560) on Australian prime time television.
-
+<center>
 <iframe width="400" height="225" 
 src="https://www.youtube.com/embed/3ZrDvxOAV5A" align="center" frameborder="0" 
 allowfullscreen></iframe>
-
+</center>
 In the full 20min interview with Cllr John posted online, Cllr John defends the shotgun deal he [signed](http://www.london-se1.co.uk/news/view/4712) with Australian developer Lendlease just weeks after being elected in 2010.
-
+<center>
 <iframe width="400" height="225" 
 src="https://www.youtube.com/embed/gq_QpqIArGg" align="center" frameborder="0" 
 allowfullscreen></iframe>
-
-Cllr John makes a number of unsubstantiated or inaccurate claims which will be familiar to those who have followed the Heygate saga. 
+</center>
+During the interview, Cllr John makes a number of unsubstantiated or inaccurate claims which will be familiar to those who have followed the Heygate saga. 
 
 ## No profit for Southwark
-While claiming that Southwark will receive _"north of £100m"_, Cllr John says he cannot say exactly how much this will be, until the deveolpment is complete in 2025. The 35% Campaign is glad to help Cllr John on this point. We have received the 2016 Elephant Park Business Plan in response to an [FOI request](https://www.whatdotheyknow.com/request/heygate_estate_regeneration_annu) and this baldly [states](http://35percent.org/2016-05-11-no-profit-share-the-true-value-of-the-heygate-regeneration/) that _"no profit overage is currently forecast to be payable to Southwark Council"_, adding for good measure the _"previous plan reported nil overage payable"_.
+While claiming that Southwark will receive _"north of £100m"_, Cllr John says he cannot say exactly how much this will be, until the development is complete in 2025. The 35% Campaign is glad to help Cllr John on this point. We have received the 2016 Elephant Park Business Plan in response to an [FOI request](https://www.whatdotheyknow.com/request/heygate_estate_regeneration_annu) and this baldly [states](http://35percent.org/2016-05-11-no-profit-share-the-true-value-of-the-heygate-regeneration/) that _"no profit overage is currently forecast to be payable to Southwark Council"_, adding for good measure the _"previous plan reported nil overage payable"_.
 
 ![](http://35percent.org/img/ElephantParkBusinessPlanFeb2016.png)
 *Extract from the business plan report received in response to our [FOI request](https://www.whatdotheyknow.com/request/heygate_estate_regeneration_annu)*
@@ -30,7 +30,7 @@ Southwark will continue to receive these reports every year, because of entirely
 Cllr John also claims that profit would be shared in stages as the development proceeds.
 Not so, according to the regeneration agreement (see paragraphs 6.1.1 of schedule 5 and the bottom of page 83). Lendlease also removes any doubt that payment will not be until 2025, with its statement to ABC: 
 
->"quote from LL"
+>"We are currently three years into an estimated 12-year build programme and the overage calculation will be undertaken after the completion of the whole development, not after each phase." 
 
 ## Some further points to be noted about Southwark's overage profit share.
 Southwark will be getting only 50% of the profit above Lendlease's ringfenced 20% "Priority Return" plus its 2.6% "Management Fee"[^1]. The management fee was criticised by the [District Valuer's review](http://crappistmartin.github.io/images/DVSreport_HeygateOutline.pdf) of the viability assessment figures, which he described as 'additional profit'.
