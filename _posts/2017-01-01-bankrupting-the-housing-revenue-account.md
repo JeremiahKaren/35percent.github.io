@@ -27,3 +27,4 @@ government](https://medium.com/@lukewbarratt/fact-checking-hackney-mayor-philip-
 [Government 
 data](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/568423/LiveTable_123.xls) shows that in the same year it demolished 410 homes. 
 
+/img/cllrjohn_michaelheseltine.jpg

@@ -4,6 +4,10 @@ title: "Enter the title of the blog post here"
 subtitle: "Enter the subtitle of the blog post here"
 published: false
 ---
+Cllr Williams has claimed that the regeneration is paying for the new Elephant and Castle leisure centre. We show that this is not the case:
+/img/sundaytimes4thNov2016.pdf
+/img/sundaytimes4thNov2016.png
+
 ## S106 contributions
 Go through S106 agreements for Elephant & Castle and sum up the total S106 
 contributions for 
