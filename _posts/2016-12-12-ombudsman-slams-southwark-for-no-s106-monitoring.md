@@ -8,7 +8,7 @@ The Local Government Ombudsman has issued a [damning judgement](/img/LGOFinalDec
 
 ![](/img/LGOFinalDecisionSOR.png)
 
-The decision came in response to a lengthy investigation, which was triggered as the result of us [referring](http://35percent.org/img/Ombudsman18July2016.pdf) our [Dec 2015 corporate complaint](/img/ccomplaint15Dec2016.pdf) to the Ombudsman after Southwark [refused](/img/complaintresponseMWilliams.pdf) to commit to the internal investigation and audit we demanded.
+The decision came in response to a lengthy investigation, which was triggered as the result of us [referring](http://35percent.org/img/Ombudsman18July2016.pdf) our [Dec 2015 corporate complaint](/img/ccomplaint15Dec2016.pdf) after Southwark initially [refused](/img/complaintresponseMWilliams.pdf) to commit to the internal investigation and audit we demanded.
 
 In his decision notice, the Ombudsman said that:
 
@@ -29,12 +29,12 @@ Our complaint came about as a result of our [discovery](http://35percent.org/201
 ![](/img/bspaexchange.png)
 *Notting Hill's "The Exchange" - 205 unit Bermondsey Spa redevelopment*
 
-We raised the issue of the Bermondsey Spa tenure switch and S106 compliance monitoring during the Aylesbury estate CPO public inquiry in April/May 2015. We were assured by the Council that it had robust compliance monitoring procedures in place and there was no chance of Notting Hill pulling the same trick on the Aylesbury estate. 
+We raised the issue of the Bermondsey Spa tenure switch and S106 compliance monitoring during the Aylesbury estate CPO public inquiry in April/May 2015. We were assured by the Council that it had robust compliance monitoring procedures in place and there was no possibility of Notting Hill pulling the same trick with its redevelopment of the Aylesbury estate. 
 
 ![](/img/CPO_ExplanatoryNote12May2015.png)
 *[Inquiry document 27](http://crappistmartin.github.io/images/CPO_ExplanatoryNote12May2015.pdf) - evidence submitted by the Council to the CPO public inquiry, 12/05/2015*
 
-The Council submitted evidence to the inquiry, claiming that it has robust procedures in place and that it monitored compliance of S106 affordable housing provision every 12-18 months. However, having refused to provide further details of its monitoring procedures, we were unconvinced and decided to undertake some further investigation.
+The Council submitted evidence to the inquiry, claiming that it has robust procedures in place and that it monitored compliance of S106 affordable housing provision every 12-18 months. However, having refused to provide further details of its monitoring procedures, we were unconvinced and decided to undertake further investigation.
 
 By cross-checking planning committee reports, section 106 agreements, Land Registry information, the [GLA affordable housing outturn dataset](http://data.london.gov.uk/dataset/gla-affordable-housing-programme-outturn/resource/0c87e5dc-f1e9-4edf-b246-bef6b40a9ba3) and [CORE lettings data](https://core.communities.gov.uk/), we managed to compile a long (but by no means exhaustive) [list](http://35percent.org/img/section106_tenure_breaches.pdf) of breaches in tenure provision. Here are a few of the instances we found:
 
@@ -45,7 +45,7 @@ However, when the Greater London Authority published its [affordable housing out
 
 ![](http://crappistmartin.github.io/images/coloramagladata.png)
 
-The scheme (now branded the ['Chroma Buildings'](http://www.fabrica.co.uk/The-Chroma-Buildings)) has completed and new residents moved in. Needless to say, these won't number any of those on the Council's waiting list who are desperately in need of social rented housing. 
+The scheme (now branded the ['Chroma Buildings'](http://www.fabrica.co.uk/The-Chroma-Buildings)) has completed and new residents moved in. Needless to say, these won't number any of those on the Council's waiting list who cannot afford anything other than social rented housing. 
 
 ![](http://crappistmartin.github.io/images/colorama_chroma.jpg)
 
@@ -77,9 +77,17 @@ This development was built on the site of a former old people's home. The Counci
 
 ![](/img/royalroad.jpg)
 
+## 430 Old Kent Road SE1 5AG - (Family Mosaic development)
+This is one of the [Neo-Bankside](/neo-bankside) off-site affordable housing sites, which according to Southwark's [planning committee report](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!siQ3eaBQc4N16%2bb1RFDnxQ%3d%3d!%7d%7d%7d) (11/AP/0138) approved 22 social rented units, but the GLA dataset shows that these have been delivered by Family Mosaic at affordable rents of up to 49% market rent.
 
+![](/img/430okr.png)
+*430 Old Kent Road*
 
+## Silwood estate regeneration Site 4B (11/AP/0139)
+This is yet another Notting Hill Housing association redevelopment of a council estate. It was supposed to provide 22 social rented homes as part of its [redevelopment of the Silwood estate](/silwood-estate-regeneration) involving the demolition of 57 council homes and construction of 127 new homes. The the definition of social rented in the section 106 agreement is worded as affordable rent and the [CORE lettings data system](https://core.communities.gov.uk/) shows that only 19 units have been let at social rent levels. 
 
+![](/img/silwoodstreet.png)
+*Redeveloped Silwood estate*
 
 
 
