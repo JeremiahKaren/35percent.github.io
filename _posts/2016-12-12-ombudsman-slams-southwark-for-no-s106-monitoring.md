@@ -4,13 +4,13 @@ title: "Ombudsman slams Southwark - no monitoring of social housing provision"
 subtitle: "Local Government Ombudsman finds that.."
 published: false
 ---
-The Local Government Ombudsman has issued a [damning judgement](/img/LGOFinalDecisionSOR.pdf), slamming Southwark for having no procedures to ensure that levels of affordable housing agreed by the Council's planning committee are actually delivered. 
+The Local Government Ombudsman has issued a [damning judgement](http://35percent.org/img/LGOFinalDecisionSOR.pdf), slamming Southwark for having no procedures to ensure that levels of affordable housing agreed by the Council's planning committee are actually delivered. 
 
-![](/img/LGOFinalDecisionSOR.png)
+![](http://35percent.org/img/LGOFinalDecisionSOR.png)
 
-The decision came in response to a lengthy investigation, which was triggered as the result of us [referring](http://35percent.org/img/Ombudsman18July2016.pdf) our [Dec 2015 corporate complaint](/img/ccomplaint15Dec2016.pdf) after Southwark initially [refused](/img/complaintresponseMWilliams.pdf) to commit to the internal investigation and audit we demanded.
+The decision came in response to a lengthy investigation, which was triggered as the result of us [referring](http://35percent.org/img/Ombudsman18July2016.pdf) our [Dec 2015 corporate complaint](http://35percent.org/img/ccomplaint15Dec2016.pdf) after Southwark initially [refused](http://35percent.org/img/complaintresponseMWilliams.pdf) to commit to the internal investigation and audit we demanded.
 
-In his decision notice, the Ombudsman said that:
+In his [decision notice](http://35percent.org/img/LGOFinalDecisionSOR.pdf), the Ombudsman said that:
 
 >In response to my enquiries the Council says it is taking legal action in response to several of the breaches identified by Mr X. It also accepts it did not have a systematic supervision procedure to check compliance. It relied on developers’ voluntary compliance. (para. 12)
 
@@ -26,11 +26,11 @@ Southwark charges developers a 2% administration fee on the sum total of financi
 ## Background
 Our complaint came about as a result of our [discovery](http://35percent.org/2015-03-18-stand-up-for-more-social-housing/) in March 2015, that Notting Hill Housing Association had delivered affordable rented homes at up to 62% market rent, instead of social rent which had been the tenure agreed in the planning consent for the Bermondsey Spa regeneration. Here, permission had been granted for the demolition of a number of Council homes and the construction of 205 new homes, of which 44 were to be social rent. 
 
-![](/img/bspaexchange.png)
+![](http://35percent.org/img/bspaexchange.png)
 
 We raised the issue of the Bermondsey Spa tenure switch and S106 compliance monitoring during the Aylesbury estate CPO public inquiry in April/May 2015. We were assured by the Council that it had robust compliance monitoring procedures in place and there was no possibility of Notting Hill pulling the same trick with its redevelopment of the Aylesbury estate. 
 
-![](/img/CPO_ExplanatoryNote12May2015.png)
+![](http://35percent.org/img/CPO_ExplanatoryNote12May2015.png)
 *[Inquiry document 27](http://crappistmartin.github.io/images/CPO_ExplanatoryNote12May2015.pdf) - evidence submitted by the Council to the CPO public inquiry, 12/05/2015*
 
 The Council submitted evidence to the inquiry, claiming that it has robust procedures in place and that it monitored compliance of S106 affordable housing provision every 12-18 months. However, having refused to provide further details of its monitoring procedures, we were unconvinced and decided to undertake further investigation.
@@ -39,7 +39,7 @@ By cross-checking planning committee reports, section 106 agreements, Land Regis
 
 ## Colorama buildings
 
-![](/img/colorama_chroma.jpg)
+![](http://35percent.org/img/colorama_chroma.jpg)
 
 This redevelopment of the former [Colorama film processing warehouse](http://35percent.org/colorama/) in SE1 was completed in April 2016. The [planning report](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!Zz6kQSuw9WcG1eGU1VRSAg%3d%3d!%7d%7d%7d) for the application said that the redevelopment would provide a total of 19 social rented habitable rooms.  
 
@@ -51,43 +51,43 @@ The scheme (now branded the ['Chroma Buildings'](http://www.fabrica.co.uk/The-Ch
 
 ## 143-149 Rye Lane/1-15 Bournemouth Road Peckham - SE15 4ST 
 
-![](/img/landqryelane.png)
+![](http://35percent.org/img/landqryelane.png)
 
 Southwark's [planning committee report](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!yP1lK1SBYnvpeezqHiCudA%3d%3d!%7d%7d%7d) (06/AP/0995) approved 61 new homes of which 7 should have been social rented units, but the GLA dataset shows that these have been delivered by London & Quadrant as affordable rents of between 74% and 78% market rent.
 
 ## 32 Crosby Row SE1 3PT
 
-![](/img/crosbyrow.png)
+![](http://35percent.org/img/crosbyrow.png)
 
 Southwark's [planning committee report](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!gKqBYbE9RsCLZlddMhjvOA%3d%3d!%7d%7d%7d) (11/AP/0140) approved the [demolition](http://www.london-se1.co.uk/news/view/5235) of St Hugh's church on Crosby Row and the construction of 22 new homes, which should have included 5 social rented units. But the GLA dataset shows that these have been delivered by Family Mosaic as affordable rent at up to 57% of market rent.
 
 ## 177-184 Grange Road, Bermondsey (Linden Homes Ltd)
 
-![](/img/177-184GrangeRoad.png)
+![](http://35percent.org/img/177-184GrangeRoad.png)
 
 The [planning committee report](http://moderngov.southwark.gov.uk/documents/s21421/Item%201%20report.pdf) (11/AP/1390) for this development approved 38 new homes, of which 9 were supposed to be social rented units. The GLA data shows that these have been delivered by Leicester Housing Association as affordable rents of up to 52% market rent.
 
 ## 34-42 Grange Road, Bermondsey (Bellway Homes)
 
-![](/img/twistgrangeroad.png)
+![](http://35percent.org/img/twistgrangeroad.png)
 
 Southwark's [planning committee report](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!zsXhZcwMT4Yjxyeq6tsl1w%3d%3d!%7d%7d%7d) (11/AP/3251) approved 41 new homes of which 8 social rented, but the GLA dataset shows that these have been delivered by Leicester Housing Association at affordable rents of up to 52% market rent.
 
 ## Royal Road, Kennington (09/AP/2388)
 
-![](/img/royalroad.jpg)
+![](http://35percent.org/img/royalroad.jpg)
 
 This development was built on the site of a former old people's home. The Council sold the site (at cost) to Affinity Sutton housing association as it was designated as one of the [replacement housing sites](http://embed.verite.co/timeline/?source=0Aprl6XcACewydEhRaWFOLVBfUjBSVW1HUGVZNEhGeFE&font=Bevan-PotanoSans&maptype=toner&lang=en&hash_bookmark=true&start_zoom_adjust=2&height=650#15) for decanted Heygate tenants. Notwithstanding this, the development was completed 5 years after the last Heygate tenant was decanted and the 76 social rented homes consented were described as 'affordable rent' in the S106 agreement. The government's [CORE lettings database](https://core.communities.gov.uk) is showing only 45 units let at social rents at this site.
 
 ## 430 Old Kent Road SE1 5AG - (Family Mosaic development)
 
-![](/img/430okr.png)
+![](http://35percent.org/img/430okr.png)
 
-This is one of the [Neo-Bankside](/neo-bankside) off-site affordable housing sites, which according to Southwark's [planning committee report](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!siQ3eaBQc4N16%2bb1RFDnxQ%3d%3d!%7d%7d%7d) (11/AP/0138) approved 22 social rented units, but the GLA dataset shows that these have been delivered by Family Mosaic at affordable rents of up to 49% market rent.
+This is one of the [Neo-Bankside](http://35percent.org/neo-bankside) off-site affordable housing sites, which according to Southwark's [planning committee report](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!siQ3eaBQc4N16%2bb1RFDnxQ%3d%3d!%7d%7d%7d) (11/AP/0138) approved 22 social rented units, but the GLA dataset shows that these have been delivered by Family Mosaic at affordable rents of up to 49% market rent.
 
 ## Silwood estate regeneration Site 4B (11/AP/0139)
 
-![](/img/silwoodstreet.png)
+![](http://35percent.org/img/silwoodstreet.png)
 
 This is yet another Notting Hill Housing association redevelopment of a council estate. It was supposed to provide 22 social rented homes as part of its [redevelopment of the Silwood estate](/silwood-estate-regeneration) involving the demolition of 57 council homes and construction of 127 new homes. The the definition of social rented in the section 106 agreement is worded as affordable rent and the [CORE lettings data system](https://core.communities.gov.uk/) shows that only 19 units have been let at social rent levels. 
 
