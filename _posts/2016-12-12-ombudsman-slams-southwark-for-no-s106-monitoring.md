@@ -47,7 +47,7 @@ However, when the Greater London Authority published its [affordable housing out
 
 The scheme (now branded the ['Chroma Buildings'](http://www.fabrica.co.uk/The-Chroma-Buildings)) has completed and new residents moved in. Needless to say, these won't number any of those on the Council's waiting list who cannot afford anything other than social rented housing. 
 
-![](http://crappistmartin.github.io/images/colorama_chroma.jpg)
+![](/img/colorama_chroma.jpg)
 
 ## 143-149 Rye Lane/1-15 Bournemouth Road Peckham - SE15 4ST 
 Southwark's [planning committee report](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!yP1lK1SBYnvpeezqHiCudA%3d%3d!%7d%7d%7d) (06/AP/0995) approved 61 new homes of which 7 should have been social rented units, but the GLA dataset shows that these have been delivered by London & Quadrant as affordable rents of between 74% and 78% market rent.
