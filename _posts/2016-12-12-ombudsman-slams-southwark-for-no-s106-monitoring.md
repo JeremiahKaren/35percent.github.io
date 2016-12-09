@@ -27,7 +27,6 @@ Southwark charges developers a 2% administration fee on the sum total of financi
 Our complaint came about as a result of our [discovery](http://35percent.org/2015-03-18-stand-up-for-more-social-housing/) in March 2015, that Notting Hill Housing Association had delivered affordable rented homes at up to 62% market rent, instead of social rent which had been the tenure agreed in the planning consent for the Bermondsey Spa regeneration. Here, permission had been granted for the demolition of a number of Council homes and the construction of 205 new homes, of which 44 were to be social rent. 
 
 ![](/img/bspaexchange.png)
-*Notting Hill's "The Exchange" - 205 unit Bermondsey Spa redevelopment*
 
 We raised the issue of the Bermondsey Spa tenure switch and S106 compliance monitoring during the Aylesbury estate CPO public inquiry in April/May 2015. We were assured by the Council that it had robust compliance monitoring procedures in place and there was no possibility of Notting Hill pulling the same trick with its redevelopment of the Aylesbury estate. 
 
@@ -53,22 +52,18 @@ The scheme (now branded the ['Chroma Buildings'](http://www.fabrica.co.uk/The-Ch
 ## 143-149 Rye Lane/1-15 Bournemouth Road Peckham - SE15 4ST 
 
 ![](/img/landqryelane.png)
-*61 new homes on Rye Lane/Bournemouth Road*
 
 Southwark's [planning committee report](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!yP1lK1SBYnvpeezqHiCudA%3d%3d!%7d%7d%7d) (06/AP/0995) approved 61 new homes of which 7 should have been social rented units, but the GLA dataset shows that these have been delivered by London & Quadrant as affordable rents of between 74% and 78% market rent.
 
 ## 32 Crosby Row SE1 3PT
 
-
 ![](/img/crosbyrow.png)
-*32 Crosby Row SE1 3PT*
 
 Southwark's [planning committee report](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!gKqBYbE9RsCLZlddMhjvOA%3d%3d!%7d%7d%7d) (11/AP/0140) approved the [demolition](http://www.london-se1.co.uk/news/view/5235) of St Hugh's church on Crosby Row and the construction of 22 new homes, which should have included 5 social rented units. But the GLA dataset shows that these have been delivered by Family Mosaic as affordable rent at up to 57% of market rent.
 
 ## 177-184 Grange Road, Bermondsey (Linden Homes Ltd)
 
 ![](/img/177-184GrangeRoad.png)
-*177-184 Grange Road, Bermondsey*
 
 The [planning committee report](http://moderngov.southwark.gov.uk/documents/s21421/Item%201%20report.pdf) (11/AP/1390) for this development approved 38 new homes, of which 9 were supposed to be social rented units. The GLA data shows that these have been delivered by Leicester Housing Association as affordable rents of up to 52% market rent.
 
@@ -87,14 +82,12 @@ This development was built on the site of a former old people's home. The Counci
 ## 430 Old Kent Road SE1 5AG - (Family Mosaic development)
 
 ![](/img/430okr.png)
-*430 Old Kent Road*
 
 This is one of the [Neo-Bankside](/neo-bankside) off-site affordable housing sites, which according to Southwark's [planning committee report](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!siQ3eaBQc4N16%2bb1RFDnxQ%3d%3d!%7d%7d%7d) (11/AP/0138) approved 22 social rented units, but the GLA dataset shows that these have been delivered by Family Mosaic at affordable rents of up to 49% market rent.
 
 ## Silwood estate regeneration Site 4B (11/AP/0139)
 
 ![](/img/silwoodstreet.png)
-*Redeveloped Silwood estate*
 
 This is yet another Notting Hill Housing association redevelopment of a council estate. It was supposed to provide 22 social rented homes as part of its [redevelopment of the Silwood estate](/silwood-estate-regeneration) involving the demolition of 57 council homes and construction of 127 new homes. The the definition of social rented in the section 106 agreement is worded as affordable rent and the [CORE lettings data system](https://core.communities.gov.uk/) shows that only 19 units have been let at social rent levels. 
 
