@@ -6,14 +6,65 @@ published: false
 ---
 The Local Government Ombudsman has issued a [damning judgement](/img/LGOFinalDecisionSOR.pdf), slamming Southwark for having no procedures to ensure that levels of affordable housing agreed by the Council's planning committee are actually delivered. 
 
-The decision came in response to a lengthy investigation inititated as a result of our [Dec 2015 corporate complaint] 
+The decision came in response to a lengthy investigation, which was triggered as the result of us [referring](http://35percent.org/img/Ombudsman18July2016.pdf) our [Dec 2015 corporate complaint](/img/ccomplaint15Dec2016.pdf) to the Ombudsman after Southwark [refused](/img/complaintresponseMWilliams.pdf) to commit to the internal investigation and audit we demanded.
 
-In March 2015, we discovered that Notting Hill Housing Association had delivered affordable rented homes at up to 62% market rent, instead of social rent which had been the tenure agreed in the planning consent.
-
-## BERMONDSEY SPA SITE C5 (10/AP/3010)
-This application was made by Notting Hill Housing Trust, for the redevelopment of 54 council homes as part of the Bermondsey Spa regeneration and was approved by planning committee On 21st December 2010. Permission allowed for the demolition of a number of Council homes and construction of 205 new homes, some commercial and community premises and associated works. 
-Our [2015 blog post](http://www.the-exchange-london.com/web/images/01/gallery/exterior/camera-2.jpg) covers the development in more detail, showing how the 44 social rented homes were provide at affordable rents of up to 62% market rent.
-This is the one scheme that the Council has responded to in our complaint. It considers the matter resolved, partly through having secured a number of social rented units from Notting Hill Housing Trust at its [Manor Place depot development](http://35percent.org/manor-place-depot/). However, these units were required to meet the affordable housing quota for that site and therefore cannot be used to offset the shortfall at the Bermondsey Spa redevelopment (there remains a net loss of social rented housing across the two sites).
+Our complaint came as a result of our [discovery](http://35percent.org/2015-03-18-stand-up-for-more-social-housing/) in March 2015, that Notting Hill Housing Association had delivered affordable rented homes at up to 62% market rent, instead of social rent which had been the tenure agreed in the planning consent for the Bermondsey Spa regeneration. Here, permission had been granted for the demolition of a number of Council homes and the construction of 205 new homes, of which 44 were to be social rent. 
 
 ![](/img/theexchange.jpg)
 *Notting Hill's "The Exchange" - 205 unit Bermondsey Spa redevelopment*
+
+We raised the issue of the Bermondsey Spa tenure switch and S106 compliance monitoring during the Aylesbury estate CPO public inquiry in April/May 2015. We were assured by the Council that it had robust compliance monitoring procedures in place and there was no chance of Notting Hill pulling the same trick on the Aylesbury estate. 
+
+![](/img/CPO_ExplanatoryNote12May2015.png)
+*[Inquiry document 27](http://crappistmartin.github.io/images/CPO_ExplanatoryNote12May2015.pdf) - evidence submitted by the Council to the CPO public inquiry, 12/05/2015*
+
+The Council submitted evidence to the inquiry, claiming that it has robust procedures in place and that it monitored compliance of S106 affordable housing provision every 12-18 months. However, having refused to provide further details of its monitoring procedures, we were unconvinced and decided to undertake some further investigation.
+
+By cross-checking planning committee reports, section 106 agreements, Land Registry information, the [GLA affordable housing outturn dataset](http://data.london.gov.uk/dataset/gla-affordable-housing-programme-outturn/resource/0c87e5dc-f1e9-4edf-b246-bef6b40a9ba3) and [CORE lettings data](https://core.communities.gov.uk/), we managed to compile a long (but by no means exhaustive) [list](http://35percent.org/img/section106_tenure_breaches.pdf) of breaches in tenure provision. Here are a few of the instances we found:
+
+## Colorama buildings
+This redevelopment of the former [Colorama film processing warehouse](http://35percent.org/colorama/) in SE1 was completed in April 2016. The [planning report](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!Zz6kQSuw9WcG1eGU1VRSAg%3d%3d!%7d%7d%7d) for the application said that the redevelopment would provide a total of 19 social rented habitable rooms.  
+
+However, when the Greater London Authority published its [affordable housing outturn data](http://data.london.gov.uk/dataset/gla-affordable-housing-programme-outturn/resource/0c87e5dc-f1e9-4edf-b246-bef6b40a9ba3), it showed that the developer had provided affordable rented units not social rented. These range up to 59% market rent and are listed in the GLA dataset as prospective rent levels of £215pw (excl. service charge) for a 1-bed flat, which is well over twice the current average social rent in Southwark ([£100 pw](http://www.southwark.gov.uk/news/article/1738/southwark_council_keeping_social_rent_affordable_for_londoners)).
+
+![](http://crappistmartin.github.io/images/coloramagladata.png)
+
+The scheme (now branded the ['Chroma Buildings'](http://www.fabrica.co.uk/The-Chroma-Buildings)) has completed and new residents moved in. Needless to say, these won't number any of those on the Council's waiting list who are desperately in need of social rented housing. 
+
+![](http://crappistmartin.github.io/images/colorama_chroma.jpg)
+
+## 143-149 Rye Lane/1-15 Bournemouth Road Peckham - SE15 4ST 
+Southwark's [planning committee report](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!yP1lK1SBYnvpeezqHiCudA%3d%3d!%7d%7d%7d) (06/AP/0995) approved 61 new homes of which 7 should have been social rented units, but the GLA dataset shows that these have been delivered by London & Quadrant as affordable rents of between 74% and 78% market rent.
+
+![](/img/landqryelane.png)
+*61 new homes on Rye Lane/Bournemouth Road*
+
+## 32 Crosby Row SE1 3PT
+Southwark's [planning committee report](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!gKqBYbE9RsCLZlddMhjvOA%3d%3d!%7d%7d%7d) (11/AP/0140) approved the [demolition](http://www.london-se1.co.uk/news/view/5235) of St Hugh's church on Crosby Row and the construction of 22 new homes, which should have included 5 social rented units. But the GLA dataset shows that these have been delivered by Family Mosaic as affordable rent at up to 57% of market rent.
+
+![](/img/crosbyrow.png)
+*32 Crosby Row SE1 3PT*
+
+## 177-184 Grange Road, Bermondsey (Linden Homes Ltd)
+The [planning committee report](http://moderngov.southwark.gov.uk/documents/s21421/Item%201%20report.pdf) (11/AP/1390) for this development approved 38 new homes, of which 9 were supposed to be social rented units. The GLA data shows that these have been delivered by Leicester Housing Association as affordable rents of up to 52% market rent.
+
+![](/img/177-184GrangeRoad.png)
+*177-184 Grange Road, Bermondsey*
+
+## 34-42 Grange Road, Bermondsey (Bellway Homes)
+Southwark's [planning committee report](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!zsXhZcwMT4Yjxyeq6tsl1w%3d%3d!%7d%7d%7d) (11/AP/3251) approved 41 new homes of which 8 social rented, but the GLA dataset shows that these have been delivered by Leicester Housing Association at affordable rents of up to 52% market rent.
+
+![](/img/twistgrangeroad.png)
+
+## Royal Road, Kennington (09/AP/2388)
+This development was built on the site of a former old people's home. The Council sold the site (at cost) to Affinity Sutton housing association as it was designated as a replacement housing site for decanted Heygate tenants. The development was completed 5 years after the last Heygate tenant was decanted and the 76 social rented homes consented were described as 'affordable rent' in the S106 agreement. The government's CORE system is showing only 45 units let at social rents at this site.
+
+![](/img/royalroad.jpg)
+
+
+
+
+
+
+
+
