@@ -6,11 +6,27 @@ published: false
 ---
 The Local Government Ombudsman has issued a [damning judgement](/img/LGOFinalDecisionSOR.pdf), slamming Southwark for having no procedures to ensure that levels of affordable housing agreed by the Council's planning committee are actually delivered. 
 
+![](/img/LGOFinalDecisionSOR.pdf)
+
 The decision came in response to a lengthy investigation, which was triggered as the result of us [referring](http://35percent.org/img/Ombudsman18July2016.pdf) our [Dec 2015 corporate complaint](/img/ccomplaint15Dec2016.pdf) to the Ombudsman after Southwark [refused](/img/complaintresponseMWilliams.pdf) to commit to the internal investigation and audit we demanded.
 
-Our complaint came as a result of our [discovery](http://35percent.org/2015-03-18-stand-up-for-more-social-housing/) in March 2015, that Notting Hill Housing Association had delivered affordable rented homes at up to 62% market rent, instead of social rent which had been the tenure agreed in the planning consent for the Bermondsey Spa regeneration. Here, permission had been granted for the demolition of a number of Council homes and the construction of 205 new homes, of which 44 were to be social rent. 
+In his decision notice, the Ombudsman said that:
 
-![](/img/theexchange.jpg)
+>In response to my enquiries the Council says it is taking legal action in response to several of the breaches identified by Mr X. It also accepts it did not have a systematic supervision procedure to check compliance. It relied on developers’ voluntary compliance. (para. 12)
+
+He concludes that _'the Council accepts that fault'_ and has agreed to roll out _'a borough-wide annual audit to ensure compliance'_, nevertheless noting that _'until that audit is complete it is hard to know how many social housing units all section 106 agreements called for and how many developers delivered. Or indeed, how many remain social housing units.'_
+
+What the Ombudsman doesn't point out is that the Council has allocated a measly £60,000 in order to conduct the audit process. We argue that this is woefully insufficient and represents just a fraction of the money it receives from developers precisely to fulfil this function.
+
+Southwark charges developers a 2% administration fee on the sum total of financial S106 contributions agreed, among other things for the purpose of monitoring S106 conditions. As can be seen from the table below this amounts to a considerable sum each year. We believe that far more of it should be invested to ensure that the S106 affordable housing conditions are properly monitored and enforced.
+
+![](http://35percent.org/img/s106table.png)
+*Extract from the Council's most recent [S106 contributions report](http://www.southwark.gov.uk/download/downloads/id/13876/s106_annual_report_2012-14)*
+
+## Background
+Our complaint came about as a result of our [discovery](http://35percent.org/2015-03-18-stand-up-for-more-social-housing/) in March 2015, that Notting Hill Housing Association had delivered affordable rented homes at up to 62% market rent, instead of social rent which had been the tenure agreed in the planning consent for the Bermondsey Spa regeneration. Here, permission had been granted for the demolition of a number of Council homes and the construction of 205 new homes, of which 44 were to be social rent. 
+
+![](/img/bspaexchange.png)
 *Notting Hill's "The Exchange" - 205 unit Bermondsey Spa redevelopment*
 
 We raised the issue of the Bermondsey Spa tenure switch and S106 compliance monitoring during the Aylesbury estate CPO public inquiry in April/May 2015. We were assured by the Council that it had robust compliance monitoring procedures in place and there was no chance of Notting Hill pulling the same trick on the Aylesbury estate. 
@@ -57,7 +73,7 @@ Southwark's [planning committee report](http://planbuild.southwark.gov.uk/docume
 ![](/img/twistgrangeroad.png)
 
 ## Royal Road, Kennington (09/AP/2388)
-This development was built on the site of a former old people's home. The Council sold the site (at cost) to Affinity Sutton housing association as it was designated as a replacement housing site for decanted Heygate tenants. The development was completed 5 years after the last Heygate tenant was decanted and the 76 social rented homes consented were described as 'affordable rent' in the S106 agreement. The government's CORE system is showing only 45 units let at social rents at this site.
+This development was built on the site of a former old people's home. The Council sold the site (at cost) to Affinity Sutton housing association as it was designated as one of the [replacement housing sites](http://embed.verite.co/timeline/?source=0Aprl6XcACewydEhRaWFOLVBfUjBSVW1HUGVZNEhGeFE&font=Bevan-PotanoSans&maptype=toner&lang=en&hash_bookmark=true&start_zoom_adjust=2&height=650#15) for decanted Heygate tenants. Notwithstanding this, the development was completed 5 years after the last Heygate tenant was decanted and the 76 social rented homes consented were described as 'affordable rent' in the S106 agreement. The government's [CORE lettings database](https://core.communities.gov.uk) is showing only 45 units let at social rents at this site.
 
 ![](/img/royalroad.jpg)
 
