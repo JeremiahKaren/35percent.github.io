@@ -39,6 +39,9 @@ The Council submitted evidence to the inquiry, claiming that it has robust proce
 By cross-checking planning committee reports, section 106 agreements, Land Registry information, the [GLA affordable housing outturn dataset](http://data.london.gov.uk/dataset/gla-affordable-housing-programme-outturn/resource/0c87e5dc-f1e9-4edf-b246-bef6b40a9ba3) and [CORE lettings data](https://core.communities.gov.uk/), we managed to compile a long (but by no means exhaustive) [list](http://35percent.org/img/section106_tenure_breaches.pdf) of breaches in tenure provision. Here are a few of the instances we found:
 
 ## Colorama buildings
+
+![](/img/colorama_chroma.jpg)
+
 This redevelopment of the former [Colorama film processing warehouse](http://35percent.org/colorama/) in SE1 was completed in April 2016. The [planning report](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!Zz6kQSuw9WcG1eGU1VRSAg%3d%3d!%7d%7d%7d) for the application said that the redevelopment would provide a total of 19 social rented habitable rooms.  
 
 However, when the Greater London Authority published its [affordable housing outturn data](http://data.london.gov.uk/dataset/gla-affordable-housing-programme-outturn/resource/0c87e5dc-f1e9-4edf-b246-bef6b40a9ba3), it showed that the developer had provided affordable rented units not social rented. These range up to 59% market rent and are listed in the GLA dataset as prospective rent levels of £215pw (excl. service charge) for a 1-bed flat, which is well over twice the current average social rent in Southwark ([£100 pw](http://www.southwark.gov.uk/news/article/1738/southwark_council_keeping_social_rent_affordable_for_londoners)).
@@ -47,47 +50,54 @@ However, when the Greater London Authority published its [affordable housing out
 
 The scheme (now branded the ['Chroma Buildings'](http://www.fabrica.co.uk/The-Chroma-Buildings)) has completed and new residents moved in. Needless to say, these won't number any of those on the Council's waiting list who cannot afford anything other than social rented housing. 
 
-![](/img/colorama_chroma.jpg)
-
 ## 143-149 Rye Lane/1-15 Bournemouth Road Peckham - SE15 4ST 
-Southwark's [planning committee report](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!yP1lK1SBYnvpeezqHiCudA%3d%3d!%7d%7d%7d) (06/AP/0995) approved 61 new homes of which 7 should have been social rented units, but the GLA dataset shows that these have been delivered by London & Quadrant as affordable rents of between 74% and 78% market rent.
 
 ![](/img/landqryelane.png)
 *61 new homes on Rye Lane/Bournemouth Road*
 
+Southwark's [planning committee report](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!yP1lK1SBYnvpeezqHiCudA%3d%3d!%7d%7d%7d) (06/AP/0995) approved 61 new homes of which 7 should have been social rented units, but the GLA dataset shows that these have been delivered by London & Quadrant as affordable rents of between 74% and 78% market rent.
+
 ## 32 Crosby Row SE1 3PT
-Southwark's [planning committee report](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!gKqBYbE9RsCLZlddMhjvOA%3d%3d!%7d%7d%7d) (11/AP/0140) approved the [demolition](http://www.london-se1.co.uk/news/view/5235) of St Hugh's church on Crosby Row and the construction of 22 new homes, which should have included 5 social rented units. But the GLA dataset shows that these have been delivered by Family Mosaic as affordable rent at up to 57% of market rent.
+
 
 ![](/img/crosbyrow.png)
 *32 Crosby Row SE1 3PT*
 
+Southwark's [planning committee report](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!gKqBYbE9RsCLZlddMhjvOA%3d%3d!%7d%7d%7d) (11/AP/0140) approved the [demolition](http://www.london-se1.co.uk/news/view/5235) of St Hugh's church on Crosby Row and the construction of 22 new homes, which should have included 5 social rented units. But the GLA dataset shows that these have been delivered by Family Mosaic as affordable rent at up to 57% of market rent.
+
 ## 177-184 Grange Road, Bermondsey (Linden Homes Ltd)
-The [planning committee report](http://moderngov.southwark.gov.uk/documents/s21421/Item%201%20report.pdf) (11/AP/1390) for this development approved 38 new homes, of which 9 were supposed to be social rented units. The GLA data shows that these have been delivered by Leicester Housing Association as affordable rents of up to 52% market rent.
 
 ![](/img/177-184GrangeRoad.png)
 *177-184 Grange Road, Bermondsey*
 
+The [planning committee report](http://moderngov.southwark.gov.uk/documents/s21421/Item%201%20report.pdf) (11/AP/1390) for this development approved 38 new homes, of which 9 were supposed to be social rented units. The GLA data shows that these have been delivered by Leicester Housing Association as affordable rents of up to 52% market rent.
+
 ## 34-42 Grange Road, Bermondsey (Bellway Homes)
-Southwark's [planning committee report](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!zsXhZcwMT4Yjxyeq6tsl1w%3d%3d!%7d%7d%7d) (11/AP/3251) approved 41 new homes of which 8 social rented, but the GLA dataset shows that these have been delivered by Leicester Housing Association at affordable rents of up to 52% market rent.
 
 ![](/img/twistgrangeroad.png)
 
+Southwark's [planning committee report](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!zsXhZcwMT4Yjxyeq6tsl1w%3d%3d!%7d%7d%7d) (11/AP/3251) approved 41 new homes of which 8 social rented, but the GLA dataset shows that these have been delivered by Leicester Housing Association at affordable rents of up to 52% market rent.
+
 ## Royal Road, Kennington (09/AP/2388)
-This development was built on the site of a former old people's home. The Council sold the site (at cost) to Affinity Sutton housing association as it was designated as one of the [replacement housing sites](http://embed.verite.co/timeline/?source=0Aprl6XcACewydEhRaWFOLVBfUjBSVW1HUGVZNEhGeFE&font=Bevan-PotanoSans&maptype=toner&lang=en&hash_bookmark=true&start_zoom_adjust=2&height=650#15) for decanted Heygate tenants. Notwithstanding this, the development was completed 5 years after the last Heygate tenant was decanted and the 76 social rented homes consented were described as 'affordable rent' in the S106 agreement. The government's [CORE lettings database](https://core.communities.gov.uk) is showing only 45 units let at social rents at this site.
 
 ![](/img/royalroad.jpg)
 
+This development was built on the site of a former old people's home. The Council sold the site (at cost) to Affinity Sutton housing association as it was designated as one of the [replacement housing sites](http://embed.verite.co/timeline/?source=0Aprl6XcACewydEhRaWFOLVBfUjBSVW1HUGVZNEhGeFE&font=Bevan-PotanoSans&maptype=toner&lang=en&hash_bookmark=true&start_zoom_adjust=2&height=650#15) for decanted Heygate tenants. Notwithstanding this, the development was completed 5 years after the last Heygate tenant was decanted and the 76 social rented homes consented were described as 'affordable rent' in the S106 agreement. The government's [CORE lettings database](https://core.communities.gov.uk) is showing only 45 units let at social rents at this site.
+
 ## 430 Old Kent Road SE1 5AG - (Family Mosaic development)
-This is one of the [Neo-Bankside](/neo-bankside) off-site affordable housing sites, which according to Southwark's [planning committee report](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!siQ3eaBQc4N16%2bb1RFDnxQ%3d%3d!%7d%7d%7d) (11/AP/0138) approved 22 social rented units, but the GLA dataset shows that these have been delivered by Family Mosaic at affordable rents of up to 49% market rent.
 
 ![](/img/430okr.png)
 *430 Old Kent Road*
 
+This is one of the [Neo-Bankside](/neo-bankside) off-site affordable housing sites, which according to Southwark's [planning committee report](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!siQ3eaBQc4N16%2bb1RFDnxQ%3d%3d!%7d%7d%7d) (11/AP/0138) approved 22 social rented units, but the GLA dataset shows that these have been delivered by Family Mosaic at affordable rents of up to 49% market rent.
+
 ## Silwood estate regeneration Site 4B (11/AP/0139)
-This is yet another Notting Hill Housing association redevelopment of a council estate. It was supposed to provide 22 social rented homes as part of its [redevelopment of the Silwood estate](/silwood-estate-regeneration) involving the demolition of 57 council homes and construction of 127 new homes. The the definition of social rented in the section 106 agreement is worded as affordable rent and the [CORE lettings data system](https://core.communities.gov.uk/) shows that only 19 units have been let at social rent levels. 
 
 ![](/img/silwoodstreet.png)
 *Redeveloped Silwood estate*
+
+This is yet another Notting Hill Housing association redevelopment of a council estate. It was supposed to provide 22 social rented homes as part of its [redevelopment of the Silwood estate](/silwood-estate-regeneration) involving the demolition of 57 council homes and construction of 127 new homes. The the definition of social rented in the section 106 agreement is worded as affordable rent and the [CORE lettings data system](https://core.communities.gov.uk/) shows that only 19 units have been let at social rent levels. 
+
 
 
 
