@@ -4,11 +4,11 @@ title: "Southwark's lost social housing"
 subtitle: Ombudsman finds that Council cannot know how much social housing it is getting
 published: true
 ---
-The Local Government Ombudsman has issued the [damning judgement](http://35percent.org/img/LGOFinalDecisionSOR.pdf) that Southwark Council has had no procedure to ensure that social rented housing approved by the Council's planning committee is actually being delivered.  The Ombudsman further found that without a monitoring procedure _'it is hard to know ..how many social housing units...developers [have] delivered'_.   
+The Local Government Ombudsman has issued the [damning judgement](http://35percent.org/img/LGOFinalDecisionSOR.pdf) that Southwark Council has had no procedure to ensure that social rented housing approved by the Council's planning committee is actually being delivered. The Ombudsman further found that without a monitoring procedure _'it is hard to know ..how many social housing units...developers [have] delivered'_.   
 
 ![](http://35percent.org/img/LGOFinalDecisionSOR.png "Ombudsman decision")
 
-The Ombudsman's decision came after the 35% Campaign [complained](http://35percent.org/img/ccomplaint15Dec2016.pdf)  that planning consents were being breached, listing 43 developments where we thought the social rented housing may not have been delivered as required.
+The Ombudsman's decision came after the 35% Campaign [complained](http://35percent.org/img/ccomplaint15Dec2016.pdf) that planning consents were being breached, listing 43 developments where we thought the social rented housing may not have been delivered as required.
 
 In her [decision notice](http://35percent.org/img/LGOFinalDecisionSOR.pdf), the Ombudsman said:
 
@@ -24,16 +24,16 @@ Our complaint was prompted after we [discovered](http://35percent.org/2015-03-18
 
 ![](http://35percent.org/img/bspaexchange.png)
 
-The lost Bermondsey Spa homes were raised at the Aylesbury estate CPO inquiry in April/May 2015. The Council assured the inquiry that it had robust procedures in place and that it monitored compliance of S106 affordable housing provision every 12-18 months.  This was evidently not true, but was asserted to show that NHHT could be trusted to deliver social rented housing in the Aylesbury regeneration. 
+The lost Bermondsey Spa homes were raised at the [Aylesbury estate CPO inquiry](http://35percent.org/2015-05-16-aylesbury-cpo-inquiry-extra-time/) in April/May 2015. The Council assured the inquiry that it had robust procedures in place and that it monitored compliance of S106 affordable housing provision every 12-18 months. This was evidently not true, but was asserted to show that NHHT could be trusted to deliver social rented housing in the Aylesbury regeneration. 
 
 ![](http://35percent.org/img/CPO_ExplanatoryNote12May2015.png)
 *[Inquiry document 27](http://crappistmartin.github.io/images/CPO_ExplanatoryNote12May2015.pdf) - evidence submitted by the Council to the CPO public inquiry, 12/05/2015*
 
-Southwark struck a deal with NHHT to reprovide the 44 lost social rented units on another site, [Manor Place depot](/manor-place-depot).  This deal double counted the social rented units and in any event the development has not yet been built.
+Southwark struck a deal with NHHT to reprovide the 44 lost social rented units on another site, [Manor Place depot](/manor-place-depot). This deal double counted the social rented units and in any event the development has not yet been built.
 
 ## Social rent is not affordable rent
 
-Social rent is determined by a legal formula and only a small part of the calculation takes in market values; in Southwark social rent equates  to between 19-25% market rate. Our [list](http://35percent.org/img/section106_tenure_breaches.pdf) of suspect developments shows many where the level of rent identifies them as affordable rent, not social rent.  The list was compliled by cross-checking planning committee reports, section 106 agreements, Land Registry information, the [GLA affordable housing outturn dataset](http://data.london.gov.uk/dataset/gla-affordable-housing-programme-outturn/resource/0c87e5dc-f1e9-4edf-b246-bef6b40a9ba3) and [CORE lettings data](https://core.communities.gov.uk/).
+Social rent is determined by a legal formula and only a small part of the calculation takes in market values; in Southwark social rent equates to [between 19-25% market rate]((http://www.2.southwark.gov.uk/downloads/download/2914/affordable_rent_in_southwark_2011)). Our [list](http://35percent.org/img/section106_tenure_breaches.pdf) of suspect developments shows many where the level of rent identifies them as affordable rent, not social rent.  The list was compliled by cross-checking planning committee reports, section 106 agreements, Land Registry information, the [GLA affordable housing outturn dataset](http://data.london.gov.uk/dataset/gla-affordable-housing-programme-outturn/resource/0c87e5dc-f1e9-4edf-b246-bef6b40a9ba3) and [CORE lettings data](https://core.communities.gov.uk/).
 
 Amongst the sites we've looked at where the social rent is higher that it should be, are the following;
 
@@ -91,13 +91,13 @@ This is yet another Notting Hill Housing Trust redevelopment of a council estate
 
 ## Conclusion
 
-Southwark has confessed that up until now it has not ensured that social rented housing has been delivered in accordance with planning approvals, but instead relied on _'volunary compliance'_.    Southwark promises an annual public audit as a remedy, with some unspecified _'further investigation to ensure accuracy'_ and has budgetted £60,000 for this.  Developers and, unfortunately, housing associations have demonstrated that they cannot be trusted, so doubt that this will be enough.
+Southwark has confessed that up until now it has not ensured that social rented housing has been delivered in accordance with planning approvals, but instead relied on _'volunary compliance'_. Southwark promises an annual public audit as a remedy, with some unspecified _'further investigation to ensure accuracy'_ and has budgetted £60,000 for this.  Developers and, unfortunately, housing associations have demonstrated that they cannot be trusted, so doubt that this will be enough.
 Southwark charges developers a 2% administration fee on the sum total of financial S106 contributions, including affordable housing.  The table below shows this amounts tobe a considerable sum each year and far more of it should be invested to ensure that the affordable housing conditions are properly monitored and enforced.
 
 ![](http://35percent.org/img/s106table.png)
 *Extract from the Council's most recent [S106 contributions report](http://www.southwark.gov.uk/download/downloads/id/13876/s106_annual_report_2012-14)*
 
-We also need an audit not just 'going forward' but also one looking back, an historical audit of all relevant planning applications for an least the past 10 years, to retreive the social housing that Southwark Council has lost through being let at higher than social rents.  Only when Southwark has done this will we believe that _'the Council is committed to maximising the supply of new social rented homes in Southwark'_ as it claimed in its response to out [compliant](/img/ccomplaint15Dec2016.pdf)
+We also need an audit not just 'going forward' but also one looking back, an historical audit of all relevant planning applications for an least the past 10 years, to retreive the social housing that Southwark Council has lost through being let at higher than social rents.  Only when Southwark has done this will we believe that _'the Council is committed to maximising the supply of new social rented homes in Southwark'_ as it claimed in its [response](http://35percent.org/img/complaintresponseMWilliams.pdf) to out [compliant](http://35percent.org/img/ccomplaint15Dec2016.pdf)
 
 
 
