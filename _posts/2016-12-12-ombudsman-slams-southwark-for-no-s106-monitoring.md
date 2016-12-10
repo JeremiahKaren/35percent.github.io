@@ -99,7 +99,7 @@ Southwark charges developers a 2% administration fee on the sum total of financi
 ![](http://35percent.org/img/s106table.png)
 *Extract from the Council's most recent [S106 contributions report](http://www.southwark.gov.uk/download/downloads/id/13876/s106_annual_report_2012-14)*
 
-We also need an audit not just 'going forward' but also one looking back, an historical audit of all relevant planning applications for an least the past 10 years, to retreive the social housing that Southwark Council has lost through being let at higher than social rents. Only when Southwark has done this will we believe that _'the Council is committed to maximising the supply of new social rented homes in Southwark'_ as it claimed in its [response](http://35percent.org/img/complaintresponseMWilliams.pdf) to out [compliant](http://35percent.org/img/ccomplaint15Dec2016.pdf)
+We also need an audit not just 'going forward' but also one looking back, an historical audit of all relevant planning applications for an least the past 10 years, to retreive the social housing that Southwark Council has lost through being let at higher than social rents. Only when Southwark has done this will we believe that _'the Council is committed to maximising the supply of new social rented homes in Southwark'_ as it claimed in its [response](http://35percent.org/img/complaintresponseMWilliams.pdf) to our [complaint](http://35percent.org/img/ccomplaint15Dec2016.pdf)
 
 
 
