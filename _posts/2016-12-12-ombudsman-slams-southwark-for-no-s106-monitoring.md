@@ -8,7 +8,7 @@ The Local Government Ombudsman has issued the [damning judgement](http://35perce
 
 ![](http://35percent.org/img/LGOFinalDecisionSOR.png "Ombudsman decision")
 
-The Ombudsman's decision came after the 35% Campaign [complained](http://35percent.org/img/ccomplaint15Dec2016.pdf) that planning consents were being breached, listing 43 developments where we thought the social rented housing may not have been delivered as required.
+The Ombudsman's decision came after the 35% Campaign [complained](http://35percent.org/img/ccomplaint15Dec2016.pdf)  that planning consents were being breached, listing 43 developments where we thought the social rented housing may not have been delivered as required.
 
 In her [decision notice](http://35percent.org/img/LGOFinalDecisionSOR.pdf), the Ombudsman said:
 
