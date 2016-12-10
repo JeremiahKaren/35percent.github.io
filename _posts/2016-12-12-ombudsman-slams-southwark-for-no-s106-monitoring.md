@@ -25,7 +25,8 @@ Our complaint was prompted after we [discovered](https://www.theguardian.com/art
 Following this we [discovered](http://35percent.org/2015-03-18-stand-up-for-more-social-housing/) that 44 social rented units had been lost from the Bermondsey Spa regeneration and had instead been switched to affordable rent, at 62% market rent, by housing provider Notting Hill Housing Trust (NHHT).  
 
 ![](http://35percent.org/img/bspaexchange.png)
-*Southwark News coverage of of the story [21/05/15](http://www.southwarknews.co.uk/news/southwark-council-probes-44-missing-social-homes/), [01/10/15](http://www.southwarknews.co.uk/news/council-takes-no-legal-action-over-44-missing-social-housing-units/), [11/02/16](http://crappistmartin.github.io/images/SN_affordablerent.pdf)*
+*Local news coverage of the story: [21/05/15](http://www.southwarknews.co.uk/news/southwark-council-probes-44-missing-social-homes/); [01/10/15](http://www.southwarknews.co.uk/news/council-takes-no-legal-action-over-44-missing-social-housing-units/); [11/02/16](http://crappistmartin.github.io/images/SN_affordablerent.pdf)*
+
 The lost Bermondsey Spa homes were raised at the [Aylesbury estate CPO inquiry](http://35percent.org/2015-05-16-aylesbury-cpo-inquiry-extra-time/) in May 2015. The Council assured the inquiry that it had robust procedures in place and that it monitored compliance of S106 affordable housing provision every 12-18 months. This was evidently not true, but was asserted to show that NHHT could be trusted to deliver social rented housing in the Aylesbury regeneration. 
 
 ![](http://35percent.org/img/CPO_ExplanatoryNote12May2015.png)
@@ -101,12 +102,8 @@ Southwark charges developers a 2% administration fee on the sum total of financi
 ![](http://35percent.org/img/s106table.png)
 *Extract from the Council's most recent [S106 contributions report](http://www.southwark.gov.uk/download/downloads/id/13876/s106_annual_report_2012-14)*
 
-We also need an audit not just 'going forward' but also one looking back, an historical audit of all relevant planning applications for an least the past 10 years, to retreive the social housing that Southwark Council has lost through being let at higher than social rents. Only when Southwark has done this will we believe that _'the Council is committed to maximising the supply of new social rented homes in Southwark'_ as it claimed in its [response](http://35percent.org/img/complaintresponseMWilliams.pdf) to our [complaint](http://35percent.org/img/ccomplaint15Dec2016.pdf)
+We also need an audit not just 'going forward' but also one looking back, an historical audit of all relevant planning applications for an least the past 10 years, to retreive the social housing that Southwark Council has lost through being let at higher than social rents. Only when Southwark has done this will we believe that it is _'leading the fight for social housing'_ as it [claims](http://35percent.org/img/Standard3rdOct2016.jpg) and is not the developers' free-for-all it has been [labelled](http://www.standard.co.uk/comment/comment/simon-jenkins-net-curtaingate-just-makes-us-laugh-rather-than-show-sympathy-a3355186.html).
 
-Only then can we be assured that Southwark is not the developers' free-for-all it is being [referred to as](http://www.standard.co.uk/comment/comment/simon-jenkins-net-curtaingate-just-makes-us-laugh-rather-than-show-sympathy-a3355186.html) in the press.
-
-<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Cllr <a href="https://twitter.com/markwilliams84">@markwilliams84</a> defends Southwark planners from Simon Jenkins&#39; recent claim of developer free-for-all <a href="https://t.co/wKqThKuUzC">pic.twitter.com/wKqThKuUzC</a></p>&mdash; London SE1 (@se1) <a href="https://twitter.com/se1/status/782921879984173056">October 3, 2016</a></blockquote>
-<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 
 
