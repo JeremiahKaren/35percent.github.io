@@ -33,7 +33,7 @@ Southwark struck a deal with NHHT to reprovide the 44 lost social rented units o
 
 ## Social rent is not affordable rent
 
-Social rent is determined by a legal formula and only a small part of the calculation takes in market rents; social rent equates  to between 19-25% market rate in Southwark(link). Our [list](http://35percent.org/img/section106_tenure_breaches.pdf) of suspect developments shows many where the level of rent identifies them as affordable rent, not social rent.  The list was compliled by cross-checking planning committee reports, section 106 agreements, Land Registry information, the [GLA affordable housing outturn dataset](http://data.london.gov.uk/dataset/gla-affordable-housing-programme-outturn/resource/0c87e5dc-f1e9-4edf-b246-bef6b40a9ba3) and [CORE lettings data](https://core.communities.gov.uk/).
+Social rent is determined by a legal formula and only a small part of the calculation takes in market values; in Southwark social rent equates  to between 19-25% market rate. Our [list](http://35percent.org/img/section106_tenure_breaches.pdf) of suspect developments shows many where the level of rent identifies them as affordable rent, not social rent.  The list was compliled by cross-checking planning committee reports, section 106 agreements, Land Registry information, the [GLA affordable housing outturn dataset](http://data.london.gov.uk/dataset/gla-affordable-housing-programme-outturn/resource/0c87e5dc-f1e9-4edf-b246-bef6b40a9ba3) and [CORE lettings data](https://core.communities.gov.uk/).
 
 Amongst the sites we've looked at where the social rent is higher that it should be, are the following;
 
