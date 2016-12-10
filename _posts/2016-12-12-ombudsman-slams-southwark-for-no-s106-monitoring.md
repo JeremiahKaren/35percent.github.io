@@ -20,7 +20,7 @@ Despite the Ombudsman's decision and Southwark's own admission that it had no mo
 
 ## Background
 
-Our complaint was prompted after we [discovered](https://www.theguardian.com/artanddesign/architecture-design-blog/2015/jul/21/neo-bankside-how-richard-rogers-new-non-dom-accom-cut-out-the-poor) that the Richard Rogers [Neo Bankside](http://35percent.org/neo-bankside) development had provided 38 social rented homes fewer than the number agreed at planning committee. 
+Our complaint was prompted after we [discovered](https://www.theguardian.com/artanddesign/architecture-design-blog/2015/jul/21/neo-bankside-how-richard-rogers-new-non-dom-accom-cut-out-the-poor) that the Richard Rogers [Neo Bankside](http://35percent.org/neo-bankside) development had provided 32 social rented homes fewer than the number agreed at planning committee. 
 
 Following this we [discovered](http://35percent.org/2015-03-18-stand-up-for-more-social-housing/) that 44 social rented units had been lost from the Bermondsey Spa regeneration and had instead been switched to affordable rent, at 62% market rent, by housing provider Notting Hill Housing Trust (NHHT).  
 
