@@ -184,6 +184,9 @@ the deluded pro-gentrification narrative, which suffers from two
 misapprehensions; that affordable housing is actually affordable and that 
 developers are actually building it.
 
+![](/img/sundaytimes4thNov2016.png)
+*Sunday Times [article](/img/sundaytimes4thNov2016.pdf) - 4th Nov 2016*
+
 __Footnotes:__
 
 [^1]: See the [price list](https://lqpricedin.co.uk/wp-content/uploads/2015/04/Elephant-park-1-BED-pricelist-OCT16.pdf) for 1-beds (3 available); and [price list](https://lqpricedin.co.uk/wp-content/uploads/2015/04/Elephant-park-pricelist-31-10-16-OCT16.pdf) for 2-beds (4 available).
