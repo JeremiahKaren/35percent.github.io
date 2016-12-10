@@ -26,10 +26,10 @@ Our complaint was prompted after we [discovered](http://35percent.org/2015-03-18
 
 The lost Bermondsey Spa homes were raised at the Aylesbury estate CPO inquiry in April/May 2015. The Council assured the inquiry that it had robust procedures in place and that it monitored compliance of S106 affordable housing provision every 12-18 months.  This was evidently not true, but was asserted to show that NHHT could be trusted to deliver social rented housing in the Aylesbury regeneration. 
 
-Southwark struck a deal with NHHT to reprovide the 44 lost social rented units on another site, [Manor Place depot](/manor-place-depot).  This deal double counted the social rented units for both sites, so there was still a net loss of 44 units and in any event the development has not been built, so we are still without these homes, 6 years after they recieved planning permission.
-
 ![](http://35percent.org/img/CPO_ExplanatoryNote12May2015.png)
 *[Inquiry document 27](http://crappistmartin.github.io/images/CPO_ExplanatoryNote12May2015.pdf) - evidence submitted by the Council to the CPO public inquiry, 12/05/2015*
+
+Southwark struck a deal with NHHT to reprovide the 44 lost social rented units on another site, [Manor Place depot](/manor-place-depot).  This deal double counted the social rented units and in any event the development has not yet been built.
 
 ## Social rent is not affordable rent
 
