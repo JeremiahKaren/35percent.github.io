@@ -20,7 +20,9 @@ Despite the Ombudsman's decision and Southwark's own admission that it had no mo
 
 ## Background
 
-Our complaint was prompted after we [discovered](http://35percent.org/2015-03-18-stand-up-for-more-social-housing/) in March 2015 that 44 social rented units had been lost from the Bermondsey Spa regeneration and had instead been switched to affordable rent, at 62% market rent, by housing provider Notting Hill Housing Trust (NHHT).  
+Our complaint was prompted after we [discovered](https://www.theguardian.com/artanddesign/architecture-design-blog/2015/jul/21/neo-bankside-how-richard-rogers-new-non-dom-accom-cut-out-the-poor) that the Richard Rogers [Neo Bankside](http://35percent.org/neo-bankside) development had provided 38 social rented homes fewer than the number agreed at planning committee. 
+
+Following this we [discovered](http://35percent.org/2015-03-18-stand-up-for-more-social-housing/) that 44 social rented units had been lost from the Bermondsey Spa regeneration and had instead been switched to affordable rent, at 62% market rent, by housing provider Notting Hill Housing Trust (NHHT).  
 
 ![](http://35percent.org/img/bspaexchange.png)
 *Southwark News coverage of of the story [21/05/15](http://www.southwarknews.co.uk/news/southwark-council-probes-44-missing-social-homes/), [01/10/15](http://www.southwarknews.co.uk/news/council-takes-no-legal-action-over-44-missing-social-housing-units/), [11/02/16](http://crappistmartin.github.io/images/SN_affordablerent.pdf)*
@@ -101,6 +103,10 @@ Southwark charges developers a 2% administration fee on the sum total of financi
 
 We also need an audit not just 'going forward' but also one looking back, an historical audit of all relevant planning applications for an least the past 10 years, to retreive the social housing that Southwark Council has lost through being let at higher than social rents. Only when Southwark has done this will we believe that _'the Council is committed to maximising the supply of new social rented homes in Southwark'_ as it claimed in its [response](http://35percent.org/img/complaintresponseMWilliams.pdf) to our [complaint](http://35percent.org/img/ccomplaint15Dec2016.pdf)
 
+Only then can we be assured that Southwark is not the developers' free-for-all it is being [referred to as](http://www.standard.co.uk/comment/comment/simon-jenkins-net-curtaingate-just-makes-us-laugh-rather-than-show-sympathy-a3355186.html) in the press.
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Cllr <a href="https://twitter.com/markwilliams84">@markwilliams84</a> defends Southwark planners from Simon Jenkins&#39; recent claim of developer free-for-all <a href="https://t.co/wKqThKuUzC">pic.twitter.com/wKqThKuUzC</a></p>&mdash; London SE1 (@se1) <a href="https://twitter.com/se1/status/782921879984173056">October 3, 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 
 
