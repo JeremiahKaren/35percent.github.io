@@ -6,7 +6,7 @@ published: false
 ---
 The Local Government Ombudsman has issued a [damning judgement](http://35percent.org/img/LGOFinalDecisionSOR.pdf), slamming Southwark for having no procedures to ensure that levels of affordable housing agreed by the Council's planning committee are actually delivered. 
 
-![](http://35percent.org/img/LGOFinalDecisionSOR.png)
+![](http://35percent.org/img/LGOFinalDecisionSOR.png "Ombudsman decision")
 
 The decision came in response to a lengthy investigation, which was triggered as the result of us [referring](http://35percent.org/img/Ombudsman18July2016.pdf) our [Dec 2015 corporate complaint](http://35percent.org/img/ccomplaint15Dec2016.pdf) after Southwark initially [refused](http://35percent.org/img/complaintresponseMWilliams.pdf) to commit to the internal investigation and audit we demanded.
 
