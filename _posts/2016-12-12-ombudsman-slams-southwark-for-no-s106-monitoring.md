@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Ombudsman slams Southwark - no monitoring of social housing provision"
-subtitle: "Local Government Ombudsman finds that.."
-published: false
+title: "Southwark's lost social housing"
+subtitle: Ombudsman finds that Council cannot know how much social housing it is getting
+published: true
 ---
 The Local Government Ombudsman has issued the [damning judgement](http://35percent.org/img/LGOFinalDecisionSOR.pdf) that Southwark Council has had no procedure to ensure that social housing approved by the Council's planning committee is actually being delivered.  The Ombudsman further found that without a monitoring procedure 'it is hard to know ..how many social housing units...developers [have] delivered'.   
 
@@ -97,7 +97,7 @@ Southwark charges developers a 2% administration fee on the sum total of financi
 ![](http://35percent.org/img/s106table.png)
 *Extract from the Council's most recent [S106 contributions report](http://www.southwark.gov.uk/download/downloads/id/13876/s106_annual_report_2012-14)*
 
-We also need an audit not just 'going forward' but also one looking back, at planning applications for an least the past 10 years, to retreive the social housing that Southwark has lost, not just through the alleged frauds, but by being let at highher than social rents.  Only when Southwark has done this will we believe that 'the Council is committed to maximising the supply of new social rented homes in Southwark' as it claimed in its response to out compliant (link)
+We also need an audit not just 'going forward' but also one looking back, an historical audit of all relevant planning applications for an least the past 10 years, to retreive the social housing that Southwark has lost through being let at highher than social rents.  Only when Southwark has done this will we believe that 'the Council is committed to maximising the supply of new social rented homes in Southwark' as it claimed in its response to out compliant (link)
 
 
 
