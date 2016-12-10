@@ -4,11 +4,11 @@ title: "Ombudsman slams Southwark - no monitoring of social housing provision"
 subtitle: "Local Government Ombudsman finds that.."
 published: false
 ---
-The Local Government Ombudsman has issued the [damning judgement](http://35percent.org/img/LGOFinalDecisionSOR.pdf) that Southwark Council has had no procedure to ensure that social housing approved by the Council's planning committee is actually being delivered.  The Ombudsman further found that without a monitoring procedure 'it is hard to know ..how many social housing units...developers [have] delivered'.  Private developers should provide social housing in their housing schemes and the amount is written into their planning consents.  
+The Local Government Ombudsman has issued the [damning judgement](http://35percent.org/img/LGOFinalDecisionSOR.pdf) that Southwark Council has had no procedure to ensure that social housing approved by the Council's planning committee is actually being delivered.  The Ombudsman further found that without a monitoring procedure 'it is hard to know ..how many social housing units...developers [have] delivered'.   
 
 ![](http://35percent.org/img/LGOFinalDecisionSOR.png "Ombudsman decision")
 
-The decision came after the 35% Campaign [referred](http://35percent.org/img/Ombudsman18July2016.pdf) its [Dec 2015 corporate complaint] to the Ombudsman.  This listed 42 developements where we thought the social rented housing may not have been delivered as required by the planning approval.
+ Private developers and housing associations should provide social rented housing as a proportion of their housing schemes and the amount is written into their planning consents.  The Ombudsman's decision came after the 35% Campaign [complained](http://35percent.org/img/Ombudsman18July2016.pdf)that planning consents were being breached, listing 42 developments where we thought the social rented housing may not have been delivered as required.
 
 In her [decision notice](http://35percent.org/img/LGOFinalDecisionSOR.pdf), the Ombudsman said that:
 
@@ -31,20 +31,21 @@ Southwark struck a deal with NHHT to reprovide the 44 lost social rented units o
 ![](http://35percent.org/img/CPO_ExplanatoryNote12May2015.png)
 *[Inquiry document 27](http://crappistmartin.github.io/images/CPO_ExplanatoryNote12May2015.pdf) - evidence submitted by the Council to the CPO public inquiry, 12/05/2015*
 
-Other notable developements in our list included
-By cross-checking planning committee reports, section 106 agreements, Land Registry information, the [GLA affordable housing outturn dataset](http://data.london.gov.uk/dataset/gla-affordable-housing-programme-outturn/resource/0c87e5dc-f1e9-4edf-b246-bef6b40a9ba3) and [CORE lettings data](https://core.communities.gov.uk/), we managed to compile a long (but by no means exhaustive) [list](http://35percent.org/img/section106_tenure_breaches.pdf) of breaches in tenure provision. Here are a few of the instances we found:
+## Social rent is not affordable rent
+
+Social rent is determined by a legal formula and only a small part of the calculation takes in market rents; social rent equates  to between 19-25% market rate in Southwark(link). Our [list] (http://35percent.org/img/section106_tenure_breaches.pdf)of suspect developments shows many where the level of rent identifies them as affordable rent, not social rent.  The list was compliled by cross-checking planning committee reports, section 106 agreements, Land Registry information, the [GLA affordable housing outturn dataset](http://data.london.gov.uk/dataset/gla-affordable-housing-programme-outturn/resource/0c87e5dc-f1e9-4edf-b246-bef6b40a9ba3) and [CORE lettings data](https://core.communities.gov.uk/).
 
 ## Colorama buildings
 
 ![](http://35percent.org/img/colorama_chroma.jpg)
 
-This redevelopment of the former [Colorama film processing warehouse](http://35percent.org/colorama/) in SE1 was completed in April 2016. The [planning report](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!Zz6kQSuw9WcG1eGU1VRSAg%3d%3d!%7d%7d%7d) for the application said that the redevelopment would provide a total of 19 social rented habitable rooms.  
+This redevelopment of the former [Colorama film processing warehouse](http://35percent.org/colorama/) in SE1 was completed in April 2016 and should have provided a total of 19 social rented habitable rooms, about 8 units, according to the [planning report](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!Zz6kQSuw9WcG1eGU1VRSAg%3d%3d!%7d%7d%7d).  
 
-However, when the Greater London Authority published its [affordable housing outturn data](http://data.london.gov.uk/dataset/gla-affordable-housing-programme-outturn/resource/0c87e5dc-f1e9-4edf-b246-bef6b40a9ba3), it showed that the developer had provided affordable rented units not social rented. These range up to 59% market rent and are listed in the GLA dataset as prospective rent levels of £215pw (excl. service charge) for a 1-bed flat, which is well over twice the current average social rent in Southwark ([£100 pw](http://www.southwark.gov.uk/news/article/1738/southwark_council_keeping_social_rent_affordable_for_londoners)).
+However, Greater London Authority [affordable housing outturn data](http://data.london.gov.uk/dataset/gla-affordable-housing-programme-outturn/resource/0c87e5dc-f1e9-4edf-b246-bef6b40a9ba3), shows that the developer had provided affordable rented units not social rented. These range up to 59% market rent, giving rent levels of £215pw (excl. service charge) for a 1-bed flat, over twice the current average social rent in Southwark ([£100 pw](http://www.southwark.gov.uk/news/article/1738/southwark_council_keeping_social_rent_affordable_for_londoners)).
 
 ![](http://crappistmartin.github.io/images/coloramagladata.png)
 
-The scheme (now branded the ['Chroma Buildings'](http://www.fabrica.co.uk/The-Chroma-Buildings)) has completed and new residents moved in. Needless to say, these won't number any of those on the Council's waiting list who cannot afford anything other than social rented housing. 
+The scheme (now branded the ['Chroma Buildings'](http://www.fabrica.co.uk/The-Chroma-Buildings)) has completed and new residents moved in. 
 
 ## 143-149 Rye Lane/1-15 Bournemouth Road Peckham - SE15 4ST 
 
@@ -88,13 +89,22 @@ This is one of the [Neo-Bankside](http://35percent.org/neo-bankside) off-site af
 
 This is yet another Notting Hill Housing association redevelopment of a council estate. It was supposed to provide 22 social rented homes as part of its [redevelopment of the Silwood estate](/silwood-estate-regeneration) involving the demolition of 57 council homes and construction of 127 new homes. The the definition of social rented in the section 106 agreement is worded as affordable rent and the [CORE lettings data system](https://core.communities.gov.uk/) shows that only 19 units have been let at social rent levels. 
 
+Conclusion
 
-The Council has allocated a £60,000 in order to conduct the audit process. We argue that this is woefully insufficient and represents just a fraction of the money it receives from developers precisely to fulfil this function.
-
-Southwark charges developers a 2% administration fee on the sum total of financial S106 contributions agreed, among other things for the purpose of monitoring S106 conditions. As can be seen from the table below this amounts to a considerable sum each year. We believe that far more of it should be invested to ensure that the S106 affordable housing conditions are properly monitored and enforced.
+Southwark has acknowledged that up until now it has not ensured that social rented housing has been delivered in accordance with planning approvals, but relied on 'volunary compliance'.    Southwark promises an annual public audit as a remedy, with some unspecified 'further investigation to ensure accuracy' and has budgetted £60,000 for this.  Developers and, unfortunately, housing associations have demonstrated that they cannot be trusted, so doubt that this will be enough.
+Southwark charges developers a 2% administration fee on the sum total of financial S106 contributions agreed, for, among other things the purpose of monitoring S106 conditions. The table below shows this amounts to a considerable sum each year and far more of it should be invested to ensure that the S106 affordable housing conditions are properly monitored and enforced.
 
 ![](http://35percent.org/img/s106table.png)
 *Extract from the Council's most recent [S106 contributions report](http://www.southwark.gov.uk/download/downloads/id/13876/s106_annual_report_2012-14)*
+
+We also need an audit not just 'going forward' but also one looking back, at planning applications for an least the past 10 years, to retreive the social housing that Southwark has lost, not just through the alleged frauds, but by being let at highher than social rents.  Only when Southwark has done this will we believe that 'the Council is committed to maximising the supply of new social rented homes in Southwark' as it claimed in its response to out compliant (link)
+
+
+
+
+
+
+
 
 
 
