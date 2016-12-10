@@ -4,37 +4,34 @@ title: "Ombudsman slams Southwark - no monitoring of social housing provision"
 subtitle: "Local Government Ombudsman finds that.."
 published: false
 ---
-The Local Government Ombudsman has issued a [damning judgement](http://35percent.org/img/LGOFinalDecisionSOR.pdf), slamming Southwark for having no procedures to ensure that levels of affordable housing agreed by the Council's planning committee are actually delivered. 
+The Local Government Ombudsman has issued the [damning judgement](http://35percent.org/img/LGOFinalDecisionSOR.pdf) that Southwark Council has had no procedure to ensure that social housing approved by the Council's planning committee is actually being delivered.  The Ombudsman further found that without a monitoring procedure 'it is hard to know ..how many social housing units...developers [have] delivered'.  Private developers should provide social housing in their housing schemes and the amount is written into their planning consents.  
 
 ![](http://35percent.org/img/LGOFinalDecisionSOR.png "Ombudsman decision")
 
-The decision came in response to a lengthy investigation, which was triggered as the result of us [referring](http://35percent.org/img/Ombudsman18July2016.pdf) our [Dec 2015 corporate complaint](http://35percent.org/img/ccomplaint15Dec2016.pdf) after Southwark initially [refused](http://35percent.org/img/complaintresponseMWilliams.pdf) to commit to the internal investigation and audit we demanded.
+The decision came after the 35% Campaign [referred](http://35percent.org/img/Ombudsman18July2016.pdf) its [Dec 2015 corporate complaint] to the Ombudsman.  This listed 42 developements where we thought the social rented housing may not have been delivered as required by the planning approval.
 
-In his [decision notice](http://35percent.org/img/LGOFinalDecisionSOR.pdf), the Ombudsman said that:
+In her [decision notice](http://35percent.org/img/LGOFinalDecisionSOR.pdf), the Ombudsman said that:
 
 >In response to my enquiries the Council says it is taking legal action in response to several of the breaches identified by Mr X. It also accepts it did not have a systematic supervision procedure to check compliance. It relied on developers’ voluntary compliance. (para. 12)
 
-He concludes that _'the Council accepts that fault'_ and has agreed to roll out _'a borough-wide annual audit to ensure compliance'_, nevertheless noting that _'until that audit is complete it is hard to know how many social housing units all section 106 agreements called for and how many developers delivered. Or indeed, how many remain social housing units.'_
+She concludes that _'the Council accepts that fault'_ and has agreed to roll out _'a borough-wide annual audit to ensure compliance'_, nevertheless noting that _'until that audit is complete it is hard to know how many social housing units all section 106 agreements called for and how many developers delivered. Or indeed, how many remain social housing units.'_
 
-What the Ombudsman doesn't point out is that the Council has allocated a measly £60,000 in order to conduct the audit process. We argue that this is woefully insufficient and represents just a fraction of the money it receives from developers precisely to fulfil this function.
-
-Southwark charges developers a 2% administration fee on the sum total of financial S106 contributions agreed, among other things for the purpose of monitoring S106 conditions. As can be seen from the table below this amounts to a considerable sum each year. We believe that far more of it should be invested to ensure that the S106 affordable housing conditions are properly monitored and enforced.
-
-![](http://35percent.org/img/s106table.png)
-*Extract from the Council's most recent [S106 contributions report](http://www.southwark.gov.uk/download/downloads/id/13876/s106_annual_report_2012-14)*
+Despite the Ombudsmans' decision and Southwark's own admission that it had no monitoring procedure in place, , no further action is proposed in any of the other instances submitted,aside from the two cases subject to legal action (the Jam Factory and Signal Tower).  This leaves unresolved issues about the levels of rent being charged for purportedly social rented properties.
 
 ## Background
-Our complaint came about as a result of our [discovery](http://35percent.org/2015-03-18-stand-up-for-more-social-housing/) in March 2015, that Notting Hill Housing Association had delivered affordable rented homes at up to 62% market rent, instead of social rent which had been the tenure agreed in the planning consent for the Bermondsey Spa regeneration. Here, permission had been granted for the demolition of a number of Council homes and the construction of 205 new homes, of which 44 were to be social rent. 
+
+Our complaint was prompted after we [discovered](http://35percent.org/2015-03-18-stand-up-for-more-social-housing/)in March 2015 that 44 social rented units had been lost from the Bermondsey Spa development and had instead been switched to affordable rent, at 62% market rent, by housing provider Notting Hill Housing Trust (NHHT).  
 
 ![](http://35percent.org/img/bspaexchange.png)
 
-We raised the issue of the Bermondsey Spa tenure switch and S106 compliance monitoring during the Aylesbury estate CPO public inquiry in April/May 2015. We were assured by the Council that it had robust compliance monitoring procedures in place and there was no possibility of Notting Hill pulling the same trick with its redevelopment of the Aylesbury estate. 
+The lost Bermondsey Spa homes were raised at the Aylesbury estate CPO inquiry in April/May 2015. The Council assured the inquiry that it had robust procedures in place and that it monitored compliance of S106 affordable housing provision every 12-18 months.  There was therefore no possibility of NHHT failing to deliver social rented housing in its redevelopment of the Aylesbury. This was evidently not true.
+
+Southwark struck a deal with NHHT to reprovide the 44 lost social rented units on another site, Manor Place depot.  This deal dounble counted the social rented units for both sites, so there was still a net loss of 44 units took and in any event the development has not been built, so we are still without these homes, 6 years after they recieved planning permission.
 
 ![](http://35percent.org/img/CPO_ExplanatoryNote12May2015.png)
 *[Inquiry document 27](http://crappistmartin.github.io/images/CPO_ExplanatoryNote12May2015.pdf) - evidence submitted by the Council to the CPO public inquiry, 12/05/2015*
 
-The Council submitted evidence to the inquiry, claiming that it has robust procedures in place and that it monitored compliance of S106 affordable housing provision every 12-18 months. However, having refused to provide further details of its monitoring procedures, we were unconvinced and decided to undertake further investigation.
-
+Other notable developements in our list included
 By cross-checking planning committee reports, section 106 agreements, Land Registry information, the [GLA affordable housing outturn dataset](http://data.london.gov.uk/dataset/gla-affordable-housing-programme-outturn/resource/0c87e5dc-f1e9-4edf-b246-bef6b40a9ba3) and [CORE lettings data](https://core.communities.gov.uk/), we managed to compile a long (but by no means exhaustive) [list](http://35percent.org/img/section106_tenure_breaches.pdf) of breaches in tenure provision. Here are a few of the instances we found:
 
 ## Colorama buildings
@@ -92,6 +89,12 @@ This is one of the [Neo-Bankside](http://35percent.org/neo-bankside) off-site af
 This is yet another Notting Hill Housing association redevelopment of a council estate. It was supposed to provide 22 social rented homes as part of its [redevelopment of the Silwood estate](/silwood-estate-regeneration) involving the demolition of 57 council homes and construction of 127 new homes. The the definition of social rented in the section 106 agreement is worded as affordable rent and the [CORE lettings data system](https://core.communities.gov.uk/) shows that only 19 units have been let at social rent levels. 
 
 
+The Council has allocated a £60,000 in order to conduct the audit process. We argue that this is woefully insufficient and represents just a fraction of the money it receives from developers precisely to fulfil this function.
+
+Southwark charges developers a 2% administration fee on the sum total of financial S106 contributions agreed, among other things for the purpose of monitoring S106 conditions. As can be seen from the table below this amounts to a considerable sum each year. We believe that far more of it should be invested to ensure that the S106 affordable housing conditions are properly monitored and enforced.
+
+![](http://35percent.org/img/s106table.png)
+*Extract from the Council's most recent [S106 contributions report](http://www.southwark.gov.uk/download/downloads/id/13876/s106_annual_report_2012-14)*
 
 
 
