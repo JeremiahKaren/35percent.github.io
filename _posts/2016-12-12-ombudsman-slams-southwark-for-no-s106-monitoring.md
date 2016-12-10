@@ -4,7 +4,7 @@ title: "Southwark's lost social housing"
 subtitle: "Ombudsman finds that Council doesn't know whether social housing is being delivered"
 published: true
 ---
-The Local Government Ombudsman has issued the [damning judgement](http://35percent.org/img/LGOFinalDecisionSOR.pdf) that Southwark Council has had no procedure to ensure that social rented housing approved by the Council's planning committee is actually being delivered. The Ombudsman further found that without a monitoring procedure _'it is hard to know ..how many social housing units...developers [have] delivered'. Or indeed, how many remain social housing units.’_    
+The Local Government Ombudsman has issued the [damning judgement](http://35percent.org/img/LGOFinalDecisionSOR.pdf) that Southwark Council has no procedure to ensure that social rented housing approved by the Council's planning committee is actually being delivered. The Ombudsman further found that without a monitoring procedure _'it is hard to know ..how many social housing units...developers [have] delivered'. Or indeed, how many remain social housing units.’_    
 
 ![](http://35percent.org/img/LGOFinalDecisionSOR.png "Ombudsman decision")
 
@@ -16,14 +16,14 @@ In her [decision notice](http://35percent.org/img/LGOFinalDecisionSOR.pdf), the 
 
 She concludes that _'the Council accepts that fault'_ and has agreed to roll out _'a borough-wide annual audit to ensure compliance'_, nonetheless noting that _'until that audit is complete it is hard to know how many social housing units all section 106 agreements called for and how many developers delivered. Or indeed, how many remain social housing units.'_ (para 20)
 
-Despite the Ombudsman's decision and Southwark's own admission that it had no monitoring procedure in place, no further action is proposed in any of the other instances submitted - aside from the two cases subject to legal action (the Jam Factory and Signal Tower).  This leaves unresolved issues about the levels of rent being charged for purportedly social rented properties.
+Despite the Ombudsman's decision and Southwark's own admission that it had no monitoring procedure in place, no further action is proposed in any of the other instances submitted - aside from the two cases subject to legal action (the Jam Factory and Signal Tower). This leaves [unresolved issues](http://35percent.org/redefining-social-rent) about the levels of rent being charged for purportedly social rented properties.
 
 ## Background
 
 Our complaint was prompted after we [discovered](http://35percent.org/2015-03-18-stand-up-for-more-social-housing/) in March 2015 that 44 social rented units had been lost from the Bermondsey Spa regeneration and had instead been switched to affordable rent, at 62% market rent, by housing provider Notting Hill Housing Trust (NHHT).  
 
 ![](http://35percent.org/img/bspaexchange.png)
-
+*Southwark News coverage of of the story [21/05/15](http://www.southwarknews.co.uk/news/southwark-council-probes-44-missing-social-homes/), [01/10/15](http://www.southwarknews.co.uk/news/council-takes-no-legal-action-over-44-missing-social-housing-units/), [11/02/16](http://crappistmartin.github.io/images/SN_affordablerent.pdf)*
 The lost Bermondsey Spa homes were raised at the [Aylesbury estate CPO inquiry](http://35percent.org/2015-05-16-aylesbury-cpo-inquiry-extra-time/) in May 2015. The Council assured the inquiry that it had robust procedures in place and that it monitored compliance of S106 affordable housing provision every 12-18 months. This was evidently not true, but was asserted to show that NHHT could be trusted to deliver social rented housing in the Aylesbury regeneration. 
 
 ![](http://35percent.org/img/CPO_ExplanatoryNote12May2015.png)
