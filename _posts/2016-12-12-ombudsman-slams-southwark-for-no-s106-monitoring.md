@@ -75,7 +75,7 @@ Southwark's [planning committee report](http://planbuild.southwark.gov.uk/docume
 
 ![](http://35percent.org/img/royalroad.jpg)
 
-This development was built on the site of a former old people's home. The Council sold the site (at cost) to Affinity Sutton housing association as it was designated as one of the [replacement housing sites](http://embed.verite.co/timeline/?source=0Aprl6XcACewydEhRaWFOLVBfUjBSVW1HUGVZNEhGeFE&font=Bevan-PotanoSans&maptype=toner&lang=en&hash_bookmark=true&start_zoom_adjust=2&height=650#15) for decanted Heygate tenants. Notwithstanding this, the development wasn't completed until 5 years after the estate was demolished and the 76 social rented homes consented were described as 'affordable rent' in the S106 agreement. The government's [CORE lettings database](https://core.communities.gov.uk) is showing only 45 units let at social rents at this site.
+This development was built on the site of a former old people's home. The site was designated as one of the [replacement housing sites](http://embed.verite.co/timeline/?source=0Aprl6XcACewydEhRaWFOLVBfUjBSVW1HUGVZNEhGeFE&font=Bevan-PotanoSans&maptype=toner&lang=en&hash_bookmark=true&start_zoom_adjust=2&height=650#15) for decanted Heygate tenants and sold by the Council, at cost, to Affinity Sutton housing association.  Notwithstanding this, the new development wasn't completed until 5 years after the Heygate was demolished and the 76 consented social rented homes were described as 'affordable rent' in the S106 agreement. The government's [CORE lettings database](https://core.communities.gov.uk) is showing only 45 units let at social rents at this site.
 
 ## 430 Old Kent Road SE1 5AG - (Family Mosaic development)
 
