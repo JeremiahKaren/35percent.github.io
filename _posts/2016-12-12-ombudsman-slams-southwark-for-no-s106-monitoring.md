@@ -32,11 +32,11 @@ The lost Bermondsey Spa homes were raised at the [Aylesbury estate CPO inquiry](
 ![](http://35percent.org/img/CPO_ExplanatoryNote12May2015.png)
 *[Inquiry document 27](http://crappistmartin.github.io/images/CPO_ExplanatoryNote12May2015.pdf) - evidence submitted by the Council to the CPO public inquiry, 12/05/2015*
 
-Southwark struck a deal with NHHT to reprovide the 44 lost social rented units on another site - [Manor Place depot](/manor-place-depot), but this deal double counted the social rented units and in any event the development is still not even under construction.
+Southwark struck a deal with NHHT to reprovide the 44 lost social rented units on another site - [Manor Place depot](http://35percent.org/manor-place-depot), but this deal double counted the social rented units and in any event the development is still not under construction.
 
 ## Social rent is not affordable rent
 
-Social rent is calculated by using a [legal formula](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/419271/Rent_Standard_Guidance_2015.pdf), based mainly on average local earnings; in Southwark social rent currently equates to [between 19-25% market rate](http://www.2.southwark.gov.uk/downloads/download/2914/affordable_rent_in_southwark_2011) and this percentage falls as market rents rise.
+Social rent is calculated by using a [legal formula](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/419271/Rent_Standard_Guidance_2015.pdf), based primarily on average local earnings; in Southwark social rent currently equates to [between 19-25% market rate](http://www.2.southwark.gov.uk/downloads/download/2914/affordable_rent_in_southwark_2011) and this percentage falls as market rents rise.
 
 Our [list](http://35percent.org/img/section106_tenure_breaches.pdf) of suspect developments shows many where the level of rent identifies them as affordable rent, not social rent.  The list was compliled by cross-checking planning committee reports, section 106 agreements, Land Registry information, the [GLA affordable housing outturn dataset](http://data.london.gov.uk/dataset/gla-affordable-housing-programme-outturn/resource/0c87e5dc-f1e9-4edf-b246-bef6b40a9ba3) and [CORE lettings data](https://core.communities.gov.uk/).
 
@@ -97,6 +97,7 @@ This is yet another Notting Hill Housing Trust redevelopment of a council estate
 ## Conclusion
 
 Southwark has confessed that up until now it has not ensured that social rented housing has been delivered in accordance with planning approvals, but instead relied on _'voluntary compliance'_. Southwark promises an annual public audit as a remedy, with some unspecified _'further investigation to ensure accuracy'_ and has budgeted £60,000 for this.  Developers and, unfortunately, housing associations have demonstrated that they cannot be trusted, so we doubt that this will be enough.
+
 Southwark charges developers a 2% administration fee on the sum total of financial S106 contributions, including affordable housing. The table below shows this amounts to be a considerable sum each year and far more of it should be invested to ensure that the affordable housing conditions are properly monitored and enforced.
 
 ![](http://35percent.org/img/s106table.png)
