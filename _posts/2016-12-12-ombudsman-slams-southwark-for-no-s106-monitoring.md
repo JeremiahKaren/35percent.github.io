@@ -12,7 +12,7 @@ The Ombudsman's decision came after the 35% Campaign [referred](http://35percent
 
 In her [decision notice](http://35percent.org/img/LGOFinalDecisionSOR.pdf), the Ombudsman said:
 
->In response to my enquiries the Council says it is taking legal action in response to several of the breaches identified by Mr X. It also accepts it did not have a systematic supervision procedure to check compliance. It relied on developers’ voluntary compliance. (para. 12)
+>"In response to my enquiries the Council says it is taking legal action in response to several of the breaches identified by Mr X. It also accepts it did not have a systematic supervision procedure to check compliance. It relied on developers’ voluntary compliance." (para. 12)
 
 She concludes that _'the Council accepts that fault'_ and has agreed to roll out _'a borough-wide annual audit to ensure compliance'_, nonetheless noting that _'until that audit is complete it is hard to know how many social housing units all section 106 agreements called for and how many developers delivered. Or indeed, how many remain social housing units.'_ (para 20)
 
