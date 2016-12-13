@@ -38,10 +38,10 @@ Furthermore, paragraphs 1.21 and 1.22 of the SPG effectively provide a welcome g
 
 Paragraphs 1.21 and 1.22 should be removed in their entirety to avoid providing a loophole which will undoubtedly be exploited.
 
-## CIL - priorities
+## CIL prioritised over affordable housing
 Pargraphs 2.12 and 2.13 provide another convenient get-out clause for developers, allowing them to argue that the CIL contributions for a given site render affordable housing requirements unviable. The wording of the paragraphs will effectively enable contributions to the Mayor's transport projects to trump affordable housing requirements.
 
-## Tenure
+## Tenure mix
 Paragraph 2.28 says that _"the Mayor is keen to maintain flexibility"_ in the tenure split requirements of the affordable housing quota. It goes on to require that 30% of the quota is provided as 'low cost rent' __which can either be social rent or affordable rent__; a futher 30% as intermediate; and the remainder to be decided on a borough level. 
 
 We are very disappointed that the Mayor is continuing to conflate the tenure social rent with affordable rent. As our recent [report](http://35percent.org/2016-12-12-ombudsman-slams-southwark-for-no-s106-monitoring/) shows, this has led to cases where affordable rent is being delivered in place of social rent at up to 78% market rent - more than three times social rent levels. 
@@ -55,9 +55,9 @@ We are also concerned that the Mayor has exempted 'build-to-rent' developments f
 ## Affordable housing in perpetuity
 As we have shown in our recent [report](http://35percent.org/2016-12-12-ombudsman-slams-southwark-for-no-s106-monitoring/) and Ombudsman investigation, Southwark has had no procedures for monitoring whether developments were providing the level of affordable housing required by planning consents. 
 
-Paragraphs 2.44 and 2.45 relating to securing affordable housing in perpetuity are meaningless unless they are accompanied by robust monitoring and enforcement procedures.
+Paragraphs 2.44 and 2.45 relating to securing affordable housing in perpetuity are meaningless unless they are accompanied by robust monitoring and enforcement procedures. These should be enshrined in planning policy and open to public scrutiny in order to ensure confidence in the planning process.
 
-## Off-site and cash in lieu 
+## Off-site provision and cash in lieu payments
 Paragraphs 2.48-2.53 enable the opportunity for developers to make an in-lieu payment or offsite provision instead of providing affordable housing on site. 
 
 This goes against the whole concept of affordable housing policy in that its objective is to create mixed communities.
@@ -68,7 +68,7 @@ This is a welcome section, but there remain ambiguities in the following wording
 >"The Mayor expects existing affordable housing to be replaced 
 on a like-for-like basis, meaning there should be no net loss of existing affordable housing tenures (including social rented accommodation)." (para 2.54)
 
-To avoid confusion and the possibility that this policy requirement could be left open to interpretation, we suggest that this should read _"there should be no net loss of social rented housing."_ 
+To avoid confusion and the possibility that this policy requirement could be left open to interpretation (i.e. reprovision as affordable rent), we suggest that this should read _"there should be no net loss of social rented housing."_ 
   
 ## Developer Profit
 >"Target profit levels should be appropriate to current market conditions and will reflect the level of risk being taken. They would currently be expected to be lower than levels that were typical following the financial downturn of 2008/9." (para 3.33)
@@ -78,13 +78,13 @@ We believe that a cap should be put on developer profit. In its [review](http://
 ## Benchmark Land Value
 Sections 3.36 to 3.49 set out the methodology for determining the benchmark land value used in viability testing. Whilst we support the assertion that Existing/Current Use Value should be used as the benchmark, we are concerned that there is not sufficient direction on how current use value should be calculated. 
 
-We suggest that the capitalised rateable value of the current use of a given site should be used as the way to determine its current use value. The rateable value is a figure set and held by the local authority, which has been subject to scrutiny and is therefore reliable. 
+We suggest that the capitalised rateable value of the current planning use of a given site should be used as the way to determine its current use value. The rateable value is a figure set and held by the local authority, which has been subject to scrutiny and is therefore reliable. 
 
 # Draft Good Practice Guide to Estate Regeneration
-In terms of the Mayors [Draft Good Practice Guide to Estate Regeneration](https://www.london.gov.uk/sites/default/files/draftgoodpracticeestateregenerationguidedec16.pdf), we have a brief comment to make on what we see are two major shortcomings:
+In terms of the Mayors [Draft Good Practice Guide to Estate Regeneration](https://www.london.gov.uk/sites/default/files/draftgoodpracticeestateregenerationguidedec16.pdf), we have a brief comment to make on what we see are three major shortcomings:
 
-1. The Mayor's guidelines state that _"demolition should only be followed where it does not result in a loss of social housing, or where all other options have been exhausted"_. However, according to [section 68](http://www.legislation.gov.uk/ukpga/2008/17/section/68) and [section 69](http://www.legislation.gov.uk/ukpga/2008/17/section/69) of the [Housing & Regeneration Act 2008](http://www.legislation.gov.uk/ukpga/2008/17/contents), the term 'social housing' includes both tenures social rent and affordable rent. In order to avoid ambiguity and leaving this guideline open to interpretation the wording should be changed from 'social housing' to 'social rented housing'.
+1. The Mayor's guidelines state that _"demolition should only be followed where it does not result in a loss of social housing, or where all other options have been exhausted"_. However, according to [section 68](http://www.legislation.gov.uk/ukpga/2008/17/section/68) and [section 69](http://www.legislation.gov.uk/ukpga/2008/17/section/69) of the [Housing & Regeneration Act 2008](http://www.legislation.gov.uk/ukpga/2008/17/contents), the term 'social housing' includes both tenures __social rent__ and __affordable rent__. In order to avoid ambiguity and being left open to interpretation, the wording should be changed from 'social housing' to 'social rented housing'.
 
-2. The Mayor's guidelines do not set out a requirement for the ballot of an estate's residents before demolition is pursued. We see this as a major shortcoming and feel that a ballot should be a bare minimum requirement of any estate demolition programme.   
+2. The Mayor's guidelines do not set out a requirement for the ballot of an estate's residents before demolition is pursued. In contrast, it actively encourages councils to avoid using ballots as a form of consulation. This is extremely disappointing. We see this as a major shortcoming and feel that a ballot should be the bare minimum consultation requirement of any estate demolition programme.   
 
-3. The Mayor's guidelines propose a 'fair deal' for leaseholders but do not set any minimum requirement for the basis of such a 'fair deal'. We feel that the minimum requirement of any such fair deal should be the requirement for leaseholders to be given the opportunity of a like-for-like lease swap for a similar property in the area. This will avoid the displacement of leaseholders that we have seen from schemes like the Heygate regeneration and avoid costly and lengthy Compulsory Purchase Proceedings, as we have seen on the Aylesbury estate.
+3. The Mayor's guidelines propose a 'fair deal' for leaseholders but fail to set any minimum requirement for the basis of what represents a 'fair deal'. We feel that the minimum requirement of any such fair deal should be the requirement for leaseholders to be given the opportunity of a like-for-like lease swap, either for a new property on the redeveloped estate, or for a similar council-owned property in the area. This will avoid the displacement of leaseholders that we have seen from schemes like the Heygate regeneration and avoid costly and lengthy Compulsory Purchase Proceedings, as we have seen on the Aylesbury estate.
