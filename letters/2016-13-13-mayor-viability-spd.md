@@ -15,9 +15,9 @@ Dear Mayor,
 
 We are a campaign group which was set up in response to Southwark Council's repeated failure to ensure that developments provide the 35% affordable housing quota required by its planning policy.
 
-Within the course of our campaigning activities, we have gained a thorough understanding of viability and have given evidence at examinations in public, public inquiries and Tribunal hearings into the disclosure of viability information.
+Within the course of our campaigning activities, we have gained a thorough understanding of viability and have given evidence at examinations in public, public inquiries and Tribunal hearings into viability testing and the disclosure of viability information.
 
-Whilst we welcome the Mayor's attempts to provide more detailed guidance on viability testing and affordable housing provision, we have some serious reservations about the draft SPG. These are laid out as follows:
+Whilst we welcome the Mayor's attempts to provide more detailed guidance on viability and affordable housing provision, we have some serious reservations about the draft SPG. These are laid out as follows:
 
 ## The Mayor and Referrable Applications
 
@@ -27,14 +27,14 @@ Authority for the purposes of determining an application (often referred to as a
 
 We are concerned about the level of discretion enabled by the wording of this paragraph. As we have seen with some major developments in Southwark, local authorities don't have the capacity, resources or expertise to sufficiently scrutinise viability and scrutiny can be compromised by political influence and objectives.
 
-We believe that ALL major planning applications which don't meet the 35% affordable housing requirement should be called in for scrutiny by the Mayor.
+We believe that ALL major planning applications which don't meet the 35% minimum affordable housing requirement should be called in for scrutiny by the Mayor.
 
 ## Transparency of Information
 >"The Mayor wants the GLA to lead the way in openness and transparency.  In particular he considers that information relevant to planning determinations should be publicly available alongside the other application documents in order to foster a greater understanding of and trust in the planning system." (para. 1.17)
 
-We believe that this wording should be amended to ensure that ALL viability information submitted is made publicly available AT THE SAME time as other application documents. This will avoid the problem we have here in Southwark where viability assessments are only made public a week before the planning committee hearing. This is clearly insufficient time for members of the public to digest such information.
+We believe that this wording should be amended to ensure that ALL viability information submitted is made publicly available __at the same time__, i.e. contemporaneously with other application documents. This will avoid the problem we have experienced here in Southwark, where viability assessments are only made public a week before the planning committee hearing. This is clearly insufficient time for members of the public to digest such information.
 
-Furthermore, paragraphs 1.21 and 1.22 effectively provide a welcome get-out clause for developers enabling them to keep information confidential in 'exceptional circumstances'. We have seen in Southwark how 'exceptional circumstances' can quickly become integrated into routine practice.
+Furthermore, paragraphs 1.21 and 1.22 of the SPG effectively provide a welcome get-out clause for developers, enabling them to keep information confidential in 'exceptional circumstances'. We have seen in Southwark how 'exceptional circumstances' can quickly become integrated into routine practice.
 
 Paragraphs 1.21 and 1.22 should be removed in their entirety to avoid providing a loophole which will undoubtedly be exploited.
 
@@ -42,18 +42,18 @@ Paragraphs 1.21 and 1.22 should be removed in their entirety to avoid providing 
 Pargraphs 2.12 and 2.13 provide another convenient get-out clause for developers, allowing them to argue that the CIL contributions for a given site render affordable housing requirements unviable. The wording of the paragraphs will effectively enable contributions to the Mayor's transport projects to trump affordable housing requirements.
 
 ## Tenure
-Paragraph 2.28 says that _"the Mayor is keen to maintain flexibility"_ in the tenure split requirements of the affordable housing quota. It goes on to require that 30% of the quota is provided as 'low cost rent' which can either be social rent or affordable rent; a futher 30% as intermediate; and the remainder to be decided on a borough level. 
+Paragraph 2.28 says that _"the Mayor is keen to maintain flexibility"_ in the tenure split requirements of the affordable housing quota. It goes on to require that 30% of the quota is provided as 'low cost rent' __which can either be social rent or affordable rent__; a futher 30% as intermediate; and the remainder to be decided on a borough level. 
 
 We are very disappointed that the Mayor is continuing to conflate the tenure social rent with affordable rent. As our recent [report](http://35percent.org/2016-12-12-ombudsman-slams-southwark-for-no-s106-monitoring/) shows, this has led to cases where affordable rent is being delivered in place of social rent at up to 78% market rent - more than three times social rent levels. 
 
-Given that a large number of Londoners can afford nothing but social rent, we fail to understand why the Mayor's new affordable SPG makes no requirement for social rented housing whatsoever.
+Given that a large number of the capital's residents cannot afford anything but social rent, we fail to understand why the Mayor's new affordable SPG makes no requirement for social rented housing whatsoever.
 
-Equally alarming is that the Mayor has allocated £3.15bn for 90,000 new affordable homes in the capital, but the [guidance](http://www.insidehousing.co.uk/journals/2016/11/28/g/d/y/GLA-Homes-For-London_v7.pdf) for the funding programme doesn't make any mention of funding for buiulding social rented homes.   
+Equally alarming is that the Mayor has allocated £3.15bn for 90,000 new affordable homes in the capital, but the [guidance](http://www.insidehousing.co.uk/journals/2016/11/28/g/d/y/GLA-Homes-For-London_v7.pdf) for the funding programme doesn't make any mention of funding for building new social rented homes.   
 
 We are also concerned that the Mayor has exempted 'build-to-rent' developments from affordable housing requirements. (Jerry to expand on this)
 
 ## Affordable housing in perpetuity
-As we have shown in our recent [report](http://35percent.org/2016-12-12-ombudsman-slams-southwark-for-no-s106-monitoring/) and Ombudsman investigation, Southwark has no procedures for monitoring whether developments were providing the level of affordable housing required by planning consents. 
+As we have shown in our recent [report](http://35percent.org/2016-12-12-ombudsman-slams-southwark-for-no-s106-monitoring/) and Ombudsman investigation, Southwark has had no procedures for monitoring whether developments were providing the level of affordable housing required by planning consents. 
 
 Paragraphs 2.44 and 2.45 relating to securing affordable housing in perpetuity are meaningless unless they are accompanied by robust monitoring and enforcement procedures.
 
@@ -68,7 +68,7 @@ This is a welcome section, but there remain ambiguities in the following wording
 >"The Mayor expects existing affordable housing to be replaced 
 on a like-for-like basis, meaning there should be no net loss of existing affordable housing tenures (including social rented accommodation)." (para 2.54)
 
-To avoid confusion which could be open to interpretation, we suggest that this should read _"there should be no net loss of social rented housing."_ 
+To avoid confusion and the possibility that this policy requirement could be left open to interpretation, we suggest that this should read _"there should be no net loss of social rented housing."_ 
   
 ## Developer Profit
 >"Target profit levels should be appropriate to current market conditions and will reflect the level of risk being taken. They would currently be expected to be lower than levels that were typical following the financial downturn of 2008/9." (para 3.33)
