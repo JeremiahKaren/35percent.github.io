@@ -9,7 +9,7 @@ City Hall
 The Queen's Walk  
 London SE1 2AA
 
-__RE: Consultation on Draft Affordable Housing and Viability SPG 2016__
+__RE: Consultation on Draft Affordable Housing/Viability SPG 2016 & Good Practice Guidelines on estate regeneration__
 
 Dear Mayor,
 
@@ -79,3 +79,12 @@ We believe that a cap should be put on developer profit. In its [review](http://
 Sections 3.36 to 3.49 set out the methodology for determining the benchmark land value used in viability testing. Whilst we support the assertion that Existing/Current Use Value should be used as the benchmark, we are concerned that there is not sufficient direction on how current use value should be calculated. 
 
 We suggest that the capitalised rateable value of the current use of a given site should be used as the way to determine its current use value. The rateable value is a figure set and held by the local authority, which has been subject to scrutiny and is therefore reliable. 
+
+# Draft Good Practice Guide to Estate Regeneration
+In terms of the Mayors [Draft Good Practice Guide to Estate Regeneration](https://www.london.gov.uk/sites/default/files/draftgoodpracticeestateregenerationguidedec16.pdf), we have a brief comment to make on what we see are two major shortcomings:
+
+1. The Mayor's guidelines state that _"demolition should only be followed where it does not result in a loss of social housing, or where all other options have been exhausted"_. However, according to [section 68](http://www.legislation.gov.uk/ukpga/2008/17/section/68) and [section 69](http://www.legislation.gov.uk/ukpga/2008/17/section/69) of the [Housing & Regeneration Act 2008](http://www.legislation.gov.uk/ukpga/2008/17/contents), the term 'social housing' includes both tenures social rent and affordable rent. In order to avoid ambiguity and leaving this guideline open to interpretation the wording should be changed from 'social housing' to 'social rented housing'.
+
+2. The Mayor's guidelines do not set out a requirement for the ballot of an estate's residents before demolition is pursued. We see this as a major shortcoming and feel that a ballot should be a bare minimum requirement of any estate demolition programme.   
+
+3. The Mayor's guidelines propose a 'fair deal' for leaseholders but do not set any minimum requirement for the basis of such a 'fair deal'. We feel that the minimum requirement of any such fair deal should be the requirement for leaseholders to be given the opportunity of a like-for-like lease swap for a similar property in the area. This will avoid the displacement of leaseholders that we have seen from schemes like the Heygate regeneration and avoid costly and lengthy Compulsory Purchase Proceedings, as we have seen on the Aylesbury estate.
