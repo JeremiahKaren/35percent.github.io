@@ -4,18 +4,20 @@
 | Bermondsey SE16 3UQ |
 | 19 November 2016 |
 
-Sadiq Khan
-City Hall
-The Queen's Walk
+Sadiq Khan  
+City Hall  
+The Queen's Walk  
 London SE1 2AA
+
+__RE: Consultation on Draft Affordable Housing and Viability SPG 2016__
 
 Dear Mayor,
 
-We are a campaign group which was set up in response to Southwark Council's persistent failure to secure the 35% affordable housing required by its local planning policy.
+We are a campaign group which was set up in response to Southwark Council's repeated failure to ensure that developments provide the 35% affordable housing quota required by its planning policy.
 
 Within the course of our campaigning activities, we have gained a thorough understanding of viability and have given evidence at examinations in public, public inquiries and Tribunal hearings into the disclosure of viability information.
 
-Whilst we welcome the Mayor's new draft and affordable housing SPG, we have some serious reservations about the wording. These are laid out as follows:
+Whilst we welcome the Mayor's attempts to provide more detailed guidance on viability testing and affordable housing provision, we have some serious reservations about the draft SPG. These are laid out as follows:
 
 ## The Mayor and Referrable Applications
 
