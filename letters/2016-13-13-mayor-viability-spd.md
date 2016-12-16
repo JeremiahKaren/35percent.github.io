@@ -62,7 +62,7 @@ Equally alarming is that the Mayor has allocated £3.15bn in order to build 90,0
 
 It does provide funding for a new kind of affordable housing tenure __'London Affordable Rent'__, for which the funding guidance gives an ambiguous definition. It says that the 'starting point' for these rent levels are 'set out in the table below': 
 
-![](/img/startingpointtable.png)
+![](http://35percent.org/img/startingpointtable.png)
 
 However, this is then compromised by small print which says that higher rent levels 'will also be considered'. 
 

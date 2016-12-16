@@ -19,6 +19,10 @@ D3S graph showing actcual expenditure from the Council's capital budget books:
 ## Net contributor
 Show how Aylesbury is a net contributor to the HRA
 
+## Temporary accommodation
+southwark is currently spending £2.24m per year to private landlords to accommodate 350 homeless households in B&B accommodation (£6.4k per household per year). Were it to use the empty homes on the FDS to house these then it would run surplus of £6,500 per household per year. 
+
+
 ## 11000 new council homes
 During the interview, Cllr John brushes off criticism concerning the loss of social housing on the Heygate, with the claim that Southwark has got the country's largest council house building programme, with a target of building 11,000 new council homes over the next 30 years (366 per year).  
 However, [data just published by the 
