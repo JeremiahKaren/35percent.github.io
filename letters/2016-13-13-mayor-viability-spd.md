@@ -19,6 +19,8 @@ London SE1 2AA
 
 __RE: Response to consultation on Draft Affordable Housing/Viability SPG 2016 & Good Practice Guidelines on Estate Regeneration__
 
+![](http://35percent.org/img/homesforlondoners.png)
+
 Dear Mayor,
 
 The 35% Campaign is a campaign group set up in response to Southwark Council's repeated failure to ensure that developments provide the miniumum 35% affordable housing quota required by its planning policy.
