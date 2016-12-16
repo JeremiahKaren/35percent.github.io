@@ -14,7 +14,8 @@ The application's [planning statement](http://planbuild.southwark.gov.uk/documen
 It makes a vague offer of some kind of _'relocation strategy'_ but fails to explain what this involves and says this will only be implemented _'following the grant of planning permission'_.
 
 ## Affordable housing
-The [affordable housing statement](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!i%2fH2BvEXXozMcypxg9AnYA%3d%3d!%7d%7d%7d) says that there will be 35% affordable housing, but comprising entirely Discounted Market Rent. It doesn't say exactly what level of discount will be applied, but does say that rents will be set at up to 80% of market rent.
+The [affordable housing statement](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!i%2fH2BvEXXozMcypxg9AnYA%3d%3d!%7d%7d%7d) says that there will be 35% affordable housing, but comprising entirely Discounted Market Rent. It doesn't say exactly what level of discount will be applied, but does say that rents will be set at up to 80% of market rent. It says only that 40% of the affordable housing will be at rents equivalent or lower than London Living Rent - this is currently calculated at around £1000pcm for a 1-bed at the Elephant. It also says _"The blended percentage of market rent across all the DMR homes is 57% with a range
+of 15% to 80% of Market Rent."_ What does it mean by a 'blended percentage'?I don't take this to be a weighted average although that is how it comes across..
 
 The Financial Viability Assessment summary submitted by Delancey includes double counting (acquisition costs (BLV) included as a cost) and inflated Benchmark Land Value. Delancey paid £80m for the shopping centre site in 2013. The shopping centre previously exchanged hands in 2003 for £25m. LCC?  
 
