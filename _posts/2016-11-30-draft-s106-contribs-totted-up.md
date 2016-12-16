@@ -1,9 +1,11 @@
 ---
 layout: post
-title: "Enter the title of the blog post here"
-subtitle: "Enter the subtitle of the blog post here"
+title: "Regeneration: Who pays? Who benefits?"
+subtitle: "Public sector pays, private sector gains"
 published: false
 ---
+![](/img/nkrhoardings.jpg)
+
 Cllr Williams has claimed that the regeneration is paying for the new Elephant and Castle leisure centre. We show that this is not the case:
 /img/sundaytimes4thNov2016.pdf
 /img/sundaytimes4thNov2016.png
