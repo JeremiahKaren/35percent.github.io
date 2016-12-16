@@ -72,6 +72,8 @@ Furthermore, the SPG offers developers yet another loophole in that after 15 yea
 
 ‘Build to rent’ PRS is free-market housing, which policy allows the developer to build in generous proportions and with ample profit. As free-market housing it should be subject to affordable housing requirements just as other private housing developments. 
 
+Effectively, what the Mayor has just done is to have offered Delancey a welcome escape from Southwark's 35% affordable housing policy. Under current policy Delancey would have had to provide 35% affordable housing in its mammoth redevelopment of the E&C shopping centre and LCC campus. Now the Mayor's SPG has effectively exempted Delancey from this requirement and removed the chance of any new homes affordable to local people at the Elephant. No wonder then that Delancey has delayed submitted its planning application..
+
 ## Affordable housing in perpetuity
 As we have shown in our recent [report](http://35percent.org/2016-12-12-ombudsman-slams-southwark-for-no-s106-monitoring/) and Ombudsman investigation, Southwark has had no procedures for monitoring whether developments are providing the level of affordable housing required by planning consents. 
 
@@ -92,7 +94,11 @@ To avoid confusion and the possibility that this policy requirement could be lef
 ## Developer Profit
 >"Target profit levels should be appropriate to current market conditions and will reflect the level of risk being taken. They would currently be expected to be lower than levels that were typical following the financial downturn of 2008/9." (para 3.33)
 
-We believe that a cap should be placed on developer profit. In its [review](http://crappistmartin.github.io/images/DVSreport_HeygateOutline.pdf) of the Heygate estate redevelopment, the District Valuer asserted that most schemes average out below 15% profit. We see no reason why this should not be set as the upper limit of permissible developer's profit.
+Whilst asserting that developer profit should be 'lower than levels .. following the downturn of 2008/9, the guidance fails to indicate what these levels were. We feel that this leaves the guidance open to various degrees of interpretation and that a cap should be placed on developer profit to avoid this.
+
+The GLA's own [3 Dragons Viability Testing Toolkit](http://35percent.org/img/3DragonsToolkit.zip) from 2008/9 assumed a benchmark developer return of 17%. In its [review](http://crappistmartin.github.io/images/DVSreport_HeygateOutline.pdf) of the Heygate estate redevelopment, the District Valuer asserted that most schemes average out below 15% profit.
+
+The  We see no reason why 15%-17% should therefore not be set as the permissible level of developer's profit and any departure from this must be justified by robust evidence.
 
 ## Benchmark Land Value
 Sections 3.36 to 3.49 set out the methodology for determining the benchmark land value used in viability testing. Whilst we support the assertion that Existing/Current Use Value should be used as the viability benchmark, we are concerned that there is not sufficient direction on how current use value should be calculated. 
@@ -107,5 +113,14 @@ In terms of the Mayor's [Draft Good Practice Guide to Estate Regeneration](https
 2. The Mayor's guidelines do not set out a requirement for the ballot of an estate's residents before demolition is pursued. In contrast, it actively encourages councils to avoid using ballots as a form of consulation. This is extremely disappointing. We see this as a major shortcoming and feel that a ballot should be the bare minimum consultation requirement of any estate demolition programme.   
 
 3. The Mayor's guidelines propose a 'fair deal' for leaseholders but fail to set any minimum requirement for the basis of what represents a 'fair deal'. We feel that the minimum requirement of any such fair deal should be the requirement for leaseholders to be given the opportunity of a like-for-like lease swap, either for a new property on the redeveloped estate, or for a similar council-owned property in the area. This will avoid the displacement of leaseholders that we have seen from schemes like the Heygate regeneration and avoid costly and lengthy Compulsory Purchase Proceedings, as we have seen on the Aylesbury estate.
+
+## Conclusion
+During his election pledge, the Mayor pledged to get tough on viability, tough on developers and force them to deliver a minimum of 50% 'genuinely affordable housing'. 
+
+The Mayor's draft planning policies to achieve this are full of loopholes and get-out clauses, which developers will undoubtedly take full advantage of. Little wonder then that developers have 'reacted positively' to the proposed policies..
+
+His 'crack viability team' who will negotiate with developers is made up of just 3 GLA officers. This is wholly insufficient...
+
+Bla bla, business as usual - more tenures, more terms, more confusion - NO SOCIAL RENT.
 
 __END OF DRAFT__
