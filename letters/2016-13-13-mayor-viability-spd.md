@@ -60,7 +60,17 @@ Given that a large number of the capital's residents cannot afford anything but 
 
 Equally alarming is that the Mayor has allocated £3.15bn in order to build 90,000 new affordable homes in the capital, but the [guidance](http://www.insidehousing.co.uk/journals/2016/11/28/g/d/y/GLA-Homes-For-London_v7.pdf) for the funding programme doesn't make any mention of funding for building new social rented homes.   
 
-We are also concerned that the Mayor has exempted 'build-to-rent' developments from affordable housing requirements. This policy positions ‘build to rent’ PRS housing as an alternative to affordable housing, contrary to the obvious fact that it is free-market housing, contrary to national and regional policy and without evidence to demonstrate which part of London's housing need it meets.  ‘Build to rent’ PRS is free-market housing, which policy allows the developer to build in generous proportions and with ample profit. As free-market housing it should be subject to affordable housing requirements just as other private housing developments. 
+It does provide funding for a new kind of affordable housing tenure __'London Affordable Rent'__, for which the funding guidance gives an ambiguous definition. It says that the 'starting point' for these rent levels are 'set out in the table below': 
+
+![](/img/startingpointtable.png)
+
+However, this is then compromised by small print which says that higher rent levels 'will also be considered'. 
+
+We are also concerned that the Mayor has exempted 'build-to-rent' developments from affordable housing requirements. This policy positions ‘build to rent’ PRS housing as an alternative to affordable housing, contrary to the obvious fact that it is free-market housing, contrary to national and regional policy and without evidence to demonstrate which part of London's housing need it meets. Paragraph 4.19 of the SPG exempts Build-to-rent developments from normal affordable housing requirements, allowing these to be substituted for 'discounted market rent' - i.e. up to 80% market rent.
+
+Furthermore, the SPG offers developers yet another loophole in that after 15 years the developer is free to sell the build-to-rent properties on the open market. This loophole is ripe for gaming and is an open door to developers.
+
+‘Build to rent’ PRS is free-market housing, which policy allows the developer to build in generous proportions and with ample profit. As free-market housing it should be subject to affordable housing requirements just as other private housing developments. 
 
 ## Affordable housing in perpetuity
 As we have shown in our recent [report](http://35percent.org/2016-12-12-ombudsman-slams-southwark-for-no-s106-monitoring/) and Ombudsman investigation, Southwark has had no procedures for monitoring whether developments are providing the level of affordable housing required by planning consents. 
