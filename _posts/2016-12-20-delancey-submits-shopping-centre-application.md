@@ -8,7 +8,7 @@ published: true
 
 Developer Delancey has finally submitted its [application](http://planbuild.southwark.gov.uk/documents/?casereference=16/AP/4458&system=DC) for the redevelopment of the [Elephant & Castle shopping centre](http://35percent.org/shopping-centre/) and London College of Communication campus. It will be a mixed use development of shops, offices, homes and leisure facilities, including a cinema. It will also provide a new entrance and ticket-hall for the Northern Line tube station.
 
-![](http://35percent.org/delanceyplan.jpg)
+![](http://35percent.org/img/delanceyplan.jpg)
 
 According to the [affordable housing statement](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!i%2fH2BvEXXozMcypxg9AnYA%3d%3d!%7d%7d%7d) all of the proposed 979 residential units will be for rent, none for sale. There will be 35% affordable housing, but none of it will be social rented or part-buy/part-rent.  Instead the affordable housing will be something called 'Dicounted Market Rent' (DMR), let at a _'blended percentage'_ of 57% market rent. At least 40% of the affordable housing will be let at or below the new London Living Rent, which would currently [equate to around £1000pcm for a 1-bed flat at the Elephant](https://www.london.gov.uk/sites/default/files/london_living_rent_-_monthly_ward-level_rents_by_size.xlsx).
 The affordable housing tenants would be on 3-year assured short-hold tenancies, not on assured tenancies with no time limit, as issued by housing associations.
