@@ -1,7 +1,7 @@
 ---
 title: "Shopping Centre stitch-up - Delancey submits planning application"
 subtitle: "Over 900 new homes, but no social rented. No room for current shop-keepers"
-published: false
+published: true
 ---
 ![](http://35percent.org/img/delanceyaerial.png)
 
