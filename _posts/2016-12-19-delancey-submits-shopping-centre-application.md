@@ -6,7 +6,7 @@ published: true
 ---
 ![](http://35percent.org/img/delanceyaerial.png)
 
-Developer Delancey has finally submitted its [application](http://planbuild.southwark.gov.uk/documents/?casereference=16/AP/4458&system=DC) for the redevelopment of the [Elephant & Castle shopping centre](http://35percent.org/shopping-centre/) and London College of Communication campus. It will be a mixed use development of shops, offices, homes and leisure facilities, including a cinema. It will also provide a new entrance and ticket-hall for the Northern Line tube station.
+Developer Delancey has finally submitted its [application](http://planbuild.southwark.gov.uk/documents/?casereference=16/AP/4458&system=DC) for the redevelopment of the [Elephant & Castle shopping centre](http://35percent.org/shopping-centre/) and London College of Communication campus. It will be a mixed use development of shops, offices, homes and campus facilities. It will also provide a new entrance and ticket-hall for the Northern Line tube station.
 
 ![](http://35percent.org/img/delanceyplan.jpg)
 
