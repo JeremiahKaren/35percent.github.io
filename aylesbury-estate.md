@@ -144,7 +144,7 @@ The AAAP goes on to explain possible scenarios for bridging the funding gap shou
 ![](/img/aaapbridgingthegap.png)
 *Extract from final adopted version of the AAAP*
 
-Development schemes in Southwark are currently [delivering](http://35percent.org/2016-05-07-southwark-in-bottom-3-boroughs-for-affordable-housing-delivery/) on average 3% affordable housing, largely with social rent substituted for affordable rent. So we find it hard to believe that Notting Hill can deliver a scheme with 50% affordable housing comprising 75% social rent. We find it even more difficult to believe that Notting Hill is also expecting to extract a 15% profit margin (representing ca. £150m) and Southwark is also expecting to receive payments for the land. 
+Development schemes in Southwark are currently [delivering](http://35percent.org/2016-05-07-southwark-in-bottom-3-boroughs-for-affordable-housing-delivery/) on average 3% affordable housing, largely with social rent substituted for affordable rent. So we find it hard to believe that Notting Hill can deliver a scheme with 50% affordable housing comprising 75% social rent. We find it even more difficult to believe that Notting Hill is also expecting to extract a 21% profit margin (representing ca. £150m) and Southwark is also expecting to receive payments for the land sale. 
 
 Despite its new [transparency 
 policy](http://www.southwark.gov.uk/news/article/2062/viability_assessments_must_be_published_in_southwark_%E2%80%93_consultation_launched) 
@@ -157,23 +157,18 @@ and directed Southwark Council to disclose the unredacted viability report. The
 disclosed [viability assessment](/img/document.pdf) reveals that Barratt will 
 make a minimum (guaranteed) 21% profit from the scheme, expected to amount to a 
 minimum of £163m, while Southwark will receive staged land payments calculated 
-as a residual value once scheme costs once Notting Hill's 15% and Barratt's 21% 
-profit has been deducted[^5].  The assessment shows that this is currently 
-expected to amount to just £51m. 
+as a residual value once scheme costs including Notting Hill's 21% profit have been deducted[^5].  The assessment shows that the Council's return is currently expected to amount to just £51m - well below the £150m it is spending on decant and demolition.   
 
 ![](/img/profitshare.png)
 
-Southwark does have the benefit of a planning overage clause where it receives 50% of any overage sales profit, but this is only triggered once sales values exceed £471 per sqft[^6]. 
+Southwark does have the benefit of a planning overage clause where it receives 50% of any overage sales profit, but this is only triggered once sales values exceed £471 per sqft[^6] and this depends on how Barratt and Notting Hill manage the development account. Other profit share deals the Council has struck for estate regenerations have [resulted](http://35percent.org/2016-05-11-no-profit-share-the-true-value-of-the-heygate-regeneration/) in zero sum shares for the Council. 
 
-It's important to note that Notting Hill won't be building the new homes. This 
+It's also important to note that Notting Hill won't be building the new homes. This 
 has been 
 [contracted](http://www.nottinghillhousing.org.uk/our-developments/aylesbury-estate-southwark) 
 to Barratt Homes in a joint-venture agreement, which will see Barratt also 
-receive a healthy slice of the profits. The development agreement gives Barratt 
-a 21% guaranteed profit on the private sales values plus half of the Gross 
-Development Value (based on £451 per sqft).  According to Notting Hill's 
-[viability assessment](/img/document.pdf) the 21% profit alone will amount to 
-£163m[^7].
+receive a healthy slice of the profits. The development agreement allows Barratt to keep half of the proceeds from its sale of the 1700 private units being built as part of the scheme (based on sales values of £451 per sqft), minus   
+a 21% guaranteed profit for Notting Hill. According to Notting Hill's [viability assessment](/img/document.pdf) its 21% profit extracted from the redevelopment will amount to £163m[^7].
 
 ![](http://35percent.org/img/barratprofit.png)
 
