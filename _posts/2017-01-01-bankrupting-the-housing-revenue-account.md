@@ -14,6 +14,11 @@ The Council's Housing Revenue Account is its budget account for council housing;
 
 D3S graph showing actcual expenditure from the Council's capital budget books:
 
+http://35percent.org/2016-09-26-council-appeals-aylesbury-cpo-decision/#the-business-case-for-a-moratorium
+
+It's not just Council money that has been swallowed up by the scheme
+The scheme has also digested a staggering 69m of government funding (56m NDC plus 13m HCA)
+en allocated 46m from the government’s Estate Regeneration Fund and £27m from GLA funding to date, plus £13m of HCA funding
 
 
 ## Net contributor
