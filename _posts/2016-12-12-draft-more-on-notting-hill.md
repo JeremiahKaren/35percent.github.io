@@ -4,6 +4,13 @@ title: "Notting Hill tenure switch in Lambeth"
 subtitle: "NHHT up to its same tricks in other boroughs"
 published: false
 ---
+As we [reported in December](http://35percent.org/2016-12-12-ombudsman-slams-southwark-for-no-s106-monitoring/), Southwark has been slammed by the ombudsman for having no monitoring or enforcement of affordable housing provision. It had been relying on the good faith of developers and housing associations to provide the affordable housing in planning consents by the Council's planning committee.
+
+The ombudsman has directed the Council to conduct an audit, but hasn't set a deadline for it.
+Meanwhile, we are continuing to add to the list of breaches we submitted to the council. This time we have come across a new-build flat at Elephant & Castle, which was supposed to be let at intermediate rent to families on the Council's waiting list. Instead it has been sold on the open market and is currently being used as a full-time AirBNB let at 129 per night.
+
+There is a housing crisis. Southwark needs to get its act together, complete this audit and take enforcement action to return this lost affordable housing to those in housing need.
+
 ## Not just Southwark
 What we haven't mentioned before is that this 'tenure switch' practice appears to 
 extend to beyond Southwark and it appears that Lambeth is having the wool 
@@ -48,7 +55,7 @@ Dene](http://35percent.org/wood-dene-estate-regeneration/) and Aylesbury
 estates.
 
 ## Key drivers
-Notting Hill is one of the key drivers behind the 
+Notting Hill is by far London's largest housing association and one of the key drivers behind the 
 [g15](https://en.wikipedia.org/wiki/G15_%28housing_associations%29) – who 
 represent London’s largest housing associations. Last week it [launched a 
 report](https://www.nhhg.org.uk/news/news/all/meeting-the-challenges-of-urban-renewal/) 
