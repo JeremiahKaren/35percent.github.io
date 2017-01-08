@@ -22,6 +22,18 @@ Show how Aylesbury is a net contributor to the HRA
 ## Temporary accommodation
 southwark is currently spending £2.24m per year to private landlords to accommodate 350 homeless households in B&B accommodation (£6.4k per household per year). Were it to use the empty homes on the FDS to house these then it would run surplus of £6,500 per household per year. 
 
+## Aylesbury costs means budget cuts
+The huge allocation of funds to the Aylesbury regeneration has meant cuts elsewhere. This yeare the Council has [cut](http://moderngov.southwark.gov.uk/documents/s59115/Policy%20and%20Resources%20Strategy%20201617%20to%20201819.pdf) a staggering £39m from its budget for education and adult services. Here is a map of some adult services buildings that have been, or are being sold off or closed down by the Council's current (Labour) administration:
+   
+<center>
+<iframe src="http://35percent.org/soldbysouthwark.html" width="800" height="600"></iframe> 
+<font size="2">Click <a href="http://35percent.org/soldbysouthwark.html">here</a> to view our map in a separate browser window</font> 
+</center>
+
+Besides closing down or selling off its community and social services facilities, the Council has been busy [selling off its Town Halls](http://35percent.org/southwark-town-halls/) and street properties. This is not to mention the hundreds of council homes [sold at auction](/images/sold_by_southwark.pdf) by the Council's current (Labour) administration.
+
+
+
 
 ## 11000 new council homes
 During the interview, Cllr John brushes off criticism concerning the loss of social housing on the Heygate, with the claim that Southwark has got the country's largest council house building programme, with a target of building 11,000 new council homes over the next 30 years (366 per year).  
