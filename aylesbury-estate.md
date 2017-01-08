@@ -218,10 +218,13 @@ Both [leaseholders](http://halag.wordpress.com) and [tenants](http://aylesburyte
 [Audit showing community spaces lost](/img/Aylesbury_Audit_Community_Spaces.pdf)
 [Albany Place - DHN info](/img/Totters_Court.pdf)
 
-Guardian (Long Read) [article](https://www.theguardian.com/society/2016/jul/13/aylesbury-estate-south-london-social-housing) by Andy Beckett - 13th July 2016. 
+[https://www.architectsjournal.co.uk/news/aylesbury-estate-southwark-councils-judicial-review-application-over-cpos-refused/10016008.article](https://www.architectsjournal.co.uk/news/aylesbury-estate-southwark-councils-judicial-review-application-over-cpos-refused/10016008.article) 
+[https://www.theguardian.com/cities/2016/sep/20/aylesbury-estate-ruling-future-regeneration-sajid-javid](https://www.theguardian.com/cities/2016/sep/20/aylesbury-estate-ruling-future-regeneration-sajid-javid) 
+[https://widerimage.reuters.com/story/residents-resist-demolition](https://widerimage.reuters.com/story/residents-resist-demolition) 
+[https://www.architectsjournal.co.uk/news/assessing-aylesbury-whats-the-true-cost-of-demolishing-council-estates/8692267.article](https://www.architectsjournal.co.uk/news/assessing-aylesbury-whats-the-true-cost-of-demolishing-council-estates/8692267.article) 
+[https://www.theguardian.com/society/2016/jul/13/aylesbury-estate-south-london-social-housing](https://www.theguardian.com/society/2016/jul/13/aylesbury-estate-south-london-social-housing)
 
 __Footnotes:__
-
 
 [^1]: Pg 2 of the [section 20 invoice](http://crappistmartin.github.io/images/DHS_MajorWorks_Section20Invoice.pdf) shows that 611 homes are being brought up to Decent Homes Standard at a total cost of £12,380,030 - (average = £20,261).
 
