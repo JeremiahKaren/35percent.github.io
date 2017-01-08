@@ -54,6 +54,19 @@ Kate Davies co-authored [this report](http://www.centreforsocialjustice.org.uk/U
 
 ![](/img/csjquoterents.png)
 
+Kate Davies was also a key advisor to the extremely influential Localis review (Principles for Social Housing Reform), the insidious effects of which are well outlined on the Labour Housing Group's [blog](https://redbrickblog.wordpress.com/2010/11/22/social-housing-reform-less-localism-and-more-localis/). The blog also has an [article](https://redbrickblog.wordpress.com/2017/01/07/one-article-does-not-wipe-the-slate-clean/) by former Notting Hill board executive Steve Hilditch, who resigned as a result of the Trust's change in direction and priorities. 
+
+In 2007, she [wrote a column](/img/TheTimesMarch06_2007.pdf) in The Times saying _"It has become popular to criticise Hills for raising the issue of tenure reform and rent levels. But we need to get away from one type of housing-based answer for so many different types of people. Social housing should not be seen as a destination but as a springboard to a better life; a place from which people can re-establish themselves, improve their prospects and move forward"_. She went on to assert that _"rolling assured shorthold tenancies .. give landlords greater influence to encourage positive social behaviour."_
+
+In 2008, she [wrote in The Times](/img/TheTimes2008_11_14.pdf) making the case for fixed term rather than secure tenancies - _"We need a greater diversity of options in the social sector. For example, some accommodation rented at almost market price.. As well as tenure reform, I would like to see greater flexibility in the housing available and who it is offered to."_
+
+In 2008 she also [wrote for the Guardian](https://www.theguardian.com/uk/davehillblog/2008/nov/21/boris-johnson-housing) in defence of Boris Johnson's introduction of affordable rent and wrote an [article on the Conservative Home website](http://www.conservativehome.com/localgovernment/2008/10/how-councils-ca.html) arguing that Councils should promote more homeownership.
+
+The Guardian [notes](https://www.theguardian.com/uk/davehillblog/2010/mar/25/hammersmith-fulham-london-borough-notting-hill-housing-conservative-polices) that Davies's partner, Nick Johnson, is [chief executive of H&F Homes](http://www.lbhf.gov.uk/Directory/Environment_and_Planning/Regeneration/Regeneration_projects/133759_West_Kensington_message_from_Nick_Johnson.asp), the ["arms-length management organisation"](http://www.hfhomes.org/About_Us/) that manages the Council's homes and  of the council's tenants and leaseholders.
+
+Kate Davies was recently criticised by local councillors for Notting Hill's [rent hikes and evictions](http://www.southwarknews.co.uk/news/housing-association-slammed-nightmare-scenario-eviction-threat-bermondseys-st-james-estate/) on the St James estate in Bermondsey. Cllr Pollak [described](https://twitter.com/Leo_Pollak/status/817366264486252544) Notting Hill as a 'predatory, rogue landlord'. Kate has clearly come a long way since her days as Kate née Marshall, when she was [Secretary General of the Revolutionary Communist Party](/img/TheGuardian1987_02_11.pdf)..
+
+Kate left the RCP when she married [disgraced](https://www.thebureauinvestigates.com/2012/02/09/bureau-recommends-the-consultancy-tax-avoidance-wheeze/) Bexley council leader Nick Johnson, who after filing for early retirement (and bumper pension) from Bexley on grounds of ill-health, went on to set up ['Davies Johnson Ltd'](https://beta.companieshouse.gov.uk/company/05723532/officers) - a consultancy employed by Hammersmith & Fulham Council to advise on the redevelopment of council estates in its Earls Court redevelopment. 
 
 ## Harvard Gardens
 ![](http://crappistmartin.github.io/images/site7.jpg)
