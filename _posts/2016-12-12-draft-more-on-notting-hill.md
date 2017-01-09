@@ -1,10 +1,13 @@
 ---
 layout: post
-title: "Notting Hill tenure switch in Lambeth"
-subtitle: "NHHT up to its same tricks in other boroughs"
+title: Notting Hill tenure switch in Lambeth
+subtitle: NHHT up to its same tricks in other boroughs
 published: false
 ---
 We [reported in December](http://35percent.org/2016-12-12-ombudsman-slams-southwark-for-no-s106-monitoring/) how Southwark Council has been slammed by the ombudsman for having no monitoring or enforcement of section 106 affordable housing provision. 
+
+![entree-des-gorges-du-verdon.jpg]({{site.baseurl}}/img/entree-des-gorges-du-verdon.jpg)
+
 
 Last week it was [revealed](http://www.insidehousing.co.uk/two-further-councils-have-no-section-106-monitoring/7018287.article) by Inside Housing magazine, that two further London boroughs have no S106 monitoring or enforcement procedures (Bexley & Redbridge). This week we can add two more boroughs to the list - Lambeth and Greenwich. 
 
