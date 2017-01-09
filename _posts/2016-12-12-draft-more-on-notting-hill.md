@@ -37,24 +37,17 @@ In 2013, Lambeth Council [sold](/img/LRclaremontgarages.pdf) land on its Claremo
 ![](/img/claremontlanddisposal.png)
 *Extract from [planning committee minutes](https://moderngov.lambeth.gov.uk/mgAi.aspx?ID=13743)*
 
-Despite having sold the land at a discount on the basis it would provide 100% social rented housing, Lambeth's planning committee later [resolved](https://moderngov.lambeth.gov.uk/mgAi.aspx?ID=13743) to grant Notting Hill consent to build on the garages site, on the basis that 70% of the affordable housing built would be social rented.
+Despite having sold the land at a discount on the basis it would provide 100% social rented housing, Notting Hill submitted a viability assessment pleaded viability poverty and, which Lambeth's planning committee accepted and [resolved](https://moderngov.lambeth.gov.uk/mgAi.aspx?ID=13743) to grant Notting Hill consent on the basis that 40% of the new homes would be 'affordable' with 70% of these social rented.
 
 ![](/img/claremontplanningcommittee.png)
 *Extract from the [planning committee report](https://moderngov.lambeth.gov.uk/mgAi.aspx?ID=13743)* 
 
-However, [GLA data](https://data.london.gov.uk/dataset/gla-affordable-housing-programme-outturn/resource/0c87e5dc-f1e9-4edf-b246-bef6b40a9ba3) shows that these have been provided instead as affordable rent (charging up to 68% market rent).
+However, [GLA data](https://data.london.gov.uk/dataset/gla-affordable-housing-programme-outturn/resource/0c87e5dc-f1e9-4edf-b246-bef6b40a9ba3) shows that these have been provided instead as affordable rent at rents of up to 68% market rent.
 
- 
+![](/img/claremontgladata.png)
+*Extract from the [GLA affordable housing dataset](https://data.london.gov.uk/dataset/gla-affordable-housing-programme-outturn/resource/0c87e5dc-f1e9-4edf-b246-bef6b40a9ba3)*
 
-Notting Hill is open about its [pipeline of new 
-homes](http://www.cih.org/resources/PDF/Event%20pdfs/Presentations/Developing%20affordable%20housing/Andy%20Belton.pdf) 
-providing only for affordable rent rather than social rent.
- ![](/img/andybelton.png)
 
-We are under no doubt what type of 'social' housing Notting Hill is planning to 
-provide on the redeveloped [Wood 
-Dene](http://35percent.org/wood-dene-estate-regeneration/) and Aylesbury 
-estates.
 
 ## Key drivers
 Notting Hill is by far London's largest housing association and one of the key drivers behind the 
