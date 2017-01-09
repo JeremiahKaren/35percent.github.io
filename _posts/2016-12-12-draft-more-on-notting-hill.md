@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Notting Hill tenure switch in Lambeth
+title: More S106 planning breaches - different boroughs
 subtitle: NHHT up to its same tricks in other boroughs
 published: false
 ---
@@ -11,7 +11,7 @@ Last week it was [revealed](http://www.insidehousing.co.uk/two-further-councils-
 During the course of our research into tenure breaches in Southwark we stumbled upon two estate regeneration schemes in these boroughs, where affordable rent has been provided in place of the social rented tenure required by the respective planning consents.
 
 ## Ferrier estate (Greenwich)
-The first of these is the [ferrier estate regeneration](https://halag.files.wordpress.com/2010/11/ferrier.pdf) in Greenwich, where 1,906 council homes have been knocked down and are being replaced with a 'mixed tenure' scheme of 4,398 homes.
+The first of these is the [ferrier estate regeneration](https://halag.files.wordpress.com/2010/11/ferrier.pdf) in Greenwich, where 1,906 council homes have been knocked down and are being replaced by Berkeley Homes with a 'mixed tenure' scheme comprising a total of 4,398 new homes.
 
 ![](/img/ferriervillage.png)
 
@@ -31,8 +31,7 @@ However, the [GLA affordable housing dataset](https://data.london.gov.uk/dataset
 *Extract from [GLA affordable housing outturn dataset](https://data.london.gov.uk/dataset/gla-affordable-housing-programme-outturn/resource/0c87e5dc-f1e9-4edf-b246-bef6b40a9ba3)*
 
 ## Claremont East estate (Lambeth)
-Lambeth claims to have section 106 monitoring procedures.
-We can show that they are clearly not effective. 
+Lambeth told Inside Housing that it had section 106 monitoring procedures, but we can show that these are clearly not effective. 
 
 In 2013, Lambeth Council [sold](/img/LRclaremontgarages.pdf) land on its Claremont East estate in Brixton Hill to Notting Hill Housing Trust for the knock down price of £1.5m, on the basis that it would provide 100% social rented housing.
 
@@ -67,6 +66,7 @@ Notting Hill's [flagrant breach](http://35percent.org/2015-03-18-stand-up-for-mo
 
 This mammoth development pipeline of 5,793 new homes doesn't even include the housing Notting Hill already owns in Southwark; for example, the St James Place estate in Bermondsey is owned by Notting Hill, where it was recently [branded](https://twitter.com/Leo_Pollak/status/817366264486252544) a 'predatory, rogue landlord' by the local ward councillor, after it implemented a series of rent hikes and eviction threats. http://www.southwarknews.co.uk/news/housing-association-slammed-nightmare-scenario-eviction-threat-bermondseys-st-james-estate/
 
+## Former Notting Hill Exec spills beans on CEO
 Last week, the Steve Hilditch from the Labour Housing Group [spilled the beans](https://redbrickblog.wordpress.com/2017/01/07/one-article-does-not-wipe-the-slate-clean/) on Notting Hill and its predatory activities. Steve is a former Notting Hill board executive, who resigned as a result of the Trust's change in direction and priorities. He points out that Notting Hill's CEO, Kate Davies, was a [fellow](http://www.centreforsocialjustice.org.uk/about-us/csj-fellows/kate-davies) of the [Centre for Social Justice](http://www.centreforsocialjustice.org.uk/) - the conservative think tank set up and chaired by Iain Duncan Smith, which conceived the idea of both affordable rent and right-to-buy for housing association tenants.
 
 ![](http://35percent.org/img/kdquotes.png)
