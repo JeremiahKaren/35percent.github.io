@@ -4,7 +4,31 @@ title: "Notting Hill tenure switch in Lambeth"
 subtitle: "NHHT up to its same tricks in other boroughs"
 published: false
 ---
-As we [reported in December](http://35percent.org/2016-12-12-ombudsman-slams-southwark-for-no-s106-monitoring/), Southwark has been slammed by the ombudsman for having no monitoring or enforcement of affordable housing provision. It had been relying on the good faith of developers and housing associations to provide the affordable housing in planning consents by the Council's planning committee.
+We [reported in December](http://35percent.org/2016-12-12-ombudsman-slams-southwark-for-no-s106-monitoring/) how Southwark Council has been slammed by the ombudsman for having no monitoring or enforcement of section 106 affordable housing provision. 
+
+Last week it was [revealed](http://www.insidehousing.co.uk/two-further-councils-have-no-section-106-monitoring/7018287.article) by Inside Housing magazine, that two further London boroughs have no S106 monitoring or enforcement procedures (Bexley & Redbridge). This week we can add two more boroughs to the list - Lambeth and Greenwich. 
+
+During the course of our research into tenure breaches in Southwark we stumbled upon two estate regeneration schemes in these boroughs, where affordable rent has been provided in place of the social rented tenure required by the respective planning consents.
+
+## Ferrier estate (Greenwich)
+The first of these is the [ferrier estate regeneration](https://halag.files.wordpress.com/2010/11/ferrier.pdf) in Greenwich, where 1,906 council homes have been knocked down and are being replaced with a 'mixed tenure' scheme of 4,398 homes.
+
+The most recent phase (4a) of the scheme to be completed is ['Kidbrooke Village'](https://www.berkeleygroup.co.uk/new-homes/london/greenwich/kidbrooke-village) where Berkeley Homes was granted planning consent in 2012 for 374 units. The [planning application](https://planning.royalgreenwich.gov.uk/online-applications/files/591F8EE5C657B23BE9EBFC830D333E93/pdf/11_2366_O-Planning_Statement-64751.pdf) clearly states that 67 of these would be social rented homes:
+
+![](/img/ferrier4aplanningstatement.png)
+*Extract from Berkeley's [planning application](https://planning.royalgreenwich.gov.uk/online-applications/files/591F8EE5C657B23BE9EBFC830D333E93/pdf/11_2366_O-Planning_Statement-64751.pdf) for phase 4a*
+
+This is also confirmed in the [Mayor's planning report](https://www.london.gov.uk/sites/default/files/PAWS/media_id_127252/kidbrooke_phase_4_report.pdf) for the application:
+
+![](/img/kidbrooke_phase_4_report.png)
+*Extract from the [Mayor's planning report]((https://www.london.gov.uk/sites/default/files/PAWS/media_id_127252/kidbrooke_phase_4_report.pdf)) for phase 4a*
+
+However, the [GLA affordable housing dataset](https://data.london.gov.uk/dataset/gla-affordable-housing-programme-outturn/resource/0c87e5dc-f1e9-4edf-b246-bef6b40a9ba3) shows these 67 'social rented' units as affordable rents of up to 62% market rent.
+
+![](/img/kidbrookegladata.png)
+*Extract from [GLA affordable housing outturn dataset](https://data.london.gov.uk/dataset/gla-affordable-housing-programme-outturn/resource/0c87e5dc-f1e9-4edf-b246-bef6b40a9ba3)*
+
+
 
 The ombudsman has directed the Council to conduct an audit, but hasn't set a deadline for it.
 Meanwhile, we are continuing to add to the list of breaches we submitted to the council. This time we have come across a new-build flat at Elephant & Castle, which was supposed to be let at intermediate rent to families on the Council's waiting list. Instead it has been sold on the open market and is currently being used as a full-time AirBNB let at 129 per night.
