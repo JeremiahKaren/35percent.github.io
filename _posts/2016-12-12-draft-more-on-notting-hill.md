@@ -13,6 +13,8 @@ During the course of our research into tenure breaches in Southwark we stumbled 
 ## Ferrier estate (Greenwich)
 The first of these is the [ferrier estate regeneration](https://halag.files.wordpress.com/2010/11/ferrier.pdf) in Greenwich, where 1,906 council homes have been knocked down and are being replaced with a 'mixed tenure' scheme of 4,398 homes.
 
+![](/image/ferriervillage.png)
+
 The most recent phase (4a) of the scheme to be completed is ['Kidbrooke Village'](https://www.berkeleygroup.co.uk/new-homes/london/greenwich/kidbrooke-village) where Berkeley Homes was granted planning consent in 2012 for 374 units. Berkeley's [planning application](https://planning.royalgreenwich.gov.uk/online-applications/files/591F8EE5C657B23BE9EBFC830D333E93/pdf/11_2366_O-Planning_Statement-64751.pdf) clearly states that 67 of these would be social rented homes:
 
 ![](/img/ferrier4aplanningstatement.png)
@@ -46,6 +48,8 @@ However, [GLA data](https://data.london.gov.uk/dataset/gla-affordable-housing-pr
 
 ![](/img/claremontgladata.png)
 *Extract from the [GLA affordable housing dataset](https://data.london.gov.uk/dataset/gla-affordable-housing-programme-outturn/resource/0c87e5dc-f1e9-4edf-b246-bef6b40a9ba3)*
+
+![](/img/claremonteastnewbuild.jpg)
 
 
 
