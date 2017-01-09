@@ -34,7 +34,7 @@ However, the [GLA affordable housing dataset](https://data.london.gov.uk/dataset
 Lambeth claims to have section 106 monitoring procedures.
 We can show that they are clearly not effective. 
 
-In 2013, Lambeth Council [sold](/img/LRclaremontgarages.pdf) land on its Claremont East estate in Brixton Hill to Notting Hill Housing for the knock down price of £1.5m, on the basis that it would provide 100% social rented housing.
+In 2013, Lambeth Council [sold](/img/LRclaremontgarages.pdf) land on its Claremont East estate in Brixton Hill to Notting Hill Housing Trust for the knock down price of £1.5m, on the basis that it would provide 100% social rented housing.
 
 ![](/img/claremontlanddisposal.png)
 *Extract from [planning committee minutes](https://moderngov.lambeth.gov.uk/mgAi.aspx?ID=13743)*
@@ -44,14 +44,28 @@ Despite having sold the land at a discount on the basis it would provide 100% so
 ![](/img/claremontplanningcommittee.png)
 *Extract from the [planning committee report](https://moderngov.lambeth.gov.uk/mgAi.aspx?ID=13743)* 
 
-However, [GLA data](https://data.london.gov.uk/dataset/gla-affordable-housing-programme-outturn/resource/0c87e5dc-f1e9-4edf-b246-bef6b40a9ba3) shows that these have been provided instead as affordable rent at rents of up to 68% market rent.
+However, [GLA data](https://data.london.gov.uk/dataset/gla-affordable-housing-programme-outturn/resource/0c87e5dc-f1e9-4edf-b246-bef6b40a9ba3) is showing that Notting Hill has provided 37 units as affordable rent at rents of up to 68% market rent.
 
 ![](/img/claremontgladata.png)
 *Extract from the [GLA affordable housing dataset](https://data.london.gov.uk/dataset/gla-affordable-housing-programme-outturn/resource/0c87e5dc-f1e9-4edf-b246-bef6b40a9ba3)*
 
 ![](/img/claremonteastnewbuild.jpg)
 
+## Notting Hill Housing (no) Trust
+Notting Hill's [flagrant breach](http://35percent.org/2015-03-18-stand-up-for-more-social-housing/) of its planning consent for the Bermondsey Spa regeneration, was what [provided the impetus](http://35percent.org/2016-12-12-ombudsman-slams-southwark-for-no-s106-monitoring/#background) for our complaint to the Ombudsman last year. This further discovery of malpractice should send shivers down the spine of Southwark's administration, who selected Notting Hill as its development partner not just for Bermondsey Spa, but also for the [Silwood estate](/silwood-estate-regeneration), [Aylesbury estate](/aylesbury-estate), [Elmington estate](/elmington-estate-regeneration), [Wood Dene estate](/wooddene-estate-regeneration), [Manor Place Depot](/manor-place-depot) and [Canada Water](/canada-water) regeneration.
 
+| Scheme  | Units |  
+|---|---|
+| Bermondsey Spa | 205  |
+| Silwood estate | 160  |  
+| Aylesbury estate  | 3,500  |
+| Elmington estate | 279  |
+| Wood Dene estate | 333 |  
+| Manor Place Depot | 270 |
+| Canada Water | 1,046 |
+| __Total:__ | __5,793__ |
+
+This mammoth development pipeline of 5,793 new homes doesn't even include the housing Notting Hill already owns in Southwark; for example, the St James Place estate in Bermondsey is owned by Notting Hill, where it was recently [branded](https://twitter.com/Leo_Pollak/status/817366264486252544) a 'predatory, rogue landlord' by the local ward councillor, after it implemented a series of rent hikes and eviction threats. http://www.southwarknews.co.uk/news/housing-association-slammed-nightmare-scenario-eviction-threat-bermondseys-st-james-estate/
 
 ## Key drivers
 Notting Hill is by far London's largest housing association and one of the key drivers behind the 
@@ -80,8 +94,7 @@ This echoes Notting Hill CEO Kate Davies' call for less rent control in the [pol
 ![](/img/csjquoterents.png)
 *Extract from [CSJ policy proposals](http://www.centreforsocialjustice.org.uk/UserStorage/pdf/Pdf%20reports/HousingPoverty.pdf) co-authored by Notting Hill CEO Kate Davies*
 
-## St James Place
-St James Place estate is a good example of what happens when Notting Hill takes over an estate from the local authority and is free to sent rent levels without restrictions. Rent hikes of xx have resulted in a spate of evictions. http://www.southwarknews.co.uk/news/housing-association-slammed-nightmare-scenario-eviction-threat-bermondseys-st-james-estate/
+
 
 CHECK OUT THESE, maybe we can figure out the rent increase and also extract weekly rents from this:
 page two of this https://www.foliolondon.co.uk/clever_search.jsp?autoSearch=true
