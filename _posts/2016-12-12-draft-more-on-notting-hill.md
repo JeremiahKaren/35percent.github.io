@@ -1,8 +1,11 @@
 ---
 layout: post
 title: More S106 planning breaches - different boroughs
-subtitle: NHHT up to its same tricks in other boroughs
+subtitle: >-
+  Notting Hill Housing Trust found breaching planning conditions in other
+  boroughs
 published: false
+date: '2017-01-13'
 ---
 We [reported in December](http://35percent.org/2016-12-12-ombudsman-slams-southwark-for-no-s106-monitoring/) how Southwark Council has been slammed by the ombudsman for having no monitoring or enforcement of section 106 affordable housing provision. 
 
@@ -64,7 +67,7 @@ Notting Hill's [flagrant breach](http://35percent.org/2015-03-18-stand-up-for-mo
 | Canada Water | 1,046 |
 | __Total:__ | __5,793__ |
 
-This mammoth development pipeline of 5,793 new homes doesn't even include the housing Notting Hill already owns in Southwark; for example, the St James Place estate in Bermondsey is owned by Notting Hill, where it was recently [branded](https://twitter.com/Leo_Pollak/status/817366264486252544) a 'predatory, rogue landlord' by the local ward councillor, after it implemented a series of rent hikes and eviction threats. http://www.southwarknews.co.uk/news/housing-association-slammed-nightmare-scenario-eviction-threat-bermondseys-st-james-estate/
+This mammoth development pipeline of 5,793 new homes doesn't even include the housing Notting Hill already owns in Southwark; for example, the St James Place estate in Bermondsey is owned by Notting Hill, where it was recently [branded](https://twitter.com/Leo_Pollak/status/817366264486252544) a 'predatory, rogue landlord' by the local ward councillor, after it implemented a [series of rent hikes and eviction threats](http://www.southwarknews.co.uk/news/housing-association-slammed-nightmare-scenario-eviction-threat-bermondseys-st-james-estate/).
 
 ## Former Notting Hill Exec spills beans on CEO
 Last week, the Steve Hilditch from the Labour Housing Group [spilled the beans](https://redbrickblog.wordpress.com/2017/01/07/one-article-does-not-wipe-the-slate-clean/) on Notting Hill and its predatory activities. Steve is a former Notting Hill board executive, who resigned as a result of the Trust's change in direction and priorities. He points out that Notting Hill's CEO, Kate Davies, was a [fellow](http://www.centreforsocialjustice.org.uk/about-us/csj-fellows/kate-davies) of the [Centre for Social Justice](http://www.centreforsocialjustice.org.uk/) - the conservative think tank set up and chaired by Iain Duncan Smith, which conceived the idea of both affordable rent and right-to-buy for housing association tenants.
@@ -87,4 +90,4 @@ The Guardian [notes](https://www.theguardian.com/uk/davehillblog/2010/mar/25/ham
 
 Kate has clearly come a long way since her days as Kate née Marshall, when she was [Secretary General of the Revolutionary Communist Party](/img/TheGuardian1987_02_11.pdf)..
 
-Kate left the RCP when she married [disgraced](https://www.thebureauinvestigates.com/2012/02/09/bureau-recommends-the-consultancy-tax-avoidance-wheeze/) Bexley council leader Nick Johnson, who after filing for early retirement (and bumper pension) from Bexley on grounds of ill-health, went on to set up ['Davies Johnson Ltd'](https://beta.companieshouse.gov.uk/company/05723532/officers) - a consultancy employed by Hammersmith & Fulham Council to advise on the redevelopment of council estates in its Earls Court redevelopment. 
+Kate left the RCP when she married [disgraced](https://www.thebureauinvestigates.com/2012/02/09/bureau-recommends-the-consultancy-tax-avoidance-wheeze/) Bexley council leader Nick Johnson, who after filing for early retirement (and bumper pension) from Bexley on grounds of ill-health, went on with Kate to set up ['Davies Johnson Ltd'](https://beta.companieshouse.gov.uk/company/05723532/officers) - a consultancy employed by Hammersmith & Fulham Council to advise on the redevelopment of council estates in its Earls Court redevelopment. 
