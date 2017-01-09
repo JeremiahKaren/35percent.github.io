@@ -11,7 +11,7 @@ We [reported in December](http://35percent.org/2016-12-12-ombudsman-slams-southw
 
 Last week it was [revealed](http://www.insidehousing.co.uk/two-further-councils-have-no-section-106-monitoring/7018287.article) by Inside Housing magazine, that two further London boroughs have no S106 monitoring or enforcement procedures (Bexley & Redbridge). This week we can add two more boroughs to the list - Lambeth and Greenwich. 
 
-During the course of our research into tenure breaches in Southwark we stumbled upon two estate regeneration schemes in these boroughs, where affordable rent has been provided in place of the social rented tenure required by the respective planning consents.
+During the course of our research into tenure breaches in Southwark we stumbled upon estate regeneration schemes in both Greenwich and Lambeth, where affordable rent has been provided when social rent tenure is required by the respective planning consent.
 
 ## Ferrier estate (Greenwich)
 The first of these is the [ferrier estate regeneration](https://halag.files.wordpress.com/2010/11/ferrier.pdf) in Greenwich, where 1,906 council homes have been knocked down and are being replaced by Berkeley Homes with a 'mixed tenure' scheme comprising a total of 4,398 new homes.
@@ -34,19 +34,19 @@ However, the [GLA affordable housing dataset](https://data.london.gov.uk/dataset
 *Extract from [GLA affordable housing outturn dataset](https://data.london.gov.uk/dataset/gla-affordable-housing-programme-outturn/resource/0c87e5dc-f1e9-4edf-b246-bef6b40a9ba3)*
 
 ## Claremont East estate (Lambeth)
-Lambeth told Inside Housing that it had section 106 monitoring procedures, but we can show that these are clearly not effective. 
+Lambeth was one of the boroughs that told Inside Housing it had section 106 monitoring procedures in place, but we can show that these are clearly not effective. 
 
 In 2013, Lambeth Council [sold](/img/LRclaremontgarages.pdf) land on its Claremont East estate in Brixton Hill to Notting Hill Housing Trust for the knock down price of £1.5m, on the basis that it would provide 100% social rented housing.
 
 ![](/img/claremontlanddisposal.png)
 *Extract from [planning committee minutes](https://moderngov.lambeth.gov.uk/mgAi.aspx?ID=13743)*
 
-Despite having sold the land at a discount on the basis it would provide 100% social rented housing, Notting Hill submitted a viability assessment pleaded viability poverty and, which Lambeth's planning committee accepted and [resolved](https://moderngov.lambeth.gov.uk/mgAi.aspx?ID=13743) to grant Notting Hill consent on the basis that 40% of the new homes would be 'affordable' with 70% of these social rented.
+Despite having sold the land at a discount on the basis it would provide 100% social rented housing, Notting Hill submitted a viability assessment pleaded viability poverty, which Lambeth's planning committee accepted and [resolved](https://moderngov.lambeth.gov.uk/mgAi.aspx?ID=13743) to grant consent on the basis that 40% of the homes would be 'affordable' of which 70% social rented.
 
 ![](/img/claremontplanningcommittee.png)
 *Extract from the [planning committee report](https://moderngov.lambeth.gov.uk/mgAi.aspx?ID=13743)* 
 
-However, [GLA data](https://data.london.gov.uk/dataset/gla-affordable-housing-programme-outturn/resource/0c87e5dc-f1e9-4edf-b246-bef6b40a9ba3) is showing that Notting Hill has provided 37 units as affordable rent at rents of up to 68% market rent.
+However, [GLA housing data](https://data.london.gov.uk/dataset/gla-affordable-housing-programme-outturn/resource/0c87e5dc-f1e9-4edf-b246-bef6b40a9ba3) shows that Notting Hill has provided 37 units as affordable rent at rents of up to 68% market rent.
 
 ![](/img/claremontgladata.png)
 *Extract from the [GLA affordable housing dataset](https://data.london.gov.uk/dataset/gla-affordable-housing-programme-outturn/resource/0c87e5dc-f1e9-4edf-b246-bef6b40a9ba3)*
@@ -54,7 +54,7 @@ However, [GLA data](https://data.london.gov.uk/dataset/gla-affordable-housing-pr
 ![](/img/claremonteastnewbuild.jpg)
 
 ## Notting Hill Housing (no) Trust
-Notting Hill's [flagrant breach](http://35percent.org/2015-03-18-stand-up-for-more-social-housing/) of its planning consent for the Bermondsey Spa regeneration, was what [provided the impetus](http://35percent.org/2016-12-12-ombudsman-slams-southwark-for-no-s106-monitoring/#background) for our complaint to the Ombudsman last year. This further discovery of malpractice should send shivers down the spine of Southwark's administration, who selected Notting Hill as its development partner not just for Bermondsey Spa, but also for the [Silwood estate](/silwood-estate-regeneration), [Aylesbury estate](/aylesbury-estate), [Elmington estate](/elmington-estate-regeneration), [Wood Dene estate](/wooddene-estate-regeneration), [Manor Place Depot](/manor-place-depot) and [Canada Water](/canada-water) regeneration where it is developing sites C&E in a joint venture will Sellar.
+Notting Hill's [flagrant breach](http://35percent.org/2015-03-18-stand-up-for-more-social-housing/) of its planning consent for the Bermondsey Spa regeneration, was what [provided the impetus](http://35percent.org/2016-12-12-ombudsman-slams-southwark-for-no-s106-monitoring/#background) for our complaint to the Ombudsman last year. This further discovery of Notting Hill's malpractice should be sounding alarm bells with Southwark's administration, who selected Notting Hill as its development partner not just for Bermondsey Spa, but also for the [Silwood estate](/silwood-estate-regeneration), [Aylesbury estate](/aylesbury-estate), [Elmington estate](/elmington-estate-regeneration), [Wood Dene estate](/wooddene-estate-regeneration), [Manor Place Depot](/manor-place-depot) and [Canada Water](/canada-water) regeneration (joint venture will Sellar).
 
 | Scheme  | Units |  
 |---|---|
@@ -67,7 +67,7 @@ Notting Hill's [flagrant breach](http://35percent.org/2015-03-18-stand-up-for-mo
 | Canada Water | 1,046 |
 | __Total:__ | __5,793__ |
 
-This mammoth development pipeline of 5,793 new homes doesn't even include the housing Notting Hill already owns in Southwark; for example, the St James Place estate in Bermondsey is owned by Notting Hill, where it was recently [branded](https://twitter.com/Leo_Pollak/status/817366264486252544) a 'predatory, rogue landlord' by the local ward councillor, after it implemented a [series of rent hikes and eviction threats](http://www.southwarknews.co.uk/news/housing-association-slammed-nightmare-scenario-eviction-threat-bermondseys-st-james-estate/).
+This mammoth development pipeline of 5,793 new homes doesn't even include the housing Notting Hill already owns in Southwark; for example, the St James Place estate in Bermondsey, where Notting Hill was recently [branded](https://twitter.com/Leo_Pollak/status/817366264486252544) a 'predatory, rogue landlord' by the local ward councillor, after it implemented a [series of rent hikes and eviction threats](http://www.southwarknews.co.uk/news/housing-association-slammed-nightmare-scenario-eviction-threat-bermondseys-st-james-estate/).
 
 ## Former Notting Hill Exec spills beans on CEO
 Last week, the Steve Hilditch from the Labour Housing Group [spilled the beans](https://redbrickblog.wordpress.com/2017/01/07/one-article-does-not-wipe-the-slate-clean/) on Notting Hill and its predatory activities. Steve is a former Notting Hill board executive, who resigned as a result of the Trust's change in direction and priorities. He points out that Notting Hill's CEO, Kate Davies, was a [fellow](http://www.centreforsocialjustice.org.uk/about-us/csj-fellows/kate-davies) of the [Centre for Social Justice](http://www.centreforsocialjustice.org.uk/) - the conservative think tank set up and chaired by Iain Duncan Smith, which conceived the idea of both affordable rent and right-to-buy for housing association tenants.
