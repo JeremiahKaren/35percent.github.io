@@ -13,7 +13,7 @@ During the course of our research into tenure breaches in Southwark we stumbled 
 ## Ferrier estate (Greenwich)
 The first of these is the [ferrier estate regeneration](https://halag.files.wordpress.com/2010/11/ferrier.pdf) in Greenwich, where 1,906 council homes have been knocked down and are being replaced with a 'mixed tenure' scheme of 4,398 homes.
 
-The most recent phase (4a) of the scheme to be completed is ['Kidbrooke Village'](https://www.berkeleygroup.co.uk/new-homes/london/greenwich/kidbrooke-village) where Berkeley Homes was granted planning consent in 2012 for 374 units. The [planning application](https://planning.royalgreenwich.gov.uk/online-applications/files/591F8EE5C657B23BE9EBFC830D333E93/pdf/11_2366_O-Planning_Statement-64751.pdf) clearly states that 67 of these would be social rented homes:
+The most recent phase (4a) of the scheme to be completed is ['Kidbrooke Village'](https://www.berkeleygroup.co.uk/new-homes/london/greenwich/kidbrooke-village) where Berkeley Homes was granted planning consent in 2012 for 374 units. Berkeley's [planning application](https://planning.royalgreenwich.gov.uk/online-applications/files/591F8EE5C657B23BE9EBFC830D333E93/pdf/11_2366_O-Planning_Statement-64751.pdf) clearly states that 67 of these would be social rented homes:
 
 ![](/img/ferrier4aplanningstatement.png)
 *Extract from Berkeley's [planning application](https://planning.royalgreenwich.gov.uk/online-applications/files/591F8EE5C657B23BE9EBFC830D333E93/pdf/11_2366_O-Planning_Statement-64751.pdf) for phase 4a*
@@ -23,50 +23,28 @@ This is also confirmed in the [Mayor's planning report](https://www.london.gov.u
 ![](/img/kidbrooke_phase_4_report.png)
 *Extract from the [Mayor's planning report]((https://www.london.gov.uk/sites/default/files/PAWS/media_id_127252/kidbrooke_phase_4_report.pdf)) for phase 4a*
 
-However, the [GLA affordable housing dataset](https://data.london.gov.uk/dataset/gla-affordable-housing-programme-outturn/resource/0c87e5dc-f1e9-4edf-b246-bef6b40a9ba3) shows these 67 'social rented' units as affordable rents of up to 62% market rent.
+However, the [GLA affordable housing dataset](https://data.london.gov.uk/dataset/gla-affordable-housing-programme-outturn/resource/0c87e5dc-f1e9-4edf-b246-bef6b40a9ba3) shows these 67 'social rented' units provided as affordable rent of up to 62% market rent.
 
 ![](/img/kidbrookegladata.png)
 *Extract from [GLA affordable housing outturn dataset](https://data.london.gov.uk/dataset/gla-affordable-housing-programme-outturn/resource/0c87e5dc-f1e9-4edf-b246-bef6b40a9ba3)*
 
+## Claremont East estate (Lambeth)
+Lambeth claims to have section 106 monitoring procedures.
+We can show that they are clearly not effective. 
 
-
-The ombudsman has directed the Council to conduct an audit, but hasn't set a deadline for it.
-Meanwhile, we are continuing to add to the list of breaches we submitted to the council. This time we have come across a new-build flat at Elephant & Castle, which was supposed to be let at intermediate rent to families on the Council's waiting list. Instead it has been sold on the open market and is currently being used as a full-time AirBNB let at 129 per night.
-
-There is a housing crisis. Southwark needs to get its act together, complete this audit and take enforcement action to return this lost affordable housing to those in housing need.
-
-## Not just Southwark
-What we haven't mentioned before is that this 'tenure switch' practice appears to 
-extend to beyond Southwark and it appears that Lambeth is having the wool 
-pulled over its eyes by Notting Hill too.
-
-In 2013, Lambeth Council [sold](/img/LRclaremontgarages.pdf) land on its 
-Claremont East estate in Brixton Hill to Notting Hill Housing for the knock 
-down price of £1.5m, on the basis that it would provide 100% social rented 
-housing.
+In 2013, Lambeth Council [sold](/img/LRclaremontgarages.pdf) land on its Claremont East estate in Brixton Hill to Notting Hill Housing for the knock down price of £1.5m, on the basis that it would provide 100% social rented housing.
 
 ![](/img/claremontlanddisposal.png)
-*Extract from [planning committee 
-minutes](https://moderngov.lambeth.gov.uk/mgAi.aspx?ID=13743)*
+*Extract from [planning committee minutes](https://moderngov.lambeth.gov.uk/mgAi.aspx?ID=13743)*
 
-Lambeth's planning committee had previously 
-[resolved](https://moderngov.lambeth.gov.uk/mgAi.aspx?ID=13743) to grant 
-Notting Hill consent to build on the garages site, on the basis that 70% of the 
-affordable housing built would be social rented.
+Despite having sold the land at a discount on the basis it would provide 100% social rented housing, Lambeth's planning committee later [resolved](https://moderngov.lambeth.gov.uk/mgAi.aspx?ID=13743) to grant Notting Hill consent to build on the garages site, on the basis that 70% of the affordable housing built would be social rented.
+
 ![](/img/claremontplanningcommittee.png)
-*Extract from the [planning committee 
-report](https://moderngov.lambeth.gov.uk/mgAi.aspx?ID=13743)* 
+*Extract from the [planning committee report](https://moderngov.lambeth.gov.uk/mgAi.aspx?ID=13743)* 
 
-However, [GLA 
-data](https://data.london.gov.uk/dataset/gla-affordable-housing-programme-outturn/resource/0c87e5dc-f1e9-4edf-b246-bef6b40a9ba3) 
-shows that these have been provided instead as affordable rent (charging up to 68% 
-market rent).
+However, [GLA data](https://data.london.gov.uk/dataset/gla-affordable-housing-programme-outturn/resource/0c87e5dc-f1e9-4edf-b246-bef6b40a9ba3) shows that these have been provided instead as affordable rent (charging up to 68% market rent).
 
-Likewise, Lambeth's [Planning Committee 
-report](https://moderngov.lambeth.gov.uk/mgConvert2PDF.aspx?ID=16725) for 
-Notting Hill's 'Fabrik' development on Coldharbour lane shows it was given 
-consent for 43 social rented homes. We understand from the CORE lettings data 
-system that a number of these are now being let at affordable rent. 
+ 
 
 Notting Hill is open about its [pipeline of new 
 homes](http://www.cih.org/resources/PDF/Event%20pdfs/Presentations/Developing%20affordable%20housing/Andy%20Belton.pdf) 
