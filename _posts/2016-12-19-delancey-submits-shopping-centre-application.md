@@ -27,7 +27,7 @@ So, while this application is from Delancey, there can be little doubt it is com
 
 Delancey's application is just another step down the gentrification road.  It has little in it that will help those who can only afford social rented housing; indeed it is purposely designed ot exclude them from the proposed development.  The shopkeepers and small traders, many from ethnic minority backgrounds, who have worked hard to become an integral part of the community, are deemed to be _'not financially viable ...to survive'_. Southwark Council and the Mayor should be telling  Delancey how unacceptable this application is, not changing planning policy to ensure its success.
 
-http://prose.io/#{{site.repo}}/edit/{{site.branch}}/{{page.path}}
+http://prose.io/#35percent/35percent.github.io/edit/master/{{page.path}}
 
 
 
