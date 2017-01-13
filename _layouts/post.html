@@ -22,9 +22,9 @@ layout: default
             <a href="{{ page.next.url | prepend: site.baseurl | replace: '//', '/' }}" data-toggle="tooltip" data-placement="top" title="{{page.next.title}}">Next Post &rarr;</a>
           </li>
         {% endif %}
-       <li class="edit-link" href="http://prose.io/#35percent/35percent.github.io/edit/master/{{page.path}}" title="Edit">
+       <a class="edit-link" href="http://prose.io/#35percent/35percent.github.io/edit/master/{{page.path}}" title="Edit">
 	<i class="fa fa-2x fa-pencil-square-o"></i>
-</li>
+</a>
 
       </ul>
 {% include cta-newsletter.html %}      
