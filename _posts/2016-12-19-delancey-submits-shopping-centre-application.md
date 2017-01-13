@@ -26,10 +26,3 @@ Delancey make it clear in their [Affordable Housing Statement](http://planbuild.
 So, while this application is from Delancey, there can be little doubt it is coming forward with the blessing of both Southwark Council and the Mayor of London. None of the latest London Plan or local plan documents Delancey refers to in justification of its departures from affordable housing policy have been adopted; they are out for consultation or still to be consulted on. They all promote radical changes to affordable housing policy, changes that will exclude social rented housing from major new developments.
 
 Delancey's application is just another step down the gentrification road.  It has little in it that will help those who can only afford social rented housing; indeed it is purposely designed ot exclude them from the proposed development.  The shopkeepers and small traders, many from ethnic minority backgrounds, who have worked hard to become an integral part of the community, are deemed to be _'not financially viable ...to survive'_. Southwark Council and the Mayor should be telling  Delancey how unacceptable this application is, not changing planning policy to ensure its success.
-
-http://prose.io/#35percent/35percent.github.io/edit/master/{{page.path}}
-
-
-
-
- 
