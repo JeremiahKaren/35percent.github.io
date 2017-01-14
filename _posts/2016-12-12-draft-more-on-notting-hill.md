@@ -13,7 +13,7 @@ Last week [Inside Housing magazine](http://www.insidehousing.co.uk/two-further-c
 
 Some of the replies look familiar to us - Southwark also claimed to have monitoring procedures in place at the Aylesbury estate CPO inquiry and the truth that they did not was only flushed out by the compliant to the Ombudsman.
 
-![]({{site.baseurl}}/http://35percent.org/img/CPO_ExplanatoryNote12May2015.png)
+![](http://35percent.org/img/CPO_ExplanatoryNote12May2015.png)
 *[Inquiry document 27](http://crappistmartin.github.io/images/CPO_ExplanatoryNote12May2015.pdf) - evidence submitted by the Council to the CPO public inquiry, 12/05/2015*
 
 Our sceptism is deepened by further research, where we found tenure breaches in Lambeth, who claim to have monitoring, and Greenwich, who did not reply to the survey.  In both cases estate regeneration schemes delivered affordable rent when social rent was required by the planning consents.
