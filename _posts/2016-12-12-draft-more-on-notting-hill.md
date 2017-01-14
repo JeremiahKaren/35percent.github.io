@@ -9,9 +9,16 @@ date: '2017-01-13'
 ---
 We [reported in December](http://35percent.org/2016-12-12-ombudsman-slams-southwark-for-no-s106-monitoring/) how Southwark Council has been slammed by the ombudsman for having no monitoring or enforcement of section 106 affordable housing provision. 
 
-Last week it was [revealed](http://www.insidehousing.co.uk/two-further-councils-have-no-section-106-monitoring/7018287.article) by Inside Housing magazine, that two further London boroughs have no S106 monitoring or enforcement procedures (Bexley & Redbridge). This week we can add two more boroughs to the list - Lambeth and Greenwich. 
+Last week [Inside Housing magazine](http://www.insidehousing.co.uk/two-further-councils-have-no-section-106-monitoring/7018287.article) conducted a survey of other London boroughs, asking if they had monitoring procedures.  There were mixed results - fourteen said they had, one (Bexley) that it did not and 13 did not reply.
 
-During the course of our research into tenure breaches in Southwark we stumbled upon estate regeneration schemes in both Greenwich and Lambeth, where affordable rent has been provided when social rent tenure is required by the planning consent.
+Some of the replies look familiar to us - Southwark also claimed to have monitoring procedures in place at the Aylesbury estate CPO inquiry and the truth that they did not was only flushed out by the compliant to the Ombudsman.
+
+![]({{site.baseurl}}/http://35percent.org/img/CPO_ExplanatoryNote12May2015.png)
+*[Inquiry document 27](http://crappistmartin.github.io/images/CPO_ExplanatoryNote12May2015.pdf) - evidence submitted by the Council to the CPO public inquiry, 12/05/2015*
+
+Our sceptism is deepened by further research, where we found tenure breaches in Lambeth, who claim to have monitoring, and Greenwich, who did not reply to the survey.  In both cases estate regeneration schemes delivered affordable rent when social rent was required by the planning consents.
+
+it was [revealed](http://www.insidehousing.co.uk/two-further-councils-have-no-section-106-monitoring/7018287.article) by Inside Housing magazine, further London boroughs have no S106 monitoring or enforcement procedures (Bexley & Redbridge). 
  
 ## Ferrier estate (Greenwich)
 The first of these is the [ferrier estate regeneration](https://halag.files.wordpress.com/2010/11/ferrier.pdf) in Greenwich, where 1,906 council homes have been knocked down and are being replaced by Berkeley Homes with a 'mixed tenure' scheme comprising a total of 4,398 new homes.
