@@ -12,7 +12,7 @@ We [reported in December](http://35percent.org/2016-12-12-ombudsman-slams-southw
 Last week it was [revealed](http://www.insidehousing.co.uk/two-further-councils-have-no-section-106-monitoring/7018287.article) by Inside Housing magazine, that two further London boroughs have no S106 monitoring or enforcement procedures (Bexley & Redbridge). This week we can add two more boroughs to the list - Lambeth and Greenwich. 
 
 During the course of our research into tenure breaches in Southwark we stumbled upon estate regeneration schemes in both Greenwich and Lambeth, where affordable rent has been provided when social rent tenure is required by the planning consent.
-
+ 
 ## Ferrier estate (Greenwich)
 The first of these is the [ferrier estate regeneration](https://halag.files.wordpress.com/2010/11/ferrier.pdf) in Greenwich, where 1,906 council homes have been knocked down and are being replaced by Berkeley Homes with a 'mixed tenure' scheme comprising a total of 4,398 new homes.
 
@@ -80,7 +80,7 @@ Kate Davies co-authored [this report](http://www.centreforsocialjustice.org.uk/U
 
 Kate Davies was also a key advisor to the extremely influential Localis review (Principles for Social Housing Reform), the insidious effects of which are well outlined on the Labour Housing Group's [blog](https://redbrickblog.wordpress.com/2010/11/22/social-housing-reform-less-localism-and-more-localis/). 
 
-In 2007, she [wrote a column](http://35percent.org/img/TheTimesMarch06_2007.pdf) in The Times saying _"It has become popular to criticise Hills for raising the issue of tenure reform and rent levels. But we need to get away from one type of housing-based answer for so many different types of people. Social housing should not be seen as a destination but as a springboard to a better life; a place from which people can re-establish themselves, improve their prospects and move forward"_. She went on to assert that _"rolling assured shorthold tenancies .. give landlords greater influence to encourage positive social behaviour."_
+In 2007, she [wrote a column](http://35percent.org/img/TheTimesMarch06_2007.pdf) in The Times saying _"It has become popular to criticise [Hills](http://eprints.lse.ac.uk/5568/1/Ends_and_Means_The_future_roles_of_social_housing_in_England_1.pdf) for raising the issue of tenure reform and rent levels. But we need to get away from one type of housing-based answer for so many different types of people. Social housing should not be seen as a destination but as a springboard to a better life; a place from which people can re-establish themselves, improve their prospects and move forward"_. She went on to assert that _"rolling assured shorthold tenancies .. give landlords greater influence to encourage positive social behaviour."_
 
 In 2008, she [wrote in The Times](http://35percent.org/img/TheTimes2008_11_14.pdf) making the case for fixed term rather than secure tenancies - _"We need a greater diversity of options in the social sector. For example, some accommodation rented at almost market price.. As well as tenure reform, I would like to see greater flexibility in the housing available and who it is offered to."_
 
