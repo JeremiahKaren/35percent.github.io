@@ -38,7 +38,11 @@ The huge allocation of funds to the Aylesbury regeneration has meant cuts elsewh
 Besides closing down or selling off its community and social services facilities, the Council has been busy [selling off its Town Halls](http://35percent.org/southwark-town-halls/) and street properties. This is not to mention the hundreds of council homes [sold at auction](/images/sold_by_southwark.pdf) by the Council's current (Labour) administration.
 
 
+## Dilapidation by design
+When Southwark Council says that the buildings are leaking and beyond repair, it means they haven't cleaned the gutters for 10 years.
 
+![](/img/aylesburyreedsingutter.jpg)
+*Photo of Padbury block on Aylesbury (phase 2)*
 
 ## 11000 new council homes
 During the interview, Cllr John brushes off criticism concerning the loss of social housing on the Heygate, with the claim that Southwark has got the country's largest council house building programme, with a target of building 11,000 new council homes over the next 30 years (366 per year).  
