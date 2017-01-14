@@ -1,7 +1,7 @@
 ---
 layout: post
 title: More boroughs neglect social housing delivery
-published: false
+published: true
 date: '2017-01-13'
 subtitle: Boroughs allowing developers to substitute affordable rent for social  rent
 ---
