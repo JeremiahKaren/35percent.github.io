@@ -1,11 +1,9 @@
 ---
 layout: post
-title: More S106 planning breaches - different boroughs
-subtitle: >-
-  Notting Hill Housing Trust found breaching planning conditions in other
-  boroughs
+title: More boroughs neglect social housing delivery
 published: false
 date: '2017-01-13'
+subtitle: Boroughs allowing developers to substitute affordable rent for social  rent
 ---
 We [reported in December](http://35percent.org/2016-12-12-ombudsman-slams-southwark-for-no-s106-monitoring/) how Southwark Council has been slammed by the ombudsman for having no monitoring or enforcement of section 106 affordable housing provision. 
 
