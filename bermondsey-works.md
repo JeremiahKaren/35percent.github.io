@@ -8,7 +8,11 @@ CIL [exemption](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%
 
 [Officers Report](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!8b5dKkAIXek9gcaSYz15mg%3d%3d!%7d%7d%7d) said application proposed 6 s/o and 4 social rented homes. But [s106](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!KaiWotaf%2bxHDP83nK8Z9gw%3d%3d!%7d%7d%7d) says just 10 s/o homes?..
 
-Officers report also says that Council didn't agree the assumptions in the viability assessment..
+The officers report also said that the low affordable housing provision (5.9%) is justified because the development is providing the free school.
+
+![](/img/southwarkfreeschool.png)
+
+The officers report also says that Council didn't agree the assumptions in the viability assessment..
 
 [Section 106 agreement](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!KaiWotaf%2bxHDP83nK8Z9gw%3d%3d!%7d%7d%7d) says that the total contribution made towards new local transport infrastructure is £88,546.
 
@@ -23,3 +27,7 @@ MP Simon Hughes [investigated](http://www.independent.co.uk/news/uk/politics/lib
 >Mr Hughes had attempted to arrange meetings with fellow MPs and councillors to discuss the "Rotherhithe New Road regeneration project", put forward by SCCD Developments – which owns Southwark Metals.
 
 ![](/img/bworks.jpg)
+
+In January 2017, it was [announced](https://www.theguardian.com/education/2017/jan/15/southwark-free-school-london-to-close-60-pupils) that the free school would not open because of a lack of pupils.
+
+No viability review mechanism in the S106 agreement so what now? 
