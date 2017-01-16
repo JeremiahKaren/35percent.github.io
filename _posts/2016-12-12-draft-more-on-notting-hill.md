@@ -9,7 +9,7 @@ We [reported in December](http://35percent.org/2016-12-12-ombudsman-slams-southw
 
 Last week [Inside Housing magazine](http://www.insidehousing.co.uk/two-further-councils-have-no-section-106-monitoring/7018287.article) conducted a survey of other London boroughs, asking if they had monitoring procedures. There were mixed results - fourteen said they had, one (Bexley) that it did not and 13 which didn't reply.
 
-Some of the replies look familiar to us - Southwark also claimed to have monitoring procedures in place when it gave evidence at the Aylesbury estate CPO inquiry, and the truth that they didn't was only flushed out by our subsequent compliant to the Ombudsman.
+Some of the replies look familiar to us - Southwark also claimed to have monitoring procedures in place when it gave evidence at the Aylesbury estate CPO inquiry, and the truth that they didn't was only flushed out by our subsequent complaint to the Ombudsman.
 
 ![](http://35percent.org/img/CPO_ExplanatoryNote12May2015.png)
 *[Inquiry document 27](http://crappistmartin.github.io/images/CPO_ExplanatoryNote12May2015.pdf) - evidence submitted by the Council to the CPO public inquiry, 12/05/2015*
