@@ -20,7 +20,7 @@ Our sceptism is deepened by further research, where we have found tenure breache
 ## Ferrier estate (Greenwich)
 The first of these is the [ferrier estate regeneration](https://halag.files.wordpress.com/2010/11/ferrier.pdf) in Greenwich, where 1,906 council homes have been knocked down and are being replaced by Berkeley Homes with a 'mixed tenure' scheme comprising a total of 4,398 new homes.
 
-![](/img/ferriervillage.png)
+![](http://35percent.org/img/ferriervillage.png)
 
 The most recent phase (4a) of the scheme to be completed is ['Kidbrooke Village'](https://www.berkeleygroup.co.uk/new-homes/london/greenwich/kidbrooke-village), where Berkeley Homes was granted planning consent in 2012 for 374 units. Berkeley's [planning application](https://planning.royalgreenwich.gov.uk/online-applications/files/591F8EE5C657B23BE9EBFC830D333E93/pdf/11_2366_O-Planning_Statement-64751.pdf) clearly states that 67 of these would be social rented homes:
 
@@ -90,7 +90,7 @@ In 2008, she [wrote in The Times](http://35percent.org/img/TheTimes2008_11_14.pd
 
 In 2008 she also [wrote for the Guardian](https://www.theguardian.com/uk/davehillblog/2008/nov/21/boris-johnson-housing) in defence of Boris Johnson's introduction of affordable rent and wrote an [article on the Conservative Home website](http://www.conservativehome.com/localgovernment/2008/10/how-councils-ca.html) arguing that Councils should promote more homeownership.
 
-The Guardian [notes](https://www.theguardian.com/uk/davehillblog/2010/mar/25/hammersmith-fulham-london-borough-notting-hill-housing-conservative-polices) that Davies's partner, Nick Johnson, is chief executive of H&F Homes, the "arms-length management organisation" that manages the Council's homes. Together they run ['Davies Johnson Ltd'](https://beta.companieshouse.gov.uk/company/05723532/officers) - a consultancy employed by Hammersmith & Fulham Council to [advise on the redevelopment](https://www.thebureauinvestigates.com/2012/02/09/bureau-recommends-the-consultancy-tax-avoidance-wheeze/) of council estates in its Earls Court redevelopment. The Independent [notes](http://www.independent.co.uk/news/uk/politics/council-chief-given-unfit-payout-then-gets-163200000-role-2277358.html) that Johnson used to lead Bexley Council and that contracts have been awarded to his wife's housing association, Notting Hill Housing. 
+The Guardian [notes](https://www.theguardian.com/uk/davehillblog/2010/mar/25/hammersmith-fulham-london-borough-notting-hill-housing-conservative-polices) that Davies' partner, Nick Johnson, is chief executive of H&F Homes, the "arms-length management organisation" that manages the Council's homes. Together they run ['Davies Johnson Ltd'](https://beta.companieshouse.gov.uk/company/05723532/officers) - a consultancy employed by Hammersmith & Fulham Council, amongst other things, to [advise on the redevelopment](https://www.thebureauinvestigates.com/2012/02/09/bureau-recommends-the-consultancy-tax-avoidance-wheeze/) of council estates in its Earls Court redevelopment. The Independent [notes](http://www.independent.co.uk/news/uk/politics/council-chief-given-unfit-payout-then-gets-163200000-role-2277358.html) that Johnson used to lead Bexley Council and that H&F Homes contracts have been awarded to his wife's housing association, Notting Hill Housing. 
 
 Kate has clearly come a long way since her days as Kate née Marshall, when she was [Secretary General of the Revolutionary Communist Party](http://35percent.org/img/TheGuardian1987_02_11.pdf)..
 
