@@ -15,4 +15,5 @@ Southwark Council leader, Peter John, is no doubt relieved by the decision, but 
 
 In giving permission presiding Judge Collins said that Southwark and the Secretary of State should make efforts to 'ameliorate' the leaseholders situation.  Cllr John immediately repeated his call to the Secretary of State, Sajid Javid, to reconsider his decision, through [local media](http://www.southwarknews.co.uk/news/council-leader-calls-government-settle-aylesbury-cpo-dispute-outside-court/), quoting Judge Collin's comments, but without reference to the leaseholders' plight.
 
-Cllr John cites would make rather do a deal with Mr Javid, sidelining the leaseholders
+Given Southwark's failure to secure their CPO by following due legal procees, Cllr John's anxiety to make an out of court deal with Mr Javid is understandable.  But any out of court resolution of the situation should be with the leaseholders, not Mr Javid. Cllr John evidently wishes to sideline them and this must not be allowed to happen.  There must be no back-door deals.
+
