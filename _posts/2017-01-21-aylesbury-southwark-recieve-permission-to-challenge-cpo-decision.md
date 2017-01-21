@@ -5,13 +5,9 @@ title: 'Aylesbury: Southwark recieve permission to challenge CPO decision.'
 subtitle: Council angles for back-door deal with Secretary of State
 date: 21/01/17
 ---
-## A New Post
+Southwark Council finally got permission to make its case against the Secretary of State, for his refusal of their CPO request against Aylesbury leaseholders. It was Southwark's second time of asking, after first being [refused](/img/Scan0017.pdf) just before Christmas. There can now be a full court hearing, involving all parties, including the leaseholders, probably around April.
 
-Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
-
-Southwark Council finally got permission to make its case against the Secretary of State, for his refusal of their CPO request against Aylesbury leaseholders.  It was Southwark's second time of asking, after first being refused just before Christmas.  There can now be a full court hearing, involving all parties, including the leaseholders, probably around April.
-
-Southwark Council leader, Peter John, is no doubt relieved by the decision, but he also appears to be confused.  The decision does not reverse Sajid Javid's refusal or overturn the CPO- it just allows Southwark to get on to the playing field, so to speak, and make its case.
+Southwark Council leader, Peter John, is no doubt relieved by the decision, but he also appears to be confused. The decision [does not reverse](https://twitter.com/nearlylegal/status/822537665312620546) Sajid Javid's refusal or overturn the CPO- it just allows Southwark to get on to the playing field, so to speak, and make its case.
 
 In giving permission presiding Judge Collins said that Southwark and the Secretary of State should make efforts to 'ameliorate' the leaseholders situation.  Cllr John immediately repeated his call to the Secretary of State, Sajid Javid, to reconsider his decision, through [local media](http://www.southwarknews.co.uk/news/council-leader-calls-government-settle-aylesbury-cpo-dispute-outside-court/), selectively quoting Judge Collin's comments, without reference to the leaseholders' plight.
 
@@ -27,5 +23,3 @@ Southwark continues to shows itself as slippery, hard-hearted and hypocritical. 
 Meanwhile it emerged this week that Cllr John has more CPO trouble, this time next door in Lewisham. Cllr John is a director of charity Surrey Canal Sports Foundation[^1].  According to a Guardian report this is being investigated by the Charity Commission after that paper's revelations that SCSF had made false claims about funding from Sport England.  The SCSF was set up and backed by shadowy off-shore developers, Renewal, who  want Lewisham to compulsory purchase land from Millwall football club.  Lewisham seemed happy to oblige, despite the fact that the proposed development of 2,400 homes would only provide 12% affordable housing, none social rented.  Fierce opposition from the club and supporters, plus revelations of local Labour adminstration links to Renewal, have made Lewisham think twice.  Let's hope this is the end for this particular 'Renewal' scheme.
 
 [^1]: thanks to our friends at ASH for this information.
-
-
