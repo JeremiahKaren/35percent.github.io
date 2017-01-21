@@ -9,7 +9,7 @@ date: 21/01/17
 
 Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
 
-Southwark Council finally got permission to make its case against the Secretary of State, for his refusal of their CPO request against Aylesbury leaseholders.  It was Southwark's second time of asking and there can now be a full court hearing, involving all parties, including the leaseholders, probably around April.
+Southwark Council finally got permission to make its case against the Secretary of State, for his refusal of their CPO request against Aylesbury leaseholders.  It was Southwark's second time of asking, after first being refused just before Christmas.  There can now be a full court hearing, involving all parties, including the leaseholders, probably around April.
 
 Southwark Council leader, Peter John, is no doubt relieved by the decision, but he also appears to be confused.  The decision does not reverse Sajid Javid's refusal or overturn the CPO- it just allows Southwark to get on to the playing field, so to speak, and make its case.
 
