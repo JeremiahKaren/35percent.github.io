@@ -19,7 +19,7 @@ Given Southwark's failure to secure their CPO by following due legal procees, Cl
 
 Underscoring the need for full transparency, in court Southwark itself noted that the case was of significant public importance.  It argued that the viability of not just the Aylesbury, but all regenerations across London, depend upon limiting the compensation to leaseholders.  Southwark added, for good measure,  that the adverse consequences for the leaseholders could not be avoided, but that they were not relevant.  This is a quite different story to the one told in public, where Southwark insist the 'rent-free' deal offered to leaseholders is fair.
 
-The 35% Campaign is committed to supporting the Aylesbury leaseholders and as this case progresses we  We have now raised over £6000 to ensure they are legally represented 
+Southwark continues to shows itself as slippery, hard-hearted and hypocritical.  The 35% Campaign is committed to supporting the Aylesbury leaseholders and we have now raised over £6000 to ensure the leaseholders are legally represented throughtout the whole CPO process; if you would like to help please click here - https://www.gofundme.com/aylesbury-the-right-to-a-community-2uefgf2s - all contributions, large or small gratefully recieved.
 
 
 ## Den of Iniquity
