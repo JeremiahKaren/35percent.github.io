@@ -9,4 +9,6 @@ date: 21/01/17
 
 Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
 
-Southwark Council finally got permission to make a case against the the Secretary of State, for his refusal of their CPO request against Aylesbury leaseholders.  It was Southwark's second time of asking and there can now be a full court hearing, involving all parties, including the leaseholders, probably around April.  
+Southwark Council finally got permission to make its case against the Secretary of State, for his refusal of their CPO request against Aylesbury leaseholders.  It was Southwark's second time of asking and there can now be a full court hearing, involving all parties, including the leaseholders, probably around April.
+
+Presiding Judge Collins said in his judgement that Southwark aand the Secretary of State shoukd make efforts to 'ameliorate' the leaseholders situation.   Southwark Council leader, Peter John, immediately repeated his call to the Secretary of State, Sajid Javid, to reconsider his decision.  He was prompted to do so by 
