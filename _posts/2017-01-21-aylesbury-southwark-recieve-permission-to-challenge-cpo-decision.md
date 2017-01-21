@@ -19,11 +19,13 @@ Given Southwark's failure to secure their CPO by following due legal procees, Cl
 
 Underscoring the need for full transparency, in court Southwark itself noted that the case was of significant public importance.  It argued that the viability of not just the Aylesbury, but all regenerations across London, depend upon limiting the compensation to leaseholders.  Southwark added, for good measure,  that the adverse consequences for the leaseholders could not be avoided, but that they were not relevant.  This is a quite different story to the one told in public, where Southwark insist the 'rent-free' deal offered to leaseholders is fair.
 
+The 35% Campaign is committed to supporting the Aylesbury leaseholders and as this case progresses we  We have now raised over £6000 to ensure they are legally represented 
+
 
 ## Den of Iniquity
 
-Meanwhile it emerged this week that Cllr John has more CPO trouble, this time next door in Lewisham. Cllr John is a director of charity Surrey Canal Sports Foundation*.  According to a Guardian report this is being investigated by the Charity Commission after that paper's revelations that SCSF had made false claims about funding from Sport England.  The SCSF was set up and backed by shadowy off-shore developers, Renewal, who  want Lewisham to compulsory purchase land from Millwall football club.  Lewisham seemed happy to oblige, despite the fact that the proposed development of 2,400 homes would only provide 12% affordable housing, none social rented.  Fierce opposition from the club and supporters, plus revelations of local Labour adminstration links to Renewal, have made Lewisham think twice.  Let's hope this is the end for this particular 'Renewal' scheme.
+  Meanwhile it emerged this week that Cllr John has more CPO trouble, this time next door in Lewisham. Cllr John is a director of charity Surrey Canal Sports Foundation[^1].  According to a Guardian report this is being investigated by the Charity Commission after that paper's revelations that SCSF had made false claims about funding from Sport England.  The SCSF was set up and backed by shadowy off-shore developers, Renewal, who  want Lewisham to compulsory purchase land from Millwall football club.  Lewisham seemed happy to oblige, despite the fact that the proposed development of 2,400 homes would only provide 12% affordable housing, none social rented.  Fierce opposition from the club and supporters, plus revelations of local Labour adminstration links to Renewal, have made Lewisham think twice.  Let's hope this is the end for this particular 'Renewal' scheme.
 
-*thanks to our friends at ASH for this information
+[^1]: thanks to our friends at ASH for this information.
 
 
