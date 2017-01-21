@@ -9,4 +9,4 @@ date: 21/01/17
 
 Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
 
-Southwark Council finally got permission to make a case against the the Secretary of State's refusal to grant a co 
+Southwark Council finally got permission to make a case against the the Secretary of State, for his refusal of their CPO request against Aylesbury leaseholders.  It was Southwark's second time of asking and there can now be a full court hearing, involving all parties, including the leaseholders, probably around April.  
