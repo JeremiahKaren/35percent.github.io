@@ -17,3 +17,5 @@ In giving permission presiding Judge Collins said that Southwark and the Secreta
 
 Given Southwark's failure to secure their CPO by following due legal procees, Cllr John's anxiety to make an out of court deal with Mr Javid is understandable.  But any out of court resolution of the situation should be with the leaseholders, not Mr Javid. Cllr John evidently wishes to sideline them and this must not be allowed to happen.  There must be no back-door deals.
 
+Southwark's case underscores why the A
+
