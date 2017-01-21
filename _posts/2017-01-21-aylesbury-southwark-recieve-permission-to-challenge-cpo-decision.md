@@ -11,7 +11,7 @@ Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the 
 
 Southwark Council finally got permission to make its case against the Secretary of State, for his refusal of their CPO request against Aylesbury leaseholders.  It was Southwark's second time of asking and there can now be a full court hearing, involving all parties, including the leaseholders, probably around April.
 
-Southwark Council leader, Peter John, is no doubt relieved by the decision, but also appears to be confused.  The decision does not reverse Sajid Javid's refusal or overturn the CPO- it just allows Southwark to get on to the playing field, so to speak, and make its case.
+Southwark Council leader, Peter John, is no doubt relieved by the decision, but he also appears to be confused.  The decision does not reverse Sajid Javid's refusal or overturn the CPO- it just allows Southwark to get on to the playing field, so to speak, and make its case.
 
 In giving permission presiding Judge Collins said that Southwark and the Secretary of State should make efforts to 'ameliorate' the leaseholders situation.  Cllr John immediately repeated his call to the Secretary of State, Sajid Javid, to reconsider his decision, through [local media](http://www.southwarknews.co.uk/news/council-leader-calls-government-settle-aylesbury-cpo-dispute-outside-court/), selectively quoting Judge Collin's comments, without reference to the leaseholders' plight.
 
