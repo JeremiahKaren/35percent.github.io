@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "E&C Shopping Centre redevelopment"
-subtitle: "979 new homes, but no social rented. No room for current shop-keepers"
+subtitle: "979 new homes but none social rented. No room for current shopkeepers"
 sharing: true
 ---
 ![]({{site.baseurl}}/img/delanceyaerial.png)
