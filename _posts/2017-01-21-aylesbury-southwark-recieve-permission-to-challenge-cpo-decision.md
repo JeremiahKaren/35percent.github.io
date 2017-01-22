@@ -1,7 +1,7 @@
 ---
 layout: post
 published: false
-title: 'Aylesbury: Southwark recieve permission to challenge CPO decision.'
+title: 'Aylesbury: Southwark receive permission to challenge CPO decision.'
 subtitle: Council angles for back-door deal with Secretary of State
 date: 21/01/17
 ---
