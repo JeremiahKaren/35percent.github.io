@@ -11,7 +11,7 @@ The application is for 50,000 sq metres of offices, shops and 421 residential un
    
 This is very gracious of L&R, but ignores the well-known requirement for 35% affordable housing, half of which should be social rented [(Core Strategy Policy 6)]( http://www.southwark.gov.uk/download/downloads/id/5823/adopted_core_strategy). This would give us about 150 affordable units, 75 of which would be social rented.
 
-Instead, L&R propose to make a payment of £16.8m in lieu of providing any affordable housing, so that their site will be left unsullied by anyone who cannot afford what they estimate will be an average £820k price tag for a new home. This represents a pitiful 2% of the estimated total development value of the completed development (£747m). The Council claims that the £16.8m in-lieu payment represents the equivalent of 20% affordable housing but hasn't explained its methodology behind this calculation. Were the Council to use its standard [£100k per habitable room tariff](http://crappistmartin.github.io/images/affordablehousingspg.pdf) for in-lieu payments, then 20% of the total 1366 habitable rooms proposed would amount to a payment of £27.3m - much more than the £16.8m claimed. 
+Instead, L&R propose to make a payment of £16.8m in lieu of providing any affordable housing, so that their site will be left unsullied by anyone who cannot afford what they estimate will be an average £820k price tag for a new home. This represents a pitiful 2% of the estimated total development value of the completed development (£747m). The Council claims that the £16.8m in-lieu payment represents the equivalent of 20% affordable housing but hasn't explained its methodology behind this calculation. Were the Council to use its standard [£100k per habitable room tariff](http://crappistmartin.github.io/images/affordablehousingspg.pdf) for in-lieu payments, then 20% of the total 1366 habitable rooms proposed would amount to a payment of £27.3m - much more than the £16.8m offered. 
 
 ![](/img/skiptongdv.png)
 *Extract from [viability assessment](/img/skiptonhouseFVA.pdf) showing total development value*
@@ -28,6 +28,11 @@ L&R achieved this stunning victory for profit over affordable housing, by succes
 
 ![](http://35percent.org/img/blv.png)
 *Southwark's [Development Viability SPD](http://www.southwark.gov.uk/download/downloads/id/13431/development_viability_spd)*
+
+L&R's use of the market value as benchmark is also a clear breach of the Mayor's [SPG guidance](https://www.london.gov.uk/sites/default/files/draft_affordable_housing_and_viability_spg_2016.pdf) on viability testing, which clearly states that the existing use value must be used, which 'excludes any hope value'.
+
+![](/img/mayorspgeuv.png)
+*The Mayor's [SPG for viability testing and affordable housing](https://www.london.gov.uk/sites/default/files/draft_affordable_housing_and_viability_spg_2016.pdf)*
 
 ## £16m versus £67m
 Southwark's expert consultant questioned L&R's use of market value as the benchmark and also L&R's claim that only a maximum of £16m was available for affordable housing; he came up with a much higher figure - £67m[^5]. However, the planning committee was easily persuaded to settle for the lower figure by the promise of a viability review, after development has started, which might get further payments for affordable housing, if, amongst other things, residential and office values rose and building costs fell.
