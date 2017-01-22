@@ -11,12 +11,16 @@ The application is for 50,000 sq metres of offices, shops and 421 residential un
    
 This is very gracious of L&R, but ignores the well-known requirement for 35% affordable housing, half of which should be social rented [(Core Strategy Policy 6)]( http://www.southwark.gov.uk/download/downloads/id/5823/adopted_core_strategy). This would give us about 150 affordable units, 75 of which would be social rented.
 
-Instead, L&R propose to make a payment of £16.8m in lieu of providing any affordable housing, so that their site will be left unsullied by anyone who cannot afford what they estimate will be an average £820k price tag for a new home. This represents a pitiful 2% of the estimated total development value of the completed development (£747m). The Council claims that the £16.8m in-lieu payment represents the equivalent of 20% affordable housing but hasn't explained its methodology behind this calculation. Were the Council to use its standard [£100k per habitable room tariff](http://crappistmartin.github.io/images/affordablehousingspg.pdf) for in-lieu payments, then 20% of the total 1366 habitable rooms proposed would amount to a payment of £27.3m - much more than the £16.8m offered. 
+Instead, L&R propose to make a payment of £16.8m in lieu of providing any affordable housing, so that their site will be left unsullied by anyone who cannot afford what they estimate will be an average £820k price tag for a new home[^1]. This represents a pitiful 2% of the estimated total development value of the completed development (£747m). The Council claims that the £16.8m in-lieu payment represents the equivalent of 20% affordable housing but hasn't explained its methodology behind this calculation. Were the Council to use its standard [£100k per habitable room tariff](http://crappistmartin.github.io/images/affordablehousingspg.pdf) for in-lieu payments; this in-lieu payment would have amounted to £47.8m[^3] - much more than the paltry £16.8m offered. 
 
 ![](/img/skiptongdv.png)
 *Extract from [viability assessment](/img/skiptonhouseFVA.pdf) showing total development value*
 
-The [planning committee report](/img/OfficersReport.pdf) says that the Council's appraisal of the applicant's [viability assessment](/img/skiptonhouseFVA.pdf) disagrees with some of its assumptions. The Council's appraisal estimates that the developer has overstated build costs by £51m (14% - see para. 75). There is also a disagreement about the viability benchmark: the developer has estimated the Existing Use Value of the Skipton House office building at £120m, despite having [paid just £54.5m](http://35percent.org/img/LRegisterSkiptonHouse.pdf) for it. The Council says that there will be viability review once the development is implemented but concedes that further payments in-lieu of affordable housing will only be made once L&R has made a minimum 17.5% profit.
+The [planning committee report](/img/OfficersReport.pdf) says that the Council's appraisal of the applicant's [viability assessment](/img/skiptonhouseFVA.pdf) disagrees with some of its assumptions. The Council's appraisal estimates that the developer has overstated build costs by £51m (14% - see para. 75). There is also a disagreement about the viability benchmark: the developer has estimated the Existing Use Value of the Skipton House office building at £120m, despite having [paid just £54.5m](http://35percent.org/img/LRegisterSkiptonHouse.pdf) for it. The Council says that there will be viability review once the development is implemented but concedes that further payments in-lieu of affordable housing will only be made once L&R has made a minimum 17.5% profit. This 17.5% developer profit margin has been ring-fenced in the [viability assessment](http://35percent.org/img/skiptonhouseFVA.pdf), representing a guaranteed windfall of £130m for the developer, regardless of how much affordable housing is provided[^2].
+
+![](http://35percent.org/img/profitskipton.png)
+*L&R's viability assessment assumes a minium developer profit of 17.5%*
+
 
 L&R support their argument by claiming that the development is one of *‘exceptional circumstances’*. L&R also trot out the well-worn argument that providing affordable housing means building a separate core (providing what's become known as 'poor doors') which in turn would  *'reduce the efficiency of the Development and ultimately the overall viability.'*  If this is not sufficient to convince Southwark to give up hope of any on-site affordable housing L&R adds another developer favourite, that *'the proposed strategy for the inclusion of the large communal residential terrace......would also need to be reflected in service charges for any affordable rented units'* (Quotes from [Planning Statement]( http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!rD%2bXXQJ%2bzV9QuBQgqt9pRw%3d%3d!%7d%7d%7d)).
 
@@ -78,5 +82,15 @@ In 2012 The Evening Standard [reported](http://www.standard.co.uk/news/london/lo
 The Telegraph [reports](http://www.telegraph.co.uk/finance/newsbysector/constructionandproperty/9644289/Ian-and-Richard-Livingstone-pay-themselves-124m-dividend.html) that the brothers like to pay themselves hundreds of millions in dividends each year;  [Companies House data](https://beta.companieshouse.gov.uk/company/02909660/filing-history) shows that L&R hasn't paid any UK corporation tax since 2010 (when it paid just £1.9m); we note an  [office in Panama](http://lrp.co.uk/contact/).
 
 L&R joins the [list](http://35percent.org/2014-05-05-manx-connections-the-off-shore-home-of-the-elephants-developers/) of other developers at the Elephant with offshore links and we note L&R is also one of the top 100 Tory party donors - as is [Delancey's Jamie Ritblat](http://crappistmartin.github.io/images/PrivateEyeNo1311.pdf).
+
+__Footnotes:__
+
+[^1]: Calculated using the weighted average of the 421 units from the column 'unit price' on the penultimate page of the [viability assessment](http://35percent.org/img/skiptonhouseFVA.pdf). 
+
+[^2]: See paragraph 10.4 on page 39 of the [viability assessment](http://35percent.org/img/skiptonhouseFVA.pdf) which says that the minimum required profit level is 17.5% of the Gross Development Value. The viability assessment shows the Gross Development Value as £747m. Therefore the minimum required profit is £130m (17.5% of £747m).
+
+[^3]: Southwark's tariff for in-lieu payments is £100k per habitable room of affordable housing not provided. The scheme is proposing 1,366 habitable rooms in total; 35% of 1,366 is 478 habitable rooms; 478 X £100,000 = £47.8m
+
+[^5]: See paragraphs 77 & 78 of the [planning committee report](http://moderngov.southwark.gov.uk/documents/s62738/Report%20Skipton%20House%2080%20London%20Road%20Perry%20Library%20250%20Southwark%20Bridge%20Road%20and%20Keyworth%20Street%20.pdf)
 
 
