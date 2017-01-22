@@ -33,5 +33,7 @@ Delancey has subsequently struck a deal with the London College of Communication
 
 ![Delancey's Elephant & Castle holdings](http://crappistmartin.github.io/images/eandcmap.png)
 
+We have set up our [online objections form](http://commentform.herokuapp.com) and encourage people to use it to object to this application. All you need to do is enter your name and email address and your objection will be sent straight to Southwark Council. We have entered suggested wording in the box but please feel free to personalise it by amending or adding to it as you see fit.
+
 
 

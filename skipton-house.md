@@ -23,11 +23,24 @@ L&R support their argument by claiming that the development is one of *‘except
 ![skipton house cgi](http://35percent.org/img/skiptonhouse.png)
 *CGI of proposed Skipton House redevelopment*
 
-## Affordable housing: on-site comes first
-When the Greater London Authority (GLA) was consulted on L&R's original application, it noted that there was no quantified affordable housing on offer and reminded both Southwark and L&R that *'the applicant is to prioritise on-site delivery as a first principle'* [(GLA Stage 1 referral 29)](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7B%7B%7B!kGxmoZgYgJk1gwYTnclyYQ==!%7D%7D%7D). L&R though, are not having this; they don't want their site blemished with affordable housing - it must be met by an in-lieu payment. 
+## Only £16m for affordable housing
+L&R achieved this stunning victory for profit over affordable housing, by successfully arguing that there was only £16m in the kitty for affordable housing and if they paid anything more their development would be rendered unviable (not profitable enough). It was able to pull this off, in part, because it had [bought](http://35percent.org/img/LRegisterSkiptonHouse.pdf) Skipton House for £54.5m in 2001 and then sat on it, while land values rose, enabling it to enter a figure of £120m as Skipton House’s current market value into the viability assessment. This was the bulk of a £137m valuation of the whole site, raising the benchmark measure for viable development and reducing the margin available for affordable housing. This flies in the face of Southwark's new [Development Viability SPD](http://www.southwark.gov.uk/download/downloads/id/13431/development_viability_spd), which specifically states that Current Use Value (CUV) should be used as the viability benchmark - not market value.
 
-## Financially challenged
-Inevitably L&R have submitted a financial viability assessment (FVA) to substantiate their case. We [requested](http://crappistmartin.github.io/images/skiptonhouse_objection.pdf) the assessment,  but the Council still hasn't provided either the FVA or its update, despite [trumpeting](http://www.southwarknews.co.uk/news/closed-door-developer-deals-to-go-public/) the [adoption](http://www.southwark.gov.uk/info/200151/supplementary_planning_documents_and_guidance/3914/draft_development_viability_spd) of a new policy to make FVAs public.  We therefore don't know what the proposed scheme profits are or the critical benchmark value that determines viability. However, L&R emphasise in their application that the current  Skipton House is *'a profitable office asset'* with *'substantial existing use value'* [(Revised affordable housing statement 3.7)](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7B%7B%7B!WkLwEIO15MGZYh0JyBNStw==!%7D%7D%7D). So we can conclude that the viability benchmark will be high, making it that much easier to demonstrate an unviable scheme and thus dump affordable housing.
+![](http://35percent.org/img/blv.png)
+*Southwark's [Development Viability SPD](http://www.southwark.gov.uk/download/downloads/id/13431/development_viability_spd)*
+
+## £16m versus £67m
+Southwark's expert consultant questioned L&R's use of market value as the benchmark and also L&R's claim that only a maximum of £16m was available for affordable housing; he came up with a much higher figure - £67m[^5]. However, the planning committee was easily persuaded to settle for the lower figure by the promise of a viability review, after development has started, which might get further payments for affordable housing, if, amongst other things, residential and office values rose and building costs fell.
+
+## Affordable housing: on-site comes first
+When the Greater London Authority (under Boris as Mayor) was consulted on L&R's original application, it noted that there was no quantified affordable housing on offer and reminded both Southwark and L&R that *'the applicant is to prioritise on-site delivery as a first principle'* [(GLA Stage 1 referral 29)](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7B%7B%7B!kGxmoZgYgJk1gwYTnclyYQ==!%7D%7D%7D). 
+
+However, by the time it came to the final stage 3 report, Sadiq Khan had replaced Johnson as Mayor and [issued his approval](http://www.london-se1.co.uk/news/view/9051) to the scheme, noting only _"I wish to emphasise that the low level of affordable housing in this case is only acceptable due to a unique set of viability circumstances and wider proposed public benefits"._
+
+We note the significant departure from Sadiq Khan's original election manifesto pledge to take a 'tougher stance with developers' and their viability assessments, and ensure that every development delivers at least 50% affordable housing.. 
+
+## Abject Labour
+On a local level all of Southwark's Labour members on its planning committee voted as a block in favour of the development. The Lib Dem councillors Adele Morris and Hamish McCulloch voted against. Local Cathedral ward councillor David Noakes also spoke against the application.
 
 ## Homeless - not wanted here
 As well as depriving the Elephant of much needed affordable housing, L&R are intending to demolish a 35-bed homeless hostel on Keyworth St owned by Southwark Council. 
@@ -60,12 +73,5 @@ In 2012 The Evening Standard [reported](http://www.standard.co.uk/news/london/lo
 The Telegraph [reports](http://www.telegraph.co.uk/finance/newsbysector/constructionandproperty/9644289/Ian-and-Richard-Livingstone-pay-themselves-124m-dividend.html) that the brothers like to pay themselves hundreds of millions in dividends each year;  [Companies House data](https://beta.companieshouse.gov.uk/company/02909660/filing-history) shows that L&R hasn't paid any UK corporation tax since 2010 (when it paid just £1.9m); we note an  [office in Panama](http://lrp.co.uk/contact/).
 
 L&R joins the [list](http://35percent.org/2014-05-05-manx-connections-the-off-shore-home-of-the-elephants-developers/) of other developers at the Elephant with offshore links and we note L&R is also one of the top 100 Tory party donors - as is [Delancey's Jamie Ritblat](http://crappistmartin.github.io/images/PrivateEyeNo1311.pdf).
-
-## In conclusion...
-It seems incredible that Southwark are willing to entertain a planning  application from a rich off-shore connected developer, an application that at first didn't bother to say how much affordable housing it would build and is now using a criticised 'cultural offer' as an excuse to provide as little as possible. 
-
-The Theatre's Trust comment shows the obvious way forward. Delancey, the owners and developers of the shopping centre, should be told that the Coronet must be retained and L&R told that they must provide 35% affordable housing on-site and that building a venue a fraction of the Coronet's size is not an acceptable excuse for not doing so. If this is done then the value of the Elephant as a cultural destination can  be maintained and a policy-compliant amount of affordable housing secured.
-
-We have set up our [online objections form](http://commentform.herokuapp.com) and encourage people to use it to object to this application. All you need to do is enter your name and email address and your objection will be sent straight to Southwark Council. We have entered suggested wording in the box but please feel free to personalise it by amending or adding to it as you see fit. 
 
 

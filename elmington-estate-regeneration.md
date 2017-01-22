@@ -4,6 +4,8 @@ title: "Elmington Estate Regeneration"
 sharing: true
 footer: true
 ---
+![](/img/elmingtonsnotes.jpg)
+
 The decision to redevelop the Elmington estate was taken as part of the ['Southwark Estates Initiative'](http://embed.verite.co/timeline/?source=0Aprl6XcACewydEhRaWFOLVBfUjBSVW1HUGVZNEhGeFE&font=Bevan-PotanoSans&maptype=toner&lang=en&hash_bookmark=true&start_zoom_adjust=2&height=650#1), a regeneration strategy devised by Southwark's Labour administration as part of New Labour's 'Urban Task Force' urban renewal strategy. 
 
 The Elmington regeneration is split into 10 blocks (A-J), of which F, H, I and J will be refurbished and the remainder redeveloped.
