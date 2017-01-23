@@ -64,7 +64,7 @@ As a result of the stalemate, St Modwen [sold](http://crappistmartin.github.io/i
 
 ![Kim Humphries](https://southwarknotes.files.wordpress.com/2014/07/photo-5-1.jpg) 
 
-Delancey, which is also developing neighbouring site ([Tribeca Square](http://crappistmartin.github.io/tribeca-square)), has [employed](http://crappistmartin.github.io/images/delanceyinvite.pdf) former deputy Southwark council leader Kim Humphries to advise on its development and lead its consultation plans. Delancey was originally aiming to submit its planning applicaton by May 2015, but it seems this has now slipped. We can only assume that the stand off continues with the council over the number of residential and affordable housing units proposed.  
+Delancey, which is also developing neighbouring site ([Tribeca Square](http://crappistmartin.github.io/tribeca-square)), has [employed](http://crappistmartin.github.io/images/delanceyinvite.pdf) former deputy Southwark council leader [Kim Humphries](http://www.linkedin.com/pub/kim-humphreys/5/312/a34) to advise on its development and lead its consultation plans. Kim is now [Carvil Ventures Ltd](http://carvil-ventures.co.uk/) - an independent corporate finance and real-estate consultancy, which is advising Delancey. He is not the first former senior member or council leader to disappear through Southwark's [revolving doors](/revolving-doors): 
 
 ![](https://s3-eu-west-1.amazonaws.com/rbi-blogs/wp-content/uploads/mt/estatesgazette/blogs/london-residential-research/assets_c/2011/06/elephant%20shopping%20centre6-thumb-500x401-129796.jpg)
  
