@@ -33,6 +33,22 @@ So, while this application is from Delancey, there can be little doubt it is com
 
 Delancey's application is just another step down the gentrification road.  It has little in it that will help those who can only afford social rented housing; indeed it is purposely designed ot exclude them from the proposed development.  The shopkeepers and small traders, many from ethnic minority backgrounds, who have worked hard to become an integral part of the community, are deemed to be _'not financially viable ...to survive'_. Southwark Council and the Mayor should be telling  Delancey how unacceptable this application is, not changing planning policy to ensure its success.
 
+The development adds to the other towers of shame at the Elephant where we now have a pipleline of 6228 new homes, of which a pitiful 82 will be social rented. 
+
+|__Development__| __Total homes__  | __Social rented__ |
+|---|---|---|
+| [Heygate](/heygate-regeneration-faq) (12/AP/1092) | 2704  | 82  |
+| [Strata Tower](/strata-tower) (05/AP/2502) | 408  | 0  |
+| [One the Elephant](/one-the-elephant) (12/AP/2239) | 284  | 0  |
+| [Tribeca Square](/tribeca-square) (08/AP/2043) | 640 | 0 |
+| [Eileen House](/eileen-house) (09/AP/0343) | 335 | 0 |
+| [London 360 Tower](/london-360-tower) (07/AP/0760) | 457 | 0 |
+| [Skipton House](/skipton-house) (15/AP/5125) | 421 | 0 |
+| [Shopping Centre/LCC](/shopping-centre) (16/AP/4458) | 979 | 0 |
+| __Total:__ | __6228__ | __82__ |
+
+We have set up our [online objections form](http://commentform.herokuapp.com) and encourage people to use it to object to this application. All you need to do is enter your name and email address and your objection will be sent straight to Southwark Council. We have entered suggested wording in the box but please feel free to personalise it by amending or adding to it as you see fit.
+
 ## History
 ![](http://www.london-se1.co.uk/news/imageuploads/1255443526_80.177.117.97.jpg)
 
@@ -57,7 +73,7 @@ Delancey has dismissed the [campaign](http://coronettheatre.co.uk/home/save-the-
 
 ![](http://crappistmartin.github.io/images/coronet_cinema.jpg)
 
-We have set up our [online objections form](http://commentform.herokuapp.com) and encourage people to use it to object to this application. All you need to do is enter your name and email address and your objection will be sent straight to Southwark Council. We have entered suggested wording in the box but please feel free to personalise it by amending or adding to it as you see fit.
+
 
 
 
