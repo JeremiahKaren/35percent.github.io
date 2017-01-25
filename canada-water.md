@@ -86,7 +86,9 @@ The [extant permission](http://planbuild.southwark.gov.uk/documents/?casereferen
 
 Having bought the sites for £16m in 2010, Sellar immediately started [lobbying](http://www.southwark.gov.uk/download/downloads/id/6436/letter_to_inspector_regarding_sellar_additional_evidence_2_sept_2011) to change the planning policy parameters for the site to increase the density and reduce the affordable housing requirements. 
 
-In 2013 Sellar got his way, and despite [173 objections](http://planbuild.southwark.gov.uk:8190/online-applications/applicationDetails.do?activeTab=neighbourComments&keyVal=_STHWR_DCAPR_9548016) from local residents, was [granted planning permission](http://planbuild.southwark.gov.uk:8190/online-applications/applicationDetails.do?activeTab=summary&keyVal=_STHWR_DCAPR_9548016) for 1,046 units of which just 34 would be social rented.
+In doing so Sellar [employed](/img/Regeneration-and-Major-Projects.pdf) former Council leader Nick Stanton, who now [works as a development consultant](http://curtinandco.com/profiles/nick-stanton-obe/) for Curtin & Co. 
+
+With Stanton's help, Sellar got his way in 2013 and despite [173 objections](http://planbuild.southwark.gov.uk:8190/online-applications/applicationDetails.do?activeTab=neighbourComments&keyVal=_STHWR_DCAPR_9548016) from local residents, was [granted planning permission](http://planbuild.southwark.gov.uk:8190/online-applications/applicationDetails.do?activeTab=summary&keyVal=_STHWR_DCAPR_9548016) for 1,046 units of which just 34 would be social rented.
 
 ![](http://crappistmartin.github.io/images/SiteC_AH.png)
 
