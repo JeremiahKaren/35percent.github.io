@@ -11,5 +11,3 @@ Southwark Council leader, Peter John, is no doubt relieved by the decision, but 
 In giving permission presiding Judge Collins said that Southwark and the Secretary of State should make efforts to 'ameliorate' the leaseholders' situation. Cllr John immediately repeated his call to the Secretary of State, Sajid Javid, to reconsider his decision, through [local media](http://www.southwark.gov.uk/news/2017/jan/council-calls-on-secretary-of-state-for-urgent-meeting-after-judge-puts-aylesbury-estate-judicial-review-back-on-track) without reference to the leaseholders' plight.
 
 The 35% Campaign is committed to supporting the Aylesbury leaseholders and we have now raised over £6000 to ensure thay they are leaseholders are legally represented throughtout the whole CPO process; if you would like to help please click here - https://www.gofundme.com/aylesbury-the-right-to-a-community-2uefgf2s - all contributions, large or small gratefully recieved.
-
-
