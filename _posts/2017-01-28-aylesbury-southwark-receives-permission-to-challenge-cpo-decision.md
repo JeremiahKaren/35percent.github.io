@@ -12,4 +12,4 @@ In giving permission presiding Judge Collins said that Southwark and the Secreta
 
 The 35% Campaign is committed to supporting the Aylesbury leaseholders and we have now raised over £6000 to ensure thay they are leaseholders are legally represented throughtout the whole CPO process; if you would like to help please click here - https://www.gofundme.com/aylesbury-the-right-to-a-community-2uefgf2s - all contributions, large or small gratefully recieved.
 
-Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
+
