@@ -1,7 +1,7 @@
 ---
 layout: post
 published: false
-title: 'Aylesbury: Southwark receive permission to challenge CPO decision.'
+title: 'DraftAylesbury: Southwark receive permission to challenge CPO decision'
 subtitle: Council angles for back-door deal with Secretary of State
 date: 21/01/17
 ---
@@ -11,7 +11,7 @@ Southwark Council leader, Peter John, is no doubt relieved by the decision, but 
 
 One of Southwark's key arguments in securing permission was that its offers are low because it is bound by Sajid Javid's own compensation code. Leaseholders insist that Southwark is not offering what the code allows, it is offering the lower amounts and they can be believed. The amounts are determined by comparative valuations and we have [exposed the dirty tricks](http://35percent.org/2014-05-30-aylesbury-leaseholder-fights-incestuous-valuation/) that Southwark employs to depress these valuations.
 
-In giving permission presiding Judge Collins said that Southwark and the Secretary of State should make efforts to 'ameliorate' the leaseholders situation. Cllr John immediately repeated his call to the Secretary of State, Sajid Javid, to reconsider his decision, through [local media](http://www.southwark.gov.uk/news/2017/jan/council-calls-on-secretary-of-state-for-urgent-meeting-after-judge-puts-aylesbury-estate-judicial-review-back-on-track) selectively quoting Judge Collin's comments, without reference to the leaseholders' plight.
+In giving permission presiding Judge Collins said that Southwark and the Secretary of State should make efforts to 'ameliorate' the leaseholders' situation. Cllr John immediately repeated his call to the Secretary of State, Sajid Javid, to reconsider his decision, through [local media](http://www.southwark.gov.uk/news/2017/jan/council-calls-on-secretary-of-state-for-urgent-meeting-after-judge-puts-aylesbury-estate-judicial-review-back-on-track) selectively quoting Judge Collin's comments, without reference to the leaseholders' plight.
 
 Given Southwark's failure to secure their CPO by following due legal procees, Cllr John's anxiety to make an out of court deal with Mr Javid is understandable. But any out of court resolution of the situation should be with the leaseholders, not Mr Javid. Cllr John evidently wishes to sideline them and this must not be allowed to happen. There must be no back-door deals.
 
