@@ -20,13 +20,13 @@ The 35% Campaign is committed to supporting the Aylesbury leaseholders and we ha
 Scott Morrison, Australia's finance minister and [possibly](http://typewriterintl.com/2016/06/21/australias-next-prime-minister-scott-morrison/) _“next conservative prime minister”_, has been led on a [tour](http://www.dailytelegraph.com.au/news/national/big-business-super-funds-could-be-the-key-to-fixing-social-housing-problem-in-australia/news-story/46e14eb7da03713ab492211e9cf935c7) of the Heygate redevelopment. 
 
 ![](/img/scottmorrisonheygate.jpg)
-*Aussie Finance Minister Scott Morrison with Lendlease's Rob Heasman touring Heygate redevelopment*
+*Aussie Minister Scott Morrison with Lendlease's Rob Heasman touring the new Heygate*
 
 Australian developer Lendlease has been lobbying the government in a bid to solve its deepening housing crisis, holding up its partnership with Southwark Council in its redevelopment of the Heygate estate as a blueprint for change.
 
 Morrison [praises](http://www.afr.com/news/politics/scott-morrison-says-london-property-proves-scrapping-negative-gearing-wont-work-20170127-gtzub1) the Council for being 'flexible' in its relationship with Lendlease and for having agreed to accept a _"small upfront payment from Lend Lease for the nine-hectare site in exchange for financial benefits once the project was completed."_
 
-Fortunately, we have been in touch with Australian National Broadcaster ABC and filled them in with the true story behind Lendlease's lobbying spin, i.e. that due to [small print](http://35percent.org/2016-05-11-no-profit-share-the-true-value-of-the-heygate-regeneration/#how-can-this-be-happening) in the contractual agreement, the Council is [unlikely to receive any profit](http://35percent.org/2016-12-05-heygate-profits-north-of-a-hundred-million/) when the scheme completes; and while 25% of the new homes will be 'affordable', shared ownership properties require a [minium salary of £57,500](http://crappistmartin.github.io/images/LQPriceList.pdf) and only [82 out of the development's 2,704 new homes will be for social rent](http://35percent.org/affordable-housing).
+Fortunately, we have been in touch with Australian National Broadcaster ABC and have filled them in with the true story behind Lendlease's lobbying spin, i.e. that due to [small print](http://35percent.org/2016-05-11-no-profit-share-the-true-value-of-the-heygate-regeneration/#how-can-this-be-happening) in the contractual agreement, the Council is [unlikely to receive any profit](http://35percent.org/2016-12-05-heygate-profits-north-of-a-hundred-million/) when the scheme completes; and while 25% of the new homes will be 'affordable', shared ownership properties require a [minium salary of £57,500](http://crappistmartin.github.io/images/LQPriceList.pdf) and only [82 out of the development's 2,704 new homes will be for social rent](http://35percent.org/affordable-housing).
 
 ABC [published its report](http://www.abc.net.au/news/2017-01-30/london-affordable-housing-development-criticised/8222042) yesterday. Hopefully Australia can now learn from our mistakes rather than replicate them. 
 
