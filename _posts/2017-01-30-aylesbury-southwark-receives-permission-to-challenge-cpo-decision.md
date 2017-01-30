@@ -6,7 +6,7 @@ subtitle: Council succeeds at second attempt
 ---
 As has been [widely reported](http://www.southwarknews.co.uk/news/council-given-permission-take-aylesbury-estate-cpo-case-high-court-disappointing-blow-campaigners/), Southwark Council finally got permission to make its case against the Secretary of State, for his refusal of their CPO request against Aylesbury leaseholders. It was Southwark's second time of asking, after first being [refused](/img/Scan0017.pdf) just before Christmas. There can now be a full court hearing, involving all parties, including the leaseholders, probably some time in April.
 
-![](/img/aylesburyleaseholdersfairprice.png)
+![](http://35percent.org/img/aylesburyleaseholdersfairprice.png)
 
 Southwark Council leader, Peter John, is no doubt relieved by the decision, but he also appears to be confused. The decision [does not reverse](https://twitter.com/nearlylegal/status/822537665312620546) Sajid Javid's refusal or overturn the CPO - it just allows Southwark to get on to the playing field, so to speak, and to make its case.
 
@@ -14,12 +14,12 @@ In giving permission, presiding Judge Collins said that Southwark and the Secret
 
 The 35% Campaign is committed to supporting the Aylesbury leaseholders and we have now raised over £6000 to ensure thay they are legally represented throughtout the whole CPO process; if you would like to help please click here - [https://www.gofundme.com/aylesbury-the-right-to-a-community-2uefgf2s](https://www.gofundme.com/aylesbury-the-right-to-a-community-2uefgf2s) - all contributions, large or small gratefully recieved.
 
-![](/img/gofundmescreenshot.png)
+![](http://35percent.org/img/gofundmescreenshot.png)
 
 ## Lendlease bid to solve Australia's housing crisis
 Scott Morrison, Australia's finance minister and [possibly](http://typewriterintl.com/2016/06/21/australias-next-prime-minister-scott-morrison/) _“next conservative prime minister”_, has been led on a [tour](http://www.dailytelegraph.com.au/news/national/big-business-super-funds-could-be-the-key-to-fixing-social-housing-problem-in-australia/news-story/46e14eb7da03713ab492211e9cf935c7) of the Heygate redevelopment. 
 
-![](/img/scottmorrisonheygate.jpg)
+![](http://35percent.org/img/scottmorrisonheygate.jpg)
 *Aussie Minister Scott Morrison with Lendlease's Rob Heasman touring the new Heygate*
 
 Australian developer Lendlease has been lobbying the Australian government in a bid to help solve the country's deepening housing crisis, holding up its partnership with Southwark Council and redevelopment of the Heygate estate as a viable solution.
