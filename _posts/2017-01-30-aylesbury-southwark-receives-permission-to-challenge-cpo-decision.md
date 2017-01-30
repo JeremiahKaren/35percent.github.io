@@ -1,10 +1,10 @@
 ---
 layout: post
 published: true 
-title: 'Aylesbury: Southwark receives permission to appeal CPO decision.'
+title: 'Aylesbury: Southwark finally granted leave to appeal CPO decision.'
 subtitle: Council succeeds at second attempt
 ---
-As has been [widely reported](http://www.southwarknews.co.uk/news/council-given-permission-take-aylesbury-estate-cpo-case-high-court-disappointing-blow-campaigners/), Southwark Council finally got permission to make its case against the Secretary of State, for his refusal of their CPO request against Aylesbury leaseholders. It was Southwark's second time of asking, after first being [refused](/img/Scan0017.pdf) just before Christmas. There can now be a full court hearing, involving all parties, including the leaseholders, probably some time in April.
+As has been [widely reported](http://www.southwarknews.co.uk/news/council-given-permission-take-aylesbury-estate-cpo-case-high-court-disappointing-blow-campaigners/), Southwark Council finally got permission to make its case against the Secretary of State, for his refusal of their CPO request against Aylesbury leaseholders. It was Southwark's second time of asking, after first being [flatly refused](/img/Scan0017.pdf) just before Christmas. There can now be a full court hearing, involving all parties, including the leaseholders, probably some time in April.
 
 ![](http://35percent.org/img/aylesburyleaseholdersfairprice.png)
 
