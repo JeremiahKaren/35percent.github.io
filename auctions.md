@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "The price of regeneration"
-subtitle: The smoke and mirrors of regeneration
+subtitle: Who pays for regeneration and who benefits? 
 sharing: true
 footer: true
 ---
