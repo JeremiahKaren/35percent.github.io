@@ -43,14 +43,9 @@ The huge discrepancy between estimated and actual end sales values, might be exp
 
 In 2011 __Eadon Estates__ [sold](http://crappistmartin.github.io/images/LandRegistry_TribecaSquare.pdf) the site for £40m to __DV4 Eadon Ltd__ (another Delancey shell company registered in the British Virgin Islands). 
 
-In 2013 former deputy council leader Kim Humphries [resurfaced](http://crappistmartin.github.io/blog/2013/12/07/kim-humphreys-exit-stage-left/) at the Elephant working for __Delancey__ as an [independent development consultant](http://carvil-ventures.co.uk/).
+In 2013 former deputy council leader Kim Humphries [resurfaced](http://crappistmartin.github.io/blog/2013/12/07/kim-humphreys-exit-stage-left/) at the Elephant working for __Delancey__ as an [development consultant](http://carvil-ventures.co.uk/).
 
-
-![](http://crappistmartin.github.io/images/tribecamarketsquareplan.png)
-
-![](http://crappistmartin.github.io/images/tribecacgi.png)
-
-![](http://crappistmartin.github.io/images/tribecamarketsquare.png)
+Rooms in the student block are currently being advertised for upwards of [£289 per week](https://www.casitaa.com/accommodation/81-portchester-house-london-uk) FOR A ROOM!
 
 Para 6.29 of the [planning statement](http://crappistmartin.github.io/images/tribecaplanningstatement.pdf) says affordable housing not viable because of market square.
 

@@ -1,21 +1,11 @@
 ---
 layout: page
-title: "Selling Southwark"
+title: "The price of regeneration"
 subtitle: The smoke and mirrors of regeneration
 sharing: true
 footer: true
 ---
-One of the most visible marks of regeneration in Southwark is the persistent improvements to its major parks. The extra funding being spent on improvements to parks is undeniably one of the positive aspects to regeneration, but doesn't come without its nether side.  
-
-This planning application for a development in Peckham is symptomatic of so many developments approved in recent years. It has been built at more than twice the density permitted by policy and has provided only half the required amount of amenity space as a result. The Council's planning committee squares this by accepting a financial contribution from the developer towards the improvement of existing local parks. 
-
-![](/img/localparkscontribution.png)
-*[Planning Committee report](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!yP1lK1SBYnvpeezqHiCudA%3d%3d!%7d%7d%7d) for a large development in Peckham*
-
-With the Council approving approximately 2000 new homes each year (approx 6000 new residents), it is little wonder that Southwark's parks have received plenty of funding and become much busier.
-
-## Libraries
-Another visible upside to regeneration is the number of 'new' community 
+One of the undisputable upsides to regeneration is the number of 'new' community 
 facilities like the ['new' 
 library](http://www.bbc.co.uk/news/uk-england-london-15912616) at Canada Water 
 and ['new' leisure 
@@ -26,6 +16,7 @@ and leisure centres were demolished and sold off to make way for the new ones.
 ![](/img/elephantcastleleisurecentre_rotherthithelibrary.jpg)
 *Former Rotherhithe library & civic centre (left), former E&C leisure centre (right)*
 
+What is also forgotten is the cost of these new facilities and who pays for them. 
 Southwark likes to claim that the new facilities are funded by financial contributions from developers, but the reality is that this funding represents just a fraction of the cost of the new facilities. The ['Castle' leisure centre](http://www.southwark.gov.uk/info/200229/investing_in_leisure/1793/the_castle_leisure_centre) at the Elephant cost nearly £30m to build, towards which regeneration partner Lend Lease is contributing just £3.5m - in fact the Council agreed this payment in-lieu of Lend Lease's ['One the Elephant'](http://35percent.org/one-the-elephant/) development providing any affordable housing. The new Canada Water library [cost £14m](https://www.whatdotheyknow.com/request/canada_water_regeneration_receip#incoming-848790) to build which was entirely Council funded - no contribution from developers whatsoever.  
 
 The [new library and health centre](http://www.aylesburynow.london/news/posts/new-public-square-moves-one-step-closer) to be built on the redeveloped [Aylesbury estate](/aylesbury-estate) are direct replacements for the existing medical centre which is being demolished and the East St library and Wells Way library which are being closed. Furthermore, the [new library and health centre](http://www.aylesburynow.london/news/posts/new-public-square-moves-one-step-closer) is being entirely funded by Southwark Council. Its development partners Notting Hill and Barratt Homes are not making any contribution towards them at all.
@@ -33,21 +24,23 @@ The [new library and health centre](http://www.aylesburynow.london/news/posts/ne
 ![](/img/aylesburymedicalcentreandlibrary.jpg)
 *Aylesbury Medical Centre, East St Library, Wells Way Library, Aylesbury Learning Centre* 
 
-Likewise, the new Camberwell library is a replacement of the one that was closed down in 2015.
+Likewise, the new Camberwell library is a replacement of the one that was closed down in 2015 and has been funded exclusively by the Council.
 
 ![](/img/camberwelllibraries.jpg)
 *Former Camberwell library (left), new Camberwell library (right)* 
 
 ## Selling Southwark's adult care services
-Meanwhile, in order to make up the shortfall in funding the construction of the replacement libraries, health and leisure centre, the Council has been making drastic cuts to social services and frantically selling off premises used by them.
-The Council has [cut](http://moderngov.southwark.gov.uk/documents/s59115/Policy%20and%20Resources%20Strategy%20201617%20to%20201819.pdf) a staggering £39m from the current year's budget for education and adult services alone. Here is a map of some adult services buildings that have been, or are being sold off or closed down by the Council's current (Labour) administration:
+Meanwhile, in order to fund the construction of the replacement facilities, the Council has been making drastic cuts to other services and frantically selling off premises used by them.
+
+
+For example, the Council has [cut](http://moderngov.southwark.gov.uk/documents/s59115/Policy%20and%20Resources%20Strategy%20201617%20to%20201819.pdf) a staggering £39m from the current year's budget for education and adult services alone. Here is a map of some adult services buildings that have been, or are being sold off or closed down by the Council's current (Labour) administration:
    
 <center>
 <iframe src="http://35percent.org/soldbysouthwark.html" width="800" height="600"></iframe> 
 <font size="2">Click <a href="http://35percent.org/soldbysouthwark.html">here</a> to view our map in a separate browser window</font> 
 </center>
 
-Besides selling off its community and social services facilities, the Council has been busy [selling off its council estates](http://35percent.org/the-southwark-clearances/), its [Town Halls](http://35percent.org/southwark-town-halls/) and street properties. We have compiled a [brochure](/images/sold_by_southwark.pdf) showing some of the street property Council homes that have been sold at auction by the current (Labour) administration.
+Besides selling off its community and social services facilities, the Council has been busy [selling off its council estates](http://35percent.org/the-southwark-clearances/), its [Town Halls](http://35percent.org/southwark-town-halls/) and street properties. Here are some of the street properties [sold at auction](/images/sold_by_southwark.pdf) by the current (Labour) administration.
 
 | Council House  | Address  | Sold Price  | Date  |
 |---|---|---|---|
