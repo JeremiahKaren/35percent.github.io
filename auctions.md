@@ -33,7 +33,7 @@ Likewise, the new Camberwell library is a replacement of the one that was closed
 The Council's budget for regeneration is one of its largest outgoings. This year it is [spending £23m](http://35percent.org/2016-09-26-council-appeals-aylesbury-cpo-decision/#the-business-case-for-a-moratorium) on the Aylesbury estate regeneration alone. Meanwhile, the Council is making drastic cuts to other services and frantically selling off premises used by them.
 
 
-For example, the Council has [cut](http://moderngov.southwark.gov.uk/documents/s59115/Policy%20and%20Resources%20Strategy%20201617%20to%20201819.pdf) a staggering £39m from the current year's budget for education and adult services alone. Here is a map of some adult services buildings that have been, or are being sold off or closed down by the Council's current (Labour) administration:
+For example, the Council has [cut](http://moderngov.southwark.gov.uk/documents/s59115/Policy%20and%20Resources%20Strategy%20201617%20to%20201819.pdf) a staggering £39m from the current year's budget for education and adult care services alone. Here is a map of some adult services buildings that have been, or are being sold off or closed down by the Council's current (Labour) administration:
    
 <center>
 <iframe src="http://35percent.org/soldbysouthwark.html" width="800" height="600"></iframe> 
