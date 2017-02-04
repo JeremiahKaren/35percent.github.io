@@ -45,3 +45,5 @@ Despite being approved in 2013, the development is still under construction and 
 ![](/img/Wood-Dene-Estate-SN.jpg)
 
 ![](/img/wooddeneoriginal.jpg)
+
+![](/img/wooddenemap.jpg)
