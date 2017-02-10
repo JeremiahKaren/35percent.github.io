@@ -20,18 +20,31 @@ Get in early, lobby the Council for a fair deal before it gets anywhere near the
 The Council needs to produce a policy for how it is going to treat leaseholders in any redevelopment scheme and it needs to consult on this policy.
 The problem we had was that we we didn't get organised until it was too late and the Council had co-opted the TRA's and set up the 'Creation Trust', which is supposedly the 'voice of residents'.
 
-Make sure your interests are represented and make sure you secure a fair deal and make sure it is written into policy. Southwark Council's policy was to offer leaseholders new homes on a 'shared equity' basis, which it claims enables us to live 'rent free' for the rest of our lives in a new home on the estate. What it doesn't mention is the small print; intitially the small print in this deal came with small print preventing leaseholders from recouping any of the uplift on their share of the new home when the came to sell. i.e. you own half of the home but only receive your initial cash share when you come to sell. After much lobbying we finally got this changed such that leaseholders are now offered their share of the uplift, but what we want to see is the following:
+Make sure your interests are represented and make sure you secure a fair deal and make sure it is written into policy. Southwark Council's policy was to offer leaseholders new homes on a 'shared equity' basis, which it claims enables us to live 'rent free' for the rest of our lives in a new home on the estate. What it doesn't mention is the small print; intitially the small print in this deal came with small print preventing leaseholders from recouping any of the uplift on their share of the new home when the came to sell. After much lobbying we finally got this changed such that leaseholders are now offered a proportion of the uplift, but what we are lobbying for is the following:
 
 Leaseholders' homes should be valued based on the average of three independent valuations by RICS registered valuers selected by the leaseholder.
 
-The valuation should also include 10% uplift to reflect blight and account for the Council's ongoing failure to properly maintain the estate. (note 10% blight was previously agreed in one of the 2014 Aylesbury Tribunal cases)
+The valuation should also include uplift to reflect blight and account for the Council's ongoing failure to properly maintain the estate. 
  
-Leaseholders should be made an offer of a new home on the estate and retain 100% equity and ownership of it. This can be achieved through a charge that the Council or its developer will put on the sum required to cover the difference between value of the old home and the value of the new home.
-
-Should the leaseholder come to sell the property, the charge will be reimbursed together with interest (linked to the rate of inflation). This avoids the situation where the Council or developer benefit from capital uplift as a result of improvements made to the property by the leaseholder, and also avoids speculative gain (or loss) from housing market fluctuations.  
+Leaseholders should have the right to a new-build home on the estate and retain 100% equity and ownership of it. This can be achieved by the council or its development partner advancing an interest-free loan to make up the amount needed to purchase 100% of a new property, the loan being repayable on on-sale or death. The loan would be secured by a charge on the property.
  
 ## How to resist a CPO
 Get organised - get a list of other leaseholders on your estate. You can do this either from the freehold deeds available from the Land Registry. The Land Registry Freehold title certificate will contain a list of all of the leasehold properties that have exchanged hands since registration became mandatory in 2003. This won't capture the initial RtB purchases. You can also find out leasehold property from historic properties sold data available from Zoopla etc.
+
+## Use FOI and Land Registry to obtain development (contractual) agreements 
+Here's the link to our [complaint to the ICO](http://35percent.org/img/AylesburyDPA_ICOComplaint.pdf) providing an example of how to obtain development agreements under EIR. 
+
+Often one can also find copies of development agreements lodged with the Land Registry. These can be ordered using an [OC2 form](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/545838/OC2.pdf).
+
+## Tenants' legal defence
+While the council may obtain possession of properties occupied by secure tenants under a compulsory purchase order, in the absence of agreement the council's usual practice is to secure possession under a court order obtained using housing legislation. A court order however will only be granted if the council is able to satisfy the court that one of the grounds set out in Schedule 2 of the Housing Act 1985 is made out. Schedule 2 contains two mandatory ‘regeneration’ grounds; Ground 10 and Ground 10A. Under both grounds, the council must provide suitable alternative accommodation for the tenant. Ground 10 may be relied on where the council intends, within a reasonable time of obtaining possession, to demolish or reconstruct the building or part of the building or carry out work on the building and can’t reasonably do so without obtaining possession. Ground 10A may be relied on where the secretary of state has approved a redevelopment scheme and it is intended to dispose of the properties on the approved scheme within a reasonable time of obtaining possession. The process involved in an application for approval for the purpose of ground 10A means that it is likely to take longer to obtain possession pursuant to this ground than with ground 10 where the approval of the secretary of state is not required. The ability to use Ground 10 will be affected by any delays to the demolition process.
+
+The Housing Act also requires tenants to be consulted on demolition. If this has not been done then there is room for a challenge to any Notice to Quit. 
+
+Compulsory purchase orders also require that any interference with human rights are made 'in accordance with the law'. Should a Council attempt to use compulsory purchase powers instead to remove tenants then the CPO could be challenged on the basis that interference is not in accordance with the law.  
+
+## Force the refurbishment option
+There is scope to force the refurbishment option via a class action for disrepair under the (Housing Act? - for tenants?) and breach of lease for leaseholders.   
 
 ## Lands Tribunal
 One of the common responses from Council officials to complaints about low valuations is that if leaseholders aren't happy then they can refer the issue to the Lands Tribunal to be determined independently.
