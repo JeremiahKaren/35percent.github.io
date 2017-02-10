@@ -50,4 +50,13 @@ There is scope to force the refurbishment option via a class action for disrepai
 One of the common responses from Council officials to complaints about low valuations is that if leaseholders aren't happy then they can refer the issue to the Lands Tribunal to be determined independently.
 The problem is that this whole process is inherently unfair. First of all, you can't refer the issue to the Lands Tribunal until the Council has already taken possession of your home. The process can be very slow and can take up to a year before the case is heard and decided. Then there is the possibility that the Council may appeal the decision if they are not happy with it. 
 The second issue is costs. You are effectively litigating against the Council and litigation requires not just a solicitor, but also a barrister and your surveyor. You should expect to pay at least £15-20,000 for proper professional representation.
-It is likely your case will be heard under what is known as the 'simplified procedure', where each party is normally expected to bear their own costs. There is a caveat however, which is that during the procedure the Council is entitled to make a 'sealed envelope' offer to you to settle the case at any time before the day of the hearing. If the Council makes such an offer and you refuse it then when it comes to the Tribunal determining the final value of your home, if the Tribunal's figure is less than the Council's sealed offer then the Council can force you to pay all of their legal costs. 
+It is likely your case will be heard under what is known as the 'simplified procedure', where each party is normally expected to bear their own costs. There is a caveat however, which is that during the procedure the Council is entitled to make a 'sealed envelope' offer to you to settle the case at any time before the day of the hearing. If the Council makes such an offer and you refuse it then when it comes to the Tribunal determining the final value of your home, if the Tribunal's figure is less than the Council's sealed offer then the Council can force you to pay all of their legal costs.
+
+## Obtaining evidence
+Use FOI to obtain the Council's RtB valuations for neighbouring estates. These can be used as comparables to argue against the low valuations. Here's an example FOI request [https://www.whatdotheyknow.com/request/estate_right_to_buy_sales#incoming-907421}(https://www.whatdotheyknow.com/request/estate_right_to_buy_sales#incoming-907421)
+
+## List of settlements
+[Example](https://www.whatdotheyknow.com/request/schedule_of_aylesbury_estate_com#outgoing-530632) of FOI request for compensation paid to bought-out leaseholders.
+
+## Pre-action protocol
+Use pre-action protocol to obtain the council's valuation report. 
