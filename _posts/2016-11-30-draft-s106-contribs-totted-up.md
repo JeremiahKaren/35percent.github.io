@@ -28,3 +28,6 @@ maintenance of the borough's estates. These now left to rot.
 Land value uplift should finance the public infrastructure required as a result 
 of increased density development. Instead what is happening is that publically 
 funded infrastructure is helping developers line their pockets.
+
+## GLA chield yield
+GLA has a calculator to calculate the potential child yield from a development: [https://www.london.gov.uk/what-we-do/planning/implementing-london-plan/supplementary-planning-guidance/play-and-informal](https://www.london.gov.uk/what-we-do/planning/implementing-london-plan/supplementary-planning-guidance/play-and-informal)
