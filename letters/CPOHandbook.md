@@ -31,6 +31,14 @@ Leaseholders should have the right to a new-build home on the estate and retain 
 ## How to resist a CPO
 Get organised - get a list of other leaseholders on your estate. You can do this either from the freehold deeds available from the Land Registry. The Land Registry Freehold title certificate will contain a list of all of the leasehold properties that have exchanged hands since registration became mandatory in 2003. This won't capture the initial RtB purchases. You can also find out leasehold property from historic properties sold data available from Zoopla etc.
 
+The first thing you will need to do is object to the CPO when the order is issued. You have a strict time limit for this of 28 days so you need to be quick in organising a list of objectors and very brief grounds of objection like [this one](http://heygatewashome.org/img/ObjectionCPOAugust2012.pdf)
+
+The DCLG will then call a public inquiry (normally this will be within 6 months from issuing the CPO) and the Council will serve its 'Statement of Case' within set time limit (normally a month). A statement of case sets out the parties' main arguments for and against confirmation of the Order.
+
+You will then be given until 35 days before the public inquiry to serve your Statement of Case on the Council and the DCLG. 
+
+[Here](https://halag.files.wordpress.com/2017/02/closingstatement.pdf) are some of the arguments we used at the Aylesbury public inquiry. 
+
 ## Use FOI and Land Registry to obtain development (contractual) agreements 
 Here's the link to our [complaint to the ICO](http://35percent.org/img/AylesburyDPA_ICOComplaint.pdf) providing an example of how to obtain development agreements under EIR. 
 
@@ -42,6 +50,9 @@ While the council may obtain possession of properties occupied by secure tenants
 The Housing Act also requires tenants to be consulted on demolition. If this has not been done then there is room for a challenge to any Notice to Quit. 
 
 Compulsory purchase orders also require that any interference with human rights are made 'in accordance with the law'. Should a Council attempt to use compulsory purchase powers instead to remove tenants then the CPO could be challenged on the basis that interference is not in accordance with the law.  
+
+## Private tenants
+It is a little know fact that private tenants also have the right to be rehoused by the Council under the CPO code. Section 39 of the Land Compensation Act 1973 says that anybody being displaced by a compulsory purchase order must be rehoused where 'suitable alternative accommodation' is not available. See Toby for how this is defined in more detail. 
 
 ## Force the refurbishment option
 There is scope to force the refurbishment option via a class action for disrepair under the (Housing Act? - for tenants?) and breach of lease for leaseholders.   
