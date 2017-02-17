@@ -36,6 +36,8 @@ The same [affordable rent study](http://www.southwark.gov.uk/downloads/download/
 
 The council insists that all new rented homes will be social rented not affordable rent, but [revelations](http://www.southwarknews.co.uk/news/council-takes-no-legal-action-over-44-missing-social-housing-units/) that Notting Hill had delivered affordable rent instead of the social rent agreed at its Bermondsey Spa regeneration, have further thrown these promises into doubt. The [long list](http://35percent.org/redefining-social-rent/) of similar tenure switches we have identified shows that this sleight-of-hand is a widespread practice tolerated by Southwark, which in any case [doesn't monitor](http://35percent.org/2016-12-12-ombudsman-slams-southwark-for-no-s106-monitoring/) the tenure-mix of developments post completion. 
 
+<iframe width="350" height="197" src="https://www.youtube.com/embed/sKNI0WA0BTw" align="center" frameborder="0" allowfullscreen></iframe>
+
 The council also insists that Notting Hill has a contractual obligation to provide social rent rather than affordable rent in the redevelopment. But its [contractual agreement](http://crappistmartin.github.io/images/LBS_NHHT_DPAgreement.pdf) contains no reference to the term social rent whatsoever. Instead it refers just to 'target rent’ set by government, without any reference to the term __social rent__ or the National Rent Regime regulatory framework which governs it. There is an obvious concern that this could be interpreted as affordable rent, as there are'target rents' for both __social rent__ and __affordable rent__ set by government.
 
 ![](http://crappistmartin.github.io/images/Aylesbury_targetrent.png)
