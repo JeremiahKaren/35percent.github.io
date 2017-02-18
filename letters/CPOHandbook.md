@@ -64,10 +64,18 @@ The second issue is costs. You are effectively litigating against the Council an
 It is likely your case will be heard under what is known as the 'simplified procedure', where each party is normally expected to bear their own costs. There is a caveat however, which is that during the procedure the Council is entitled to make a 'sealed envelope' offer to you to settle the case at any time before the day of the hearing. If the Council makes such an offer and you refuse it then when it comes to the Tribunal determining the final value of your home, if the Tribunal's figure is less than the Council's sealed offer then the Council can force you to pay all of their legal costs.
 
 ## Obtaining evidence
-Use FOI to obtain the Council's RtB valuations for neighbouring estates. These can be used as comparables to argue against the low valuations. Here's an example FOI request [https://www.whatdotheyknow.com/request/estate_right_to_buy_sales#incoming-907421}(https://www.whatdotheyknow.com/request/estate_right_to_buy_sales#incoming-907421)
+Use FOI to obtain the Council's RtB valuations for neighbouring estates. These can be used as comparables to argue against the low valuations. Here's an example FOI request [https://www.whatdotheyknow.com/request/estate_right_to_buy_sales#incoming-907421](https://www.whatdotheyknow.com/request/estate_right_to_buy_sales#incoming-907421)
 
 ## List of settlements
 [Example](https://www.whatdotheyknow.com/request/schedule_of_aylesbury_estate_com#outgoing-530632) of FOI request for compensation paid to bought-out leaseholders.
 
 ## Pre-action protocol
-Use pre-action protocol to obtain the council's valuation report. 
+Use pre-action protocol to obtain the council's valuation report.
+
+## Know your rights
+The Council is obliged to pay your costs to be represented by a surveyor. However, Southwark has tried to cap surveyor's fees payable by introducing a fee cap.
+Surveyors are obliged to agree a fee basis with the Council before starting work. If the Council refuses to agree your surveyor's fee basis then ask the surveyor and Council for written evidence. You could then complain to the Ombudsman. This will come in useful later at the CPO stage as you will have proof that the Council has not taken reasonable steps to negotiate, which is one of the requirements for the CPO. 
+
+RICS guidance on the calculation of surveyors fees, which recommends  billing “on time spent multiplied by an hourly rate basis” and paragraph  5.26 of the Land Compensation Manual which recommends that surveyors “be reimbursed on a time cost basis for work undertaken in relation to compulsory purchase claims where possible.”
+
+Southwark Council has also had a policy of forcing those leaseholders who take up any rehousing/shared ownership options, to forgo their right to refer the valuation to the Tribunal. This is a breach of section .. of the Land Compensation Act 1973, which says that ..
