@@ -76,8 +76,8 @@ Please register my objection and keep me informed should any of the above shortc
 Yours sincerely,
 </textarea>
   </p>
-  <p class="submit" style="margin:20px"><button type="submit">Send Objection</button></p>
-<p>You will receive a confirmation email on submitting your objection.</p>
+  <p class="submit" style="margin:20px"><button type="submit">Submit Objection</button></p>
+<p>You will receive a confirmation email upon submitting your objection.</p>
 </div>
 </fieldset>
 </form>
