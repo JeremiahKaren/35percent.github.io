@@ -77,10 +77,9 @@ Yours sincerely,
 </textarea>
   </p>
   <p class="submit" style="margin:20px"><button type="submit">Send Objection</button></p>
-</form>
 </div>
-
-
+</fieldset>
+</form>
 
 
 
