@@ -80,6 +80,6 @@ Yours sincerely,
 </div>
 </fieldset>
 </form>
-
+<p>You will receive a confirmation email once your objection has been submitted.</p>
 
 
