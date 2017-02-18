@@ -27,8 +27,7 @@ Woods Road is yet another example of development on former council land which fa
 *Extract from the [S106 agreement](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!JS9YMNEOEjjjL%2ff1dk3IFw%3d%3d!%7d%7d%7d) for Woods Road*
 
 <form id="form5" action="http://commentform.herokuapp.com/" method="post">
-  <fieldset><legend>Fill in the details below to send your objection to Southwark Council. Please feel free to amend or add to the suggested wording.</legend>
-<div id="mc_embed_signup">
+  Fill in the details below to send your objection to Southwark Council. Please feel free to amend or add to the suggested wording.
 <div class="indicates-required"><span class="asterisk">*</span> indicates required</div>
 
 <p class="first" style="margin:20px">
@@ -79,6 +78,4 @@ Yours sincerely,
 
   <p class="submit" style="margin:20px"><button type="submit">Send Objection</button></p>
 
-   </fieldset>
   </form>
-</div>
