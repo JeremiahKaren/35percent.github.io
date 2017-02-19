@@ -29,7 +29,7 @@ Delancey's application is just another step down the gentrification road. It has
 
 ## Object Now!
 <form id="form5" action="http://commentform.herokuapp.com/" method="post">
-<fieldset><legend>Fill in the details below to object and let Southwark know that Delancey's planning application is not acceptable. Be sure to amend the suggested wording.</legend>
+<fieldset><legend>Fill in the details below to object and let Southwark know that Delancey's planning application is unacceptable. Be sure to amend the suggested wording.</legend>
 <div id="mc_embed_signup">
 <div class="indicates-required"><span class="asterisk">*</span> indicates required</div>
 
