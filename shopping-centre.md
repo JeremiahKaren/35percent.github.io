@@ -50,8 +50,6 @@ The development adds to the other towers of shame at the Elephant where we now h
 ![](/img/neoelephant.jpg)
 
 ## History
-![](http://www.london-se1.co.uk/news/imageuploads/1255443526_80.177.117.97.jpg)
-
 The Elephant & Castle shopping centre used to be owned by Godfrey Bradman, the property tycoon who redeveloped the City of London's [Broadgate estate](http://en.wikipedia.org/wiki/Broadgate) in the 1980s.
 
 Bradman was originally selected as the council's development partner for the E&C regeneration back in April 2000, but his [masterplan](http://embed.verite.co/timeline/?source=0Aprl6XcACewydEhRaWFOLVBfUjBSVW1HUGVZNEhGeFE&font=Bevan-PotanoSans&maptype=toner&lang=en&hash_bookmark=true&start_zoom_adjust=2&height=650#6) came to an abrupt end when Southwark [terminated negotiations](http://embed.verite.co/timeline/?source=0Aprl6XcACewydEhRaWFOLVBfUjBSVW1HUGVZNEhGeFE&font=Bevan-PotanoSans&maptype=toner&lang=en&hash_bookmark=true&start_zoom_adjust=2&height=650#7) in April 2002.
@@ -68,9 +66,13 @@ Delancey, which is also developing neighbouring site ([Tribeca Square](http://cr
 
 ![](https://s3-eu-west-1.amazonaws.com/rbi-blogs/wp-content/uploads/mt/estatesgazette/blogs/london-residential-research/assets_c/2011/06/elephant%20shopping%20centre6-thumb-500x401-129796.jpg)
  
-Delancey has dismissed the [campaign](http://coronettheatre.co.uk/home/save-the-coronet/) to save [The Coronet](http://www.theatrestrust.org.uk/resources/theatres/show/3344-coronet-london). The Coronet takes up a sizeable part of the shopping centre site. A music and event venue, it has also been a cinema and music hall [dating back to 1872](http://www.london-se1.co.uk/news/view/7701) and is a popular local institution. Attempts have been to try and have it listed on the basis of its Art Deco interior and exterior, which currently remains [hidden](http://crappistmartin.github.io/images/SNcoronet.pdf) behind its blue corrugated facade, but Delancey has the backing of the Council and wants to see the venue bulldozed. The [Theatres Trust](http://www.theatrestrust.org.uk/) has submitted a [strong objection](planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!mXJGLVs8phU8UfW%2b%2fP0kZA%3d%3d!%7d%7d%7d) to Delancey's planning application. Transport for London has also [written to the Council](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!eFbtnvDjhOiqL4IpxHg%2f%2fw%3d%3d!%7d%7d%7d) outlining a number of significant transport issues that need to be resolved. 
+Delancey has dismissed the [campaign](http://coronettheatre.co.uk/home/save-the-coronet/) to save [The Coronet](http://www.theatrestrust.org.uk/resources/theatres/show/3344-coronet-london). The Coronet takes up a sizeable part of the shopping centre site. A music and event venue, it has also been a cinema and music hall [dating back to 1872](http://www.london-se1.co.uk/news/view/7701) and is a popular local institution. Attempts have been to try and have it listed on the basis of its Art Deco interior and exterior, which currently remains [hidden](http://crappistmartin.github.io/images/SNcoronet.pdf) behind its blue corrugated facade, but Delancey has the backing of the Council and wants to see the venue bulldozed. The [Theatres Trust](http://www.theatrestrust.org.uk/) has submitted a [strong objection](planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!mXJGLVs8phU8UfW%2b%2fP0kZA%3d%3d!%7d%7d%7d) to Delancey's planning application. 
 
 ![](http://crappistmartin.github.io/images/coronet_cinema.jpg)
+
+Transport for London has also [written to the Council](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!eFbtnvDjhOiqL4IpxHg%2f%2fw%3d%3d!%7d%7d%7d) outlining a number of significant transport issues that need to be resolved. One of these is the access route for service vehicles to the new shopping centre, which was originally going to be provided by an underground tunnel from Delancey's neighbouring [Tribeca Square](/tribeca-square) development. Indeed, Delancey's [viability assessment](http://crappistmartin.github.io/images/Delancey_Tribeca_ViabilityAssessment.pdf) for Tribeca Square argued that the ramp for the underground tunnel would cost £12.5m and the development could not viably provide any affordable housing. The council accepted the argument and even [signed over land](/img/DelanceyEadon_MarketSquare_Agreement.pdf) to Delancey's shell company (Eadon Ltd), in order to build the underground access tunnel. However, Delancey's planning application now says that it wants to use Elephant road as the access route instead.
+
+![](/img/shoppingcentreaccess.png)
 
 ## Object Now!
 <form id="form5" action="http://commentform.herokuapp.com/" method="post">
