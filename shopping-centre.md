@@ -60,7 +60,7 @@ Having lost out to Lend Lease in its 2007 bid to be the council's regeneration p
  
 As a result of the stalemate, St Modwen [sold](http://crappistmartin.github.io/images/LRDeeds_ShoppingCentre.pdf) the shopping centre in 2014 for £80m to __Delancey DV4__, a developer funded by George Soros, managed by [Tory donor](http://www.independent.co.uk/news/uk/politics/party-funding-tory-coffers-benefit-from-fear-of-labour-mansion-tax-9716614.html) Jamie Ritblatt, registered in the British Virgin Islands and which has been [accussed](http://crappistmartin.github.io/images/PrivateEyeNo1311.pdf) of _'aggressive tax avoidance'_. 
 
-![Kim Humphries](https://southwarknotes.files.wordpress.com/2014/07/photo-5-1.jpg) 
+![Kim Humphries](/img/carvillkim.jpg) 
 
 Delancey, which is also developing neighbouring site ([Tribeca Square](http://crappistmartin.github.io/tribeca-square)), has [employed](http://crappistmartin.github.io/images/delanceyinvite.pdf) former deputy Southwark council leader [Kim Humphries](http://www.linkedin.com/pub/kim-humphreys/5/312/a34) to advise on its development and lead its consultation plans. Kim is now [Carvil Ventures Ltd](http://carvil-ventures.co.uk/) - an independent corporate finance and real-estate consultancy, which is advising Delancey. He is not the first former senior member or council leader to disappear through Southwark's [revolving doors](/revolving-doors): 
 
