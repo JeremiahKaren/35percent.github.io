@@ -47,7 +47,7 @@ The development adds to the other towers of shame at the Elephant where we now h
 | [Shopping Centre/LCC](/shopping-centre) (16/AP/4458) | 979 | 0 |
 | __Total:__ | __6228__ | __82__ |
 
-We have set up our [online objections form](http://commentform.herokuapp.com) and encourage people to use it to object to this application. All you need to do is enter your name and email address and your objection will be sent straight to Southwark Council. We have entered suggested wording in the box but please feel free to personalise it by amending or adding to it as you see fit.
+![](/img/neoelephant.jpg)
 
 ## History
 ![](http://www.london-se1.co.uk/news/imageuploads/1255443526_80.177.117.97.jpg)
