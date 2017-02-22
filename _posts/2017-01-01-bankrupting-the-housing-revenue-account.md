@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Bankrupting the Housing Revenue Account"
+title: "Southwark spending millions on new Council homes while existing ones crumble"
 subtitle: "How Southwark is privatising council housing through a slow process of managed bankruptcy"
 published: false
 ---

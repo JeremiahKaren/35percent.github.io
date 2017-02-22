@@ -44,6 +44,22 @@ Here's the link to our [complaint to the ICO](http://35percent.org/img/Aylesbury
 
 Often one can also find copies of development agreements lodged with the Land Registry. These can be ordered using an [OC2 form](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/545838/OC2.pdf).
 
+## New Guidance
+New government guidance was issued in 2015 replacing the former requirement to give 'general indication of funding intentions' with the new requirment to provide 'substantive information' relating to the viablity of a scheme underlying a CPO.
+
+The former guidance only said that the Acquiring Authority must make 'reasonable steps to negotiate' with homeowners. The new guidance says:
+_"In order to reach early settlements, public sector organisations should make reasonable 
+initial offers, and be prepared to engage constructively with claimants about relocation 
+issues and mitigation and accommodation works where relevant."_
+
+Paragraph 113 of the new Guidance states that before a local authority can dispose of housing occupied by secure tenants to a private landlord it must consult the tenants in accordance with section 106A of the Housing Act 1985. In the case of the FDS the Acquiring Authority is not proposing to transfer any tenancies to a private landlord. It is providing tenants with the option of transferring to either an alternative Council property or a NHHT property. At the present time there is one secure tenant remaining on the Order Land and they have accepted the offer of an alternative property. (para 412 of Inspector's report)
+
+In the case of the Aylesbury Estate the decision to depart from the previous aim of refurbishment was taken more than 10 years ago. The principle of demolition was considered as part of the AAAP strategy and the Core Strategy. It has also been subject to consultation in respect of the recent planning applications. Whilst I am not a lawyer, and it will be for the Secretary of State to consider this point himself, in my view this case is not comparable with Bokrosova. The tenants have been relocated and it is not intended to dispose of any tenanted properties. Moreover, the tenanted properties were within the Council’s ownership and were not acquired by way of CPO. I therefore do not consider that there is any conflict between the CPO and paragraph 113 of the Guidance. (para 413)
+
+What inspector Colley is saying in the above is that the argument fails on the basis that the tenants were removed before the CPO was served. The argument may succeed where tenants are subjected to CPO proceedings (and subsequently object).
+
+The new guidance also lays out the PSED requirements to ensure that there is no disproportionate impact on BME and other protected groups.
+
 ## Tenants' legal defence
 While the council may obtain possession of properties occupied by secure tenants under a compulsory purchase order, in the absence of agreement the council's usual practice is to secure possession under a court order obtained using housing legislation. A court order however will only be granted if the council is able to satisfy the court that one of the grounds set out in Schedule 2 of the Housing Act 1985 is made out. Schedule 2 contains two mandatory ‘regeneration’ grounds; Ground 10 and Ground 10A. Under both grounds, the council must provide suitable alternative accommodation for the tenant. Ground 10 may be relied on where the council intends, within a reasonable time of obtaining possession, to demolish or reconstruct the building or part of the building or carry out work on the building and can’t reasonably do so without obtaining possession. Ground 10A may be relied on where the secretary of state has approved a redevelopment scheme and it is intended to dispose of the properties on the approved scheme within a reasonable time of obtaining possession. The process involved in an application for approval for the purpose of ground 10A means that it is likely to take longer to obtain possession pursuant to this ground than with ground 10 where the approval of the secretary of state is not required. The ability to use Ground 10 will be affected by any delays to the demolition process.
 
