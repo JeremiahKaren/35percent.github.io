@@ -18,7 +18,7 @@ Diffrent Mayor; business as usual.
 
 Plus ca change, plus c'est la meme chose.
 
-Here's our [detailed response](link) as if it mattered..
+Here's our [detailed response](https://justspacelondon.files.wordpress.com/2017/02/affordable-hsg-spg-35-response-draft.pdf) as if it mattered..
 
 ## Response to Mayor's estate regeneration guidance
 Mayor's estate regeneration guidance is equally piss poor.
