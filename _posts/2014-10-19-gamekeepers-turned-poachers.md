@@ -17,16 +17,10 @@ Who are these 'experts' able to magically gain the 'political support' of counci
 ![](http://www.fourcommunications.com/sites/default/files/styles/four_square/public/people/jeremy.png)
 
 __Four Communications__ was 
-[founded](http://www.southwarknews.co.uk/00,news,10971,440,00.htm) in 2001 by 
-former (Labour) Southwark council leader Jeremy Fraser. On its payroll and 
-[list of 
-shareholders](http://crappistmartin.github.io/images/OneStopReport.pdf) are 
-former (Labour) Lambeth council leader [Jim 
-Dickson](http://www.fourcommunications.com/who-we-are/our-people/jim-dickson) 
-(who is also a [sitting Lambeth 
-councillor](http://moderngov.lambeth.gov.uk/mgUserInfo.aspx?UID=165)) and 
-Southwark's former (Labour) Cabinet Member for Regeneration Steve 
-Lancashire.[^1]
+[founded](http://www.prweek.com/article/168282/wss-fraser-dickson-join-public-affairs-four) in 2001 by former (Labour) Southwark council leader Jeremy Fraser. On its payroll and 
+[list of shareholders](http://crappistmartin.github.io/images/OneStopReport.pdf) are 
+former (Labour) Lambeth council leader [Jim Dickson](http://www.fourcommunications.com/who-we-are/our-people/jim-dickson) (who is also a [sitting Lambeth councillor](http://moderngov.lambeth.gov.uk/mgUserInfo.aspx?UID=165)) and Southwark's former (Labour) Cabinet Member for Regeneration Steve Lancashire.[^1] It counts amongst its employees [Florence Eshalomi](https://www.linkedin.com/in/florence-eshalomi-8b55b62b), Lambeth's former deputy Cabinet member for Housing and current [GLA assembly member](https://www.london.gov.uk/people/assembly/florence-eshalomi/more-about) for Lambeth and Southwark. Also on the [payroll](http://www.fourcommunications.com/who-we-are/our-people) are Hackney Councillors Alan Laing and Karen Alcock - deputy Mayor with responsibility for housing and commercial property.
+
 
 The South Bank's King's Reach Tower provides a good example of how __Four Communications__' lobbying service works. In 2010, Developer [__CIT__](http://www.cit.co.uk/) employed __Four__ to 'help' get permission for its controversial 41 storey Blackfriars development. This is how __Four__'s 4 step lobbying process was implemented:
 
