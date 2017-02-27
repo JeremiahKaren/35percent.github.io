@@ -34,7 +34,7 @@ So, while this application is from Delancey, there can be little doubt it is com
 
 ![](http://www.social-life.co/media/cache/7c/d8/7cd88351c83035bea1af1a55ffe6d81a.jpg)
 
-Delancey's application is just another step down the gentrification road.  It has little in it that will help those who can only afford social rented housing; indeed it is purposely designed ot exclude them from the proposed development.  The shopkeepers and small traders, many from ethnic minority backgrounds, who have worked hard to become an integral part of the community, are deemed to be _'not financially viable ...to survive'_. Southwark Council and the Mayor should be telling  Delancey how unacceptable this application is, not changing planning policy to ensure its success.
+Delancey's application is just another step down the gentrification road.  It has little in it that will help those who can only afford social rented housing; indeed it is purposely designed ot exclude them from the proposed development.  The shopkeepers and small traders, many from ethnic minority backgrounds, who have worked hard to become an integral part of the community, are deemed to be _'not financially viable ...to survive'_. Southwark Council and the Mayor should be telling Delancey how unacceptable this application is, not changing planning policy to ensure its success. They should be promoting London's diverse economy - not killing it. 
 
 The development adds to the other towers of shame at the Elephant where we now have a pipleline of 6228 new homes, of which a pitiful 82 will be social rented. 
 
@@ -50,7 +50,6 @@ The development adds to the other towers of shame at the Elephant where we now h
 | [Shopping Centre/LCC](/shopping-centre) (16/AP/4458) | 979 | 0 |
 | __Total:__ | __6228__ | __82__ |
 
-![](/img/neoelephant.jpg)
 
 ## History
 The Elephant & Castle shopping centre used to be owned by Godfrey Bradman, the property tycoon who redeveloped the City of London's [Broadgate estate](http://en.wikipedia.org/wiki/Broadgate) in the 1980s.
