@@ -16,10 +16,16 @@ The 'affordable housing' tenants would be on 3-year assured short-hold tenancies
 ![](/img/buildtorent.png)
 *Extract from the Mayor's new [Affordable Housing SPG](https://www.london.gov.uk/sites/default/files/draft_affordable_housing_and_viability_spg_2016.pdf)*
 
-The affordable housing will not be let or managed by a housing association, as is usual, but will be privately owned by [Qatari Diar](http://www.cityam.com/238088/elephant-castle-scheme-and-east-village-site-merged-to-create-14bn-private-rented-sector-venture) and Delancey's [tax-avoiding](http://crappistmartin.github.io/images/PrivateEyeNo1311.pdf) offshore investment fund DV4. The Elephant and Castle shopping centre is currently owned by one of the fund's shell companies [registered in the British Virgin Islands](http://crappistmartin.github.io/images/LRDeeds_ShoppingCentre.pdf) and whose directors are [registered](https://beta.companieshouse.gov.uk/company/04434716/officers) in Bermuda and Kuwait.
+The 'Build to Rent' affordable housing will not be let or managed by a housing association, as is usual, but will be privately owned by [Qatari Diar](http://www.cityam.com/238088/elephant-castle-scheme-and-east-village-site-merged-to-create-14bn-private-rented-sector-venture) and Delancey's [tax-avoiding](http://crappistmartin.github.io/images/PrivateEyeNo1311.pdf) offshore investment fund DV4. The Elephant and Castle shopping centre is currently owned by one of the fund's shell companies [registered in the British Virgin Islands](http://crappistmartin.github.io/images/LRDeeds_ShoppingCentre.pdf) and whose directors are [registered](https://beta.companieshouse.gov.uk/company/04434716/officers) in Bermuda and Kuwait.
 
 ![Delancey's Elephant & Castle holdings registered in the BVI](/img/shoppingcentrelr.png)
 
+Delancey claims that providing a policy-compliant affordable housing mix with social rented tenure would render its development unviable, but has refused our request to see a full copy of its viability assessment. The Council's [planning policy for the Elephant & Castle](http://www.southwark.gov.uk/planning-and-building-control/planning-policy-and-transport-policy/supplementary-planning-documents-spd/spd-by-area?chapter=6) says that at least 35% of all new homes must be affordable, of which 50% social rented. This would provide 171 much-needed social rented homes for local people.
+
+![](/img/eandcspdquota.png)
+*Extract from the Council's [planning policy for E&C](http://www.southwark.gov.uk/planning-and-building-control/planning-policy-and-transport-policy/supplementary-planning-documents-spd/spd-by-area?chapter=6)*
+
+## What about existing retailers?
 As expected the shopping centre is to be demolished and there will be [no room for most of the existing retailers](http://35percent.org/2015-07-12-shopping-centre-and-lcc-redevelopment-proposals/). Delancey's [planning statement](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!LnbCaTCiMmUoN4H%2fUA2yyg%3d%3d!%7d%7d%7d) contends that _'it is recognised that some existing retailers in the area are benefitting from disproportionately low levels of rent...'_ and concludes that _'it may not be financially viable for them to survvive in the area in the longer term'_. Delancey offers a 'relocation strategy', but says that it's only on condition of being awarded planning permission and fails to provide any details of what its 'relocation strategy' entails.
 
 ![](http://35percent.org/img/delanceyretailersrelocation.png)
