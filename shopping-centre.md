@@ -83,6 +83,8 @@ Transport for London has also [written to the Council](http://planbuild.southwar
 
 ![](/img/shoppingcentreaccess.png)
 
+We are holding a [public meeting](http://35percent.org/img/EAN_FLYER_28FEB.pdf) on Tues 28th Feb to discuss how we can halt Delancey's plan to destroy the Elephant's diverse economy and replace it with a Westfield-style Starbucks/Pret/Pizza Express clone. Here you can view our [presentation slides](http://35percent.org/shoppingcentre_presentation.html) for the event.
+
 ## Object Now!
 <form id="form5" action="http://commentform.herokuapp.com/" method="post">
 <fieldset><legend>Fill in the details below to object to Delancey's planning application.
