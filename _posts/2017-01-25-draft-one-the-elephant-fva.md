@@ -43,4 +43,11 @@ deeds](http://35percent.org/img/LRegisterOneTheElephant.pdf) for __One the
 Elephant__
 
 
+Lend Lease's profits up 12%: http://www.afr.com/real-estate/lendlease-profit-beats-expectations-settlement-default-below-1-per-cent-20170226-gultvz
+
+Above link also says: _"The group's British Haringey development was also well progressed and Mr McCann said affordable housing would be part of that project's composition. There will be affordable housing – it is to be worked through with the government. What happens now is that we sit down with the government and agree a development agreement that will incorporate all the commitments to affordable housing."_
+
+We point out that Lendlease's contractual agreement with Southwark bound Lendlease into providing 300 'social rented' homes - in the event it is only providing 82. Any lawyer will tell you that a contractual agreement is worth nothing if a party is not willing to enforce it.
+
+
 
