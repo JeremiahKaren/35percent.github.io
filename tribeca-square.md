@@ -41,6 +41,16 @@ The huge discrepancy between estimated and actual end sales values, might be exp
 
 ![](http://crappistmartin.github.io/images/tribeca_cropped.png)
 
+
+## Timeline
+[Land Registry deeds]() show that the Industrial estate was built and owned by the Greater London Council then transferred to Southwark Council by the [London Residuary Body](https://en.wikipedia.org/wiki/London_Residuary_Body) in 1987. The industrial estate was then sold (date unknown) to 'The Mary Street Estate Ltd' of which [British Land is director](https://beta.companieshouse.gov.uk/company/00042579/officers). 
+
+On 15th August planning permission, which was subsequently granted on ...  (05/AP/1693). The s106 agreement was dated 21st December 2006.
+
+On 21st September 2006 Mary Street (British Land) sold the site to Eadon estate Ltd (registered in Isle of Man) for the sum of £8.5m. 
+
+
+
 In 2011 __Eadon Estates__ [sold](http://crappistmartin.github.io/images/LandRegistry_TribecaSquare.pdf) the site for £40m to __DV4 Eadon Ltd__ (another Delancey shell company registered in the British Virgin Islands). 
 
 In 2013 former deputy council leader Kim Humphries [resurfaced](http://crappistmartin.github.io/blog/2013/12/07/kim-humphreys-exit-stage-left/) at the Elephant working for __Delancey__ as an [development consultant](http://carvil-ventures.co.uk/).

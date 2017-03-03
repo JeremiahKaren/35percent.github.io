@@ -48,7 +48,7 @@ Council leader Peter John gave his opinions on the latest regeneration plans on 
 ## Delancey - a morality tale
 A measure of Delancey's sincerity in suggesting new premises for shopping centre traders at Tribeca Square, can be gauged by the following story:
 
-Back in 2008, when Delancey obtained planning approval for its [Tribeca Square](/tribeca-square) site, it signed a [legal agreement](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!kx6tQZNPCJomdoeiotHphA%3d%3d!%7d%7d%7d) with Southwark to provide a number of retail units for traders displaced from the shopping centre, some of which would be affordable[^1]. This was also one of its justifications for not providing any affordable housing[^2].
+Back in 2008, when Delancey obtained planning approval for its [Tribeca Square](/tribeca-square) site, it signed a [legal agreement](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!kx6tQZNPCJomdoeiotHphA%3d%3d!%7d%7d%7d) with Southwark to [provide a number of retail units](http://www.london-se1.co.uk/news/view/2298) for traders displaced from the shopping centre at special affordable rents[^1]. This was also one of its justifications for not providing any affordable housing[^2].
 
 ![](http://crappistmartin.github.io/images/tribeca_affordablebusinessunits.png)
 
