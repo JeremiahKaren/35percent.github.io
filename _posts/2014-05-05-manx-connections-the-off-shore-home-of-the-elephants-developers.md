@@ -1,19 +1,18 @@
 ---
 layout: post
 title: "The Elephant goes offshore"
-subtitle: "Develeoper Delanecy has registered its Elephant & Castle developments in Panama, Bermuda and the BVI"
-date: 2014-05-05 07:02
+subtitle: "Develeoper Delancey register its Elephant & Castle land ownership offshore"
 comments: true
 categories: [Shopping centre] 
 ---
 ![](/img/Jamie-Ritblat-Cllr-Dora-Dixon-Fyle.jpg)
 *Delancey's Jamie Ritblat Celebrating the start of development at the Elephant with Southwark's Mayor.*
 
-Since being bought up by dicey developer Delancey, the Elephant & Castle's land ownership has been registered to shell companies in three seperate tax havens: Bermuda, Panama and the British Virgin Islands. 
+Developer Delancey has registered its land holdings at the Elephant & Castle's to tax havens Bermuda, Panama and the British Virgin Islands. 
 
-Delancey has registered both the [shopping centre](/shopping-centre) site and the [Tribeca Square](/tribeca-square) site in the British Virgin Islands. This is confirmed by the Land Registry deeds, which can be viewed [here](http://crappistmartin.github.io/images/LRDeeds_ShoppingCentre.pdf) and [here](http://crappistmartin.github.io/images/LandRegistry_TribecaSquare.pdf). Delancey has financed the purchases using one of its venture capital funds 'Delancey DV4', whose offshore tax avoidance schemes are [well reported](http://crappistmartin.github.io/images/PrivateEyeNo1311.pdf) and have been accused by HMRC of 'aggressive tax avoidance. One of Delancey's [funders is George Soros](http://www.thisismoney.co.uk/money/news/article-1583098/Soros-offers-a-helping-hand-to-Ritblat-junior.html), the currency speculator who brought the country to its knees during [black wednesday](https://en.wikipedia.org/wiki/Black_Wednesday) in 1992.
+Delancey has registered both the [shopping centre](/shopping-centre) site and the [Tribeca Square](/tribeca-square) site in the British Virgin Islands. This is confirmed by the Land Registry deeds, which can be viewed [here](http://crappistmartin.github.io/images/LRDeeds_ShoppingCentre.pdf) and [here](http://crappistmartin.github.io/images/LandRegistry_TribecaSquare.pdf). It has financed the purchases using one of its venture capital funds 'Delancey DV4', whose offshore tax avoidance schemes are [well reported](http://crappistmartin.github.io/images/PrivateEyeNo1311.pdf) and have been accused by HMRC of 'aggressive tax avoidance. The developer is [bankrolled by George Soros](http://www.thisismoney.co.uk/money/news/article-1583098/Soros-offers-a-helping-hand-to-Ritblat-junior.html), the notorious speculator who brought the country to its knees during [black wednesday](https://en.wikipedia.org/wiki/Black_Wednesday) in 1992.
 
-Delancey uses separate companies to own and separate companies to develop the sites. In the case of [Tribeca Square](tribeca-square) it has used a [limited partnership company (LLP) controlled by shell companies](https://beta.companieshouse.gov.uk/company/OC389454/officers) in British Virgin Islands and Panama. [Filing records at Companies House](https://beta.companieshouse.gov.uk/company/OC389454/filing-history) show that it hasn't paid a penny of corporation tax.
+Delancey uses separate companies to own and separate companies to develop its sites. In the case of [Tribeca Square](tribeca-square) it has used a [limited partnership company (LLP) controlled by shell companies](https://beta.companieshouse.gov.uk/company/OC389454/officers) registered in the British Virgin Islands and Panama. [Filing records at Companies House](https://beta.companieshouse.gov.uk/company/OC389454/filing-history) show that the partnership company hasn't paid a penny of corporation tax.
 
 Delancey's founder and CEO is Jamie Ritblat, son of property tycoon John Ritblat (British Land) and long-standing Tory donor. 
 
