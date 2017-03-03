@@ -6,7 +6,8 @@ date: 2014-05-05 07:02
 comments: true
 categories: [Shopping centre] 
 ---
-![](/img/taxhaven.jpg)
+![](/img/Jamie-Ritblat-Cllr-Dora-Dixon-Fyle.jpg)
+*Delancey's Jamie Ritblat with Southwark Mayor Dora Dixon-Fyle*
 
 Since being bought up by dicey developer Delancey, the Elephant & Castle's land ownership has been registered to shell companies in three seperate tax havens: Bermuda, Panama and the British Virgin Islands. 
 
