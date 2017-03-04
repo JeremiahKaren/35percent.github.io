@@ -61,7 +61,22 @@ In 2013 former deputy council leader Kim Humphries [resurfaced](http://crappistm
 
 Rooms in the student block are currently being advertised for upwards of [£289 per week](https://www.casitaa.com/accommodation/81-portchester-house-london-uk) FOR A ROOM!
 
+## Market Square
+Delancey will be providing a new 'market square' on former Council-owned land neighbouring its development.
+
 Para 6.29 of the [planning statement](http://crappistmartin.github.io/images/tribecaplanningstatement.pdf) says affordable housing not viable because of market square.
+
+![](http://35percent.org/img/castlesquare.JPG)
+*Delancey's market square - currently under construction*
+
+The square will be built on green space that was once part of the Heygate estate and was also known as Elephant Park.  The original Elephant Park was part of the [2.4 hectares of public green and amenity space](http://35percent.org/sustainable-development/) lost when the Heygate estate was demolished; designated as [Metropolitan Open Land (MOL)](https://en.wikipedia.org/wiki/Metropolitan_Open_Land) it was used by the local [Latin American football league](http://elephantamenity.wordpress.com/2011/02/28/no-more-football-on-the-elephant-park/), amongst others.
+
+![](https://southwarknotes.files.wordpress.com/2012/07/elephant-rd.jpg)
+
+In 2008, Southwark Council closed the Park and leased the land to Delancey for 99 years at £100 per annum (plus VAT). Southwark will also receive 50% of the net revenue from the new market (25% for the first five years). In 2012 Southwark  removed the MOL protective covenant  by including the land within the area of the [Heygate Compulsory Purchase Order](http://www.southwark.gov.uk/downloads/download/3287/heygate_compulsory_purchase-core_documents_and_proofs_of_evidence_list).
+
+![](http://35percent.org/img/castlesquarerent.png)
+*Extract from market square [legal agreement](http://35percent.org/img/DelanceyEadon_MarketSquare_Agreement.pdf) between Delancey & the Council*
 
 
 __Footnotes:__

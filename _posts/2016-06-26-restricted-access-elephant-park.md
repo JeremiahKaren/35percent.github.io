@@ -27,7 +27,6 @@ There will be no 24 hour access - the access gates will be locked at dusk and un
 This seems to be another case of Southwark Council either turning a blind eye to breaches of S106 agreements, or simply not noticing them. In any event, Lend Lease's Park Area Strategy should be rejected unless they remove the fence and ensure 24hr, 365 days/yr access. If you wish to make an objection you can do so via the following link:
 [http://planbuild.southwark.gov.uk:8190/online-applications/applicationDetails.do?activeTab=summary&keyVal=_STHWR_DCAPR_9566433](http://planbuild.southwark.gov.uk:8190/online-applications/applicationDetails.do?activeTab=summary&keyVal=_STHWR_DCAPR_9566433)
 
-
 ## Elephant  Parks
 Elephant Park will eventually be linked to the the new market square, being built by Delancey as part of the neighbouring [Tribeca Square scheme](http://35percent.org/tribeca-square/), just nearing completion.
 
