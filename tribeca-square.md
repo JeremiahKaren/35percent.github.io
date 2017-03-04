@@ -47,11 +47,15 @@ The huge discrepancy between estimated and actual end sales values, might be exp
 
 On 15th August planning permission, which was subsequently granted on ...  (05/AP/1693). The s106 agreement was dated 21st December 2006.
 
-On 21st September 2006 Mary Street (British Land) sold the site to Eadon estate Ltd (registered in Isle of Man) for the sum of £8.5m. 
+On 21st September 2006 Mary Street (British Land) sold the site to __Eadon Estates Ltd__ (registered in Isle of Man) for the sum of £8.5m. 
 
+On 2 March 2007 __Eadon Estates Ltd__ sold the land to __Eadon Ltd__ for £18m.
 
+In early December 2007 a revised planning applicaiton was [approved](http://www.london-se1.co.uk/news/view/3077), which revised downwards the amount of affordable housing to be delivered.
 
-In 2011 __Eadon Estates__ [sold](http://crappistmartin.github.io/images/LandRegistry_TribecaSquare.pdf) the site for £40m to __DV4 Eadon Ltd__ (another Delancey shell company registered in the British Virgin Islands). 
+A year later in the first week of December 2008 a further revised application was [approved](http://www.london-se1.co.uk/news/view/3641). This removed the requirement for affordable housing altogether on the condition that the development provide a deep basement access/service tunnel to the shopping centre costing upwards of £11m instead.
+
+In 2011 __Eadon Ltd__ [sold](http://crappistmartin.github.io/images/LandRegistry_TribecaSquare.pdf) the site for £40m to __DV4 Eadon Ltd__ (another Delancey shell company registered in the British Virgin Islands). 
 
 In 2013 former deputy council leader Kim Humphries [resurfaced](http://crappistmartin.github.io/blog/2013/12/07/kim-humphreys-exit-stage-left/) at the Elephant working for __Delancey__ as an [development consultant](http://carvil-ventures.co.uk/).
 
