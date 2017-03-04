@@ -1,10 +1,12 @@
 ---
 layout: page
-title: "Tribeca Square"
+title: "Elephant One"
 sharing: true
 footer: true
 ---
 ![](http://crappistmartin.github.io/images/tribeca2.jpg)
+
+This was the first major development at the Elephant and Castle to be granted planning permission
 
 The latest Elephant tower has begun to loom over the rubble of the Heygate estate. __Delancey DV4__'s _'Tribeca Square'_ is a suitably absurd name (Tribeca is a neighbourhood in Manhattan) for an absurd development - 270 student studios & 370 private residences for market rent with no affordable housing. Rents are [expected](http://crappistmartin.github.io/blog/2014/07/19/community-infrastructure-levy/) to be set at around £375pw for a 1-bed and £500pw for a 2-bed.
 
@@ -45,13 +47,16 @@ The huge discrepancy between estimated and actual end sales values, might be exp
 ## Timeline
 [Land Registry deeds]() show that the Industrial estate was built and owned by the Greater London Council then transferred to Southwark Council by the [London Residuary Body](https://en.wikipedia.org/wiki/London_Residuary_Body) in 1987. The industrial estate was then sold (date unknown) to 'The Mary Street Estate Ltd' of which [British Land is director](https://beta.companieshouse.gov.uk/company/00042579/officers). 
 
-On 15th August planning permission, which was subsequently granted on ...  (05/AP/1693). The s106 agreement was dated 21st December 2006.
+was granted permission in March 2006. This original permission claimed that the high estimated cost (£4.6m) of the basement works, required for the access/service tunnel to the shopping centre, that it was unviable to provide any more than 5 shared ownership units. (See paragraph 170 of planning committee report [05/AP/1693](http://moderngov.southwark.gov.uk/Data/Planning%20Committee/20060321/Agenda/Item%2063%20-%20Report%20-Castle%20Industrial%20Estate,%20Elephant%20Road,%20SE171LA.pdf)). 
 
-On 21st September 2006 Mary Street (British Land) sold the site to __Eadon Estates Ltd__ (registered in Isle of Man) for the sum of £8.5m. 
+Six months later, on 21st September 2006, the Mary Street Estate (British Land) sold the site to [__Eadon Estates Ltd__](https://services.gov.im/ded/services/companiesregistry/viewcompany.iom?Id=145829) (registered in Isle of Man) for the sum of £8.5m. 
 
-On 2 March 2007 __Eadon Estates Ltd__ sold the land to __Eadon Ltd__ for £18m.
+On 2 March 2007 __Eadon Estates Ltd__ sold the land to [__Eadon Ltd__](https://services.gov.im/ded/services/companiesregistry/viewcompany.iom?Id=149600) for £18m.
 
-In early December 2007 a revised planning applicaiton was [approved](http://www.london-se1.co.uk/news/view/3077), which revised downwards the amount of affordable housing to be delivered.
+In early December 2007 a revised planning application was [approved](http://www.london-se1.co.uk/news/view/3077), which revised downwards the amount of affordable housing to be delivered.
+
+![](/img/tribeca2007or.jpg)
+*Extract from planning committee report (2007)*
 
 A year later in the first week of December 2008 a further revised application was [approved](http://www.london-se1.co.uk/news/view/3641). This removed the requirement for affordable housing altogether on the condition that the development provide a deep basement access/service tunnel to the shopping centre costing upwards of £11m instead.
 
