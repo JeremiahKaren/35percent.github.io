@@ -23,61 +23,47 @@ Six months later, on 21st September 2006, the Mary Street Estate (British Land) 
 
 On 2 March 2007 __Eadon Estates Ltd__ [sold the site](http://crappistmartin.github.io/images/LR_Eadon2007.pdf) to [__Eadon Ltd__](https://services.gov.im/ded/services/companiesregistry/viewcompany.iom?Id=149600) for £18m.
 
-In early December 2007 a revised planning application was [approved](http://www.london-se1.co.uk/news/view/3077), which revised downwards the amount of affordable housing to be delivered.
+In early December 2007 a revised planning application was [approved](http://www.london-se1.co.uk/news/view/3077), which revised downwards the amount of affordable housing to be delivered on the basis that the development would provide affordable retail units for traders displaced from the shopping centre.
 
 ![](/img/tribeca2007or.jpg)
-*Extract from planning committee report (2007)*
+*Extract from planning committee report (2007 permission)*
 
-A year later in the first week of December 2008 a further revised application was [approved](http://www.london-se1.co.uk/news/view/3641). This removed the requirement for affordable housing altogether on the condition that the development provide a deep basement access/service tunnel to the shopping centre costing upwards of £11m instead. This revised application also added 61 private residential units to the scheme, while reducing the affordable housing to zero and making no payment in-lieu. A viability assessment was submitted to show that the development was not viable without these changes.
+A year later in the first week of December 2008 a further revised application was [approved](http://www.london-se1.co.uk/news/view/3641). The [planning officer's report](http://crappistmartin.github.io/images/Tribeca_OfficersReport.pdf) for the application confirmed that the developer had submitted a viability assessment from which the Council accepted that _"it is not possible to show that the value from the additional 61 private residential units produces any additional value from which the scheme could support either on site affordable housing or an in  lieu  payment"_. It removed the requirement to provide affordable housing altogether and instead accepted an in-lieu payment of just £1m[^2] on the basis that the exceptional costs of providing the market square and the basement access area, estimated to cost £12.5m to build. (see paragraphs 101-105). Delancey should normally have paid £52.7m under [Southwark's tariff](http://affordable.heroku.com/images/affordablehousingspg.pdf) for commuted affordable housing payments[^1].
 
-The [planning officer's report](http://crappistmartin.github.io/images/Tribeca_OfficersReport.pdf) recommended approval of the variations, adding for good measure that the council's in-house valuers had confirmed that _"the negative effect of on-site social rented housing on the end values of the private units could in this case render the scheme financially unviable"_. The report explained that the design implications of providing a _"separate entrance for the affordable units would reduce the overall retail provision within the scheme which wouldn't support the planning objective of creating a strong and continuous retail frontage at the base of the towers."_
-The report also claimed that _"it is not possible to show that the value from the additional 61 private residential units produces any additional value"_.
-
-![](http://crappistmartin.github.io/images/Tribeca_OfficersReport.png)
-
-## Southwark's loss... 
-For failing to provide any on-site affordable housing, Delancey should have paid £52.7m under [Southwark's tariff](http://affordable.heroku.com/images/affordablehousingspg.pdf) for in-lieu affordable housing payments[^1]. It offered nothing and Southwark finally settled for a consolatory payment of just £1m[^2]. 
-
-## Delancey's gain...
-<img src="http://crappistmartin.github.io/images/TribecaSquare_VA.png" align="left" width="250" style="margin:10px">We show here the confidential [viability assessment](http://crappistmartin.github.io/images/Delancey_Tribeca_ViabilityAssessment.pdf) Delancey submitted for this application. It states that the completed residential flats would sell for an average of just £525 per square foot. This is well below the £829 per square foot[^3] average sales price achieved by the neighbouring [Strata Tower](http://crappistmartin.github.io/strata-tower/) development. If we take this as the measure and multiply the difference by Tribeca's total residential square footage (247,079 sqft) we get a staggering £75 million undervaluation.
-
-A different comparison would be against the current sales price of flats on the neighbouring Heygate redevelopment, the cheapest of which is a 1-bed flat [currently on sale](http://www.rightmove.co.uk/new-homes-for-sale/property-48785797.html) for £415,000 giving £967 per sqft; nearly double the Delancey estimate. Multiplying the Heygate/Tribeca difference by the total Tribeca floorspace gives an undervaluation of £109m. 
-
-![](http://crappistmartin.github.io/images/tribeca_rental.png)
-
-The huge discrepancy between estimated and actual end sales values, might be explained to some extent by rising property values in the (sometimes prolonged) period between planning approval and completion. But even time-adjusted comparisons show that the original estimates for Tribeca Square were extremely pessimistic. The result is that Southwark has lost a great deal of affordable housing and Delancey have made a great deal of profit.
-
-
-![](http://crappistmartin.github.io/images/tribeca_cropped.png)
-
-
-## Timeline
- 
-
-
+Southwark accidentally published the confidential [viability assessment](http://crappistmartin.github.io/images/Delancey_Tribeca_ViabilityAssessment.pdf) submitted for this application. It uses £18m as the land purchase cost as a result of having flipped land registry ownership between the Eadon shell companies. It also claimed that the completed residential flats would sell for an average of just £525 per square foot. This is half of what flats on neighbouring [Elephant Park](http://elephantpark.co.uk) are selling for and represents an undervaluation of the development by around £100m! 
 
 In 2011 __Eadon Ltd__ [sold](http://crappistmartin.github.io/images/LandRegistry_TribecaSquare.pdf) the site for £40m to __DV4 Eadon Ltd__ (another Delancey shell company registered in the British Virgin Islands). 
 
-In 2013 former deputy council leader Kim Humphries [resurfaced](http://crappistmartin.github.io/blog/2013/12/07/kim-humphreys-exit-stage-left/) at the Elephant working for __Delancey__ as an [development consultant](http://carvil-ventures.co.uk/).
+In 2013 former deputy council leader Kim Humphries [resurfaced](http://crappistmartin.github.io/blog/2013/12/07/kim-humphreys-exit-stage-left/) at the Elephant working for __Delancey__ as an [development consultant](http://carvil-ventures.co.uk/). He is now Delancey's representative for its Elephant and Castle developments.
 
+## Affordable retail units sold to Sainsburys
+The planning conditions in Delancey's 2008 final [s106 agreement](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!kx6tQZNPCJomdoeiotHphA%3d%3d!%7d%7d%7d) made provision for [a number of affordable retail units](http://www.london-se1.co.uk/news/view/2298) for traders displaced from the shopping centre[^5], which was one of its justifications for not providing any affordable housing[^6].
 
+![](http://crappistmartin.github.io/images/tribeca_affordablebusinessunits.png)
 
-## Market Square
-Delancey will be providing a new 'market square' on former Council-owned land neighbouring its development.
+In July 2013, Delancey [went back](http://planbuild.southwark.gov.uk/documents/?casereference=13/AP/2302&system=DC) to the council and [applied](http://planbuild.southwark.gov.uk:8190/online-applications/simpleSearchResults.do;jsessionid=EBCBBF9DAD6717E5F000A1CB21F842D6?action=firstPage) to have the s106 agreement changed to take these units away from the displaced traders and give them to Sainsburys instead. Southwark duly obliged and the entire ground floor is now a Sainsburys.
 
-Para 6.29 of the [planning statement](http://crappistmartin.github.io/images/tribecaplanningstatement.pdf) says affordable housing not viable because of market square.
+![](/img/delanceysainsburys.jpg)
 
+## Market Square without a market
 ![](http://35percent.org/img/castlesquare.JPG)
 *Delancey's market square - currently under construction*
 
-The square will be built on green space that was once part of the Heygate estate and was also known as Elephant Park.  The original Elephant Park was part of the [2.4 hectares of public green and amenity space](http://35percent.org/sustainable-development/) lost when the Heygate estate was demolished; designated as [Metropolitan Open Land (MOL)](https://en.wikipedia.org/wiki/Metropolitan_Open_Land) it was used by the local [Latin American football league](http://elephantamenity.wordpress.com/2011/02/28/no-more-football-on-the-elephant-park/), amongst others.
+The new market square is being built on green space that was once part of the Heygate estate and was also known as Elephant Park. The original Elephant Park was part of the [2.4 hectares of public green and amenity space](http://35percent.org/sustainable-development/) lost when the Heygate estate was demolished; designated as [Metropolitan Open Land (MOL)](https://en.wikipedia.org/wiki/Metropolitan_Open_Land) it was used by the local [Latin American football league](http://elephantamenity.wordpress.com/2011/02/28/no-more-football-on-the-elephant-park/), amongst others.
 
 ![](https://southwarknotes.files.wordpress.com/2012/07/elephant-rd.jpg)
 
-In 2008, Southwark Council closed the Park and leased the land to Delancey for 99 years at £100 per annum (plus VAT). Southwark will also receive 50% of the net revenue from the new market (25% for the first five years). In 2012 Southwark  removed the MOL protective covenant  by including the land within the area of the [Heygate Compulsory Purchase Order](http://www.southwark.gov.uk/downloads/download/3287/heygate_compulsory_purchase-core_documents_and_proofs_of_evidence_list).
+In 2008, Southwark Council closed the Park and [sold the land]([legal agreement](http://35percent.org/img/DelanceyEadon_MarketSquare_Agreement.pdf) to Delancey on a 99 year lease at a peppercorn rent of £100 per year. In return Southwark was due to receive 50% of the net revenue from the new market (25% for the first five years).
 
 ![](http://35percent.org/img/castlesquarerent.png)
 *Extract from market square [legal agreement](http://35percent.org/img/DelanceyEadon_MarketSquare_Agreement.pdf) between Delancey & the Council*
+
+However, in 2016 Delancey [applied](http://planbuild.southwark.gov.uk:8190/online-applications/applicationDetails.do?activeTab=summary&keyVal=_STHWR_DCAPR_9566927) to the Council to vary the s106 conditions governing the market square. Delancey claimed there would be _"little viability for a market or demand for an operator"_ and its application was approved.
+
+![](/img/marketsquareviability.jpg)
+*Extract from Delancey's [application](http://planbuild.southwark.gov.uk:8190/online-applications/applicationDetails.do?activeTab=summary&keyVal=_STHWR_DCAPR_9566927) to vary market square s106 conditions*
+
+So Delancey gets to keep the land on a peppercorn rent for 99 years, Southwark gets nothing in return and displaced shopping centre traders will not be accommodated. 
 
 
 __Footnotes:__
@@ -90,5 +76,9 @@ __Footnotes:__
 [^3]: See Strata Tower achieved end sales values (avg. £829 psqft) on pg. 4 of this [Winter 2011/2012 Colliers International market data report](http://www.colliers.com/~/media/Files/EMEA/UK/research/residential/201202-central-london-residential-market.pdf).
 
 [^4]: See paragraph 3.6.4 of the [RICS Guidance on Viability Testing](http://www.pas.gov.uk/viability/-/journal_content/56/332612/4079553/ARTICLE).
+
+[^5]: See pg. 22-25 (Schedule 1 provision 5) of the [legal agreement](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!kx6tQZNPCJomdoeiotHphA%3d%3d!%7d%7d%7d) entitled 'Affordable Business Space'.
+
+[^6]: See paragraph 104 of the planning case officer's [report.](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!vh9yc2npGzJ28c%2fJbhd%2fLA%3d%3d!%7d%7d%7d)
 
 
