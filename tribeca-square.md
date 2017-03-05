@@ -6,25 +6,25 @@ footer: true
 ---
 ![](http://crappistmartin.github.io/images/tribeca2.jpg)
 
-This was the first major development at the Elephant and Castle to be granted planning permission
+__Elephant One__ was the first major development to be granted planning permission at the Elephant. It was originally to be called __Oakmayne Plaza__, was subsequently renamed __Tribeca Square__ and then finally named __Elephant One__ after [protests from residents and the Council](http://www.london-se1.co.uk/news/view/7373). It is not to be confused with Lendlease' similarly named and similarly shameful [__One the Elephant__](/one-the-elephant) development. 
 
-The latest Elephant tower has begun to loom over the rubble of the Heygate estate. __Delancey DV4__'s _'Tribeca Square'_ is a suitably absurd name (Tribeca is a neighbourhood in Manhattan) for an absurd development - 270 student studios & 370 private residences for market rent with no affordable housing. Rents are [expected](http://crappistmartin.github.io/blog/2014/07/19/community-infrastructure-levy/) to be set at around £375pw for a 1-bed and £500pw for a 2-bed.
+__Elephant One__ comprises 270 student rooms & 370 private residences for market rent with no affordable housing. Rooms in the student block are currently being advertised for upwards of [£289 per week](https://www.casitaa.com/accommodation/81-portchester-house-london-uk) (for a room). 
 
 ![](https://pbs.twimg.com/media/CBXYmc6XIAAHGsy.jpg)
 
-Tribeca Square is being built entirely using an [offsite prefabricated construction technique](http://www.laingorourke.com/media/news-releases/2015/laing-o-rourke-led-consortium-awarded.aspx) pioneered by Laing (the company that built the Heygate). Even the [bathrooms](http://www.modulor.ae/index.php?page=view_pages_detail&tbl_pages_id=eacf5a7153) are [prefabricated in Dubai](http://www.london-se1.co.uk/news/view/7609).   
+The development is being constructed using an [offsite prefabricated construction technique](http://www.laingorourke.com/media/news-releases/2015/laing-o-rourke-led-consortium-awarded.aspx) pioneered by Laing (the company that built the Heygate). Even the [bathrooms](http://www.modulor.ae/index.php?page=view_pages_detail&tbl_pages_id=eacf5a7153) are [prefabricated in Dubai](http://www.london-se1.co.uk/news/view/7609).
 
-The Tribeca Square site was public land until 1987, it then housed an industrial estate which was demolished when the land was [sold](http://crappistmartin.github.io/images/LR_DV4Eadon2006.pdf) in 2006 to [Delancey shell company](http://crappistmartin.github.io/images/dv4.pdf) __Eadon Estates__ for £8.5m.
+The developer is __Delancey DV4__ - a multimillion pound real-estate developer registered in the British Virgin Islands, which has been [accussed](http://crappistmartin.github.io/images/PrivateEyeNo1311.pdf) of 'aggressive tax avoidance by the HMRC. It is bankrolled by George Soros and managed by [Tory donor](http://www.independent.co.uk/news/uk/politics/party-funding-tory-coffers-benefit-from-fear-of-labour-mansion-tax-9716614.html) Jamie Ritblatt. Delancey is also developing the neighbouring [shopping centre site](/shopping-centre) and is [using a network of offshore SPVs and holding companies](http://35percent.org/2014-05-05-manx-connections-the-off-shore-home-of-the-elephants-developers/) to avoid paying tax on its multi-million pound redevelopment of the Elephant.
 
-__Delancey DV4__ is a multimillion pound real-estate developer registered in the British Virgin Islands, which has been [accussed](http://crappistmartin.github.io/images/PrivateEyeNo1311.pdf) of 'aggressive tax avoidance. It is funded by George Soros and managed by [Tory donor](http://www.independent.co.uk/news/uk/politics/party-funding-tory-coffers-benefit-from-fear-of-labour-mansion-tax-9716614.html) Jamie Ritblatt. 
+## Planning History 
+The site was public land until 1987, it then housed an industrial estate which was demolished when the land was [sold](http://crappistmartin.github.io/images/LR_DV4Eadon2006.pdf) in 2006 to [Delancey shell company](http://crappistmartin.github.io/images/dv4.pdf) __Eadon Estates__ for £8.5m.
 
-## Planning gain giveaway 
 __Eadon Estates__ very quickly secured planning approval after first acquiring the site in 2006. __Eadon Estates__ then [sold](http://crappistmartin.github.io/images/LR_Eadon_2007.pdf) the site to __Eadon Limited__ in 2007 for £18.8m and in December 2008 __Eadon Limited__ went [back](linktoplanningapp) to Southwark's planning committee asking for variations in the site's planning permission.
 
 This included adding 61 private residential units to the revised scheme, reducing the affordable housing to zero and making no payment in-lieu. A viability assessment was submitted to show that the development was not viable without these changes.
 
-The [planning officer's report](http://crappistmartin.github.io/images/Tribeca_OfficersReport.pdf) recommended approval of the variations, adding for good measure that the council's in-house valuers had confirmed that __ _"the negative effect of on-site social rented housing on the end values of the private units could in this case render the scheme financially unviable"_ __. The report explained that the design implications of providing a __ _"separate entrance for the affordable units would reduce the overall retail provision within the scheme which wouldn't support the planning objective of creating a strong and continuous retail frontage at the base of the towers."_ __
-The report also claimed that __ _"it is not possible to show that the value from the additional 61 private residential units produces any additional value"_ __
+The [planning officer's report](http://crappistmartin.github.io/images/Tribeca_OfficersReport.pdf) recommended approval of the variations, adding for good measure that the council's in-house valuers had confirmed that _"the negative effect of on-site social rented housing on the end values of the private units could in this case render the scheme financially unviable"_. The report explained that the design implications of providing a _"separate entrance for the affordable units would reduce the overall retail provision within the scheme which wouldn't support the planning objective of creating a strong and continuous retail frontage at the base of the towers."_
+The report also claimed that _"it is not possible to show that the value from the additional 61 private residential units produces any additional value"_.
 
 ![](http://crappistmartin.github.io/images/Tribeca_OfficersReport.png)
 
@@ -45,9 +45,7 @@ The huge discrepancy between estimated and actual end sales values, might be exp
 
 
 ## Timeline
-[Land Registry deeds]() show that the Industrial estate was built and owned by the Greater London Council then transferred to Southwark Council by the [London Residuary Body](https://en.wikipedia.org/wiki/London_Residuary_Body) in 1987. The industrial estate was then sold (date unknown) to 'The Mary Street Estate Ltd' of which [British Land is director](https://beta.companieshouse.gov.uk/company/00042579/officers). 
-
-was granted permission in March 2006. This original permission claimed that the high estimated cost (£4.6m) of the basement works, required for the access/service tunnel to the shopping centre, that it was unviable to provide any more than 5 shared ownership units. (See paragraph 170 of planning committee report [05/AP/1693](http://moderngov.southwark.gov.uk/Data/Planning%20Committee/20060321/Agenda/Item%2063%20-%20Report%20-Castle%20Industrial%20Estate,%20Elephant%20Road,%20SE171LA.pdf)). 
+ 
 
 Six months later, on 21st September 2006, the Mary Street Estate (British Land) sold the site to [__Eadon Estates Ltd__](https://services.gov.im/ded/services/companiesregistry/viewcompany.iom?Id=145829) (registered in Isle of Man) for the sum of £8.5m. 
 
@@ -64,7 +62,7 @@ In 2011 __Eadon Ltd__ [sold](http://crappistmartin.github.io/images/LandRegistry
 
 In 2013 former deputy council leader Kim Humphries [resurfaced](http://crappistmartin.github.io/blog/2013/12/07/kim-humphreys-exit-stage-left/) at the Elephant working for __Delancey__ as an [development consultant](http://carvil-ventures.co.uk/).
 
-Rooms in the student block are currently being advertised for upwards of [£289 per week](https://www.casitaa.com/accommodation/81-portchester-house-london-uk) FOR A ROOM!
+
 
 ## Market Square
 Delancey will be providing a new 'market square' on former Council-owned land neighbouring its development.

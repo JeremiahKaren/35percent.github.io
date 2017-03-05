@@ -12,7 +12,7 @@ Developer Delancey has registered its land holdings at the Elephant & Castle to 
 
 Delancey has registered both the [shopping centre](/shopping-centre) site and the [Tribeca Square](/tribeca-square) site in the British Virgin Islands. This is confirmed by the Land Registry deeds, which can be viewed [here](http://crappistmartin.github.io/images/LRDeeds_ShoppingCentre.pdf) and [here](http://crappistmartin.github.io/images/LandRegistry_TribecaSquare.pdf). It has financed the purchases using one of its venture capital funds 'Delancey DV4', whose offshore tax avoidance schemes are [well reported](http://crappistmartin.github.io/images/PrivateEyeNo1311.pdf) and have been accused by HMRC of 'aggressive tax avoidance. The developer is [bankrolled by George Soros](http://www.thisismoney.co.uk/money/news/article-1583098/Soros-offers-a-helping-hand-to-Ritblat-junior.html), the notorious speculator who brought the country to its knees during [black wednesday](https://en.wikipedia.org/wiki/Black_Wednesday) in 1992.
 
-Delancey uses separate companies to own and separate companies to develop its sites. In the case of [Tribeca Square](tribeca-square) it has used a [limited partnership company (LLP) controlled by shell companies](https://beta.companieshouse.gov.uk/company/OC389454/officers) registered in the British Virgin Islands and Panama. [Filing records at Companies House](https://beta.companieshouse.gov.uk/company/OC389454/filing-history) show that the partnership company hasn't paid a penny of corporation tax.
+Delancey uses separate companies to own and separate companies to develop its sites. In the case of [Elephant One](/tribeca-square) it has used a [limited partnership company (LLP) controlled by shell companies](https://beta.companieshouse.gov.uk/company/OC389454/officers) registered in the British Virgin Islands and Panama. [Filing records at Companies House](https://beta.companieshouse.gov.uk/company/OC389454/filing-history) show that the partnership company hasn't paid a penny of corporation tax.
 
 Delancey's founder and CEO is Jamie Ritblat, son of property tycoon John Ritblat (British Land). The two are long-standing and significant Tory donors. 
 
@@ -23,7 +23,10 @@ Delancey is not alone in its offshore strategy, [Strata Tower](/strata-tower) wa
 
 [O'Central](http://83cramptonstreet.co.uk/), [South Central](http://oakmayneproperties.com/oakmayne-properties/portfolio/south-central-east/) and [Eileen house](/eileen-house) are being developed by 'Oakmayne' - a [company](https://opencorporates.com/companies/im/113350C) based on the Isle of Man and which also [helps its customers](http://www.theguardian.com/uk/2012/dec/16/london-property-tax-avoidance-offshore) avoid stamp duty by setting up SPV's on the Isle to buy the finished flats.
 
+[Eileen House](/eileen-house) is also being developed by Oakmayne in a joint venture with [Lone Star Real Estate Fund](http://www.lonestarfunds.com/funds-raised/capital-growth/lone-star-real-estate-fund-iii/) registered in Bermuda. [Land Registry deeds](/lrdeeds/eileenhouse.pdf) show that the development is currenly registered to a shell company in the Isle of Man. 
+
 [Skipton House is also being developed](http://35percent.org/skipton-house/#who-are-lr) by tax avoiders; despite having a property empire worth £4bn, developer (L&R) pays barely any corporation tax and is registered offshore in St. Kitts and Panama.
+
 
 Heygate developer Lendlease's global corporate structure is too complex for us to see whether it shares its fellow developer's fondness of offshore companies. However, we have found that its development arm - Lend Lease Residential PLC [doesn't pay](http://crappistmartin.github.io/images/lendleasefinancialreport.pdf) a penny in UK corporation tax. Last year Lendlease UK's parent company in Australia [recorded](http://phx.corporate-ir.net/External.File?item=UGFyZW50SUQ9MjA0NTA3fENoaWxkSUQ9LTF8VHlwZT0z&t=1) an annual profit of over £300m.
 
