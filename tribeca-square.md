@@ -19,9 +19,16 @@ The developer is __Delancey DV4__ - a multimillion pound real-estate developer r
 ## Planning History 
 The site was public land until 1987, it then housed an industrial estate which was demolished when the land was [sold](http://crappistmartin.github.io/images/LR_DV4Eadon2006.pdf) in 2006 to [Delancey shell company](http://crappistmartin.github.io/images/dv4.pdf) __Eadon Estates__ for £8.5m.
 
-__Eadon Estates__ very quickly secured planning approval after first acquiring the site in 2006. __Eadon Estates__ then [sold](http://crappistmartin.github.io/images/LR_Eadon_2007.pdf) the site to __Eadon Limited__ in 2007 for £18.8m and in December 2008 __Eadon Limited__ went [back](linktoplanningapp) to Southwark's planning committee asking for variations in the site's planning permission.
+Six months later, on 21st September 2006, the Mary Street Estate (British Land) sold the site to [__Eadon Estates Ltd__](https://services.gov.im/ded/services/companiesregistry/viewcompany.iom?Id=145829) (registered in Isle of Man) for the sum of £8.5m. 
 
-This included adding 61 private residential units to the revised scheme, reducing the affordable housing to zero and making no payment in-lieu. A viability assessment was submitted to show that the development was not viable without these changes.
+On 2 March 2007 __Eadon Estates Ltd__ [sold the site](http://crappistmartin.github.io/images/LR_Eadon2007.pdf) to [__Eadon Ltd__](https://services.gov.im/ded/services/companiesregistry/viewcompany.iom?Id=149600) for £18m.
+
+In early December 2007 a revised planning application was [approved](http://www.london-se1.co.uk/news/view/3077), which revised downwards the amount of affordable housing to be delivered.
+
+![](/img/tribeca2007or.jpg)
+*Extract from planning committee report (2007)*
+
+A year later in the first week of December 2008 a further revised application was [approved](http://www.london-se1.co.uk/news/view/3641). This removed the requirement for affordable housing altogether on the condition that the development provide a deep basement access/service tunnel to the shopping centre costing upwards of £11m instead. This revised application also added 61 private residential units to the scheme, while reducing the affordable housing to zero and making no payment in-lieu. A viability assessment was submitted to show that the development was not viable without these changes.
 
 The [planning officer's report](http://crappistmartin.github.io/images/Tribeca_OfficersReport.pdf) recommended approval of the variations, adding for good measure that the council's in-house valuers had confirmed that _"the negative effect of on-site social rented housing on the end values of the private units could in this case render the scheme financially unviable"_. The report explained that the design implications of providing a _"separate entrance for the affordable units would reduce the overall retail provision within the scheme which wouldn't support the planning objective of creating a strong and continuous retail frontage at the base of the towers."_
 The report also claimed that _"it is not possible to show that the value from the additional 61 private residential units produces any additional value"_.
@@ -47,16 +54,7 @@ The huge discrepancy between estimated and actual end sales values, might be exp
 ## Timeline
  
 
-Six months later, on 21st September 2006, the Mary Street Estate (British Land) sold the site to [__Eadon Estates Ltd__](https://services.gov.im/ded/services/companiesregistry/viewcompany.iom?Id=145829) (registered in Isle of Man) for the sum of £8.5m. 
 
-On 2 March 2007 __Eadon Estates Ltd__ sold the land to [__Eadon Ltd__](https://services.gov.im/ded/services/companiesregistry/viewcompany.iom?Id=149600) for £18m.
-
-In early December 2007 a revised planning application was [approved](http://www.london-se1.co.uk/news/view/3077), which revised downwards the amount of affordable housing to be delivered.
-
-![](/img/tribeca2007or.jpg)
-*Extract from planning committee report (2007)*
-
-A year later in the first week of December 2008 a further revised application was [approved](http://www.london-se1.co.uk/news/view/3641). This removed the requirement for affordable housing altogether on the condition that the development provide a deep basement access/service tunnel to the shopping centre costing upwards of £11m instead.
 
 In 2011 __Eadon Ltd__ [sold](http://crappistmartin.github.io/images/LandRegistry_TribecaSquare.pdf) the site for £40m to __DV4 Eadon Ltd__ (another Delancey shell company registered in the British Virgin Islands). 
 
