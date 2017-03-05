@@ -66,7 +66,7 @@ Unfortunately Southwark forgot to insert a penalty clause in the [99 year lease 
 ## Revolving doors
 If anyone is wondering how Delancey manages to get away with all this, the answer is that Delancey is very well advised. Delancey has employed former deputy Council leader Kim Humphries as its adviser and representative. Kim has been for hire as a freelance [development consultant](http://carvil-ventures.co.uk/) since he stepped down as deputy Council leader and Cabinet member for Housing. Kim is just one of many Council officers and Council members to have made use of Southwark's increasingly well-used [revolving doors](/revolving-doors).
 
-![](/kim1.png)
+![](/img/kim1.png)
 
 __Footnotes:__
 -----------------------------------------------------------------------------
