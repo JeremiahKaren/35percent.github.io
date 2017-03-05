@@ -34,8 +34,6 @@ Southwark accidentally published the confidential [viability assessment](http://
 
 In 2011 __Eadon Ltd__ [sold](http://crappistmartin.github.io/images/LandRegistry_TribecaSquare.pdf) the site for £40m to __DV4 Eadon Ltd__ (another Delancey shell company registered in the British Virgin Islands). 
 
-In 2013 former deputy council leader Kim Humphries [resurfaced](http://crappistmartin.github.io/blog/2013/12/07/kim-humphreys-exit-stage-left/) at the Elephant working for __Delancey__ as an [development consultant](http://carvil-ventures.co.uk/). He is now Delancey's representative for its Elephant and Castle developments.
-
 ## Affordable retail units sold to Sainsburys
 The planning conditions in Delancey's 2008 final [s106 agreement](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!kx6tQZNPCJomdoeiotHphA%3d%3d!%7d%7d%7d) made provision for [a number of affordable retail units](http://www.london-se1.co.uk/news/view/2298) for traders displaced from the shopping centre[^5], which was one of its justifications for not providing any affordable housing[^6].
 
@@ -51,20 +49,24 @@ In July 2013, Delancey [went back](http://planbuild.southwark.gov.uk/documents/?
 
 The new market square is being built on green space that was once part of the Heygate estate and was also known as Elephant Park. The original Elephant Park was part of the [2.4 hectares of public green and amenity space](http://35percent.org/sustainable-development/) lost when the Heygate estate was demolished; designated as [Metropolitan Open Land (MOL)](https://en.wikipedia.org/wiki/Metropolitan_Open_Land) it was used by the local [Latin American football league](http://elephantamenity.wordpress.com/2011/02/28/no-more-football-on-the-elephant-park/), amongst others.
 
-![](https://southwarknotes.files.wordpress.com/2012/07/elephant-rd.jpg)
+![](http://35percent.org/img/oldelephantpark.jpg)
 
-In 2008, Southwark Council closed the Park and [sold the land]([legal agreement](http://35percent.org/img/DelanceyEadon_MarketSquare_Agreement.pdf) to Delancey on a 99 year lease at a peppercorn rent of £100 per year. In return Southwark was due to receive 50% of the net revenue from the new market (25% for the first five years).
+In 2008, Southwark Council closed the Park and [sold the land](http://35percent.org/img/DelanceyEadon_MarketSquare_Agreement.pdf) to Delancey on a 99 year lease at a peppercorn rent of £100 per year. In return Southwark was due to receive 50% of the net revenue from the new market (25% for the first five years).
 
 ![](http://35percent.org/img/castlesquarerent.png)
 *Extract from market square [legal agreement](http://35percent.org/img/DelanceyEadon_MarketSquare_Agreement.pdf) between Delancey & the Council*
 
-However, in 2016 Delancey [applied](http://planbuild.southwark.gov.uk:8190/online-applications/applicationDetails.do?activeTab=summary&keyVal=_STHWR_DCAPR_9566927) to the Council to vary the s106 conditions governing the market square. Delancey claimed there would be _"little viability for a market or demand for an operator"_ and its application was approved.
+However, in 2016 Delancey [applied](http://planbuild.southwark.gov.uk:8190/online-applications/applicationDetails.do?activeTab=summary&keyVal=_STHWR_DCAPR_9566927) to the Council to vary the s106 conditions governing the market square. Delancey claimed there would be _"limited viability for a market or demand for an operator"_ and its application was approved.
 
 ![](/img/marketsquareviability.jpg)
 *Extract from Delancey's [application](http://planbuild.southwark.gov.uk:8190/online-applications/applicationDetails.do?activeTab=summary&keyVal=_STHWR_DCAPR_9566927) to vary market square s106 conditions*
 
-So Delancey gets to keep the land on a peppercorn rent for 99 years, Southwark gets nothing in return and displaced shopping centre traders will not be accommodated. 
+Unfortunately Southwark forgot to insert a penalty clause in the [99 year lease agreement](http://35percent.org/img/DelanceyEadon_MarketSquare_Agreement.pdf) in the event that the market is not provided; so Delancey gets to keep the land on a peppercorn rent for 99 years, Southwark gets nothing in return and displaced shopping centre traders will not be accommodated. 
 
+## Revolving doors
+If anyone is wondering how Delancey manages to get away with all this, the answer is that Delancey is very well advised. Delancey has employed former deputy Council leader Kim Humphries as its adviser and representative. Kim has been for hire as a freelance [development consultant](http://carvil-ventures.co.uk/) since he stepped down as deputy Council leader and Cabinet member for Housing. Kim is just one of many Council officers and Council members to have made use of Southwark's increasingly well-used [revolving doors](/revolving-doors).
+
+![](/kim1.png)
 
 __Footnotes:__
 -----------------------------------------------------------------------------
