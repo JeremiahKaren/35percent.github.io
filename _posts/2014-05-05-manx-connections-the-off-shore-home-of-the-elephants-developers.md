@@ -27,6 +27,7 @@ Delancey is not alone in its offshore strategy, [Strata Tower](/strata-tower) wa
 
 [Skipton House is also being developed](http://35percent.org/skipton-house/#who-are-lr) by tax avoiders; despite having a property empire worth £4bn, developer (L&R) pays barely any corporation tax and is registered offshore in St. Kitts and Panama.
 
+![](/img/offshoreeelephant.png)
 
 Heygate developer Lendlease's global corporate structure is too complex for us to see whether it shares its fellow developer's fondness of offshore companies. However, we have found that its development arm - Lend Lease Residential PLC [doesn't pay](http://crappistmartin.github.io/images/lendleasefinancialreport.pdf) a penny in UK corporation tax. Last year Lendlease UK's parent company in Australia [recorded](http://phx.corporate-ir.net/External.File?item=UGFyZW50SUQ9MjA0NTA3fENoaWxkSUQ9LTF8VHlwZT0z&t=1) an annual profit of over £300m.
 
