@@ -4,9 +4,9 @@ published: true
 title: "Aylesbury CPO - grounds of defence lodged"
 subtitle: "Secretary of State delivers on promise to 'robustly defend' his decision against Southwark's appeal"
 ---
-Thanks to the general public's generous contributions to our [crowdfunding campaign](https://www.gofundme.com/aylesbury-the-right-to-a-community-2uefgf2s), the Aylesbury Leaseholder Group was able to submit its grounds of defence of the [Aylesbury CPO decison](http://35percent.org/2016-09-18-aylesbury-compulsory-purchase-order-rejected/) last Wedsnesday.  The grounds were prepared by barrister [Chris Jacobs, of Landmark Chambers](http://www.landmarkchambers.co.uk/christopher_jacobs), who successfully represented the leaseholders in the final days of the CPO public inquiry.
+Thanks to the general public's generous contributions to our [crowdfunding campaign](https://www.gofundme.com/aylesbury-the-right-to-a-community-2uefgf2s){:target="_blank"}, the Aylesbury Leaseholder Group was able to submit its grounds of defence of the [Aylesbury CPO decison](http://35percent.org/2016-09-18-aylesbury-compulsory-purchase-order-rejected/) last Wedsnesday.  The grounds were prepared by barrister [Chris Jacobs, of Landmark Chambers](http://www.landmarkchambers.co.uk/christopher_jacobs){:target="_blank"}, who successfully represented the leaseholders in the final days of the CPO public inquiry.
 
-![](/img/gofundmemarch.png)
+![](http://35percent.org/img/gofundmemarch.png)
 
 This is the latest round in the legal battle to maintain the goverment's refusal to grant Southwark Council ownership of the leaseholder's homes.  Southwark has gone to the High Court for a judicial review of the decision, made by Sajid Javid, Secretary of State, Department of Communities and Local Government. Mr Javid has also submitted his grounds of defence and the Aylesbury leaseholders are heartened to see that he is sticking to his [pledge](http://35percent.org/img/SoSresponsetoLbC.pdf) to _"defend the claim robustly"_.
 
@@ -18,7 +18,7 @@ There is a realistion across London that this is a decision that has ramificatio
 ## ESRC research project 
 On 17 Feb we attended the launch of an exciting new [research project](http://gtr.rcuk.ac.uk/projects?ref=ES%2FN015053%2F1) investigating the impact of estate renewal, led by Professor Loretta Lees from the University of Leicester. The three-year project involves several partner organisations and aims to provide an evidence base to shape future policy agendas as well as a handbook for residents of council estates under threat of demolition. Residents from the Aylesbury estate were present at the launch as well as residents from estates in other boroughs such as Haringey where their Council has just [signed a controversial deal with Lendlease](http://www.standard.co.uk/news/politics/2bn-selloff-of-haringey-council-property-will-force-out-families-and-destroy-community-a3480646.html) to redevelop several of its estates.
 
-![](/img/lorettacambridgehouse.jpg)
+![](http://35percent.org/img/lorettacambridgehouse.jpg)
 *Professor Lees at the launch of the project at Cambridge House, 17th Feb*
 
 Loretta's research is key in challenging the 'sink estate' discourse and developer-led redevelopment model that Southwark has so [wholeheartedly embraced](http://www.progressonline.org.uk/2016/01/14/camerons-has-much-to-learn-on-housing/). She gave compelling witness evidence at both the [Heygate](http://35percent.org/2013-07-18-regeneration-branded-miserable-failure-at-cpo-public-inquiry/) and [Aylesbury CPO public inquiries](http://35percent.org/2015-05-02-aylesbury-estate-compulsory-purchase-order-public-inquiry/). We very much look forward to being further involved in the project. 
