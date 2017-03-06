@@ -21,7 +21,7 @@ The site was originally a light industrial estate owned by the GLC until 1987 wh
 
 Having obtained planning permission for the site in December 2006, in March 2007 __Eadon Estates Ltd__ [sold the site](http://crappistmartin.github.io/images/LR_Eadon2007.pdf) to [__Eadon Ltd__](https://services.gov.im/ded/services/companiesregistry/viewcompany.iom?Id=149600) (another Oakmayne/Delancey offshore SPV) for £18m.
 
-In early December 2007 a revised planning application was [approved](http://www.london-se1.co.uk/news/view/3077), which revised downwards the amount of affordable housing to be delivered. It was justified on the basis would provide a number of affordable retail units and a market square for traders displaced from the shopping centre. It would also provide a basement area, which would be used as vehicular service access for the new shopping centre in order to reduce congestion. 
+In early December 2007 a revised planning application was [approved](http://www.london-se1.co.uk/news/view/3077), which revised downwards the amount of affordable housing to be delivered. It was justified on the basis that the developer would provide a number of affordable retail units and a market square for traders displaced from the shopping centre. It would also provide a basement area, which would be used as vehicular service access for the new shopping centre in order to reduce congestion. 
 
 ![](/img/tribeca2007or.jpg)
 *Extract from planning committee report (2007 permission)*
@@ -46,7 +46,7 @@ In July 2013, Delancey [went back](http://planbuild.southwark.gov.uk/documents/?
 ![](/img/marketsquare.jpg)
 *Delancey's market square - currently under construction*
 
-The new market square that Delancey is obliged to build was once part of the Heygate estate's green space and was also known locally as Elephant Park. It was part of the [2.4 hectares of public green and amenity space](http://35percent.org/sustainable-development/) lost when the Heygate estate was demolished; designated as [Metropolitan Open Land (MOL)](https://en.wikipedia.org/wiki/Metropolitan_Open_Land), it was used by the local [Latin American football league](http://elephantamenity.wordpress.com/2011/02/28/no-more-football-on-the-elephant-park/), amongst others.
+The new market square that Delancey is obliged to build was once part of the Heygate estate's green space and was also known locally as Elephant Park. It was part of the [2.4 hectares of public green and amenity space](http://35percent.org/sustainable-development/) lost when the Heygate estate was demolished; designated as [Metropolitan Open Land (MOL)](https://en.wikipedia.org/wiki/Metropolitan_Open_Land) and was used frequently by the local [Latin American football league](http://elephantamenity.wordpress.com/2011/02/28/no-more-football-on-the-elephant-park/), amongst others.
 
 ![](http://35percent.org/img/oldelephantpark.jpg)
 
@@ -72,7 +72,7 @@ Now, having [submitted](http://35percent.org/2016-12-19-delancey-submits-shoppin
 
 ![](/img/shoppingcentreaccess.png)
 
-TFL have objected to this change of access, claiming that it will disrupt the flow of traffic and inhibit use of the new pedestrian crossings. Southwark has remained silent on the issue, despite it being a breach of its planning policy for the Elephant. If Delancey's plans are accepted then Southwark has no claw-back mechanism to ensure the basement is put to any other specific use. The basement sits underneath the market square, which was council-owned land given to Delancey on a 99 year peppercorn lease, in order to provide public infrastructure. We have already seen the market square shelved and if Delancey's shopping centre application is accepted then its land grab of the market square and basement land will be complete and Southwark will have signed over public land for private use on peppercorn rent for the next 99 years.    
+TFL have objected to this change of access, claiming that it will disrupt the flow of traffic and inhibit use of the new pedestrian crossings. Southwark has remained silent on the issue, despite it being a breach of its planning policy for the Elephant. If Delancey's plans are accepted then Southwark has no claw-back mechanism to ensure the basement is put to any other specific use. The basement sits underneath the market square, which was council-owned land given to Delancey on a 99 year peppercorn lease, in order to provide public infrastructure. We have already seen the market square shelved and if Delancey's shopping centre application is accepted then its land grab of the market square and basement land will be complete; Southwark will have signed over public land for private use on peppercorn rent for the next 99 years.    
 
 ## Revolving doors
 If anyone is wondering how Delancey manages to get away with all this, the answer is that Delancey is very well advised. Delancey has employed former deputy Council leader Kim Humphries as its adviser and representative. Kim has been for hire as a freelance [development consultant](http://carvil-ventures.co.uk/) since he stepped down as deputy Council leader and Cabinet member for Housing. Kim is just one of many Council officers and Council members to have made use of Southwark's increasingly well-used [revolving doors](/revolving-doors).
