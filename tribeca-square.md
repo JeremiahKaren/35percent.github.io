@@ -63,6 +63,15 @@ However, in 2016 Delancey [applied](http://planbuild.southwark.gov.uk:8190/onlin
 
 Unfortunately Southwark forgot to insert a penalty clause in the [99 year lease agreement](http://35percent.org/img/DelanceyEadon_MarketSquare_Agreement.pdf) in the event that the market is not provided; so Delancey gets to keep the land on a peppercorn rent for 99 years, Southwark gets nothing in return and displaced shopping centre traders will not be accommodated. 
 
+## £12.5m servicing basement shelved
+Delancey successfully argued that the provision of the £12.5m basement to service the new shopping centre, meant that it couldn't viably provide any affordable housing and couldn't afford to pay the £6.2m required according to Southwark's Strategic Transport Tariff to pay for necessary transport capacity improvements[^7]. Having pleaded viability poverty, Delancey was allowed to pay a token contribution of just £280k - (see paragraph 105 of the [planning committee report](http://crappistmartin.github.io/images/Tribeca_OfficersReport.pdf)). This has left Southwark Council in the position of having to use public funds to close an [Elephantine funding gap](http://35percent.org/2014-08-12-mind-the-gap/).
+
+Now, having [submitted](http://35percent.org/2016-12-19-delancey-submits-shopping-centre-application/) its planning application for the shopping centre, Delancey claims that it no longer wants to use the underground basement as an access route for the new shopping centre. Instead it wants a different route directly off the New Kent Road near the roundabout.
+
+![](/img/shoppingcentreaccess.png)
+
+TFL have objected to this change of access, claiming that it will disrupt the flow of traffic and inhibit use of the new pedestrian crossings. Southwark has remained silent on the issue, despite it being a breach of its planning policy for the Elephant. If Delancey's plans are accepted then Southwark has no claw-back mechanism to ensure the basement is put to any other specific use. The basement sits underneath the market square, which was council-owned land given to Delancey on a 99 year peppercorn lease, in order to provide public infrastructure. We have already seen the market square shelved and if Delancey's shopping centre application is accepted then its land grab of the market square and basement land will be complete.    
+
 ## Revolving doors
 If anyone is wondering how Delancey manages to get away with all this, the answer is that Delancey is very well advised. Delancey has employed former deputy Council leader Kim Humphries as its adviser and representative. Kim has been for hire as a freelance [development consultant](http://carvil-ventures.co.uk/) since he stepped down as deputy Council leader and Cabinet member for Housing. Kim is just one of many Council officers and Council members to have made use of Southwark's increasingly well-used [revolving doors](/revolving-doors).
 
@@ -83,4 +92,4 @@ __Footnotes:__
 
 [^6]: See paragraph 104 of the planning case officer's [report.](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!vh9yc2npGzJ28c%2fJbhd%2fLA%3d%3d!%7d%7d%7d)
 
-
+[^7]: The development comprises 35,651 sqm of residential floorspace. The E&C Strategic Transport Tariff is £175 per sqm - thus the requirement would be £6.2m.
