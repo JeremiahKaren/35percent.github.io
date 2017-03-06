@@ -55,7 +55,7 @@ In 2008, Southwark Council closed the Park and [sold the land](http://35percent.
 ![](http://35percent.org/img/castlesquarerent.png)
 *Extract from market square [legal agreement](http://35percent.org/img/DelanceyEadon_MarketSquare_Agreement.pdf) between Delancey & the Council*
 
-However, in 2016 Delancey [applied](http://planbuild.southwark.gov.uk:8190/online-applications/applicationDetails.do?activeTab=summary&keyVal=_STHWR_DCAPR_9566927) to the Council to vary the s106 conditions governing the market square. Delancey claimed there would be _"limited viability for a market or demand for an operator"_ and its application was approved.
+However, in 2016 Delancey [applied](http://planbuild.southwark.gov.uk:8190/online-applications/applicationDetails.do?activeTab=summary&keyVal=_STHWR_DCAPR_9566927) to the Council to vary and remove the s106 conditions requiring use of the market square as a market. Delancey claimed there would be _"limited viability for a market or demand for an operator"_ in the short to medium term. The application was unquestioningly approved by Southwark and the market square has now been renamed 'Castle Square'.
 
 ![](/img/marketsquareviability.jpg)
 *Extract from Delancey's [application](http://planbuild.southwark.gov.uk:8190/online-applications/applicationDetails.do?activeTab=summary&keyVal=_STHWR_DCAPR_9566927) to vary market square s106 conditions*
@@ -63,12 +63,12 @@ However, in 2016 Delancey [applied](http://planbuild.southwark.gov.uk:8190/onlin
 Unfortunately Southwark forgot to insert a penalty clause in the [99 year lease agreement](http://35percent.org/img/DelanceyEadon_MarketSquare_Agreement.pdf) in the event that the market is not provided; so Delancey gets to keep the land on a peppercorn rent for 99 years, Southwark gets nothing in return and displaced shopping centre traders will not be accommodated. 
 
 ## £12.5m servicing basement shelved
-The other obligation that went with the peppercorn lease of the land was that Delancey would build the basement under it to provide servicing access to the new shopping centre. Its supposed cost of £12.5m justified removing affordable housing requirements and the £6.2m Delancey should have paid for local transport infrastructure, according to Southwark's Strategic Transport Tariff[^7]. 
+The other obligation that went with the peppercorn lease of the land was that Delancey would build the basement under it to provide servicing access to the new shopping centre. The supposed £12.5m cost of building the basement, justified not just the removal of affordable housing but Delancey was also relieved of the £6.2m S106 contribution it should have paid for local transport infrastructure, according to Southwark's Strategic Transport Tariff[^7]. 
 
 ![](/img/servicetunnel.jpg)
 *Entrance to the servicing basement on the Old Kent Road*
 
-Now, having [submitted](http://35percent.org/2016-12-19-delancey-submits-shopping-centre-application/) its planning application for the shopping centre, Delancey claims that it no longer wants to use the underground basement as an access route for the new shopping centre. Instead it wants a different route directly off the New Kent Road near the roundabout.
+Now, having [submitted](http://35percent.org/2016-12-19-delancey-submits-shopping-centre-application/) its planning application for the shopping centre, Delancey claims that it no longer wants to use the underground basement as servicing access for the new shopping centre. Instead it wants a different access route directly off the New Kent Road.
 
 ![](/img/shoppingcentreaccess.png)
 
