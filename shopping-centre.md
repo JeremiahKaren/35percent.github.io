@@ -8,8 +8,6 @@ sharing: true
 
 Developer Delancey has finally submitted its [application](http://planbuild.southwark.gov.uk/documents/?casereference=16/AP/4458&system=DC) for the redevelopment of the [Elephant & Castle shopping centre](http://35percent.org/shopping-centre/) and London College of Communication campus. It will be a mixed use development of shops, offices, homes and campus facilities. 
 
-![](http://35percent.org/img/delanceyplan.jpg)
-
 ## Affordable housing
 According to the [affordable housing statement](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!i%2fH2BvEXXozMcypxg9AnYA%3d%3d!%7d%7d%7d) all of the proposed 979 residential units will be for rent, none for sale. There will be 35% affordable housing, but none of it will be social rented or part-buy/part-rent.  Instead the affordable housing will be something called 'Dicounted Market Rent' (DMR), let at up to 80% market rent, but supposedly at a _'blended percentage'_ of 57% market rent. The application promises that at least 40% of the affordable housing will be let at or below the new London Living Rent, which would currently [equate to around £1000pcm for a 1-bed flat at the Elephant](https://www.london.gov.uk/sites/default/files/london_living_rent_-_monthly_ward-level_rents_by_size.xlsx).
 The 'affordable housing' tenants would be on 3-year assured short-hold tenancies, not on assured tenancies with no time limit, as issued by housing associations. In addition, the 'discounted market rents' will only be discounted for a period of 15 years, after which time the developer is free to sell them on the open market. This is a major flaw in the Mayor's new Build to Rent housing product.
@@ -59,7 +57,7 @@ In 2015, we [revealed](http://35percent.org/2015-07-12-shopping-centre-and-lcc-r
 
 Delancey's application is just another step down the gentrification road. The shopkeepers and small traders, many from ethnic minority backgrounds, who have worked hard to become an integral part of the community, are deemed to be _'not financially viable ...to survive'_. Southwark Council and the Mayor should be telling Delancey how unacceptable this application is. They should be promoting London's diverse economy - not letting developers like Delancey kill it. 
 
-Southwark claims that as a private developer it can't influence Delancey's plans, but we point out that in 2011 Southwark signed a development agreement with the then then shopping centre owners, which Delancey inherited when it purchased the site.
+Southwark claims that as a private developer it can't influence Delancey's plans, but we point out that in 2011 Southwark [signed](http://moderngov.southwark.gov.uk/documents/s24263/Report%20Elephant%20and%20Castle%20Regeneration%20-%20Shopping%20Centre.pdf) a development agreement with the then then shopping centre owners, which Delancey inherited when it purchased the site.
 
 ![](/img/lbskpiagreement.png) 
 
@@ -74,7 +72,7 @@ Having lost out to Lend Lease in its 2007 bid to be the council's regeneration p
  
 As a result of the stalemate, St Modwen [sold](http://crappistmartin.github.io/images/LRDeeds_ShoppingCentre.pdf) the shopping centre in 2014 for £80m to __Delancey DV4__, a developer funded by George Soros, managed by [Tory donor](http://www.independent.co.uk/news/uk/politics/party-funding-tory-coffers-benefit-from-fear-of-labour-mansion-tax-9716614.html) Jamie Ritblatt, registered in the British Virgin Islands and which has been [accussed](http://crappistmartin.github.io/images/PrivateEyeNo1311.pdf) of _'aggressive tax avoidance'_. 
 
-![Kim Humphries](/img/carvillkimcollage.jpg) 
+![Kim Humphries](/img/carvilkimcollage.jpg) 
 *Former deputy Council leader Kim Humphries - now working for Delancey*
 
 Delancey, which is also developing neighbouring site ([Elephant One](http://crappistmartin.github.io/tribeca-square)), has [employed](http://crappistmartin.github.io/images/delanceyinvite.pdf) former deputy Southwark council leader [Kim Humphries](http://www.linkedin.com/pub/kim-humphreys/5/312/a34) to advise on its development and lead its consultation plans. Kim is now [Carvil Ventures Ltd](http://carvil-ventures.co.uk/) - an independent corporate finance and real-estate consultancy, which is advising Delancey. He is not the first former senior member or council leader to disappear through Southwark's [revolving doors](/revolving-doors): 
