@@ -59,6 +59,10 @@ In 2015, we [revealed](http://35percent.org/2015-07-12-shopping-centre-and-lcc-r
 
 Delancey's application is just another step down the gentrification road. The shopkeepers and small traders, many from ethnic minority backgrounds, who have worked hard to become an integral part of the community, are deemed to be _'not financially viable ...to survive'_. Southwark Council and the Mayor should be telling Delancey how unacceptable this application is. They should be promoting London's diverse economy - not letting developers like Delancey kill it. 
 
+Southwark claims that as a private developer it can't influence Delancey's plans, but we point out that in 2011 Southwark signed a development agreement with the then then shopping centre owners, which Delancey inherited when it purchased the site.
+
+![](/img/lbskpiagreement.png) 
+
 ## History
 The Elephant & Castle shopping centre used to be owned by Godfrey Bradman, the property tycoon who redeveloped the City of London's [Broadgate estate](http://en.wikipedia.org/wiki/Broadgate) in the 1980s.
 
@@ -70,13 +74,12 @@ Having lost out to Lend Lease in its 2007 bid to be the council's regeneration p
  
 As a result of the stalemate, St Modwen [sold](http://crappistmartin.github.io/images/LRDeeds_ShoppingCentre.pdf) the shopping centre in 2014 for £80m to __Delancey DV4__, a developer funded by George Soros, managed by [Tory donor](http://www.independent.co.uk/news/uk/politics/party-funding-tory-coffers-benefit-from-fear-of-labour-mansion-tax-9716614.html) Jamie Ritblatt, registered in the British Virgin Islands and which has been [accussed](http://crappistmartin.github.io/images/PrivateEyeNo1311.pdf) of _'aggressive tax avoidance'_. 
 
-![Kim Humphries](/img/carvillkim.jpg) 
+![Kim Humphries](/img/carvillkimcollage.jpg) 
 *Former deputy Council leader Kim Humphries - now working for Delancey*
 
-Delancey, which is also developing neighbouring site ([Tribeca Square](http://crappistmartin.github.io/tribeca-square)), has [employed](http://crappistmartin.github.io/images/delanceyinvite.pdf) former deputy Southwark council leader [Kim Humphries](http://www.linkedin.com/pub/kim-humphreys/5/312/a34) to advise on its development and lead its consultation plans. Kim is now [Carvil Ventures Ltd](http://carvil-ventures.co.uk/) - an independent corporate finance and real-estate consultancy, which is advising Delancey. He is not the first former senior member or council leader to disappear through Southwark's [revolving doors](/revolving-doors): 
+Delancey, which is also developing neighbouring site ([Elephant One](http://crappistmartin.github.io/tribeca-square)), has [employed](http://crappistmartin.github.io/images/delanceyinvite.pdf) former deputy Southwark council leader [Kim Humphries](http://www.linkedin.com/pub/kim-humphreys/5/312/a34) to advise on its development and lead its consultation plans. Kim is now [Carvil Ventures Ltd](http://carvil-ventures.co.uk/) - an independent corporate finance and real-estate consultancy, which is advising Delancey. He is not the first former senior member or council leader to disappear through Southwark's [revolving doors](/revolving-doors): 
 
-![](https://s3-eu-west-1.amazonaws.com/rbi-blogs/wp-content/uploads/mt/estatesgazette/blogs/london-residential-research/assets_c/2011/06/elephant%20shopping%20centre6-thumb-500x401-129796.jpg)
- 
+## Coronet 
 Delancey has dismissed the [campaign](http://coronettheatre.co.uk/home/save-the-coronet/) to save [The Coronet](http://www.theatrestrust.org.uk/resources/theatres/show/3344-coronet-london). The Coronet takes up a sizeable part of the shopping centre site. A music and event venue, it has also been a cinema and music hall [dating back to 1872](http://www.london-se1.co.uk/news/view/7701) and is a popular local institution. Attempts have been to try and have it listed on the basis of its Art Deco interior and exterior, which currently remains [hidden](http://crappistmartin.github.io/images/SNcoronet.pdf) behind its blue corrugated facade, but Delancey has the backing of the Council and wants to see the venue bulldozed. The [Theatres Trust](http://www.theatrestrust.org.uk/) has submitted a [strong objection](planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!mXJGLVs8phU8UfW%2b%2fP0kZA%3d%3d!%7d%7d%7d) to Delancey's planning application. 
 
 ![](http://crappistmartin.github.io/images/coronet_cinema.jpg)
