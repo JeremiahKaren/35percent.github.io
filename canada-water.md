@@ -67,7 +67,6 @@ Besides having emphasised that the social rented units would be truly 'target re
 However, according to the Council's planning portal there has been no such viability review, despite the significant increase in property prices since the scheme was consented in 2011.
 
 
-
 ## Canada Water Sites C&E
 
 ![](http://media.timeout.com/images/101432507/617/347/image.jpg)
@@ -115,7 +114,7 @@ However, the [section 106 agreement](http://planbuild.southwark.gov.uk/documents
 
 
 ## British Land masterplan site
-Sites F & G comprising the petrol station and shopping centre, together with the former Daily Mail printworks and Surrey Quays leisure park, have not yet been granted planning consent. This huge site comprising approx 7 million sqft of development across 46 acres, is being brought forward by British Land in a joint venture with Southwark Council and is currently in the early stages of consultation. The consultation process is being managed by 'consultation experts - __Soundings__' (the company which undertook the consultation for the Heygate masterplan on behalf of Lend Lease). [__British Land__](https://en.wikipedia.org/wiki/British_Land) - one of the UK's largest developers, formerly run by British property magnate Sir John Ritblatt (father of Delancey's Jamie Ritblatt).
+Sites F & G comprising the petrol station and shopping centre, together with the former Daily Mail printworks and Surrey Quays leisure park, have not yet been granted planning consent. This huge site comprising approx 7 million sqft of development across 46 acres, is being brought forward by British Land in a joint venture with Southwark Council and is currently in the early stages of consultation. The consultation process is being managed by 'consultation experts - __Soundings__' (the company which undertook the consultation for the Heygate masterplan on behalf of Lend Lease). [__British Land__](https://en.wikipedia.org/wiki/British_Land) - one of the UK's largest developers, formerly run by property magnate Sir John Ritblatt (father of Delancey's Jamie Ritblatt) and long-standing Tory party donor.
 
 ![](http://crappistmartin.github.io/images/CanadaWaterSiteC.png)
 
