@@ -14,7 +14,7 @@ Delancey has registered both the [shopping centre](/shopping-centre) site and th
 
 Delancey uses separate companies to own and separate companies to develop its sites. In the case of [Elephant One](/tribeca-square) it has used a [limited partnership company (LLP) controlled by shell companies](https://beta.companieshouse.gov.uk/company/OC389454/officers) registered in the British Virgin Islands and Panama. [Filing records at Companies House](https://beta.companieshouse.gov.uk/company/OC389454/filing-history) show that the partnership company hasn't paid a penny of corporation tax.
 
-Delancey's founder and CEO is Jamie Ritblat, son of property tycoon John Ritblat (British Land). The two are long-standing and significant Tory donors. 
+Delancey's founder and CEO is Jamie Ritblat, son of property tycoon John Ritblat (British Land), which the Council has selected as its development partner for its [Canada Water regeneration](http://35percent.org/canada-water/#british-land-masterplan-site). The father and son team are long-standing Tory donors who are among the top 100 donors to the party. 
 
 ![](/img/jamieandjohnritblat.jpg)
 *Jamie Ritblat (left) - John Ritblat (right)*
