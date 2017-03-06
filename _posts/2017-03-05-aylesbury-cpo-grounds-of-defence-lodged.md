@@ -1,7 +1,7 @@
 ---
 layout: post
 published: true
-title: "Aylesbury CPO - grounds of defence lodged"
+title: "Aylesbury CPO appeal - a grounded defence"
 subtitle: "Secretary of State delivers on promise to 'robustly defend' his decision against Southwark's appeal"
 ---
 Thanks to the general public's generous contributions to our [crowdfunding campaign](https://www.gofundme.com/aylesbury-the-right-to-a-community-2uefgf2s){:target="_blank"}, the Aylesbury Leaseholder Group was able to submit its grounds of defence of the [Aylesbury CPO decison](http://35percent.org/2016-09-18-aylesbury-compulsory-purchase-order-rejected/) last Wedsnesday.  The grounds were prepared by barrister [Chris Jacobs, of Landmark Chambers](http://www.landmarkchambers.co.uk/christopher_jacobs){:target="_blank"}, who successfully represented the leaseholders in the final days of the CPO public inquiry.
