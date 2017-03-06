@@ -4,7 +4,7 @@ title: "Elephant One"
 sharing: true
 footer: true
 ---
-![](http://crappistmartin.github.io/images/tribeca2.jpg)
+![](/img/elephantone.jpg)
 
 __Elephant One__ was the first major development to be granted planning permission at the Elephant. It was originally to be called __Oakmayne Plaza__, was subsequently renamed __Tribeca Square__ and then finally named __Elephant One__ after [protests from residents and the Council](http://www.london-se1.co.uk/news/view/7373). It is not to be confused with Lendlease' similarly named and similarly shameful [__One the Elephant__](/one-the-elephant) development. 
 
@@ -44,7 +44,7 @@ In July 2013, Delancey [went back](http://planbuild.southwark.gov.uk/documents/?
 ![](/img/delanceysainsburys.jpg)
 
 ## Market Square without a market
-![](http://35percent.org/img/castlesquare.JPG)
+![](/img/marketsquare.jpg)
 *Delancey's market square - currently under construction*
 
 The new market square is being built on green space that was once part of the Heygate estate and was also known as Elephant Park. The original Elephant Park was part of the [2.4 hectares of public green and amenity space](http://35percent.org/sustainable-development/) lost when the Heygate estate was demolished; designated as [Metropolitan Open Land (MOL)](https://en.wikipedia.org/wiki/Metropolitan_Open_Land) it was used by the local [Latin American football league](http://elephantamenity.wordpress.com/2011/02/28/no-more-football-on-the-elephant-park/), amongst others.
@@ -65,6 +65,9 @@ Unfortunately Southwark forgot to insert a penalty clause in the [99 year lease 
 
 ## £12.5m servicing basement shelved
 Delancey successfully argued that the provision of the £12.5m basement to service the new shopping centre, meant that it couldn't viably provide any affordable housing and couldn't afford to pay the £6.2m required according to Southwark's Strategic Transport Tariff to pay for necessary transport capacity improvements[^7]. Having pleaded viability poverty, Delancey was allowed to pay a token contribution of just £280k - (see paragraph 105 of the [planning committee report](http://crappistmartin.github.io/images/Tribeca_OfficersReport.pdf)). This has left Southwark Council in the position of having to use public funds to close an [Elephantine funding gap](http://35percent.org/2014-08-12-mind-the-gap/).
+
+![](/img/servicetunnel.jpg)
+*Entrance to the servicing basement on the Old Kent Road*
 
 Now, having [submitted](http://35percent.org/2016-12-19-delancey-submits-shopping-centre-application/) its planning application for the shopping centre, Delancey claims that it no longer wants to use the underground basement as an access route for the new shopping centre. Instead it wants a different route directly off the New Kent Road near the roundabout.
 
