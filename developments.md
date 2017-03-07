@@ -90,14 +90,14 @@ subtitle: Summary of regeneration schemes
 
 <article class="post-preview">
   
-<h1><a href="/tribeca-square/">Tribeca Square development</a></h1>
+<h1><a href="/tribeca-square/">Elephant One</a></h1>
 
 <img src="https://farm9.staticflickr.com/8648/16055357643_4c60c17111_b.jpg" width="100" align="left">
 </article>
 
 <article class="post-preview">
   
-<h1><a href="/colorama/">Colorama redevelopment</a></h1>
+<h1><a href="/colorama/">Colorama</a></h1>
 
 <img src="http://crappistmartin.github.io/images/colorama.jpg" width="100" align="left">
 </article>
@@ -111,7 +111,7 @@ subtitle: Summary of regeneration schemes
 
 <article class="post-preview">
   
-<h1><a href="/shopping-centre/">E&C Shopping Centre redevelopment</a></h1>
+<h1><a href="/shopping-centre/">E&C Shopping Centre/LCC redevelopment</a></h1>
 
 <img src="http://www.london-se1.co.uk/news/imageuploads/1317132078_80.177.117.97.jpg" width="100" align="left">
 </article>
@@ -270,7 +270,7 @@ subtitle: Summary of regeneration schemes
 
 <article class="post-preview">
   
-<h1><a href="/wyndham-redcar/">Wyndham Rd/Redcar St development</a></h1>
+<h1><a href="/wyndham-redcar/">Wyndham Rd/Redcar St</a></h1>
 
 <img src="/img/wyndhamredcar.jpg" width="100" align="left">
 </article>
