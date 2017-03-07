@@ -22,7 +22,7 @@ The site was originally a light industrial estate owned by the GLC until 1987 wh
 
 Having obtained planning permission for the site in December 2006, in March 2007 __Eadon Estates Ltd__ [sold the site](http://crappistmartin.github.io/images/LR_Eadon2007.pdf) to [__Eadon Ltd__](https://services.gov.im/ded/services/companiesregistry/viewcompany.iom?Id=149600) (another anonymous Oakmayne/Delancey offshore SPV) for £18m.
 
-__Eadon Ltd then submitted a [revised planning application in 2007](http://www.london-se1.co.uk/news/view/3077), which revised downwards the amount of affordable housing to be delivered. It was approved on the basis that the developer would provide a number of affordable retail units and a market square for traders displaced from the shopping centre. It would also provide a basement area, which would be used as vehicular service access for the new shopping centre in order to reduce congestion. 
+__Eadon Ltd__ then submitted a [revised planning application in 2007](http://www.london-se1.co.uk/news/view/3077), which revised downwards the amount of affordable housing to be delivered. It was approved on the basis that the developer would provide a number of affordable retail units and a market square for traders displaced from the shopping centre. It would also provide a basement area, which would be used as vehicular service access for the new shopping centre in order to reduce congestion. 
 
 ![](/img/tribeca2007or.jpg)
 *Extract from planning committee report (2007 permission)*
@@ -78,7 +78,7 @@ TFL have objected to this change of access, claiming that it will disrupt the fl
 ![](/img/castlesquare.png)
 
 ## Revolving doors
-If anyone is wondering how Delancey manages to get away with all this, the answer is that Delancey is very well advised. Delancey has employed former deputy Council leader Kim Humphries as its adviser and representative. Kim has been for hire as a freelance [development consultant](http://carvil-ventures.co.uk/) since he stepped down as deputy Council leader and Cabinet member for Housing. Kim is just one of many Council officers and Council members to have made use of Southwark's increasingly well-used [revolving doors](/revolving-doors).
+If anyone is wondering how Delancey manages to get away with all this, the answer is that Delancey is very well advised. Delancey has employed former deputy Council leader Kim Humphries as its adviser and representative. Indeed, Kim was deputy leader when the planning applications were approved and when the basement/market square lease was signed. He has been for hire as a freelance [development consultant](http://carvil-ventures.co.uk/) since he stepped down as deputy Council leader and Cabinet member for Housing. Kim is just one of many Council officers and Council members to have made use of Southwark's increasingly well-used [revolving doors](/revolving-doors).
 
 ![](/img/carvilkimcollage.jpg)
 
