@@ -78,7 +78,7 @@ TFL have objected to this change of access, claiming that it will disrupt the fl
 ![](/img/castlesquare.png)
 
 ## Revolving doors
-If anyone is wondering how Delancey manages to get away with all this, the answer is that Delancey is very well advised. Delancey has employed former deputy Council leader Kim Humphries as its adviser and representative. Indeed, Kim was deputy leader when the planning applications were approved and when the basement/market square lease was signed. He has been for hire as a freelance [development consultant](http://carvil-ventures.co.uk/) since he stepped down as deputy Council leader and Cabinet member for Housing. Kim [made his name](https://youtu.be/E9-cfAdGiFA?t=6m44s) in the Heygate clearances and is just one of many Council members to have made use of Southwark's increasingly well-used [revolving doors](/revolving-doors).
+If anyone is wondering how Delancey manages to get away with all this, the answer is that Delancey is very well advised. Delancey has employed former deputy Council leader Kim Humphries as its adviser and representative. Indeed, Kim was deputy leader when the planning applications were approved and when the basement/market square lease was signed. He has been for hire as a freelance [development consultant](http://carvil-ventures.co.uk/) since he stepped down as deputy Council leader and Cabinet member for Housing. Kim [made his name](https://youtu.be/E9-cfAdGiFA?t=6m44s) in the [Heygate clearances](http://35percent.org/2013-06-08-the-heygate-diaspora/) and is just one of many Council members to have made use of Southwark's increasingly well-used [revolving doors](/revolving-doors).
 
 ![](/img/carvilkimcollage.jpg)
 
