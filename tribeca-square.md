@@ -45,7 +45,7 @@ In July 2013, Delancey [went back](http://planbuild.southwark.gov.uk/documents/?
 
 ## Market Square without a market
 ![](/img/marketsquare.jpg)
-*Delancey's market square - currently under construction*
+*Delancey's market square - the vision versus the reality*
 
 The new market square that Delancey is obliged to build was once part of the Heygate estate's green space and was also known locally as Elephant Park. It was part of the [2.4 hectares of public green and amenity space](http://35percent.org/sustainable-development/) lost when the Heygate estate was demolished; designated as [Metropolitan Open Land (MOL)](https://en.wikipedia.org/wiki/Metropolitan_Open_Land) and was used frequently by the local [Latin American football league](http://elephantamenity.wordpress.com/2011/02/28/no-more-football-on-the-elephant-park/), amongst others.
 
