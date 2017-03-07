@@ -75,6 +75,8 @@ Now, having [submitted](http://35percent.org/2016-12-19-delancey-submits-shoppin
 
 TFL have objected to this change of access, claiming that it will disrupt the flow of traffic and inhibit use of the new pedestrian crossings. Southwark has remained silent on the issue, despite it being a breach of its planning policy for the Elephant. If Delancey's plans are accepted then Southwark has no claw-back mechanism to ensure the basement is put to any other specific use. The basement sits underneath the market square, which was council-owned land given to Delancey on a 99 year peppercorn lease, in order to provide public infrastructure. We have already seen the market square shelved and if Delancey's shopping centre application is accepted then its land grab of the market square and basement land will be complete; Southwark will have signed over public land for private use on peppercorn rent for the next 99 years.    
 
+![](/img/castlesquare.png)
+
 ## Revolving doors
 If anyone is wondering how Delancey manages to get away with all this, the answer is that Delancey is very well advised. Delancey has employed former deputy Council leader Kim Humphries as its adviser and representative. Kim has been for hire as a freelance [development consultant](http://carvil-ventures.co.uk/) since he stepped down as deputy Council leader and Cabinet member for Housing. Kim is just one of many Council officers and Council members to have made use of Southwark's increasingly well-used [revolving doors](/revolving-doors).
 
