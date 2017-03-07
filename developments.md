@@ -111,7 +111,7 @@ subtitle: Summary of regeneration schemes
 
 <article class="post-preview">
   
-<h1><a href="/shopping-centre/">E&C Shopping Centre/LCC redevelopment</a></h1>
+<h1><a href="/shopping-centre/">E&C Shopping Centre/LCC</a></h1>
 
 <img src="http://www.london-se1.co.uk/news/imageuploads/1317132078_80.177.117.97.jpg" width="100" align="left">
 </article>
