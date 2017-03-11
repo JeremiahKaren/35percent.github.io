@@ -6,18 +6,20 @@ published: true
 ---
 Delancey's application for the redevelopment of the shopping centre includes images of neighbouring development __Elephant One__, also owned and built by Delancey.
 
-(img)
+![](/img/marketsquare.png)
+*Delancey's new Market Square - with no market*
 
-Eagled-eyed campaigners from Southwark Notes noticed that the CGI images did not include market stalls in the new market square and ask the question why? Local news website SE1 supplied the answer: it turns out that when Delancey [submitted](http://planbuild.southwark.gov.uk:8190/online-applications/applicationDetails.do?activeTab=summary&keyVal=_STHWR_DCAPR_9566927) its ['management plan'](/img/marketsquaremanagementplan.pdf) for the market square last June, it changed its use.
+Eagled-eyed campaigners from Southwark Notes noticed that the CGI images did not include market stalls in the new market square and ask the question why? Local news website SE1 supplied the answer: it turns out that when Delancey [submitted](http://planbuild.southwark.gov.uk:8190/online-applications/applicationDetails.do?activeTab=summary&keyVal=_STHWR_DCAPR_9566927) its ['management strategy'](/img/marketsquaremanagementplan.pdf) for the market square last June, it changed its use.
 
 Delancey claimed there is _"limited viability for a market or demand for an operator"_ and is instead _"coordinating a strategy for this space along with Lend Lease that could envisage a wider enlivenment and events programme"_, which _"could include an element of market type operations but not exclusively so"_. 
 
 ![](/img/marketsquareviability.jpg)
 *Extract from Delancey's [application](http://planbuild.southwark.gov.uk:8190/online-applications/applicationDetails.do?activeTab=summary&keyVal=_STHWR_DCAPR_9566927) to vary market square s106 conditions*
 
-Southwark could have rejected the management plan but instead approved it by officer's decision, without any public consultation. 
+Southwark could have rejected the management strategy but instead approved it by officer's decision, without any public consultation. 
 
-![](consultation none)
+![](/img/consultation_none.png)
+*Extract from the [planning officer report](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!YqRE%2fHHub07usEq0aQthAA%3d%3d!%7d%7d%7d) approving the changed management strategy*
 
 This is the second time that Southwark and Delancey have connived behind the scenes to do local traders down. Delancey dumped the affordable retail units in __Elephant One__ in favour of giving the space to Sainsburys, back in 20xxx. 
 
@@ -80,17 +82,18 @@ However, in 2016 Delancey [submitted](http://planbuild.southwark.gov.uk:8190/onl
 *Extract from Delancey's [application](http://planbuild.southwark.gov.uk:8190/online-applications/applicationDetails.do?activeTab=summary&keyVal=_STHWR_DCAPR_9566927) to vary market square s106 conditions*
 
 
-## £12.5m servicing basement shelved
-The other obligation that went with the peppercorn lease of the land was that Delancey would build the basement under it to provide servicing access to the new shopping centre. The supposed £12.5m cost of building the basement, justified not just the removal of affordable housing but Delancey was also relieved of the £6.2m S106 contribution it should have paid for local transport infrastructure, according to Southwark's Strategic Transport Tariff[^7]. 
+## Delancey's bargain basement
+The other obligation that went with the peppercorn lease was the basement servicing area with its access to the new shopping centre. The estimated £12.5m cost of building this, justified not only the removal of affordable housing but it also relieved Delancey of a £6.2m S106 contribution to local transport infrastructure, calculated according to Southwark's Strategic Transport Tariff[^7]. 
 
 ![](/img/servicetunnel.jpg)
 *Entrance to the servicing basement on the Old Kent Road*
 
-Now, having [submitted](http://35percent.org/2016-12-19-delancey-submits-shopping-centre-application/) its planning application for the shopping centre, Delancey claims that it no longer wants to use the underground basement as servicing access for the new shopping centre. Instead it wants a different access route directly off the New Kent Road.
+## Where we are now
+During the course of __Elephant One__'s development, Delancey itself acquired the shopping centre and in its [planning application ](http://35percent.org/2016-12-19-delancey-submits-shopping-centre-application/) states that it no longer wants servicing access from the basement under the Market Square. Instead it wants a different access route directly off the New Kent Road.
 
 ![](/img/shoppingcentreaccess.png)
 
-TFL have objected to this change of access, claiming that it will disrupt the flow of traffic and inhibit use of the new pedestrian crossings. Southwark has remained silent on the issue, despite it being a breach of its planning policy for the Elephant. If Delancey's plans are accepted then Southwark has no claw-back mechanism to ensure the basement is put to any other specific use. The basement sits underneath the market square, which was council-owned land given to Delancey on a 99 year peppercorn lease, in order to provide public infrastructure. We have already seen the market square shelved and if Delancey's shopping centre application is accepted then its land grab of the market square and basement land will be complete; Southwark will have signed over public land for private use on peppercorn rent for the next 99 years.    
+TFL have objected to this change, saying that it will disrupt the flow of traffic and inhibit use of the new pedestrian crossings. It also clearly conflicts with the planning permission granted for __Elephant One__. The basement sits underneath the market square, on council-owned land, given to Delancey on a 99 year peppercorn lease, in order to provide useful infrastructure by servicing a market and giving access to the shopping centre. The market has disappeared and having bought the shopping centre, Delancey says it doesn't want the the access any more. Delancey used the cost of building the basement to relieve itself of affordable housing obligations and the transport tariff, so it has nonetheless clearly served its purpose. 
 
 ![](/img/castlesquare.png)
 
@@ -101,6 +104,9 @@ If anyone is wondering how Delancey manages to get away with all this, the answe
 
 ## Tax dodging developers
 The development is a joint venture between [Isle-of-Man registered](https://opencorporates.com/companies/im/004035V), [tax dodging developer](https://www.theguardian.com/uk/2012/dec/16/london-property-tax-avoidance-offshore) Oakmayne and __Delancey DV4__ - a multimillion pound real-estate developer registered in the British Virgin Islands, which has been [accussed](http://crappistmartin.github.io/images/PrivateEyeNo1311.pdf) of 'aggressive tax avoidance by the HMRC. Delancey is bankrolled by George Soros and managed by [Tory donor](http://www.independent.co.uk/news/uk/politics/party-funding-tory-coffers-benefit-from-fear-of-labour-mansion-tax-9716614.html) Jamie Ritblatt, son of property tycoon John Ritblat (__British Land Plc__). Delancey is also developing the neighbouring [shopping centre site](/shopping-centre) and is [using a network of offshore SPVs and holding companies](http://35percent.org/2014-05-05-manx-connections-the-off-shore-home-of-the-elephants-developers/) to avoid paying tax on its multi-million pound redevelopment of the Elephant. For developing __Elephant One__, Delancey has used a [limited partnership company (LLP) controlled by shell companies](https://beta.companieshouse.gov.uk/company/OC389454/officers) registered in the British Virgin Islands and Panama. [Filing records at Companies House](https://beta.companieshouse.gov.uk/company/OC389454/filing-history) show that the partnership company hasn't paid a penny in corporation tax. Delancey also uses a separate company __Get Living London__ to manage its PRS (Private Rented Sector) build-to-rent homes. Despite [managing over £1bn worth of PRS homes](http://www.propertyweek.com/news/get-living-to-double-assets-to-%C2%A32bn/5088136.article) __Get Living London__ has [never paid a penny of corporation tax](https://beta.companieshouse.gov.uk/company/07793925/filing-history).
+
+## Conclusion
+There are lots of things to object in Delancey's planning application for the shopping centre as we have previously pointed out. We can now add that Delancey and its behaviour is itself objectionable. It avoids planning obligations; along with Lendlease, it is carving up the whole of the Elephant & Castle with little regard for building anything that doesn't make it money.
 
 __Footnotes:__
 -----------------------------------------------------------------------------

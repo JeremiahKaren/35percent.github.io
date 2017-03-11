@@ -14,6 +14,17 @@ Barratt has also recently started work on its [__'Blackfriars Circus'__](http://
 
 Nevertheless the planning application was waved through and demolition works started on the site earlier this year. However, now it is being [reported](http://www.london-se1.co.uk/news/view/8441) that the council is planning to buy these 8 social and 48 affordable rented homes from Barratt, in order to turn them into social rented council homes at a price tag of £10m.
 
+The sale (but not price paid) is confirmed in the [freehold land registry deeds](/lrdeeds/blackfriarscircusfreehold.pdf).
+
+However, the leasehold [Land Registry deeds](/lrdeeds/blackfriarscircuspartsofblocka.pdf) only show 'parts of block A' to have been purchased by Southwark, for the sum of £4.2m.
+
+The Land Registry also lists [deeds](/lrdeeds/blackfriarscircusblockb.pdf) for block B, which has been purchased by housing association Affinity Sutton for £7m.
+
+In 2016, Barratt [applied](http://planbuild.southwark.gov.uk/documents/?casereference=16/AP/4265&system=DC) to the Council to remove the condition that 10% of the flats must be wheelchair accessible. Barratt argued that it had tried to market the wheelchair accessible units but that there were no buyers. The application was approved - by a delegated officer decision.
+
+![](/img/tweetmwilliamsblackfriars.png)
+*[Tweet](https://twitter.com/markwilliams84/status/837314723402100736) by Cabinet member for Regen Mark Williams*
+
 The absurdity of buying homes from developers to convert to social rent when they should have been social rent anyway, is plain for all to see.
 However, it also appears that Southwark is paying well over the market price: £10m for 56 affordable housing units seems an awful lot of money compared to the [£3.1m paid](http://crappistmartin.github.io/images/LR_LANDQ_TrafalgarPlace.pdf) by L&Q for 54 affordable homes it brought from Heygate developer Lend Lease at [Trafalgar Place](http://trafalgarplace.com).
 
