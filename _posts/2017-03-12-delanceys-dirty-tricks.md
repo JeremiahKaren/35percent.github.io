@@ -23,28 +23,38 @@ This is the second time that Southwark and Delancey have connived behind the sce
 This latest dirty trick is entirely in keeping with the whole sorry saga of the __Elephant One__ development, whose history shows how Delancey has carved out a great chunk of the Elephant for its own profit at the local community's expense, aided and abbetted by Southwark Council. 
 
 ## The story so far..
-The __Elephant One__ development occupies two parcels of land, one of which was originally a light industrial estate owned by the GLC, the other was Metropolitan Open Land and part of the Heygate estate. In 1987 the industrial estate was transferred to Southwark Council, which subsequently sold it to a subsidiary of __British Land Plc__. In 2006 it was then [sold](http://crappistmartin.github.io/images/LR_DV4Eadon2006.pdf) for £8.5m to [__Eadon Estates Ltd__](https://services.gov.im/ded/services/companiesregistry/viewcompany.iom?Id=145829), an anonymous SPV/shell company registered in the Isle of Man. 
+The __Elephant One__ development occupies two parcels of land, one of which was originally a light industrial estate owned by the GLC, the other was Metropolitan Open Land and part of the Heygate estate. 
+
+
+In 1987 the industrial estate was transferred to Southwark Council, which subsequently sold it to a subsidiary of __British Land Plc__. In 2006 it was then [sold](http://crappistmartin.github.io/images/LR_DV4Eadon2006.pdf) for £8.5m to [__Eadon Estates Ltd__](https://services.gov.im/ded/services/companiesregistry/viewcompany.iom?Id=145829), an anonymous SPV/shell company registered in the Isle of Man. 
 
 Having obtained planning permission for the site in December 2006, in March 2007 __Eadon Estates Ltd__ [sold the site](http://crappistmartin.github.io/images/LR_Eadon2007.pdf) to [__Eadon Ltd__](https://services.gov.im/ded/services/companiesregistry/viewcompany.iom?Id=149600) (another anonymous Oakmayne/Delancey offshore SPV) for £18m.
 
-__Eadon Ltd__ then submitted a [revised planning application in 2007](http://www.london-se1.co.uk/news/view/3077), which revised downwards the amount of affordable housing to be delivered. It was approved on the basis that the developer would provide a number of affordable retail units and a market square for traders displaced from the shopping centre. It would also provide a basement area, which would be used as vehicular service access for the new shopping centre in order to reduce congestion. 
+The Market Square is built on  [Metropolitan Open Land (MOL)](https://en.wikipedia.org/wiki/Metropolitan_Open_Land), which was part of the Heygate estate and was used frequently by the local [Latin American football league](http://elephantamenity.wordpress.com/2011/02/28/no-more-football-on-the-elephant-park/).
 
-A year later in the first week of December 2008, a further revised application was [approved](http://www.london-se1.co.uk/news/view/3641), increasing the number of units and removing the affordable housing obligation altogether. The [planning officer's report](http://crappistmartin.github.io/images/Tribeca_OfficersReport.pdf) for the application confirmed that the developer had submitted a viability assessment and that the Council accepted that _"it is not possible to show that the value from the additional 61 private residential units produces any additional value from which the scheme could support either on site affordable housing or an in lieu payment"_. Instead of affordable housing an in-lieu payment was agreed, amounting to just £1m[^2] and justified by the 'exceptional cost' to the developer of providing the market square and the basement access area - estimated to cost £12.5m. (see paragraphs 101-105). Delancey should normally have paid £52.7m under [Southwark's tariff](http://affordable.heroku.com/images/affordablehousingspg.pdf) for commuted affordable housing payments[^1].
+![](http://35percent.org/img/oldelephantpark.jpg)
+
+In 2008, Southwark Council closed the Park and [sold the land](http://35percent.org/img/DelanceyEadon_MarketSquare_Agreement.pdf) to Delancey on a 99 year lease at a peppercorn rent of £100 per year. The deal was that Southwark would receive 50% of the net revenue from the Market - 25% for the first five years (but now there is no market presumably there will be no rent).
+
+![](http://35percent.org/img/castlesquarerent.png)
+*Extract from market square [legal agreement](http://35percent.org/img/DelanceyEadon_MarketSquare_Agreement.pdf) between Delancey & the Council*
+
+
+
+In 2007 __Eadon Ltd__ then submitted a [new planning application](http://www.london-se1.co.uk/news/view/3077), which revised downwards the amount of affordable housing in the original permission. It was approved on the basis that the developer would provide a number of affordable retail units and a market square for traders displaced from the shopping centre. 
+
+A year later in the first week of December 2008, a further revised application was [approved](http://www.london-se1.co.uk/news/view/3641), increasing the number of units and removing the affordable housing obligation altogether. The [planning officer's report](http://crappistmartin.github.io/images/Tribeca_OfficersReport.pdf) for the application confirmed that the developer had submitted a viability assessment and that the Council accepted that _"it is not possible to show that the value from the additional 61 private residential units produces any additional value from which the scheme could support either on site affordable housing or an in lieu payment"_.
+
+The development would also provide a basement area underneath the Market Square, which would be used as vehicular service access for the new shopping centre in order to reduce congestion. 
+
+Instead of affordable housing an in-lieu payment was agreed, amounting to just £1m[^2] and justified by the 'exceptional cost' to the developer of providing the market square and the basement access area - estimated to cost £12.5m. (see paragraphs 101-105). Delancey should normally have paid £52.7m under [Southwark's tariff](http://affordable.heroku.com/images/affordablehousingspg.pdf) for commuted affordable housing payments[^1].
 
 Southwark later accidentally published the confidential [viability assessment](http://crappistmartin.github.io/images/Delancey_Tribeca_ViabilityAssessment.pdf) submitted to justify these concessions. It showed that £18m had been used as the land purchase cost, as a result of the developer having flipped land registry ownership between the Eadon shell companies. It also claimed that the completed residential flats would sell for an average of just £525 per square foot. This is half of what flats on neighbouring [Elephant Park](http://elephantpark.co.uk) are selling for and represents an undervaluation of the development by around £100m! 
 
 In 2011 __Eadon Ltd__ [sold](http://crappistmartin.github.io/images/LandRegistry_TribecaSquare.pdf) the site for £40m to __DV4 Eadon Ltd__ (another Delancey shell company registered in the British Virgin Islands). 
 
 
-## Market square
-The Market Square is built on land that was part of the [2.4 hectares of public green and amenity space](http://35percent.org/sustainable-development/) lost when the Heygate estate was demolished; designated as [Metropolitan Open Land (MOL)](https://en.wikipedia.org/wiki/Metropolitan_Open_Land) and was used frequently by the local [Latin American football league](http://elephantamenity.wordpress.com/2011/02/28/no-more-football-on-the-elephant-park/), amongst others.
 
-![](http://35percent.org/img/oldelephantpark.jpg)
-
-In 2008, Southwark Council closed the Park and [sold the land](http://35percent.org/img/DelanceyEadon_MarketSquare_Agreement.pdf) to Delancey on a 99 year lease at a peppercorn rent of £100 per year. The deal was that Southwark would receive 50% of the net revenue from the Market (25% for the first five years), but now there is no market presumably there will be no rent.
-
-![](http://35percent.org/img/castlesquarerent.png)
-*Extract from market square [legal agreement](http://35percent.org/img/DelanceyEadon_MarketSquare_Agreement.pdf) between Delancey & the Council*
 
 ## Basement
 Under the peppercorn lease, Delancey would not only provide a market square but an underground basement, which would provide servicing access to the new shopping centre. The estimated £12.5m cost of building the basement, justified not just the removal of affordable housing but also the £6.2m S106 contribution Delancey should have paid for local transport infrastructure, according to Southwark's Strategic Transport Tariff[^7]. 
