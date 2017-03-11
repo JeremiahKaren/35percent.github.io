@@ -4,16 +4,16 @@ title: "Delancey's dirty tricks"
 subtitle: "Market square disappears"
 published: true
 ---
-Delancey's application for the redevelopment of the shopping centre includes images of neighbouring development __Elephant One__, also owned and built by Delancey.
+Delancey's [application](/shopping-centre) for the redevelopment of the Elephant & Castle shopping centre includes images of neighbouring development __Elephant One__, also owned and built by Delancey.
 
 ![](/img/marketsquare.png)
 *Delancey's new Market Square - with no market*
 
-Eagled-eyed campaigners from Southwark Notes noticed that the CGI images did not include market stalls in the new market square and ask the question why? Local news website SE1 supplied the answer: it turns out that when Delancey [submitted](http://planbuild.southwark.gov.uk:8190/online-applications/applicationDetails.do?activeTab=summary&keyVal=_STHWR_DCAPR_9566927) its ['management strategy'](/img/marketsquaremanagementplan.pdf) for the market square last June, it changed its use.
+Eagled-eyed campaigners from Southwark Notes noticed that the CGI images did not include market stalls in the new market square that were [earmarked for shopping centre traders](http://www.london-se1.co.uk/news/view/2298) and [asked the question](https://twitter.com/SouthwarkNotes/status/837818379180322820) why? Local news website SE1 supplied the [answer](https://twitter.com/se1/status/837951356963028992) it turns out that when Delancey [submitted](http://planbuild.southwark.gov.uk:8190/online-applications/applicationDetails.do?activeTab=summary&keyVal=_STHWR_DCAPR_9566927) its ['management strategy'](/img/marketsquaremanagementplan.pdf) for the market square last June, it changed its use.
 
 Delancey claimed there is _"limited viability for a market or demand for an operator"_ and is instead _"coordinating a strategy for this space along with Lend Lease that could envisage a wider enlivenment and events programme"_, which _"could include an element of market type operations but not exclusively so"_. 
 
-![](/img/marketsquareviability.jpg)
+![](/img/marketsquarestrategy.png)
 *Extract from Delancey's [application](http://planbuild.southwark.gov.uk:8190/online-applications/applicationDetails.do?activeTab=summary&keyVal=_STHWR_DCAPR_9566927) to vary market square s106 conditions*
 
 Southwark could have rejected the management strategy but instead approved it by officer's decision, without any public consultation. 
@@ -21,11 +21,11 @@ Southwark could have rejected the management strategy but instead approved it by
 ![](/img/consultation_none.png)
 *Extract from the [planning officer report](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!YqRE%2fHHub07usEq0aQthAA%3d%3d!%7d%7d%7d) approving the changed management strategy*
 
-This is the second time that Southwark and Delancey have connived behind the scenes to do local traders down. Delancey dumped the affordable retail units in __Elephant One__ in favour of giving the space to Sainsburys, back in 20xxx. 
+This is the second time that Southwark and Delancey have connived behind the scenes to do local traders down. Delancey [dumped half of the affordable retail units](http://35percent.org/2015-07-12-shopping-centre-and-lcc-redevelopment-proposals/#delancey---a-morality-tale) in __Elephant One__ back in 2013 and replaced them with a Sainsburys. 
 
-This latest dirty trick is entirely in keeping with the whole sorry saga of the __Elephant One__ development, whose history shows how Delancey has carved out a great chunk of the Elephant for its own profit at the local community's expense, aided and abbetted by Southwark Council. 
+This latest dirty trick is entirely in keeping with the whole sorry saga of the __Elephant One__ development, whose history shows how Delancey has carved out a great chunk of the Elephant for its own profit at the local community's expense, aided and abetted by Southwark Council. 
 
-This is the story of __Elephant One__ so far.
+This is the sorry story of __Elephant One__ so far.
 
 ![](/img/elephantone.jpg)
 
@@ -38,20 +38,23 @@ __Elephant One__ is a mixed-use development including a cinema, shops, new Marke
 The development has been constructed entirely using an [offsite prefabricated construction technique](http://www.laingorourke.com/media/news-releases/2015/laing-o-rourke-led-consortium-awarded.aspx) pioneered by Laing (the company that built the neighbouring Heygate estate). Even the [bathrooms](http://www.modulor.ae/index.php?page=view_pages_detail&tbl_pages_id=eacf5a7153) are [prefabricated in Dubai](http://www.london-se1.co.uk/news/view/7609).
 
 ## Planning History 
-The site of development's buildings was originally a light industrial estate owned by the GLC until 1987 when it was transferred to Southwark Council. Southwark subsequently sold it to a subsidiary of __British Land Plc__, which in 2006 [sold](http://crappistmartin.github.io/images/LR_DV4Eadon2006.pdf) it for £8.5m to [__Eadon Estates Ltd__](https://services.gov.im/ded/services/companiesregistry/viewcompany.iom?Id=145829), an anonymous SPV/shell company registered in Isle of Man. 
+The site of development's buildings was originally a light industrial estate owned by the GLC until 1987, when it was transferred to Southwark Council. Southwark subsequently sold it to a subsidiary of __British Land Plc__, which in 2006 [sold](http://crappistmartin.github.io/images/LR_DV4Eadon2006.pdf) the site for £8.5m to [__Eadon Estates Ltd__](https://services.gov.im/ded/services/companiesregistry/viewcompany.iom?Id=145829), an anonymous SPV/shell company registered in Isle of Man. 
 
 Having obtained planning permission for the site in December 2006, in March 2007 __Eadon Estates Ltd__ [sold the site](http://crappistmartin.github.io/images/LR_Eadon2007.pdf) to [__Eadon Ltd__](https://services.gov.im/ded/services/companiesregistry/viewcompany.iom?Id=149600) (another anonymous Oakmayne/Delancey offshore SPV) for £18m.
 
-__Eadon Ltd__ then submitted a [revised planning application in 2007](http://www.london-se1.co.uk/news/view/3077), which revised downwards the amount of affordable housing to be delivered. It was approved on the basis that the developer would provide a number of affordable retail units and a market square for traders displaced from the shopping centre. It would also provide a basement area, which would be used as vehicular service access for the new shopping centre in order to reduce congestion. 
+__Eadon Ltd__ then submitted a [new planning application in 2007](http://www.london-se1.co.uk/news/view/3077), claiming viabilty poverty due to the large sum (£18m) paid for the site and which revised downwards the amount of affordable housing. It was [approved](http://moderngov.southwark.gov.uk/Data/Planning%20Committee/20071218/Agenda/Item%2064Report%20Former%20Castle%20Industrial%20Estate,%20Elephant%20Road,%20London,SE17.pdf) on the basis that the developer would provide a number of affordable retail units and a market square for traders displaced from the shopping centre. It would also provide a basement area, which would be used as vehicular service access for the new shopping centre and would also contain a market storage area with lift access to the market square above. The basement area would be accessed off New Kent Road.
 
 ![](/img/tribeca2007or.jpg)
-*Extract from planning committee report (2007 permission)*
+*Extract from 2007 [planning committee report](http://moderngov.southwark.gov.uk/Data/Planning%20Committee/20071218/Agenda/Item%2064Report%20Former%20Castle%20Industrial%20Estate,%20Elephant%20Road,%20London,SE17.pdf)*
 
-A year later in December 2008, a further revised application was [approved](http://www.london-se1.co.uk/news/view/3641), increasing the number of units and removing the affordable housing obligation altogether. The [planning officer's report](http://crappistmartin.github.io/images/Tribeca_OfficersReport.pdf) for the application confirmed that the developer had submitted a viability assessment and that the Council accepted that _"it is not possible to show that the value from the additional 61 private residential units produces any additional value from which the scheme could support either on site affordable housing or an in lieu payment"_. Instead of affordable housing an in-lieu payment was agreed, amounting to just £1m[^2] and justified by the 'exceptional cost' to the developer of providing the market square and the basement access area - estimated to cost £12.5m. (see paragraphs 101-105). Delancey should normally have paid £52.7m under [Southwark's tariff](http://affordable.heroku.com/images/affordablehousingspg.pdf) for commuted affordable housing payments[^1].
+A year later in December 2008, a further application was [approved](http://www.london-se1.co.uk/news/view/3641), increasing the number of residential units and removing the affordable housing obligation altogether. The [planning officer's report](http://crappistmartin.github.io/images/Tribeca_OfficersReport.pdf) for the application confirmed that the developer had submitted a viability assessment and that the Council accepted that _"it is not possible to show that the value from the additional 61 private residential units produces any additional value from which the scheme could support either on site affordable housing or an in lieu payment"_. Instead of affordable housing an in-lieu payment was agreed, amounting to just £1m[^2] and justified by the 'exceptional cost' to the developer of providing the market square and the basement access area - estimated to cost £12.5m. (see paragraphs 101-105). Delancey should normally have paid £52.7m under [Southwark's tariff](http://affordable.heroku.com/images/affordablehousingspg.pdf) for commuted affordable housing payments[^1].
 
-Southwark later accidentally published the confidential [viability assessment](http://crappistmartin.github.io/images/Delancey_Tribeca_ViabilityAssessment.pdf) submitted to justify these concessions. It showed that £18m had been used as the land purchase cost, as a result of the developer having flipped land registry ownership between the Eadon shell companies. It also claimed that the completed residential flats would sell for an average of just £525 per square foot. Flats on Lendlease's neighbouring [Elephant Park](http://elephantpark.co.uk) are selling for an average of over £1,000 per square foot. 
+![](/img/tribecaoriginal.png)
+*Original CGI of the development [submitted to planning committee](http://moderngov.southwark.gov.uk/Data/Planning%20Committee/20071218/Agenda/Item%2064Image%20B%20Former%20Castle%20Industrial%20Estate,%20Elephant%20Road,%20London,SE17.pdf)* 
 
-In 2011 __Eadon Ltd__ [sold](http://crappistmartin.github.io/images/LandRegistry_TribecaSquare.pdf) the site for £40m to __DV4 Eadon Ltd__ (another Delancey shell company registered in the British Virgin Islands). 
+Southwark later accidentally published the confidential [viability assessment](http://crappistmartin.github.io/images/Delancey_Tribeca_ViabilityAssessment.pdf) submitted to justify these concessions. It showed that £18m had been used as the land purchase cost - not the £8m originally paid. It also claimed that the completed residential flats would sell for an average of just £525 per square foot. Flats on Lendlease's neighbouring [Elephant Park](http://elephantpark.co.uk) are selling for an average of over £1,000 per square foot. 
+
+In 2011 the site was [re-registered](http://crappistmartin.github.io/images/LandRegistry_TribecaSquare.pdf) to yet another shell company __DV4 Eadon Ltd__ this time registered in the British Virgin Islands. 
 
 ## Affordable retail units sold to Sainsburys
 The planning conditions in Delancey's 2008 final [s106 agreement](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!kx6tQZNPCJomdoeiotHphA%3d%3d!%7d%7d%7d) made provision for [a number of affordable retail units](http://www.london-se1.co.uk/news/view/2298) for traders displaced from the shopping centre[^5], which was one of its justifications for not providing any affordable housing[^6].
@@ -59,7 +62,7 @@ The planning conditions in Delancey's 2008 final [s106 agreement](http://planbui
 ![](http://crappistmartin.github.io/images/tribeca_affordablebusinessunits.png)
 *Designated affordable retail units hatched in blue - (section 106 agreement)*
 
-In July 2013, Delancey [went back](http://planbuild.southwark.gov.uk/documents/?casereference=13/AP/2302&system=DC) to the council and [applied](http://planbuild.southwark.gov.uk:8190/online-applications/simpleSearchResults.do;jsessionid=EBCBBF9DAD6717E5F000A1CB21F842D6?action=firstPage) to have the s106 agreement changed to take these units away from the displaced traders and give them to Sainsburys instead. Southwark duly obliged and the entire ground floor is now a Sainsburys.
+But in July 2013, Delancey [went back](http://planbuild.southwark.gov.uk/documents/?casereference=13/AP/2302&system=DC) to the council and [applied](http://planbuild.southwark.gov.uk:8190/online-applications/simpleSearchResults.do;jsessionid=EBCBBF9DAD6717E5F000A1CB21F842D6?action=firstPage) to have the s106 agreement changed to take these units away from the displaced traders and give them to Sainsburys instead. Southwark duly obliged and the entire ground floor is now a Sainsburys.
 
 ![](/img/delanceysainsburys.jpg)
 
@@ -76,20 +79,20 @@ In 2008, Southwark Council closed the Park and [sold the land](http://35percent.
 ![](http://35percent.org/img/castlesquarerent.png)
 *Extract from market square [legal agreement](http://35percent.org/img/DelanceyEadon_MarketSquare_Agreement.pdf) between Delancey & the Council*
 
-However, in 2016 Delancey [submitted](http://planbuild.southwark.gov.uk:8190/online-applications/applicationDetails.do?activeTab=summary&keyVal=_STHWR_DCAPR_9566927) a ['Management Strategy'](/img/delanceymanagementplan.pdf) to the Council that largely removed the market from the market square (presumably losing Southwark its share of the rent in the process). Delancey claimed there would be _"limited viability for a market or demand for an operator"_ and said that it is currently _"coordinating a strategy for this space along with Lend Lease that could envisage a wider enlivenment and events programme"_.
+However, in 2016 Delancey [submitted](http://planbuild.southwark.gov.uk:8190/online-applications/applicationDetails.do?activeTab=summary&keyVal=_STHWR_DCAPR_9566927) a ['Management Strategy'](/img/delanceymanagementplan.pdf) to the Council that largely removed the market from the market square (presumably losing Southwark its share of the rent in the process). Delancey claimed there would be _"limited viability for a market or demand for an operator"_ and said that it is currently _"coordinating a strategy for this space along with Lend Lease that could envisage a wider enlivenment and events programme"_, which _"could include an element of market type operations but not exclusively so"_. 
 
-![](/img/marketsquareviability.jpg)
+![](/img/marketsquarestrategy.png)
 *Extract from Delancey's [application](http://planbuild.southwark.gov.uk:8190/online-applications/applicationDetails.do?activeTab=summary&keyVal=_STHWR_DCAPR_9566927) to vary market square s106 conditions*
 
 
 ## Delancey's bargain basement
-The other obligation that went with the peppercorn lease was the basement servicing area with its access to the new shopping centre. The estimated £12.5m cost of building this, justified not only the removal of affordable housing but it also relieved Delancey of a £6.2m S106 contribution to local transport infrastructure, calculated according to Southwark's Strategic Transport Tariff[^7]. 
+The other obligation that went with the peppercorn lease was the basement servicing area with its access to the new shopping centre, plus storage and access for market traders. The estimated £12.5m cost of building this, justified not only the removal of affordable housing but it also relieved Delancey of a £6.2m S106 contribution to [local transport upgrades](http://35percent.org/2014-08-12-mind-the-gap/), calculated according to Southwark's Strategic Transport Tariff[^7]. 
 
 ![](/img/servicetunnel.jpg)
-*Entrance to the servicing basement on the Old Kent Road*
+*Entrance to __One the Elephant's__ servicing basement on the Old Kent Road*
 
 ## Where we are now
-During the course of __Elephant One__'s development, Delancey itself acquired the shopping centre and in its [planning application ](http://35percent.org/2016-12-19-delancey-submits-shopping-centre-application/) states that it no longer wants servicing access from the basement under the Market Square. Instead it wants a different access route directly off the New Kent Road.
+During the course of __Elephant One__'s development, Delancey itself acquired the shopping centre and in its [planning application](http://35percent.org/shopping-centre) states that it no longer wants servicing access from the basement under the Market Square. Instead it wants a different access route directly off the New Kent Road.
 
 ![](/img/shoppingcentreaccess.png)
 
@@ -106,7 +109,17 @@ If anyone is wondering how Delancey manages to get away with all this, the answe
 The development is a joint venture between [Isle-of-Man registered](https://opencorporates.com/companies/im/004035V), [tax dodging developer](https://www.theguardian.com/uk/2012/dec/16/london-property-tax-avoidance-offshore) Oakmayne and __Delancey DV4__ - a multimillion pound real-estate developer registered in the British Virgin Islands, which has been [accussed](http://crappistmartin.github.io/images/PrivateEyeNo1311.pdf) of 'aggressive tax avoidance by the HMRC. Delancey is bankrolled by George Soros and managed by [Tory donor](http://www.independent.co.uk/news/uk/politics/party-funding-tory-coffers-benefit-from-fear-of-labour-mansion-tax-9716614.html) Jamie Ritblatt, son of property tycoon John Ritblat (__British Land Plc__). Delancey is also developing the neighbouring [shopping centre site](/shopping-centre) and is [using a network of offshore SPVs and holding companies](http://35percent.org/2014-05-05-manx-connections-the-off-shore-home-of-the-elephants-developers/) to avoid paying tax on its multi-million pound redevelopment of the Elephant. For developing __Elephant One__, Delancey has used a [limited partnership company (LLP) controlled by shell companies](https://beta.companieshouse.gov.uk/company/OC389454/officers) registered in the British Virgin Islands and Panama. [Filing records at Companies House](https://beta.companieshouse.gov.uk/company/OC389454/filing-history) show that the partnership company hasn't paid a penny in corporation tax. Delancey also uses a separate company __Get Living London__ to manage its PRS (Private Rented Sector) build-to-rent homes. Despite [managing over £1bn worth of PRS homes](http://www.propertyweek.com/news/get-living-to-double-assets-to-%C2%A32bn/5088136.article) __Get Living London__ has [never paid a penny of corporation tax](https://beta.companieshouse.gov.uk/company/07793925/filing-history).
 
 ## Conclusion
-There are lots of things to object in Delancey's planning application for the shopping centre as we have previously pointed out. We can now add that Delancey and its behaviour is itself objectionable. It avoids planning obligations; along with Lendlease, it is carving up the whole of the Elephant & Castle with little regard for building anything that doesn't make it money.
+There are lots of things to object in Delancey's planning application for the shopping centre as we have previously pointed out. We can now add that Delancey and its behaviour is itself objectionable. It avoids taxes and planning obligations; along with Lendlease, it is carving up the whole of the Elephant & Castle with little regard for building anything that doesn't make it money.
+
+What can be done? In 2011, Southwark [signed a regeneration agreement](http://moderngov.southwark.gov.uk/documents/s24263/Report%20Elephant%20and%20Castle%20Regeneration%20-%20Shopping%20Centre.pdf) for the redevelopment of the shopping centre.
+
+![](/lbskpiagreement.png)
+
+Southwark should use its leverage as regeneration partner and local planning authority to seek a revised Management Strategy and planning application from Delancey, which reinstates the market square and ensures that its shopping centre plans conform with the original masterplan objectives; basement access; affordable retail for existing traders; 35% affordable housing, 50% of which social rent.
+
+There is no reason why Southwark should not stand firm on its basic planning policy requirements. Southwark should be standing up for the needs of the existing local community, not making concession after concession to dicey offshore developers.
+
+We have launched a campaign to this end, appropriately named __Up the Elephant__ and which will next be meeting on Tues 21 March at the shopping centre - see [www.uptheelephant.com](http://uptheelephant.com) for more details. 
 
 __Footnotes:__
 -----------------------------------------------------------------------------
