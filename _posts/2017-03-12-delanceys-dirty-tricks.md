@@ -112,7 +112,7 @@ The development is a joint venture between [Isle-of-Man registered](https://open
 ## Conclusion
 There are lots of things to object in Delancey's planning application for the shopping centre as we have previously pointed out. We can now add that Delancey and its behaviour is itself objectionable. It avoids taxes and planning obligations; along with Lendlease, it is carving up the whole of the Elephant & Castle with little regard for building anything that doesn't make it money.
 
-What can be done? In 2011, Southwark [signed a regeneration agreement](http://moderngov.southwark.gov.uk/documents/s24263/Report%20Elephant%20and%20Castle%20Regeneration%20-%20Shopping%20Centre.pdf) for the redevelopment of the shopping centre.
+What can be done? In 2011, Southwark [signed a regeneration agreement](http://moderngov.southwark.gov.uk/documents/s24263/Report%20Elephant%20and%20Castle%20Regeneration%20-%20Shopping%20Centre.pdf) with the then owners of the shopping centre for its redevelopment (KPI). When Delancey bought the shopping centre, it bought KPI and thus inherited this agreement.
 
 ![](/img/lbskpiagreement.png)
 
