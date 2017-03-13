@@ -113,7 +113,7 @@ There are lots of things to object in Delancey's [planning application for the s
 
 Southwark should start showing some backbone and stand firm on its basic planning policy requirements. It should be standing up for the needs of the local community, not making concession after concession to dicey offshore developers. It should use its leverage as regeneration partner and local planning authority to seek a revised Management Strategy and planning application from Delancey, which reinstates the market square and ensures that its shopping centre plans conform with the original masterplan objectives: basement access via __Elephant One__; affordable retail for existing traders; 35% affordable housing, 50% of which social rent.
 
-We have launched a campaign to ensure that the shopping centre redevelopment conforms with these objectives. The campaign is named __Up the Elephant__ and will next be meeting on Tues 21 March at the shopping centre - see [www.uptheelephant.com](http://uptheelephant.com) for more details. 
+We have launched a campaign __'Up the Elephant'__ to raise awareness of Delancey's plans and ensure the shopping centre redevelopment conforms with planning policy requirements. The campaign will next be meeting on Tues 21 March at the shopping centre - see [www.uptheelephant.com](http://uptheelephant.com) for more details. 
 
 __Footnotes:__
 -----------------------------------------------------------------------------
