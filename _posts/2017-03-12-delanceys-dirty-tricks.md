@@ -81,7 +81,7 @@ In 2008, Southwark Council closed the Park and [sold the land](http://35percent.
 ![](http://35percent.org/img/castlesquarerent.png)
 *Extract from market square [legal agreement](http://35percent.org/img/DelanceyEadon_MarketSquare_Agreement.pdf) between Delancey & the Council*
 
-The lease also included the transfer of a 2m strip of Heygate estate land running along the east of Delancey's plot and a Council-owned triangle of land on the Elephant Road side.
+The lease also included the [transfer of a 2m strip of Heygate estate land](/img/councillandsoldtodelancey.png) running along the east of Delancey's plot and a Council-owned triangle of land on the Elephant Road side.
 
 However, in 2016 Delancey [submitted](http://planbuild.southwark.gov.uk:8190/online-applications/applicationDetails.do?activeTab=summary&keyVal=_STHWR_DCAPR_9566927) a ['Management Strategy'](/img/delanceymanagementplan.pdf) to the Council that largely removed the market from the market square (presumably losing Southwark its share of the rent in the process). Delancey claimed there would be _"limited viability for a market or demand for an operator"_ and said that it is currently _"coordinating a strategy for this space along with Lend Lease that could envisage a wider enlivenment and events programme"_, which _"could include an element of market type operations but not exclusively so"_. 
 

@@ -59,7 +59,9 @@ Delancey's application is just another step down the gentrification road. The sh
 
 Southwark claims that as a private developer it can't influence Delancey's plans, but we point out that in 2011 Southwark [signed](http://moderngov.southwark.gov.uk/documents/s24263/Report%20Elephant%20and%20Castle%20Regeneration%20-%20Shopping%20Centre.pdf){:target="_blank"} a development agreement with the then then shopping centre owners, which Delancey inherited when it purchased the site.
 
-![](/img/lbskpiagreement.png) 
+![](/img/lbskpiagreement.png)
+
+Southwark also has a land interest in the site; it owns the pavement and public realm surrounding the shopping centre, which it has signed over to Delancey to enable the redevelopment.  
 
 ## History
 The Elephant & Castle shopping centre used to be owned by Godfrey Bradman, the property tycoon who redeveloped the City of London's [Broadgate estate](http://en.wikipedia.org/wiki/Broadgate){:target="_blank"} in the 1980s.
