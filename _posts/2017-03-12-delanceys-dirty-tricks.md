@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Delancey's dirty tricks"
-subtitle: "Market square disappears"
+subtitle: "Market Square earmarked for displaced shopping centre traders disappears"
 published: true
 ---
 Delancey's [application](http://35percent.org/shopping-centre) for the redevelopment of the Elephant & Castle shopping centre includes images of the Market Square, which is part of its neighbouring development __Elephant One__, also owned and built by Delancey.
@@ -11,7 +11,7 @@ Delancey's [application](http://35percent.org/shopping-centre) for the redevelop
 
 Eagled-eyed campaigners from [Southwark Notes](http://southwarknotes.wordpress.com) noticed that the CGI images of the Market Square omitted the market stalls that had been [earmarked for displaced shopping centre traders](http://www.london-se1.co.uk/news/view/2298) and [asked the question](https://twitter.com/SouthwarkNotes/status/837818379180322820) why? Local news website SE1 supplied the [answer](https://twitter.com/se1/status/837951356963028992): it turns out that when Delancey [submitted](http://planbuild.southwark.gov.uk:8190/online-applications/applicationDetails.do?activeTab=summary&keyVal=_STHWR_DCAPR_9566927) its Market Square ['Management Strategy'](http://35percent.org/img/marketsquaremanagementplan.pdf) for approval last June, it changed its use.
 
-Delancey's justified the change by claiming that there is _"limited viability for a market or demand for an operator"_ and is instead _"coordinating a strategy for this space along with Lend Lease that could envisage a wider enlivenment and events programme"_, which _"could include an element of market type operations but not exclusively so"_.(paragraph 1.4.1 of Delancey's [Management Strategy](http://35percent.org/img/marketsquaremanagementplan.pdf))
+Delancey's justified the change by claiming that there is _"limited viability for a market or demand for an operator"_ and that it is instead _"coordinating a strategy for this space along with Lend Lease that could envisage a wider enlivenment and events programme"_, which _"could include an element of market type operations but not exclusively so"_. (Paragraph 1.4.1 of Delancey's [Management Strategy](http://35percent.org/img/marketsquaremanagementplan.pdf))
 
 Southwark could have rejected the management strategy but instead approved it by officer's decision, without any public consultation. 
 
@@ -46,7 +46,9 @@ __Eadon Ltd__ then submitted a [fresh planning application in 2007](http://www.l
 ![](http://35percent.org/img/tribeca2007or.jpg)
 *Extract from 2007 [planning committee report](http://moderngov.southwark.gov.uk/Data/Planning%20Committee/20071218/Agenda/Item%2064Report%20Former%20Castle%20Industrial%20Estate,%20Elephant%20Road,%20London,SE17.pdf)*
 
-A year later in December 2008, a further application was [approved](http://www.london-se1.co.uk/news/view/3641), increasing the number of residential units and removing the affordable housing obligation altogether. The [planning officer's report](http://crappistmartin.github.io/images/Tribeca_OfficersReport.pdf) for the application confirmed that the developer had submitted a viability assessment and that the Council accepted that _"it is not possible to show that the value from the additional 61 private residential units produces any additional value from which the scheme could support either on site affordable housing or an in lieu payment"_. Instead of affordable housing an in-lieu payment was agreed, amounting to just £1m[^2] and justified by the 'exceptional cost' to the developer of providing the market square and the basement access area - estimated to cost £12.5m. (see paragraphs 101-105). Delancey should normally have paid £52.7m under [Southwark's tariff](http://affordable.heroku.com/images/affordablehousingspg.pdf) for commuted affordable housing payments[^1].
+A year later in December 2008, a further application was [approved](http://www.london-se1.co.uk/news/view/3641), increasing the number of residential units and removing the affordable housing obligation altogether. The [planning officer's report](http://crappistmartin.github.io/images/Tribeca_OfficersReport.pdf) for the application confirmed that the developer had submitted a viability assessment and that the Council accepted that _"it is not possible to show that the value from the additional 61 private residential units produces any additional value from which the scheme could support either on site affordable housing or an in lieu payment"_.
+
+Instead of affordable housing an in-lieu payment was agreed, amounting to just £1m[^2] and justified by the 'exceptional cost' to the developer of providing the market square and the basement access area - estimated to cost £12.5m. (see paragraphs 101-105). Delancey should normally have paid £52.7m under [Southwark's tariff](http://affordable.heroku.com/images/affordablehousingspg.pdf) for commuted affordable housing payments[^1].
 
 ![](http://35percent.org/img/tribecaoriginal.png)
 *Original CGI of the development [submitted to planning committee](http://moderngov.southwark.gov.uk/Data/Planning%20Committee/20071218/Agenda/Item%2064Image%20B%20Former%20Castle%20Industrial%20Estate,%20Elephant%20Road,%20London,SE17.pdf)* 
@@ -72,8 +74,9 @@ But in July 2013, Delancey [went back](http://planbuild.southwark.gov.uk/documen
 The new Market Square that Delancey was obliged to build is on the site formerly known as Elephant Park and part of the Heygate estate's green space. It was designated as [Metropolitan Open Land (MOL)](https://en.wikipedia.org/wiki/Metropolitan_Open_Land) and used frequently by the local [Latin American football league](http://elephantamenity.wordpress.com/2011/02/28/no-more-football-on-the-elephant-park/), amongst others.
 
 ![](http://35percent.org/img/oldelephantpark.jpg)
+*Elephant Park - Metropolitan Open Space on the Heygate estate*
 
-In 2008, Southwark Council closed the Park and [sold the land](http://35percent.org/img/DelanceyEadon_MarketSquare_Agreement.pdf) to Delancey on a 99 year lease at a peppercorn rent of £100 per year. The deal was that Southwark would receive 50% of the net revenue from the new market (25% for the first five years). The basement area with its connection to the new shopping centre would be built under the Market Square. 
+In 2008, Southwark Council closed the Park and [sold the land](http://35percent.org/img/DelanceyEadon_MarketSquare_Agreement.pdf) to Delancey on a 99 year lease at a peppercorn rent of £100 per year. The deal was that Southwark would receive 50% of the net revenue from the new market (25% for the first five years). The basement area with its connection to the new shopping centre would be built underneath the Market Square. 
 
 ![](http://35percent.org/img/castlesquarerent.png)
 *Extract from market square [legal agreement](http://35percent.org/img/DelanceyEadon_MarketSquare_Agreement.pdf) between Delancey & the Council*
@@ -88,7 +91,7 @@ However, in 2016 Delancey [submitted](http://planbuild.southwark.gov.uk:8190/onl
 The other obligation that went with the peppercorn lease was the basement servicing area with its access to the new shopping centre, plus storage and access for market traders. The estimated £12.5m cost of building this, justified not only the removal of affordable housing but it also relieved Delancey of a £6.2m S106 contribution to [local transport upgrades](http://35percent.org/2014-08-12-mind-the-gap/), calculated according to Southwark's Strategic Transport Tariff[^7]. 
 
 ![](http://35percent.org/img/servicetunnel.jpg)
-*Entrance to __One the Elephant's__ elephantine servicing basement on the Old Kent Road*
+*Entrance to __Elephant One's__ servicing basement off New Kent Road*
 
 ## Where we are now
 During the course of __Elephant One__'s development, Delancey itself acquired the shopping centre and in its [planning application](http://35percent.org/shopping-centre) states that it no longer wants servicing access from the basement under the Market Square. Instead it wants a different access route directly off the New Kent Road.
@@ -113,7 +116,7 @@ There are lots of things to object in Delancey's [planning application for the s
 
 Southwark should start showing some backbone and stand firm on its basic planning policy requirements. It should be standing up for the needs of the local community, not making concession after concession to dicey offshore developers. It should use its leverage as regeneration partner and local planning authority to seek a revised Management Strategy and planning application from Delancey, which reinstates the market square and ensures that its shopping centre plans conform with the original masterplan objectives: basement access via __Elephant One__; affordable retail for existing traders; 35% affordable housing, 50% of which social rent.
 
-We have launched a campaign __'Up the Elephant'__ to raise awareness of Delancey's plans and ensure the shopping centre redevelopment conforms with planning policy requirements. The campaign will next be meeting on Tues 21 March at the shopping centre - see [www.uptheelephant.com](http://uptheelephant.com) for more details. 
+We have launched a campaign __'Up the Elephant'__ to raise awareness of Delancey's plans and ensure the shopping centre redevelopment conforms with planning policy requirements. The campaign will next meet on Tues 21 March at the shopping centre - all are welcome (see [www.uptheelephant.com](http://uptheelephant.com) for more details). 
 
 __Footnotes:__
 -----------------------------------------------------------------------------
