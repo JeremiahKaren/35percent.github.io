@@ -97,7 +97,7 @@ TFL also raises the issue of the mainline train station, for which - whilst havi
 ![](/img/transporthub.png)
 *Transport interchange envisaged by [original masterplan](https://www.scribd.com/doc/198503633/EandC-RegenMk1SLRplans){:target="_blank"}*
 
-Together with the shopping centre traders association, we have launched a dedicated campaign group [www.uptheelephant.com](http://www.uptheelephant.com) to tell Southwark that Delancey's plans are not acceptable. We are holding our next public meeting on 21st March 2017 to discuss how to proceed. The meeting is being held in the unit above the Tesco supermarket on the first floor of the shopping centre - it is open to all. Here you can view our [presentation slides](http://35percent.org/shoppingcentre_presentation.html){:target="_blank"} from the last meeting.
+Together with the shopping centre traders association, we have launched a dedicated campaign group [www.uptheelephant.com](http://www.uptheelephant.com) to tell Southwark that Delancey's plans are not acceptable. We are holding our next public [meeting on 21st March 2017](/img/march21flyer.pdf) to discuss how to proceed. The meeting is being held in the unit above the Tesco supermarket on the first floor of the shopping centre - it is open to all. Here you can view our [presentation slides](http://35percent.org/shoppingcentre_presentation.html){:target="_blank"} from the last meeting.
 
 ## Object Now!
 <form id="form5" action="http://commentform.herokuapp.com/" method="post">
