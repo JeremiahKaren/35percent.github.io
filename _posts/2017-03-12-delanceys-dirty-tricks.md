@@ -28,7 +28,7 @@ This is the sorry story of __Elephant One__ so far.
 
 __Elephant One__ was the first major development to be granted planning permission at the Elephant, back in 2006. It was originally to be called __Oakmayne Plaza__, but was subsequently renamed __Tribeca Square__ and then finally named __Elephant One__ after [protests from residents and the Council](http://www.london-se1.co.uk/news/view/7373). It is not to be confused with Lendlease's similarly named and similarly shameful [__One the Elephant__](http://35percent.org/one-the-elephant) development. 
 
-__Elephant One__ is a mixed-use development including a cinema, shops, new Market Square, 270 student rooms and 370 private residences for market rent with no affordable housing of any kind.  Rooms in the student block are currently being advertised for upwards of [£289 per week](https://www.casitaa.com/accommodation/81-portchester-house-london-uk) (for a room). 
+__Elephant One__ is a mixed-use development including a cinema, shops, new Market Square, 272 student rooms and 374 private residences for market rent with no affordable housing of any kind. It is not know how much Delancey's PRS firm [__Get Living London__](http://getlivinglondon.com) will charge for market rents, but rooms in [Portchester House](/img/portchester-house-guide.pdf), its first student accomodation venture, are currently being advertised for upwards of [£279 per week](http://www.portchesterhouse.com/) (for a room). 
 
 ![](https://pbs.twimg.com/media/CBXYmc6XIAAHGsy.jpg)
 
