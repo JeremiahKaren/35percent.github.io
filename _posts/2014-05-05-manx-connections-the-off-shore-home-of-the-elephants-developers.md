@@ -10,9 +10,23 @@ categories: [Shopping centre]
 
 Developer Delancey has registered its land holdings at the Elephant & Castle to tax havens in Bermuda, Panama and the British Virgin Islands. 
 
+![](/img/shoppingcentrelr.png)
+*Land Registry deeds for the Elephant & Castle shopping centre*
+
 Delancey has registered both the [shopping centre](/shopping-centre) site and the [Tribeca Square](/tribeca-square) site in the British Virgin Islands. This is confirmed by the Land Registry deeds, which can be viewed [here](http://crappistmartin.github.io/images/LRDeeds_ShoppingCentre.pdf) and [here](http://crappistmartin.github.io/images/LandRegistry_TribecaSquare.pdf). It has financed the purchases using one of its venture capital funds 'Delancey DV4', whose offshore tax avoidance schemes are [well reported](http://crappistmartin.github.io/images/PrivateEyeNo1311.pdf) and have been accused by HMRC of 'aggressive tax avoidance. The developer is [bankrolled by George Soros](http://www.thisismoney.co.uk/money/news/article-1583098/Soros-offers-a-helping-hand-to-Ritblat-junior.html), the notorious speculator who brought the country to its knees during [black wednesday](https://en.wikipedia.org/wiki/Black_Wednesday) in 1992.
 
-Delancey uses separate companies to own and separate companies to develop its sites. In the case of [Elephant One](/tribeca-square) it has used a [limited partnership company (LLP) controlled by shell companies](https://beta.companieshouse.gov.uk/company/OC389454/officers) registered in the British Virgin Islands and Panama. [Filing records at Companies House](https://beta.companieshouse.gov.uk/company/OC389454/filing-history) show that the partnership company hasn't paid a penny of corporation tax. Delancey also uses a separate company __Get Living London__ to manage its PRS (Private Rented Sector) build-to-rent homes. Despite [managing over £1bn worth of PRS homes](http://www.propertyweek.com/news/get-living-to-double-assets-to-%C2%A32bn/5088136.article) __Get Living London__ has [never paid a penny of corporation tax](https://beta.companieshouse.gov.uk/company/07793925/filing-history).
+Delancey uses separate companies to own and separate companies to develop its sites. In the case of [Elephant One](/tribeca-square) it has used a [limited partnership company (LLP) controlled by parent companies](https://beta.companieshouse.gov.uk/company/OC389454/officers) registered in the British Virgin Islands and Panama. [Filing records at Companies House](https://beta.companieshouse.gov.uk/company/OC389454/filing-history) show that the partnership company hasn't paid a penny of corporation tax.
+
+![](/img/kintyrecorp.png)
+*Companies House register shows Delancey parent company 'Kintrye Corp' registered in Panama*
+
+__Kintrye Corp__ is also named in the 'Panama Papers' scandal, which exposed how some of the world’s most powerful people may have used offshore bank accounts and shell companies to conceal their wealth or avoid taxes.
+
+![](/img/kintryepanama.png)
+*Kintyre corp named in the 'Panama Papers' scandal*
+
+## Get living London!
+Delancey also uses a separate company __Get Living London__ to manage its PRS (Private Rented Sector) build-to-rent homes. Despite [managing over £1bn worth of PRS homes](http://www.propertyweek.com/news/get-living-to-double-assets-to-%C2%A32bn/5088136.article) __Get Living London__ has [never paid a penny of corporation tax](https://beta.companieshouse.gov.uk/company/07793925/filing-history).
 
 Delancey's founder and CEO is Jamie Ritblat, son of property tycoon John Ritblat (British Land), which the Council has selected as its development partner for its [Canada Water regeneration](http://35percent.org/canada-water/#british-land-masterplan-site). The father and son team are long-standing Tory donors who are among the top 100 donors to the party. 
 
