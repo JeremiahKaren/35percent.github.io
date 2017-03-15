@@ -38,10 +38,10 @@ Southwark later accidentally published the confidential [viability assessment](h
 In 2011 the site was [re-registered](http://crappistmartin.github.io/images/LandRegistry_TribecaSquare.pdf) to yet another shell company __DV4 Eadon Ltd__ this time registered in the British Virgin Islands. 
 
 ## Affordable retail units sold to Sainsburys
-The planning conditions in Delancey's 2008 final [s106 agreement](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!kx6tQZNPCJomdoeiotHphA%3d%3d!%7d%7d%7d) made provision for [a number of affordable retail units](http://www.london-se1.co.uk/news/view/2298) for traders displaced from the shopping centre[^5], which was one of its justifications for not providing any affordable housing[^6].
+The planning conditions in Delancey's 2008 final [s106 agreement](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!yzWhLCC2jRbP5NWsu4IkfQ%3d%3d!%7d%7d%7d) made provision for [a number of affordable retail units](http://www.london-se1.co.uk/news/view/2298) for traders displaced from the shopping centre[^5], which was one of its justifications for not providing any affordable housing[^6].
 
 ![](http://crappistmartin.github.io/images/tribeca_affordablebusinessunits.png)
-*Designated affordable retail units hatched in blue - (section 106 agreement)*
+*Designated affordable retail units hatched in blue - ([section 106 agreement](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!yzWhLCC2jRbP5NWsu4IkfQ%3d%3d!%7d%7d%7d))*
 
 But in July 2013, Delancey [went back](http://planbuild.southwark.gov.uk/documents/?casereference=13/AP/2302&system=DC) to the council and [applied](http://planbuild.southwark.gov.uk:8190/online-applications/simpleSearchResults.do;jsessionid=EBCBBF9DAD6717E5F000A1CB21F842D6?action=firstPage) to have the s106 agreement changed to take these units away from the displaced traders and give them to Sainsburys instead. Southwark duly obliged and the ground floor units earmarked for displaced traders are now a supermarket.
 
