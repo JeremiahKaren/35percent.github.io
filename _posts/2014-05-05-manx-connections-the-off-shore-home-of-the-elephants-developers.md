@@ -22,7 +22,7 @@ Delancey uses separate companies to own and separate companies to develop its si
 
 __Kintrye Corp__ is also named in the 'Panama Papers' scandal, which exposed how some of the world’s most powerful people may have used offshore bank accounts and shell companies to conceal their wealth or avoid taxes.
 
-![](/img/kintryepanama.png)
+![](/img/kintyrepanama.png)
 *Kintyre corp named in the 'Panama Papers' scandal*
 
 ## Get living London!
