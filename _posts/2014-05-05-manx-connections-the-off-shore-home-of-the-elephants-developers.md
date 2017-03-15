@@ -55,5 +55,7 @@ And why is Sadiq Khan's Housing Spokesperson using a picture of Delancey's __Get
 
 ![](/img/tomcopleygetliving.png)
 
+Tom Copley's [response](http://tomcopley.com/response-mayors-draft-affordable-housing-viability-supplementary-planning-guidance/) to the Mayor's new Affordable Housing SPG lobbied for using a new term 'London Social Rent' to replace London Affordable Rent.
 
-
+![](/img/londonsocialrent.png)
+*Extract from Tom Copley's [response](http://tomcopley.com/response-mayors-draft-affordable-housing-viability-supplementary-planning-guidance/) to the SPG*
