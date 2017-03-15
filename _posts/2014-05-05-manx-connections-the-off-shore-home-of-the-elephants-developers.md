@@ -51,7 +51,9 @@ Lendlease subsequently [sold the completed Olympic Village to Delancey](http://w
 
 So the question is this: why is Southwark Council bending over backwards to make planning policy concessions and exercise CPO powers for developers that don't pay tax - and siphon all profit not just out of the Elephant, but out of the country? 
 
+And why is Sadiq Khan's Housing Spokesperson using a picture of Delancey's __Get Living London__ Athlete's village complex on his Twitter profile?
 
+![](/img/tomcopleygetliving.png)
 
 
 
