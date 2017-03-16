@@ -51,27 +51,4 @@ Lendlease subsequently [sold the completed Olympic Village to Delancey](http://w
 
 So the question is this: why is Southwark Council bending over backwards to make planning policy concessions and exercise CPO powers for developers that don't pay tax - and siphon all profit not just out of the Elephant, but out of the country? 
 
-And why is Sadiq Khan's Housing Spokesperson using a picture of Delancey's __Get Living London__ Athlete's village complex on his Twitter profile?
-
-![](/img/tomcopleygetliving.png)
-
-Tom Copley's [response](http://tomcopley.com/response-mayors-draft-affordable-housing-viability-supplementary-planning-guidance/) to the Mayor's new Affordable Housing SPG lobbied for using a new term 'London Social Rent' to replace London Affordable Rent.
-
-![](/img/londonsocialrent.png)
-*Extract from Tom Copley's [response](http://tomcopley.com/response-mayors-draft-affordable-housing-viability-supplementary-planning-guidance/) to the SPG*
-
-Tom described the new product by [saying](https://twitter.com/tomcopley/status/842031557284118528)
-_"London Affordable Rent AR is tied to capped social rents. It is effectively social rent."_
-
-We pointed out that the Mayor's [policy definition](https://www.london.gov.uk/sites/default/files/homesforlondoners-affordablehomesprogrammefundingguidance.pdf) doesn't say this. What it does say is that the Mayor _"expects most homes let for London Affordable Rent to be substantially below"_ the 80% market rent level. It says that current social rent levels will be the __'Starting point'__ for London Affordable Rent levels but that _"other rent levels will also be considered .. where provider is able to demonstrate to the GLA's satisfaction that the homes would be genuinely affordable."_
-
-![](/img/londonaffordablerent.png)
-*Extract from the Mayor's [policy document](https://www.london.gov.uk/sites/default/files/homesforlondoners-affordablehomesprogrammefundingguidance.pdf)*
-
-
-It also makes it clear that the tenure product is affordable rent and is regulated as such, i.e. subject to rebasing and all the other nasty small print in the Social Housing Regulator's Affordable Rent guidance.
-
-![](/img/homesforlondonerslar.png) 
-
-
 

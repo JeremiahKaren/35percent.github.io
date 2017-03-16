@@ -6,7 +6,9 @@ published: false
 ---
 Last week we [reported](http://35percent.org/2017-03-12-delanceys-dirty-tricks/) on Delancey's __Elephant One__ development at the Elephant and how it had wangled half an acre of public land, while dodging £58m of planning contributions.
 
-This week we show how Delancey uses a network of offshore companies to avoid paying any corporation tax on developing the £200m scheme and how its PRS management firm pays no corporation tax on its £1bn PRS portfolio.
+We also showed previously how Delancey has used a network of offshore companies in Panama and Bermuda to avoid paying any corporation tax on developing the £200m scheme.
+
+This week we show how its PRS management firm that will manage the 650 units in __Elephant One__ and the 979 new units proposed for the [shopping centre](/shopping-centre), pays no corporation tax on its £1bn PRS rental portfolio.
 
 ![](http://35percent.org/img/elephantoneregister.png)
 *Land Registry [deeds](http://crappistmartin.github.io/images/LandRegistry_TribecaSquare.pdf) for __Elephant One__.*
@@ -40,7 +42,7 @@ Lendlease subsequently [sold the completed Olympic Village to Delancey](http://w
 
 So the question is this: why is Southwark Council bending over backwards to make planning policy concessions and exercise CPO powers for developers that don't pay tax - and siphon all profit not just out of the Elephant, but out of the country? 
 
-And why is Sadiq Khan's Housing Spokesperson using a picture of Delancey's __Get Living London__ Athlete's village complex on his Twitter profile?
+One can see why the govt is so keen on PRS given that one of its top Tory donors is the Ritblat family. What is more difficult to understand is why Sadiq Khan is so keen on it. His Housing Spokesperson using a picture of Delancey's __Get Living London__ Athlete's village complex on his Twitter profile?
 
 ![](/img/tomcopleygetliving.png)
 
