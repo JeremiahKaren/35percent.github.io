@@ -6,7 +6,7 @@ comments: true
 categories: [Shopping centre] 
 ---
 ![](/img/Jamie-Ritblat-Cllr-Dora-Dixon-Fyle.jpg)
-*Delancey's Jamie Ritblat Celebrating the start of development at the Elephant with Southwark's Mayor.*
+*Delancey's Jamie Ritblat Celebrating topping out of [__Elephant One__](/tribeca-square) with Southwark's Mayor.*
 
 Developer Delancey has registered its land holdings at the Elephant & Castle to tax havens in Bermuda, Panama and the British Virgin Islands. 
 

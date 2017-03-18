@@ -16,16 +16,15 @@ We have also [shown previously]() how, having bought the land for just £8m, Del
 
 This week we show how __Get Living London__, its PRS firm that will manage __Elephant One__'s 646 Private Rented Sector units and the 979 new units proposed above the new [shopping centre](/shopping-centre), pays no corporation tax - despite [managing a £1bn PRS rental portfolio](http://www.propertyweek.com/news/get-living-to-double-assets-to-%C2%A32bn/5088136.article).
 
-[Accounts filed at Companies House](https://beta.companieshouse.gov.uk/company/07793925/filing-history) show that __Get Living London__ has never paid a penny of corporation tax. They also show that another Delancey company __DV4 Administration Ltd__registered in the British Virgin Islands is the ultimate parent company for tax purposes. 
+[Accounts filed at Companies House](https://beta.companieshouse.gov.uk/company/07793925/filing-history) show that __Get Living London__ has never paid a penny of corporation tax. They also show that another Delancey company __DV4__ registered in the British Virgin Islands is the ultimate parent company for tax purposes. 
 
-
-![](screenshot of DV4 Admin listing at Companies House)
+![](/img/getlivingbvi.png)
 
 DV4 [featured in Private Eye](http://crappistmartin.github.io/images/PrivateEyeNo1311.pdf) after it was accused of 'aggressive tax avoidance' by HMRC. 
 
 Delancey [bought the completed Olympic Village](http://www.stratfordlondon.info/news/olympic-village-sold-qatari-diar-delancey-consortium) (after it received £275m in govt subsidies). It has been letting the development's xxx PRS properties via [Get Living London](http://www.delancey.com/GeLiving_London_Launch_PR.pdf) since 201X, with rents starting at £385 per week for a 1-bedroom flat. 
 
-With tax-free profits to be squeezed out of London's burgeoning private rental sector, Build-to-Rent is currently in vogue with London's developers and with Delancey's Ritblat family [among the top 100 Tory donors] it's no wonder the government has allocated £xxbn to the sector. 
+With tax-free profits to be squeezed out of London's burgeoning private rental sector, Build-to-Rent is currently in vogue with London's developers and with Delancey's Ritblat family [among the top 100 Tory donors] it's no wonder the government has allocated a staggering £3.5bn in grant funding to the sector. 
 
 What is more difficult to understand is why Sadiq Khan is so keen on it. His Housing Spokesperson uses a picture of Delancey's __Get Living London__ Athlete's village complex on his Twitter profile?
 
