@@ -8,7 +8,8 @@ The company that will be managing all the new housing in the [shopping centre](s
 
 __Get Living London__ is a residential owner and rental management company and is part of shopping centre developer Delancy's great family of offshore companies.  It already manages the 646 dwellings in Delancey's development Elephant One [__Elephant One__](tribeca-square), just next to the shopping centre and all the housing on both sites will be marketed as 'South Village'. Elephant One also includes 274 student rooms, which are being let at rents from  £279pw ('Classic') to £349PW ('Supreme'). 
 
-None of the 979 new housing units proposed for the shopping centre development will will be for sale. They will be all be for rent, including 35% affordable housing, at up to 80% market rent and they will all be owned and managed by __Get Living London__.
+None of the 979 new housing units proposed for the shopping centre development  will be for sale. They will be all be for rent, owned and managed by __Get Living London__
+including the 35% affordable housing, which will be at up to 80% market rent.
 
 __Get Living London__ also manages just over 1400 rented apartments at ['East Village'](http://eastvillagelondon.co.uk), formerly the Olympic Village, with another 2000 in the pipeline. 
 
