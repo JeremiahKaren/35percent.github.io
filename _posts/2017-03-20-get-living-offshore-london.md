@@ -27,12 +27,16 @@ BtR is also giving us a new kind of affordable housing; Discounted Market Rent (
 
 It is therefore surprising or maybe not, that Discounted Market Rent is viewed as the housing solution for the future by [Southwark Council](http://www.insidehousing.co.uk/southwark-council-to-create-intermediate-waiting-list/7018529.article), Labour Mayor [Sadiq Khan](https://www.lettingagenttoday.co.uk/breaking-news/2016/10/sadiq-khan-backs-build-to-rent-and-more-landlord-licensing), Deputy Mayor [James Murray](https://twitter.com/nlalondon/status/842315679948771328), GLA Housing Chief [Tom Copley](https://twitter.com/tomcopley).  
 
-Sadiq Khan is so enthusiastic he has given DMR some space and help to grow by halving the amount of social rented housing he wants from developers in his [draft affordable housing planning guidance](https://www.london.gov.uk/sites/default/files/draft_affordable_housing_and_viability_spg_2016.pdf)[^2]. Delancey  has taken full advantage of Mr Khan's largesse and there will be no social rented housing in its redevelopment of the shopping centre. If Delancey's planning application is approved it will join the [360 Tower](http://35percent.org/london-360-tower/) another BtR develoment,just over the way at St Mary's Park, another BtR development, built on land bought with £18m of public money, but also social housing free.  
+Sadiq Khan is so enthusiastic for DMR he has given it space and help to grow, by halving the amount of social rented housing he wants from developers in his [draft affordable housing planning guidance](https://www.london.gov.uk/sites/default/files/draft_affordable_housing_and_viability_spg_2016.pdf)[^2].  
+
+Delancey  has taken full advantage of Mr Khan's largesse and there will be no social rented housing in its redevelopment of the shopping centre. If Delancey's planning application is approved it will join the [360 Tower](http://35percent.org/london-360-tower/) another BtR develoment,just over the way at St Mary's Park, another BtR development, built on land bought with £18m of public money, but also social housing free.  
 
 ![](/img/getliving.png)
 *Labour GLA Housing chief Tom Copley at __Get Living London__'s "East Village"*
 
-We understand that the Mayor and his Labour Party colleagues are motivated by pragmatism. But while Build to Rent is supposedly a market-based solution to the housing crisis, drawing on institutional investment, it also depends upon a large amount of public money - [£3.5bn, probably rising to £6.6bn](http://www.ukconstructionmedia.co.uk/news/3-5bn-funding-announced-build-new-rented-homes/), while social rented housing is starved of funds.  We think that the Mayor should stop championing Build to Rent and start fighting to build social rented housing. 
+We understand that the Mayor and his Labour Party colleagues are motivated by pragmatism. But while Build to Rent is supposedly a market-based solution to the housing crisis, drawing on institutional investment, it also depends upon a large amount of public money - [£3.5bn, probably rising to £6.6bn](http://www.ukconstructionmedia.co.uk/news/3-5bn-funding-announced-build-new-rented-homes/), while social rented housing is starved of funds.  We think that the Mayor should stop championing Build to Rent and start fighting to build social rented housing.
+
+We also think we can put help stop the roll-out of Discounted Market Rent, a new kind of affordable housing designed to meet developer's needs first and our housing needs second by objecting to Delancy'e planning application to the shoppimhg centre - you can do so here.
 
 __Footnotes:__
 
