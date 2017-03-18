@@ -75,5 +75,5 @@ There is consent for a créche - maybe this will now be a gym?
 S106 agreement says that the affordable retail units will be offered to traders 'not later than 15 months prior to estimated completion'. There are four affordable retail units on very good discounts for 5 years. Also one restaurant.
 
 
-
-[^1]: This figure comprises the £52m Delancey should have paid according to Southwark's tariff for calculating payments in lieu of affordable housing, plus the £6m Delancey should have paid towards local transport infrastructure according to its E&C Strategic Transport Tariff.
+__Footnotes:__
+[^1]: This figure comprises the £52m Delancey should have paid according to Southwark's tariff for calculating payments in lieu of affordable housing, plus the £6m Delancey should have paid towards local transport infrastructure according to its E&C Strategic Transport Tariff. See [here](35percent.org/2017-03-12-delanceys-dirty-tricks) for more details.
