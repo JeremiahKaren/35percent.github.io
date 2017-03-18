@@ -1,12 +1,18 @@
 ---
 layout: post
-title: Get living London - get lost HMRC
+title: Get Living London - get lost HMRC
 subtitle: Delancey's PRS....
 published: false
 ---
 Our last blog [reported](http://35percent.org/2017-03-12-delanceys-dirty-tricks/) how Delancey  has shown great efficiency in the [__Elephant One__ development](/tribeca-square).  It bought the land for £8m, flipped it between companies, increasing the value to £18m and used this cost, amongst others, to avoid paying £58m of planning contributions, including affordable housing contributions [^1].  Along the way it gained the almost free use of half an acre of public land, which it was to provide as a market square, but has now disappeared.
 
+![](/img/getliving.png)
+*Labour GLA Housing chief Tom Copley at __Get Living London__'s "East Village"*
+
 We have also [shown previously](http://35percent.org/2014-05-05-manx-connections-the-off-shore-home-of-the-elephants-developers/) how, having bought the land for just £8m, Delancey has used a network of offshore companies registered in Panama and Bermuda to avoid paying corporation tax on developing the £200m scheme.
+
+![](http://35percent.org/img/elephantoneregister.png)
+*Land Registry [deeds](http://crappistmartin.github.io/images/LandRegistry_TribecaSquare.pdf) for __Elephant One__.*
 
 Delancey are being equally efficient in the management of the housing it proposes to build in the redevelopment of the Elephant & Castle [shopping centre](shopping-centre).  It will be using __Get Living London__ a residential owner and rental management company founded by itself and Qatari Diar.  __Get Living London__ is owned by an off-shore parent company and has not paid any corporation tax since it was incorporated in 2011.  The company will own and manage all the new housing in the [shopping centre](shopping-centre), including the affordable housing. 
 
@@ -18,14 +24,23 @@ Despite this huge rental portfolio, [valued at £1bn](http://www.propertyweek.co
 
 ![](/img/getlivingbvi.png)
 
+With all this tax-free profit oozing out of London's burgeoning private rental sector, Build-to-Rent as it is know, is currently in vogue with London's developers. These are 100% rental developments with no homes for sale, backed up by large institutional investors and owned and managed by one landlord. It also provides a new kind of affordable housing; Discounted Market Rent (DMR). This is in every respect inferior to every other kind of affordable housing, being more expensive, less secure and remaining 'affordable' for a relatively short period of time. 
+
+It will be let at up to 80% on max. 3 year tenancies and might only remain 'affordable' for 15 years before passing onto the free market. This is compared to social rents, with rents largely based on local income and at an equivalent of about 25% market in Southwark, with lifetime tenancies and remaining affordable in perpetuity. It is therefore surprising or maybe not, that Discounted Market Rent is the housing solution of the future by Labour Mayor [Sadiq Khan](https://www.lettingagenttoday.co.uk/breaking-news/2016/10/sadiq-khan-backs-build-to-rent-and-more-landlord-licensing), Deputy Mayor [James Murray](https://twitter.com/nlalondon/status/842315679948771328), GLA Housing Chief [Tom Copley](https://twitter.com/tomcopley), [Southwark Council](http://www.insidehousing.co.uk/southwark-council-to-create-intermediate-waiting-list/7018529.article).
+
+For a supposedly market-based solution, Build-to-Rent depends upon a surprisingly large amount of public money. 
+
+Delancey's Ritblat family [among the top 100 Tory donors] it's no wonder the government has allocated a staggering £3.5bn in grant funding to the sector.
+
+
+
 
 
 [__Elephant One__ development](/tribeca-square) at the Elephant and how they had wangled half an acre of public land, while dodging £58m of planning contributions.
 
 
 
-![](http://35percent.org/img/elephantoneregister.png)
-*Land Registry [deeds](http://crappistmartin.github.io/images/LandRegistry_TribecaSquare.pdf) for __Elephant One__.*
+
 
 This week we show how __Get Living London__, its PRS firm that will manage __Elephant One__'s 646 Private Rented Sector units and the 979 new units proposed above the new [shopping centre](/shopping-centre), pays no corporation tax - .
 
@@ -33,7 +48,7 @@ This week we show how __Get Living London__, its PRS firm that will manage __Ele
 
 Delancey [bought the completed Olympic Village](http://www.stratfordlondon.info/news/olympic-village-sold-qatari-diar-delancey-consortium) (after it received £275m in govt subsidies). It has been letting the development's xxx PRS properties via [Get Living London](http://www.delancey.com/GeLiving_London_Launch_PR.pdf) since 201X, with rents starting at £385 per week for a 1-bedroom flat. 
 
-With tax-free profits to be squeezed out of London's burgeoning private rental sector, Build-to-Rent is currently in vogue with London's developers and with Delancey's Ritblat family [among the top 100 Tory donors] it's no wonder the government has allocated a staggering £3.5bn in grant funding to the sector. 
+ 
 
 What is more difficult to understand is why Sadiq Khan is so keen on it. His Housing Spokesperson uses a picture of Delancey's __Get Living London__ Athlete's village complex on his Twitter profile?
 
