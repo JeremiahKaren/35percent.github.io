@@ -29,7 +29,7 @@ It is therefore surprising, or maybe not, that Discounted Market Rent is viewed 
 
 Sadiq Khan is so enthusiastic for DMR he has given it space and help to grow, by halving the amount of social rented housing he wants from developers in his [draft affordable housing planning guidance](https://www.london.gov.uk/sites/default/files/draft_affordable_housing_and_viability_spg_2016.pdf)[^2].  
 
-Delancey  has taken full advantage of Mr Khan's largesse and proposed no social rented housing in its redevelopment of the shopping centre and, if approved, the new scheme will join the [360 Tower](http://35percent.org/london-360-tower/), just over the way at St Mary's Park - another BtR development, built on land bought with £18m of public money, but also social housing free.  
+Delancey  has taken full advantage of Mr Khan's largesse and proposed no social rented housing in its redevelopment of the shopping centre and, if approved, the new scheme will join another BtR development, the [360 Tower](http://35percent.org/london-360-tower/), just over the way at St Mary's Park and built on land bought with £18m of public money, but also social housing free.  
 
 ![](/img/getliving.png)
 *Labour GLA Housing chief Tom Copley at __Get Living London__'s "East Village"*
