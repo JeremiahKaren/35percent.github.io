@@ -4,12 +4,13 @@ title: Get living London - get lost HMRC
 subtitle: Delancey's PRS....
 published: false
 ---
-The company that will be managing all the new housing in the [shopping centre](shopping-centre) redevelopment is owned by an off-shore parent company and has not paid any corporation tax since it was incorporated in 2011.
+Our last blog [reported](http://35percent.org/2017-03-12-delanceys-dirty-tricks/) how Delancey's  has shown great efficiency in the development of the site of [__Elephant One__ development](/tribeca-square).  It bought the land for £8m, flipped it between companies, increasing the value to £18m and used this cost, amongst others, to avoid paying £58m of planning contributions, including affordable housing contributions [^1].  Along the way it gained the almost free use of half an arce of public land, which was to be a market square, that has now disappeared.
 
-__Get Living London__ is a residential owner and rental management company founded by Qatari Diar and shopping centre Delancey.  It already manages the 646 dwellings in Delancey's development Elephant One [__Elephant One__](tribeca-square), just next to the shopping centre and all the housing on both sites will be marketed as 'South Village'. Elephant One also includes 274 student rooms, which are being let at rents from  £279pw ('Classic') to £349PW ('Supreme'). 
+We have also [shown previously](http://35percent.org/2014-05-05-manx-connections-the-off-shore-home-of-the-elephants-developers/)how, having bought the land for just £8m, Delancey has used a network of offshore companies registered in Panama and Bermuda to avoid paying corporation tax on developing the £200m scheme.
 
-None of the 979 new housing units proposed for the shopping centre development  will be for sale. They will be all be for rent, owned and managed by __Get Living London__
-including the 35% affordable housing, which will be at up to 80% market rent.
+Delancey are being equally efficient in the management of the housing it proposes to build in the redevelopment of the Elephant & Castle [shopping centre](shopping-centre).  It will be using __Get Living London__ a residential owner and rental management company founded by Qatari Diar and Delancey.  __Get Living London__ is owned by an off-shore parent company and has not paid any corporation tax since it was incorporated in 2011.  The company will own and manage all the new housing in the [shopping centre](shopping-centre), including the affordable housing. 
+
+__Get Living London__ already manages the 646 dwellings in Delancey's development Elephant One [__Elephant One__](tribeca-square), just next to the shopping centre and all the housing on both sites will be marketed as 'South Village'. Elephant One also includes 274 student rooms, which are being let at rents from  £279pw ('Classic') to £349PW ('Supreme'). 
 
 __Get Living London__ also manages just over 1400 rented apartments at ['East Village'](http://eastvillagelondon.co.uk), formerly the Olympic Village, with another 2000 in the pipeline. 
 
@@ -17,9 +18,7 @@ Despite this huge rental portfolio, [valued at £1bn](http://www.propertyweek.co
 
 ![](/img/getlivingbvi.png)
 
-Our last blog [reported](http://35percent.org/2017-03-12-delanceys-dirty-tricks/) how Delancey has shown similiar efficiency in the development of the site of [__Elephant One__ development](/tribeca-square).  It bought the land for £8m, flipped it between companies, increasing the value to £18m and used this cost, amongst others, to avoid paying £58m of planning contributions, including affordable housing contributions [^1].  Along the way it gained the almost free use of half an arce of public land, which was to be a market square, that has now disappeared.
 
-We have also [shown previously]() how, having bought the land for just £8m, Delancey has used a network of offshore companies registered in Panama and Bermuda to avoid paying corporation tax on developing the £200m scheme.
 
 [__Elephant One__ development](/tribeca-square) at the Elephant and how they had wangled half an acre of public land, while dodging £58m of planning contributions.
 
