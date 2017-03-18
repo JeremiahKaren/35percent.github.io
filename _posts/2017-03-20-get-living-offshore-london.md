@@ -15,7 +15,7 @@ Delancey is now showing  equal efficiency in the housing it proposes to build on
 
 __Get Living London__ already manages the 646 dwellings in Elephant One [__Elephant One__](tribeca-square), just next to the shopping centre and all the housing on both sites will be marketed as 'South Village'. Elephant One also includes 274 student rooms, which are being let at rents from  £279pw ('Classic') to £349PW ('Supreme'). 
 
-Over in Stratford__Get Living London__ also manages just over 1400 rented apartments at ['East Village'](http://eastvillagelondon.co.uk), formerly the Olympic Village, with further 2000 in the pipeline. 
+Over in Stratford __Get Living London__ also manages just over 1400 rented apartments at ['East Village'](http://eastvillagelondon.co.uk), formerly the Olympic Village, with further 2000 in the pipeline. 
 
 Despite this huge rental portfolio, [valued at £1bn](http://www.propertyweek.com/news/get-living-to-double-assets-to-%C2%A32bn/5088136.article), __Get Living London__ has not paid any corporation tax since it was incorporated in 2011, according to [accounts filed at Companies House](https://beta.companieshouse.gov.uk/company/07793925/filing-history), which also show that the parent company __DV4__ is registered offshore in the British Virgin Islands. DV4 was accused of 'aggressive tax avoidance' by the HMRC, as [reported in Private Eye](http://crappistmartin.github.io/images/PrivateEyeNo1311.pdf).
 
