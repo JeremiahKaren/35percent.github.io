@@ -4,11 +4,13 @@ title: Get living (offshore) London
 subtitle: Delancey's PRS....
 published: false
 ---
-The company that will be letting all the new housing in the redeveloped shopping centre is entirely
+The company that will be managing all the new housing in the [shopping centre](shopping-centre) redevelopment is owned by an off-shore parent company and has not paid any corporation tax since it was incorporated in 2011.
 
-All the 979 new housing units proposed for the [shopping centre](shopping-centre) development will be rented will be rented, none will be for sale. They will be managed by __Get Living London__, part of the great Delancey family of offshore companies. __Get Living London__ also manages the 646 dwellings next door at [__Elephant One__](tribeca-square). All the housing units will be marketed as 'South Village'. There will also be 274 student accommodation units, which are being let at prices ranging from £279 per week ('Classic') to £349 per week ('Supreme'). 
+__Get Living London__ is a residential owner and rental management company and is part of shopping centre developer Delancy's great family of offshore companies.  It already manages the 646 dwellings in Delancey's development Elephant One [__Elephant One__](tribeca-square), just next to the shopping centre and all the housing on both sites will be marketed as 'South Village'. Elephant One also includes 274 student rooms, which are being let at rents from  £279pw ('Classic') to £349PW ('Supreme'). 
 
-In Stratford, __Get Living London__ manages just over 1400 rented apartments at ['East Village'](http://eastvillagelondon.co.uk), formerly the Olympic Village, with another 2000 in the pipeline. 
+None of the 979 new housing units proposed for the shopping centre development will will be for sale. They will be all be for rent, including 35% affordable housing, at up to 80% market rent and they will all be owned and managed by __Get Living London__.
+
+__Get Living London__ also manages just over 1400 rented apartments at ['East Village'](http://eastvillagelondon.co.uk), formerly the Olympic Village, with another 2000 in the pipeline. 
 
 Despite this huge rental portfolio, [valued at £1bn](http://www.propertyweek.com/news/get-living-to-double-assets-to-%C2%A32bn/5088136.article), __Get Living London__ has not paid any corporation tax since it was incorporated in 2011, according to [accounts filed at Companies House](https://beta.companieshouse.gov.uk/company/07793925/filing-history), which also show that the parent company __DV4__ is registered offshore in the British Virgin Islands. DV4 was accused of 'aggressive tax avoidance' by the HMRC, as [reported in Private Eye](http://crappistmartin.github.io/images/PrivateEyeNo1311.pdf).
 
