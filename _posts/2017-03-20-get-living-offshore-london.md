@@ -6,9 +6,6 @@ published: false
 ---
 Our last blog [reported](http://35percent.org/2017-03-12-delanceys-dirty-tricks/) how Delancey  has shown great efficiency in its [__Elephant One__ development](/tribeca-square). Delancey bought the land for £8m, flipped it between companies, increasing the value to £18m and used this cost, amongst others, to avoid paying £58m of planning contributions, including affordable housing contributions [^1].  Along the way it gained the almost free use of another half an acre of public land, which it was to provide as a market square, but has now disappeared.
 
-![](/img/getliving.png)
-*Labour GLA Housing chief Tom Copley at __Get Living London__'s "East Village"*
-
 We have also [shown previously](http://35percent.org/2014-05-05-manx-connections-the-off-shore-home-of-the-elephants-developers/) how, having bought the Elephant One land for just £8m, Delancey has used a network of offshore companies registered in Panama and Bermuda to avoid paying corporation tax on developing the £200m scheme.
 
 ![](http://35percent.org/img/elephantoneregister.png)
@@ -27,6 +24,9 @@ Despite this huge rental portfolio, [valued at £1bn](http://www.propertyweek.co
 With all this tax-free profit oozing out of London's burgeoning private rental sector, Build-to-Rent as it is know, is currently in vogue with London's developers. These are 100% rental developments with no homes for sale, backed up by large institutional investors and owned and managed by one landlord. It also provides a new kind of affordable housing; Discounted Market Rent (DMR). This is in every respect inferior to every other kind of affordable housing, being more expensive, less secure and remaining 'affordable' for a relatively short period of time. 
 
 It will be let at up to 80% on max. 3 year tenancies and might only remain 'affordable' for 15 years before passing onto the free market. This is compared to social rents, with rents largely based on local income and at an equivalent of about 25% market in Southwark, with lifetime tenancies and remaining affordable in perpetuity. It is therefore surprising or maybe not, that Discounted Market Rent is the housing solution of the future by Labour Mayor [Sadiq Khan](https://www.lettingagenttoday.co.uk/breaking-news/2016/10/sadiq-khan-backs-build-to-rent-and-more-landlord-licensing), Deputy Mayor [James Murray](https://twitter.com/nlalondon/status/842315679948771328), GLA Housing Chief [Tom Copley](https://twitter.com/tomcopley), [Southwark Council](http://www.insidehousing.co.uk/southwark-council-to-create-intermediate-waiting-list/7018529.article).
+
+![](/img/getliving.png)
+*Labour GLA Housing chief Tom Copley at __Get Living London__'s "East Village"*
 
 For a supposedly market-based solution, Build-to-Rent depends upon a surprisingly large amount of public money. 
 
