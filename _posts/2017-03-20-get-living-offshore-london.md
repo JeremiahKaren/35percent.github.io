@@ -28,7 +28,7 @@ It is therefore surprising or maybe not, that Discounted Market Rent is viewed a
 ![](/img/getliving.png)
 *Labour GLA Housing chief Tom Copley at __Get Living London__'s "East Village"*
 
-For a supposedly market-based solution, Build-to-Rent also depends upon a surprisingly large amount of public money - £3.5bn in grant funding to the sector.
+For a supposedly market-based solution, Build-to-Rent also depends upon a surprisingly large amount of public money - [£3.5bn in grant funding](http://www.ukconstructionmedia.co.uk/news/3-5bn-funding-announced-build-new-rented-homes/) to the sector.
 
 
 
