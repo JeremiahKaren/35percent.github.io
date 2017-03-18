@@ -9,7 +9,7 @@ Our last blog [reported](http://35percent.org/2017-03-12-delanceys-dirty-tricks/
 ![](/img/getliving.png)
 *Labour GLA Housing chief Tom Copley at __Get Living London__'s "East Village"*
 
-We have also [shown previously](http://35percent.org/2014-05-05-manx-connections-the-off-shore-home-of-the-elephants-developers/) how, having bought the land for just £8m, Delancey has used a network of offshore companies registered in Panama and Bermuda to avoid paying corporation tax on developing the £200m scheme.
+We have also [shown previously](http://35percent.org/2014-05-05-manx-connections-the-off-shore-home-of-the-elephants-developers/) how, having bought the Elephant One land for just £8m, Delancey has used a network of offshore companies registered in Panama and Bermuda to avoid paying corporation tax on developing the £200m scheme.
 
 ![](http://35percent.org/img/elephantoneregister.png)
 *Land Registry [deeds](http://crappistmartin.github.io/images/LandRegistry_TribecaSquare.pdf) for __Elephant One__.*
