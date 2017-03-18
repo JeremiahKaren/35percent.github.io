@@ -1,26 +1,34 @@
 ---
 layout: post
-title: "Get living (offshore) London"
-subtitle: "Delancey's PRS...."
+title: Get living (offshore) London
+subtitle: Delancey's PRS....
 published: false
 ---
-Last week we [reported](http://35percent.org/2017-03-12-delanceys-dirty-tricks/) on Delancey's [__Elephant One__ development](/tribeca-square) at the Elephant and how they had wangled half an acre of public land, while dodging £58m of planning contributions.
+The manager of the 979 housing units proposed for the [shopping centre] redevelopment will be __Get Living London__, part of the great Delancey family of offshore companies. __Get Living London__ also manages the 646 dwellings next door at [__Elephant One__](tribeca-square). This includes 274 student accommodation units, which will be let at prices ranging from £279 per week ('Classic') to £349 per week ('Supreme').
 
-![](/img/Jamie-Ritblat-Cllr-Dora-Dixon-Fyle.jpg)
-*Delancey's Jamie Ritblat Celebrating the topping out of __Elephant One__ with Southwark's Mayor.*
+As well as the rented student accommodation, all __Elephant One__'s new homes will be for rent too. There is no affordable housing of any kind. The proposed housing units for the shopping centre will also be rented only, none will be for sale. Delancey promises 35% affordable housing with rents up to 80% market rent and no social rented, all of this to be managed by __Get Living London__. 
+
+[Accounts filed at Companies House](https://beta.companieshouse.gov.uk/company/07793925/filing-history) show that __Get Living London__ has never paid a penny of corporation tax since it was incorporated in 2011, despite managing a £1bn - despite [managing a £1bn PRS rental portfolio](http://www.propertyweek.com/news/get-living-to-double-assets-to-%C2%A32bn/5088136.article). They also show that another Delancey company __DV4__ registered in the British Virgin Islands is the ultimate parent company for tax purposes. 
+
+![](/img/getlivingbvi.png)
+
+DV4 [featured in Private Eye](http://crappistmartin.github.io/images/PrivateEyeNo1311.pdf) after it was accused of 'aggressive tax avoidance' by HMRC. 
+
+
+
+
+
+
+Last week we [reported](http://35percent.org/2017-03-12-delanceys-dirty-tricks/) on Delancey's [__Elephant One__ development](/tribeca-square) at the Elephant and how they had wangled half an acre of public land, while dodging £58m of planning contributions.
 
 We have also [shown previously]() how, having bought the land for just £8m, Delancey has used a network of offshore companies registered in Panama and Bermuda to avoid paying corporation tax on developing the £200m scheme.
 
 ![](http://35percent.org/img/elephantoneregister.png)
 *Land Registry [deeds](http://crappistmartin.github.io/images/LandRegistry_TribecaSquare.pdf) for __Elephant One__.*
 
-This week we show how __Get Living London__, its PRS firm that will manage __Elephant One__'s 646 Private Rented Sector units and the 979 new units proposed above the new [shopping centre](/shopping-centre), pays no corporation tax - despite [managing a £1bn PRS rental portfolio](http://www.propertyweek.com/news/get-living-to-double-assets-to-%C2%A32bn/5088136.article).
+This week we show how __Get Living London__, its PRS firm that will manage __Elephant One__'s 646 Private Rented Sector units and the 979 new units proposed above the new [shopping centre](/shopping-centre), pays no corporation tax - .
 
-[Accounts filed at Companies House](https://beta.companieshouse.gov.uk/company/07793925/filing-history) show that __Get Living London__ has never paid a penny of corporation tax. They also show that another Delancey company __DV4__ registered in the British Virgin Islands is the ultimate parent company for tax purposes. 
 
-![](/img/getlivingbvi.png)
-
-DV4 [featured in Private Eye](http://crappistmartin.github.io/images/PrivateEyeNo1311.pdf) after it was accused of 'aggressive tax avoidance' by HMRC. 
 
 Delancey [bought the completed Olympic Village](http://www.stratfordlondon.info/news/olympic-village-sold-qatari-diar-delancey-consortium) (after it received £275m in govt subsidies). It has been letting the development's xxx PRS properties via [Get Living London](http://www.delancey.com/GeLiving_London_Launch_PR.pdf) since 201X, with rents starting at £385 per week for a 1-bedroom flat. 
 
