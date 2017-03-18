@@ -17,11 +17,13 @@ Despite this huge rental portfolio, [valued at £1bn](http://www.propertyweek.co
 
 ![](/img/getlivingbvi.png)
 
-Last week we [reported](http://35percent.org/2017-03-12-delanceys-dirty-tricks/) how Delancey acquired half an acre of public land and avoided paying £58m of planning contributions[^1].
+Our last blog [reported](http://35percent.org/2017-03-12-delanceys-dirty-tricks/) how Delancey has shown similiar efficiency in the development of the site of [__Elephant One__ development](/tribeca-square).  It bought the land for £8m, flipped it between companies, increasing the value to £18m and used this cost, amongst others, to avoid paying £58m of planning contributions, including affordable housing contributions [^1].  Along the way it gained the almost free use of half an arce of public land, which was to be a market square, that has now disappeared.
+
+We have also [shown previously]() how, having bought the land for just £8m, Delancey has used a network of offshore companies registered in Panama and Bermuda to avoid paying corporation tax on developing the £200m scheme.
 
 [__Elephant One__ development](/tribeca-square) at the Elephant and how they had wangled half an acre of public land, while dodging £58m of planning contributions.
 
-We have also [shown previously]() how, having bought the land for just £8m, Delancey has used a network of offshore companies registered in Panama and Bermuda to avoid paying corporation tax on developing the £200m scheme.
+
 
 ![](http://35percent.org/img/elephantoneregister.png)
 *Land Registry [deeds](http://crappistmartin.github.io/images/LandRegistry_TribecaSquare.pdf) for __Elephant One__.*
