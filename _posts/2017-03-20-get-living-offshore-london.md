@@ -4,45 +4,30 @@ title: "Get living (offshore) London"
 subtitle: "Delancey's PRS...."
 published: false
 ---
-Last week we [reported](http://35percent.org/2017-03-12-delanceys-dirty-tricks/) on Delancey's __Elephant One__ development at the Elephant and how it had wangled half an acre of public land, while dodging £58m of planning contributions.
+Last week we [reported](http://35percent.org/2017-03-12-delanceys-dirty-tricks/) on Delancey's [__Elephant One__ development](/tribeca-square) at the Elephant and how they had wangled half an acre of public land, while dodging £58m of planning contributions.
 
-We also showed previously how Delancey has used a network of offshore companies in Panama and Bermuda to avoid paying any corporation tax on developing the £200m scheme.
+![](/img/Jamie-Ritblat-Cllr-Dora-Dixon-Fyle.jpg)
+*Delancey's Jamie Ritblat Celebrating the topping out of __Elephant One__ with Southwark's Mayor.*
 
-This week we show how its PRS management firm that will manage the 650 units in __Elephant One__ and the 979 new units proposed for the [shopping centre](/shopping-centre), pays no corporation tax on its £1bn PRS rental portfolio.
+We have also [shown previously]() how, having bought the land for just £8m, Delancey has used a network of offshore companies registered in Panama and Bermuda to avoid paying corporation tax on developing the £200m scheme.
 
 ![](http://35percent.org/img/elephantoneregister.png)
 *Land Registry [deeds](http://crappistmartin.github.io/images/LandRegistry_TribecaSquare.pdf) for __Elephant One__.*
 
-Delancey uses separate companies to own and separate companies to develop its sites. __Elephant One__ is owned by a Delancey shell company registered in the British Virgin Islands.
+This week we show how __Get Living London__, its PRS firm that will manage __Elephant One__'s 646 Private Rented Sector units and the 979 new units proposed above the new [shopping centre](/shopping-centre), pays no corporation tax - despite [managing a £1bn PRS rental portfolio](http://www.propertyweek.com/news/get-living-to-double-assets-to-%C2%A32bn/5088136.article).
 
-![](/img/Jamie-Ritblat-Cllr-Dora-Dixon-Fyle.jpg)
-*Delancey's Jamie Ritblat Celebrating the start of development at the Elephant with Southwark's Mayor.*
+[Accounts filed at Companies House](https://beta.companieshouse.gov.uk/company/07793925/filing-history) show that __Get Living London__ has never paid a penny of corporation tax. They also show that another Delancey company __DV4 Administration Ltd__registered in the British Virgin Islands is the ultimate parent company for tax purposes. 
 
-It has used a [limited partnership company (LLP) controlled by parent companies](https://beta.companieshouse.gov.uk/company/OC389454/officers) registered in the British Virgin Islands and Panama. [Filing records at Companies House](https://beta.companieshouse.gov.uk/company/OC389454/filing-history) show that the partnership company hasn't paid a penny of corporation tax. One of the partnerships' ultimate shareholders is listed as 'Kintyre Corp' - registered in Panama.
 
-![](/img/kintyrecorp.png)
-*Companies House register shows Delancey parent company 'Kintrye Corp' registered in Panama*
+![](screenshot of DV4 Admin listing at Companies House)
 
-__Kintrye Corp__ is also named in the 'Panama Papers' scandal, which exposed how some of the world’s most powerful people may have used offshore bank accounts and shell companies to conceal their wealth or avoid taxes.
+DV4 [featured in Private Eye](http://crappistmartin.github.io/images/PrivateEyeNo1311.pdf) after it was accused of 'aggressive tax avoidance' by HMRC. 
 
-![](/img/kintyrepanama.png)
-*Kintyre Corp named in the 'Panama Papers' scandal*
+Delancey [bought the completed Olympic Village](http://www.stratfordlondon.info/news/olympic-village-sold-qatari-diar-delancey-consortium) (after it received £275m in govt subsidies). It has been letting the development's xxx PRS properties via [Get Living London](http://www.delancey.com/GeLiving_London_Launch_PR.pdf) since 201X, with rents starting at £385 per week for a 1-bedroom flat. 
 
-## Get living London!
-Delancey also uses a separate company __Get Living London__ to manage its PRS (Private Rented Sector) build-to-rent homes. Despite [managing over £1bn worth of PRS homes](http://www.propertyweek.com/news/get-living-to-double-assets-to-%C2%A32bn/5088136.article) __Get Living London__ has [never paid a penny of corporation tax](https://beta.companieshouse.gov.uk/company/07793925/filing-history).
+With tax-free profits to be squeezed out of London's burgeoning private rental sector, Build-to-Rent is currently in vogue with London's developers and with Delancey's Ritblat family [among the top 100 Tory donors] it's no wonder the government has allocated £xxbn to the sector. 
 
-Delancey's founder and CEO is Jamie Ritblat, son of property tycoon John Ritblat (British Land), which the Council has selected as its development partner for its [Canada Water regeneration](http://35percent.org/canada-water/#british-land-masterplan-site). The father and son team are long-standing Tory donors who are among the top 100 donors to the party.
-
-![](/img/jamieandjohnritblat.jpg)
-*Jamie Ritblat (left) - John Ritblat (right)*
-
-Lendlease has no inhibitions about profiting from public assets though. As well as the Heygate and ['One the Elephant'](http://www.35percent.org/2014-01-11-flogging-the-elephant) developments - both on public land - it was Lend Lease's development arm which [bought](http://www.independent.co.uk/news/business/analysis-and-features/millennium-dome-the-white-elephant-that-learnt-to-fly-8157301.html) the Millenium dome plus 150 acres of Greenwich Peninsula for the princely sum of just £1. It [built the Olympic Village](http://www.thelondonmagazine.co.uk/property-experts/expert-opinions/the-olympic-village.html) with the help of hundreds of millions in public funding, and has used more former public land for a [£1.3bn scheme](http://phx.corporate-ir.net/phoenix.zhtml?c=186950&p=RssLanding&cat=news&id=1888917) at Stratford.  
-
-Lendlease subsequently [sold the completed Olympic Village to Delancey](http://www.stratfordlondon.info/news/olympic-village-sold-qatari-diar-delancey-consortium), which has been managing it via a subsidiary company called [Get Living London](http://www.delancey.com/GeLiving_London_Launch_PR.pdf), which has also never paid a penny in corporation tax. 
-
-So the question is this: why is Southwark Council bending over backwards to make planning policy concessions and exercise CPO powers for developers that don't pay tax - and siphon all profit not just out of the Elephant, but out of the country? 
-
-One can see why the govt is so keen on PRS given that one of its top Tory donors is the Ritblat family. What is more difficult to understand is why Sadiq Khan is so keen on it. His Housing Spokesperson using a picture of Delancey's __Get Living London__ Athlete's village complex on his Twitter profile?
+What is more difficult to understand is why Sadiq Khan is so keen on it. His Housing Spokesperson uses a picture of Delancey's __Get Living London__ Athlete's village complex on his Twitter profile?
 
 ![](/img/tomcopleygetliving.png)
 
