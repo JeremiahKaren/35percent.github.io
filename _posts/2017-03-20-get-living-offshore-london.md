@@ -4,6 +4,8 @@ title: Get living (offshore) London
 subtitle: Delancey's PRS....
 published: false
 ---
+The company that will be letting all the new housing in the redeveloped shopping centre is entirely
+
 All the 979 new housing units proposed for the [shopping centre](shopping-centre) development will be rented will be rented, none will be for sale. They will be managed by __Get Living London__, part of the great Delancey family of offshore companies. __Get Living London__ also manages the 646 dwellings next door at [__Elephant One__](tribeca-square). All the housing units will be marketed as 'South Village'. There will also be 274 student accommodation units, which are being let at prices ranging from £279 per week ('Classic') to £349 per week ('Supreme'). 
 
 In Stratford, __Get Living London__ manages just over 1400 rented apartments at ['East Village'](http://eastvillagelondon.co.uk), formerly the Olympic Village, with another 2000 in the pipeline. 
