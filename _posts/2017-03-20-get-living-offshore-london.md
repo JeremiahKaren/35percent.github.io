@@ -21,16 +21,14 @@ Despite this huge rental portfolio, [valued at £1bn](http://www.propertyweek.co
 
 ![](/img/getlivingbvi.png)
 
-With all this tax-free profit to be squeezed out of London's burgeoning private rental sector, Build-to-Rent, as it is known, is currently in vogue with London's developers. These are 100% rental developments with no homes for sale, backed up by large institutional investors and owned and managed by one landlord. It also provides a new kind of affordable housing; Discounted Market Rent (DMR). This is in every respect inferior to every other kind of affordable housing, being more expensive, less secure and remaining 'affordable' for a relatively short period of time. 
+With all this tax-free profit to be squeezed out of London's burgeoning private rental sector, Build-to-Rent (BtR) as it is known, is currently in vogue with London's developers. BtR developments are 100% rental, with no homes for sale, backed up by large institutional investors and owned and managed by one landlord. BtR is also giving us a new kind of affordable housing; Discounted Market Rent (DMR). Discounted Market Rent is similiar to the much derided affordable rent. It can also be let at up to 80% on a minimum 3 year tenancies and might only remain 'affordable' for 15 years before passing onto the free market. This is compared to social rents, with rents largely based on local income and at an equivalent of about 25% market in Southwark, with lifetime tenancies and remaining affordable in perpetuity. 
 
-It will be let at up to 80% on max. 3 year tenancies and might only remain 'affordable' for 15 years before passing onto the free market. This is compared to social rents, with rents largely based on local income and at an equivalent of about 25% market in Southwark, with lifetime tenancies and remaining affordable in perpetuity. It is therefore surprising or maybe not, that Discounted Market Rent is the housing solution of the future by Labour Mayor [Sadiq Khan](https://www.lettingagenttoday.co.uk/breaking-news/2016/10/sadiq-khan-backs-build-to-rent-and-more-landlord-licensing), Deputy Mayor [James Murray](https://twitter.com/nlalondon/status/842315679948771328), GLA Housing Chief [Tom Copley](https://twitter.com/tomcopley), [Southwark Council](http://www.insidehousing.co.uk/southwark-council-to-create-intermediate-waiting-list/7018529.article).
+It is therefore surprising or maybe not, that Discounted Market Rent is viewed as the housing solution for the future by [Southwark Council](http://www.insidehousing.co.uk/southwark-council-to-create-intermediate-waiting-list/7018529.article), Labour Mayor [Sadiq Khan](https://www.lettingagenttoday.co.uk/breaking-news/2016/10/sadiq-khan-backs-build-to-rent-and-more-landlord-licensing), Deputy Mayor [James Murray](https://twitter.com/nlalondon/status/842315679948771328), GLA Housing Chief [Tom Copley](https://twitter.com/tomcopley).  Sadiq Khan is so enthusiastic he has given DMR some space and help to grow by halving the amount of social rented housing he wants from developers in his [draft affordable housing planning guidance](https://www.london.gov.uk/sites/default/files/draft_affordable_housing_and_viability_spg_2016.pdf)[^2].
 
 ![](/img/getliving.png)
 *Labour GLA Housing chief Tom Copley at __Get Living London__'s "East Village"*
 
-For a supposedly market-based solution, Build-to-Rent depends upon a surprisingly large amount of public money. 
-
-Delancey's Ritblat family [among the top 100 Tory donors] it's no wonder the government has allocated a staggering £3.5bn in grant funding to the sector.
+For a supposedly market-based solution, Build-to-Rent also depends upon a surprisingly large amount of public money - £3.5bn in grant funding to the sector.
 
 
 
@@ -98,3 +96,5 @@ S106 agreement says that the affordable retail units will be offered to traders 
 
 __Footnotes:__
 [^1]: This figure comprises the £52m Delancey should have paid according to Southwark's tariff for calculating payments in lieu of affordable housing, plus the £6m Delancey should have paid towards local transport infrastructure according to its E&C Strategic Transport Tariff. See [here](35percent.org/2017-03-12-delanceys-dirty-tricks) for more details.
+
+[^2]:  Para 2.28
