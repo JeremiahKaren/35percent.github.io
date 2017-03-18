@@ -28,7 +28,10 @@ It is therefore surprising or maybe not, that Discounted Market Rent is viewed a
 ![](/img/getliving.png)
 *Labour GLA Housing chief Tom Copley at __Get Living London__'s "East Village"*
 
-We understand that the Mayor and his Labour Party colleagues are motivated by pragmatism - they are building what they can get money for and they can get money for BtR, with some  Discounted Market Rent, when they can't get money to build social rent.  But for a supposedly market-based solution, drawing funds from big investors,  depends upon a large amount of public money - [£3.5bn, probably rising to £6.6bn](http://www.ukconstructionmedia.co.uk/news/3-5bn-funding-announced-build-new-rented-homes/).  We think that this is money that would be better spent on social rented housing and that it was the Mayor shouldb fighting for.
+We understand that the Mayor and his Labour Party colleagues are motivated by pragmatism. But while Build to Rent is supposedly a market-based solution to the housing crisis, drawing on institutional investment, it also depends upon a large amount of public money - [£3.5bn, probably rising to £6.6bn](http://www.ukconstructionmedia.co.uk/news/3-5bn-funding-announced-build-new-rented-homes/), while social rented housing is starved of funds.  We think that the Mayor should stop championing Build to Rent and start fighting to build social rented housing. 
+
+
+can get money for BtR, with some  Discounted Market Rent, hen they can't get money to build social rent.  But for a supposedly market-based solution, drawing funds from big investors,(http://www.ukconstructionmedia.co.uk/news/3-5bn-funding-announced-build-new-rented-homes/).  We think that this is money that would be better spent on social rented housing and that it was the Mayor shouldb fighting for.
 
 
 
