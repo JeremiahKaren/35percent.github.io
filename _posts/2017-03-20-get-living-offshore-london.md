@@ -14,7 +14,7 @@ We have also [shown previously](http://35percent.org/2014-05-05-manx-connections
 ![](http://35percent.org/img/elephantoneregister.png)
 *Land Registry [deeds](http://crappistmartin.github.io/images/LandRegistry_TribecaSquare.pdf) for __Elephant One__.*
 
-Delancey now wants to redevelop Elephant & Castle [shopping centre](shopping-centre), and is showing  equal efficiency in the management of the housing it proposes to build there. It will be using __Get Living London__ a residential owner and rental management company founded by itself and Qatari Diar.  __Get Living London's__ parent company is registered of-shore and it has not paid any corporation tax since being incorporated in 2011.  It will own and manage all the 979 new housing units  in the [shopping centre](shopping-centre), including the affordable housing. 
+Delancey now wants to redevelop the Elephant & Castle [shopping centre](shopping-centre), and is showing  equal efficiency in the management of the housing it proposes to build there. It will be using __Get Living London__ a residential owner and rental management company founded by itself and Qatari Diar.  __Get Living London's__ parent company is registered of-shore and it has not paid any corporation tax since being incorporated in 2011.  It will own and manage all the 979 new housing units  in the [shopping centre](shopping-centre), including the affordable housing. 
 
 __Get Living London__ already manages the 646 dwellings in Elephant One [__Elephant One__](tribeca-square), just next to the shopping centre and all the housing on both sites will be marketed as 'South Village'. Elephant One also includes 274 student rooms, which are being let at rents from  £279pw ('Classic') to £349PW ('Supreme'). 
 
