@@ -6,19 +6,15 @@ published: false
 ---
 All the 979 new housing units proposed for the [shopping centre](shopping-centre) development will be rented will be rented, none will be for sale. They will be managed by __Get Living London__, part of the great Delancey family of offshore companies. __Get Living London__ also manages the 646 dwellings next door at [__Elephant One__](tribeca-square). All the housing units will be marketed as 'South Village'. There will also be 274 student accommodation units, which are being let at prices ranging from £279 per week ('Classic') to £349 per week ('Supreme'). 
 
-[Accounts filed at Companies House](https://beta.companieshouse.gov.uk/company/07793925/filing-history) show that __Get Living London__ has not paid a penny of corporation tax since it was incorporated in 2011, despite managing a £1bn - despite [managing a £1bn PRS rental portfolio](http://www.propertyweek.com/news/get-living-to-double-assets-to-%C2%A32bn/5088136.article). They also show that the parent company __DV4__ is registered in the British Virgin Islands. DV4  was accused of 'aggressive tax avoidance' by the HMRC, as [reported in Private Eye](http://crappistmartin.github.io/images/PrivateEyeNo1311.pdf).
+In Stratford, __Get Living London__ manages just over 1400 rented apartments at ['East Village'](http://eastvillagelondon.co.uk), formerly the Olympic Village, with another 2000 in the pipeline. 
+
+Despite this huge rental portfolio, [valued at £1bn](http://www.propertyweek.com/news/get-living-to-double-assets-to-%C2%A32bn/5088136.article), __Get Living London__ has not paid any corporation tax since it was incorporated in 2011, according to [accounts filed at Companies House](https://beta.companieshouse.gov.uk/company/07793925/filing-history), which also show that the parent company __DV4__ is registered offshore in the British Virgin Islands. DV4 was accused of 'aggressive tax avoidance' by the HMRC, as [reported in Private Eye](http://crappistmartin.github.io/images/PrivateEyeNo1311.pdf).
 
 ![](/img/getlivingbvi.png)
 
+Last week we [reported](http://35percent.org/2017-03-12-delanceys-dirty-tricks/) how Delancey acquired half an acre of public land and avoided paying £58m of planning contributions[^1].
 
- 
-
-
-
-
-
-
-Last week we [reported](http://35percent.org/2017-03-12-delanceys-dirty-tricks/) on Delancey's [__Elephant One__ development](/tribeca-square) at the Elephant and how they had wangled half an acre of public land, while dodging £58m of planning contributions.
+[__Elephant One__ development](/tribeca-square) at the Elephant and how they had wangled half an acre of public land, while dodging £58m of planning contributions.
 
 We have also [shown previously]() how, having bought the land for just £8m, Delancey has used a network of offshore companies registered in Panama and Bermuda to avoid paying corporation tax on developing the £200m scheme.
 
@@ -77,3 +73,7 @@ It has been confirmed that there will be a gym, but there is no consent for a gy
 There is consent for a créche - maybe this will now be a gym?
 
 S106 agreement says that the affordable retail units will be offered to traders 'not later than 15 months prior to estimated completion'. There are four affordable retail units on very good discounts for 5 years. Also one restaurant.
+
+
+
+[^1]: This figure comprises the £52m Delancey should have paid according to Southwark's tariff for calculating payments in lieu of affordable housing, plus the £6m Delancey should have paid towards local transport infrastructure according to its E&C Strategic Transport Tariff.
