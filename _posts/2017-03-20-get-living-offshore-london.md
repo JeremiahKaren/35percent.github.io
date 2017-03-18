@@ -10,7 +10,7 @@ We have also [shown previously](http://35percent.org/2014-05-05-manx-connections
 
 Delancey are being equally efficient in the management of the housing it proposes to build in the redevelopment of the Elephant & Castle [shopping centre](shopping-centre).  It will be using __Get Living London__ a residential owner and rental management company founded by itself and Qatari Diar.  __Get Living London__ is owned by an off-shore parent company and has not paid any corporation tax since it was incorporated in 2011.  The company will own and manage all the new housing in the [shopping centre](shopping-centre), including the affordable housing. 
 
-__Get Living London__ already manages the 646 dwellings in Delancey's development Elephant One [__Elephant One__](tribeca-square), just next to the shopping centre and all the housing on both sites will be marketed as 'South Village'. Elephant One also includes 274 student rooms, which are being let at rents from  £279pw ('Classic') to £349PW ('Supreme'). 
+__Get Living London__ already manages the 646 dwellings in Elephant One [__Elephant One__](tribeca-square), just next to the shopping centre and all the housing on both sites will be marketed as 'South Village'. Elephant One also includes 274 student rooms, which are being let at rents from  £279pw ('Classic') to £349PW ('Supreme'). 
 
 __Get Living London__ also manages just over 1400 rented apartments at ['East Village'](http://eastvillagelondon.co.uk), formerly the Olympic Village, with another 2000 in the pipeline. 
 
