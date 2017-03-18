@@ -27,7 +27,7 @@ BtR is also giving us a new kind of affordable housing -  Discounted Market Rent
 
 It is therefore surprising (or maybe not) that Discounted Market Rent is viewed as the housing solution for the future by [Southwark Council](http://www.insidehousing.co.uk/southwark-council-to-create-intermediate-waiting-list/7018529.article), Labour Mayor [Sadiq Khan](https://www.lettingagenttoday.co.uk/breaking-news/2016/10/sadiq-khan-backs-build-to-rent-and-more-landlord-licensing), Deputy Mayor [James Murray](https://twitter.com/nlalondon/status/842315679948771328), GLA Housing Chief [Tom Copley](https://twitter.com/tomcopley).  
 
-Sadiq Khan is so enthusiastic for DMR he has given it space and help to grow, by halving the amount of social rented housing he wants from developers in his [draft affordable housing planning guidance](https://www.london.gov.uk/sites/default/files/draft_affordable_housing_and_viability_spg_2016.pdf)[^2].  
+Sadiq Khan is so enthusiastic for DMR he has given it help and space to grow, by halving the amount of social rented housing he wants from developers in his [draft affordable housing planning guidance](https://www.london.gov.uk/sites/default/files/draft_affordable_housing_and_viability_spg_2016.pdf)[^2].  
 
 Delancey  has taken full advantage of Mr Khan's largesse and proposed no social rented housing in its redevelopment of the shopping centre and, if approved, their scheme will join another BtR development, the [360 Tower](http://35percent.org/london-360-tower/), just over the way at St Mary's Park and built on land bought with £18m of public money, but also social housing free.  
 
