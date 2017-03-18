@@ -4,7 +4,7 @@ title: Get living London - get lost HMRC
 subtitle: Delancey's PRS....
 published: false
 ---
-Our last blog [reported](http://35percent.org/2017-03-12-delanceys-dirty-tricks/) how Delancey  has shown great efficiency in the development of the site of [__Elephant One__ development](/tribeca-square).  It bought the land for £8m, flipped it between companies, increasing the value to £18m and used this cost, amongst others, to avoid paying £58m of planning contributions, including affordable housing contributions [^1].  Along the way it gained the almost free use of half an arce of public land, which was to be a market square, that has now disappeared.
+Our last blog [reported](http://35percent.org/2017-03-12-delanceys-dirty-tricks/) how Delancey  has shown great efficiency in the [__Elephant One__ development](/tribeca-square).  It bought the land for £8m, flipped it between companies, increasing the value to £18m and used this cost, amongst others, to avoid paying £58m of planning contributions, including affordable housing contributions [^1].  Along the way it gained the almost free use of half an arce of public land, which was to be a market square, that has now disappeared.
 
 We have also [shown previously](http://35percent.org/2014-05-05-manx-connections-the-off-shore-home-of-the-elephants-developers/)how, having bought the land for just £8m, Delancey has used a network of offshore companies registered in Panama and Bermuda to avoid paying corporation tax on developing the £200m scheme.
 
