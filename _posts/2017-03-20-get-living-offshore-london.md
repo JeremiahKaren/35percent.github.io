@@ -36,7 +36,7 @@ Delancey  has taken full advantage of Mr Khan's largesse and proposed no social 
 
 We understand that the Mayor and his Labour Party colleagues are motivated by pragmatism. But while Build to Rent is supposedly a market-based solution to the housing crisis, drawing on institutional investment, it also depends upon a large amount of public money - [£3.5bn, probably rising to £6.6bn](http://www.ukconstructionmedia.co.uk/news/3-5bn-funding-announced-build-new-rented-homes/), while social rented housing is starved of funds.  We think that the Mayor should stop championing Build to Rent and start fighting to build social rented housing.
 
-We also think we can put help stop the roll-out of Discounted Market Rent, a new kind of affordable housing designed to meet developer's needs first and our housing needs second by objecting to Delancy'e planning application to the shoppimhg centre - you can do so here.
+Discounted Market Rent is designed to meet developer's needs first and our housing' needs second.  We can help stop its roll out across London and the further maginalisation of social rented housing by defeating Delancey's plans for the Elephant and Castle shopping Centre; you can object to their planning application here.
 
 __Footnotes:__
 
