@@ -6,7 +6,7 @@ published: false
 ---
 The company that will be managing all the new housing in the [shopping centre](shopping-centre) redevelopment is owned by an off-shore parent company and has not paid any corporation tax since it was incorporated in 2011.
 
-__Get Living London__ is a residential owner and rental management company and is part of shopping centre developer Delancy's great family of offshore companies.  It already manages the 646 dwellings in Delancey's development Elephant One [__Elephant One__](tribeca-square), just next to the shopping centre and all the housing on both sites will be marketed as 'South Village'. Elephant One also includes 274 student rooms, which are being let at rents from  £279pw ('Classic') to £349PW ('Supreme'). 
+__Get Living London__ is a residential owner and rental management company founded by Qatari Diar and shopping centre Delancey.  It already manages the 646 dwellings in Delancey's development Elephant One [__Elephant One__](tribeca-square), just next to the shopping centre and all the housing on both sites will be marketed as 'South Village'. Elephant One also includes 274 student rooms, which are being let at rents from  £279pw ('Classic') to £349PW ('Supreme'). 
 
 None of the 979 new housing units proposed for the shopping centre development  will be for sale. They will be all be for rent, owned and managed by __Get Living London__
 including the 35% affordable housing, which will be at up to 80% market rent.
