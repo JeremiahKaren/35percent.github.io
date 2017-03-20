@@ -154,15 +154,6 @@ Tom has [argued](https://twitter.com/tomcopley/status/842031557284118528) that L
 ![](/img/londonaffordablerent.png)
 *Policy definition from the Mayor's [funding programme](https://www.london.gov.uk/sites/default/files/homesforlondoners-affordablehomesprogrammefundingguidance.pdf)*
 
-The Mayor's funding programme guidance makes it clear that product is Affordable Rent and will be regulated as such.
+The Mayor's funding programme guidance also makes it clear that product is Affordable Rent and will be regulated as such.
 
 ![](/img/homesforlondonerslar.png)
-
-
-
-
-
-
-
-
-
