@@ -165,3 +165,5 @@ Tom has [argued](https://twitter.com/tomcopley/status/842031557284118528) that L
 The Mayor's funding programme guidance also makes it clear that product is Affordable Rent and will be regulated as such.
 
 ![](/img/homesforlondonerslar.png)
+
+All in all, the Mayor's new affordable housing policy does nothing but further confuse affordable housing terminology and reduce the policy requirement for social rented housing. We have submitted a detailed response to the Mayor's policy proposals, which you can [read here.](https://justspacelondon.files.wordpress.com/2017/02/affordable-hsg-spg-35-response-draft.pdf) 
