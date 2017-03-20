@@ -146,23 +146,23 @@ In July 2016 we finally received a [response](/img/complaintresponseMWilliams.pd
 
 
 ## GLA Muddys the waters
-Meanwhile, in his [draft new planning guidance](https://www.london.gov.uk/sites/default/files/draft_affordable_housing_and_viability_spg_2016.pdf) Mayor Sadiq Khan has complicated matters further by introducing yet more affordable housing tenures; London Affordable Rent, London Living Rent and Discounted Market Rent. 
+Meanwhile, in his [draft new planning guidance](https://www.london.gov.uk/sites/default/files/draft_affordable_housing_and_viability_spg_2016.pdf) Mayor Sadiq Khan has complicated matters further by introducing yet more affordable housing tenures; __London Affordable Rent__, __London Living Rent__ and __Discounted Market Rent__. 
 
-The new planning guidance also drops any requirement for social rented housing and explicitly enables it to be substited by either Affordable Rent or Discounted Market Rent (in Build-to-Rent developments). 
+The new planning guidance also drops any requirement for social rented housing and explicitly enables it to be substited by either __Affordable Rent__ or __Discounted Market Rent__ (in Build-to-Rent developments). 
 
 ![](/img/mayorspgar.png)
 
-To further muddy the already muddy waters, GLA Assembly Member and Labour housing spokesperson Tom Copley is [lobbying](http://tomcopley.com/response-mayors-draft-affordable-housing-viability-supplementary-planning-guidance/) for one of the Mayor's new affordable housing tenures, London Affordable Rent to be renamed London Social Rent.  
+To further muddy the already muddy waters, GLA Assembly Member and Labour housing spokesperson Tom Copley is [lobbying](http://tomcopley.com/response-mayors-draft-affordable-housing-viability-supplementary-planning-guidance/) for one of the Mayor's new affordable housing tenures, __London Affordable Rent__ to be renamed __London Social Rent__.  
 
 ![](/img/londonsocialrent.png)
 *Tom Copley's [response](http://tomcopley.com/response-mayors-draft-affordable-housing-viability-supplementary-planning-guidance/) to the Mayor's draft new Affordable Housing planning guidance*
 
-Tom has [argued](https://twitter.com/tomcopley/status/842031557284118528) that London Affordable Rent _'is effectively social rent'_. But we [pointed out](https://twitter.com/35percent_EAN/status/842034373318868994) that the [policy definition](https://www.london.gov.uk/sites/default/files/homesforlondoners-affordablehomesprogrammefundingguidance.pdf) says something else. It says that social rent levels are only _'the starting point'_ for setting London Affordable Rents and that _'other rent levels will also be considered'_. 
+Tom has [argued](https://twitter.com/tomcopley/status/842031557284118528) that __London Affordable Rent__ _'is effectively social rent'_. But we [pointed out](https://twitter.com/35percent_EAN/status/842034373318868994) that the [policy definition](https://www.london.gov.uk/sites/default/files/homesforlondoners-affordablehomesprogrammefundingguidance.pdf) says something else. It says that social rent levels are only _'the starting point'_ for setting __London Affordable Rent__ levels and that _'other rent levels will also be considered'_. 
 
 ![](/img/londonaffordablerent.png)
 *Policy definition from the Mayor's [funding programme](https://www.london.gov.uk/sites/default/files/homesforlondoners-affordablehomesprogrammefundingguidance.pdf)*
 
-The Mayor's funding programme guidance also makes it clear that product is Affordable Rent and will be regulated as such.
+The Mayor's funding programme guidance also makes it clear that product is __Affordable Rent__ and will be regulated as such.
 
 ![](/img/homesforlondonerslar.png)
 
