@@ -157,7 +157,7 @@ To further muddy the already muddy waters, GLA Assembly Member and Labour housin
 ![](/img/londonsocialrent.png)
 *Tom Copley's [response](http://tomcopley.com/response-mayors-draft-affordable-housing-viability-supplementary-planning-guidance/) to the Mayor's draft new Affordable Housing planning guidance*
 
-Tom has [argued](https://twitter.com/tomcopley/status/842031557284118528) that __London Affordable Rent__ _'is effectively social rent'_. But we [pointed out](https://twitter.com/35percent_EAN/status/842034373318868994) that the [policy definition](https://www.london.gov.uk/sites/default/files/homesforlondoners-affordablehomesprogrammefundingguidance.pdf) says something else. It says that social rent levels are only _'the starting point'_ for setting __London Affordable Rent__ levels and that _'other rent levels will also be considered'_. 
+Tom has [argued](https://twitter.com/tomcopley/status/842031557284118528) that __London Affordable Rent__ _'is effectively social rent'_. But we have [pointed out](https://twitter.com/35percent_EAN/status/842034373318868994) that the [policy definition](https://www.london.gov.uk/sites/default/files/homesforlondoners-affordablehomesprogrammefundingguidance.pdf) says something else. It says that social rent levels are only _'the starting point'_ for setting __London Affordable Rent__ levels and that _'other rent levels will also be considered'_. 
 
 ![](/img/londonaffordablerent.png)
 *Policy definition from the Mayor's [funding programme](https://www.london.gov.uk/sites/default/files/homesforlondoners-affordablehomesprogrammefundingguidance.pdf)*
