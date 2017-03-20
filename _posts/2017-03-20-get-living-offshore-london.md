@@ -11,16 +11,16 @@ We have also [shown previously](http://35percent.org/2014-05-05-manx-connections
 ![](http://35percent.org/img/elephantoneregister.png)
 *Land Registry [deeds](http://crappistmartin.github.io/images/LandRegistry_TribecaSquare.pdf) for __Elephant One__.*
 
-Delancey is now showing equal tax efficiency in the housing it proposes to build on the redeveloped Elephant and Castle [shopping centre](shopping-centre). It will be using __Get Living London Ltd__, a company founded by Delancey's offshore arm __DV4__ and Qatari Diar, as owner and manager of the all the 979 units of housing in the new development, including the 'affordable' housing. 
+Delancey is now showing equal tax efficiency in the housing it proposes to build on the redeveloped Elephant and Castle [shopping centre](shopping-centre). It will be using __Get Living London Ltd__, a company founded by Delancey's offshore arm __DV4__ and Qatari Diar, as owner and manager of the all 979 units of housing in the scheme, including the 'affordable' housing. 
 
 ![](/img/getlivingbvi.png)
 *__Get Living London__'s ultimate parent company based in BVI*
 
-__Get Living London__ already manages the 646 dwellings in [__Elephant One__](tribeca-square), just next to the shopping centre and all housing on both sites will be marketed as 'South Village'. __Elephant One__ includes 274 student rooms, which __Get Living London__ is [letting at rents](http://www.portchesterhouse.com/) of  £279pw for a 'Classic' room, or £349pw for a 'Supreme'. 
+__Get Living London__ already manages the 646 dwellings in [__Elephant One__](tribeca-square), just next to the shopping centre and all housing on both sites will be marketed as ['South Village'](http://www.shawcorporation.com/south-village-elephant-castle). __Elephant One__ includes 274 student rooms, which __Get Living London__ is [letting at rents](http://www.portchesterhouse.com/) of  £279pw for a 'Classic' room, or £349pw for a 'Supreme'. 
 
 Over in Stratford __Get Living London__ also lets just over 1400 private rented apartments at ['East Village'](http://eastvillagelondon.co.uk), formerly the Olympic Village, with a further 2000 in the pipeline. 
 
-Despite this huge rental portfolio, [valued at £1bn](http://www.propertyweek.com/news/get-living-to-double-assets-to-%C2%A32bn/5088136.article), __Get Living London__ has not paid any corporation tax since it was incorporated in 2011, according to [accounts filed at Companies House](https://beta.companieshouse.gov.uk/company/07793925/filing-history). This is because its two 'ultimate parent' companies are based offshore, one in Qatar and the other __DV4__, in the British Virgin Islands. __DV4__ is Delancey's offshore arm that has been accused of 'aggressive tax avoidance' by the HMRC, as [reported in Private Eye](http://crappistmartin.github.io/images/PrivateEyeNo1311.pdf).
+Despite this huge rental portfolio, [valued at £1.4bn](http://www.cityam.com/238088/elephant-castle-scheme-and-east-village-site-merged-to-create-14bn-private-rented-sector-venture) and further [set to double its assets](http://www.propertyweek.com/news/get-living-to-double-assets-to-%C2%A32bn/5088136.article), __Get Living London__ has not paid any corporation tax since it was incorporated in 2011, according to [accounts filed at Companies House](https://beta.companieshouse.gov.uk/company/07793925/filing-history). This is because its two 'ultimate parent' companies are based offshore, one in Qatar and the other __DV4__, in the British Virgin Islands. __DV4__ is Delancey's offshore arm that has been accused of 'aggressive tax avoidance' by the HMRC, as [reported in Private Eye](http://crappistmartin.github.io/images/PrivateEyeNo1311.pdf).
 
 ![](/img/getlivingqatarbvi.png)
 *Extract from __Get Living London__'s company accounts [filed](https://beta.companieshouse.gov.uk/company/07793925/filing-history) at Companies House*
