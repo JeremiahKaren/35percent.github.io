@@ -144,7 +144,14 @@ There is also the quesion of ambiguous definitions in section 106 agreements. No
 
 In July 2016 we finally received a [response](/img/complaintresponseMWilliams.pdf) from Southwark Council to our [complaint](/img/ccomplaint15Dec2016.pdf). We were very disappointed to discover that the Council hadn't actually investigated the tenure delivery on the sites we identified (it had merely insisted that the S106 agreement wording for each site is sound). We subsequently [referred](/img/Ombudsman18July2016.pdf) our complaint the Local Government Ombudsman. After a five month investigation, in December 2016 the Ombudsman [published a report](http://35percent.org/2016-12-12-ombudsman-slams-southwark-for-no-s106-monitoring/) showing that the Council does no monitoring or enforcement whatsoever of the tenure mix delivered through S106 agreements. It said that the Council relied on 'voluntary compliance' and that as a result, _‘it is hard to know how many social housing units…developers [have] delivered’_. The Ombudsman has directed Southwark to undertake a borough-wide audit of section 106 affordable housing delivery and introduce monitoring and enforcement measures going forward, but this won't take into account the potentially thousands of social rented homes that have been lost over the years. Southwark is yet to announce when it will complete its audit.
 
-Meanwhile, in his [draft new planning guidance](https://www.london.gov.uk/sites/default/files/draft_affordable_housing_and_viability_spg_2016.pdf) Mayor Sadiq Khan has complicated matters further by introducing yet more affordable housing tenures; London Affordable Rent, London Living Rent and Discounted Market Rent. To further muddy the already muddy waters, GLA Assembly Member and Labour housing spokesperson Tom Copley is [lobbying](http://tomcopley.com/response-mayors-draft-affordable-housing-viability-supplementary-planning-guidance/) for the tenure London Affordable Rent to be renamed London Social Rent.  
+Meanwhile, in his [draft new planning guidance](https://www.london.gov.uk/sites/default/files/draft_affordable_housing_and_viability_spg_2016.pdf) Mayor Sadiq Khan has complicated matters further by introducing yet more affordable housing tenures; London Affordable Rent, London Living Rent and Discounted Market Rent. 
+
+The new planning guidance also drops any requirement for social rented housing and explicitly enables it to be substited by either Affordable Rent or Discounted Market Rent (in Build-to-Rent developments). 
+
+![](/img/mayorspgar.png)
+
+
+To further muddy the already muddy waters, GLA Assembly Member and Labour housing spokesperson Tom Copley is [lobbying](http://tomcopley.com/response-mayors-draft-affordable-housing-viability-supplementary-planning-guidance/) for one of the Mayor's new affordable housing tenures, London Affordable Rent to be renamed London Social Rent.  
 
 ![](/img/londonsocialrent.png)
 *Tom Copley's [response](http://tomcopley.com/response-mayors-draft-affordable-housing-viability-supplementary-planning-guidance/) to the Mayor's draft new Affordable Housing planning guidance*
