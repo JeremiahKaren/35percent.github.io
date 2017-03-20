@@ -166,4 +166,4 @@ The Mayor's funding programme guidance also makes it clear that product is Affor
 
 ![](/img/homesforlondonerslar.png)
 
-All in all, the Mayor's new affordable housing policy does nothing but further confuse affordable housing terminology and reduce the policy requirement for social rented housing. We have submitted a detailed response to the Mayor's policy proposals, which you can [read here.](https://justspacelondon.files.wordpress.com/2017/02/affordable-hsg-spg-35-response-draft.pdf) 
+All in all, the Mayor's new affordable housing policy does nothing but further confuse affordable housing terminology, while reducing the policy requirement for social rented housing and allowing it to be substituted by other tenures. We have submitted a detailed response to the Mayor's policy proposals in which we are asking him to go back to the drawing board - you can [read it here.](https://justspacelondon.files.wordpress.com/2017/02/affordable-hsg-spg-35-response-draft.pdf) 
