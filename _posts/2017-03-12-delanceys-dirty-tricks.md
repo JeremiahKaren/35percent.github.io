@@ -130,7 +130,7 @@ We have launched a campaign __'Up the Elephant'__ to raise awareness of Delancey
 __Footnotes:__
 -----------------------------------------------------------------------------
 
-[^1]: Southwark's in-lieu affordable housing tariff is £100,000 per habitable room x 527 habitable rooms (35% of Tribeca Square total) = £52.7m
+[^1]: Southwark's in-lieu affordable housing tariff is £100,000 per habitable room. The development comprises 527 habitable rooms, so 35% of this times £100k = £52.7m avoided in affordable housing contributions.
 
 [^2]: See page 2 (Affordable Housing Commuted Sum) of the [s106 legal agreement](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!kx6tQZNPCJomdoeiotHphA%3d%3d!%7d%7d%7d).
 
@@ -142,4 +142,4 @@ __Footnotes:__
 
 [^6]: See paragraph 104 of the planning case officer's [report.](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!vh9yc2npGzJ28c%2fJbhd%2fLA%3d%3d!%7d%7d%7d)
 
-[^7]: The development comprises 35,651 sqm of residential floorspace. The E&C Strategic Transport Tariff is £175 per sqm - thus the requirement would be £6.2m.
+[^7]: The development comprises 35,651 sqm of residential floorspace. The E&C Strategic Transport Tariff is £175 per sqm - thus Delancey avoided the required contribution of £6.2m.

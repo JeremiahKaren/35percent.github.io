@@ -4,7 +4,7 @@ title: Get Living London - get lost HMRC
 subtitle: How Delancey continues to exploit the Elephant and avoid the taxman
 published: true
 ---
-Our last blog [reported](http://35percent.org/2017-03-12-delanceys-dirty-tricks/) how Delancey  has shown great efficiency in its [__Elephant One__ development](/tribeca-square). Delancey bought the site for £8m and increased the purchase price to £18m by flipping it between companies. This was then used to help avoid paying £58m of planning contributions, including affordable housing[^1]. Along the way it gained half an acre of public land with which it was to provide a market square, but has since ditched the market.
+Our last blog [reported](http://35percent.org/2017-03-12-delanceys-dirty-tricks/) how Delancey  has shown great efficiency in its [__Elephant One__ development](/tribeca-square). Delancey bought the site for £8m and increased the purchase price to £18m by flipping it between companies. This was then used to help [avoid paying £58.9m](http://35percent.org/2017-03-12-delanceys-dirty-tricks/#fn:1) of planning contributions, including affordable housing. Along the way it gained half an acre of public land with which it was to provide a market square, but has since ditched the market.
 
 We have also [shown previously](http://35percent.org/2014-05-05-manx-connections-the-off-shore-home-of-the-elephants-developers/) how Delancey, having bought the Elephant One land for just £8m, has used a network of offshore companies registered in Panama and Bermuda to avoid paying corporation tax on developing the £200m scheme.
 
@@ -31,7 +31,7 @@ BtR is also giving us a new kind of affordable housing -  __Discounted Market Re
 
 It is therefore surprising (or maybe not) that __Discounted Market Rent__ is viewed as the housing solution for the future by [Southwark Council](http://www.insidehousing.co.uk/southwark-council-to-create-intermediate-waiting-list/7018529.article), Labour Mayor [Sadiq Khan](https://www.lettingagenttoday.co.uk/breaking-news/2016/10/sadiq-khan-backs-build-to-rent-and-more-landlord-licensing), Deputy Mayor [James Murray](https://twitter.com/nlalondon/status/842315679948771328), GLA Housing Chief [Tom Copley](https://twitter.com/tomcopley).  
 
-Sadiq Khan is so enthusiastic for __DMR__; he has given it help and space to grow, by halving the amount of social rented housing he wants from developers in his [draft affordable housing planning guidance](https://www.london.gov.uk/sites/default/files/draft_affordable_housing_and_viability_spg_2016.pdf)[^2].  
+Sadiq Khan is so enthusiastic for __DMR__; he has given it help and space to grow, by halving the amount of social rented housing he wants from developers in his [draft affordable housing planning guidance](https://www.london.gov.uk/sites/default/files/draft_affordable_housing_and_viability_spg_2016.pdf)[^1].  
 
 Delancey has taken full advantage of Mr Khan's largesse and proposed no social rented housing in its redevelopment of the shopping centre and, if approved, their scheme will join another __BtR__ development, the [360 Tower](http://35percent.org/london-360-tower/), just over the way at St Mary's Park and built on land bought with £18m of public money, but also social housing free.  
 
@@ -44,6 +44,4 @@ __Build to Rent__ and __Discounted Market Rent__ are designed to meet developer'
 
 __Footnotes:__
 
-[^1]: This figure comprises the £52m Delancey should have paid according to Southwark's tariff for calculating payments in lieu of affordable housing, plus the £6m Delancey should have paid towards local transport infrastructure according to its E&C Strategic Transport Tariff. See [here](35percent.org/2017-03-12-delanceys-dirty-tricks) for more details.
-
-[^2]:  See paragraph 2.28
+[^1]:  See paragraph 2.28
