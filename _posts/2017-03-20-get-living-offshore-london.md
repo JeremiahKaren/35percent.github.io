@@ -2,9 +2,9 @@
 layout: post
 title: Get Living London - get lost HMRC
 subtitle: How Delancey continues to exploit the Elephant and avoid the taxman
-published: false
+published: true
 ---
-Our last blog [reported](http://35percent.org/2017-03-12-delanceys-dirty-tricks/) how Delancey  has shown great efficiency in its [__Elephant One__ development](/tribeca-square). Delancey bought the site land for £8m and increasing its value to £18m, by flipping it between companies.  This cost was then used, along with others, to avoid paying £58m of planning contributions, including affordable housing contributions [^1].  Along the way it gained the almost free use of another half an acre of public land, which it was to provide as a market square, but has now disappeared.
+Our last blog [reported](http://35percent.org/2017-03-12-delanceys-dirty-tricks/) how Delancey  has shown great efficiency in its [__Elephant One__ development](/tribeca-square). Delancey bought the site land for £8m and increasing its value to £18m, by flipping it between companies. This cost was then used, along with others, to avoid paying £58m of planning contributions, including affordable housing contributions[^1]. Along the way it gained the almost free use of another half an acre of public land, which it was to provide as a market square, but has now disappeared.
 
 We have also [shown previously](http://35percent.org/2014-05-05-manx-connections-the-off-shore-home-of-the-elephants-developers/) how Delancy, having bought the Elephant One land for just £8m, used a network of offshore companies registered in Panama and Bermuda to avoid paying corporation tax on developing the £200m scheme.
 
@@ -36,10 +36,10 @@ Delancey  has taken full advantage of Mr Khan's largesse and proposed no social 
 
 We understand that the Mayor and his Labour Party colleagues are motivated by pragmatism. But while Build to Rent is supposedly a market-based solution to the housing crisis, drawing on institutional investment, it also depends upon a large amount of public money - [£3.5bn, probably rising to £6.6bn](http://www.ukconstructionmedia.co.uk/news/3-5bn-funding-announced-build-new-rented-homes/), while social rented housing is starved of funds.  We think that the Mayor should stop championing Build to Rent and start fighting to build social rented housing.
 
-Discounted Market Rent is designed to meet developer's needs first and our housing' needs second.  We can help stop DMR'S roll-out across London and the further maginalisation of social rented housing by defeating Delancey's plans for the Elephant and Castle shopping Centre; you can object to their planning application here.
+Discounted Market Rent is designed to meet developer's needs first and our housing needs second. We can help stop DMR'S roll-out across London and the further maginalisation of social rented housing by defeating Delancey's plans for the Elephant and Castle shopping Centre; we have launched a campaign group to this end ([www.uptheelephant.com](http://uptheelephant.com)). You can support us by lodging an objection using our [online web form](http://35percent.org/shopping-centre/#object-now) or come to our [public meeting tomorrow night](http://35percent.org/img/march21flyer.pdf) at the shopping centre.
 
 __Footnotes:__
 
 [^1]: This figure comprises the £52m Delancey should have paid according to Southwark's tariff for calculating payments in lieu of affordable housing, plus the £6m Delancey should have paid towards local transport infrastructure according to its E&C Strategic Transport Tariff. See [here](35percent.org/2017-03-12-delanceys-dirty-tricks) for more details.
 
-[^2]:  Para 2.28
+[^2]:  See paragraph 2.28
