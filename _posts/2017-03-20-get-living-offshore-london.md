@@ -13,13 +13,17 @@ We have also [shown previously](http://35percent.org/2014-05-05-manx-connections
 
 Delancey is now showing equal tax efficiency in the housing it proposes to build on the redeveloped Elephant and Castle [shopping centre](shopping-centre). It will be using __Get Living London Ltd__, a company founded by itself and Qatari Diar, as owner and manager of the all the 979 units of housing in the new development, including the 'affordable' housing. 
 
+![](/img/getlivingbvi.png)
+*__Get Living London__'s ultimate parent company based in BVI*
+
 __Get Living London__ already manages the 646 dwellings in [__Elephant One__](tribeca-square), just next to the shopping centre and all the housing on both sites will be marketed as 'South Village'. The development includes 274 student rooms, which __Get Living London__ [lets at rents](http://www.portchesterhouse.com/) of  £279pw for a 'Classic' room, or £349pw for a 'Supreme'. 
 
 Over in Stratford __Get Living London__ also lets just over 1400 private rented apartments at ['East Village'](http://eastvillagelondon.co.uk), formerly the Olympic Village, with a further 2000 in the pipeline. 
 
 Despite this huge rental portfolio, [valued at £1bn](http://www.propertyweek.com/news/get-living-to-double-assets-to-%C2%A32bn/5088136.article), __Get Living London__ has not paid any corporation tax since it was incorporated in 2011, according to [accounts filed at Companies House](https://beta.companieshouse.gov.uk/company/07793925/filing-history). This is because its two 'ultimate parent' companies are based offshore, one in Qatar and the other __DV4__, in the British Virgin Islands. __DV4__ is Delancey's offshore arm that has been accused of 'aggressive tax avoidance' by the HMRC, as [reported in Private Eye](http://crappistmartin.github.io/images/PrivateEyeNo1311.pdf).
 
-![](/img/getlivingbvi.png)
+![](/img/getlivingqatarbvi.png)
+*Extract from accounts [filed](https://beta.companieshouse.gov.uk/company/07793925/filing-history) at Companies House*
 
 Delancey's two developments comprising 1600 new homes for rent at the Elephant (or 'South Village') are known in the industry as Build to Rent (BtR). With all the tax-free profit to be squeezed out of London's burgeoning private rental sector,  BtR is in vogue with London's developers. BtR developments are 100% rental, with no homes for sale, backed up by large institutional investors and owned and managed by one (private) landlord. 
 
