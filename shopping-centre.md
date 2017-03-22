@@ -49,7 +49,7 @@ As expected the shopping centre is to be demolished and there will be [no room f
 
 This is a clear breach of paragraph 5.1.7 of the Council's [planning policy framework]("http://www.2.southwark.gov.uk/download/downloads/id/7894/elephant_and_castle_opportunity_area_spd"){:target="_blank"} for the Elephant & Castle, which requires a number of _'affordable retail units which are made available to existing occupiers displaced by development'_, in order to _'ensure that development opportunities provide opportunities for existing and future SME businesses'_.
 
-The framework also makes an explicit requirement for large new retail developments to provide affordable retail units at no more than 40% market rent for the first 5 years.
+The framework policy says that a minimum of 10% of retail units in large developments must be affordable and makes the very specific requirement to provide such units at no more than 40% market rent for the first 5 years.
 
 ![](/img/charterspd.png)
 *Extract from the Council's [planning policy framework for E&C](http://www.southwark.gov.uk/assets/attach/1817/1.0.5%20Elephant%20%26%20Castle%20SPD%20OAPF.pdf)*
