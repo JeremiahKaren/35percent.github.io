@@ -49,6 +49,11 @@ As expected the shopping centre is to be demolished and there will be [no room f
 
 This is a clear breach of paragraph 5.1.7 of the Council's [planning policy framework]("http://www.2.southwark.gov.uk/download/downloads/id/7894/elephant_and_castle_opportunity_area_spd"){:target="_blank"} for the Elephant & Castle, which requires a number of _'affordable retail units which are made available to existing occupiers displaced by development'_, in order to _'ensure that development opportunities provide opportunities for existing and future SME businesses'_.
 
+The framework also makes an explicit requirement for large new retail developments to provide affordable retail units at no more than 40% market rent for the first 5 years.
+
+![](/img/charterspd.png)
+*Extract from the Council's [planning policy framework for E&C](http://www.southwark.gov.uk/assets/attach/1817/1.0.5%20Elephant%20%26%20Castle%20SPD%20OAPF.pdf)*
+
 In October 2015, Southwark [resolved]("http://moderngov.southwark.gov.uk/ieDecisionDetails.aspx?ID=5494"){:target="_blank"} to undertake an Equalities Impact Assessment, in order to fulfill its Public Sector Equality Duty to the shopping centre traders and explore how the impact of the redevelopment can be mitigated. This assessment was never undertaken, the Council is neglecting its duty and allowing Delancey to progress the scheme in total disregard for the existing traders. In 2005, Southwark was [slated by Lord Ouseley after an independent review](http://35percent.org/2015-11-04-southwark-resolves-to-use-cpo-powers-for-shopping-centre-retailers/){:target="_blank"} found that its regeneration policies failed retailers and traders from BME communities. These failings clearly continue.
 
 In 2015, we [revealed](http://35percent.org/2015-07-12-shopping-centre-and-lcc-redevelopment-proposals/#delancey---a-morality-tale){:target="_blank"} how Delancey had successfully lobbied the Council to change the conditions of its planning permission for its neighbouring [Elephant One](/tribeca-square){:target="_blank"} development. This was [supposed to provide](http://www.london-se1.co.uk/news/view/2298){:target="_blank"} a handful of small retail units specifically allocated to traders displaced from the shopping centre at reduced rents; instead these have been replaced by a Sainsburys.

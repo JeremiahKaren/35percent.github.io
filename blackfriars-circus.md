@@ -28,5 +28,7 @@ In 2016, Barratt [applied](http://planbuild.southwark.gov.uk/documents/?caserefe
 The absurdity of buying homes from developers to convert to social rent when they should have been social rent anyway, is plain for all to see.
 However, it also appears that Southwark is paying well over the market price: £10m for 56 affordable housing units seems an awful lot of money compared to the [£3.1m paid](http://crappistmartin.github.io/images/LR_LANDQ_TrafalgarPlace.pdf) by L&Q for 54 affordable homes it brought from Heygate developer Lend Lease at [Trafalgar Place](http://trafalgarplace.com).
 
-  
+Information in the response to [FOI request](https://www.whatdotheyknow.com/request/council_land_sold_2?nocache=incoming-954086) shows that the development is being built partly on Council land.   
 
+The Council has created a new separate Council waiting list for intermediate housing that will offer 'Discounted Market Rents' rather than Social Rent. Which of these tenures will the 56 new 'Council' homes be let at?
+http://www.insidehousing.co.uk/southwark-council-to-create-intermediate-waiting-list/7018529.article
