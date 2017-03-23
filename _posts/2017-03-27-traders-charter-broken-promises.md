@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Traders Charter"
-subtitle: "The broken promises of regeneration"
+title: Traders Charter
+subtitle: The broken promises of regeneration
 published: false
 ---
 As we saw with the Heygate estate, early [regeneration promises](http://heygatewashome.org/displacement.html) made to those pushed aside are seldom fulfilled and the [consequences](http://35percent.org/2013-06-08-the-heygate-diaspora/) have been [widely documented](http://www.reuters.com/article/us-britain-london-housing-idUSKCN0SD0OV20151019). 
@@ -23,6 +23,10 @@ The Charter was referenced in the Council's final planning policy framework for 
 
 ![](/img/charterspd.png)     
 
-However, Lendlease didn't...
+However, Lendlease didn't provide any affordable retail at the subsidies agreed in the Charter.
+
+We need to remind our Cabinet member for Regeneration of his promises to traders, which up until less than a year ago vowed to include them in the regeneration plans:
+
+![](/img/mwquote.png)
 
 www.southwarknews.co.uk/news/new-latin-quarter-elephant-castle-earns-councils-full-backing/
