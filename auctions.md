@@ -115,7 +115,7 @@ Besides selling off its community and social services facilities, the Council ha
 | <img src="http://crappistmartin.github.io/images/141fortroad.jpg" height="200" width="200"> | [141 Fort Rd, SE1 5PZ](http://crappistmartin.github.io/images/141fortroad.pdf) | unavailable | Apr 2010 |
 
 
-The Council has not just been selling off council homes, it has also been selling off commercial and other properties it owns.
+The Council has not just been selling off council homes, it has also been [selling off](https://www.whatdotheyknow.com/request/council_land_sold_2?nocache=incoming-954086) commercial and other properties it owns.
 
 For example it owns a number of pubs in the borough. This is the Oriwu Spot pub on Champion Hill in East Dulwich, which the Council [sold](/img/LRegisterOriwuSpot.pdf) to developers for £170k in 2012. 
 
