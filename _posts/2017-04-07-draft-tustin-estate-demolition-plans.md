@@ -4,10 +4,15 @@ title: "Tustin estate earmarked for demolition"
 subtitle: "200 homes on the Old Kent Road's Tustin estate up for demolition as the Nu Labour wrecking ball rolls on"
 published: false
 ---
+In 2015 there was uproar after Southwark carried out a survey of its council estates, identifying those with a 'net negative value'. 
 
+In response, the Council's Cabinet member for Housing promised that there would be _'no more wholesale estate demolition'_.
+ 
+![](/img/pinnochio.png)
+*Cllr Livingstone's promise to council estate residents in the [Southwark News](https://www.southwarknews.co.uk/news/no-more-wholesale-estate-demolition-says-housing-boss/)*
 
 ## Tustin estate
-A council [briefing report](http://moderngov.southwark.gov.uk/documents/s67406/Report.pdf) has revealed plans to demolish circa 200 homes on the Tustin estate.
+However, a recently published council [briefing report](http://moderngov.southwark.gov.uk/documents/s67406/Report.pdf) has revealed plans to demolish circa 200 homes on the Old Kent Road's Tustin estate.
 
 ![](/img/tustindemolition.png)
 *Extract from [council briefing report](http://moderngov.southwark.gov.uk/documents/s67406/Report.pdf)*
