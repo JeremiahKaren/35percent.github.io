@@ -67,6 +67,11 @@ In 2015, we [revealed](http://35percent.org/2015-07-12-shopping-centre-and-lcc-r
 
 Delancey's application is just another step down the gentrification road. The shopkeepers and small traders, many from ethnic minority backgrounds, who have worked hard to become an integral part of the community, are deemed to be _'not financially viable ...to survive'_. Southwark Council and the Mayor should be telling Delancey how unacceptable this application is. They should be promoting London's diverse economy - not letting developers like Delancey kill it. 
 
+Less than a year ago Southwark's Cabinet member for Regeneration promised to ensure that existing traders were included in the redevelopment plans. This can now be added to archive of regeneration promises that have been broken.
+
+![](/img/mwquote.png)
+*Quote from an [interview](www.southwarknews.co.uk/news/new-latin-quarter-elephant-castle-earns-councils-full-backing/) with Cabinet member for Regeneration, Mark Williams*
+
 Southwark claims that as a private developer it can't influence Delancey's plans, but we point out that in 2011 Southwark [signed](http://moderngov.southwark.gov.uk/documents/s24263/Report%20Elephant%20and%20Castle%20Regeneration%20-%20Shopping%20Centre.pdf){:target="_blank"} a development agreement with the then then shopping centre owners, which Delancey inherited when it purchased the site.
 
 ![](/img/lbskpiagreement.png)
