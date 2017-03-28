@@ -103,9 +103,10 @@ __The 'Boiler House' Solution__
 
 Lendlease acknowledged in its planning application's [Energy Statement](http://planningonline.southwark.gov.uk/DocsOnline/Documents/325310_1.pdf) that its proposals failed to comply even with the council's 20% on-site minimum renewable energy requirement: _“11.1.7 The Development does not comply with the aspiration for 20% carbon reduction by renewable energy set out in Strategic Policy 13”._ As mitigation it promised a few symbolic solar panels totalling around 3% on-site renewable energy (para. 10.5.5) and claimed that it will try to source some of its gas requirements from renewable gas sources. It suggested that one possible future source of renewable gas may be procured from [biomethane](http://en.wikipedia.org/wiki/Biogas) plants, which would work in much the same way as green electricity. However, the problem is that there is currently only [one operational biomethane injection plant](http://www.bbc.co.uk/news/uk-11433162) in the UK and this has no spare capacity. 
 
-In a [PR offensive](https://www.theguardian.com/lendlease-redesigning-cities-zone/2017/jan/04/-climate-change-new-breed-energy-infrastructure-renewable) worthy of awards, Lendlease has substituted the term 'zero carbon development' for 'net zero carbon development'. The addition of the word net enabling them to give a new meaning to the term, which now means that the devlopment will supposedly produce less __operative__ carbon emissions than the __operative__ carbon emissions of the Heygate estate it is replacing; i.e. the new gas boiler will be more efficient than the old one and the new homes will be more energy efficient than the old ones.
+In a [PR offensive](http://www.telegraph.co.uk/business/2017/03/26/lendlease-build-first-ultra-green-homes-central-london/?WT.mc_id=tmg_share_tw) and newspeak worthy of awards, Lendlease is claiming its scheme will be the _"first carbon positive urban regeneration scheme in the UK, meaning it produces more energy from its own plants than it uses."_
 
-This is yet another example of how promises have been broken and how 'regeneration' can mean many things..  
+What it doesn't explain is that by 'its own plants' it means its carbon emitting, fossil-fuel powered gas boilers. 
+Thus the term 'carbon positive' is no longer understood to mean producing more renewable (non-carbon) energy than one consumes.
 
 __Footnotes:__
 
