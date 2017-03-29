@@ -38,4 +38,6 @@ www.southwarknews.co.uk/news/new-latin-quarter-elephant-castle-earns-councils-fu
 
 <iframe width="400" height="225" src="https://www.youtube.com/embed/KlJFZXSgO9g" frameborder="0" allowfullscreen></iframe>
 
-![](elephantmagazine-rotated.pdf)
+[](elephantmagazine-rotated.pdf)
+
+![](/img/elephantmagazinedelancey.png)
