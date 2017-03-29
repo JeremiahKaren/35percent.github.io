@@ -11,6 +11,11 @@ In response, the Council's Cabinet member for Housing promised that there would 
 ![](/img/pinnochio.png)
 *Cllr Livingstone's promise to council estate residents in the [Southwark News](https://www.southwarknews.co.uk/news/no-more-wholesale-estate-demolition-says-housing-boss/)*
 
+Cllr Livingstone [promises](https://twitter.com/Livingstone_RJ/status/846835559230267392) that there will no net loss of 'council homes' on the Tustin. But we point out that Cllr Livingstone was one of the Cabinet members that [voted on signing of the Heygate deal](http://moderngov.southwarksites.com/documents/s10891/Elephant%20and%20Castle%20-%20Regeneration%20Agreement%20and%20Disposal%20of%20Associated%20Land%20-%20Report.pdf) with Lendlease, which had originally made similar promises. 
+
+![](/img/heygate no net loss)
+
+
 ## Tustin estate
 However, a recently published council [briefing report](http://moderngov.southwark.gov.uk/documents/s67406/Report.pdf) has revealed plans to demolish circa 200 homes on the Old Kent Road's Tustin estate.
 
