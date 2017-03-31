@@ -32,6 +32,8 @@ Indeed it is hard to see how Delancey could make its distaste for the traders an
 
 At a trader's meeting last week Southwark said that there will be affordable units in Elephant One (but only 7) and that they have taken issue with Delancey about the lack of any affordable retail or a relocation strategy.  But Delancey are playing Southwark for fools and will be all the more encouraged having seen themselves eulogised in _Southwark Life_, the Council magazine, for its role at the Elephant and as Southwark's development partner.
 
+**Ten years after**
+
 Southwark is to consider how to support traders at a Cabinet meeting on 9 May -  10 years, 4 months and 9 days after it considered the Charter.  There is only one thing that an honest and decent Council would do at that meeting and Southwark needs to repair its shredded credibility after the Heygate debacle.  Southwark must honour the undertakings made in the Charter, with the cost met by Delancey through an S106 agreement. If Delancey does not do this (and also include 50% social rented housing in its affordable housing offer) Southwark must refuse its planning application.
 
 
