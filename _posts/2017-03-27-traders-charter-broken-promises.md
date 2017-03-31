@@ -5,17 +5,14 @@ subtitle: Elephant shopping centre traders denied promised help
 published: false
 ---
 As residents of the Heygate estate discovered, early [regeneration promises](http://heygatewashome.org/displacement.html) made to those [pushed aside](http://35percent.org/2013-06-08-the-heygate-diaspora/) are [seldom fulfilled](http://www.reuters.com/article/us-britain-london-housing-idUSKCN0SD0OV20151019), but the scale of the unfulfilled committments made by Southwark to the independant small traders at the Elephant & Castle puts  its duplicity on the Heygate into the shade.
-The committments were made in a Business Continuity Charter, drawn up and [recommended to Southwark's Executive Committee in 2007](http://moderngov.southwark.gov.uk/Data/Overview%20&%20Scrutiny%20Committee/20070709/Agenda/Attachment%202.pdf).  The Charter included over a dozen undertakings, designed to secure small traders at the heart of the shopping centre's redevelopment.  These included funding for independent legal advice on leases and tenancy matters, S106 arrangements for relocation
+The committments were made in a Business Continuity Charter, drawn up and [recommended to Southwark's Executive Committee in 2007](http://moderngov.southwark.gov.uk/Data/Overview%20&%20Scrutiny%20Committee/20070709/Agenda/Attachment%202.pdf).  The Charter gave a range of undertakings, designed to secure small traders at the heart of the shopping centre's redevelopment.  These included funding for independent legal advice on leases and tenancy matters; first refusal to traders, for Southwark's commercial retail units and those secured via section 106 agreements with its other development partners;discounted rents of about 40% market rent for 5 years; service charges to be maintained at lowest possible level; a cap or freeze on rent;a compensation mechanism for 'adverse impacts of the regeneration';early release from tenancies
 
 
 ![](/img/lbstraderscharter.png)
 
-The Charter said that Southwark would offer first refusal to traders, not only on its own commercial retail units but also those secured via section 106 agreements with its other development partners (ie. Lendlease). 
+T![](/img/lbstraderscharterextract.png)
 
 
-![](/img/lbstraderscharterextract.png)
-
-It gave explicit details of the rent discount that would be applied to support the traders' transition as that which had been agreed for the 'Volvo site' i.e. Delancey's __Elephant One__. This set out rent subsidies of approx 40% of market rent for the first five years.
 
 The Charter was referenced in the Council's final planning policy framework for the Elephant & Castle along with details of the rent subsidies.
 
@@ -42,6 +39,8 @@ www.southwarknews.co.uk/news/new-latin-quarter-elephant-castle-earns-councils-fu
 
 ![](/img/elephantmagazinedelancey.png)
 
-Southwark's [development plan](http://www.southwark.gov.uk/assets/attach/1817/1.0.5%20Elephant%20%26%20Castle%20SPD%20OAPF.pdf) for the Elephant and Castle was adopted in 2012 after five years of consultation with stakeholders and the local community. This included the Elephant & Castle shopping centre traders who had successfully lobbied the Council for a Charter, which set out the principles by which they would be provided for and included within the redevelopment scheme. 
+Southwark's [development plan](http://www.southwark.gov.uk/assets/attach/1817/1.0.5%20Elephant%20%26%20Castle%20SPD%20OAPF.pdf) for the Elephant and Castle was adopted in 2012 after five years of consultation with stakeholders and the local community. This included the Elephant & Castle shopping centre traders who had successfully lobbied the Council for a Charter, which set out the principles by which they would be provided for and included within the redevelopment scheme.
 
 
+
+as that which had been agreed for the 'Volvo site' i.e. Delancey's __Elephant One__
