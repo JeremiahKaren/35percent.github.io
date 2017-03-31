@@ -9,6 +9,8 @@ The committments are made in a Business Continuity Charter, drawn up and [recomm
 
 ![](/img/lbstraderscharter.png)
 
+Charter aid
+
 The Charter gives a range of undertakings, designed to maintain small traders through the whole redevelopment process. The centre is to be maintained as an  _'attractive environment for customers'_ and service charges to be kept at the lowest possible level, with a cap or freeze on rents.  There will be funding for independent legal advice on leases and tenancy matters and early release from tenancies, should that be needed.  A compensation mechanism for _'adverse impacts of the regeneration'_ will be sought and when the time comes for moving, traders would get first refusal for both Southwark's commercial retail units and those secured via section 106 agreements with its other development partners.  Affordable retail units at discounted rents will be available.  The report which presented the Charter even floats the idea of building new premises for displaced traders.
 
 
@@ -38,13 +40,9 @@ At a trader's meeting last week Southwark said that there will be affordable uni
 
 **Ten years after**
 
-Southwark is to consider how to support traders at a Cabinet meeting on 9 May -  10 years, 4 months and 9 days after it considered the Charter.  There is only one thing that an honest and decent Council would do at that meeting and Southwark needs to repair its shredded credibility after the Heygate debacle.  Southwark must honour the undertakings made in the Charter, with the cost met by Delancey through an S106 agreement. If Delancey does not do this (and also include 50% social rented housing in its affordable housing offer) Southwark must refuse its planning application.
+Southwark is to consider how to support traders at a Cabinet meeting on 9 May -  10 years, 4 months and 9 days after it considered the Charter.  There is only one thing that an honest and decent Council would do at that meeting and## Southwark needs to repair its shredded credibility after the Heygate debacle.  Southwark must honour the undertakings made in the Charter, with the cost met by Delancey through an S106 agreement. If Delancey does not do this (and also include 50% social rented housing in its affordable housing offer) Southwark must refuse its planning application.###
 
 
-
-
-
-     
 
 However, Lendlease didn't provide any affordable retail at the subsidies agreed in the Charter.
 
