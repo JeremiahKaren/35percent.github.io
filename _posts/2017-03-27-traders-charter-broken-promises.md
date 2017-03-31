@@ -26,9 +26,13 @@ But this is Southwark and so we cannot be surprised that, in fact, none of the t
 
 The promised affordable rent retail units remain as a promise, but we have detailed [elsewhere](http://35percent.org/tribeca-square/) how Sainsburys barged small traders aside, denying them the most desirable location on Delancey's Elephant One development, and how another prospective location, the Market Square has [lost its market](http://35percent.org/tribeca-square/).  Delancey also took the opportunity, while putting out the welcome mat for Sainsbury, to remove the option of preferential consideration for a free market unit from centre traders (image).  
 
-Indeed it is hard to see how Delancey could make its distaste for the traders any clearer, short of taking out an advert in Southwark News.  The 9 units of affordable retail that remain in Elephant One and which should have been given to traders 15 months [before the scheme was completed](http://planbuild.southwark.gov.uk/documents/?casereference=13/AP/2302&system=DC) remain empty.   Delancey's disdains to provide any affordable retail in shopping centre application and [thumbs its nose](http://35percent.org/2016-12-19-delancey-submits-shopping-centre-application/) at any relocation strategy
+Indeed it is hard to see how Delancey could make its distaste for the traders any clearer, short of taking out an advert in Southwark News.  The 9 units of affordable retail that remain in Elephant One and which should have been given to traders 15 months [before the scheme was completed](http://planbuild.southwark.gov.uk/documents/?casereference=13/AP/2302&system=DC) remain empty.   Delancey's disdains to provide any affordable retail in shopping centre application and [thumbs its nose](http://35percent.org/2016-12-19-delancey-submits-shopping-centre-application/) at any relocation strategy.
 
-Instead we have another promise from Southwark Council, that it will consider how to support traders at a Cabinet meeting on 9 May -  disgraceful planning application that thumbs it nose at the traders and can barely conceal it's disdain for the local community 
+At a trader's meeting last week Southwark said they have taken issue with Delancey about the lack of any affordable retail or a relocation strategy, but Delancey are playing Southwark for fools and it will be all the more encouraged having seen itself eulogised in Southwark Life, the council magazine, for its role as Southwark's development partner at the Elephant.
+
+Southwark is to consider how to support traders at a Cabinet meeting on 9 May -  10 years, 4 months and 9 days after it considered the Charter.  There is only one thing that an honest and decent Council would do at that meeting and Southwark needs to repair its shredded credibility, after the Heygate debacle.  Southwark must honour the undertakings made in the Charter, with the cost to be met by Delancey through an S106 agreement. If Delancey does not do this (and also include social rented housing in its affordable housing offer) Southwark must refuse its planning application.
+
+
 
 
 
@@ -40,7 +44,7 @@ We need to remind our Cabinet member for Regeneration of his promises to traders
 
 No favours for Delancey
 
-Southwark would no doubt argue that this was all a long time ago and anyhow, it just could not afford any of these measures anymore. The answers are simple - first, regenerations are long-term projects and Southwark needs to repair its shredded credibility after the Heygate debacle, by honouring the undertakings made in the charter;second,the cost must be met by Delancey, through the S106 agreement that follows any approved planning application.  S106 agreements are specifically aimed to mitigate the adverse effects of the new developments and there can no goup more adeversely effected than the independent traders. 
+
 
 
 
