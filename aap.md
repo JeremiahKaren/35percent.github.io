@@ -50,3 +50,13 @@ And make representations to t
 ![](/img/biljmeer.jpg)
 
 [https://www.dezeen.com/2017/03/11/colossal-amsterdam-housing-estate-up-to-date-customisable-apartments-architecture/](https://www.dezeen.com/2017/03/11/colossal-amsterdam-housing-estate-up-to-date-customisable-apartments-architecture/)
+
+### Gladsaxe
+
+![](/img/gladsaxe)
+
+[https://www.behance.net/gallery/6157371/hoeje-gladsaxe](https://www.behance.net/gallery/6157371/hoeje-gladsaxe)
+
+### Park Hill estate
+
+![](/img/parkhill.jpg)
