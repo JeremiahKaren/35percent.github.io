@@ -9,7 +9,7 @@ The committments were made in a Business Continuity Charter, drawn up and [recom
 
 ![](/img/lbstraderscharter.png)
 
-The Charter gives a range of undertakings, designed to maintain small traders through the whole development process. The centre was to be maintained as an  _'attractive environment for customers'_ and service charges were to be kept at the lowest possible level, with a cap or freeze on rents.  There would be funding for independent legal advice on leases and tenancy matters and early release from tenancies, should it be needed.  A compensation mechanism for _'adverse impacts of the regeneration'_ would be sought and when the time came for moving, traders would get first refusal for both Southwark's commercial retail units and those secured via section 106 agreements with its other development partners.  Discounted rents would be available at about 40% market rent for 5 years.   The report which presents the Charter even floats the idea of building new premises for displaced traders.
+The Charter gives a range of undertakings, designed to maintain small traders through the whole development process. The centre was to be maintained as an  _'attractive environment for customers'_ and service charges were to be kept at the lowest possible level, with a cap or freeze on rents.  There would be funding for independent legal advice on leases and tenancy matters and early release from tenancies, should it be needed.  A compensation mechanism for _'adverse impacts of the regeneration'_ would be sought and when the time came for moving, traders would get first refusal for both Southwark's commercial retail units and those secured via section 106 agreements with its other development partners.  Affordable retail units at discounted rents for would be availabl.  The report which presents the Charter even floats the idea of building new premises for displaced traders.
 
 
 
@@ -20,7 +20,7 @@ T![](/img/lbstraderscharterextract.png)
 
 
 
-The Charter was referenced in the Council's final planning policy framework for the Elephant & Castle along with details of the rent subsidies.
+The Charter is an altogether impressive attempt to help the traders and is referred to  in the Council's planning policy framework for the Elephant & Castle regeneration, along with details of the rent subsidies.
 
 ![](/img/charterspd.png)     
 
