@@ -7,7 +7,7 @@ published: false
 As residents of the Heygate estate discovered, early [regeneration promises](http://heygatewashome.org/displacement.html) made to those [pushed aside](http://35percent.org/2013-06-08-the-heygate-diaspora/) are [seldom fulfilled](http://www.reuters.com/article/us-britain-london-housing-idUSKCN0SD0OV20151019), but the scale of the unfulfilled committments made by Southwark to the independant small traders at the Elephant & Castle puts  its duplicity on the Heygate into the shade.
 The committments were made in a Business Continuity Charter, drawn up and [recommended to Southwark's Executive Committee in 2007](http://moderngov.southwark.gov.uk/Data/Overview%20&%20Scrutiny%20Committee/20070709/Agenda/Attachment%202.pdf).  The Charter included over a dozen undertakings, designed to secure small traders at the heart of the shopping centre's redevelopment.
 
-The include securing independant legal adv
+
 
 Way back in 2007 Southwark 
 
@@ -31,6 +31,13 @@ The Charter was referenced in the Council's final planning policy framework for 
 However, Lendlease didn't provide any affordable retail at the subsidies agreed in the Charter.
 
 We need to remind our Cabinet member for Regeneration of his promises to traders, which up until less than a year ago vowed to include them in the regeneration plans:
+
+No favours for Delancey
+
+Southwark would no doubt argue that this was all a long time ago and anyhow, it just could not afford any of these measures anymore. The answers are simple - first, regenerations are long-term projects and Southwark needs to repair its shredded credibility after the Heygate debacle, by honouring the undertakings made in the charter;second,the cost must be met by Delancey, through the S106 agreement that follows any approved planning application.  S106 agreements are specifically aimed to mitigate the adverse effects of the new developments and there can no goup more adeversely effected than the independent traders. 
+
+
+
 
 ![](/img/mwquote.png)
 
