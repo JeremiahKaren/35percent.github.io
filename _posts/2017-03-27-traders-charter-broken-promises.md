@@ -7,7 +7,7 @@ published: false
 As residents of the Heygate estate discovered, early [regeneration promises](http://heygatewashome.org/displacement.html) made to those [pushed aside](http://35percent.org/2013-06-08-the-heygate-diaspora/) are [seldom fulfilled](http://www.reuters.com/article/us-britain-london-housing-idUSKCN0SD0OV20151019), but the scale of the unfulfilled committments made by Southwark to the independant small traders at the Elephant & Castle puts  its duplicity on the Heygate into the shade.
 The committments were made in a Business Continuity Charter, drawn up and [recommended to Southwark's Executive Committee in 2007](http://moderngov.southwark.gov.uk/Data/Overview%20&%20Scrutiny%20Committee/20070709/Agenda/Attachment%202.pdf).
 
-![](/img/lbstraderscharter.png)
+![](/img/lbstraderscharter.png)****
 
 The Charter gives a range of undertakings, designed to maintain small traders through the whole development process. The centre was to be maintained as an  _'attractive environment for customers'_ and service charges were to be kept at the lowest possible level, with a cap or freeze on rents.  There would be funding for independent legal advice on leases and tenancy matters and early release from tenancies, should it be needed.  A compensation mechanism for _'adverse impacts of the regeneration'_ would be sought and when the time came for moving, traders would get first refusal for both Southwark's commercial retail units and those secured via section 106 agreements with its other development partners.  Affordable retail units at discounted rents for would be availabl.  The report which presents the Charter even floats the idea of building new premises for displaced traders.
 
@@ -20,7 +20,17 @@ T![](/img/lbstraderscharterextract.png)
 
 
 
-The Charter is an altogether impressive attempt to help the traders and is referred to  in the Council's planning policy framework for the Elephant & Castle regeneration, along with details of the rent subsidies.
+The Charter seems like an impressive attempt to help the traders and appears in the Council's planning policy framework for the Elephant & Castle regeneration of 2012, along with details of the rent subsidies.
+
+But this is Southwark and so we cannot be surprised that, in fact, none of the the committments in the Charter have been fulfilled - no legal help, no compensation mechanism, no rent freeze, rising service charges.
+
+The promised affordable rent retail units remain as a promise, but we have detailed [elsewhere](http://35percent.org/tribeca-square/) how Sainsburys barged small traders aside, denying them the most desirable location on Delancey's Elephant One development, and how another prospective location, the Market Square has [lost its market](http://35percent.org/tribeca-square/).  Delancey also took the opportunity, while putting out the welcome mat for Sainsbury, to remove the option of preferential consideration for a free market unit from centre traders (image).  
+
+Indeed it is hard to see how Delancey could make its distaste for the traders any clearer, short of taking out an advert in Southwark News.  The 9 units of affordable retail that remain in Elephant One and which should have been given to traders 15 months [before the scheme was completed](http://planbuild.southwark.gov.uk/documents/?casereference=13/AP/2302&system=DC) remain empty.   Delancey's disdains to provide any affordable retail in shopping centre application and [thumbs its nose](http://35percent.org/2016-12-19-delancey-submits-shopping-centre-application/) at any relocation strategy
+
+Instead we have another promise from Southwark Council, that it will consider how to support traders at a Cabinet meeting on 9 May -  disgraceful planning application that thumbs it nose at the traders and can barely conceal it's disdain for the local community 
+
+
 
 ![](/img/charterspd.png)     
 
