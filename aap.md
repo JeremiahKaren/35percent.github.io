@@ -8,11 +8,11 @@ The Aylesbury estate is a symbol; it is the symbol of an architecture and politi
 
 ![](/img/blairaylesbury.jpg)
 
-It was no coincidence that the estate was selected by Tony Blair for his [first speech as prime minister](http://www.independent.co.uk/news/uk/politics/he-visited-in-glory-days-of-97-but-has-blair-kept-his-vow-to-aylesbury-estate-484821.html) in 1997, where he [said](http://www.bbc.co.uk/news/special/politics97/news/06/0602/blair.shtml) there must be _"no no-hope areas"_ in new Labour's Britain. 
+It was no coincidence that the estate was selected by Tony Blair for his [first speech as prime minister](http://www.independent.co.uk/news/blairs-pledge-to-the-dark-estates-1253883.html) in 1997, where he [said](http://www.bbc.co.uk/news/special/politics97/news/06/0602/blair.shtml) there must be no more _"no-hope areas"_ in new Labour's Britain. 
 
->"Behind the statistics lie households where three generations have never had a job. There are estates where the biggest employer is the drugs industry, where all that is left of the high hopes of the post-war planners is derelict concrete. Behind the statistics are people who have lost hope, trapped in fatalism."
+>"Behind the statistics lie households where three generations have never had a job. There are estates where the biggest employer is the drugs industry, where all that is left of the high hopes of the post-war planners is derelict concrete. Behind the statistics are people who have lost hope, trapped in fatalism." (Tony Blair, inaugural speech, May 1997) 
 
-Blair vowed to _'learn from the mistakes of the past'_ and replace the dogma of bygone housing policies with pragmatism. 
+Blair vowed to _'learn from the mistakes of the past'_ and replace the dogma of bygone housing policies with pragmatism and common sense. 
 
 ## Dogma vs pragmatism
 Given that the Aylesbury regeneration has been driven largely by infallible dogma to date, the __Aylesbury Alternative Plan__ aims to restore pragmatism and common sense to the scheme.
@@ -46,4 +46,7 @@ And make representations to t
 *Six Acres estate before and after regeneration*
 
 ### Bijlmermeer estate
-https://www.dezeen.com/2017/03/11/colossal-amsterdam-housing-estate-up-to-date-customisable-apartments-architecture/
+
+![](/img/biljmeer.jpg)
+
+[https://www.dezeen.com/2017/03/11/colossal-amsterdam-housing-estate-up-to-date-customisable-apartments-architecture/](https://www.dezeen.com/2017/03/11/colossal-amsterdam-housing-estate-up-to-date-customisable-apartments-architecture/)
