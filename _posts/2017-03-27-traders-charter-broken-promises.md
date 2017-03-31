@@ -5,12 +5,16 @@ subtitle: Elephant shopping centre traders denied promised help
 published: false
 ---
 As residents of the Heygate estate discovered, early [regeneration promises](http://heygatewashome.org/displacement.html) made to those [pushed aside](http://35percent.org/2013-06-08-the-heygate-diaspora/) are [seldom fulfilled](http://www.reuters.com/article/us-britain-london-housing-idUSKCN0SD0OV20151019), but the scale of the unfulfilled committments made by Southwark to the independant small traders at the Elephant & Castle puts  its duplicity on the Heygate into the shade.
-The committments were made in a Business Continuity Charter, drawn up and [recommended to Southwark's Executive Committee in 2007](http://moderngov.southwark.gov.uk/Data/Overview%20&%20Scrutiny%20Committee/20070709/Agenda/Attachment%202.pdf).  The Charter gives a range of undertakings, designed to maintain small traders through the whole development process. The centre was to be maintained as an  _'attractive environment for customers'_; service charges were to be kept at the lowest possible level, with a cap or freeze on rents.  There would be funding for independent legal advice on leases and tenancy matters, early release from tenancies, should it be needed and a compensation mechanism for _'adverse impacts of the regeneration'_.  When the time came for moving traders would get first refusal for both Southwark's commercial retail units and those secured via section 106 agreements with its other development partners;there would be discounted rents of about 40% market rent for 5 years.   The report which presents the Charter even floats the idea of building new premises for displaced traders.
-
-
-
+The committments were made in a Business Continuity Charter, drawn up and [recommended to Southwark's Executive Committee in 2007](http://moderngov.southwark.gov.uk/Data/Overview%20&%20Scrutiny%20Committee/20070709/Agenda/Attachment%202.pdf).
 
 ![](/img/lbstraderscharter.png)
+
+The Charter gives a range of undertakings, designed to maintain small traders through the whole development process. The centre was to be maintained as an  _'attractive environment for customers'_ and service charges were to be kept at the lowest possible level, with a cap or freeze on rents.  There would be funding for independent legal advice on leases and tenancy matters and early release from tenancies, should it be needed.  A compensation mechanism for _'adverse impacts of the regeneration'_ would be sought and when the time came for moving, traders would get first refusal for both Southwark's commercial retail units and those secured via section 106 agreements with its other development partners.  Discounted rents would be available at about 40% market rent for 5 years.   The report which presents the Charter even floats the idea of building new premises for displaced traders.
+
+
+
+
+
 
 T![](/img/lbstraderscharterextract.png)
 
