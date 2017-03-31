@@ -42,6 +42,8 @@ At a trader's meeting last week Southwark said that there will be affordable uni
 
 Southwark is to consider how to support traders at a Cabinet meeting on 9 May -  10 years, 4 months and 9 days after it considered the Charter.  There is only one thing that an honest and decent Council would do at that meeting and## Southwark needs to repair its shredded credibility after the Heygate debacle.  Southwark must honour the undertakings made in the Charter, with the cost met by Delancey through an S106 agreement. If Delancey does not do this (and also include 50% social rented housing in its affordable housing offer) Southwark must refuse its planning application.###
 
+END
+
 
 
 However, Lendlease didn't provide any affordable retail at the subsidies agreed in the Charter.
