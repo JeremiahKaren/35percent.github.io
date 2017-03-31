@@ -22,6 +22,8 @@ The Charter gives a range of undertakings, designed to maintain small traders th
 
 The Charter is a creditable attempt to help the traders and appears in the Council's planning policy framework for the Elephant & Castle regeneration of 2012, along with details of the rent subsidies.
 
+![](/img/charterspd.png)
+
 But this is Southwark and so we cannot be surprised that, in fact, none of the the committments in the Charter have been fulfilled - no legal help, no compensation mechanism, no rent freeze, only rising service charges.
 
 We have detailed [elsewhere](http://35percent.org/tribeca-square/) how Sainsburys barged small traders aside, denying them the most desirable location on Delancey's Elephant One development, and how another prospective location, the Market Square has [lost its market](http://35percent.org/tribeca-square/).  Delancey also took the opportunity, while putting out the welcome mat for Sainsbury, to remove the option of preferential consideration for a free market unit from centre traders (image).  
@@ -36,7 +38,7 @@ Southwark is to consider how to support traders at a Cabinet meeting on 9 May - 
 
 
 
-![](/img/charterspd.png)     
+     
 
 However, Lendlease didn't provide any affordable retail at the subsidies agreed in the Charter.
 
