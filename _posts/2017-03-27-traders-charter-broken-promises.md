@@ -30,6 +30,8 @@ We have detailed [elsewhere](http://35percent.org/tribeca-square/) how Sainsbury
 
 Indeed it is hard to see how Delancey could make its distaste for the traders any clearer, short of taking out an advert in Southwark News.  The 9 units of affordable retail that remain in Elephant One and which should have been given to traders 15 months [before the scheme was completed](http://planbuild.southwark.gov.uk/documents/?casereference=13/AP/2302&system=DC) remain empty.   Delancey's disdains to provide any affordable retail in shopping centre application and [thumbs its nose](http://35percent.org/2016-12-19-delancey-submits-shopping-centre-application/) at any relocation strategy.
 
+![](/img/elephantmagazinedelancey.png)
+
 At a trader's meeting last week Southwark said that there will be affordable units in Elephant One (but only 7) and that they have taken issue with Delancey about the lack of any affordable retail or a relocation strategy.  But Delancey are playing Southwark for fools and will be all the more encouraged having seen themselves eulogised in _Southwark Life_, the Council magazine, for its role at the Elephant and as Southwark's development partner.
 
 **Ten years after**
@@ -61,7 +63,7 @@ www.southwarknews.co.uk/news/new-latin-quarter-elephant-castle-earns-councils-fu
 
 [](elephantmagazine-rotated.pdf)
 
-![](/img/elephantmagazinedelancey.png)
+
 
 Southwark's [development plan](http://www.southwark.gov.uk/assets/attach/1817/1.0.5%20Elephant%20%26%20Castle%20SPD%20OAPF.pdf) for the Elephant and Castle was adopted in 2012 after five years of consultation with stakeholders and the local community. This included the Elephant & Castle shopping centre traders who had successfully lobbied the Council for a Charter, which set out the principles by which they would be provided for and included within the redevelopment scheme.
 
