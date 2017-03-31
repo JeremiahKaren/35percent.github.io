@@ -53,7 +53,7 @@ And make representations to t
 
 ### Gladsaxe
 
-![](/img/gladsaxe)
+![](/img/gladsaxe.jpg)
 
 [https://www.behance.net/gallery/6157371/hoeje-gladsaxe](https://www.behance.net/gallery/6157371/hoeje-gladsaxe)
 
