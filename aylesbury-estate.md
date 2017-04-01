@@ -4,11 +4,15 @@ title: "Aylesbury Estate"
 sharing: true
 footer: true
 ---
-The Aylesbury estate regeneration was initiated by Tony Blair as part of New Labour's '[Urban Task Force](http://en.wikipedia.org/wiki/Towards_an_Urban_Renaissance)' inner-city renewal programme. He chose the Aylesbury as the location for his inaugural ['forgotten people'](https://www.youtube.com/watch?v=q_HGgT--AGs) speech, directly after being voted in as prime minister in 1997. He visited the estate again in 2005, shortly before the Cabinet decision was made to proceed with the redevelopment.
+Aylesbury estate was selected by Tony Blair for his [first speech as prime minister](http://www.independent.co.uk/news/blairs-pledge-to-the-dark-estates-1253883.html) in 1997, where he made his 'forgotten people' speech, [saying](http://www.bbc.co.uk/news/special/politics97/news/06/0602/blair.shtml) there must be no more _"no-hope areas"_ in new Labour's Britain. 
+
+>"Behind the statistics lie households where three generations have never had a job. There are estates where the biggest employer is the drugs industry, where all that is left of the high hopes of the post-war planners is derelict concrete. Behind the statistics are people who have lost hope, trapped in fatalism." (Tony Blair, inaugural speech, May 1997) 
+
+Blair vowed to _'learn from the mistakes of the past'_ and replace the dogma of bygone housing policies with pragmatism and common sense. The estate's regeneration was subsequently initiated as part of New Labour's '[Urban Task Force](http://en.wikipedia.org/wiki/Towards_an_Urban_Renaissance)' inner-city renewal programme.
 
 ![](http://static.guim.co.uk/sys-images/Guardian/Pix/pictures/2010/12/26/1293402722326/Tony-Blair-at-the-Aylesbu-007.jpg)
 
-The project was subsequently awarded £56m funding under the ['New Deal for Communities'](http://en.wikipedia.org/wiki/New_Deal_for_Communities) partnership as part of Blair's urban renewal programme.  
+The project was awarded £56m funding under the ['New Deal for Communities'](http://en.wikipedia.org/wiki/New_Deal_for_Communities) partnership as part of the renewal programme.  
 
 ## Failed Ballot
 ![](http://betterelephant.github.io/images/novote.png)
