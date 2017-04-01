@@ -48,10 +48,11 @@ The [officer's report](http://planbuild.southwark.gov.uk/documents/?GetDocument=
 
 ![](/img/oneblackfriarscs.png)
 
-The development [came under fire](http://www.standard.co.uk/news/london/luxury-london-flat-advert-branded-the-creepiest-thing-you-will-ever-see-9966793.html) in January 2015, when its promoters produced a [bizzare promotional film](http://uk.businessinsider.com/bizarre-one-blackfriars-ad-from-new-homes-london-2015-1) showing a couple arriving at the development in a private helicopter.
+The development [came under fire](http://www.standard.co.uk/news/london/luxury-london-flat-advert-branded-the-creepiest-thing-you-will-ever-see-9966793.html) in January 2015, when its promoters produced a [bizzare promotional film](http://uk.businessinsider.com/bizarre-one-blackfriars-ad-from-new-homes-london-2015-1) showing a couple househunting in a helicopter.
 
-<video width="60%" height="540" autoplay loop muted markdown="1">
-        <source src="video.uk.businessinsider.com/17752679-8193-461a-a70a-0b316af866de.mp4" type="video/mp4" markdown="1" >
-    </video>
+Brochures for __One Blackfriars__ can be downloaded in [Russian](/img/obrussian.pdf), [Chinese](/img/obchinese.pdf) and [Arabic](/img/obarabic.pdf).
 
-Brochures can be downloaded in [Russian](/img/obrussian.pdf), [Chinese](/img/obchinese.pdf) and [Arabic](/img/obarabic.pdf).
+## Conclusion
+Sky, Towers, Ambition - Southwark's motto at MIPIM
+
+![](/img/southwarkMIPIMstand.png)

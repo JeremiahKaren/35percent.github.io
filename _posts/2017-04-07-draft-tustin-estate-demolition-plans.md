@@ -32,11 +32,14 @@ The build programme is being used both as an excuse to demolish the borough's co
 
 ![](/img/melonroad.png)
 
-The new 'council' homes will only be 25% social rented.  SRPP report.
+The new 'council' homes will only be 25% social rented.  (SRPP council Cabinet report).
 
-## 11000 new council homes
-During the interview, Cllr John brushes off criticism concerning the loss of social housing on the Heygate, with the claim that Southwark has got the country's largest council house building programme, with a target of building 11,000 new council homes over the next 30 years (366 per year).  
-However, [data just published by the 
+## 11000 new (social and private) council homes
+We [blogged](http://35percent.org/2014-10-18-southwark-mipim-and-the-11000-new-council-homes/) in 2014 about Southwark's plan for 11,000 new 'council homes' including a proportion of private homes.
+
+![](/img/southwarkMIPIMstand.png)
+
+[Data just published by the 
 government](https://medium.com/@lukewbarratt/fact-checking-hackney-mayor-philip-glanville-on-social-housing-b3ceeeaf53e3#.149mqus0q) shows that during the last 12 months Southwark built just 74 new council homes. At this rate it will be 149 years before it reaches its target of 11,000 new council homes.
   
 [Government 
