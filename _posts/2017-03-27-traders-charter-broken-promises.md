@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Traders Betrayed
-subtitle: The forgotten promises to shopping centre traders
+title: '"Traders Betrayed"'
+subtitle: The forgotten promises to shopping centre trader
 published: true
 date: 2016/04/02
 ---
