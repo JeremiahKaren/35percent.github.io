@@ -57,15 +57,6 @@ END
 
 
 
-However, Lendlease didn't provide any affordable retail at the subsidies agreed in the Charter.
-
-We need to remind our Cabinet member for Regeneration of his promises to traders, which up until less than a year ago vowed to include them in the regeneration plans:
-
-No favours for Delancey
-
-
-
-
 
 
 ![](/img/mwquote.png)
