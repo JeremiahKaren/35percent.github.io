@@ -1,8 +1,9 @@
 ---
 layout: post
 title: Traders Betrayed
-subtitle: Elephant shopping centre traders denied promised help
+subtitle: The forgotten promises to shopping centre traders
 published: true
+date: 2016/04/02
 ---
 As residents of the Heygate estate discovered, early [regeneration promises](http://heygatewashome.org/displacement.html) made to those [pushed aside](http://35percent.org/2013-06-08-the-heygate-diaspora/) are [seldom kept](http://www.reuters.com/article/us-britain-london-housing-idUSKCN0SD0OV20151019), but the scale of the unfulfilled committments made by Southwark to the independant small traders at the Elephant & Castle shopping centre puts the Heygate into the shade.
 The committments are made in a Business Continuity Charter, drawn up and [recommended to Southwark's Executive Committee in 2007](http://moderngov.southwark.gov.uk/Data/Overview%20&%20Scrutiny%20Committee/20070709/Agenda/Attachment%202.pdf). (NB The [Executive](http://moderngov.southwark.gov.uk/Data/Executive/20070130/Agenda/Executive%20Minutes%2030%20January%202007.pdf) then included Cllr Kim Humphreys. As plain Kim Humphreys, he now works on behalf of shopping centre developer, Delancey [^1]).
