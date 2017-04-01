@@ -45,7 +45,7 @@ Indeed it is hard to see how Delancey could make its distaste for the traders an
 
 ![](/img/elephantmagazinedelancey.png)
 
-At a trader's meeting last week Southwark said that there will be affordable units in Elephant One (but only 7) and that they have taken issue with Delancey about the lack of any affordable retail or a relocation strategy.  But Delancey are playing Southwark for fools and will be all the more encouraged having seen themselves eulogised in _Southwark Life_, the Council magazine, for its role at the Elephant and as Southwark's development partner.
+At a trader's meeting last week Southwark said that there will be affordable units in Elephant One (but only seven) and that they have taken issue with Delancey about the lack of any affordable retail or a relocation strategy.  But Delancey are playing Southwark for fools and will be all the more encouraged having seen themselves flattered for its role at the Elephant and as Southwark's development partner, in the Council's _The Elephant Magazine_.  
 
 **Ten years after**
 
