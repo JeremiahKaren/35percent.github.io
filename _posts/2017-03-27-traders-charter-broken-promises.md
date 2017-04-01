@@ -47,7 +47,7 @@ Southwark is to consider how to support traders at a Cabinet meeting on 9 May - 
 
 END
 
-[^1]: Cllr Humprheys was absent from the 2007 meeting. He was also deputy leader and Executive member for Housing and responsible for the [Heygate's decant](http://35percent.org/2013-12-07-kim-humphreys-exit-stage-left/). Cllr Humphreys is now plain Kim Humphreys, founder of [Carvil Ventures](http://carvil-ventures.co.uk/about-us) who are [_'providing public affairs services'_ ](http://carvil-ventures.co.uk/case-studies) to Delancey).
+[^1]: Cllr Humprheys was absent from the 2007 meeting. He was also deputy leader and Executive member for Housing and responsible for the [Heygate's decant](http://35percent.org/2013-12-07-kim-humphreys-exit-stage-left/).  He is founder of [Carvil Ventures](http://carvil-ventures.co.uk/about-us) who are [_'providing public affairs services'_ ](http://carvil-ventures.co.uk/case-studies) to Delancey).
 
 
 
