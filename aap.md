@@ -33,6 +33,8 @@ The blocks were designed such that there was free movement on ground level under
 
 Our objective is submit an application for a CERTIFICATE OF APPROPRIATE ALTERNATIVE DEVELOPMENT under SECTION 17 OF THE PLANNING COMPENSATION ACT 1991 and present the alternative plan to the CPO public inquiry for the Wendover phase in late 2018.  
 
+![](/img/phase1.jpg)
+*Wendover blocks highlighted in yellow*
 
 ## Similar refurb projects
 
