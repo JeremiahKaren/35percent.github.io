@@ -34,7 +34,7 @@ The Charter is a creditable attempt to help the traders, but this is Southwark, 
 We have detailed [elsewhere](http://35percent.org/tribeca-square/) how Sainsburys barged small traders aside, denying them the most desirable location on Delancey's Elephant One development, and how another prospective location, the Market Square has [lost its market](http://35percent.org/tribeca-square/).  Delancey also took the opportunity, while putting out the welcome mat for Sainsbury, to remove the option of preferential consideration for a free market unit from centre traders.
 
 ![Untitled.png]({{site.baseurl}}/img/Untitled.png)
-*Extract from Deed of Variation 14 March 2014*
+*Extract from [Deed of Variation 14 March 2014](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!XhRoRGo5W%2fA9Lo2WaMsAcg%3d%3d!%7d%7d%7d)*
 
 
 Indeed it is hard to see how Delancey could make its distaste for the traders any clearer, short of taking out an advert in Southwark News.  The 9 units of affordable retail that remain in Elephant One and which should have been given to traders 15 months [before the scheme was completed](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!XhRoRGo5W%2fA9Lo2WaMsAcg%3d%3d!%7d%7d%7d) remain empty.   Delancey's disdains to provide any affordable retail in shopping centre application and [thumbs its nose](http://35percent.org/2016-12-19-delancey-submits-shopping-centre-application/) at any relocation strategy.
