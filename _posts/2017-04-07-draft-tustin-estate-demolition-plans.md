@@ -4,9 +4,9 @@ title: "Tustin estate earmarked for demolition"
 subtitle: "200 homes on the Old Kent Road's Tustin estate up for demolition as the Nu Labour wrecking ball rolls on"
 published: false
 ---
-In 2015 there was uproar after Southwark carried out a survey of its council estates, identifying those with a 'net negative value'. 
+In 2015 there was [uproar](https://www.southwarknews.co.uk/news/your-home-is-worth-less-than-nothing-council-report-evaluates-southwark-properties/) after Southwark carried out a [survey](http://35percent.org/the-southwark-clearances/#completing-southwarks-clearances-with-savills) of its council estates, identifying those with a 'net negative value'. 
 
-In response, the Council's Cabinet member for Housing promised that there would be _'no more wholesale estate demolition'_.
+In response to media criticism, the Council's Cabinet member for Housing promised that there would be _'no more wholesale estate demolition'_.
  
 ![](/img/pinnochio.png)
 *Cllr Livingstone's promise to council estate residents in the [Southwark News](https://www.southwarknews.co.uk/news/no-more-wholesale-estate-demolition-says-housing-boss/)*
@@ -27,7 +27,7 @@ We [reported last year](http://35percent.org/2016-07-10-opportunity-knocks-down-
 ![](/img/tustinlowrise.jpg)
 
 
-## New 'council homes' are privatisation
+## New 'council homes' - privatisation via the back door
 The build programme is being used both as an excuse to demolish the borough's council estates; and as an excuse to privatise public land, as the land used to build the new homes is council land. Often green space, but also schools, play areas a library etc. 
 
 ![](/img/melonroad.png)
@@ -42,4 +42,4 @@ government](https://medium.com/@lukewbarratt/fact-checking-hackney-mayor-philip-
 [Government 
 data](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/568423/LiveTable_123.xls) shows that in the same year it demolished 410 homes. 
 
-/img/cllrjohn_michaelheseltine.jpg
+![](/img/cllrjohn_michaelheseltine.jpg)

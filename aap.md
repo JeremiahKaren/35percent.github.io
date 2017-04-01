@@ -36,6 +36,9 @@ Our objective is submit an application for a CERTIFICATE OF APPROPRIATE ALTERNAT
 ![](/img/phase1.jpg)
 *Wendover blocks highlighted in yellow*
 
+![](/img/wendcomp.jpg)
+*Wendover (left) - and how it could look after refurbishment (right)*
+
 ## Similar refurb projects
 
 ## Six Acres estate (Islington)
