@@ -25,13 +25,9 @@ The Business Continuity Charter gives a range of undertakings, designed to maint
 
 **Part of the Elephant & Castle 2012 SPD**
 
-
-
-The Charter is a creditable attempt to help the traders and appears in the Council's 2012 planning policy framework for the Elephant & Castle regeneration of 2012, along with details of the rent subsidies.
+The Charter is a creditable attempt to help the traders, but this is Southwark, so, despite appearing  in the Council's 2012 planning policy framework for the Elephant regeneration, along with details of the rent subsidies, none of the Charter's commitments have been fulfilled - no legal help, no compensation mechanism, no rent freeze, only rising service charges.
 
 ![](/img/charterspd.png)
-
-But this is Southwark and so we cannot be surprised that, in fact, none of the the committments in the Charter have been fulfilled - no legal help, no compensation mechanism, no rent freeze, only rising service charges.
 
 **Big boys first**
 
