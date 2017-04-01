@@ -23,6 +23,8 @@ The Business Continuity Charter gives a range of undertakings, designed to maint
 
 ![](/img/lbstraderscharterextract.png)
 
+**Part of the Elephant & Castle 2012 SPD**
+
 
 
 The Charter is a creditable attempt to help the traders and appears in the Council's 2012 planning policy framework for the Elephant & Castle regeneration of 2012, along with details of the rent subsidies.
