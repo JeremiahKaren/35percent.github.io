@@ -49,28 +49,6 @@ At a trader's meeting last week Southwark said that there will be affordable uni
 
 **Ten years after**
 
-Southwark is to consider how to support traders at a Cabinet meeting on 9 May -  10 years, 4 months and 9 days after it considered the Charter.  There is only one thing that an honest and decent Council would do at that meeting and## Southwark needs to repair its shredded credibility after the Heygate debacle.  Southwark must honour the undertakings made in the Charter, with the cost met by Delancey through an S106 agreement. If Delancey does not do this (and also include 50% social rented housing in its affordable housing offer) Southwark must refuse its planning application.
-
-END
+Southwark is to consider how to support traders at a Cabinet meeting on 9 May -  10 years, 4 months and 9 days after it considered the Charter.  There is only one thing that an honest and decent Council would do at that meeting and Southwark needs to repair its shredded credibility after the Heygate debacle.  Southwark must honour the undertakings made in the Charter, with the cost met by Delancey through an S106 agreement. If Delancey does not do this (and also include 50% social rented housing in its affordable housing offer) Southwark must refuse its planning application.
 
 [^1]: Cllr Humprheys was absent from the 2007 meeting. He was also deputy leader and Executive member for Housing and responsible for the [Heygate's decant](http://35percent.org/2013-12-07-kim-humphreys-exit-stage-left/).  He is founder of [Carvil Ventures](http://carvil-ventures.co.uk/about-us) who are [_'providing public affairs services'_ ](http://carvil-ventures.co.uk/case-studies) to Delancey).
-
-
-
-
-
-![](/img/mwquote.png)
-
-www.southwarknews.co.uk/news/new-latin-quarter-elephant-castle-earns-councils-full-backing/
-
-<iframe width="400" height="225" src="https://www.youtube.com/embed/KlJFZXSgO9g" frameborder="0" allowfullscreen></iframe>
-
-[](elephantmagazine-rotated.pdf)
-
-
-
-Southwark's [development plan](http://www.southwark.gov.uk/assets/attach/1817/1.0.5%20Elephant%20%26%20Castle%20SPD%20OAPF.pdf) for the Elephant and Castle was adopted in 2012 after five years of consultation with stakeholders and the local community. This included the Elephant & Castle shopping centre traders who had successfully lobbied the Council for a Charter, which set out the principles by which they would be provided for and included within the redevelopment scheme.
-
-
-
-as that which had been agreed for the 'Volvo site' i.e. Delancey's __Elephant One__
