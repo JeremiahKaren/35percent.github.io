@@ -15,48 +15,44 @@ It was no coincidence that the estate was selected by Tony Blair for his [first 
 Blair vowed to _'learn from the mistakes of the past'_ and replace the dogma of bygone housing policies with pragmatism and common sense. 
 
 ## Dogma vs pragmatism
-Given that the Aylesbury regeneration has been driven largely by infallible dogma to date, the __Aylesbury Alternative Plan__ aims to restore pragmatism and common sense to the scheme.
+History having now shown that the Aylesbury regeneration has been driven wholly by nothing but infallible dogma to date, the __Aylesbury Alternative Plan__ aims to restore pragmatism and common sense to the scheme.
 
- .. pragmatic approach .. keeping the best of the existing urban environment whilst acknowleding the need for an uplift in housing.
+Our plans aim to keep the best of the existing urban environment whilst acknowleding the need for an uplift in housing by providing for a degree of in-fill redevelopment.
 
-Austerity - we show how our alternative plan is better not just socially and environmentally, but also economically as it will require lower capital expenditure for the Council. 
+Austerity and the business case for refurbisment - at a time of unprecedented budget cuts and a growing black hole in the council's finances, we show how our alternative plan is better not just socially and environmentally, but also economically as it has a significantly lower capital expenditure requirement. 
 
-The most iconic/symbolic part of the estate is the Wendover blocks - two long blocks running disecting the estate from North to South, running continuously
-
-![](/img/wendover.jpg)
+## The Wendover blocks
+The most iconic component of the Aylesbury estate is the Wendover blocks. These two long blocks disecting the estate, running from North to South continuously.
 
 ![](/img/wendover2.jpg)
 
-![](/img/wendoverparking.jpg)
+The blocks were designed such that there was free movement on ground level underneath them. However this space has been sealed off by the council creating an unpermeable and hostile environment. Our plan will restore this public realm and create new communal spaces to enhance the urban environment and fulfil regeneration objectives.
 
 ![](/img/aylesburyparkingspace.png)
-*Caged former parking space underneath the Wendover blocks*
+*Sealed-off public realm underneath the Wendover blocks*
 
-Our objective is submit an APPLICATION FOR CERTIFICATE OF APPROPRIATE ALTERNATIVE DEVELOPMENT
-LAND COMPENSATION ACT 1961, SECTION 17 AS SUBSTITUTED BY SECTION 63 OF 
-THE PLANNING COMPENSATION ACT 1991
+Our objective is submit an application for a CERTIFICATE OF APPROPRIATE ALTERNATIVE DEVELOPMENT under SECTION 17 OF THE PLANNING COMPENSATION ACT 1991 and present the alternative plan to the CPO public inquiry for the Wendover phase in late 2018.  
 
-And make representations to t
 
-## Similar projects
+## Similar refurb projects
 
-## Six Acres estate
+## Six Acres estate (Islington)
 
 ![](/img/sixacresbeforeafter.jpg) 
 *Six Acres estate before and after regeneration*
 
-### Bijlmermeer estate
+### Bijlmermeer (The Netherlands)
 
 ![](/img/biljmeer.jpg)
 
 [https://www.dezeen.com/2017/03/11/colossal-amsterdam-housing-estate-up-to-date-customisable-apartments-architecture/](https://www.dezeen.com/2017/03/11/colossal-amsterdam-housing-estate-up-to-date-customisable-apartments-architecture/)
 
-### Gladsaxe
+### Gladsaxe (The Netherlands)
 
 ![](/img/gladsaxe.jpg)
 
 [https://www.behance.net/gallery/6157371/hoeje-gladsaxe](https://www.behance.net/gallery/6157371/hoeje-gladsaxe)
 
-### Park Hill estate
+### Park Hill estate (Sheffield)
 
 ![](/img/parkhill.jpg)
