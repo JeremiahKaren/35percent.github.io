@@ -1,8 +1,9 @@
 ---
 layout: page
-title: "Aylesbury Alternative plan (AAP)"
-subtitle: "Alternative regeneration plan for the Aylesbury estate"
+title: Aylesbury Alternative plan (AAP)
+subtitle: Alternative regeneration plan for the Aylesbury estate
 footer: true
+published: true
 ---
 The Aylesbury estate is a symbol; it is the symbol of an architecture and politics at odds with the aesthetic of recent times.
 
@@ -46,13 +47,13 @@ Our objective is submit an application for a CERTIFICATE OF APPROPRIATE ALTERNAT
 ![](/img/sixacresbeforeafter.jpg) 
 *Six Acres estate before and after regeneration*
 
-### Bijlmermeer (The Netherlands)
+### Bijlmermeer (Amsterdam)
 
 ![](/img/biljmeer.jpg)
 
 [https://www.dezeen.com/2017/03/11/colossal-amsterdam-housing-estate-up-to-date-customisable-apartments-architecture/](https://www.dezeen.com/2017/03/11/colossal-amsterdam-housing-estate-up-to-date-customisable-apartments-architecture/)
 
-### Gladsaxe (The Netherlands)
+### Gladsaxe (Denmark)
 
 ![](/img/gladsaxe.jpg)
 
