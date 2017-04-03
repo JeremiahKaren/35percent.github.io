@@ -38,7 +38,7 @@ Our objective is submit an application for a CERTIFICATE OF APPROPRIATE ALTERNAT
 *Wendover blocks highlighted in yellow*
 
 ![](/img/wendcomp.jpg)
-*Wendover (left) - and how it could look after refurbishment (right)*
+*Wendover now (left) - and how it could look after refurbishment (right)*
 
 ## Similar refurb projects
 
