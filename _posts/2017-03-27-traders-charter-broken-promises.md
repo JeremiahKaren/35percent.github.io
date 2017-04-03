@@ -26,7 +26,7 @@ The Charter is a creditable attempt to help the traders, but this is Southwark, 
 ## Big boys first
 We have detailed [elsewhere](http://35percent.org/tribeca-square/#affordable-retail-units-sold-to-sainsburys) how Sainsburys barged small traders aside, denying them the most desirable location on Delancey's [__Elephant One__](http://35percent.org/tribeca-square) development, and how another prospective location, the Market Square has [lost its market](http://35percent.org/2017-03-12-delanceys-dirty-tricks/). Delancey also took the opportunity, while putting out the welcome mat for Sainsbury, to remove the option of preferential consideration for a free market unit from centre traders.
 
-![Untitled.png]({{site.baseurl}}/img/Untitled.png)
+![](http://35percent.org/img/deedvariationelephantone.png)
 *Extract from [Deed of Variation 14 March 2014](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!XhRoRGo5W%2fA9Lo2WaMsAcg%3d%3d!%7d%7d%7d)*
 
 Indeed it is hard to see how Delancey could make its distaste for the traders any clearer, short of taking out an advert in Southwark News. The 9 units of affordable retail that remain in Elephant One and which should have been given to traders 15 months [before the scheme was completed](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!XhRoRGo5W%2fA9Lo2WaMsAcg%3d%3d!%7d%7d%7d) remain empty. Delancey's disdains to provide any affordable retail in shopping centre application and [thumbs its nose](http://35percent.org/2016-12-19-delancey-submits-shopping-centre-application/) at any relocation strategy.
@@ -43,4 +43,4 @@ __Footnotes:__
 
 [^1]: Cllr Humphreys was absent from the 2007 meeting. He was also deputy leader and Executive member for Housing and responsible for the [Heygate's decant](http://35percent.org/2013-12-07-kim-humphreys-exit-stage-left/). He is founder of [Carvil Ventures](http://carvil-ventures.co.uk/about-us) who are [_'providing public affairs services'_ ](http://carvil-ventures.co.uk/case-studies) to Delancey).
 
-[^2]: Rent Subsidies listed in Charter: Year 1 - Rent  free; Year 2 - £15psf x NIA of Unit; Year 3 - (Market Rental Value - £15psf) x 25% + £15psf x NIA; Year 4 - (Market Rental Value - £15psf) x 50% + £15psf x NIA; Year 5 - (Market Rental Value - £15psf) x 75% + £15psf x NIA; Years 6-10 - Review to Market Rental Value.
+[^2]: Rent Subsidies referred to in Charter: Year 1 - Rent  free; Year 2 - £15psf x NIA of Unit; Year 3 - (Market Rental Value - £15psf) x 25% + £15psf x NIA; Year 4 - (Market Rental Value - £15psf) x 50% + £15psf x NIA; Year 5 - (Market Rental Value - £15psf) x 75% + £15psf x NIA; Years 6-10 - Review to Market Rental Value.
