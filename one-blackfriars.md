@@ -4,7 +4,7 @@ title: "One Blackfriars"
 sharing: true
 footer: true
 ---
-![](http://crappistmartin.github.io/images/oneblackfriars.png)
+![](/img/obcgi.jpg)
 
 Berkeley Group's __'One Blackfriars'__ is a development of 274 luxury homes in a 50 storey glass tower with a total development value of £700m.
 
@@ -37,22 +37,15 @@ However, the [small print](http://planbuild.southwark.gov.uk/documents/?GetDocum
 ![](/img/viewingloungecs.png)
 *Extract from the [planning application documents](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!yEWdLLdNR%2bJj86NpOhjqfw%3d%3d!%7d%7d%7d)*
 
-Berkeley's [brochure](/img/oneblackfriarsbrochure.pdf) advertises the 'public viewing lounge' as a private executive lounge.. (page 45)
+Indeed, Berkeley's [brochure](/img/oneblackfriarsbrochure.pdf) advertises the 'public viewing lounge' as a private executive lounge.. (page 45)
 
 ![](/img/executivelounge.png)
 *Extract from Berkeley's [sales brochure](/img/oneblackfriarsbrochure.pdf) for One Blackfriars*
 
-The [officer's report](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!N3XzHN1XX76Wjzxddhd13g%3d%3d!%7d%7d%7d) for the planning application says that (despite policy requirements for zero parking) the developer initially applied for 70% of the flats at One Blackfriars to have parking. This was negotiated down to 40% (110 parking spaces) but the developer argued that anything lower than this would affect the viability of the scheme and its ability to provide s106 contributions:
 
-![](http://crappistmartin.github.io/images/oneblackfriarsparking.png)
+The development [came under fire](http://www.standard.co.uk/news/london/luxury-london-flat-advert-branded-the-creepiest-thing-you-will-ever-see-9966793.html) in January 2015, when its promoters produced a [bizzare promotional film](http://uk.businessinsider.com/bizarre-one-blackfriars-ad-from-new-homes-london-2015-1) showing a macho city type taking his wife househunting in a helicopter.
 
-![](/img/oneblackfriarscs.png)
-
-The development [came under fire](http://www.standard.co.uk/news/london/luxury-london-flat-advert-branded-the-creepiest-thing-you-will-ever-see-9966793.html) in January 2015, when its promoters produced a [bizzare promotional film](http://uk.businessinsider.com/bizarre-one-blackfriars-ad-from-new-homes-london-2015-1) showing a couple househunting in a helicopter.
+![](/img/obmacho.jpg)
 
 Brochures for __One Blackfriars__ can be downloaded in [Russian](/img/obrussian.pdf), [Chinese](/img/obchinese.pdf) and [Arabic](/img/obarabic.pdf).
 
-## Conclusion
-Sky, Towers, Ambition - Southwark's motto at MIPIM
-
-![](/img/southwarkMIPIMstand.png)
