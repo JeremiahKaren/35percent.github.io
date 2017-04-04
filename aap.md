@@ -20,10 +20,10 @@ History having now shown that the Aylesbury regeneration has been driven wholly 
 
 Our plans aim to keep the best of the existing urban environment whilst acknowleding the need for an uplift in housing by providing for a degree of in-fill redevelopment.
 
-Austerity and the business case for refurbisment - at a time of unprecedented budget cuts and a growing black hole in the council's finances, we show how our alternative plan is better not just socially and environmentally, but also economically as it has a significantly lower capital expenditure requirement. 
+Council [briefing papers](http://moderngov.southwark.gov.uk/documents/s63817/Report.Aylesbury%20Regeneration%20Delivery.pdf) show that it is spending over £40m on the Aylesbury scheme during the next two years alone. We aim to present a robust business case for refurbisment - at a time of unprecedented budget cuts and a growing black hole in the council's finances, we show how our alternative plan is better not just socially and environmentally, but also economically as it has a significantly lower capital expenditure requirement.
 
 ## The Wendover blocks
-The most iconic component of the Aylesbury estate is the Wendover blocks. These two long blocks disecting the estate, running from North to South continuously.
+The most iconic component of the Aylesbury estate is the Wendover blocks. These two long blocks disect the estate, running from North to South continuously.
 
 ![](/img/wendover2.jpg)
 
