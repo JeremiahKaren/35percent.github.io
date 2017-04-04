@@ -6,7 +6,7 @@ footer: true
 ---
 ![](/img/obcgi.jpg)
 
-Berkeley Group's __'One Blackfriars'__ is a development of 274 luxury homes in a 50 storey glass tower with a total development value of £700m.
+This atrocity is Berkeley Group's __'One Blackfriars'__; a development of 274 luxury homes in a 50 storey glass tower with a 110-space multilevel parking basement below. The total development value is approximately £700m.
 
 [Planning application documents](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!yEWdLLdNR%2bJj86NpOhjqfw%3d%3d!%7d%7d%7d) for __One Blackfriars__ claim that the unique design of the building _"is inspired by both the sculptures of Brancussi, Henry Moore and 1950s Finnish glassware design"_. (page 48) 
 
@@ -15,17 +15,19 @@ Berkeley Group's __'One Blackfriars'__ is a development of 274 luxury homes in a
 The scheme was originally given planning consent in 2009 which included a public 'sky deck' on the top floors, allowing public access to some of London's best views. However, this was [axed](http://www.london-se1.co.uk/news/view/5776) three years later after the development changed hands. Berkeley claimed that there would be competition with the public sky deck at the Shard and that it would no longer be viable.
 
 ![](/img/bctoptower.png)
+*CGI of the original plans for a public sky deck*
 
 There will be no affordable housing on-site or off-site. This was deemed to be unviable according to a viability assessment undertaken by Savills and submitted to Southwark Council. Instead the developer will pay £29m (4% of total value) in a series of staged payments to the council, towards its council house building programme. 
 
-Berkeley's [planning application](/img/oneblackfriarsplanningapplication.pdf) said that there would be a 'public view lounge' on the 32nd floor. 
+As consolation for loss of the public sky deck, Berkeley's [planning application](/img/oneblackfriarsplanningapplication.pdf) said that there would be a _'public viewing lounge on level 32'_. 
 
 ![](/img/publicviewinglounge.png)
+*Extract from Berkeley's [planning application](/img/oneblackfriarsplanningapplication.pdf)*
 
-The planning application's [planning statement](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!28pvllAgL%2bwF8rb4Xe8zyw%3d%3d!%7d%7d%7d) puts forward the viewing lounge as a material consideration that should be offset against other aspects of the development, which don't comply with policy.
+Berkeley's [planning application statement](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!28pvllAgL%2bwF8rb4Xe8zyw%3d%3d!%7d%7d%7d) puts forward the viewing lounge as a material consideration that should be offset against other aspects of the development, which don't comply with policy.
 
 ![](/img/viewingloungeps.png)
-*Extract from the [planning statement](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!28pvllAgL%2bwF8rb4Xe8zyw%3d%3d!%7d%7d%7d)*
+*Extract from Berkeley's [planning application statement](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!28pvllAgL%2bwF8rb4Xe8zyw%3d%3d!%7d%7d%7d)*
 
 The [One Blackfriars planning committee report](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!N3XzHN1XX76Wjzxddhd13g%3d%3d!%7d%7d%7d) explains that the £29m in-lieu payment was lower than the £35m minimum policy requirement, on the grounds that the development will be providing a _"viewing lounge on the 32nd level, which would be made available to the public by prior arrangement"_. (para. 45) 
 
@@ -37,12 +39,12 @@ However, the [small print](http://planbuild.southwark.gov.uk/documents/?GetDocum
 ![](/img/viewingloungecs.png)
 *Extract from the [planning application documents](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!yEWdLLdNR%2bJj86NpOhjqfw%3d%3d!%7d%7d%7d)*
 
-Indeed, Berkeley's [brochure](/img/oneblackfriarsbrochure.pdf) advertises the 'public viewing lounge' as a private executive lounge.. (page 45)
+Indeed, Berkeley's [brochure](/img/oneblackfriarsbrochure.pdf) advertises the public viewing lounge as a _'private executive lounge'_, an _'exclusive private club'_ for residents.. (page 45)
 
 ![](/img/executivelounge.png)
 *Extract from Berkeley's [sales brochure](/img/oneblackfriarsbrochure.pdf) for One Blackfriars*
 
-
+## 50 shades of grotesque
 The development [came under fire](http://www.standard.co.uk/news/london/luxury-london-flat-advert-branded-the-creepiest-thing-you-will-ever-see-9966793.html) in January 2015, when its promoters produced a [bizzare promotional film](http://uk.businessinsider.com/bizarre-one-blackfriars-ad-from-new-homes-london-2015-1) showing a macho city type taking his wife househunting in a helicopter.
 
 ![](/img/obmacho.jpg)
