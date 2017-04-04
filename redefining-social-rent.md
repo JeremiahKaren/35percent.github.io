@@ -137,7 +137,7 @@ Notting Hill Housing was supposed to provide 22 social rented homes as part of i
 ![](/img/silwoodstreet.png)
 *Redeveloped Silwood estate*
 
-The above examples show that until such time as there has been a borough-wide s106 audit, enforcement action taken and procedures put in place for ongoing monitoring of compliance, then the Council’s use of the term __social rent__ must be assumed to mean __affordable rent__.
+The above examples show that until such time as there has been a borough-wide s106 audit, enforcement action taken and procedures put in place for ongoing monitoring of compliance, then the Council’s use of the term __'social'__ or __'target rent'__ must be assumed to mean __affordable rent__.
 
 ## GLA Muddys the waters
 Meanwhile, in his [draft new planning guidance](https://www.london.gov.uk/sites/default/files/draft_affordable_housing_and_viability_spg_2016.pdf) Mayor Sadiq Khan has complicated matters further by introducing yet more affordable housing tenures; __London Affordable Rent__, __London Living Rent__ and __Discounted Market Rent__. 
