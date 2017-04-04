@@ -45,9 +45,9 @@ Berkeley's most recent [brochure](/img/oneblackfriarsbrochure.pdf) for __One Bla
 *Extract from Berkeley's [sales brochure](/img/oneblackfriarsbrochure.pdf) for One Blackfriars*
 
 ## 50 shades of grotesque
-The development [came under fire](http://www.standard.co.uk/news/london/luxury-london-flat-advert-branded-the-creepiest-thing-you-will-ever-see-9966793.html) in January 2015, when its promoters produced a [bizzare promotional film](http://uk.businessinsider.com/bizarre-one-blackfriars-ad-from-new-homes-london-2015-1) showing a macho city type taking his wife househunting in a helicopter and being served in his luxury __One Blackfriars__ apartment by a butler.
+The development [came under fire](http://www.standard.co.uk/news/london/luxury-london-flat-advert-branded-the-creepiest-thing-you-will-ever-see-9966793.html) in January 2015, when its promoters produced a [bizzare promotional film](http://uk.businessinsider.com/bizarre-one-blackfriars-ad-from-new-homes-london-2015-1) showing a macho city type taking his wife househunting in a helicopter and being served by a butler in their luxury __One Blackfriars__ apartment.
 
 ![](/img/obmacho.jpg)
 
-Brochures for __One Blackfriars__ can be downloaded in [Russian](/img/obrussian.pdf), [Chinese](/img/obchinese.pdf) and [Arabic](/img/obarabic.pdf).
+Berkeley's brochures for __One Blackfriars__ can be downloaded in [Russian](/img/obrussian.pdf), [Chinese](/img/obchinese.pdf) and [Arabic](/img/obarabic.pdf).
 
