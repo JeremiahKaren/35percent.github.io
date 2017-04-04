@@ -39,13 +39,13 @@ However, the [small print](http://planbuild.southwark.gov.uk/documents/?GetDocum
 ![](/img/viewingloungecs.png)
 *Extract from the [planning application documents](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!yEWdLLdNR%2bJj86NpOhjqfw%3d%3d!%7d%7d%7d)*
 
-Indeed, Berkeley's [brochure](/img/oneblackfriarsbrochure.pdf) advertises the public viewing lounge as a _'private executive lounge'_, an _'exclusive private club'_ for residents.. (page 45)
+Berkeley's most recent [brochure](/img/oneblackfriarsbrochure.pdf) for __One Blackfriars__ is now advertising the public viewing lounge as a _'private executive lounge'_, an _'exclusive private club'_ for residents.. (page 45)
 
 ![](/img/executivelounge.png)
 *Extract from Berkeley's [sales brochure](/img/oneblackfriarsbrochure.pdf) for One Blackfriars*
 
 ## 50 shades of grotesque
-The development [came under fire](http://www.standard.co.uk/news/london/luxury-london-flat-advert-branded-the-creepiest-thing-you-will-ever-see-9966793.html) in January 2015, when its promoters produced a [bizzare promotional film](http://uk.businessinsider.com/bizarre-one-blackfriars-ad-from-new-homes-london-2015-1) showing a macho city type taking his wife househunting in a helicopter.
+The development [came under fire](http://www.standard.co.uk/news/london/luxury-london-flat-advert-branded-the-creepiest-thing-you-will-ever-see-9966793.html) in January 2015, when its promoters produced a [bizzare promotional film](http://uk.businessinsider.com/bizarre-one-blackfriars-ad-from-new-homes-london-2015-1) showing a macho city type taking his wife househunting in a helicopter and being served in his luxury __One Blackfriars__ apartment by a butler.
 
 ![](/img/obmacho.jpg)
 
