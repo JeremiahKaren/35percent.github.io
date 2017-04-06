@@ -4,31 +4,40 @@ title: "Blackfriars Circus"
 sharing: true
 footer: true
 ---
-Barratt Homes, Britains third-largest housebuilder, has just [posted](http://www.cityam.com/223932/building-bonanza-barratt-profits-jump-45-cent) a 45% rise in profits to £565.5m during the last financial year.
+Barratt Homes, Britains third-largest housebuilder, [posted](http://www.cityam.com/223932/building-bonanza-barratt-profits-jump-45-cent) a 45% rise in profits to £565.5m last year.
 
-Barratt's success is due in part to its pipeline of major developments in Southwark, which include [__Maple Quays__](http://www.barratthomes.co.uk/new-homes/greater-london/h469201-maple-quays/) (phase 1 of the [Canada Water regeneration](http://crappistmartin.github.io/canada-water/)); [__The Galleria__](http://www.barratthomes.co.uk/new-homes/greater-london/track-record---article-pages/the-galleria/) development in Peckham; [__Redwood Park__](http://www.barratthomes.co.uk/new-homes/greater-london/h309201-redwood-park/) (built on former council land in Surrey Quays) and the 60-acre, 3,500-home Aylesbury estate redevelompent for which Barratt is Notting Hill Housing's [development partner](http://www.nottinghillhousing.org.uk/our-developments/aylesbury-estate-southwark).
+Barratt's success is due in part to its huge pipeline of major developments in Southwark, which include [__Maple Quays__](http://www.barratthomes.co.uk/new-homes/greater-london/h469201-maple-quays/) (phase 1 of the [Canada Water regeneration](http://crappistmartin.github.io/canada-water/)); [__The Galleria__](http://www.barratthomes.co.uk/new-homes/greater-london/track-record---article-pages/the-galleria/) development in Peckham; [__Redwood Park__](http://www.barratthomes.co.uk/new-homes/greater-london/h309201-redwood-park/) (built on former council land in Surrey Quays) and the 60-acre, 3,500-home Aylesbury estate redevelompent for which Barratt is Notting Hill Housing's [development partner](http://www.nottinghillhousing.org.uk/our-developments/aylesbury-estate-southwark).
 
 ![](https://betterblackfriars.files.wordpress.com/2013/05/erlang-house.jpg)
 
-Barratt has also recently started work on its [__'Blackfriars Circus'__](http://www.barratthomes.co.uk/new-homes/greater-london/H625601-Blackfriars-circus/) development, comprising 336 new homes in 5 buildings ranging up to 27 storeys in height, overlooking South Bank University campus at Elephant & Castle. According to [SE1 website](http://www.london-se1.co.uk/news/view/8441) the tallest of these will be known as __'The Conquest Apartments'__. This is an appropriate name for a development that was able to convince Southwark council to waiver the tenure requirements of its 35% affordable housing Policy. These would have secured a minimum 70 social rented homes in the development, but Barratt submitted a viability assessment claiming it would only be viable to provide 8 social rented homes and 48 affordable rent homes. The [officer's report](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!5wmNTTJlhAE1P%2fSH390aXg%3d%3d!%7d%7d%7d) explains that the council had the viability assessment appraised by the 'Borough Valuer' and that _"Whilst a number of inputs into the valuation have been agreed (including commercial values, ground rents, and professional fees) an agreement has not been reached on two fundamental matters: methodology of calculating the benchmark value of the site; and residential sale values. As such, the applicant and the Borough Valuer have not reached an agreed position about how much affordable housing can be delivered on site."_ (para. 109)
+Barratt is also about to complete [__'Blackfriars Circus'__](http://www.barratthomes.co.uk/new-homes/greater-london/H625601-Blackfriars-circus/) a development comprising 336 new homes in 5 buildings ranging up to 27 storeys in height, overlooking South Bank University campus at Elephant & Castle. According to [SE1 website](http://www.london-se1.co.uk/news/view/8441) the tallest of these will be known as __'The Conquest Apartments'__. 
 
-Nevertheless the planning application was waved through and demolition works started on the site earlier this year. However, now it is being [reported](http://www.london-se1.co.uk/news/view/8441) that the council is planning to buy these 8 social and 48 affordable rented homes from Barratt, in order to turn them into social rented council homes at a price tag of £10m.
+This is an appropriate name for a development that was able to convince Southwark council to waiver the tenure requirements of its 35% affordable housing Policy. These would have secured a minimum 70 social rented homes in the development, but Barratt submitted a viability assessment claiming it would only be viable to provide 8 social rented homes, 48 affordable rent and 35 shared ownership. The [officer's report](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!5wmNTTJlhAE1P%2fSH390aXg%3d%3d!%7d%7d%7d) explains that the council had the viability assessment appraised by the 'Borough Valuer' and that _"Whilst a number of inputs into the valuation have been agreed (including commercial values, ground rents, and professional fees) an agreement has not been reached on two fundamental matters: methodology of calculating the benchmark value of the site; and residential sale values. As such, the applicant and the Borough Valuer have not reached an agreed position about how much affordable housing can be delivered on site."_ (para. 109)
 
-The sale (but not price paid) is confirmed in the [freehold land registry deeds](/lrdeeds/blackfriarscircusfreehold.pdf).
+Despite the disagreement over viability figures, the planning application was waved through without any viability review and clawback mechanism. Demolition works started on the site in 2014 and the site is due for completion in spring 2017. 
 
-However, the leasehold [Land Registry deeds](/lrdeeds/blackfriarscircuspartsofblocka.pdf) only show 'parts of block A' to have been purchased by Southwark, for the sum of £4.2m.
+In September 2015, it was [reported](http://www.london-se1.co.uk/news/view/8441) that the council is planning to buy the 8 social and 48 affordable rented homes from Barratt, in order to turn them into new 'council homes'. The price it agreed to pay for the 56 units is £10m.
 
-The Land Registry also lists [deeds](/lrdeeds/blackfriarscircusblockb.pdf) for block B, which has been purchased by housing association Affinity Sutton for £7m.
-
-In 2016, Barratt [applied](http://planbuild.southwark.gov.uk/documents/?casereference=16/AP/4265&system=DC) to the Council to remove the condition that 10% of the flats must be wheelchair accessible. Barratt argued that it had tried to market the wheelchair accessible units but that there were no buyers. The application was approved - by a delegated officer decision.
+This seems like a high price tag for homes sold with an affordable housing covenant, given that Land Registry [deeds](/lrdeeds/blackfriarscircusblockb.pdf) show that Barratt sold the 35 shared ownership units for £8m.
 
 ![](/img/tweetmwilliamsblackfriars.png)
-*[Tweet](https://twitter.com/markwilliams84/status/837314723402100736) by Cabinet member for Regen Mark Williams*
+*[Tweets](https://twitter.com/markwilliams84/status/837314723402100736) by Cabinet member for Regen Mark Williams and Council leader Peter John*
 
 The absurdity of buying homes from developers to convert to social rent when they should have been social rent anyway, is plain for all to see.
+
 However, it also appears that Southwark is paying well over the market price: £10m for 56 affordable housing units seems an awful lot of money compared to the [£3.1m paid](http://crappistmartin.github.io/images/LR_LANDQ_TrafalgarPlace.pdf) by L&Q for 54 affordable homes it brought from Heygate developer Lend Lease at [Trafalgar Place](http://trafalgarplace.com).
 
-Information in the response to [FOI request](https://www.whatdotheyknow.com/request/council_land_sold_2?nocache=incoming-954086) shows that the development is being built partly on Council land.   
+Information in the response to [FOI request](https://www.whatdotheyknow.com/request/council_land_sold_2?nocache=incoming-954086) shows that the development is being built partly on Council land. 
 
-The Council has created a new separate Council waiting list for intermediate housing that will offer 'Discounted Market Rents' rather than Social Rent. Which of these tenures will the 56 new 'Council' homes be let at?
-http://www.insidehousing.co.uk/southwark-council-to-create-intermediate-waiting-list/7018529.article
+The Council has [created a new separate Council waiting list](http://www.insidehousing.co.uk/southwark-council-to-create-intermediate-waiting-list/7018529.article) for intermediate housing that will offer 'Discounted Market Rents' rather than Social Rent. 
+
+In its self published magazine, the Council says that its new 'council homes' will be let at _'target rent, which is around 40% of market rent'_. 
+
+![](/img/southwarklifemagazine.png)
+*Extract from the Council's ["Southwark Life" magazine](http://www.2.southwark.gov.uk/southwarklife)*
+
+Southwark's [latest report](http://www.2.southwark.gov.uk/download/downloads/id/14342/southwark_housing_market_trends_bulletin_q3_2016-17) on rental market data shows that the average market rent for a 1-bed in the Blackfriars Circus postcode (SE1) is £1947 per month. 40% of market rent in this case would then amount to approx. £200 per week, which is around twice the current average council rent in the borough. 
+
+Indeed, [other Council data reports](http://www.southwark.gov.uk/download/downloads/id/13083/affordable_rent_study_xls_-_december_2015) show that a social rent in Southwark for a 1-bed flat is £96.88 on average (incl. service charge), which works out to be 25.5% of market rent (£378.79); a 2-bed social rented flat is £110.76 per week (24.2% market rent); a 3-bed is £124.18 pw (22.5% market rent); a 4-bed is £139.69 (19.3% market rent).
+
+
