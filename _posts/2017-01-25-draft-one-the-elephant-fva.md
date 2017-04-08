@@ -1,7 +1,23 @@
 ---
-title: 'One the Elephant FVA'
+layout: post
+title: One the Elephant FVA
 published: false
 ---
+
+Lendlease's [latest half year results 2016](/img/lendleasehalfyearresults_2016.pdf) reveals that it sold all the homes in One the Elephant for a total of £209m ($A345m). All 284 units were pre-sold, presumably overseas.  The three pent houses were bought by the same couple, at a total cost of.
+
+One the Elephant was approved back in 2012 with no affordable housing.  Instead Lendlease paid £3.5m towards the £20m cost of the Castle leisure centre.  A viability assessment was submitted justifying the lack of affordable housing.  This gave a total scheme value of £134.9m, based on residential sales values of £638psf - in the event One the Elephant's sold at £xxxpsf.
+
+Drafted by Savills, the viability assessment was appraised by the District Valuer's Service (who also appraised the Heygate Viability Assessment).  Using DVS figures 35% Campaign has calculated that the total profit made by Lendlease is £139m.  Southwark Council recently announced, with fanfare, that it would be getting £12.5m, as its share of the profit.
+
+As well as undervaluing the revenues the viability assessment had the usual curiosities.  Lendlease submitted no build costs for two of the three scenarios considered, so the DVS had to supply its own.  Land values showed their customary elasticity, Savills setting it at £12.5m, using the market value, contrary to Royal Institute of Chartered Surveyor's (RICS) guidance, who set the standard for these things.  The DVS set the value at £9m.  Southwark, by contrast, actually sold the land to Lendlease for £6.5m.
+
+The land value is a critical factor in a viability assessment, because it goes towards the benchmark which determines whether a scheme is viable or not; crudely the lower the land value, the larger the mount of affordable housing that can be supplied.  Both Savill's and the the DVS had to 
+
+
+For the attention of Dave Hill....
+The usual viability assessment curiousities
+
 The [FVA](https://www.whatdotheyknow.com/request/374643/response/921669/attach/3/170116%20St%20Marys%20Viability%20Assessment%20003%203%20Redacted.pdf) for 'One the Elephant' shows an estimated GDV of £134m
 
 ![](/img/otefvagdv.png)
@@ -48,6 +64,3 @@ Lend Lease's profits up 12%: http://www.afr.com/real-estate/lendlease-profit-bea
 Above link also says: _"The group's British Haringey development was also well progressed and Mr McCann said affordable housing would be part of that project's composition. There will be affordable housing – it is to be worked through with the government. What happens now is that we sit down with the government and agree a development agreement that will incorporate all the commitments to affordable housing."_
 
 We point out that Lendlease's contractual agreement with Southwark bound Lendlease into providing 300 'social rented' homes - in the event it is only providing 82. Any lawyer will tell you that a contractual agreement is worth nothing if a party is not willing to enforce it.
-
-
-
