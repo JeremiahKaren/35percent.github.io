@@ -6,7 +6,7 @@ published: false
 
 Lendlease's [latest half year results 2016](/img/lendleasehalfyearresults_2016.pdf) reveals that it sold all the homes in One the Elephant for a total of £209m ($A345m). All 284 units were pre-sold, many presumably overseas.  The three penthouses were sold for a total £8.3m.
 
-One the Elephant was approved back in 2012 with no affordable housing.  Instead Lendlease paid £3.5m towards the £20m cost of the Castle leisure centre.  A viability assessment was submitted justifying the lack of affordable housing.  This gave a total scheme value of £134.9m, based on residential sales values of £638psf; One the Elephant's penthouses sold at £1447psf.
+One the Elephant was approved back in 2012 with no affordable housing.  Instead Lendlease paid £3.5m towards the £20m cost of the Castle leisure centre.  A viability assessment was submitted justifying the lack of affordable housing.  This gave a total scheme value of £134.9m, based on residential sales values of £638psf; One the Elephant's penthouses sold at £1447psf[^1].
 
 Drafted by Savills, the viability assessment was appraised by the District Valuer's Service (who also appraised the Heygate Viability Assessment).  Both documents have been released, redacted, to the 35% Campaign following FOI requests.  Using the Dsitrict Valuer Service's (DVS) figures we have calculated that the total profit made by Lendlease is £139m.  Southwark Council recently announced, with fanfare, that it would be getting [£22m, as its share](http://www.southwark.gov.uk/news/2017/mar/council-confirms-22m-from-one-the-elephant-will-pay-for-leisure-centre). (£12.2m overage, £6.6m land sale, £3.5m S106)
 
@@ -70,3 +70,5 @@ Lend Lease's profits up 12%: http://www.afr.com/real-estate/lendlease-profit-bea
 Above link also says: _"The group's British Haringey development was also well progressed and Mr McCann said affordable housing would be part of that project's composition. There will be affordable housing – it is to be worked through with the government. What happens now is that we sit down with the government and agree a development agreement that will incorporate all the commitments to affordable housing."_
 
 We point out that Lendlease's contractual agreement with Southwark bound Lendlease into providing 300 'social rented' homes - in the event it is only providing 82. Any lawyer will tell you that a contractual agreement is worth nothing if a party is not willing to enforce it.
+
+[^1]: See [Land Registry deeds](/img/lrdeeds_otepenthouses.pdf) for the 3 penthouses, which show these were sold for a total of £8.3m. The [brochure](/img/oteskyscapecollection.pdf) shows that the 3 penthouses comprise a total of 5,723 sqft - this gives average sales revenue of £1,447 per sqft across the 3 penthouses.

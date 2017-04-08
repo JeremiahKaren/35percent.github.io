@@ -8,18 +8,17 @@ footer: true
 
 Aylesbury estate was selected by Tony Blair for his [first speech as prime minister](http://www.independent.co.uk/news/blairs-pledge-to-the-dark-estates-1253883.html) in 1997, where he made his 'forgotten people' speech, [saying](http://www.bbc.co.uk/news/special/politics97/news/06/0602/blair.shtml) there must be no more _"no-hope areas"_ in new Labour's Britain. 
 
+![](/img/blairaylesbury.jpg)
+*Blair visiting the Aylesbury in 1997 to give his first speech as prime minister*
+
 >"Behind the statistics lie households where three generations have never had a job. There are estates where the biggest employer is the drugs industry, where all that is left of the high hopes of the post-war planners is derelict concrete. Behind the statistics are people who have lost hope, trapped in fatalism." (Tony Blair, inaugural speech, May 1997) 
 
-Blair vowed to _'learn from the mistakes of the past'_ and replace the dogma of bygone housing policies with pragmatism and common sense. The estate's regeneration was subsequently initiated as part of New Labour's '[Urban Task Force](http://en.wikipedia.org/wiki/Towards_an_Urban_Renaissance)' inner-city renewal programme.
-
-![](http://static.guim.co.uk/sys-images/Guardian/Pix/pictures/2010/12/26/1293402722326/Tony-Blair-at-the-Aylesbu-007.jpg)
-
-The project was awarded £56m funding under the ['New Deal for Communities'](http://en.wikipedia.org/wiki/New_Deal_for_Communities) partnership as part of the renewal programme.  
+Blair vowed to _'learn from the mistakes of the past'_ and replace the dogma of bygone housing policies with pragmatism and common sense. The estate's regeneration was subsequently initiated as part of New Labour's '[Urban Task Force](http://en.wikipedia.org/wiki/Towards_an_Urban_Renaissance)' inner-city renewal programme. The project was subsequently awarded £56m funding under the ['New Deal for Communities'](http://en.wikipedia.org/wiki/New_Deal_for_Communities) partnership and regeneration plans were drawn up to transfer the estate to a housing association for redevelopment.  
 
 ## Failed Ballot
 ![](http://betterelephant.github.io/images/novote.png)
 
-In 2001, residents on the estate were balloted on the prospect of stock transfer and redevelopment by a Housing Association. There was a high turnout (73%) and over 70% of residents [voted against](http://www.theguardian.com/society/2001/dec/27/1) the proposals. [This council Executive report](http://moderngov.southwark.gov.uk/Data/Executive/20050927/Agenda/Item%2007%20-%20The%20AylesburyEstate%20Revised%20Strategy%20-%20Report.pdf) postulates that one of the reasons behind the 'NO' vote was that residents were concerned that they would have to pay higher rents and service charges on the redeveloped estate.  
+In 2001, residents on the estate were balloted on the prospect of stock transfer and redevelopment. There was a high turnout (73%) and over 70% of residents [voted against](http://www.theguardian.com/society/2001/dec/27/1) the proposals. [This council Executive report](http://moderngov.southwark.gov.uk/Data/Executive/20050927/Agenda/Item%2007%20-%20The%20AylesburyEstate%20Revised%20Strategy%20-%20Report.pdf) postulates that one of the reasons behind the 'NO' vote was that residents were concerned that they would have to pay higher rents and service charges on the redeveloped estate.  
 
 ![](http://crappistmartin.github.io/images/aylesburyballot.png)
 
