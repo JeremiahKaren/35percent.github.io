@@ -4,6 +4,8 @@ title: "Aylesbury Estate"
 sharing: true
 footer: true
 ---
+![](/img/aylesburyarchivephotos.jpg)
+
 Aylesbury estate was selected by Tony Blair for his [first speech as prime minister](http://www.independent.co.uk/news/blairs-pledge-to-the-dark-estates-1253883.html) in 1997, where he made his 'forgotten people' speech, [saying](http://www.bbc.co.uk/news/special/politics97/news/06/0602/blair.shtml) there must be no more _"no-hope areas"_ in new Labour's Britain. 
 
 >"Behind the statistics lie households where three generations have never had a job. There are estates where the biggest employer is the drugs industry, where all that is left of the high hopes of the post-war planners is derelict concrete. Behind the statistics are people who have lost hope, trapped in fatalism." (Tony Blair, inaugural speech, May 1997) 
