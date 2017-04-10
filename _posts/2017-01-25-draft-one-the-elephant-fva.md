@@ -11,7 +11,7 @@ show that it made a whopping £122m profit from its __One the Elephant__ joint v
 
 ![](/img/ote.jpg)
 
-Lendlease's [latest half year results 2016](/img/lendleasehalfyearresults_2016.pdf) reveals that it sold all the homes in One the Elephant for a total of £209m ($A345m). All 284 units were pre-sold, many presumably overseas.  The three penthouses were sold for a total £8.3m.
+Lendlease's [financial statement](http://www.lendlease.com/-/media/llcom/investor-relations/asx-announcements/2016/17022016-lendlease-delivers-double-digit-earnings-growth.ashx) reveals that it sold all the homes in One the Elephant for a total of £209m ($A345m). All 284 units were pre-sold, many presumably overseas.  The three penthouses were sold for a total £8.3m.
 
 One the Elephant was approved back in 2012 with no affordable housing.  Instead Lendlease paid £3.5m towards the £20m cost of the Castle leisure centre.  A viability assessment was submitted justifying the lack of affordable housing.  This gave a total scheme value of £134.9m, based on residential sales values of £638psf; One the Elephant's penthouses sold at £1447psf[^2].
 
