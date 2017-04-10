@@ -80,6 +80,6 @@ Above link also says: _"The group's British Haringey development was also well p
 
 We point out that Lendlease's contractual agreement with Southwark bound Lendlease into providing 300 'social rented' homes - in the event it is only providing 82. Any lawyer will tell you that a contractual agreement is worth nothing if a party is not willing to enforce it.
 
-[^1]: Lend Lease Half Year Results Feb 2016 pg 23 give One the Elephant revenue as $AD345m (£209m).  Lend Lease Portfolio report Dec 2015 pg 16 gives the construction value as £79m.  Other costs would include CIL, £.997m, SIO6 £4.6m, land price £6.6m and finance costs, totalling approximately £87m
+[^1]: Lend Lease Half Year Results Feb 2016 pg 23 give One the Elephant revenue as $AD345m (£209m).  Lend Lease Portfolio report Dec 2015 pg 16 gives the construction value as £79m.  Other costs would include CIL, £.997m, SIO6 £4.6m, land price £6.6m and finance costs, totalling approximately £87m.  The 
 
 [^2]: See [Land Registry deeds](/img/lrdeeds_otepenthouses.pdf) for the 3 penthouses, which show these were sold for a total of £8.3m. The [brochure](/img/oteskyscapecollection.pdf) shows that the 3 penthouses comprise a total of 5,723 sqft - this gives average sales revenue of £1,447 per sqft across the 3 penthouses.
