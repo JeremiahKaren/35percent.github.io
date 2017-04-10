@@ -6,7 +6,7 @@ subtitle: >-
   regeneration partner
 published: true
 ---
-Figures published in Lendlease's 2016 half year [financial statement](http://www.lendlease.com/-/media/llcom/investor-relations/asx-announcements/2016/17022016-lendlease-delivers-double-digit-earnings-growth.ashx) and [half year report](/img/lendleasehalfyearreport_2016.pdf)
+Figures published in Lendlease's 2016 half year [financial statement](http://www.lendlease.com/-/media/llcom/investor-relations/asx-announcements/2016/17022016-lendlease-delivers-double-digit-earnings-growth.ashx) and half year [report](/img/lendleasehalfyearreport_2016.pdf)
 show that it made a whopping £132m profit from its __One the Elephant__ joint venture development with the Council. Despite owning the land, Southwark received just an £18.8m share and £4m in planning gain (payment in lieu of providing any affordable housing). 
 
 ![](/img/ote.jpg)
