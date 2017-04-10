@@ -19,6 +19,8 @@ One the Elephant was approved back in 2012 with no affordable housing.  A [viabi
 
 Drafted by Savills, the viability assessment was appraised by the District Valuer's Service (who also appraised the Heygate Viability Assessment).  Both documents have been released, redacted, to the 35% Campaign following FOI requests. 
 
+![](/img/otefvacover.png)
+
 As well as undervaluing the revenues the viability assessment has the usual curiosities. Lendlease required a minimum profit of 25% on cost - between £20-£26m depending the amount of affordable housing. This in turn produced a deficit of £12.5m for a scheme with no affordable housing and a deficit of £25.9m with 35% affordable housing.
 
 ![](/img/otefvadeficits.png)
