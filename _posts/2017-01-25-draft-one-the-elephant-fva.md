@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'One the Elephant: £113m profit for Lendlease - crumbs for Southwark'
+title: "One the Elephant: £113m profit for Lendlease - crumbs for Southwark"
 subtitle: "Southwark receives just 10% share of profit from its joint venture with regeneration partner"
 published: true
 ---
