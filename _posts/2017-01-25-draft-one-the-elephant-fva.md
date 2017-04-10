@@ -7,11 +7,11 @@ subtitle: >-
 published: true
 ---
 Figures published in Lendlease's 2016 half year [financial statement](http://www.lendlease.com/-/media/llcom/investor-relations/asx-announcements/2016/17022016-lendlease-delivers-double-digit-earnings-growth.ashx) and 2015 [portfolio report](http://www.lendlease.com/-/media/llcom/investor-relations/asx-announcements/2016/17022016-2016-half-year-results-portfolio-report.ashx)
-show that it made a whopping £122m profit from its __One the Elephant__ joint venture development with the Council. Despite owning the land, Southwark received just an [£18.8m share and £4.6m](http://www.southwark.gov.uk/news/2017/mar/council-confirms-22m-from-one-the-elephant-will-pay-for-leisure-centre) in planning gain (including payment in lieu of providing any affordable housing). 
+show that it made a whopping £113m profit from its __One the Elephant__ joint venture development with the Council. Despite owning the land, Southwark received just an [£18.8m share and £4.6m](http://www.southwark.gov.uk/news/2017/mar/council-confirms-22m-from-one-the-elephant-will-pay-for-leisure-centre) in planning gain (including payment in lieu of providing any affordable housing). 
 
 ![](/img/ote.jpg)
 
-Lendlease's [financial statement](http://www.lendlease.com/-/media/llcom/investor-relations/asx-announcements/2016/17022016-lendlease-delivers-double-digit-earnings-growth.ashx) reveals that it sold all the homes in One the Elephant for a total of £209m ($A345m). All 284 units were pre-sold, many presumably overseas.  The three penthouses were sold for a total £8.3m.  Construction and other costs total about £87m [^1].
+Lendlease's [financial statement](http://www.lendlease.com/-/media/llcom/investor-relations/asx-announcements/2016/17022016-lendlease-delivers-double-digit-earnings-growth.ashx) reveals that it sold all the homes in One the Elephant for a total of £209m ($A345m). All 284 units were pre-sold, many presumably overseas.  The three penthouses were sold for a total £8.3m.  Construction and other costs total about £97m [^1].
 
 
 One the Elephant was approved back in 2012 with no affordable housing.  Instead Lendlease paid £3.5m towards the £20m cost of the Castle leisure centre.  A viability assessment was submitted justifying the lack of affordable housing.  This gave a total scheme value of £134.9m, based on residential sales values of £638psf; One the Elephant's penthouses sold at £1447psf[^2].
