@@ -1,10 +1,12 @@
 ---
 layout: post
-title: "One the Elephant: £139m profit for Lendlease - crumbs for Southwark"
-subtitle: "Southwark receives just 10% share of profit from its joint venture with regeneration partner" 
+title: 'One the Elephant: £139m profit for Lendlease - crumbs for Southwark'
+subtitle: >-
+  Southwark receives just 10% share of profit from its joint venture with
+  regeneration partner
 published: true
 ---
-Figures published in Lendlease's financial statements show that it made a whopping £139m profit from its __One the Elephant__ joint venture development with the Council. Despite owning the land, Southwark received just an £18.8m share and £4m in planning gain (payment in lieu of providing ANY affordable housing). 
+Figures published in Lendlease's financial statements show that it made a whopping £132m profit from its __One the Elephant__ joint venture development with the Council. Despite owning the land, Southwark received just an £18.8m share and £4m in planning gain (payment in lieu of providing any affordable housing). 
 
 ![](/img/ote.jpg)
 
