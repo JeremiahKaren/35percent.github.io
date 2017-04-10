@@ -1,10 +1,8 @@
 ---
 layout: post
 title: 'One the Elephant: £113m profit for Lendlease - crumbs for Southwark'
-subtitle: >-
-  Southwark receives just 10% share of profit from its joint venture with
-  regeneration partner
-published: true
+subtitle: "Southwark receives just 10% share of profit from its joint venture with regeneration partner"
+published: partner
 ---
 Figures published in Lendlease's 2016 half year [financial statement](http://www.lendlease.com/-/media/llcom/investor-relations/asx-announcements/2016/17022016-lendlease-delivers-double-digit-earnings-growth.ashx) and 2015 [portfolio report](http://www.lendlease.com/-/media/llcom/investor-relations/asx-announcements/2016/17022016-2016-half-year-results-portfolio-report.ashx)
 show that it made a whopping £113m profit from its __One the Elephant__ joint venture development with the Council. Despite owning the land, Southwark received just an [£18.8m share and £4.6m](http://www.southwark.gov.uk/news/2017/mar/council-confirms-22m-from-one-the-elephant-will-pay-for-leisure-centre) in planning gain (including payment in lieu of providing any affordable housing). 

@@ -5,7 +5,10 @@ sharing: true
 footer: true
 ---
 Here we document using a timeline, how original promises to Heygate tenants of 500 new social housing units on the redeveloped estate, were reduced over the years to just 82.
- 
+
+__[July 2000 Guarantees to Heygate TRA](/img/slrpresentation.pdf)__ - 100% reprovision of the Heygate's (1000) council homes, 50% of which would be built on the estate footprint.
+
+![](/img/slrpresentation2000.png) 
 
 __[2002 Masterplan](http://www.scribd.com/doc/198503633/EandC-RegenMk1SLRplans) - 500 social rented homes promised on redeveloped Heygate:__  
 ![](http://crappistmartin.github.io/images/500newhomes.png)
