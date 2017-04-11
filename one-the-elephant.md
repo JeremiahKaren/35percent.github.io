@@ -47,7 +47,7 @@ The TV reports emphasised the lack of affordable housing. Mayor Johnson and Coun
 
 The controversey surrounding the development did not stop council leader Peter John, his Chief Exec and Cabinet member for regeneration celebrating the topping out ceremony for __One the Elephant__.  
 
-![](/img/toppingout_onetheelephant.png)
+![](/img/toppingout_oneelephant.png)
 
 In 2017, we [exposed](http://35percent.org/2017-04-10-draft-one-the-elephant-fva/) how Lendlease had made a whopping £113m profit from this development that it claimed couldn't wash its face. Southwark in contrast, received just a £12m share of this from its regeneration partner. This is clearly not a partnership of equals.. 
 
