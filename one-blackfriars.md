@@ -58,7 +58,7 @@ Planning consent was given for a 110-space, three-storey car park in the basemen
 ![](/img/undergroundparking.jpg)
 
 ## Snow cabins & jungle showers
-While __One Blackfriars__ couldn't afford to provide any on-site affordable housing, it [can afford to provide](https://www.theguardian.com/uk-news/2016/dec/28/snow-cabins-jungle-showers-latest-perks-luxury-london-flat): a “snow cabin”, where they can unwind from the rigours of the capital’s social scene among artificial white drifts of snow; a gym, swimming pool, a sauna accompanied by a 'jungle shower' providing a “rainforest shower experience” involving a dousing to the sounds of the jungle, a virtual golf course with a whisky bar, a wine cellar with tasting room, a hot stone massage parlour and a 20-seat cinema. 
+While __One Blackfriars__ couldn't afford to provide any on-site affordable housing, it [can afford to provide](https://www.theguardian.com/uk-news/2016/dec/28/snow-cabins-jungle-showers-latest-perks-luxury-london-flat): a “snow cabin”, where residents can unwind from the rigours of the capital’s social scene among artificial white drifts of snow; a gym, swimming pool, a sauna accompanied by a 'jungle shower' providing a “rainforest shower experience” involving a dousing to the sounds of the jungle, a virtual golf course with a whisky bar, a wine cellar with tasting room, a hot stone massage parlour and a 20-seat cinema. 
 
 ![](/img/obgym.png)
 *One Blackfriars residents' gym*
