@@ -42,7 +42,7 @@ In fact it suited both Southwark and Lendlease not to have affordable housing in
 
 Southwark was now willing to sacrifice affordable housing in turn, to make good the loss.  On Lendlease's side, the viability assessment notes that having on-site affordable housing would _'have a negative impact on the value of the private units'_ and would require a 2.5% reduction in the price; paying £3.5m towards a leisure centre right on its doorstep saved Lendlease from this expedient and gained it over £5m[^3].
 
-There are two conclusions to be drawn from this sorry tale; Southwark is no match for developers in these joint ventures; the money it is getting might look good in a [press release](http://www.southwark.gov.uk/news/2017/mar/council-confirms-22m-from-one-the-elephant-will-pay-for-leisure-centre), but it's the developer who is walking away with the lion's share. Second, viability assessments are useless, they don't capture the full value created by these enormous gold-panelled towers and it is nonsense to claim that they don't turn enough profit to give us any affordable housing.
+There are two conclusions to be drawn from this sorry tale; [Southwark is no match for developers](http://35percent.org/2014-01-11-flogging-the-elephant/)in these joint ventures; the money it is getting might look good in a [press release](http://www.southwark.gov.uk/news/2017/mar/council-confirms-22m-from-one-the-elephant-will-pay-for-leisure-centre), but it's the developer who is walking away with the lion's share. Second, viability assessments are useless, they don't capture the full value created by these enormous gold-panelled towers and it is nonsense to claim that they don't turn enough profit to give us any affordable housing.
 
 ![](/img/onetheelephantgold.jpg)
 
