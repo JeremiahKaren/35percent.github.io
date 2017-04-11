@@ -5,34 +5,34 @@ subtitle: >-
   Council's share of the bumper profit from its regeneration partner is a
   pitiful £12m
 published: true
-date: 2017/04/11
+date: 2017/04/12
 ---
 Figures published in Lendlease's 2016 half year [financial statement](http://www.lendlease.com/-/media/llcom/investor-relations/asx-announcements/2016/17022016-lendlease-delivers-double-digit-earnings-growth.ashx) and 2015 [portfolio report](http://www.lendlease.com/-/media/llcom/investor-relations/asx-announcements/2016/17022016-2016-half-year-results-portfolio-report.ashx)
-show that it made a handsome £113m profit from its [__One the Elephant__](/one-the-elephant) joint venture development with the Council. Southwark received just a [£12.2m share](https://www.whatdotheyknow.com/request/profit_overage_payment_received?unfold=1#incoming-881011share) of this. The Council had previously received a £6.6m sum for its land interest and £3.5m [towards the £20m cost](http://www.southwark.gov.uk/news/2017/mar/council-confirms-22m-from-one-the-elephant-will-pay-for-leisure-centre) of the new leisure centre, both included as scheme costs. The £3.5m was in lieu of the scheme providing any affordable housing, which Lendlease claimed would render it unviable.
+show that it made a handsome £113m profit from its [__One the Elephant__](http://35percent.org/one-the-elephant) joint venture development with the Council. Southwark received just a [£12.2m share](https://www.whatdotheyknow.com/request/profit_overage_payment_received?unfold=1#incoming-881011share) of this. The Council had previously received a £6.6m sum for its land interest and £3.5m [towards the £20m cost](http://www.southwark.gov.uk/news/2017/mar/council-confirms-22m-from-one-the-elephant-will-pay-for-leisure-centre) of the new leisure centre, both included as scheme costs. The £3.5m was in lieu of the scheme providing any affordable housing, which Lendlease claimed would render it unviable.
 
-![](/img/ote.jpg)
+![](http://35percent.org/img/ote.jpg)
 
 Lendlease's [financial statement](http://www.lendlease.com/-/media/llcom/investor-relations/asx-announcements/2016/17022016-lendlease-delivers-double-digit-earnings-growth.ashx) reveals that it sold all the homes in __One the Elephant__ for a total of £209m ($A345m). All 284 units were pre-sold, many presumably overseas.  The three penthouses were sold for a total £8.3m.  Construction and other costs totalled £108m [^1].
 
-![](/img/otefinancialstatement.png)
+![](http://35percent.org/img/otefinancialstatement.png)
 *Extract from Lendlease's 2016 [financial statement](http://www.lendlease.com/-/media/llcom/investor-relations/asx-announcements/2016/17022016-lendlease-delivers-double-digit-earnings-growth.ashx)*
 
 __One the Elephant__ was approved back in 2012 with no affordable housing.  A [viability assessment](https://www.whatdotheyknow.com/request/374643/response/921669/attach/3/170116%20St%20Marys%20Viability%20Assessment%20003%203%20Redacted.pdf) was submitted justifying the lack of affordable housing.  This gave a total scheme value of £134.9m based on estimated residential sales values of £638psf; in the event the apartments sold for an average of £1,033 psf[^2]. The penthouses which were estimated to sell at £734psf actually sold for twice that at £1447psf[^3].
 
 Drafted by Savills, the viability assessment was [appraised](http://35percent.org/img/otedvsredacted.pdf) by the District Valuer's Service (who also appraised the Heygate Viability Assessment).  Both documents have been released, redacted, to the 35% Campaign following FOI requests. 
 
-![](/img/otefvacover.png)
+![](http://35percent.org/img/otefvacover.png)
 *Lendlease's [viability assessment](https://www.whatdotheyknow.com/request/374643/response/921669/attach/3/170116%20St%20Marys%20Viability%20Assessment%20003%203%20Redacted.pdf) for __One the Elephant__ prepared by Savills*
 
 As well as undervaluing the revenues, the viability assessment contains all of the usual curiosities. Lendlease required a minimum profit of 25% on cost - between £20m-£26m depending the amount of affordable housing. This in turn produced a deficit of £12.5m for a scheme with no affordable housing and a deficit of £25.9m with 35% affordable housing.
 
-![](/img/otefvadeficits.png)
+![](http://35percent.org/img/otefvadeficits.png)
 *Extract from Lendlease's [viability assessment](https://www.whatdotheyknow.com/request/374643/response/921669/attach/3/170116%20St%20Marys%20Viability%20Assessment%20003%203%20Redacted.pdf) showing that all 3 scenarios are unviable*
 
 In the event, the £101m profit that Lendlease has made (£113m minus Southwark's £12m share) is four times the profit estimate put in to the viability assessment.
 
 
-[](/img/otedvsredacted.pdf)
+[](http://35percent.org/img/otedvsredacted.pdf)
 
 Land values also show their customary elasticity, Savills set it at £12.5m, using a market value.  The DVS set the value at £9m.  Southwark, by contrast, actually [sold the land](http://35percent.org/img/LRegisterOneTheElephant.pdf) to Lendlease for £6.6m.
 
@@ -44,15 +44,15 @@ Southwark was now willing to sacrifice affordable housing in turn, to make good 
 
 There are two conclusions to be drawn from this sorry tale; [Southwark is no match for developers](http://35percent.org/2014-01-11-flogging-the-elephant/) in these joint ventures; the money it is getting might look good in a [press release](http://www.southwark.gov.uk/news/2017/mar/council-confirms-22m-from-one-the-elephant-will-pay-for-leisure-centre), but it's the developer who is walking away with the lion's share. Second, viability assessments are useless, they don't capture the full value created by these enormous gold-panelled towers and it is nonsense to claim that they don't turn enough profit to give us any affordable housing.
 
-![](/img/onetheelephantgold.jpg)
+![](http://35percent.org/img/onetheelephantgold.jpg)
 
 
 __Footnotes:__
 
-[^1]: Lend Lease [Half Year Results](http://www.lendlease.com/-/media/llcom/investor-relations/asx-announcements/2016/17022016-lendlease-delivers-double-digit-earnings-growth.ashx) Feb 2016 pg 23 give One the Elephant revenue as $AD345m (£209m).  Lend Lease [Portfolio report](http://www.lendlease.com/-/media/llcom/investor-relations/asx-announcements/2016/17022016-2016-half-year-results-portfolio-report.ashx) Dec 2015 pg 16 gives the construction value as £79m.  Other costs would include Southwark's overage (£12.24m); CIL (£.997m), total S1O6 (£4.6m), land price (£6.6m) and finance costs (7% - figures from Savill's [viability assessment](https://www.whatdotheyknow.com/request/374643/response/921669/attach/3/170116%20St%20Marys%20Viability%20Assessment%20003%203%20Redacted.pdf) and [DVS appraisal](/img/otedvsredacted.pdf)) totalling approximately £108m.
+[^1]: Lend Lease [Half Year Results](http://www.lendlease.com/-/media/llcom/investor-relations/asx-announcements/2016/17022016-lendlease-delivers-double-digit-earnings-growth.ashx) Feb 2016 pg 23 give One the Elephant revenue as $AD345m (£209m).  Lend Lease [Portfolio report](http://www.lendlease.com/-/media/llcom/investor-relations/asx-announcements/2016/17022016-2016-half-year-results-portfolio-report.ashx) Dec 2015 pg 16 gives the construction value as £79m.  Other costs would include Southwark's overage (£12.24m); CIL (£.997m), total S1O6 (£4.6m), land price (£6.6m) and finance costs (7% - figures from Savill's [viability assessment](https://www.whatdotheyknow.com/request/374643/response/921669/attach/3/170116%20St%20Marys%20Viability%20Assessment%20003%203%20Redacted.pdf) and [DVS appraisal](http://35percent.org/img/otedvsredacted.pdf)) totalling approximately £108m.
 
 [^2]: Total residential revenue, £209m, divided by total residential floorspace, 202,331 sq ft.
 
-[^3]: See [Land Registry deeds](/img/lrdeeds_otepenthouses.pdf) for the 3 penthouses, which show these were sold for a total of £8.3m. The [brochure](/img/oteskyscapecollection.pdf) shows that the 3 penthouses comprise a total of 5,723 sqft - this gives average sales revenue of £1,447 per sqft across the 3 penthouses.
+[^3]: See [Land Registry deeds](http://35percent.org/img/lrdeeds_otepenthouses.pdf) for the 3 penthouses, which show these were sold for a total of £8.3m. The [brochure](http://35percent.org/img/oteskyscapecollection.pdf) shows that the 3 penthouses comprise a total of 5,723 sqft - this gives average sales revenue of £1,447 per sqft across the 3 penthouses.
 
 [^4]: Calculated on the reported total sales revenue of £209m.

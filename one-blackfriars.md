@@ -75,5 +75,7 @@ While __One Blackfriars__ couldn't afford to provide any on-site affordable hous
 ![](/img/obpool.png)
 *One Blackfriars swimming pool*
 
+Penthouses at __One Blackfriars__ are [currently on sale](http://www.telegraph.co.uk/property/buy/one-blackfriars-an-exclusive-look-inside-the-vase-londons-newest/) for £23m.
+
 Berkeley's brochures for __One Blackfriars__ can be downloaded in [Russian](/img/obrussian.pdf), [Chinese](/img/obchinese.pdf) and [Arabic](/img/obarabic.pdf).
 
