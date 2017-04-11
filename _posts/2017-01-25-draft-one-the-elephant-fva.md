@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Lendlease banks £113m profit from 'unviable' joint venture with Southwark"
-subtitle: "Southwark receives just £12m from profit share agreement with regeneration partner"
+title: "Lendlease banks £113m profit from 'unviable' 37 storey gold-panelled tower"
+subtitle: "Meanwhile Southwark's share of the bumper profit from its joint venture with regeneration partner is just £12m"
 published: true
 date: 2017/04/11
 ---
