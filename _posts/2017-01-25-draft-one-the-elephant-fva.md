@@ -34,7 +34,7 @@ In the event, the £101m profit that Lendlease has made (£113 minus Southwark's
 
 [](/img/otedvsredacted.pdf)
 
-Land values also show their customary elasticity, Savills set it at £12.5m, using a market value, contrary to Royal Institute of Chartered Surveyor's (RICS) guidance, who set the standard for these things.  The DVS set the value at £9m.  Southwark, by contrast, actually [sold the land](http://35percent.org/img/LRegisterOneTheElephant.pdf) to Lendlease for £6.6m.
+Land values also show their customary elasticity, Savills set it at £12.5m, using a market value.  The DVS set the value at £9m.  Southwark, by contrast, actually [sold the land](http://35percent.org/img/LRegisterOneTheElephant.pdf) to Lendlease for £6.6m.
 
 The land value is a critical factor in a viability assessment, because it provides the benchmark, which determines whether a scheme is viable or not; crudely the lower the land value, the larger the amount of affordable housing that can be supplied.  Both Savills and the the DVS had to acknowlege that the land actually had a 'nominal' ie zero value when applying RICS'S recommended 'existing use value' (EUV) method. This considers the current use of the land without planning permission, i.e. occupied by a leisure centre that wasn't turning a profit. Given that zero land value is unhelpful when you don't want to build affordable housing, it is no surprise that Savills chose to use the market value instead (which takes into account development value).
 
