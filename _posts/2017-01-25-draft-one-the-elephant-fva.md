@@ -15,18 +15,19 @@ Lendlease's [financial statement](http://www.lendlease.com/-/media/llcom/investo
 ![](/img/otefinancialstatement.png)
 *Extract from Lendlease's 2016 [financial statement](http://www.lendlease.com/-/media/llcom/investor-relations/asx-announcements/2016/17022016-lendlease-delivers-double-digit-earnings-growth.ashx)*
 
-__One the Elephant__ was approved back in 2012 with no affordable housing.  A [viability assessment](https://www.whatdotheyknow.com/request/374643/response/921669/attach/3/170116%20St%20Marys%20Viability%20Assessment%20003%203%20Redacted.pdf) was submitted justifying the lack of affordable housing.  This gave a total scheme value of £134.9m based on residential sales values of £638psf; in the event the apartments sold for an average of £1,033 psf. One the Elephant's penthouses sold at £1447psf[^2].
+__One the Elephant__ was approved back in 2012 with no affordable housing.  A [viability assessment](https://www.whatdotheyknow.com/request/374643/response/921669/attach/3/170116%20St%20Marys%20Viability%20Assessment%20003%203%20Redacted.pdf) was submitted justifying the lack of affordable housing.  This gave a total scheme value of £134.9m based on estimated residential sales values of £638psf; in the event the apartments sold for an average of £1,033 psf. One the Elephant's penthouses were estimated to sell at £734psf, in the event they sold for twice that at £1447psf[^2].
 
-Drafted by Savills, the viability assessment was appraised by the District Valuer's Service (who also appraised the Heygate Viability Assessment).  Both documents have been released, redacted, to the 35% Campaign following FOI requests. 
+Drafted by Savills, the viability assessment was [appraised](http://35percent.org/img/otedvsredacted.pdf) by the District Valuer's Service (who also appraised the Heygate Viability Assessment).  Both documents have been released, redacted, to the 35% Campaign following FOI requests. 
 
 ![](/img/otefvacover.png)
+*Lendlease's [viability assessment](https://www.whatdotheyknow.com/request/374643/response/921669/attach/3/170116%20St%20Marys%20Viability%20Assessment%20003%203%20Redacted.pdf) for __One the Elephant__ prepared by Savills*
 
 As well as undervaluing the revenues the viability assessment has the usual curiosities. Lendlease required a minimum profit of 25% on cost - between £20-£26m depending the amount of affordable housing. This in turn produced a deficit of £12.5m for a scheme with no affordable housing and a deficit of £25.9m with 35% affordable housing.
 
 ![](/img/otefvadeficits.png)
-*Extract from Lendlease's [viability assessment](https://www.whatdotheyknow.com/request/374643/response/921669/attach/3/170116%20St%20Marys%20Viability%20Assessment%20003%203%20Redacted.pdf)*
+*Extract from Lendlease's [viability assessment](https://www.whatdotheyknow.com/request/374643/response/921669/attach/3/170116%20St%20Marys%20Viability%20Assessment%20003%203%20Redacted.pdf) showing that all 3 scenarios are unviable*
 
-In the event, the £101m that Lendlease has made is at least four times the figure that was put in to the viability assessment.
+In the event, the £101m profit that Lendlease has made (£113 minus Southwark's £12m share) is four times the profit estimate put in to the viability assessment.
 
 
 [](/img/otedvsredacted.pdf)
