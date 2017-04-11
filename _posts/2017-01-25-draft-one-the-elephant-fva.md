@@ -10,7 +10,7 @@ date: 2017/04/12
 Figures published in Lendlease's 2016 half year [financial statement](http://www.lendlease.com/-/media/llcom/investor-relations/asx-announcements/2016/17022016-lendlease-delivers-double-digit-earnings-growth.ashx) and 2015 [portfolio report](http://www.lendlease.com/-/media/llcom/investor-relations/asx-announcements/2016/17022016-2016-half-year-results-portfolio-report.ashx)
 show that it made a handsome £113m profit from its [__One the Elephant__](http://35percent.org/one-the-elephant) joint venture development with the Council. Southwark received just a [£12.2m share](https://www.whatdotheyknow.com/request/profit_overage_payment_received?unfold=1#incoming-881011share) of this. The Council had previously received a £6.6m sum for its land interest and £3.5m [towards the £20m cost](http://www.southwark.gov.uk/news/2017/mar/council-confirms-22m-from-one-the-elephant-will-pay-for-leisure-centre) of the new leisure centre, both included as scheme costs. The £3.5m was in lieu of the scheme providing any affordable housing, which Lendlease claimed would render it unviable.
 
-![](http://35percent.org/img/ote.jpg)
+![](http://35percent.org/img/One_The_Elephant.jpg)
 
 Lendlease's [financial statement](http://www.lendlease.com/-/media/llcom/investor-relations/asx-announcements/2016/17022016-lendlease-delivers-double-digit-earnings-growth.ashx) reveals that it sold all the homes in __One the Elephant__ for a total of £209m ($A345m). All 284 units were pre-sold, many presumably overseas.  The three penthouses were sold for a total £8.3m.  Construction and other costs totalled £108m [^1].
 
