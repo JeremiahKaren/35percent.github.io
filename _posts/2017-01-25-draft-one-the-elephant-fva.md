@@ -29,7 +29,7 @@ As well as undervaluing the revenues, the viability assessment contains all of t
 ![](/img/otefvadeficits.png)
 *Extract from Lendlease's [viability assessment](https://www.whatdotheyknow.com/request/374643/response/921669/attach/3/170116%20St%20Marys%20Viability%20Assessment%20003%203%20Redacted.pdf) showing that all 3 scenarios are unviable*
 
-In the event, the £101m profit that Lendlease has made (£113 minus Southwark's £12m share) is four times the profit estimate put in to the viability assessment.
+In the event, the £101m profit that Lendlease has made (£113m minus Southwark's £12m share) is four times the profit estimate put in to the viability assessment.
 
 
 [](/img/otedvsredacted.pdf)
