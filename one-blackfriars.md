@@ -49,5 +49,13 @@ The development [came under fire](http://www.standard.co.uk/news/london/luxury-l
 
 ![](/img/obmacho.jpg)
 
+## Underground parking
+Planning consent was given for a 110-space, three-storey car park in the basement complete with car stacker and valet service. Despite being in a car-free planning zone where planning policy restricts any parking in new developments whatsover, Berkeley was able to convince the Council that if it didn't provide the basement parking then it wouldn't be able to sell the flats.
+
+![](/img/oborparking.png)
+*Extract from the [planning committee report](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!N3XzHN1XX76Wjzxddhd13g%3d%3d!%7d%7d%7d)*
+
+![](/img/undergroundparking.jpg)
+
 Berkeley's brochures for __One Blackfriars__ can be downloaded in [Russian](/img/obrussian.pdf), [Chinese](/img/obchinese.pdf) and [Arabic](/img/obarabic.pdf).
 
