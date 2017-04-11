@@ -6,7 +6,7 @@ published: true
 date: 2017/04/11
 ---
 Figures published in Lendlease's 2016 half year [financial statement](http://www.lendlease.com/-/media/llcom/investor-relations/asx-announcements/2016/17022016-lendlease-delivers-double-digit-earnings-growth.ashx) and 2015 [portfolio report](http://www.lendlease.com/-/media/llcom/investor-relations/asx-announcements/2016/17022016-2016-half-year-results-portfolio-report.ashx)
-show that it made a handsome £113m profit from its [__One the Elephant__](/one-the-elephant) joint venture development with the Council. Southwark received just a £12.2m share of this. The Council had previously received £6.6m for its land interest and £3.5m [towards the £20m cost](http://www.southwark.gov.uk/news/2017/mar/council-confirms-22m-from-one-the-elephant-will-pay-for-leisure-centre) of the new leisure centre, both included as scheme costs. The £3.5m was in lieu of the scheme providing any affordable housing, which Lendlease claimed would render it unviable.
+show that it made a handsome £113m profit from its [__One the Elephant__](/one-the-elephant) joint venture development with the Council. Southwark received just a £12.2m share of this. The Council had previously received a £6.6m sum for its land interest and £3.5m [towards the £20m cost](http://www.southwark.gov.uk/news/2017/mar/council-confirms-22m-from-one-the-elephant-will-pay-for-leisure-centre) of the new leisure centre, both included as scheme costs. The £3.5m was in lieu of the scheme providing any affordable housing, which Lendlease claimed would render it unviable.
 
 ![](/img/ote.jpg)
 
