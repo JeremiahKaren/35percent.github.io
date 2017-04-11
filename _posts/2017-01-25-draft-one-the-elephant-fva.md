@@ -51,7 +51,7 @@ __Footnotes:__
 
 [^1]: Lend Lease [Half Year Results](http://www.lendlease.com/-/media/llcom/investor-relations/asx-announcements/2016/17022016-lendlease-delivers-double-digit-earnings-growth.ashx) Feb 2016 pg 23 give One the Elephant revenue as $AD345m (£209m).  Lend Lease [Portfolio report](http://www.lendlease.com/-/media/llcom/investor-relations/asx-announcements/2016/17022016-2016-half-year-results-portfolio-report.ashx) Dec 2015 pg 16 gives the construction value as £79m.  Other costs would include Southwark's overage (£12.24m); CIL (£.997m), total S1O6 (£4.6m), land price (£6.6m) and finance costs (7% - figures from Savill's [viability assessment](https://www.whatdotheyknow.com/request/374643/response/921669/attach/3/170116%20St%20Marys%20Viability%20Assessment%20003%203%20Redacted.pdf) and [DVS appraisal](/img/otedvsredacted.pdf)) totalling approximately £108m.
 
-[^2]: Total residential revenue, £209m, divided by total residntial floorspace, 202,331 sq ft.
+[^2]: Total residential revenue, £209m, divided by total residential floorspace, 202,331 sq ft.
 
 [^3]: See [Land Registry deeds](/img/lrdeeds_otepenthouses.pdf) for the 3 penthouses, which show these were sold for a total of £8.3m. The [brochure](/img/oteskyscapecollection.pdf) shows that the 3 penthouses comprise a total of 5,723 sqft - this gives average sales revenue of £1,447 per sqft across the 3 penthouses.
 
