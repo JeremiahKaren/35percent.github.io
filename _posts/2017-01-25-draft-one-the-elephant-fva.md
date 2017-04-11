@@ -1,21 +1,21 @@
 ---
 layout: post
-title: "One the Elephant: £101m profit for Lendlease - a lot less for Southwark"
-subtitle: "Southwark receives just a fraction of the profit from its joint venture with regeneration partner"
+title: "Lendlease banks £113m profit from 'unviable' joint venture with Southwark"
+subtitle: "Southwark receives just £12m from profit share agreement with regeneration partner"
 published: true
-date: 2017/04/10
+date: 2017/04/11
 ---
 Figures published in Lendlease's 2016 half year [financial statement](http://www.lendlease.com/-/media/llcom/investor-relations/asx-announcements/2016/17022016-lendlease-delivers-double-digit-earnings-growth.ashx) and 2015 [portfolio report](http://www.lendlease.com/-/media/llcom/investor-relations/asx-announcements/2016/17022016-2016-half-year-results-portfolio-report.ashx)
-show that it made a handsome £101m profit from its __One the Elephant__ joint venture development with the Council. Despite owning the land, Southwark received just [£22m](http://www.southwark.gov.uk/news/2017/mar/council-confirms-22m-from-one-the-elephant-will-pay-for-leisure-centre) which includes £3.5m towards the £20m cost of the leisure centre. This was in lieu of providing any affordable housing.
+show that it made a handsome £113m profit from its [__One the Elephant__](/one-the-elephant) joint venture development with the Council. Southwark received just a £12.2m share of this. The Council received a further £6.6m for its land interest and £3.5m [towards the £20m cost](http://www.southwark.gov.uk/news/2017/mar/council-confirms-22m-from-one-the-elephant-will-pay-for-leisure-centre) of the new leisure centre. This was in lieu of providing any affordable housing.
 
 ![](/img/ote.jpg)
 
-Lendlease's [financial statement](http://www.lendlease.com/-/media/llcom/investor-relations/asx-announcements/2016/17022016-lendlease-delivers-double-digit-earnings-growth.ashx) reveals that it sold all the homes in One the Elephant for a total of £209m ($A345m). All 284 units were pre-sold, many presumably overseas.  The three penthouses were sold for a total £8.3m.  Construction and other costs total £108m [^1].
+Lendlease's [financial statement](http://www.lendlease.com/-/media/llcom/investor-relations/asx-announcements/2016/17022016-lendlease-delivers-double-digit-earnings-growth.ashx) reveals that it sold all the homes in __One the Elephant__ for a total of £209m ($A345m). All 284 units were pre-sold, many presumably overseas.  The three penthouses were sold for a total £8.3m.  Construction and other costs total £108m [^1].
 
 ![](/img/otefinancialstatement.png)
 *Extract from Lendlease's 2016 [financial statement](http://www.lendlease.com/-/media/llcom/investor-relations/asx-announcements/2016/17022016-lendlease-delivers-double-digit-earnings-growth.ashx)*
 
-One the Elephant was approved back in 2012 with no affordable housing.  A [viability assessment](https://www.whatdotheyknow.com/request/374643/response/921669/attach/3/170116%20St%20Marys%20Viability%20Assessment%20003%203%20Redacted.pdf) was submitted justifying the lack of affordable housing.  This gave a total scheme value of £134.9m based on residential sales values of £638psf; in the event the apartments sold for an average of £1,033 psf. One the Elephant's penthouses sold at £1447psf[^2].
+__One the Elephant__ was approved back in 2012 with no affordable housing.  A [viability assessment](https://www.whatdotheyknow.com/request/374643/response/921669/attach/3/170116%20St%20Marys%20Viability%20Assessment%20003%203%20Redacted.pdf) was submitted justifying the lack of affordable housing.  This gave a total scheme value of £134.9m based on residential sales values of £638psf; in the event the apartments sold for an average of £1,033 psf. One the Elephant's penthouses sold at £1447psf[^2].
 
 Drafted by Savills, the viability assessment was appraised by the District Valuer's Service (who also appraised the Heygate Viability Assessment).  Both documents have been released, redacted, to the 35% Campaign following FOI requests. 
 

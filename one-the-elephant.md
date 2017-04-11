@@ -6,19 +6,13 @@ footer: true
 ---
 ![](http://crappistmartin.github.io/images/leisurecentreaerial.jpg)
 
-[__One the Elephant__](http://www.onetheelephant.com/) is a 37 storey, 284 unit residential tower with zero affordable housing, being built by the council's regeneration partner __Lend Lease__ on the site of the former leisure centre.
+[__One the Elephant__](http://www.onetheelephant.com/) is a 37 storey, 284 unit residential tower with zero affordable housing, being built as a joint venture between the council and its regeneration partner __Lend Lease__ on the site of the former E&C leisure centre.
 
 [Land Registry documents](/img/LRegisterOneTheElephant.pdf) reveal that 
 Southwark Council 
 [sold](http://moderngov.southwark.gov.uk/documents/s20069/Report%20-%20Improved%20terms%20for%20the%20sale%20of%20sites%20A%20and%20B%20at%20Canada%20Water.pdf) 
 1.4 acres of the old leisure centre site to developer _Lend Lease_ for the 
-bargain price of £6.5m. The Council claims that it will receive a share of the 'overage' profits from Lendlease when the development is completed. We submitted an [FOI request](https://www.whatdotheyknow.com/request/profit_overage_payment_received) asking how much overage profit the Council has received, but it said the overage hasn't yet been calculated.
-
- The site will now be home to ['One the 
-Elephant'](http://www.onetheelephant.com) - a 37 storey tower with 4 storey 
-pavillion. _Lend Lease_ also recently acquired the 25-acre Heygate estate site 
-for a [generous 
-£50m](http://www.standard.co.uk/news/london/elephant-and-castle-estate-revamp-ripped-off-taxpayers-8482794.html).  
+bargain price of £6.6m. The Council claims that it will receive a share of the 'overage' profits from Lendlease when the development is completed. 
 
 ![](http://crappistmartin.github.io/images/onetheelephant.jpg)
 
@@ -28,7 +22,9 @@ By way of comparison, the neighbouring and smaller site (1.2acres) of the former
 __One the Elephant__ [came under fire](http://www.insidehousing.co.uk/regulation/social-housing-tenants-treated-like-downton-abbey-servants/6529183.article) from London Assembly members in October last year for proposing no affordable housing. Instead Lend Lease proposed a payment of £3.5m[^1] towards the estimated £20m cost[^2] of the new (pint-size) leisure centre. This payment is a fraction of Southwark's [affordable housing policy tariff](/images/affordablehousingspg.pdf), which should have netted it £32m[^3]. The council's [planning report](http://moderngov.southwark.gov.uk/documents/s32824/Report.pdf) for the development claimed that _"a second  core  would  be  required  to  provide  separate  access,  including  lifts  and circulation  areas,  to  socially  rented  accommodation  within  the  development."_ and that _"not doing  so  would  have  significant  implications  on  the  values  of  the  private  residential properties."_ (para. 37). The cost of the separate entrance for affordable housing thereby justifying the argument that there shouldn't be any at all.
 
 According to its [2013 annual report](http://lendlease2013.reportonline.com.au/annual-report/europe) 61% of Lend Lease's new homes at the Elephant had been pre-sold off plan.
-The buoyant sales are undoubtedly due in part to [Lend Lease's sales pitch](http://www.onetheelephant.com/facilities/leisure-centre) that new homes would have a brand new leisure centre on their doorstep.
+The buoyant sales are undoubtedly due in part to [Lend Lease's sales pitch](https://web.archive.org/web/20131219045702/http://www.onetheelephant.com/facilities/leisure-centre) that new homes would have a brand new leisure centre on their doorstep.
+
+![](/img/oteleisurecentre.png)
 
 In Jan 2014, it was [reported](http://crappistmartin.github.io/images/SNleisurecentre.pdf) that council chiefs had ignored the results of a public poll created in order to name the new leisure centre, in favour of a suggestion put forward by Lend Lease.  
 
@@ -51,7 +47,9 @@ The TV reports emphasised the lack of affordable housing. Mayor Johnson and Coun
 
 The controversey surrounding the development did not stop council leader Peter John, his Chief Exec and Cabinet member for regeneration celebrating the topping out ceremony for __One the Elephant__.  
 
-![](https://pbs.twimg.com/media/B9vlSE7IIAALNT8.png)
+![](/img/toppingout_onetheelephant.png)
+
+In 2017, we [exposed](http://35percent.org/2017-04-10-draft-one-the-elephant-fva/) how Lendlease had made a whopping £113m profit from this development that it claimed couldn't wash its face. Southwark in contrast, received just a £12m share of this from its regeneration partner. This is clearly not a partnership of equals.. 
 
 __Footnotes:__
 
