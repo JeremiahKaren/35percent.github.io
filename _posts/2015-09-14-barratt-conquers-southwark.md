@@ -1,9 +1,10 @@
 ---
 layout: post
-title: "Barratt conquers Southwark"
-date: 2015-09-14 18:01:50 +0100
+title: Barratt conquers Southwark
+date: '2015-09-14 18:01:50 +0100'
 comments: true
-categories: 
+categories: null
+published: true
 ---
 Barratt Homes, Britains third-largest housebuilder, has just 
 [posted](http://www.cityam.com/223932/building-bonanza-barratt-profits-jump-45-cent) 
