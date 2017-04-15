@@ -28,12 +28,7 @@ Barratt submitted a viability assessment claiming it would only be viable to
 provide 35 shared ownership homes,8 social rented with48 affordable rent homes, at 65% market rent. 
 The [officer's report](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!5wmNTTJlhAE1P%2fSH390aXg%3d%3d!%7d%7d%7d) 
 explains that the council had the viability assessment appraised by the 
-'Borough Valuer' and that _"Whilst a number of inputs into the valuation have 
-been agreed (including commercial values, ground rents, and professional fees) 
-an agreement has not been reached on two fundamental matters: methodology of 
-calculating the benchmark value of the site; and residential sale values. As 
-such, the applicant and the Borough Valuer have not reached an agreed position 
-about how much affordable housing can be delivered on site."_ (para. 109)
+'Borough Valuer' (meaning the District Valuer) and that _"Whilst a number of inputs into the valuation have been agreed.... an agreement has not been reached on two fundamental matters: methodology of calculating the benchmark value of the site; and residential sale values. As such, the applicant and the Borough Valuer have not reached an agreed position about how much affordable housing can be delivered on site."_ (para. 109.  In fact the District Valuer's view was clear and is related in the s106 agreement, which states ['..the District Valuer concluded... the Development could support the minimum housing requirement'](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!EO9aOXw4U1fRhx%2f8lcgyPw%3d%3d!%7d%7d%7d.
 
 ![](https://betterblackfriars.files.wordpress.com/2013/05/erlang-house.jpg)
 
