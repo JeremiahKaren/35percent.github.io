@@ -7,17 +7,18 @@ categories: null
 published: true
 ---
 
-New apartments in [Dephini apartments](https://www.barratthomes.co.uk/new-homes/greater-london/H625601-Blackfriars-circus/), the latest phase of Barratt's [__'Blackfriars Circus'__](http://www.barratthomes.co.uk/new-homes/greater-london/H625601-Blackfriars-circus/) development have been available since the beginning of the year, but there are still some available, if you hurry, starting at £595k for a studio flat.
+New apartments in [Dephini apartments](https://www.barratthomes.co.uk/new-homes/greater-london/H625601-Blackfriars-circus/), the latest phase of Barratt's [__Blackfriars Circus__](http://www.barratthomes.co.uk/new-homes/greater-london/H625601-Blackfriars-circus/) development have been available since the beginning of the year, but there are still some available, if you hurry, starting at £595k for a studio flat.
+
+![](https://www.barratthomes.co.uk/globalassets/london/development-pages/live-developments/blackfriars-circus/00_auto_1400x580_blackfriars_3.jpg)
 
 Barratt Homes is Britains third-largest housebuilder, and [it made £321m](http://www.telegraph.co.uk/business/2017/02/22/profits-rise-barratt-despite-uks-biggest-housebuilder-building/ in the first half of 2016) before tax in the second half of last year, a profit rise of 9%. This continued Barrett's steady profit climb since 2010, [part of the explosion of housebuilders' profits](http://www.ourcity.london/issues/viability/house_builders_profits/) over the past five years. 
 
 Barratt's success is due in part to its pipeline of major developments in Southwark, which include [__Maple Quays__](http://www.barratthomes.co.uk/new-homes/greater-london/h469201-maple-quays/) (668 homes in phase 1 of the [Canada Water regeneration](/canada-water/)); [__the Galleria__](http://www.barratthomes.co.uk/new-homes/greater-london/track-record---article-pages/the-galleria/) development in Peckham; [__Redwood Park__](http://www.barratthomes.co.uk/new-homes/greater-london/h309201-redwood-park/) (212 homes on former council land at Surrey Quays) and the 60-acre, 3,500-home Aylesbury estate redevelompent for which Barratt is Notting Hill Housing's [development partner](http://www.nottinghillhousing.org.uk/our-developments/aylesbury-estate-southwark).
 
 
-Barratt has also recently started work on its [__'Blackfriars 
-Circus'__](http://www.barratthomes.co.uk/new-homes/greater-london/H625601-Blackfriars-circus/) 
-development, comprising 336 new homes in 5 buildings ranging up to 27 storeys 
-in height, overlooking the South Bank University campus near Elephant & Castle. 
+The [__Blackfriars Circus__](http://www.barratthomes.co.uk/new-homes/greater-london/H625601-Blackfriars-circus/) 
+development overlooks the South Bank University campus at the Elephant & Castle and comprises 336 new homes in 5 buildings ranging up to 27 storeys 
+in height. 
 According to [SE1 website](http://www.london-se1.co.uk/news/view/8441) the 
 tallest of these will be known as __'The Conquest Apartments'__. This is an 
 appropriate name for a development that was able to dupe Southwark council into 
