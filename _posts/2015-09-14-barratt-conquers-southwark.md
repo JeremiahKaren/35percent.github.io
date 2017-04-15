@@ -20,13 +20,13 @@ The [__Blackfriars Circus__](http://www.barratthomes.co.uk/new-homes/greater-lon
 development overlooks the South Bank University campus at the Elephant & Castle and comprises 336 new homes in 5 buildings, ranging up to 27 storeys 
 in height. 
 According to [SE1 website](http://www.london-se1.co.uk/news/view/8441) the 
-tallest of these will be known as __'The Conquest Apartments'__. This is an 
-appropriate name for a development that was able to dupe Southwark council into 
-waiving the tenure requirements of its 35% affordable housing Policy. These 
-would have secured a minimum 70 social rented homes in the development, but 
+tallest of these will be known as __'The Conquest Apartments'__. 
+
+This is an appropriate name for a development that was able to dupe Southwark council into waiving the tenure requirements of its 35% affordable housing Policy. These 
+would have secured 70 social rented homes and 47 shared ownership, but 
 Barratt submitted a viability assessment claiming it would only be viable to 
-provide 8 social rented homes and 48 affordable rent homes. The [officer's 
-report](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!5wmNTTJlhAE1P%2fSH390aXg%3d%3d!%7d%7d%7d) 
+provide 35 shared ownership homes,8 social rented with48 affordable rent homes, at 65% market rent. 
+The [officer's report](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!5wmNTTJlhAE1P%2fSH390aXg%3d%3d!%7d%7d%7d) 
 explains that the council had the viability assessment appraised by the 
 'Borough Valuer' and that _"Whilst a number of inputs into the valuation have 
 been agreed (including commercial values, ground rents, and professional fees) 
