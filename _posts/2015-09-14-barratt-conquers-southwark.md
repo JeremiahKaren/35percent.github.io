@@ -34,7 +34,7 @@ explains that the council had the viability assessment appraised by the
 
 The planning report proposed an additional in lieu payment of £4.7m to make up the affordable shortfall.  The application was approved, with the in lieu payment bumped [up to £4.9m](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!EO9aOXw4U1fRhx%2f8lcgyPw%3d%3d!%7d%7d%7d)in the S106 agreement, signed in November 2014 [^2].
 
-However, in September 2015 it was [reported](http://www.london-se1.co.uk/news/view/8441) that the council was planning to buy these 8 social and 48 affordable rented homes from Barratt, in order to turn them into social rented council homes at a cost of £10m.  The site has duly appeared on the list of schemes that will make up Southwark's [11000 council homes](http://moderngov.southwark.gov.uk/documents/s62949/Appendix%201B%20List%20of%20Approved%20Schemes.pdf)
+However, in September 2015 it was [reported](http://www.london-se1.co.uk/news/view/8441) that the council was planning to buy these 8 social and 48 affordable rented homes from Barratt, in order to turn them into social rented council homes at a cost of £10m.  The site has duly appeared, as 128 – 150 Blackfriars Road, on the list of schemes that will make up Southwark's [11000 council homes](http://moderngov.southwark.gov.uk/documents/s62949/Appendix%201B%20List%20of%20Approved%20Schemes.pdf)
 
 The absurdity of buying homes from developers to convert to social rent when they should have been social rent anyway, is plain for all to see.
 However, it also appears that Southwark is paying well over the market price: the £10m price tag for 56 affordable housing units seems an awful lot compared to the [£3.1m paid](http://crappistmartin.github.io/images/LR_LANDQ_TrafalgarPlace.pdf) by L&Q for 54 affordable homes it brought from Heygate developer Lend Lease at [Trafalgar Place](http://trafalgarplace.com). 
@@ -101,5 +101,3 @@ If the council and Notting Hill are __genuinely__ committed to the provision of 
 DISCARDS
 [posted](http://www.cityam.com/223932/building-bonanza-barratt-profits-jump-45-cent) 
 a 45% rise in profits to £565.5m during the last financial year.
-
-
