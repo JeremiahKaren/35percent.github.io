@@ -24,8 +24,7 @@ tallest of these will be known as __'The Conquest Apartments'__.
 
 This is an appropriate name for a development that was able to dupe Southwark council into waiving the tenure requirements of its 35% affordable housing Policy. These 
 would have secured 70 social rented homes and 47 shared ownership, but 
-Barratt submitted a viability assessment claiming it would only be viable to 
-provide 35 shared ownership homes,8 social rented with48 affordable rent homes, at 65% market rent. 
+Barratt submitted a viability assessment claiming that only 30% affordable housing was  viable, comprising 35 shared-ownership homes,8 social rented and 48 affordable rent, at 65% market rent. 
 
 The [officer's report](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!5wmNTTJlhAE1P%2fSH390aXg%3d%3d!%7d%7d%7d) 
 explains that the council had the viability assessment appraised by the 
@@ -33,7 +32,7 @@ explains that the council had the viability assessment appraised by the
 
 ![](https://betterblackfriars.files.wordpress.com/2013/05/erlang-house.jpg)
 
-Nevertheless the planning application was waved through and demolition works started on the site earlier this year. However, it is now being [reported](http://www.london-se1.co.uk/news/view/8441) that the council is planning to buy these 8 social and 48 affordable rented homes from Barratt, in order to turn them into social rented council homes at a cost of £10m.
+The planning report proposed an additional in lieu payment of £4.7m to make up the affordable shortfall and this was enshrined in the S106 agreement. in  planning application was waved through and demolition works started on the site earlier this year. However, it is now being [reported](http://www.london-se1.co.uk/news/view/8441) that the council is planning to buy these 8 social and 48 affordable rented homes from Barratt, in order to turn them into social rented council homes at a cost of £10m.
 
 The absurdity of buying homes from developers to convert to social rent when they should have been social rent anyway, is plain for all to see.
 However, it also appears that Southwark is paying well over the market price: the £10m price tag for 56 affordable housing units seems an awful lot compared to the [£3.1m paid](http://crappistmartin.github.io/images/LR_LANDQ_TrafalgarPlace.pdf) by L&Q for 54 affordable homes it brought from Heygate developer Lend Lease at [Trafalgar Place](http://trafalgarplace.com). 
