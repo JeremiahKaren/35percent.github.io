@@ -17,7 +17,7 @@ Barratt's success is due in part to its pipeline of major developments in Southw
 
 
 The [__Blackfriars Circus__](http://www.barratthomes.co.uk/new-homes/greater-london/H625601-Blackfriars-circus/) 
-development overlooks the South Bank University campus at the Elephant & Castle and comprises 336 new homes in 5 buildings ranging up to 27 storeys 
+development overlooks the South Bank University campus at the Elephant & Castle and comprises 336 new homes in 5 buildings, ranging up to 27 storeys 
 in height. 
 According to [SE1 website](http://www.london-se1.co.uk/news/view/8441) the 
 tallest of these will be known as __'The Conquest Apartments'__. This is an 
