@@ -6,11 +6,12 @@ comments: true
 categories: null
 published: true
 ---
-Barratt Homes, Britains third-largest housebuilder, has just 
-[posted](http://www.cityam.com/223932/building-bonanza-barratt-profits-jump-45-cent) 
-a 45% rise in profits to £565.5m during the last financial year.
 
-Barratt's success is due in part to its pipeline of major developments in Southwark, which include [__Maple Quays__](http://www.barratthomes.co.uk/new-homes/greater-london/h469201-maple-quays/) (668 homes in phase 1 of the [Canada Water regeneration](/canada-water/)); [__The Galleria__](http://www.barratthomes.co.uk/new-homes/greater-london/track-record---article-pages/the-galleria/) development in Peckham; [__Redwood Park__](http://www.barratthomes.co.uk/new-homes/greater-london/h309201-redwood-park/) (212 homes on former council land at Surrey Quays) and the 60-acre, 3,500-home Aylesbury estate redevelompent for which Barratt is Notting Hill Housing's [development partner](http://www.nottinghillhousing.org.uk/our-developments/aylesbury-estate-southwark).
+New apartments in [Dephini apartments](https://www.barratthomes.co.uk/new-homes/greater-london/H625601-Blackfriars-circus/), the latest phase of Barratt's [__'Blackfriars Circus'__](http://www.barratthomes.co.uk/new-homes/greater-london/H625601-Blackfriars-circus/) development have been available since the beginning of the year, but there are still some available, if you hurry, starting at £595k for a studio flat.
+
+Barratt Homes is Britains third-largest housebuilder, and [it made £321m](http://www.telegraph.co.uk/business/2017/02/22/profits-rise-barratt-despite-uks-biggest-housebuilder-building/ in the first half of 2016) before tax in the second half of last year, a profit rise of 9%. This continued Barrett's steady profit climb since 2010, [part of the explosion of housebuilders' profits](http://www.ourcity.london/issues/viability/house_builders_profits/) over the past five years. 
+
+Barratt's success is due in part to its pipeline of major developments in Southwark, which include [__Maple Quays__](http://www.barratthomes.co.uk/new-homes/greater-london/h469201-maple-quays/) (668 homes in phase 1 of the [Canada Water regeneration](/canada-water/)); [__the Galleria__](http://www.barratthomes.co.uk/new-homes/greater-london/track-record---article-pages/the-galleria/) development in Peckham; [__Redwood Park__](http://www.barratthomes.co.uk/new-homes/greater-london/h309201-redwood-park/) (212 homes on former council land at Surrey Quays) and the 60-acre, 3,500-home Aylesbury estate redevelompent for which Barratt is Notting Hill Housing's [development partner](http://www.nottinghillhousing.org.uk/our-developments/aylesbury-estate-southwark).
 
 
 Barratt has also recently started work on its [__'Blackfriars 
@@ -93,3 +94,10 @@ If the council and Notting Hill are __genuinely__ committed to the provision of 
 <meta name="twitter:title" content="Aylesbury redevelopment agreement leaves door open to affordable rent">
 <meta name="twitter:description" content="The Aylesbury redevelopment section 106 agreement has been worded such that the door has been left open to interpretation as affordable rent rather than social rent.">
 <meta name="twitter:image" content="http://crappistmartin.github.io/images/aylesburyAHschedule.png">
+
+
+DISCARDS
+[posted](http://www.cityam.com/223932/building-bonanza-barratt-profits-jump-45-cent) 
+a 45% rise in profits to £565.5m during the last financial year.
+
+
