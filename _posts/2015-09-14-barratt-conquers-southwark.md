@@ -40,7 +40,7 @@ So it appears that Southwark has got at least 58 social rented homes from Blackf
 
 Either of these amounts appears over the odds, compared to the [£3.1m paid](http://crappistmartin.github.io/images/LR_LANDQ_TrafalgarPlace.pdf) by L&Q for the 54 affordable homes bought from Heygate developer Lend Lease at [Trafalgar Place](http://trafalgarplace.com). Southwark are also using seight of hand by including the number in their promised 11000 council homes, when they are effectively a private developer's affordable housing obligation.
 
-Key question - did Southwark recieve the £4.9m S106 contribution?
+Key question - did Southwark receive the £4.9m S106 contribution?
 
 
 ## Maple Quays
