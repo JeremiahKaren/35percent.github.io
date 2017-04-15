@@ -32,7 +32,9 @@ explains that the council had the viability assessment appraised by the
 
 ![](https://betterblackfriars.files.wordpress.com/2013/05/erlang-house.jpg)
 
-The planning report proposed an additional in lieu payment of £4.7m to make up the affordable shortfall and this was enshrined in the [S106 agreement](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!EO9aOXw4U1fRhx%2f8lcgyPw%3d%3d!%7d%7d%7d). in  planning application was waved through and demolition works started on the site earlier this year. However, it is now being [reported](http://www.london-se1.co.uk/news/view/8441) that the council is planning to buy these 8 social and 48 affordable rented homes from Barratt, in order to turn them into social rented council homes at a cost of £10m.
+The planning report proposed an additional in lieu payment of £4.7m to make up the affordable shortfall.  The application was approved, with the in lieu payment bumped [up to £4.9m](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!EO9aOXw4U1fRhx%2f8lcgyPw%3d%3d!%7d%7d%7d)in the S106 agreement[^2].
+
+in  planning application was waved through and demolition works started on the site earlier this year. However, it is now being [reported](http://www.london-se1.co.uk/news/view/8441) that the council is planning to buy these 8 social and 48 affordable rented homes from Barratt, in order to turn them into social rented council homes at a cost of £10m.
 
 The absurdity of buying homes from developers to convert to social rent when they should have been social rent anyway, is plain for all to see.
 However, it also appears that Southwark is paying well over the market price: the £10m price tag for 56 affordable housing units seems an awful lot compared to the [£3.1m paid](http://crappistmartin.github.io/images/LR_LANDQ_TrafalgarPlace.pdf) by L&Q for 54 affordable homes it brought from Heygate developer Lend Lease at [Trafalgar Place](http://trafalgarplace.com). 
@@ -92,6 +94,8 @@ If the council and Notting Hill are __genuinely__ committed to the provision of 
 <meta name="twitter:image" content="http://crappistmartin.github.io/images/aylesburyAHschedule.png">
 
 [^1]Recital F pg 4
+
+[^2][S106 agreement](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!EO9aOXw4U1fRhx%2f8lcgyPw%3d%3d!%7d%7d%7d) the Affordable Housing Contribution pg 6
 
 
 DISCARDS
