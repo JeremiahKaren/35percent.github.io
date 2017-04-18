@@ -66,10 +66,10 @@ Southwark’s court claim alleges that a central figure in the conspiracies is T
 
 ![](/img/trademarkscreenshot.png)
 
-According to its [website](http://www.trademarkgroup.co.uk), Trademark has delivered 4300 homes across 12 developments, all of which in Southwark - including Galliard's [Marcia St](http://www.trademarkgroup.co.uk/portfolio/marcia-road-london-se1-5xf/) development, Galliard's [City Walk](http://www.trademarkgroup.co.uk/portfolio/city-walk-london-se1-4pp/) scheme, the [Bacon Factory](http://www.trademarkgroup.co.uk/portfolio/the-bacon-factory-great-suffolk-street-london-se1-0bd/) and the [Canada Water regeneration](http://www.trademarkgroup.co.uk/portfolio/surrey-quays-leisure-centre-se16/). 
+According to its [website](http://www.trademarkgroup.co.uk), Trademark has delivered 4300 homes across 12 developments, all of which in Southwark - including joint ventures with Galliard's [Marcia St](http://www.trademarkgroup.co.uk/portfolio/marcia-road-london-se1-5xf/) development, Galliard's [City Walk](http://www.trademarkgroup.co.uk/portfolio/city-walk-london-se1-4pp/) scheme, the [Bacon Factory](http://www.trademarkgroup.co.uk/portfolio/the-bacon-factory-great-suffolk-street-london-se1-0bd/) and the [Canada Water regeneration](http://www.trademarkgroup.co.uk/portfolio/surrey-quays-leisure-centre-se16/). 
 
 ![](/img/galliardtrademark.png)
-*Some of Trademark's joint venture developments in Southwark with Galliard*
+*Three of Trademark/Galliard's joint venture schemes in Southwark*
 
 ## Conway’s Connections
 ### Packamist Ltd
