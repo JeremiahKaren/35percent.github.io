@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Jammy Dodgers 2
-subtitle: Draft blog post from August 2016
+title: "Jammy Dodgers"
+subtitle: "Galliard homes involved in 'fraudulent' scheme to sell affordable housing to investors"
 published: false
 ---
 The Chief Executive Officer and founder of Galliards, one of Britain’s leading property developers, is a beneficiary of an allegedly _"fraudulent"_ scheme to sell affordable housing to offshore investors, according to court documents and corporate filings uncovered by the [35% campaign](http://35percent.org) and [OurCity.London](http://ourcity.london).
