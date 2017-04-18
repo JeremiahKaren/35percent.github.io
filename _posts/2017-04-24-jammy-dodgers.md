@@ -5,7 +5,7 @@ published: false
 ---
 The Chief Executive Officer and founder of Galliards, one of Britain’s leading property developers, is a beneficiary of an allegedly _"fraudulent"_ scheme to sell affordable housing to offshore investors, according to court documents and corporate filings uncovered by the [35% campaign](http://35percent.org) and [OurCity.London](http://ourcity.london).
 
-The fraud is alleged by Southwark Council in a [High Court claim](http://35percent.org/img/2016poc.pdf) and involves 27 affordable homes in three housing developments in the borough.  Galliard founder, Steven Conway, is [listed](https://beta.companieshouse.gov.uk/officers/p--y1bVdFV0XhrlVzfLKQoAhi0c/appointments) at Companies House as either a director, shareholder, member or former director of four companies involved in alleged ‘conspiracies’ at two of the sites^[Stephen Conway was director of PGP Jam Factory, PGP Securities No.5, PGP Securities No.7 and Packamist Ltd at the time of the alleged 'sham' transactions.]. Mr Conway is not cited as a defendant in the claim. 
+The fraud is alleged by Southwark Council in a [High Court claim](http://35percent.org/img/2016poc.pdf) and involves 27 affordable homes in three housing developments in the borough.  Galliard founder, Steven Conway, is [listed](https://beta.companieshouse.gov.uk/officers/p--y1bVdFV0XhrlVzfLKQoAhi0c/appointments) at Companies House as either a director, shareholder, member or former director of four companies involved in alleged ‘conspiracies’ at two of the sites[^1]. Mr Conway is not cited as a defendant in the claim. 
 
 The story has come to light after our [investigation](http://35percent.org/2016-12-12-ombudsman-slams-southwark-for-no-s106-monitoring/) into affordable housing delivery and [FOI requests](https://www.whatdotheyknow.com/request/hartleys_jam_factory_redevelopme) to Southwark Council, which revealed the legal action against the [London District Housing Association](http://www.londondha.com/) and over 30 other defendants. The four alleged conspiracies took place at the Jam Factory at Tower Bridge, South City Court in Peckham and Wanley Rd, Camberwell. Southwark is seeking up to £15m in damages.
 
@@ -54,7 +54,7 @@ The amount of profit on the sale that PGP Securities No. 5 was entitled to was l
 *Extract from PGP Securities No.5 [accounts](https://beta.companieshouse.gov.uk/company/OC351956/filing-history/MzA0NDg4NDY5NGFkaXF6a2N4/document?format=pdf&download=0)*
 
 ## A Trademark Scam
-Southwark’s court claim alleges that a central figure in the conspiracies is Terry McMillan, director of Trademark Group Ltd. The Trademark Group owns ‘Protected Growth Plan Limited’ which in turn controls the PGP companies at the centre of the conspiracies. Mr McMillan is cited in the court documents as arranging for flats to be staircased out, directing the nominees, and marketing the flats on the open market. Trademark shares directors (and registered addresses/accountants) with LDHA^[Fraser Allen is listed at Companies House as both director of LDHA and Trademark Group].
+Southwark’s court claim alleges that a central figure in the conspiracies is Terry McMillan, director of Trademark Group Ltd. The Trademark Group owns ‘Protected Growth Plan Limited’ which in turn controls the PGP companies at the centre of the conspiracies. Mr McMillan is cited in the court documents as arranging for flats to be staircased out, directing the nominees, and marketing the flats on the open market. Trademark shares directors (and registered addresses/accountants) with LDHA[^2].
 
 According to its website, Trademark is involved in several other major developments in Southwark including the Surrey Quays development. 
 
@@ -77,3 +77,8 @@ Southwark allege __PGP Securities No 7 Ltd__ provided loan facilities to __PGP F
 
 ### The Margin Finance Corporation
 Steven Conway is listed at Companies House as a ‘director’ of the __John Black Charitable Foundation__, which wholly owns __The Margin Finance Corporation__, which Southwark court claim states made debenture loans in Feb 2015 to __Trademark Land & Property Ltd__ and __Trademark Group Ltd__.  Terry McMillan is the named contact in the Trademark companies for these debentures.
+
+__Footnotes:__
+[^1]: Stephen Conway was director of PGP Jam Factory, PGP Securities No.5, PGP Securities No.7 and Packamist Ltd at the time of the alleged 'sham' transactions.
+
+[^2]: Fraser Allen is listed at Companies House as both director of LDHA and Trademark Group
