@@ -20,7 +20,7 @@ Southwark council alleges that there were four conspiracies to put affordable ho
 
 After securing the properties, the Council's court claim [documents](http://35percent.org/img/2016poc.pdf) allege that the PGP companies 'conspired' with LDHA to _'recruit'_ individuals to be the supposed _'nominees'_ for the affordable housing shared ownership leases. The nominees would hold the properties 'on trust' for the PGP companies, who had control of the flats. Southwark alleges that the nominees were not eligible for affordable housing, had no intention of occupying the homes as such and were paid a fee for the use of their names.
 
-!!organogram
+![](/img/organogram.gif)
 
 Having taken control of the flats the PGP companies either let them out at market rents, or immediately staircased out the property (ie moved them from shared ownership to 100% ownership) and then sold them on, ‘at full market price’, making a substantial profit.
 
