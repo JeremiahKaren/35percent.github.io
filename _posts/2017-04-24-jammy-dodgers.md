@@ -7,7 +7,8 @@ The Chief Executive Officer and founder of Galliards, one of Britain’s leading
 
 The fraud is alleged by Southwark Council in a [High Court claim](http://35percent.org/img/2016poc.pdf) and involves 27 affordable homes in three housing developments in the borough.  Galliard founder, Steven Conway, is [listed](https://beta.companieshouse.gov.uk/officers/p--y1bVdFV0XhrlVzfLKQoAhi0c/appointments) at Companies House as either a director, shareholder, member or former director of four companies involved in alleged ‘conspiracies’ at two of the sites^[Stephen Conway was director of PGP Jam Factory, PGP Securities No.5, PGP Securities No.7 and Packamist Ltd at the time of the alleged 'sham' transactions.]. Mr Conway is not cited as a defendant in the claim. 
 
-The story has come to light after [FOI requests](https://www.whatdotheyknow.com/request/hartleys_jam_factory_redevelopme) to Southwark Council revealed the legal action against the [London District Housing Association](http://www.londondha.com/) and over 30 other defendants. The four alleged conspiracies took place at the Jam Factory at Tower Bridge, South City Court in Peckham and Wanley Rd, Camberwell. Southwark is seeking up to £15m in damages. 
+The story has come to light after our [investigation](http://35percent.org/2016-12-12-ombudsman-slams-southwark-for-no-s106-monitoring/) into affordable housing delivery and [FOI requests](https://www.whatdotheyknow.com/request/hartleys_jam_factory_redevelopme) to Southwark Council, which revealed the legal action against the [London District Housing Association](http://www.londondha.com/) and over 30 other defendants. The four alleged conspiracies took place at the Jam Factory at Tower Bridge, South City Court in Peckham and Wanley Rd, Camberwell. Southwark is seeking up to £15m in damages.
+
 ![](http://35percent.org/img/courtclaim.png)
 
 ## London District Housing Association
