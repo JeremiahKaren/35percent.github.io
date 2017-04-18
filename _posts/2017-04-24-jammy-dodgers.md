@@ -1,6 +1,7 @@
 ---
-title: "Jammy Dodgers 2"
-subtitle: "Draft blog post from August 2016"
+layout: post
+title: Jammy Dodgers 2
+subtitle: Draft blog post from August 2016
 published: false
 ---
 The Chief Executive Officer and founder of Galliards, one of Britain’s leading property developers, is a beneficiary of an allegedly _"fraudulent"_ scheme to sell affordable housing to offshore investors, according to court documents and corporate filings uncovered by the [35% campaign](http://35percent.org) and [OurCity.London](http://ourcity.london).
@@ -16,7 +17,7 @@ Southwark alleges that the __London District Housing Association (LDHA)__ is at 
 
 ![](/img/ldhascreenshot.png)
 
-__LDHA__ chair Phillip Butt and __LDHA__ director Sehaer Siddique, are former officers at Lambeth Living, Lambeth Council's housing management company.
+__LDHA__ chair Phillip Butt and __LDHA__ director Sehaer Siddique, are former officers at Lambeth Living, Lambeth Council's housing management company. According to its Articles of Association, __Faithland Housing Association__ was incorporated at the same address as __Trademark Group__'s head office on Long Lane in Bermondsey. The address is located at Trademark's [__City Walk__ development](http://www.trademarkgroup.co.uk/portfolio/city-walk-london-se1-4pp/) that it developed in conjuction with a shell company called __Northcover Ltd__, of which Stephen Conway is [listed](https://beta.companieshouse.gov.uk/company/04070460/officers) as a director. 
 
 ## How the scam works
 Southwark council alleges that there were four conspiracies to put affordable housing onto the private market - two at the Jam Factory, one each at South City Central and Wanley St. All the conspiracies took a similar form. LDHA gained legal control of the affordable housing through a S106 agreement with Southwark, while their purchase cost was financed by a group of property and investment companies called PGP Companies.
@@ -38,6 +39,9 @@ The Protected Growth Plan companies receive a cut of the profits having financed
 The ‘Jam Factory Conspiracy’ is one of the two alleged conspiracies on the Jam Factory site and involves Flats 1 to 9. 
 
 According to Southwark’s court documents in October 2010 LDHA bought the 18 Jam Factory affordable housing units including Flats 1-9, for £97,000 per unit, using a loan from PGP Securities No.5 LLP. Under the terms of the s106 agreement, LDHA had to offer the flats as part-buy/part rent shared ownership properties or for affordable rent.
+
+![](http://35percent.org/img/jamfactorysouthcitycourt.png)
+*Jam Factory, Bermondsey (left), South City Court, Peckham (right)*
 
 In 2013 LDHA issued 125 year leases for the flats to a group of nominees. The nominees then immediately granted a power of attorney over the flats to a PGP company called PGP Jam Factory Limited. The court documents allege that the nominees had no need for affordable housing, had homes elsewhere and never intended to occupy the housing.
 
@@ -62,13 +66,14 @@ Southwark’s court claim alleges that a central figure in the conspiracies is T
 
 ![](/img/trademarkscreenshot.png)
 
-According to its [website](http://www.trademarkgroup.co.uk), Trademark is involved in several other major developments in Southwark including the Surrey Quays development. 
+According to its [website](http://www.trademarkgroup.co.uk), Trademark has delivered 4300 homes across 12 developments, all of which in Southwark - including Galliard's [Marcia St](http://www.trademarkgroup.co.uk/portfolio/marcia-road-london-se1-5xf/) development, Galliard's [City Walk](http://www.trademarkgroup.co.uk/portfolio/city-walk-london-se1-4pp/) scheme, the [Bacon Factory](http://www.trademarkgroup.co.uk/portfolio/the-bacon-factory-great-suffolk-street-london-se1-0bd/) and the [Canada Water regeneration](http://www.trademarkgroup.co.uk/portfolio/surrey-quays-leisure-centre-se16/). 
 
-[R map of Trademark's developments]
+![](/img/galliardtrademark.png)
+*Some of Trademark's joint venture developments in Southwark with Galliard*
 
 ## Conway’s Connections
 ### Packamist Ltd
-While he is not named in Southwark’s court claim company Galliard founder and CEO Steven Conway has several connections with the three developments which are the sites of the alleged conspiracies. [Documents](https://beta.companieshouse.gov.uk/company/02850256/filing-history/MzE0NjI1NzcwOGFkaXF6a2N4/document?format=pdf&download=0) lodged at Companies House currently list him as director of __Packamist Ltd__, named as the developer of South Court City, site of the second alleged conspiracy. They also list Galliard Homes Ltd as a main shareholder. As developer __Packamist__ entered into the site’s S106 agreement, including delivery of affordable housing.
+While he is not named in Southwark’s court claim, Galliard founder and CEO Steven Conway is listed in its [supporting evidence documents](/img/organogram.png) and has several clear connections with the three developments which are the sites of the alleged conspiracies. [Documents](https://beta.companieshouse.gov.uk/company/02850256/filing-history/MzE0NjI1NzcwOGFkaXF6a2N4/document?format=pdf&download=0) lodged at Companies House currently list him as director of __Packamist Ltd__, named as the developer of South Court City, site of the second alleged conspiracy. They also list Galliard Homes Ltd as a main shareholder. As developer __Packamist__ entered into the site’s S106 agreement, including delivery of affordable housing.
 
 ### PGP Jam Factory Ltd
 Steven Conway was also a shareholder until April 2014 in __PGP Jam Factory Ltd__, alleged by Southwark to be part of the third of the four conspiracies, ‘the ‘Jam Factory Flats 10-18 Conspiracy’.
@@ -87,6 +92,7 @@ Steven Conway is listed at Companies House as a ‘director’ of the __John Bla
 ![](/img/organogrammarginfinance.png)
 
 __Footnotes:__
+
 [^1]: Stephen Conway was director of PGP Jam Factory, PGP Securities No.5, PGP Securities No.7 and Packamist Ltd at the time of the alleged 'sham' transactions.
 
 [^2]: Fraser Allen is listed at Companies House as both director of LDHA and Trademark Group
