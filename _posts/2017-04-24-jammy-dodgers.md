@@ -14,6 +14,8 @@ The story has come to light after our [investigation](http://35percent.org/2016-
 ## London District Housing Association
 Southwark alleges that the __London District Housing Association (LDHA)__ is at the centre of the conspiracies scam. __LDHA__, whose head office overlooks the Jam Factory, aggressively pursues every new development in zones 1-4, according to an industry source. Their [board report] claims they have placed 2500 units under offer in central London and have secured units in Southwark, Camden, Greenwich and other London boroughs. Formerly the __Faithland Housing Association__, __LDHA__ is not on the latest social landlord register. Their website claims that they provide housing for service personal and key workers, giving particular emphasis to BME applicants. 
 
+![](/img/ldhascreenshot.png)
+
 __LDHA__ chair Phillip Butt and __LDHA__ director Sehaer Siddique, are former officers at Lambeth Living, Lambeth Council's housing management company.
 
 ## How the scam works
@@ -24,6 +26,8 @@ After securing the properties, the Council's court claim [documents](http://35pe
 ![](/img/organogram.gif)
 
 Having taken control of the flats the PGP companies either let them out at market rents, or immediately staircased out the property (ie moved them from shared ownership to 100% ownership) and then sold them on, ‘at full market price’, making a substantial profit.
+
+![](/img/organogram2.png)
 
 The Protected Growth Plan companies receive a cut of the profits having financed the deal. 
 
@@ -77,6 +81,8 @@ Southwark allege __PGP Securities No 7 Ltd__ provided loan facilities to __PGP F
 
 ### The Margin Finance Corporation
 Steven Conway is listed at Companies House as a ‘director’ of the __John Black Charitable Foundation__, which wholly owns __The Margin Finance Corporation__, which Southwark court claim states made debenture loans in Feb 2015 to __Trademark Land & Property Ltd__ and __Trademark Group Ltd__.  Terry McMillan is the named contact in the Trademark companies for these debentures.
+
+![](/img/organogrammarginfinance.png)
 
 __Footnotes:__
 [^1]: Stephen Conway was director of PGP Jam Factory, PGP Securities No.5, PGP Securities No.7 and Packamist Ltd at the time of the alleged 'sham' transactions.
