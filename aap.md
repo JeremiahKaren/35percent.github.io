@@ -42,7 +42,7 @@ We will be submitting our plans sometime next year. Please get in touch if you w
 *Wendover now (left) - and how it could look after refurbishment (right)*
 
 ![](/img/aylesburyarchivephotos.jpg) 
-
+*Wendover blocks sometime in the late 1970s*
 
 - - - -
 
