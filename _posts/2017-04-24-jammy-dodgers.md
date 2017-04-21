@@ -61,7 +61,7 @@ The amount of profit on the sale that PGP Securities No. 5 was entitled to was l
 *Extract from PGP Securities No.5 [accounts](https://beta.companieshouse.gov.uk/company/OC351956/filing-history/MzA0NDg4NDY5NGFkaXF6a2N4/document?format=pdf&download=0)*
 
 ## A Trademark Scam
-Southwark’s court claim alleges that a central figure in the conspiracies is Terry McMillan, director of Trademark Group Ltd. The Trademark Group owns ‘Protected Growth Plan Limited’ which in turn controls the PGP companies at the centre of the conspiracies. Mr McMillan is cited in the court documents as arranging for flats to be staircased out, directing the nominees, and marketing the flats on the open market. Trademark shares directors (and registered addresses/accountants) with LDHA[^2].
+Southwark’s court claim alleges that a central figure in the conspiracies is Terry McMillan, director of Trademark Group Ltd. The Trademark Group owns ‘Protected Growth Plan Limited’ which in turn controls the PGP companies at the centre of the conspiracies. Mr McMillan is cited in the court documents as arranging for flats to be staircased out, directing the nominees, and marketing the flats on the open market. Trademark shares directors (and registered addresses/accountants) with LDHA[^1].
 
 ![](/img/trademarkscreenshot.png)
 
@@ -95,4 +95,4 @@ Galliard's early developments include much of Shad Thames, Southwark's riverside
 
 __Footnotes:__
 
-[^2]: Fraser Allen is listed at Companies House as both director of LDHA and Trademark Group
+[^1]: Fraser Allen is listed at Companies House as both director of LDHA and Trademark Group
