@@ -1,6 +1,7 @@
 ---
 
-title: 'No profit for Southwark - the true value of the Heygate regeneration'
+title: "No profit for Southwark"
+subtitle: "The true value of the Heygate regeneration"
 layout: post
 published: true
 comments: true
