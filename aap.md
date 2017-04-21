@@ -47,7 +47,7 @@ We will be submitting our plans sometime next year. Please get in touch if you w
 - - - -
 
 
-## Similar refurb projects:
+## It has been done before - have a look at similar refurb projects:
 
 ## Six Acres estate (Islington)
 
