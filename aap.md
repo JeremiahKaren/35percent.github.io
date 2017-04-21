@@ -27,21 +27,19 @@ The most iconic component of the Aylesbury estate are the Wendover blocks. These
 
 ![](/img/wendover2.jpg)
 
+![](/img/phase1.jpg)
+*Wendover blocks highlighted in yellow*
+
 The blocks were designed such that there was free movement on the ground level. However, this space has been sealed off by the council, creating an unpermeable and hostile environment. Our plan will restore this public realm and create new communal spaces to enhance the urban environment and fulfil regeneration objectives.
 
 ![](/img/aylesburyparkingspace.png)
 *Sealed-off public realm underneath the Wendover blocks*
 
-We will be submitting an application for a CERTIFICATE OF APPROPRIATE ALTERNATIVE DEVELOPMENT under SECTION 17 OF THE PLANNING COMPENSATION ACT 1991 and present the alternative plan to the CPO public inquiry for the Wendover phase in late 2018.  
-
-![](/img/phase1.jpg)
-*Wendover blocks highlighted in yellow*
+## Call for architects/planners:
+We will be submitting our plans sometime next year. Please get in touch if you would like to get involved in the AAP project, any input would be greatly appreciated. Help us restore the Aylesbury estate to its former glory!
 
 ![](/img/wendcomp.jpg)
 *Wendover now (left) - and how it could look after refurbishment (right)*
-
-## Call for architects/planners:
-Please get in touch if you would like to get involved in the AAP project, any input would be greatly appreciated. Help us restore the Aylesbury estate to its former glory!
 
 ![](/img/aylesburyarchivephotos.jpg) 
 
