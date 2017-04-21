@@ -40,10 +40,14 @@ We will be submitting an application for a CERTIFICATE OF APPROPRIATE ALTERNATIV
 ![](/img/wendcomp.jpg)
 *Wendover now (left) - and how it could look after refurbishment (right)*
 
-## Call for 
+## Call for architects/planners:
 Please get in touch if you would like to get involved in the AAP project, any input would be greatly appreciated. Help us restore the Aylesbury estate to its former glory!
 
 ![](/img/aylesburyarchivephotos.jpg) 
+
+
+- - - -
+
 
 ## Similar refurb projects:
 
