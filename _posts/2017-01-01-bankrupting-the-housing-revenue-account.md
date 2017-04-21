@@ -4,6 +4,19 @@ title: "Southwark spending millions on new Council homes while existing ones cru
 subtitle: "How Southwark is privatising council housing through a slow process of managed bankruptcy"
 published: false
 ---
+## Das Neue Kreuzberger Zentrum
+Bought by the Kreuzberger Council for £50m to protect tenants 'Mieterschutz'.
+https://www.neues-deutschland.de/artikel/1048724.mieterschutz-teuer-erkauft.html
+
+Meanwhile SwK spending umpteen million knocking down and giving away its Mieterschutz.
+
+Decent Homes stats for Wendover?
+
+Service charge bills? work out the plus or negative - i.e. whether it's an asset.
+
+NHHT Wood Dene - Council knocked estate down and NHHT has left the site empty for 10 years, replacement will only be xx units.
+
+
 
 The Council's Housing Revenue Account is its budget account for council housing; it is the budget account that council rents are paid into and the account from which money is taken to spend on repairs to council homes.
 
