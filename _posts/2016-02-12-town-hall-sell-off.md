@@ -25,6 +25,8 @@ By 2014, Hollybrook had carved out 41 luxury apartments from the building, each 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/CKo8KxiJSdI" frameborder="0" allowfullscreen></iframe>
 
+![](/img/bthinterior.jpg)
+
 ## Peckham Town Hall
 Peckham Town Hall used to serve as Southwark's main Town Hall for its core administrative functions. The Council sold it with [planning permission](http://moderngov.southwark.gov.uk/documents/s42948/Item%201%20and%202%20report.pdf) to a Jersey-based developer (Alumno Developments) [for just £5m](/images/LR_PeckhamTownHall.pdf) in December 2014. 
 
@@ -47,3 +49,10 @@ However, the actual [section 106 planning agreement](http://planbuild.southwark.
 ![](http://crappistmartin.github.io/images/southwarktownhalls106.png)
 
 Another good deal for developers, not so good for Southwark.
+
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:title" content="Town Hall sell off - price on application" />
+<meta name="twitter:description" content="How Southwark has flogged off its Town Halls to developers for a pittance" />
+<meta name="twitter:image" content="http://35percent.org/img/bth.jpg" />
+
+
