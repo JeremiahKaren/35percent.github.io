@@ -29,7 +29,10 @@ Lendlease also strongly objected to the SPD's proposals for viability review mec
 
 So what could have been a big step forward is compromised on at least three counts: the full viability assessments will be published way too late to be of any use; the benchmark value that measures viability will not be published in the executive summary; and developers will be able to reduce affordable housing after planning approval using Section 106 (A/B) applications, without having to publish their viability figures and without the public ever knowing. 
 
-
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:title" content="Lendlease says jump - Southwark jumps" />
+<meta name="twitter:description" content="Lendlease has successfully lobbied Southwark to water down its new policy on the transparency of viability assessments" />
+<meta name="twitter:image" content="http://crappistmartin.github.io/images/viability.png" />
 
 
 
