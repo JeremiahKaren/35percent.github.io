@@ -44,6 +44,6 @@ The report goes on to say that the section 106 planning agreement would ensure t
 
 However, the actual [section 106 planning agreement](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!J5SYrLl4r0iPhpzIBB3Xiw%3d%3d!%7d%7d%7d) sealing the permission, provides no mechanism for defining 'comparable student housing' and says that affordable workspace rents should be _"no LESS than 45% below market rent for comparable properties"_ - a significant typo which nobody in Southwark Council seems to have noticed. In any event it now means that the developer is obliged to set rents very much to its own advantage (above 45% of market rent - not below).
 
-![](http://35percent.org/images/southwarktownhalls106.png)
+![](http://crappistmartin.github.io/images/southwarktownhalls106.png)
 
 Another good deal for developers, not so good for Southwark.
