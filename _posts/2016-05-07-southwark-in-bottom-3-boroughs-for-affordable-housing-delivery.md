@@ -35,9 +35,6 @@ In their anxiety to demolish the Aylesbury estate, Southwark and its development
 
 Aylesbury residents awoke on wednesday morning to the sound of diggers demolishing parts of the estate. Agnes Kabuto who lives with her 78 year-old mother in one of the last occupied maisonettes on the Chartridge block said _"We were woken by a large banging noise, the whole building was shaking - we couldn't believe they'd actually started demolition before the CPO has been granted."_ She and a number of other Leaseholders in phase 1b/1c, are still awaiting the government's decision following the [public inquiry](http://35percent.org/2015-05-02-aylesbury-estate-compulsory-purchase-order-public-inquiry/) into Southwark's application to compulsory purchase their homes. This was due on 3rd May, but has now been delayed. This did not stop Notting Hill Housing from _"inadvertently"_ starting demolition on the CPO land.
 
-![](http://35percent.org/img/aylesburydemolition.jpg)
-*'Inadvertent' Aylesbury demolition works - 4th May 2016*
-
 Quick action by the leaseholders brought an apology from Southwark after the intervention of the Secretary of State for Communities and Local Government. 
 
 ![](http://35percent.org/img/dclgemail.png)
