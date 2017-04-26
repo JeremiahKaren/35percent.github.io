@@ -36,7 +36,7 @@ The planning report proposed an additional in lieu payment of £4.7m to make up 
 
 However, in September 2015 it was [reported](http://www.london-se1.co.uk/news/view/8441) that the council was planning to buy these 8 social and 48 affordable rented homes from Barratt, in order to turn them into social rented council homes at a cost of £10m.  The site has duly appeared, as 128 – 150 Blackfriars Road, on the list of schemes that will make up Southwark's [11000 council homes](http://moderngov.southwark.gov.uk/documents/s62949/Appendix%201B%20List%20of%20Approved%20Schemes.pdf).
 
-So it appears that Southwark has got at least 58 social rented homes from Blackfriars Circus after all, but at a cost of either £10m, or £5.1m, if it got its S106 payment from Barrett.
+So it appears that Southwark has got at least 56 social rented homes from Blackfriars Circus after all, but at a cost of either £10m, or £5.1m, if it got its S106 payment from Barrett.
 
 Either of these amounts appears over the odds, compared to the [£3.1m paid](http://crappistmartin.github.io/images/LR_LANDQ_TrafalgarPlace.pdf) by L&Q for the 54 affordable homes bought from Heygate developer Lend Lease at [Trafalgar Place](http://trafalgarplace.com). Southwark are also using seight of hand by including the number in their promised 11000 council homes, when they are effectively a private developer's affordable housing obligation.
 
