@@ -42,6 +42,10 @@ Why can't same be done with Aylesbury?
 
 ![](http://35percent.org/img/wendcomp.jpg)
 
+[This report](http://moderngov.southwark.gov.uk/documents/s56449/Report%20Major%20works%20status%20report%20incorporating%20Warm%20Dry%20and%20Safe.pdf) describes different funding for DHS works, including the 'GLA Backlog fund' and the [accompanying appendices](http://moderngov.southwark.gov.uk/documents/s56450/Appendices%201%20-%204%20Major%20works%20status%20report%20incorporating%20Warm%20Dry%20and%20Safe.pdf) show that the Four Squares estate (a High Investment Needs estate) was brought up to DHS for just £12m. Work out how much this is per unit and also show similar comparables.
+
+On the question of sources of funding, one could also include the Section 106 off-site pooled funding and that set aside for new Council homes.
+
 ## Environmental disbenefits
 Given Inspector Colley's comments on the environmental disbenefits and the fact that these were not explored in detail during the previous Inquiry, we should take the opportunity to explore them this time. We should cover a section on sunlight/daylight issues and also loss of public accessible open space. 
 
@@ -61,7 +65,12 @@ The EqIA specifically references the 2006 rehousing policy for leaseholders whic
 
 Given that the 'property swap' option was subsequently withdrawn in 2010, it can be argued that the scheme doesn't comply with the PSED because one of the mitigation measures set out in the EqIA which underlies the AAAP have been withdrawn. Indeed it was the only mitigation measure that would have enabled leaseholders to remain homeowners in the borough. 
 
+## Witnesses
+Organise a wide range of witnesses from a wide range of organisations across London - i.e:
 
+ * Homeless charity
+ * Environmental groups -> UCL Engineering Exchange on embodied carbon/open spaces/air quality
+ * 
 
 
 
