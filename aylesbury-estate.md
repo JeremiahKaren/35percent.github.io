@@ -210,8 +210,8 @@ The [officer's report](http://planbuild.southwark.gov.uk/documents/?GetDocument=
 
 Further, the new open spaces in the development will not be public open spaces adopted by the council; they will be privately owned and managed by a subsidiary of Notting Hill Housing Group. 
 
-![Aylesbury estate open space](/img/aylesburyfdsbasketballcourt.jpg)
-*Generous existing open space that will not be replaced*
+![Aylesbury estate open space](/img/phase1baerial.png)
+*Generous existing green open space that will not be replaced*
 
 ## Aylesbury diaspora
 Loretta Lees, a leading professor of Human Geography has [published](http://theconversation.com/camerons-sink-estate-strategy-comes-at-a-human-cost-53358) a study researching the displacement of Aylesbury estate tenants as a result of the regeneration. 
