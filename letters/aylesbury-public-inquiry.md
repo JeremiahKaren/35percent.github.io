@@ -42,4 +42,24 @@ Why can't same be done with Aylesbury?
 ## Environmental disbenefits
 Given Inspector Colley's comments on the environmental disbenefits and the fact that these were not explored in detail during the previous Inquiry, we should take the opportunity to explore them this time. We should cover a section on sunlight/daylight issues and also loss of public accessible open space. 
 
-![](http://crappistmartin.github.io/images/aylesburygreenspace.png) 
+![](http://crappistmartin.github.io/images/aylesburygreenspace.png)
+
+## PSED
+The only Equalities Assessment conducted on the scheme to date (the [2009 EqIA which accommpanied the AAAP](/img/EqualitiesImpactAssessment.pdf)), relied upon the mitigation measures in place at the time for leaseholders- i.e. the rehousing options enshrined in the Council's 2006 rehousing policy which included the like-for-like 'propery swap' for leaseholders. The 2006 policy and the Council's [Handbook for leaseholders](https://www.whatdotheyknow.com/request/331856/response/818864/attach/3/64145%20RedR%20Homeowner.pdf) clearly states the 'property swap' as one of the available rehousing options:
+
+![](/img/aylesburyleaseholdershandbookoptions.png)
+*Extract from the [Leaseholders Handbook](https://www.whatdotheyknow.com/request/331856/response/818864/attach/3/64145%20RedR%20Homeowner.pdf)*
+
+The EqIA specifically references the 2006 rehousing policy for leaseholders which it says offers leaseholders the _'widest possible choice of rehousing opportunities'_:
+
+![](/img/spiritofcooperation.png)
+
+![](/img/widestpossiblechoice.png) 
+
+Given that the 'property swap' option was subsequently withdrawn in 2010, it can no longer be argued that the scheme underlying the Order complies with the PSED.
+
+
+
+
+
+
