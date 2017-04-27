@@ -45,7 +45,7 @@ Given Inspector Colley's comments on the environmental disbenefits and the fact 
 ![](http://crappistmartin.github.io/images/aylesburygreenspace.png)
 
 ## PSED
-The only Equalities Assessment conducted on the scheme to date (the [2009 EqIA which accommpanied the AAAP](/img/EqualitiesImpactAssessment.pdf)), relied upon the mitigation measures in place at the time for leaseholders- i.e. the rehousing options enshrined in the Council's 2006 rehousing policy which included the like-for-like 'propery swap' for leaseholders. The 2006 policy and the Council's [Handbook for leaseholders](https://www.whatdotheyknow.com/request/331856/response/818864/attach/3/64145%20RedR%20Homeowner.pdf) clearly states the 'property swap' as one of the available rehousing options:
+The only Equalities Assessment conducted on the scheme to date (the [2009 EqIA which accommpanied the AAAP](/img/EqualitiesImpactAssessment.pdf)), relied upon the mitigation measures in place at the time for leaseholders- i.e. the rehousing options enshrined in the Council's [2006 rehousing policy](https://www.google.co.uk/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&ved=0ahUKEwiK2rTIssTTAhULCcAKHZeFDgUQFggrMAA&url=http%3A%2F%2Fwww.southwark.gov.uk%2Fdownload%2Fdownloads%2Fid%2F1850%2Fexecutive_report&usg=AFQjCNHDwIaNCnRYD2HSNaCATPoHFjbtbA) which included the like-for-like 'propery swap' for leaseholders. The 2006 policy and the Council's [Handbook for leaseholders](https://www.whatdotheyknow.com/request/331856/response/818864/attach/3/64145%20RedR%20Homeowner.pdf) clearly state the 'property swap' as one of the available rehousing options:
 
 ![](/img/aylesburyleaseholdershandbookoptions.png)
 *Extract from the [Leaseholders Handbook](https://www.whatdotheyknow.com/request/331856/response/818864/attach/3/64145%20RedR%20Homeowner.pdf)*
@@ -56,7 +56,7 @@ The EqIA specifically references the 2006 rehousing policy for leaseholders whic
 
 ![](/img/widestpossiblechoice.png) 
 
-Given that the 'property swap' option was subsequently withdrawn in 2010, it can no longer be argued that the scheme underlying the Order complies with the PSED.
+Given that the 'property swap' option was subsequently withdrawn in 2010, it can be argued that the scheme doesn't comply with the PSED because one of the mitigation measures set out in the EqIA which underlies the AAAP have been withdrawn. Indeed it was the only mitigation measure that would have enabled leaseholders to remain homeowners in the borough. 
 
 
 
