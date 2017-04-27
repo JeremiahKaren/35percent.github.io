@@ -1,5 +1,8 @@
 # Aylesbury CPO Public Inquiry Arguments
 
+![](/img/phase1baerial.png)
+*Aerial view of Phase 1b/1c Order land*
+
 ## Viability
 Show how the figures were fiddled in the AAAP to make it look viable to get it through the examination in public.
 
