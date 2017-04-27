@@ -37,6 +37,8 @@ Why can't same be done with Aylesbury?
 
 ![](/img/maydew_hhrca.jpg)
 
+![](http://35percent.org/img/wendcomp.jpg)
+
 ## Environmental disbenefits
 Given Inspector Colley's comments on the environmental disbenefits and the fact that these were not explored in detail during the previous Inquiry, we should take the opportunity to explore them this time. We should cover a section on sunlight/daylight issues and also loss of public accessible open space. 
 
