@@ -46,6 +46,10 @@ Why can't same be done with Aylesbury?
 
 On the question of sources of funding, one could also include the Section 106 off-site pooled funding and that set aside for new Council homes.
 
+This Cabinet item from 2011 gives details of 'High Investment Needs estates' and gives cost estimates of DHS works: http://moderngov.southwark.gov.uk/ieIssueDetails.aspx?IId=11030&Opt=3
+
+Appendix 6 shows the Aylesbury as not being the most costly of the estates. We could find out the actual costs of other estates on the list and do a comparison. Link to appendix 6: http://moderngov.southwark.gov.uk/documents/s19628/Appendix%206%20List%20of%2015%20High%20Investment%20Needs%20Estates.pdf
+
 ## Environmental disbenefits
 Given Inspector Colley's comments on the environmental disbenefits and the fact that these were not explored in detail during the previous Inquiry, we should take the opportunity to explore them this time. We should cover a section on sunlight/daylight issues and also loss of public accessible open space. 
 

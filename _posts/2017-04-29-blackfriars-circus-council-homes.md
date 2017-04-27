@@ -2,7 +2,7 @@
 layout: post
 title: "Blackfriars Circus"
 subtitle: "come back to this"
-published: true
+published: false 
 ---
 New apartments in [Dephini apartments](https://www.barratthomes.co.uk/new-homes/greater-london/H625601-Blackfriars-circus/), the latest phase of Barratt's [__Blackfriars Circus__](http://www.barratthomes.co.uk/new-homes/greater-london/H625601-Blackfriars-circus/) development have been available since the beginning of the year, but there are still some available, if you hurry, starting at £595k for a studio flat.
 
