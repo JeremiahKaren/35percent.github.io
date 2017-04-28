@@ -8,6 +8,8 @@ Show how the figures were fiddled in the AAAP to make it look viable to get it t
 
 ![](http://35percent.org/img/Recommended_Changes.png)
 
+Show how NHHT's credit rating has been downgraded by credit agencies since the last public inquiry.
+
 Viability assessment for phase 1b/1c - find out when due and make an FOI request.
 
 *Chase the ICO for our FOI for the full unredacted DPA.*
@@ -26,12 +28,12 @@ Submit copy of [Southwark's evidence](http://crappistmartin.github.io/images/CPO
 ![](/img/CPO_ExplanatoryNote.png)
 *Extract from Southwark's [evidence to first Inquiry](http://crappistmartin.github.io/images/CPO_ExplanatoryNote12May2015.pdf)*
 
-Submit copy of Ombudsman decision and Sunday Times [article](/img/ST23April2017.pdf) showing Southwark's failure to monitor S106 AH tenure delivery because it doesn't actually have any monitoring procedures and therefore misled the previous Inquiry.
+Submit copy of [Ombudsman decision](http://35percent.org/2016-12-12-ombudsman-slams-southwark-for-no-s106-monitoring/) and Sunday Times [article](/img/ST23April2017.pdf) showing Southwark's failure to monitor S106 AH tenure delivery because it doesn't actually have any monitoring procedures and therefore misled the previous Inquiry.
 
-Highlight NHHT's other developments where social rent intended but affordable rent delivered - i.e. the one in Streatham delivered on an LB Lambeth estate.
-Show how the breach at Bermondsey Spa hasn't been resolved, i.e. the Council hasn't taken effective action to recover the SR homes.  
+Highlight NHHT's other developments where social rent intended but affordable rent delivered - i.e. the one in Lambeth delivered on the [Claremont East estate](http://35percent.org/2017-01-16-draft-more-on-notting-hill/#claremont-east-estate-lambeth).
+Show how the breach at Bermondsey Spa hasn't been resolved, i.e. the Council hasn't taken effective action to recover the SR homes - i.e. there still remains a net loss across the Bermondsey Spa and Manor Place Depot sites.  
 
-Re-run all of our previous criticisms of Kate Davies and her predeliction for affordable rent and privatisation. Include also Steve Hilditch's [article](https://redbrickblog.wordpress.com/2017/01/07/one-article-does-not-wipe-the-slate-clean/) criticising Davies and Notting Hill (Hilditch is a former board member).
+Re-run all of our previous criticisms of Kate Davies and her predeliction for affordable rent and privatisation. Include also Steve Hilditch's recent [article](https://redbrickblog.wordpress.com/2017/01/07/one-article-does-not-wipe-the-slate-clean/) criticising Davies and Notting Hill (Hilditch is a former board member).
 
 ![](http://35percent.org/img/kdquotes.png)
 
