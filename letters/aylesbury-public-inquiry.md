@@ -10,17 +10,25 @@ Show how the figures were fiddled in the AAAP to make it look viable to get it t
 
 Viability assessment for phase 1b/1c - find out when due and make an FOI request.
 
-Chase the ICO for the full unredacted DPA.
+*Chase the ICO for our FOI for the full unredacted DPA.*
+
+## DPA provisions breached
+Show how NHHT has breached various provisions in the DPA including its obligation to purchase 5 street properties that it was to offer on shared equity terms to leaseholders in phase 1b/1c.
 
 ## Deliverability
-Show how Wood Dene estate was demolished in 2007 and how NHHT has [left the site empty](https://www.southwarknews.co.uk/news/notting-hill-admits-wood-dene-estate-peckham-wont-rebuilt-2019-thirteen-years-demolition/) for 10 years without building any new homes. This will be the future of phase 1b/1c. Manor Place depot was granted planning permission in 2015 but construction has still not started. 
+Show how [Wood Dene estate](http://35percent.org/wood-dene-estate-regeneration/) was demolished in 2007 and how NHHT has [left the site empty](https://www.southwarknews.co.uk/news/notting-hill-admits-wood-dene-estate-peckham-wont-rebuilt-2019-thirteen-years-demolition/) for 10 years without building any new homes. This will be the future of phase 1b/1c. Manor Place depot was granted planning permission in 2015 but construction has still not started. 
 
 ![](/img/nhhtwooddeneadmission.png)
 
 ## Tenure switch
-Submit copy of Southwark's evidence from previous Inquiry where they claim to have robust S106 monitoring procedures.
-Submit copy of Ombudsman decision and Sunday Times article showing Southwark's failure to monitor S106 AH tenure delivery because it doesn't have any monitoring procedures.
-NHHT's other developments where social rent intended but affordable rent delivered - i.e. the one in Streatham delivered on an LB Lambeth estate.
+Submit copy of [Southwark's evidence](http://crappistmartin.github.io/images/CPO_ExplanatoryNote12May2015.pdf) from previous Inquiry where they claim to have robust S106 monitoring procedures.
+
+![](/img/CPO_ExplanatoryNote.png)
+*Extract from Southwark's [evidence to first Inquiry](http://crappistmartin.github.io/images/CPO_ExplanatoryNote12May2015.pdf)*
+
+Submit copy of Ombudsman decision and Sunday Times [article](/img/ST23April2017.pdf) showing Southwark's failure to monitor S106 AH tenure delivery because it doesn't actually have any monitoring procedures and therefore misled the previous Inquiry.
+
+Highlight NHHT's other developments where social rent intended but affordable rent delivered - i.e. the one in Streatham delivered on an LB Lambeth estate.
 Show how the breach at Bermondsey Spa hasn't been resolved, i.e. the Council hasn't taken effective action to recover the SR homes.  
 
 Re-run all of our previous criticisms of Kate Davies and her predeliction for affordable rent and privatisation. Include also Steve Hilditch's [article](https://redbrickblog.wordpress.com/2017/01/07/one-article-does-not-wipe-the-slate-clean/) criticising Davies and Notting Hill (Hilditch is a former board member).
@@ -52,11 +60,6 @@ Appendix 6 shows the Aylesbury as not being the most costly of the estates. We c
 
 Southwark has in any case already [committed £12.5m to Major Works](/img/Aylesbury-Phase-2-newsletter-February-2017-JH.pdf) bringing homes on the estate up to Decent Homes Standard.
 
-## Environmental disbenefits
-Given Inspector Colley's comments on the environmental disbenefits and the fact that these were not explored in detail during the previous Inquiry, we should take the opportunity to explore them this time. We should cover a section on sunlight/daylight issues and also loss of public accessible open space. 
-
-![](http://crappistmartin.github.io/images/aylesburygreenspace.png)
-
 ## PSED
 The only Equalities Assessment conducted on the scheme to date (the [2009 EqIA which accommpanied the AAAP](/img/EqualitiesImpactAssessment.pdf)), relied upon the mitigation measures in place at the time for leaseholders- i.e. the rehousing options enshrined in the Council's [2006 rehousing policy](https://www.google.co.uk/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&ved=0ahUKEwiK2rTIssTTAhULCcAKHZeFDgUQFggrMAA&url=http%3A%2F%2Fwww.southwark.gov.uk%2Fdownload%2Fdownloads%2Fid%2F1850%2Fexecutive_report&usg=AFQjCNHDwIaNCnRYD2HSNaCATPoHFjbtbA) which included the like-for-like 'propery swap' for leaseholders. The 2006 policy and the Council's [Handbook for leaseholders](https://www.whatdotheyknow.com/request/331856/response/818864/attach/3/64145%20RedR%20Homeowner.pdf) clearly state the 'property swap' as one of the available rehousing options:
 
@@ -71,13 +74,29 @@ The EqIA specifically references the 2006 rehousing policy for leaseholders whic
 
 Given that the 'property swap' option was subsequently withdrawn in 2010, it can be argued that the scheme doesn't comply with the PSED because one of the mitigation measures set out in the EqIA which underlies the AAAP have been withdrawn. Indeed it was the only mitigation measure that would have enabled leaseholders to remain homeowners in the borough. 
 
-## Witnesses
-Organise a wide range of witnesses from a wide range of organisations across London - i.e:
+Inspector Coffey said that leaseholders are left with two bleak options: moving out of the area or remaining but being impoverished. Like-for-like swap was the only option that would have enabled leaseholders to remain in the area without being impoverished. *We will need to show that the shared equity deal impoverishes leaseholders despite change in the £16k policy*
 
- * Homeless charity
- * Environmental groups -> UCL Engineering Exchange on embodied carbon/open spaces/air quality
- * 
+## Non conformity with AAAP
 
+### BRE Sunlight/Daylight
+Show in detail how the private high-rise blocks on the park front will seriously affect daylight in the affordable units behind.
+
+### Sustainable Energy
+Show how the sustainable energy requirements of the AAAP are not being adhered to - ie. biomass (see draft blog on phase 1a missing biomass)
+
+### Cycling Infrastructure
+What does the AAAP say about cycling infrastructure and other transport infrastructure?
+
+### Open Space
+Net loss of 1.8 hectares of open space - is this in conformity with the AAAP?
+
+### Density
+Scheme will result in the uplift of just 750 homes -> what are the density requirements and number of homes envisaged by the AAAP?
+
+*Find references to where Council says openly that compensation paid to leaseholders is insufficient to purchase on open market*
+
+
+![](http://crappistmartin.github.io/images/aylesburygreenspace.png)
 
 
 
