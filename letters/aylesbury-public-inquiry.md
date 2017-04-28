@@ -23,7 +23,7 @@ Submit copy of Ombudsman decision and Sunday Times article showing Southwark's f
 NHHT's other developments where social rent intended but affordable rent delivered - i.e. the one in Streatham delivered on an LB Lambeth estate.
 Show how the breach at Bermondsey Spa hasn't been resolved, i.e. the Council hasn't taken effective action to recover the SR homes.  
 
-Re-run all of our previous criticisms of Kate Davies and her predeliction for affordable rent and privatisation.
+Re-run all of our previous criticisms of Kate Davies and her predeliction for affordable rent and privatisation. Include also Steve Hilditch's [article](https://redbrickblog.wordpress.com/2017/01/07/one-article-does-not-wipe-the-slate-clean/) criticising Davies and Notting Hill (Hilditch is a former board member).
 
 ![](http://35percent.org/img/kdquotes.png)
 
