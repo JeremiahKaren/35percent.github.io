@@ -93,12 +93,30 @@ What does the AAAP say about cycling infrastructure and other transport infrastr
 Net loss of 1.8 hectares of open space - is this in conformity with the AAAP?
 
 ### Density
-Scheme will result in the uplift of just 750 homes -> what are the density requirements and number of homes envisaged by the AAAP?
-
-*Find references to where Council says openly that compensation paid to leaseholders is insufficient to purchase on open market*
-
 
 ![](http://crappistmartin.github.io/images/aylesburygreenspace.png)
 
+The AAAP says _"The HCA has also recently admitted Aylesbury phases 2 and 3 to round 6 of the government backed Private Finance Initiative (PFI). Under this programme it is proposed that the council will effectively deliver 1000 new homes of which around 400 will be affordable council owned new homes"_.
+
+We know that the HCA PFI finance was scrapped shortly after the AAAP was adopted. 
+
+1419 units are required in phase 1 - does the planning application for the order site plus the new homes delivered on phase 1a add up to this?
+
+![](/img/aaapphasingdensity.png)
+
+The AAAP says that the scheme will deliver 1,450 extra new homes to contribute to the London Plan requirement of 16,300 new homes by 2016/2017. We can show that the scheme is providing less than the 1,450 promised and that Southwark has failed miserably to come anywhere near the 16,300 target.
+
+![](/img/aaapnewhomesdensity.png)
+
+## Room Sizes
+The AAAP says that:
+
+![](/img/aaapsizeofhomes.png)
+
+Does the accommodation schedule in the planning application for the FDS conform with these requirements?
 
 
+
+## Footnote
+
+*Find references to where Council says openly that compensation paid to leaseholders is insufficient to purchase on open market*
