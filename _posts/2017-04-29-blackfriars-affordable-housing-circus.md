@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Blackfriars affordable housing circus"
-subtitle: "Southwark wastes £10m buying new 'council homes' that should have been social rent anyway, then lets them at twice council rent"
+subtitle: "£10m wasted buying new pseudo-council homes that should have been provided as social rent anyway"
 published: true 
 ---
 Southwark Council [announced](http://www.southwark.gov.uk/news/2017/apr/stunning-new-council-homes-become-ready-for-local-tenantslast) last week that 56 new council homes have been provided by a new private development at [Blackfriars Circus](http://35percent.org/blackfriars-circus/) and that they are a step towards achieving the Council's ambition to build 11000 new council homes over the next 30 years.
