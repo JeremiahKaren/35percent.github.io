@@ -43,5 +43,4 @@ Barratt's success is due in part to its pipeline of major developments in Southw
 
 [^3]: Affordable Housing Contribution, pg 6
 
-[^4]: This compares to the [£3.1m paid](http://crappistmartin.github.io/images/LR_LANDQ_TrafalgarPlace.pdf) by L&Q for the 54 affordable homes bought from Heygate developer Lend Lease at [Trafalgar Place](http://trafalgarplace.com). 
-
+[^4]: This compares to the [£3.1m paid](http://crappistmartin.github.io/images/LR_LANDQ_TrafalgarPlace.pdf) by L&Q for the 54 affordable homes bought from Heygate developer Lend Lease at [Trafalgar Place](http://trafalgarplace.com).
