@@ -12,13 +12,13 @@ The [__Blackfriars Circus__](http://www.barratthomes.co.uk/new-homes/greater-lon
 overlooks the South Bank University campus at the Elephant & Castle and comprises 336 new homes in 5 buildings, ranging up to 27 storeys 
 in height.  New apartments in the latest phase, [Dephini apartments](https://www.barratthomes.co.uk/new-homes/greater-london/H625601-Blackfriars-circus/), have been available since the beginning of the year, starting at £595k for a studio flat.
 
-The scheme should have provided about 70 social rented homes and 47 shared ownership, in accordance with Southwark's affordable housing policy. However, in time-honoured fashion the developer, Barratt Homes, submitted a viability assessment, claiming that only 30% affordable housing was  viable, consisting of 35 shared-ownership homes, 8 social rented and 48 affordable rent, at 65% market rent [^1]. 
+![](http://35percent.org/img/erlang-house.jpg)
+
+The scheme should have provided 70 social rented and 47 shared ownership homes, in accordance with Southwark's 35% affordable housing policy. However, in time-honoured fashion the developer, Barratt Homes, submitted a viability assessment, claiming that only 30% affordable housing was  viable, consisting of 35 shared-ownership homes, 8 social rented and 48 affordable rent, at 65% market rent [^1]. 
 
 The [officer's report](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!5wmNTTJlhAE1P%2fSH390aXg%3d%3d!%7d%7d%7d) for the planning application
 explains that the viability assessment had been appraised by the 
 'Borough Valuer' (meaning the District Valuer) and that _"Whilst a number of inputs into the valuation have been agreed.... an agreement has not been reached on two fundamental matters: methodology of calculating the benchmark value of the site; and residential sale values. As such, the applicant and the Borough Valuer have not reached an agreed position about how much affordable housing can be delivered on site."_ (para. 109.  In fact the District Valuer's view was clear and is related in the s106 agreement, which states ['..the District Valuer concluded... the Development could support the minimum housing requirement'](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!EO9aOXw4U1fRhx%2f8lcgyPw%3d%3d!%7d%7d%7d)[^2].
-
-![](https://betterblackfriars.files.wordpress.com/2013/05/erlang-house.jpg)
 
 The planning report proposed an additional in lieu payment of £4.7m to make up the affordable shortfall.  The application was approved, with the in lieu payment bumped [up to £4.9m](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!EO9aOXw4U1fRhx%2f8lcgyPw%3d%3d!%7d%7d%7d) in the S106 agreement, signed in November 2014 [^3].
 
