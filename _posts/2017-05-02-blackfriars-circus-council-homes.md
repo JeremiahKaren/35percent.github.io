@@ -31,7 +31,7 @@ Further, this is not council housing, if as Southwark says in its [press release
 ![](/img/mtbfeb2017.png)
 *Extract from Southwark's [Market Trends Bulletin Feb 2017](http://www.2.southwark.gov.uk/downloads/download/4454/southwark_housing_market_trends_bulletin)*
 
-What we see here is the introduction of two-tier council housing; Southwark has recently [introduced](/img/lbsprwaitinglist.pdf) an 'intermediate waiting list' with higher rents, specifically for the discounted market rented housing developers are supplying instead of giving us social rent. Tenants allocated by Southwark will pay the higher rents, but Southwark will still claim their homes as part of their 11000 council building programme. 
+What we see here is the introduction of two-tier council housing; Southwark has recently [introduced](http://35percent.org/img/lbsprwaitinglist.pdf) an 'intermediate waiting list' with higher rents, specifically for the discounted market rented housing developers are supplying instead of giving us social rent. Tenants allocated by Southwark will pay the higher rents, but Southwark will still claim their homes as part of their 11000 council building programme. 
 
 END
 
