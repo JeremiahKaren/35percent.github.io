@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "Blackfriars affordable housing circus"
-subtitle: "Council wastes £10m buying homes it failed to secure as social rent"
+title: Blackfriars affordable housing circus
+subtitle: Council wastes £10m buying homes it failed to secure as social rent
 published: false
 ---
-Southwark Council annonced last week that 56 new Council homes have been provided in a new development at Blackfriars Circus and these are a step towards achieving the Council's target of 11000 new homes over the next 30 years.
+Southwark Council announced last week that 56 new Council homes have been provided in a new development at Blackfriars Circus and these are a step towards achieving the Council's target of 11000 new homes over the next 30 years.
 
 The reality is somewhat different and is worth examining.
 
@@ -44,4 +44,3 @@ New apartments in [Dephini apartments](https://www.barratthomes.co.uk/new-homes/
 Barratt Homes is Britains third-largest housebuilder, and [it made £321m](http://www.telegraph.co.uk/business/2017/02/22/profits-rise-barratt-despite-uks-biggest-housebuilder-building/ in the first half of 2016) before tax in the second half of last year, a profit rise of 9%. This continued Barrett's steady profit climb since 2010, [part of the explosion of housebuilders' profits](http://www.ourcity.london/issues/viability/house_builders_profits/) over the past five years. 
 
 Barratt's success is due in part to its pipeline of major developments in Southwark, which include [__Maple Quays__](http://www.barratthomes.co.uk/new-homes/greater-london/h469201-maple-quays/) (668 homes in phase 1 of the [Canada Water regeneration](/canada-water/)); [__the Galleria__](http://www.barratthomes.co.uk/new-homes/greater-london/track-record---article-pages/the-galleria/) development in Peckham; [__Redwood Park__](http://www.barratthomes.co.uk/new-homes/greater-london/h309201-redwood-park/) (212 homes on former council land at Surrey Quays) and the 60-acre, 3,500-home Aylesbury estate redevelompent for which Barratt is Notting Hill Housing's [development partner](http://www.nottinghillhousing.org.uk/our-developments/aylesbury-estate-southwark).
-
