@@ -24,14 +24,14 @@ The planning report proposed an additional in lieu payment of £4.7m to make up 
 
 In September 2015 it was [reported](http://www.london-se1.co.uk/news/view/8441) that the council was to buy the 8 social and 48 affordable rented homes from Barratt for £10m, in order to turn them into council homes.  The units were purchased and duly listed as 128 – 150 Blackfriars Road, amongst the schemes that will deliver Southwark's [11000 new council homes](http://moderngov.southwark.gov.uk/documents/s62949/Appendix%201B%20List%20of%20Approved%20Schemes.pdf).
 
-But instead of paying £10m for 56 council homes Southwark could have stood firm and insisted that the social rented housing was delivered on site, thereby securing 70 social rented units at no cost to itself and saving £10m on new Council homes elsewhere.
+But instead of paying £10m for 56 council homes Southwark could have stood firm and insisted that the social rented housing was delivered on site, thereby securing 70 social rented units at no cost to itself and saving £10m to spend on new council homes elsewhere.
 
-This is not Council housing, if as Southwark says, the rent is 40% market rent. Southwark doesn't say exactly how much this is but a calculation based on the Council's [latest market data](http://www.2.southwark.gov.uk/downloads/download/4454/southwark_housing_market_trends_bulletin) gives an average rent of £235 across all flat sizes compared to an [average Council rent of under £100 per week](http://www.insidehousing.co.uk/london-borough-to-limit-average-rent-to-below-100-per-week/7005006.article).
+Further, this is not council housing, if as Southwark says in its [press release](http://www.southwark.gov.uk/news/2017/apr/stunning-new-council-homes-become-ready-for-local-tenantslast) the rent is 40% market rent. A calculation based on the Council's [latest market data](http://www.2.southwark.gov.uk/downloads/download/4454/southwark_housing_market_trends_bulletin) gives an average rent of £235 across all flat sizes compared to an [average Council rent of under £100 per week](http://www.insidehousing.co.uk/london-borough-to-limit-average-rent-to-below-100-per-week/7005006.article).
 
 ![](/img/mtbfeb2017.png)
 *Extract from Southwark's [Market Trends Bulletin Feb 2017](http://www.2.southwark.gov.uk/downloads/download/4454/southwark_housing_market_trends_bulletin)*
 
-What we could be seeing here is the introduction of two-tier council housing; Southwark has recently [introduced](http://www.insidehousing.co.uk/southwark-council-to-create-intermediate-waiting-list/7018529.article) an 'intermediate waiting list' with higher rents. This appears to be specifically for 'affordable rented' housing supplied by new developments. Southwark will allocate the tenants from this new list and they will pay a discounted market rent, higher than council rent but Southwark will still claim that they are new council homes. 
+What we could be seeing here is the introduction of two-tier council housing; Southwark has recently [introduced](http://www.insidehousing.co.uk/southwark-council-to-create-intermediate-waiting-list/7018529.article) an 'intermediate waiting list' with higher rents. This is specifically for 'affordable rented' housing supplied by new developments. Southwark will allocate the tenants from this new list and they will pay a discounted market rent, higher than council rent but Southwark will still claim that they are new council homes. 
 
 END
 
