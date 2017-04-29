@@ -12,7 +12,7 @@ The [__Blackfriars Circus__](http://www.barratthomes.co.uk/new-homes/greater-lon
 overlooks the South Bank University campus at the Elephant & Castle and comprises 336 new homes in 5 buildings, ranging up to 27 storeys 
 in height.  New apartments in the latest phase, [Dephini apartments](https://www.barratthomes.co.uk/new-homes/greater-london/H625601-Blackfriars-circus/), have been available since the beginning of the year, starting at £595k for a studio flat.
 
-The scheme should have provided about 70 social rented homes and 47 shared ownership, in accordance with Southwark's affordable housing policy. However, in time-honoured fashion the developer, Barratt Homes, submitted a viability assessment, claiming that only 30% affordable housing was  viable, consisting of 35 shared-ownership homes,8 social rented and 48 affordable rent, at 65% market rent [^1]. 
+The scheme should have provided about 70 social rented homes and 47 shared ownership, in accordance with Southwark's affordable housing policy. However, in time-honoured fashion the developer, Barratt Homes, submitted a viability assessment, claiming that only 30% affordable housing was  viable, consisting of 35 shared-ownership homes, 8 social rented and 48 affordable rent, at 65% market rent [^1]. 
 
 The [officer's report](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!5wmNTTJlhAE1P%2fSH390aXg%3d%3d!%7d%7d%7d) 
 explains that the viability assessment had been appraised by the 
