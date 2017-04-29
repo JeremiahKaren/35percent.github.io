@@ -4,9 +4,9 @@ title: Blackfriars affordable housing circus
 subtitle: Council wastes £10m buying homes it failed to secure as social rent
 published: false
 ---
-Southwark Council [announced](http://www.southwark.gov.uk/news/2017/apr/stunning-new-council-homes-become-ready-for-local-tenantslast) last week that 56 new Council homes have been provided in a new development at Blackfriars Circus and these are a step towards achieving the Council's target of 11000 new homes over the next 30 years.
+Southwark Council [announced](http://www.southwark.gov.uk/news/2017/apr/stunning-new-council-homes-become-ready-for-local-tenantslast) last week that 56 new Council homes have been provided by a new private development at Blackfriars Circus and that they are a step towards achieving the Council's ambition to build 11000 new council homes over the next 30 years.
 
-The reality is somewhat different and is worth examining.
+The reality of this claim is worth examining.
 
 The [__Blackfriars Circus__](http://www.barratthomes.co.uk/new-homes/greater-london/H625601-Blackfriars-circus/) 
 development overlooks the South Bank University campus at the Elephant & Castle and comprises 336 new homes in 5 buildings, ranging up to 27 storeys 
