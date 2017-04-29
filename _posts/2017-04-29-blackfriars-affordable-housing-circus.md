@@ -40,3 +40,8 @@ __Footnotes:__
 [^2]: See page 4 of the [section 106 agreement](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!EO9aOXw4U1fRhx%2f8lcgyPw%3d%3d!%7d%7d%7d).
 
 [^3]: This compares to the [£3.1m paid](http://crappistmartin.github.io/images/LR_LANDQ_TrafalgarPlace.pdf) by L&Q for the 54 affordable homes bought from Heygate developer Lend Lease at [Trafalgar Place](http://trafalgarplace.com).
+
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:title" content="Blackfriars affordable housing circus" />
+<meta name="twitter:description" content="£10m wasted buying new pseudo-council homes that should have been provided as social rent anyway" />
+<meta name="twitter:image" content="http://35percent.org/img/tweetmwilliamsblackfriars.png" />
