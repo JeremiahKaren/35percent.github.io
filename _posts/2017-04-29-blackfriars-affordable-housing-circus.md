@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Blackfriars affordable housing circus
-subtitle: Council wastes £10m buying homes it failed to secure as social rent
-published: false
+title: "Blackfriars affordable housing circus"
+subtitle: "Council wastes £10m buying homes it failed to secure as social rent"
+published: true 
 ---
 Southwark Council [announced](http://www.southwark.gov.uk/news/2017/apr/stunning-new-council-homes-become-ready-for-local-tenantslast) last week that 56 new council homes have been provided by a new private development at Blackfriars Circus and that they are a step towards achieving the Council's ambition to build 11000 new council homes over the next 30 years.
 
@@ -33,7 +33,7 @@ Further, this is not council housing, if as Southwark says in its [press release
 
 What we are seeing at Blackfriars Circus is the introduction of two-tier council housing.  Southwark has recently proposed [introducing](http://35percent.org/img/lbsprwaitinglist.pdf) an 'intermediate waiting list' with higher rents, specifically for the discounted market rented housing developers are supplying instead of social rent. The intermedite waiting list will also provide tenants for Southwark's own intermediate rent homes, homes that will no doubt join the pseudo-council homes of Blackfriar's Circus as part of the 11000 council homes building programme.
 
-Footnotes
+__Footnotes:__
 
 [^1]: Barratt Homes is Britains third-largest housebuilder, and [it made £321m](http://www.telegraph.co.uk/business/2017/02/22/profits-rise-barratt-despite-uks-biggest-housebuilder-building/ in the first half of 2016) before tax in the second half of last year, a profit rise of 9%. This continued Barrett's steady profit climb since 2010, [part of the explosion of housebuilders' profits](http://www.ourcity.london/issues/viability/house_builders_profits/) over the past five years.
 

@@ -94,11 +94,28 @@ With Stanton's help, Sellar got his way in 2013 and despite [173 objections](htt
 
 <img src="http://crappistmartin.github.io/images/canadawater.png" width="300" align="left" style="margin:10px">3 months after signing the [section 106 agreement](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!cGFmRRD0mjgwvb4DPBAF8w%3d%3d!%7d%7d%7d), Sellar [signed a contractual agreement](http://www.costar.co.uk/en/assets/news/2014/March/Sellar-reaches-Canada-Water-agreement-with-Notting-Hill/) with Notting Hill Housing. The agreement put the site under the new ownership of a joint venture shell company created by Sellar and Notting Hill ('__PROJECT LIGHT DEVELOPMENT LIMITED__'). The Land Registry [title register](/images/LR_CanadaWater.pdf) shows the scheme as having been bought by __PROJECT LIGHT DEVELOPMENT__ from Sellar for a staggering £48m - £32m more than the £16m Sellar paid for it 4 years prior. This clever accounting manoeuver inflates the scheme's development cost by inflating the land price, subsequently reducing the viability of the scheme and funds available for affordable housing. 
 
-Despite the planning officer's report clearly stating 'social rented', when it came to drafting the s106 agreement Notting Hill omitted the 'social' from 'social rented', consequently leaving the door open to interpretation as affordable rented. Indeed, in its [press release](http://www.nottinghillhousing.org.uk/about-us/media-centre/news/green-light-for-canada-water-regeneration) and [web page](http://www.nottinghillhousing.org.uk/about-us/media-centre/news/architects-appointed-to-canada-water-development) for the scheme, Notting Hill describes all rented units as 'affordable rent'.
+Despite the planning officer's report clearly stating 'social rented', when it came to drafting the s106 agreement Notting Hill omitted the 'social' from 'social rented', consequently leaving the door open to interpretation as affordable rented. Indeed, in its [press release](http://www.nottinghillhousing.org.uk/about-us/media-centre/news/green-light-for-canada-water-regeneration) and [reports](http://www.wharf.co.uk/news/local-news/demolition-work-decathlon-warehouse-canada-9095856) for the scheme, Notting Hill describes all rented units as 'affordable rent'.
 
 ![](http://crappistmartin.github.io/images/canadawaterahf.png)
 
 ![](http://i3.wharf.co.uk/incoming/article9095859.ece/ALTERNATES/s615/Decathlon.jpg)
+
+### 'Public' roof garden
+As part of its planning application Sellar promised that the development would provide a 'public roof garden'.
+
+![](/img/decathlonroofgarden.png)
+*The so-called 'public roof garden' proposed by the scheme*
+
+![](/img/roofgardens106.png)
+*Extract from the [section 106 agreement](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!9AlysRXV1LlYhRpatMlVJw%3d%3d!%7d%7d%7d)*
+
+### Car parking
+Sites C&E will provide 250 residential car parking spaces and 250 car parking spaces for the Decathlon store. This is 500 new car parking spaces in a development that is 100 feet away from a zone 2 tube station. 
+
+### Pitiful planning contributions
+Strategic Transport (£209,524.00)
+Education (£260,304.00)
+Site Specific Transport (£226,290.00)
 
 ## Former Mulberry Business Park
 

@@ -39,11 +39,17 @@ Re-run all of our previous criticisms of Kate Davies and her predeliction for af
 
 ![](http://35percent.org/img/csjquoterents.png)
 
-## St James's estate
+## Bashing NHHT 
 [Southwark News article](https://www.southwarknews.co.uk/news/housing-association-slammed-nightmare-scenario-eviction-threat-bermondseys-st-james-estate/) on rent hikes and evictions
 MP Neil Coyle's criticisms and Cllr Pollak's quote saying NHHT is acting like a 'predatory landlord'. 
 
 ![](http://35percent.org/img/nhhtevictions.png)
+
+Wood Dene estate and Decathlon sites appear to have stalled. Point out affordable scandal at the Decathlon site (blog post to be drafted still) and the low level of social rented housing at the Wood Dene site. Make the point that NHHT successfully argued (using viability assessments) that it wasn't viable to provide more than the pitiful 15% (avg) social rented housing across both sites. So how can it be possible that the FDS site can viably provide over 40% social rented?
+
+Silwood estate - 3 missing social rented housing units.
+
+Manor Place Depot?
 
 ## Maydew House
 Why can't same be done with Aylesbury?
