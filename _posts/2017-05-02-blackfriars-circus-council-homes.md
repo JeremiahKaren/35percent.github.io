@@ -22,7 +22,7 @@ explains that the viability assessment had been appraised by the
 
 The planning report proposed an additional in lieu payment of £4.7m to make up the affordable shortfall.  The application was approved, with the in lieu payment bumped [up to £4.9m](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!EO9aOXw4U1fRhx%2f8lcgyPw%3d%3d!%7d%7d%7d) in the S106 agreement, signed in November 2014 [^2].
 
-In September 2015 it was [reported](http://www.london-se1.co.uk/news/view/8441) that the council was to buy the 8 social and 48 affordable rented homes from Barratt for £10m, in order to turn them into council homes.  The units were purchased and duly listed as 128 – 150 Blackfriars Road, amongst the schemes that will deliver Southwark's [11000 new council homes](http://moderngov.southwark.gov.uk/documents/s62949/Appendix%201B%20List%20of%20Approved%20Schemes.pdf).
+In September 2015 it was [reported](http://www.london-se1.co.uk/news/view/8441) that the council was to buy the 8 social and 48 affordable rented homes from Barratt for £10m, in order to turn them into council homes[^3].  The units were purchased and duly listed as 128 – 150 Blackfriars Road, amongst the schemes that will deliver Southwark's [11000 new council homes](http://moderngov.southwark.gov.uk/documents/s62949/Appendix%201B%20List%20of%20Approved%20Schemes.pdf).
 
 But instead of paying £10m for 56 council homes Southwark could have stood firm and insisted that the social rented housing was delivered on site, thereby securing 70 social rented units at no cost to itself and saving £10m to spend on new council homes elsewhere.
 
@@ -37,8 +37,7 @@ END
 
 [^1]: Recital F, pg 4
 [^2]: Affordable Housing Contribution, pg 6
-
-Either of these amounts appears over the odds, compared to the [£3.1m paid](http://crappistmartin.github.io/images/LR_LANDQ_TrafalgarPlace.pdf) by L&Q for the 54 affordable homes bought from Heygate developer Lend Lease at [Trafalgar Place](http://trafalgarplace.com). Southwark are also using seight of hand by including the number in their promised 11000 council homes, when they are in fact a private developer's affordable housing obligation.
+[^3]: This compares to the [£3.1m paid](http://crappistmartin.github.io/images/LR_LANDQ_TrafalgarPlace.pdf) by L&Q for the 54 affordable homes bought from Heygate developer Lend Lease at [Trafalgar Place](http://trafalgarplace.com). 
 
 New apartments in [Dephini apartments](https://www.barratthomes.co.uk/new-homes/greater-london/H625601-Blackfriars-circus/), the latest phase of Barratt's [__Blackfriars Circus__](http://www.barratthomes.co.uk/new-homes/greater-london/H625601-Blackfriars-circus/) development have been available since the beginning of the year, but there are still some available, if you hurry, starting at £595k for a studio flat.
 
