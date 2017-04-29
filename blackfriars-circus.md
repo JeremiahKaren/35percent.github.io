@@ -25,19 +25,16 @@ This seems like a high price tag for homes sold with an affordable housing coven
 
 The absurdity of buying homes from developers to convert to social rent when they should have been social rent anyway, is plain for all to see.
 
-However, it also appears that Southwark is paying well over the market price: £10m for 56 affordable housing units seems an awful lot of money compared to the [£3.1m paid](http://crappistmartin.github.io/images/LR_LANDQ_TrafalgarPlace.pdf) by L&Q for 54 affordable homes it brought from Heygate developer Lend Lease at [Trafalgar Place](http://trafalgarplace.com).
+Furthermore, this is not council housing as Southwark claims in its [press release](http://www.southwark.gov.uk/news/2017/apr/stunning-new-council-homes-become-ready-for-local-tenantslast) the rent is 40% market rent. A calculation based on the Council's [latest market data](http://www.2.southwark.gov.uk/downloads/download/4454/southwark_housing_market_trends_bulletin) gives an average rent of £235 across all flat sizes compared to an [average Council rent of under £100 per week](http://www.insidehousing.co.uk/london-borough-to-limit-average-rent-to-below-100-per-week/7005006.article).
 
-Information in the response to [FOI request](https://www.whatdotheyknow.com/request/council_land_sold_2?nocache=incoming-954086) shows that the development is being built partly on Council land. 
+![](/img/mtbfeb2017.png)
+*Extract from Southwark's [Market Trends Bulletin Feb 2017](http://www.2.southwark.gov.uk/downloads/download/4454/southwark_housing_market_trends_bulletin)*
 
-The Council has [created a new separate Council waiting list](http://www.insidehousing.co.uk/southwark-council-to-create-intermediate-waiting-list/7018529.article) for intermediate housing that will offer 'Discounted Market Rents' rather than Social Rent. 
+Indeed, [other Council data reports](http://www.southwark.gov.uk/download/downloads/id/13083/affordable_rent_study_xls_-_december_2015) show that a social rent in Southwark for a 1-bed flat is £96.88 on average (incl. service charge), which works out to be 25.5% of market rent (£378.79); a 2-bed social rented flat is £110.76 per week (24.2% market rent); a 3-bed is £124.18 pw (22.5% market rent); a 4-bed is £139.69 (19.3% market rent).
 
-In its self published magazine, the Council says that its new 'council homes' will be let at _'target rent, which is around 40% of market rent'_. 
+What we are seeing at Blackfriars Circus is the introduction of two-tier council housing.  Southwark has recently proposed [introducing](http://35percent.org/img/lbsprwaitinglist.pdf) an 'intermediate waiting list' with higher rents, specifically for the discounted market rented housing developers are supplying instead of social rent. The intermedite waiting list will also provide tenants for Southwark's own intermediate rent homes, homes that will no doubt join the pseudo-council homes of Blackfriar's Circus as part of the 11000 council homes building programme.
 
 ![](/img/southwarklifemagazine.png)
 *Extract from the Council's ["Southwark Life" magazine](http://www.2.southwark.gov.uk/southwarklife)*
-
-Southwark's [latest report](http://www.2.southwark.gov.uk/download/downloads/id/14342/southwark_housing_market_trends_bulletin_q3_2016-17) on rental market data shows that the average market rent for a 1-bed in the Blackfriars Circus postcode (SE1) is £1947 per month. 40% of market rent in this case would then amount to approx. £200 per week, which is around twice the current average council rent in the borough. 
-
-Indeed, [other Council data reports](http://www.southwark.gov.uk/download/downloads/id/13083/affordable_rent_study_xls_-_december_2015) show that a social rent in Southwark for a 1-bed flat is £96.88 on average (incl. service charge), which works out to be 25.5% of market rent (£378.79); a 2-bed social rented flat is £110.76 per week (24.2% market rent); a 3-bed is £124.18 pw (22.5% market rent); a 4-bed is £139.69 (19.3% market rent).
 
 

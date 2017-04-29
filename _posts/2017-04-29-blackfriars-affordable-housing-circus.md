@@ -6,6 +6,9 @@ published: true
 ---
 Southwark Council [announced](http://www.southwark.gov.uk/news/2017/apr/stunning-new-council-homes-become-ready-for-local-tenantslast) last week that 56 new council homes have been provided by a new private development at Blackfriars Circus and that they are a step towards achieving the Council's ambition to build 11000 new council homes over the next 30 years.
 
+![](http://35percent.org/img/tweetmwilliamsblackfriars.png)
+*[Tweets](https://twitter.com/markwilliams84/status/837314723402100736) by Cabinet member for Regen Mark Williams and Council leader Peter John*
+
 The reality of this claim is somewhat different and worth examining.
 
 The [__Blackfriars Circus__](http://www.barratthomes.co.uk/new-homes/greater-london/H625601-Blackfriars-circus/) 
@@ -28,7 +31,7 @@ But instead of paying £10m for 56 council homes Southwark could have stood firm
 
 Further, this is not council housing, if as Southwark says in its [press release](http://www.southwark.gov.uk/news/2017/apr/stunning-new-council-homes-become-ready-for-local-tenantslast) the rent is 40% market rent. A calculation based on the Council's [latest market data](http://www.2.southwark.gov.uk/downloads/download/4454/southwark_housing_market_trends_bulletin) gives an average rent of £235 across all flat sizes compared to an [average Council rent of under £100 per week](http://www.insidehousing.co.uk/london-borough-to-limit-average-rent-to-below-100-per-week/7005006.article).
 
-![](/img/mtbfeb2017.png)
+![](http://35percent.org/img/mtbfeb2017.png)
 *Extract from Southwark's [Market Trends Bulletin Feb 2017](http://www.2.southwark.gov.uk/downloads/download/4454/southwark_housing_market_trends_bulletin)*
 
 What we are seeing at Blackfriars Circus is the introduction of two-tier council housing.  Southwark has recently proposed [introducing](http://35percent.org/img/lbsprwaitinglist.pdf) an 'intermediate waiting list' with higher rents, specifically for the discounted market rented housing developers are supplying instead of social rent. The intermedite waiting list will also provide tenants for Southwark's own intermediate rent homes, homes that will no doubt join the pseudo-council homes of Blackfriar's Circus as part of the 11000 council homes building programme.
