@@ -35,6 +35,9 @@ What we see here is the introduction of two-tier council housing; Southwark has 
 
 END
 
+[^1]: Recital F, pg 4
+[^2]: Affordable Housing Contribution, pg 6
+
 Either of these amounts appears over the odds, compared to the [£3.1m paid](http://crappistmartin.github.io/images/LR_LANDQ_TrafalgarPlace.pdf) by L&Q for the 54 affordable homes bought from Heygate developer Lend Lease at [Trafalgar Place](http://trafalgarplace.com). Southwark are also using seight of hand by including the number in their promised 11000 council homes, when they are in fact a private developer's affordable housing obligation.
 
 New apartments in [Dephini apartments](https://www.barratthomes.co.uk/new-homes/greater-london/H625601-Blackfriars-circus/), the latest phase of Barratt's [__Blackfriars Circus__](http://www.barratthomes.co.uk/new-homes/greater-london/H625601-Blackfriars-circus/) development have been available since the beginning of the year, but there are still some available, if you hurry, starting at £595k for a studio flat.
