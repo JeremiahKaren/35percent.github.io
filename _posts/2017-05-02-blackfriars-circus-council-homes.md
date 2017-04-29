@@ -6,11 +6,11 @@ published: false
 ---
 Southwark Council [announced](http://www.southwark.gov.uk/news/2017/apr/stunning-new-council-homes-become-ready-for-local-tenantslast) last week that 56 new council homes have been provided by a new private development at Blackfriars Circus and that they are a step towards achieving the Council's ambition to build 11000 new council homes over the next 30 years.
 
-The reality of this claim is worth examining.
+The reality of this claim is somewhat different and worth examining.
 
 The [__Blackfriars Circus__](http://www.barratthomes.co.uk/new-homes/greater-london/H625601-Blackfriars-circus/) 
 development overlooks the South Bank University campus at the Elephant & Castle and comprises 336 new homes in 5 buildings, ranging up to 27 storeys 
-in height, the tallest of which will be known as __'The Conquest Apartments'__. 
+in height.  New apartments in latest phase, [Dephini apartments](https://www.barratthomes.co.uk/new-homes/greater-london/H625601-Blackfriars-circus/), have been available since the beginning of the year, starting at £595k for a studio flat.
 
 The scheme should have provided about 70 social rented homes and 47 shared ownership, in accordance with Southwark's affordable housing policy. However, in time-honoured fashion the developer, Barratt Homes, submitted a viability assessment, claiming that only 30% affordable housing was  viable, consisting of 35 shared-ownership homes,8 social rented and 48 affordable rent, at 65% market rent. 
 
