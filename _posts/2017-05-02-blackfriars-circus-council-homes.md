@@ -22,7 +22,7 @@ explains that the viability assessment had been appraised by the
 
 The planning report proposed an additional in lieu payment of £4.7m to make up the affordable shortfall.  The application was approved, with the in lieu payment bumped [up to £4.9m](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!EO9aOXw4U1fRhx%2f8lcgyPw%3d%3d!%7d%7d%7d) in the S106 agreement, signed in November 2014 [^2].
 
-In September 2015 it was [reported](http://www.london-se1.co.uk/news/view/8441) that the council was planning to buy these 8 social and 48 affordable rented homes from Barratt, in order to turn them into social rented council homes at a cost of £10m.  The units were purchased and appeared as 128 – 150 Blackfriars Road, on the list of schemes that will make up Southwark's [11000 new council homes](http://moderngov.southwark.gov.uk/documents/s62949/Appendix%201B%20List%20of%20Approved%20Schemes.pdf).
+In September 2015 it was [reported](http://www.london-se1.co.uk/news/view/8441) that the council was planning to buy the 8 social and 48 affordable rented homes from Barratt for £10m, in order to turn them into social rented council homes.  The units were purchased and appeared as 128 – 150 Blackfriars Road, on the list of schemes that will make up Southwark's [11000 new council homes](http://moderngov.southwark.gov.uk/documents/s62949/Appendix%201B%20List%20of%20Approved%20Schemes.pdf).
 
 So Southwark therefore got 56 social rented homes from Blackfriars Circus at a cost of £10m. Alternatively it could have stood firm and insisted on planning policy and insisted that the social rented housing was delivered on site, thereby securing 70 social rented units at no cost to itself and saving £10m on new Council homes elsewhere.
 
