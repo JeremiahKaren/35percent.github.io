@@ -22,7 +22,7 @@ explains that the viability assessment had been appraised by the
 
 The planning report proposed an additional in lieu payment of £4.7m to make up the affordable shortfall.  The application was approved, with the in lieu payment bumped [up to £4.9m](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!EO9aOXw4U1fRhx%2f8lcgyPw%3d%3d!%7d%7d%7d) in the S106 agreement, signed in November 2014 [^3].
 
-In September 2015 it was [reported](http://www.london-se1.co.uk/news/view/8441) that the council was to buy the 8 social and 48 affordable rented homes from Barratt for £10m, in order to turn them into council homes [^4].  The units were purchased and are listed  amongst the schemes that will deliver Southwark's [11000 new council homes](http://moderngov.southwark.gov.uk/documents/s62949/Appendix%201B%20List%20of%20Approved%20Schemes.pdf)as 128 – 150 Blackfriars Road.
+In September 2015 it was [reported](http://www.london-se1.co.uk/news/view/8441) that the council was to buy the 8 social and 48 affordable rented homes from Barratt for £10m, in order to turn them into council homes [^4].  The units were purchased and are listed  amongst the schemes that will deliver Southwark's [11000 new council homes](http://moderngov.southwark.gov.uk/documents/s62949/Appendix%201B%20List%20of%20Approved%20Schemes.pdf) as 128 – 150 Blackfriars Road.
 
 But instead of paying £10m for 56 council homes Southwark could have stood firm and insisted that the social rented housing was delivered on site, thereby securing 70 social rented units at no cost to itself and saving £10m to spend on new council homes elsewhere.
 
@@ -31,7 +31,9 @@ Further, this is not council housing, if as Southwark says in its [press release
 ![](/img/mtbfeb2017.png)
 *Extract from Southwark's [Market Trends Bulletin Feb 2017](http://www.2.southwark.gov.uk/downloads/download/4454/southwark_housing_market_trends_bulletin)*
 
-What we see here is the introduction of two-tier council housing; Southwark has recently proposed [introducing](http://35percent.org/img/lbsprwaitinglist.pdf) an 'intermediate waiting list' with higher rents, specifically for the discounted market rented housing developers are supplying instead of social rent. The list will also provide tenants for Southwark's own intermediate rent homes, and will no doubt join the pseudo-council homes of Blackfriar's Circus in the 11000 council homes building programme. 
+What we are seeing at Blackfriars Circus is the introduction of two-tier council housing.  Southwark has recently proposed [introducing](http://35percent.org/img/lbsprwaitinglist.pdf) an 'intermediate waiting list' with higher rents, specifically for the discounted market rented housing developers are supplying instead of social rent. The intermedite waiting list will also provide tenants for Southwark's own intermediate rent homes, homes that will no doubt join the pseudo-council homes of Blackfriar's Circus in the 11000 council homes building programme.
+
+Footnotes
 
 [^1]: Barratt Homes is Britains third-largest housebuilder, and [it made £321m](http://www.telegraph.co.uk/business/2017/02/22/profits-rise-barratt-despite-uks-biggest-housebuilder-building/ in the first half of 2016) before tax in the second half of last year, a profit rise of 9%. This continued Barrett's steady profit climb since 2010, [part of the explosion of housebuilders' profits](http://www.ourcity.london/issues/viability/house_builders_profits/) over the past five years.
 
