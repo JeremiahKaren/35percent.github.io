@@ -4,7 +4,7 @@ title: Blackfriars affordable housing circus
 subtitle: Council wastes £10m buying homes it failed to secure as social rent
 published: false
 ---
-Southwark Council [announced](http://www.southwark.gov.uk/news/2017/apr/stunning-new-council-homes-become-ready-for-local-tenantslast) last week that 56 new Council homes have been provided by a new private development at Blackfriars Circus and that they are a step towards achieving the Council's ambition to build 11000 new council homes over the next 30 years.
+Southwark Council [announced](http://www.southwark.gov.uk/news/2017/apr/stunning-new-council-homes-become-ready-for-local-tenantslast) last week that 56 new council homes have been provided by a new private development at Blackfriars Circus and that they are a step towards achieving the Council's ambition to build 11000 new council homes over the next 30 years.
 
 The reality of this claim is worth examining.
 
