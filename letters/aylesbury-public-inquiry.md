@@ -86,11 +86,14 @@ Inspector Coffey said that leaseholders are left with two bleak options: moving 
 
 ## Non conformity with AAAP
 
+
 ### BRE Sunlight/Daylight
 Show in detail how the private high-rise blocks on the park front will seriously affect daylight in the affordable units behind.
 
 ### Sustainable Energy
 Show how the sustainable energy requirements of the AAAP are not being adhered to - ie. biomass (see draft blog on phase 1a missing biomass)
+
+[This press release](http://www.24housing.co.uk/news/first-new-homes-completed-on-aylesbury-estate/) says that biomass was to be provided on phase 1a but we know from classeur blog post that biomass was never provided.
 
 ### Cycling Infrastructure
 What does the AAAP say about cycling infrastructure and other transport infrastructure?
@@ -106,13 +109,15 @@ The AAAP says _"The HCA has also recently admitted Aylesbury phases 2 and 3 to r
 
 We know that the HCA PFI finance was scrapped shortly after the AAAP was adopted. 
 
-1419 units are required in phase 1 - does the planning application for the order site plus the new homes delivered on phase 1a add up to this?
+The AAAP says that 1419 units are required in phase 1, but given that only 408 units have been delivered on the other phase 1 sites [1a (261 units) & site 7 (147 units)] and only 830 units are proposed in the FDS application then there is a shortfall of 181 between the number of units proposed on the Order Land and the number required by the AAAP.
 
 ![](http://35percent.org/img/aaapphasingdensity.png)
 
 The AAAP says that the scheme will deliver 1,450 extra new homes to contribute to the London Plan requirement of 16,300 new homes by 2016/2017. We can show that the scheme is providing less than the 1,450 promised and that Southwark has failed miserably to come anywhere near the 16,300 target.
 
 ![](http://35percent.org/img/aaapnewhomesdensity.png)
+
+Provide evidence showing the vast gap between the number of units required by more recent planning policy and the numbers being delivered. Show how this is the cause of the current housing crisis.
 
 ## Room Sizes
 The AAAP says that:
