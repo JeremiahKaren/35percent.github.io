@@ -51,6 +51,8 @@ Silwood estate - 3 missing social rented housing units.
 
 Manor Place Depot?
 
+Show HCA/GLA stats showing how many thousands of homes they have converted to affordable rent and how much more money this is making them. 
+
 ## Maydew House
 Why can't same be done with Aylesbury?
 
