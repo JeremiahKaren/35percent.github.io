@@ -92,10 +92,18 @@ Inspector Coffey said that leaseholders are left with two bleak options: moving 
 ### BRE Sunlight/Daylight
 Show in detail how the private high-rise blocks on the park front will seriously affect daylight in the affordable units behind.
 
+Policy A6.7.8 of the AAAP says _"At least 75% of apartments in each
+development should have dual aspect."_
+How many of the homes on the FDS are due to be dual aspect?
+
 ### Sustainable Energy
 Show how the sustainable energy requirements of the AAAP are not being adhered to - ie. biomass (see draft blog on phase 1a missing biomass)
 
 [This press release](http://www.24housing.co.uk/news/first-new-homes-completed-on-aylesbury-estate/) says that biomass was to be provided on phase 1a but we know from classeur blog post that biomass was never provided.
+
+
+In its [Energy Strategy](/img/aylesburyenergystrategy2.pdf) submitted pursuant to conditions of the S106 agreement, NHHT says that the zero carbon homes requirement has been removed.
+
 
 ### Cycling Infrastructure
 What does the AAAP say about cycling infrastructure and other transport infrastructure?
