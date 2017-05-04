@@ -14,8 +14,25 @@ Viability assessment for phase 1b/1c - find out when due and make an FOI request
 
 *Chase the ICO for our FOI for the full unredacted DPA.*
 
+## Credit rating downgrade
+In June 2016 NHHT was [downgraded](/img/nhhtmoodys.pdf) by credit agency Moodys. The Moodys downgrade mentioned NHHT's significant development pipeline and listed its largest three projects; Aylesbury estate, Canada Water and a scheme in Hounslow. It said that the capital expenditure to revenues ratio would average 49% over the next five years, but this is based on the figure given of 7% social rented tenure. So the replacement 'social' homes on the FDS must have been included in these figures as affordable rent. To conclude: Moody's capex to revenue ratio must have been based on the provision of affordable rent not social rent. Had it been based on social rent then the capex to revenue ratio would have been much higher. So either Moodys have been given incorrect info on the tenure mix of NHHT's pipeline or the replacement 'social' homes on the Aylesbury will be affordable rent..
+
+![](/img/nhhtmoodys.png)
+
 ## DPA provisions breached
 Show how NHHT has breached various provisions in the DPA including its obligation to purchase 5 street properties that it was to offer on shared equity terms to leaseholders in phase 1b/1c.
+
+## NHHT's commitment waivering
+In September 2016, Southwark [agreed](http://moderngov.southwark.gov.uk/documents/s63817/Report.Aylesbury%20Regeneration%20Delivery.pdf) a number of changes to the development agreement with NHHT. Southwark agreed to forward fund £21m of the ongoing costs of progressing the scheme, that NHHT was originally required to fund under the terms of the Development Partnership Agreement:
+
+    £16.8m demolition costs for the First Development Site
+    £0.8m for the demolition of Plot 18
+    £2m to underwrite the cost of Plot 18’s planning application
+    £2m to underwrite the design fees for phase 2
+
+These costs are in addition to the Council’s other costs that it has already agreed to allocate to the scheme. In total the Council is now forecast to spend £52.5m over the next three years on the Aylesbury redevelopment scheme.
+
+Notting Hill Housing’s commitment to the scheme is also plainly a concern. The [Cabinet report](http://moderngov.southwark.gov.uk/documents/s63817/Report.Aylesbury%20Regeneration%20Delivery.pdf) goes on to say that _‘if the scheme has not proceeded in accordance with the DPA (Development Partnership Agreement)’_ then _‘at that point all design work will pass to the council enabling the council to market the site’_(para. 13) - in plain language: if Notting Hill drops out then Southwark takes over and looks for another developer. 
 
 ## Deliverability
 Show how [Wood Dene estate](http://35percent.org/wood-dene-estate-regeneration/) was demolished in 2007 and how NHHT has [left the site empty](https://www.southwarknews.co.uk/news/notting-hill-admits-wood-dene-estate-peckham-wont-rebuilt-2019-thirteen-years-demolition/) for 10 years without building any new homes. This will be the future of phase 1b/1c. Manor Place depot was granted planning permission in 2015 but construction has still not started. 
@@ -88,6 +105,9 @@ Inspector Coffey said that leaseholders are left with two bleak options: moving 
 
 ## Non conformity with AAAP
 
+### Retail
+AAAP policy COM6 says _"Provide 1,750 square metres of new local retail facilities
+(convenience retail, cafes and restaurants) within the action area core"._
 
 ### BRE Sunlight/Daylight
 Show in detail how the private high-rise blocks on the park front will seriously affect daylight in the affordable units behind.
@@ -99,10 +119,13 @@ How many of the homes on the FDS are due to be dual aspect?
 ### Sustainable Energy
 Show how the sustainable energy requirements of the AAAP are not being adhered to - ie. biomass (see draft blog on phase 1a missing biomass)
 
+AAAP policy BH7 says _"All new homes within the action area core should meet
+Code for Sustainable Homes Level 4 up to 2016 and Level 6 beyond"_.
+
 [This press release](http://www.24housing.co.uk/news/first-new-homes-completed-on-aylesbury-estate/) says that biomass was to be provided on phase 1a but we know from classeur blog post that biomass was never provided.
 
 
-In its [Energy Strategy](/img/aylesburyenergystrategy2.pdf) submitted pursuant to conditions of the S106 agreement, NHHT says that the zero carbon homes requirement has been removed.
+In its [Energy Strategy](/img/aylesburyenergystrategy2.pdf) submitted pursuant to conditions of the S106 agreement, NHHT says that the zero carbon homes requirement has been removed (16/AP/2887).
 
 
 ### Cycling Infrastructure
@@ -135,6 +158,13 @@ The AAAP says that:
 ![](http://35percent.org/img/aaapsizeofhomes.png)
 
 Does the accommodation schedule in the planning application for the FDS conform with these requirements?
+
+## Displacement
+
+![](/img/creationdisplacement2.png)
+How many rehoused on estate footprint as per EqIA intention?
+
+Where did leaseholders go?
 
 
 
