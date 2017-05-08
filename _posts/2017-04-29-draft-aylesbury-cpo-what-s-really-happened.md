@@ -11,17 +11,8 @@ The final paragraph of the press release notes that the _'Consent Order is being
 
 As for the SoS conceeding to Southwark's challenge - this was based on one single ground, arising from the so-called £16,000 policy. It had nothing at all to do with any non-existent 'improved offers'.   
 
-The £16,000 policy stipulated that all a leaseholder's savings, less £16,000, could be required from them, if they were to get a new home on a shared-ownership or shared equity basis.  After the CPO inquiry finished Southwark dropped this policy and asked the Secretary of State to take this into account in his consideration of their CPO application.  He did do so, writing to all parties for their views.  He concluded that it did not make any difference to his decision not to grant the CPO, referring to the CPO Inquiry inspector's report for reasons to justify this.  However, by logic, the Inspector's report could not supply such reasons, because the policy change only occurred after the inquiry closed.  An illogical decision cannot be lawful, so the Inspector gave way.
+The £16,000 policy stipulated that all a leaseholder's savings, less £16,000, could be required from them, if they were to get a new home on a shared-ownership or shared equity basis.  After the CPO inquiry finished Southwark dropped this policy and asked the Secretary of State to take this into account in his consideration of their CPO application.  He did do so, writing to all parties for their views.  He concluded that it did not make any difference to his decision not to grant the CPO, referring to the CPO Inquiry inspector's report for reasons to justify this.  However, by logic, the Inspector's report could not supply such reasons, because the policy change only occurred after the inquiry closed.  An illogical decision cannot be lawful, so the Secretary of State gave way.
 
 This latest episode in the Aylesbury CPO battle provides a neat cameo of Southwark and how it  behaves.  It only dropped the iniquitous £16,000 policy after the CPO inquiry concluded and to retrieve a decision it rightly feared was not going its way.  Shameless expenditure of public funds, expert lawyers and good fortune then rescued them, for the moment.  It is a story that also illustrate why this is such an important battle - Southwark cannot be trusted to act fairly, plain and simple.
 
 The leaseholders and interested parties have now somewhat reluctantly signed the Consent Order to quash the decision.  To do otherwise would have meant proving the SoS was wrong to say he was wrong or face ruinous costs. But the Consent Order also has conditions, one being that there is a full public inquiry and we remain fully confident that, having won once, we can win again.
-
-
-
-
-
-
-
-
-
