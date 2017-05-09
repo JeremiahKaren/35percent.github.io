@@ -30,8 +30,8 @@ This is an important battle, the outcome of which could determine the possible '
 ![](/img/gofundmemay.png)
 
 ## Revised planning application
-In the meantime, Southwark has [announced](http://moderngov.southwark.gov.uk/documents/s68300/Appendix%202%20Draft%20development%20agreement.pdf) an amendment to its development agreement with regeneration partner Notting Hill Housing. The housing association will now be submitting fresh planning applications for the Aylesbury, reducing the number of affordable units on the first phase of development of the estate (plot 18). The previous consent for plot 18 was for a policy compliant mix of 50% affordable housing of which 75% social rent. 
+In the meantime, Southwark has [announced](http://moderngov.southwark.gov.uk/documents/s68300/Appendix%202%20Draft%20development%20agreement.pdf) an amendment to its development agreement with regeneration partner Notting Hill Housing. The housing association will now be submitting fresh planning applications for the Aylesbury, reducing the number of affordable units on its first phase of development of the estate (plot 18). The previous consent for plot 18 was for a policy compliant mix of 50% affordable housing of which 75% social rent. 
 
 ![](/img/nhhd.png)
 
-This fresh application reduces the number of social rented homes in this first phase to just 17 of 122 new homes. We have [shown](http://35percent.org/affordable-housing/) how promises of replacement social housing on the Heygate were chipped away over the years. The Aylesbury regeneration is clearly following the same path.
+This fresh application will see the number of social rented homes in this first phase to just 17 of 122 new homes. We have [shown](http://35percent.org/affordable-housing/) in detail how promises of replacement social housing on the Heygate were chipped away over the years. The Aylesbury regeneration is now clearly following that same trajectory.
