@@ -1,21 +1,21 @@
 ---
 layout: post
 published: true
-title: "Aylesbury CPO- what has really happened"
+title: "Aylesbury CPO- what's really happened"
 subtitle: "Beyond the spin of Southwark Council's press office"
 ---
 To paraphrase Winston Churchill - there are lies, there are damn lies and then there are Southwark Council press releases.
 
-A choice example is the [triumphant annnouncement](http://www.southwark.gov.uk/news/2017/apr/secretary-of-state-overturns-previous-decision-regarding-aylesbury-estate-compulsory-purchase-orderof) of 25 April 2017 with the headline _'Secretary of State overturns previous decision regarding Aylesbury estate compulsory purchase order'_.  It subsequently neglects to give the Secretary of State's reason for this new decision, but says instead that improved offers had been made to the leaseholders, leaving the impression that this was why he changed his mind. The press release was the basis of a [number of media reports](/img/aylesburycpojrpress.pdf), which related the story with varying degrees of inaccuracy.
+A choice example is the [triumphant annnouncement](http://www.southwark.gov.uk/news/2017/apr/secretary-of-state-overturns-previous-decision-regarding-aylesbury-estate-compulsory-purchase-order) of 25 April 2017 with the headline _'Secretary of State overturns previous decision regarding Aylesbury estate compulsory purchase order'_. The press release subsequently neglects to give the Secretary of State's reason for this new decision, but says instead that improved offers had been made to the leaseholders, leaving the impression that this was why he changed his mind. The press release was the basis of a [number of media reports](/img/aylesburycpojrpress.pdf), which related the story with varying degrees of inaccuracy.
 
 ![](/img/acpoprlbs.png)
 *Southwark's triumphant and misleading [press statement](http://www.southwark.gov.uk/news/2017/apr/secretary-of-state-overturns-previous-decision-regarding-aylesbury-estate-compulsory-purchase-order)*
 
-The final paragraph of the press release notes that the _'Consent Order is being agreed with the Secretary of State’s lawyers and will be forwarded to the Interested Parties (Aylesbury leaseholders, their legal representatives and the 35% Campaign) shortly for their agreement'_. We had actually received the draft Consent Order on the 25 April, with a peremptory deadline for reply of the next day. This was extended to the 2 May, but it was obviously more important to Southwark to get out a press release on the 25 April, than to have the courtesy of waiting for a reply, or indeed waiting for the Consent Order to be signed or waiting for the High Court to actually quash the decision.
+The final paragraph of the press release notes that the _'Consent Order is being agreed with the Secretary of State’s lawyers and will be forwarded to the Interested Parties (Aylesbury leaseholders, their legal representatives and the 35% Campaign) shortly for their agreement'_. We had actually received the draft Consent Order on the 25 April, with a peremptory deadline for reply of the next day. This was extended to the 2 May, but it was obviously more important to Southwark to get out a press release immediately, rather than have the courtesy of waiting for a reply, or indeed waiting for the Consent Order to be signed or waiting for the High Court to actually quash the decision.
 
-As for the SoS conceding to Southwark's challenge - this was based on one single ground, arising from the so-called £16,000 policy. It had nothing at all to do with any non-existent 'improved offers'.   
+As for the Secretary of State conceding to Southwark's challenge - this was based on one single ground, arising from the so-called £16,000 savings policy. It had nothing at all to do with any non-existent 'improved offers'.   
 
-The £16,000 policy stipulated that all a leaseholder's savings, less £16,000, would be required from them, if they wanted a new home on a shared-ownership or shared equity basis.  After the CPO inquiry finished, Southwark dropped this policy and asked the Secretary of State to take this into account in his consideration of their CPO application.  He did do so, writing to all parties for their views. In his [final decision letter](http://35percent.org/img/Decision_Letter_Final.pdf), he concluded _"in the light of the facts of this case,"_ that the policy change did not make any difference to his decision not to grant the CPO. (para. 7) 
+The £16,000 savings policy stipulated that all of a leaseholder's savings, less £16,000, would be required from them, if they wanted a new home on a shared-ownership or shared equity basis.  After the CPO inquiry finished, Southwark [dropped this policy](http://moderngov.southwark.gov.uk/documents/s58421/Report%20Financial%20Appraisal%20Process%20for%20Home%20Owners%20Affected%20by%20Regeneration%20Schemes.pdf) and asked the Secretary of State to take this into account in his consideration of their CPO application.  He did do so, writing to all parties for their views. In his [final decision letter](http://35percent.org/img/Decision_Letter_Final.pdf), he concluded _"in the light of the facts of this case,"_ that the policy change did not make any difference to his decision not to grant the CPO. (para. 7) 
 
 Southwark hired a [big-gun QC](https://www.ftbchambers.co.uk/james-pereira-qc-compulsory-purchase-and-compensation) who argued on case law that the Secretary of State failed to provide adequate reasoning in relation to this aspect of his decision.  The Secretary of State conceded the appeal on this ground alone and he made this clear in the consent order. 
 
@@ -29,6 +29,9 @@ This is an important battle, the outcome of which could determine the possible '
 
 ![](/img/gofundmemay.png)
 
+## Revised planning application
+In the meantime, Southwark has [announced](http://moderngov.southwark.gov.uk/documents/s68300/Appendix%202%20Draft%20development%20agreement.pdf) an amendment to its development agreement with regeneration partner Notting Hill Housing. The housing association will now be submitting fresh planning applications for the Aylesbury, reducing the number of affordable units on the first phase of development of the estate (plot 18). The previous consent for plot 18 was for a policy compliant mix of 50% affordable housing of which 75% social rent. 
 
+![](/img/nhhd.png)
 
-
+This fresh application reduces the number of social rented homes in this first phase to just 17 of 122 new homes. We have [shown](http://35percent.org/affordable-housing/) how promises of replacement social housing on the Heygate were chipped away over the years. The Aylesbury regeneration is clearly following the same path.
