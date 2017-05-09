@@ -34,10 +34,16 @@ These costs are in addition to the Council’s other costs that it has already a
 
 Notting Hill Housing’s commitment to the scheme is also plainly a concern. The [Cabinet report](http://moderngov.southwark.gov.uk/documents/s63817/Report.Aylesbury%20Regeneration%20Delivery.pdf) goes on to say that _‘if the scheme has not proceeded in accordance with the DPA (Development Partnership Agreement)’_ then _‘at that point all design work will pass to the council enabling the council to market the site’_(para. 13) - in plain language: if Notting Hill drops out then Southwark takes over and looks for another developer. 
 
+NHHT is also now reducing considerably the number of affordable units in plot 18, its first phase of development to be completed on the estate. 
+
 ## Deliverability
 Show how [Wood Dene estate](http://35percent.org/wood-dene-estate-regeneration/) was demolished in 2007 and how NHHT has [left the site empty](https://www.southwarknews.co.uk/news/notting-hill-admits-wood-dene-estate-peckham-wont-rebuilt-2019-thirteen-years-demolition/) for 10 years without building any new homes. This will be the future of phase 1b/1c. Manor Place depot was granted planning permission in 2015 but construction has still not started. 
 
 ![](http://35percent.org/img/nhhtwooddeneadmission.png)
+
+The DPA says that the FDS will be completed by 2021? but NHHT have now put that back to 2024 http://moderngov.southwark.gov.uk/documents/s68300/Appendix%202%20Draft%20development%20agreement.pdf
+
+Circular ODPM/2005 says that there needs to be evidence that the scheme underlying the Order will be completed in a 'reasonable' time period; seven years for a development of just 840 homes is not a reasonable time period. 
 
 ## Tenure switch
 Submit copy of [Southwark's evidence](http://crappistmartin.github.io/images/CPO_ExplanatoryNote12May2015.pdf) from previous Inquiry where they claim to have robust S106 monitoring procedures.
