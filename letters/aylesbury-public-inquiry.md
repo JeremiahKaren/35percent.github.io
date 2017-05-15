@@ -4,15 +4,9 @@
 *Aerial view of Phase 1b/1c Order land*
 
 ## Viability
-Show how the figures were fiddled in the AAAP to make it look viable to get it through the examination in public.
+Show how the figures were fiddled in the AAAP to make it look viable to get it through the examination in public (Toby).
 
 ![](http://35percent.org/img/Recommended_Changes.png)
-
-Show how NHHT's credit rating has been downgraded by credit agencies since the last public inquiry.
-
-Viability assessment for phase 1b/1c - find out when due and make an FOI request.
-
-*Chase the ICO for our FOI for the full unredacted DPA.*
 
 ## Credit rating downgrade
 In June 2016 NHHT was [downgraded](/img/nhhtmoodys.pdf) by credit agency Moodys. The Moodys downgrade mentioned NHHT's significant development pipeline and listed its largest three projects; Aylesbury estate, Canada Water and a scheme in Hounslow. It said that the capital expenditure to revenues ratio would average 49% over the next five years, but this is based on the figure given of 7% social rented tenure. So the replacement 'social' homes on the FDS must have been included in these figures as affordable rent. To conclude: Moody's capex to revenue ratio must have been based on the provision of affordable rent not social rent. Had it been based on social rent then the capex to revenue ratio would have been much higher. So either Moodys have been given incorrect info on the tenure mix of NHHT's pipeline or the replacement 'social' homes on the Aylesbury will be affordable rent..
@@ -23,7 +17,7 @@ In June 2016 NHHT was [downgraded](/img/nhhtmoodys.pdf) by credit agency Moodys.
 Show how NHHT has breached various provisions in the DPA including its obligation to purchase 5 street properties that it was to offer on shared equity terms to leaseholders in phase 1b/1c.
 
 ## NHHT's commitment waivering
-In September 2016, Southwark [agreed](http://moderngov.southwark.gov.uk/documents/s63817/Report.Aylesbury%20Regeneration%20Delivery.pdf) a number of changes to the development agreement with NHHT. Southwark agreed to forward fund £21m of the ongoing costs of progressing the scheme, that NHHT was originally required to fund under the terms of the Development Partnership Agreement:
+In September 2016, Southwark [agreed](http://moderngov.southwark.gov.uk/documents/s63817/Report.Aylesbury%20Regeneration%20Delivery.pdf) a number of changes to the development agreement with NHHT. Southwark agreed to forward fund £21m of the ongoing costs of progressing the scheme, that NHHT was originally required to fund under the terms of the Development Partnership Agreement. These comprised:
 
     £16.8m demolition costs for the First Development Site
     £0.8m for the demolition of Plot 18
@@ -34,7 +28,7 @@ These costs are in addition to the Council’s other costs that it has already a
 
 Notting Hill Housing’s commitment to the scheme is also plainly a concern. The [Cabinet report](http://moderngov.southwark.gov.uk/documents/s63817/Report.Aylesbury%20Regeneration%20Delivery.pdf) goes on to say that _‘if the scheme has not proceeded in accordance with the DPA (Development Partnership Agreement)’_ then _‘at that point all design work will pass to the council enabling the council to market the site’_(para. 13) - in plain language: if Notting Hill drops out then Southwark takes over and looks for another developer. 
 
-NHHT is also now reducing considerably the number of affordable units in plot 18, its first phase of development to be completed on the estate. 
+NHHT is also now [reducing](http://www.aylesburynow.london/news/posts/extra-affordable-homes-for-aylesbury-regeneration) the number of affordable units in plot 18, its first phase of development to be completed on the estate. It is moving these to be delivered instead on the FDS. Note that the [9 May Cabinet report](http://moderngov.southwark.gov.uk/documents/s68298/Report%20Aylesbury%20Regeneration%20Programme%20Delivery.pdf) announced a change of phasing: the FDS has been swapped with plot 18 - i.e. the FDS will instead be the second phase of development completed by NHHT after plot 18. Fresh planning applications for both sites are expected shortly.
 
 ## Deliverability
 Show how [Wood Dene estate](http://35percent.org/wood-dene-estate-regeneration/) was demolished in 2007 and how NHHT has [left the site empty](https://www.southwarknews.co.uk/news/notting-hill-admits-wood-dene-estate-peckham-wont-rebuilt-2019-thirteen-years-demolition/) for 10 years without building any new homes. This will be the future of phase 1b/1c. Manor Place depot was granted planning permission in 2015 but construction has still not started. 
@@ -74,7 +68,7 @@ Silwood estate - 3 missing social rented housing units.
 
 Manor Place Depot?
 
-Show HCA/GLA stats showing how many thousands of homes they have converted to affordable rent and how much more money this is making them. 
+Show HCA/GLA stats showing how many thousands of homes they have converted to affordable rent. 
 
 ## Maydew House
 Why can't same be done with Aylesbury?
@@ -97,6 +91,11 @@ Southwark has in any case already [committed £12.5m to Major Works](http://35pe
 The only Equalities Assessment conducted on the scheme to date (the [2009 EqIA which accommpanied the AAAP](http://35percent.org/img/EqualitiesImpactAssessment.pdf)), relied upon the mitigation measures in place at the time for leaseholders- i.e. the rehousing options enshrined in the Council's [2006 rehousing policy](https://www.google.co.uk/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&ved=0ahUKEwiK2rTIssTTAhULCcAKHZeFDgUQFggrMAA&url=http%3A%2F%2Fwww.southwark.gov.uk%2Fdownload%2Fdownloads%2Fid%2F1850%2Fexecutive_report&usg=AFQjCNHDwIaNCnRYD2HSNaCATPoHFjbtbA) which included the like-for-like 'propery swap' for leaseholders. The 2006 policy and the Council's [Handbook for leaseholders](https://www.whatdotheyknow.com/request/331856/response/818864/attach/3/64145%20RedR%20Homeowner.pdf) clearly state the 'property swap' as one of the available rehousing options:
 
 ![](http://35percent.org/img/aylesburyleaseholdershandbookoptions.png)
+*Extract from the [Leaseholders Handbook](https://www.whatdotheyknow.com/request/331856/response/818864/attach/3/64145%20RedR%20Homeowner.pdf)*
+
+The handbook gives a detailed description of the property swap policy available to leaseholders:
+
+![](/img/aylesburyhandbookswap.png)
 *Extract from the [Leaseholders Handbook](https://www.whatdotheyknow.com/request/331856/response/818864/attach/3/64145%20RedR%20Homeowner.pdf)*
 
 The EqIA specifically references the 2006 rehousing policy for leaseholders which it says offers leaseholders the _'widest possible choice of rehousing opportunities'_:
@@ -137,8 +136,16 @@ In its [Energy Strategy](/img/aylesburyenergystrategy2.pdf) submitted pursuant t
 ### Cycling Infrastructure
 What does the AAAP say about cycling infrastructure and other transport infrastructure?
 
-### Open Space
-Net loss of 1.8 hectares of open space - is this in conformity with the AAAP?
+### Open Space/Play Space
+Policy 4.5.1 of the AAAP envisages no net loss of open space, but the approved masterplan application (ref:14/AP/3844) acknowledges that there will be a net loss of 1.8 hectares of open space:
+
+![](http://crappistmartin.github.io/images/aylesburygreenspace.png)
+*Extract from the planning committee report for the masterplan application.*
+
+
+Policy PL6 of the AAAP says _"All development proposals must provide 10sqm of children’s play space / youth space per child bed space. Doorstep playable space should be provided within each of the housing blocks, whilst larger local playable spaces should be provided within selected housing blocks and within the green fingers and existing local parks, in accordance with Figure 12. New youth space should be provided within the larger areas of public open space."_
+
+What does the new FDS application say about open space and play space?
 
 ### Density
 
@@ -174,6 +181,11 @@ Where did leaseholders go?
 
 
 
-## Footnote
+## Compensation issues
+The Council acknowledges that the value of homes on the Aylesbury are lower than any other properties in the borough and that their shared ownership options are a recognition of this.
 
-*Find references to where Council says openly that compensation paid to leaseholders is insufficient to purchase on open market*
+The [minutes of 10/03/2014 Overview and Scrutiny Committee](http://moderngov.southwark.gov.uk/mgAi.aspx?ID=32015) confirm that the Council's principal surveyor said _"The council’s ownership schemes were in recognition of the fact that the price offered might not enable a leaseholder to buy another property."_
+
+In his [report](http://moderngov.southwark.gov.uk/documents/s44932/Officer%20Report%20-%20Comparison%20of%20Discretionary%20Assistance%20Given%20to%20Resident%20Leaseholders.pdf) to that Committee, the Principal Surveyor said _"Some  Councils  offer  equivalent  exchange  whereby  a  leaseholder  swops his/her property for another of the same value.  This has been considered but the properties being regenerated in this Borough tend to be at the lowest level of the value scale. There are unlikely to be similar equivalents that aren’t part of regeneration schemes so such an offer would be hollow. "_  
+
+
