@@ -1,4 +1,6 @@
-# Aylesbury CPO Public Inquiry Arguments
+---
+layout: page
+---
 
 ![](http://35percent.org/img/phase1baerial.png)
 *Aerial view of Phase 1b/1c Order land*
@@ -11,7 +13,7 @@ Show how the figures were fiddled in the AAAP to make it look viable to get it t
 ## Credit rating downgrade
 In June 2016 NHHT was [downgraded](/img/nhhtmoodys.pdf) by credit agency Moodys. The Moodys downgrade mentioned NHHT's significant development pipeline and listed its largest three projects; Aylesbury estate, Canada Water and a scheme in Hounslow. It said that the capital expenditure to revenues ratio would average 49% over the next five years, but this is based on the figure given of 7% social rented tenure. So the replacement 'social' homes on the FDS must have been included in these figures as affordable rent. To conclude: Moody's capex to revenue ratio must have been based on the provision of affordable rent not social rent. Had it been based on social rent then the capex to revenue ratio would have been much higher. So either Moodys have been given incorrect info on the tenure mix of NHHT's pipeline or the replacement 'social' homes on the Aylesbury will be affordable rent..
 
-![](/img/nhhtmoodys.png)
+![](http://35percent.org/img/nhhtmoodys.png)
 
 ## DPA provisions breached
 Show how NHHT has breached various provisions in the DPA including its obligation to purchase 5 street properties that it was to offer on shared equity terms to leaseholders in phase 1b/1c.
@@ -92,7 +94,7 @@ The only Equalities Assessment conducted on the scheme to date (the [2009 EqIA w
 
 The handbook gives a detailed description of the property swap policy available to leaseholders:
 
-![](/img/aylesburyhandbookswap.png)
+![](http://35percent.org/img/aylesburyhandbookswap.png)
 *Extract from the [Leaseholders Handbook](https://www.whatdotheyknow.com/request/331856/response/818864/attach/3/64145%20RedR%20Homeowner.pdf)*
 
 The EqIA specifically references the 2006 rehousing policy for leaseholders which it says offers leaseholders the _'widest possible choice of rehousing opportunities'_:
@@ -126,7 +128,7 @@ Code for Sustainable Homes Level 4 up to 2016 and Level 6 beyond"_.
 [This press release](http://www.24housing.co.uk/news/first-new-homes-completed-on-aylesbury-estate/) says that biomass was to be provided on phase 1a but we know from classeur blog post that biomass was never provided.
 
 
-In its [Energy Strategy](/img/aylesburyenergystrategy2.pdf) submitted pursuant to conditions of the S106 agreement, NHHT says that the zero carbon homes requirement has been removed (16/AP/2887).
+In its [Energy Strategy](http://35percent.org/img/aylesburyenergystrategy2.pdf) submitted pursuant to conditions of the S106 agreement, NHHT says that the zero carbon homes requirement has been removed (16/AP/2887).
 
 
 ### Cycling Infrastructure
@@ -166,16 +168,12 @@ The AAAP says that:
 
 ![](http://35percent.org/img/aaapsizeofhomes.png)
 
-Does the accommodation schedule in the planning application for the FDS conform with these requirements?
+Does the accommodation schedule in the new planning application for the FDS conform with these requirements?
 
 ## Displacement
+How many rehoused on estate footprint as per EqIA and AAAP intention?
 
-![](/img/creationdisplacement2.png)
-How many rehoused on estate footprint as per EqIA intention?
-
-Where did leaseholders go?
-
-
+Why have only 10 of the estate's 200 leaseholders decanted to date taken up the shared equity offer? Where did the rest of the leaseholders go?
 
 ## Compensation issues
 The Council acknowledges that the value of homes on the Aylesbury are lower than any other properties in the borough and that their shared ownership options are a recognition of this.
