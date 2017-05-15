@@ -3,10 +3,10 @@ layout: page
 ---
 
 ![](http://35percent.org/img/phase1baerial.png)
-*Aerial view of Phase 1b/1c Order land*
+*__2017 Aylesbury estate CPO Public Inquiry__*
 
 ## Viability
-Show how the figures were fiddled in the AAAP to make it look viable to get it through the examination in public (Toby).
+Show how the figures were fiddled in the AAAP to make it look viable (leaseholder compensation slashed), in order to get the Action Plan approved at the examination in public (Toby).
 
 ![](http://35percent.org/img/Recommended_Changes.png)
 
@@ -16,10 +16,9 @@ In June 2016 NHHT was [downgraded](/img/nhhtmoodys.pdf) by credit agency Moodys.
 ![](http://35percent.org/img/nhhtmoodys.png)
 
 ## DPA provisions breached
-Show how NHHT has breached various provisions in the DPA including its obligation to purchase 5 street properties that it was to offer on shared equity terms to leaseholders in phase 1b/1c.
+Show how NHHT has breached various provisions in the DPA including its obligation to purchase 5 street properties that it was to offer on shared equity terms to leaseholders in phase 1b/1c. The Council claims in its response to our Cabinet question that NHHT has indeed provided 2 such properties to leaseholders on the FDS. We should seek more details of this.
 
-## NHHT's commitment waivering
-In September 2016, Southwark [agreed](http://moderngov.southwark.gov.uk/documents/s63817/Report.Aylesbury%20Regeneration%20Delivery.pdf) a number of changes to the development agreement with NHHT. Southwark agreed to forward fund £21m of the ongoing costs of progressing the scheme, that NHHT was originally required to fund under the terms of the Development Partnership Agreement. These comprised:
+The following changes to the funding programme show how NHHT is rolling back on its funding commitments to the scheme. In September 2016, Southwark [agreed](http://moderngov.southwark.gov.uk/documents/s63817/Report.Aylesbury%20Regeneration%20Delivery.pdf) a number of changes to the development agreement with NHHT. Southwark agreed to forward fund £21m of the ongoing costs of progressing the scheme, that NHHT was originally required to fund under the terms of the Development Partnership Agreement. These comprised:
 
     £16.8m demolition costs for the First Development Site
     £0.8m for the demolition of Plot 18
@@ -37,9 +36,9 @@ Show how [Wood Dene estate](http://35percent.org/wood-dene-estate-regeneration/)
 
 ![](http://35percent.org/img/nhhtwooddeneadmission.png)
 
-The DPA says that the FDS will be completed by 2021? but NHHT have now put that back to 2024 http://moderngov.southwark.gov.uk/documents/s68300/Appendix%202%20Draft%20development%20agreement.pdf
+The DPA says that the FDS will be completed by 2021? but NHHT have now put that back to 2024. See [http://moderngov.southwark.gov.uk/documents/s68300/Appendix%202%20Draft%20development%20agreement.pdf](http://moderngov.          southwark.gov.uk/documents/s68300/Appendix%202%20Draft%20development%20agreement.pdf)
 
-Circular ODPM/2005 says that there needs to be evidence that the scheme underlying the Order will be completed in a 'reasonable' time period; seven years for a development of just 840 homes is not a reasonable time period. 
+Circular ODPM/2005 says that there needs to be evidence that the scheme underlying the Order will be completed in a 'reasonable' time period; seven years for a development of just 840 homes is clearly not a reasonable time period. 
 
 ## Tenure switch
 Submit copy of [Southwark's evidence](http://crappistmartin.github.io/images/CPO_ExplanatoryNote12May2015.pdf) from previous Inquiry where they claim to have robust S106 monitoring procedures.
@@ -47,7 +46,7 @@ Submit copy of [Southwark's evidence](http://crappistmartin.github.io/images/CPO
 ![](http://35percent.org/img/CPO_ExplanatoryNote.png)
 *Extract from Southwark's [evidence to first Inquiry](http://crappistmartin.github.io/images/CPO_ExplanatoryNote12May2015.pdf)*
 
-Submit copy of [Ombudsman decision](http://35percent.org/2016-12-12-ombudsman-slams-southwark-for-no-s106-monitoring/) and Sunday Times [article](http://35percent.org/img/ST23April2017.pdf) showing Southwark's failure to monitor S106 AH tenure delivery because it doesn't actually have any monitoring procedures and therefore misled the previous Inquiry.
+Submit copy of [Ombudsman decision](http://35percent.org/2016-12-12-ombudsman-slams-southwark-for-no-s106-monitoring/) and Sunday Times [article](http://35percent.org/img/ST23April2017.pdf) showing Southwark's failure to monitor S106 AH tenure delivery, as a result of it not having any monitoring procedures. Show how it therefore misled the previous Inquiry with its evidence claiming to have robust monitoring procedures.
 
 Highlight NHHT's other developments where social rent intended but affordable rent delivered - i.e. the one in Lambeth delivered on the [Claremont East estate](http://35percent.org/2017-01-16-draft-more-on-notting-hill/#claremont-east-estate-lambeth).
 Show how the breach at Bermondsey Spa hasn't been resolved, i.e. the Council hasn't taken effective action to recover the SR homes - i.e. there still remains a net loss across the Bermondsey Spa and Manor Place Depot sites.  
@@ -59,18 +58,15 @@ Re-run all of our previous criticisms of Kate Davies and her predeliction for af
 ![](http://35percent.org/img/csjquoterents.png)
 
 ## Bashing NHHT 
-[Southwark News article](https://www.southwarknews.co.uk/news/housing-association-slammed-nightmare-scenario-eviction-threat-bermondseys-st-james-estate/) on rent hikes and evictions
-MP Neil Coyle's criticisms and Cllr Pollak's quote saying NHHT is acting like a 'predatory landlord'. 
+Submit the [Southwark News article](https://www.southwarknews.co.uk/news/housing-association-slammed-nightmare-scenario-eviction-threat-bermondseys-st-james-estate/) on NHHT's rent hikes and evictions at its St. James estate in Bermondsey. Include MP Neil Coyle's criticisms and Cllr Pollak's quote saying NHHT is acting like a 'predatory landlord'. 
 
 ![](http://35percent.org/img/nhhtevictions.png)
 
-Wood Dene estate and Decathlon sites appear to have stalled. Point out affordable scandal at the Decathlon site (blog post to be drafted still) and the low level of social rented housing at the Wood Dene site. Make the point that NHHT successfully argued (using viability assessments) that it wasn't viable to provide more than the pitiful 15% (avg) social rented housing across both sites. So how can it be possible that the FDS site can viably provide over 40% social rented?
+Show how Wood Dene estate and Decathlon sites appear to have stalled. Point out affordable scandal at the Decathlon site (blog post to be drafted still) and the low level of social rented housing at the Wood Dene site. Make the point that NHHT successfully argued (using viability assessments) that it wasn't viable to provide more than the pitiful 15% (avg) social rented housing across both sites. So how can it be possible that the FDS site can viably provide over 40% social rented?
 
-Silwood estate - 3 missing social rented housing units.
+Include evidence on the Silwood estate and the 3 missing social rented housing units that NHHT should have delivered according to the planning consent and S106 agreement.
 
-Manor Place Depot?
-
-Show HCA/GLA stats showing how many thousands of homes they have converted to affordable rent. 
+Show HCA/GLA stats showing how many thousands of homes NHHT has converted to affordable rent. 
 
 ## Refurb/Alternative to scheme underlying the CPO 
 
@@ -103,18 +99,19 @@ The EqIA specifically references the 2006 rehousing policy for leaseholders whic
 
 ![](http://35percent.org/img/widestpossiblechoice.png) 
 
-Given that the 'property swap' option was subsequently withdrawn in 2010, it can be argued that the scheme doesn't comply with the PSED because one of the mitigation measures set out in the EqIA which underlies the AAAP have been withdrawn. Indeed it was the only mitigation measure that would have enabled leaseholders to remain homeowners in the borough. 
+Given that the 'property swap' option was subsequently withdrawn in 2010, it can be argued that the scheme doesn't comply with the PSED because one of the mitigation measures set out in the EqIA which underlies the AAAP have been withdrawn. Indeed it was the only mitigation measure that would have enabled leaseholders to remain 100% homeowners in the borough - i.e. not impoverished by the shared ownership options. 
 
 Inspector Coffey said that leaseholders are left with two bleak options: moving out of the area or remaining but being impoverished. Like-for-like swap was the only option that would have enabled leaseholders to remain in the area without being impoverished. *We will need to show that the shared equity deal impoverishes leaseholders despite change in the £16k policy*
 
 ## Non conformity with AAAP
 
 ### Retail
-AAAP policy COM6 says _"Provide 1,750 square metres of new local retail facilities
-(convenience retail, cafes and restaurants) within the action area core"._
+AAAP policy COM6 says _"Provide 1,750 square metres of new local retail facilities (convenience retail, cafes and restaurants) within the action area core"._
+
+How much retail is being provided in the new FDS planning application?
 
 ### BRE Sunlight/Daylight
-Show in detail how the private high-rise blocks on the park front will seriously affect daylight in the affordable units behind.
+See what the new FDS application does about the BRE sunlight/daylight issues. Given the density it will be difficult to resolve.
 
 Policy A6.7.8 of the AAAP says _"At least 75% of apartments in each development should have dual aspect."_
 How many of the homes in the new FDS application are due to be dual aspect?
@@ -122,17 +119,18 @@ How many of the homes in the new FDS application are due to be dual aspect?
 ### Sustainable Energy
 Show how the sustainable energy requirements of the AAAP are not being adhered to - ie. biomass (see draft blog on phase 1a missing biomass)
 
-AAAP policy BH7 says _"All new homes within the action area core should meet
-Code for Sustainable Homes Level 4 up to 2016 and Level 6 beyond"_.
-
 [This press release](http://www.24housing.co.uk/news/first-new-homes-completed-on-aylesbury-estate/) says that biomass was to be provided on phase 1a but we know from classeur blog post that biomass was never provided.
 
+AAAP policy BH7 says _"All new homes within the action area core should meet Code for Sustainable Homes Level 4 up to 2016 and Level 6 beyond"_.
 
-In its [Energy Strategy](http://35percent.org/img/aylesburyenergystrategy2.pdf) submitted pursuant to conditions of the S106 agreement, NHHT says that the zero carbon homes requirement has been removed (16/AP/2887).
+But in its [Energy Strategy](http://35percent.org/img/aylesburyenergystrategy2.pdf) submitted pursuant to conditions of the S106 agreement, NHHT says that the zero carbon homes requirement has been removed (16/AP/2887).
 
+What does the new FDS application say about renewable energy provision?
 
 ### Cycling Infrastructure
-What does the AAAP say about cycling infrastructure and other transport infrastructure?
+The AAAP says that there will be cycle routes through the new estate. The New Southwark Plan (the Council's strategic planning framework) says that there will be a 'Southwark Spine', dedicated cycle route running North/South through the borough and passing through the middle of the new Aylesbury estate. But this was not included in the masterplan application.
+
+Also to my knowledge, the previous FDS application didn't include any cycle routes - we need to see what the new application says about cycle routes.
 
 ### Open Space/Play Space
 Policy 4.5.1 of the AAAP envisages no net loss of open space, but the approved masterplan application (ref:14/AP/3844) acknowledges that there will be a net loss of 1.8 hectares of open space:
@@ -153,7 +151,7 @@ The AAAP says _"The HCA has also recently admitted Aylesbury phases 2 and 3 to r
 
 We know that the HCA PFI finance was scrapped shortly after the AAAP was adopted. 
 
-The AAAP says that 1419 units are required in phase 1, but given that only 408 units have been delivered on the other phase 1 sites [1a (261 units) & site 7 (147 units)] and only 830 units are proposed in the FDS application then there is a shortfall of 181 between the number of units proposed on the Order Land and the number required by the AAAP.
+The AAAP says that 1419 units are required in phase 1, but given that only 408 units have been delivered on the other phase 1 sites [1a (261 units) & site 7 (147 units)] and only 840 units are proposed in the FDS application then there is a shortfall of 171 between the number of units proposed on the Order Land and the number required by the AAAP.
 
 ![](http://35percent.org/img/aaapphasingdensity.png)
 
@@ -163,14 +161,14 @@ The AAAP says that the scheme will deliver 1,450 extra new homes to contribute t
 
 Provide evidence showing the vast gap between the number of units required by more recent planning policy and the numbers being delivered. Show how this is the cause of the current housing crisis.
 
-## Room Sizes
+### Room Sizes
 The AAAP says that:
 
 ![](http://35percent.org/img/aaapsizeofhomes.png)
 
 Does the accommodation schedule in the new planning application for the FDS conform with these requirements?
 
-## Displacement
+### Displacement
 How many rehoused on estate footprint as per EqIA and AAAP intention?
 
 Why have only 10 of the estate's 200 leaseholders decanted to date taken up the shared equity offer? Where did the rest of the leaseholders go?
