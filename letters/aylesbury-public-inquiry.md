@@ -127,10 +127,20 @@ But in its [Energy Strategy](http://35percent.org/img/aylesburyenergystrategy2.p
 
 What does the new FDS application say about renewable energy provision?
 
-### Cycling Infrastructure
-The AAAP says that there will be cycle routes through the new estate. The New Southwark Plan (the Council's strategic planning framework) says that there will be a 'Southwark Spine', dedicated cycle route running North/South through the borough and passing through the middle of the new Aylesbury estate. But this was not included in the masterplan application.
+### Community Spine & Green Fingers
+The AAAP says that there will be a 'community spine' running east to west through the site. This will provide a cycle and pedestrian route throughout the entire site, connecting the new community facilities to the Walworth road.
 
-Also to my knowledge, the previous FDS application didn't include any cycle routes - we need to see what the new application says about cycle routes.
+![](/img/communityspine.png) 
+*Extract from AAAP*
+
+The AAAP shows the community spine (3) and one of the green fingers dissecting the FDS (10), but these were not included in the existing FDS planning consent. Does the new application include these?
+
+![](/img/fdsgreenfingers.png)
+*Extract from AAAP*
+
+The New Southwark Plan (the Council's strategic planning framework) says that there will be a 'Southwark Spine', dedicated cycle route running North/South through the borough and passing through the middle of the new Aylesbury estate. But this was not included in the masterplan application.
+
+Also to my knowledge, the previous FDS application didn't include any segregated cycle routes - we need to see what the new application says about cycle routes.
 
 ### Open Space/Play Space
 Policy 4.5.1 of the AAAP envisages no net loss of open space, but the approved masterplan application (ref:14/AP/3844) acknowledges that there will be a net loss of 1.8 hectares of open space:
@@ -142,6 +152,9 @@ Policy 4.5.1 of the AAAP envisages no net loss of open space, but the approved m
 Policy PL6 of the AAAP says _"All development proposals must provide 10sqm of children’s play space / youth space per child bed space. Doorstep playable space should be provided within each of the housing blocks, whilst larger local playable spaces should be provided within selected housing blocks and within the green fingers and existing local parks, in accordance with Figure 12. New youth space should be provided within the larger areas of public open space."_
 
 What does the new FDS application say about open space and play space?
+
+### Community Facilities
+Search AAAP for community facilities
 
 ### Density
 
