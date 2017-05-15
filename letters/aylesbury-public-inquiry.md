@@ -70,16 +70,13 @@ Manor Place Depot?
 
 Show HCA/GLA stats showing how many thousands of homes they have converted to affordable rent. 
 
-## Maydew House
-Why can't same be done with Aylesbury?
-
-![](http://35percent.org/img/maydew_hhrca.jpg)
+## Refurb/Alternative to scheme underlying the CPO 
 
 ![](http://35percent.org/img/wendcomp.jpg)
 
 [This report](http://moderngov.southwark.gov.uk/documents/s56449/Report%20Major%20works%20status%20report%20incorporating%20Warm%20Dry%20and%20Safe.pdf) describes different funding for DHS works, including the 'GLA Backlog fund' and the [accompanying appendices](http://moderngov.southwark.gov.uk/documents/s56450/Appendices%201%20-%204%20Major%20works%20status%20report%20incorporating%20Warm%20Dry%20and%20Safe.pdf) show that the Four Squares estate (a High Investment Needs estate) was brought up to DHS for just £12m. Work out how much this is per unit and also show similar comparables.
 
-On the question of sources of funding, one could also include the Section 106 off-site pooled funding and that set aside for new Council homes.
+On the question of sources of funding a refurb scheme, one could also include the Section 106 off-site pooled funding and that set aside for new Council homes.
 
 This Cabinet item from 2011 gives details of 'High Investment Needs estates' and gives cost estimates of DHS works: http://moderngov.southwark.gov.uk/ieIssueDetails.aspx?IId=11030&Opt=3
 
@@ -88,7 +85,7 @@ Appendix 6 shows the Aylesbury as not being the most costly of the estates. We c
 Southwark has in any case already [committed £12.5m to Major Works](http://35percent.org/img/Aylesbury-Phase-2-newsletter-February-2017-JH.pdf) bringing homes on the estate up to Decent Homes Standard.
 
 ## PSED
-The only Equalities Assessment conducted on the scheme to date (the [2009 EqIA which accommpanied the AAAP](http://35percent.org/img/EqualitiesImpactAssessment.pdf)), relied upon the mitigation measures in place at the time for leaseholders- i.e. the rehousing options enshrined in the Council's [2006 rehousing policy](https://www.google.co.uk/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&ved=0ahUKEwiK2rTIssTTAhULCcAKHZeFDgUQFggrMAA&url=http%3A%2F%2Fwww.southwark.gov.uk%2Fdownload%2Fdownloads%2Fid%2F1850%2Fexecutive_report&usg=AFQjCNHDwIaNCnRYD2HSNaCATPoHFjbtbA) which included the like-for-like 'propery swap' for leaseholders. The 2006 policy and the Council's [Handbook for leaseholders](https://www.whatdotheyknow.com/request/331856/response/818864/attach/3/64145%20RedR%20Homeowner.pdf) clearly state the 'property swap' as one of the available rehousing options:
+The only Equalities Assessment conducted on the scheme to date (the [2009 EqIA which accommpanied the AAAP](http://35percent.org/img/EqualitiesImpactAssessment.pdf)), relied upon the mitigation measures in place at the time for leaseholders- i.e. the rehousing options enshrined in the Council's [2006 rehousing policy](http://www.southwark.gov.uk/download/downloads/id/1850/executive_report) which included the like-for-like 'propery swap' for leaseholders. The 2006 policy and the Council's [Handbook for leaseholders](https://www.whatdotheyknow.com/request/331856/response/818864/attach/3/64145%20RedR%20Homeowner.pdf) clearly state the 'property swap' as one of the available rehousing options:
 
 ![](http://35percent.org/img/aylesburyleaseholdershandbookoptions.png)
 *Extract from the [Leaseholders Handbook](https://www.whatdotheyknow.com/request/331856/response/818864/attach/3/64145%20RedR%20Homeowner.pdf)*
@@ -117,9 +114,8 @@ AAAP policy COM6 says _"Provide 1,750 square metres of new local retail faciliti
 ### BRE Sunlight/Daylight
 Show in detail how the private high-rise blocks on the park front will seriously affect daylight in the affordable units behind.
 
-Policy A6.7.8 of the AAAP says _"At least 75% of apartments in each
-development should have dual aspect."_
-How many of the homes on the FDS are due to be dual aspect?
+Policy A6.7.8 of the AAAP says _"At least 75% of apartments in each development should have dual aspect."_
+How many of the homes in the new FDS application are due to be dual aspect?
 
 ### Sustainable Energy
 Show how the sustainable energy requirements of the AAAP are not being adhered to - ie. biomass (see draft blog on phase 1a missing biomass)
