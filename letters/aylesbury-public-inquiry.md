@@ -36,7 +36,7 @@ Show how [Wood Dene estate](http://35percent.org/wood-dene-estate-regeneration/)
 
 ![](http://35percent.org/img/nhhtwooddeneadmission.png)
 
-The DPA says that the FDS will be completed by 2021? but NHHT have now put that back to 2024. See [http://moderngov.southwark.gov.uk/documents/s68300/Appendix%202%20Draft%20development%20agreement.pdf](http://moderngov.          southwark.gov.uk/documents/s68300/Appendix%202%20Draft%20development%20agreement.pdf)
+The DPA says that the FDS will be completed by 2021? but NHHT have now put that back to 2024. See [here](http://moderngov.southwark.gov.uk/documents/s68300/Appendix%202%20Draft%20development%20agreement.pdf).
 
 Circular ODPM/2005 says that there needs to be evidence that the scheme underlying the Order will be completed in a 'reasonable' time period; seven years for a development of just 840 homes is clearly not a reasonable time period. 
 
@@ -74,7 +74,9 @@ Show HCA/GLA stats showing how many thousands of homes NHHT has converted to aff
 
 [This report](http://moderngov.southwark.gov.uk/documents/s56449/Report%20Major%20works%20status%20report%20incorporating%20Warm%20Dry%20and%20Safe.pdf) describes different funding for DHS works, including the 'GLA Backlog fund' and the [accompanying appendices](http://moderngov.southwark.gov.uk/documents/s56450/Appendices%201%20-%204%20Major%20works%20status%20report%20incorporating%20Warm%20Dry%20and%20Safe.pdf) show that the Four Squares estate (a High Investment Needs estate) was brought up to DHS for just £12m. Work out how much this is per unit and also show similar comparables.
 
-On the question of sources of funding a refurb scheme, one could also include the Section 106 off-site pooled funding and that set aside for new Council homes.
+On the question of sources of funding a refurb scheme, one could also include the Section 106 off-site pooled funding and that set aside for new Council homes. Refurbishment would also help the Council save on the [£10m per year it is having to spend on temporary accommodation](https://www.southwarknews.co.uk/news/council-spend-temporary-housing-now-five-times-20112012/):
+
+![](/img/spendbandb.png)
 
 This Cabinet item from 2011 gives details of 'High Investment Needs estates' and gives cost estimates of DHS works: http://moderngov.southwark.gov.uk/ieIssueDetails.aspx?IId=11030&Opt=3
 
@@ -127,13 +129,13 @@ But in its [Energy Strategy](http://35percent.org/img/aylesburyenergystrategy2.p
 
 What does the new FDS application say about renewable energy provision?
 
-### Community Spine & Green Fingers
-The AAAP says that there will be a 'community spine' running east to west through the site. This will provide a cycle and pedestrian route throughout the entire site, connecting the new community facilities to the Walworth road.
+### Community Spine, Green Fingers and Westmoreland Plaza
+The AAAP says that there will be a 21 metre-wide 'community spine' running east to west through the site. This will provide a cycle and pedestrian route throughout the entire site, connecting the new community facilities to the Walworth road. It also says there will be three 'green fingers' extending in to the estate from Burgess Park, providing public green space and pedestrian/cycle access. Furthermore it lists a public plaza 'Westmoreland Rd Plaza' on the order land.
 
 ![](/img/communityspine.png) 
 *Extract from AAAP*
 
-The AAAP shows the community spine (3) and one of the green fingers dissecting the FDS (10), but these were not included in the existing FDS planning consent. Does the new application include these?
+The AAAP diagram for the order land shows the community spine (3), one of the green fingers dissecting the FDS (10) and Westmoreland Plaza (9) on the order land, but these were not included in the existing FDS planning consent. Does the new application include these?
 
 ![](/img/fdsgreenfingers.png)
 *Extract from AAAP*
@@ -142,27 +144,26 @@ The New Southwark Plan (the Council's strategic planning framework) says that th
 
 Also to my knowledge, the previous FDS application didn't include any segregated cycle routes - we need to see what the new application says about cycle routes.
 
-### Open Space/Play Space
+### Open Space
 Policy 4.5.1 of the AAAP envisages no net loss of open space, but the approved masterplan application (ref:14/AP/3844) acknowledges that there will be a net loss of 1.8 hectares of open space:
 
 ![](http://crappistmartin.github.io/images/aylesburygreenspace.png)
 *Extract from the planning committee report for the masterplan application.*
 
-
+### Play Space
 Policy PL6 of the AAAP says _"All development proposals must provide 10sqm of children’s play space / youth space per child bed space. Doorstep playable space should be provided within each of the housing blocks, whilst larger local playable spaces should be provided within selected housing blocks and within the green fingers and existing local parks, in accordance with Figure 12. New youth space should be provided within the larger areas of public open space."_
 
 What does the new FDS application say about open space and play space?
 
-### Community Facilities
-Search AAAP for community facilities
+### Infrastructure funding
+Page 75 of the AAAP describes infrastructure funding. It says the developer will pay a tariff which will fund community facilities like the energy centre (£13m) and health centre (£4m). We now know that the Council is paying for the health centre from its own funds and that the energy centre is not being delivered.
 
+The AAAP doesn't say what the tariff is.. it says that details of the tariff will be published in an SPD but I can't find any such SPD..
+ 
 ### Density
-
-![](http://crappistmartin.github.io/images/aylesburygreenspace.png)
-
 The AAAP says _"The HCA has also recently admitted Aylesbury phases 2 and 3 to round 6 of the government backed Private Finance Initiative (PFI). Under this programme it is proposed that the council will effectively deliver 1000 new homes of which around 400 will be affordable council owned new homes"_.
 
-We know that the HCA PFI finance was scrapped shortly after the AAAP was adopted. 
+We know that the HCA PFI finance was scrapped shortly after the AAAP was adopted and we know that none of the new homes proposed will be Council owned. 
 
 The AAAP says that 1419 units are required in phase 1, but given that only 408 units have been delivered on the other phase 1 sites [1a (261 units) & site 7 (147 units)] and only 840 units are proposed in the FDS application then there is a shortfall of 171 between the number of units proposed on the Order Land and the number required by the AAAP.
 
@@ -172,7 +173,7 @@ The AAAP says that the scheme will deliver 1,450 extra new homes to contribute t
 
 ![](http://35percent.org/img/aaapnewhomesdensity.png)
 
-Provide evidence showing the vast gap between the number of units required by more recent planning policy and the numbers being delivered. Show how this is the cause of the current housing crisis.
+Provide evidence showing the vast gap between the number of units required by more recent planning policy and the numbers being delivered. Show how supply shortage is fuelling the current housing crisis.
 
 ### Room Sizes
 The AAAP says that:
