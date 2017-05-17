@@ -1,14 +1,13 @@
 ---
 layout: page
+title: "Phase 1b/1c revised CPO Inquiry"
 ---
 
 ![](http://35percent.org/img/phase1baerial.png)
-*__2017 Aylesbury estate CPO Public Inquiry__*
 
 ## Viability
-The Aylesbury scheme requires a phenomenal amount of public sector funding. The scheme has been [allocated 46m from the government’s Estate Regeneration Fund and £27m from GLA funding](http://moderngov.southwark.gov.uk/documents/s52526/Report%20Aylesbury%20Regeneration%20Update.pdf) to date, plus [£13m of HCA funding](http://www.urbandesignlondon.com/wordpress/wp-content/uploads/Estate-Regen-Sourcebook-Web-Version.pdf) (for the completed phase 1 of the scheme). In addition, the Council has spent a considerable amount of its own funds on the scheme [(£28.5m to date), and has committed a further £52m](35percent.org/2016-09-26-council-appeals-aylesbury-cpo-decision/#the-business-case-for-a-moratorium) to the scheme over the next three years alone. In addition, the scheme has received £56m from the government’s NDC (New Deal for Communities) programme. This amounts to a total of £222m of public funding allocated so far, of which £97.5m has been spent.
-
-Notwithstanding this, documents show that the Aylesbury scheme as envisaged is still not viable and that the viability gap is being bridged by shortchanging leaseholders. In Jan 2009, the [draft Aylesbury Area Action Plan](/img/DraftAAAP.pdf) showed that there was a funding shortfall of £299m.
+ODPM Circular 2005 says that the scheme underlying the order must be viable.
+Documents show that the Aylesbury scheme as envisaged is still not viable and that the viability gap is being bridged by shortchanging leaseholders. In Jan 2009, the [draft Aylesbury Area Action Plan](/img/DraftAAAP.pdf) showed that there was a funding shortfall of £299m.
 
 ![](/img/DraftAAAP_appendices.png) 
 *Page 92 of the [appendices](/img/DraftAAAP_appendices.pdf) to the [draft AAAP](/img/DraftAAAP.pdf)*
