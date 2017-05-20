@@ -122,8 +122,18 @@ Be sure to amend and add to the suggested wording.</legend>
 <div class="indicates-required"><span class="asterisk">*</span> indicates required</div>
 
 <p class="first" style="margin:20px">
-        <label for="name">Name:</label>
-        <input type="text" name="name" id="name" size="30" placeholder="Joe Bloggs" /><span class="asterisk">*</span>
+        <label for="name">Title:</label>
+        <input type="text" name="title" id="title" size="30" placeholder="Mr" /><span class="asterisk">*</span>
+  </p>
+
+<p style="margin:20px">
+        <label for="email">First Name:</label>
+        <input type="text" name="firstname" id="firstname" size="30" placeholder="Joe"/><span class="asterisk">*</span>
+  </p>
+
+<p style="margin:20px">
+        <label for="email">Surname:</label>
+        <input type="text" name="surname" id="surname" size="30" placeholder="Bloggs"/><span class="asterisk">*</span>
   </p>
 
   <p style="margin:20px">
@@ -133,12 +143,17 @@ Be sure to amend and add to the suggested wording.</legend>
 
   <p style="margin:20px">
         <label for="address">Address:</label>
-        <input type="text" name="address" id="address" size="40" placeholder="99 Chaplin Street, London"/>
+        <input type="text" name="address" id="address" size="40" placeholder="99 Chaplin Street, London"/><span class="asterisk">*</span>
+  </p>
+
+  <p style="margin:20px">
+        <label for="address">Town/City:</label>
+        <input type="text" name="city" id="city" size="40" placeholder="London"/><span class="asterisk">*</span>
   </p>
 
   <p style="margin:20px">
         <label for="postcode">Postcode:</label>
-        <input type="text" name="postcode" id="postcode" size="30" placeholder="SE17 1RS"/>
+        <input type="text" name="postcode" id="postcode" size="30" placeholder="SE17 1RS"/><span class="asterisk">*</span>
   </p>
 
 
@@ -154,23 +169,29 @@ This application does not propose a policy compliant affordable housing mix. Sou
 Given that the development is coming forward as a result of the Council's own planning directives and given that the developer is an offshore company registered in the BVI and Bermuda, there is a greater need for transparency - especially so given that the application is not policy compliant. 
 
 Affordable retail & existing traders:
-Paragraph 5.1.7 of the Council's planning policy (E&C SPD), requires a number of "affordable retail units which are made available to existing occupiers displaced by development", in order to "ensure that development opportunities provide opportunities for existing and future SME businesses". However, the applicant has made no provision for any affordable retail in its application and makes vague reference only to a 'relocation strategy' for existing retailers - it provides no detail on what this 'relocation strategy' entails. 
-
-In October 2015, Southwark resolved to undertake an Equalities Impact Assessment, in order to fulfill its Public Sector Equality Duty to the shopping centre traders and explore how the impact of the redevelopment can be mitigated. However, this assessment was never undertaken, the Council is thus neglecting its duty and allowing Delancey to progress the scheme without incorporating the existing traders.  
+The Council's strategic planning framework requires a minimum 10% affordable retail for new developments. Paragraph 5.1.7 of the Council's local planning policy (E&C SPD), further requires a number of "affordable retail units which are made available to existing occupiers displaced by development", in order to "ensure that development opportunities provide opportunities for existing and future SME businesses". The SPD also refers to a 'Traders Charter' agreed with the Council in 2007 and which sets out a number of guarantees for traders. However, the charter has been ignored and Delancey has made no provision for any affordable retail in its application, making only a vague reference to a 'relocation strategy' - but providing no detail on what this 'relocation strategy' actually entails. 
+Its diverse economy of small retailers are at the heart of the community and make Elephant & Castle the vibrant destination it is. Southwark should be supporting and cultivating these - not using its CPO powers to help Delancey evict them.
 
 Coronet Cinema:
 Delancey has dismissed the campaign to save The Coronet theatre. The Coronet takes up a sizeable part of the shopping centre site and is a popular music and event venue. The building dates back to 1872 and is a popular local institution. The Theatres Trust has objected to its demolition as have local preservation groups, on the basis of its Art Deco interior and exterior, which currently remains hidden behind its blue corrugated facade.
+
+Transport:
+The plans make insufficient provison for the necessary public transport infrastructure to support the high-density development as well as extra capacity requirements that will result from the proposed Bakerloo line extension and all of the other major developments currently under construction at the Elephant & Castle.
+
+Delancey is using a network of shell companies registered in tax havens including Bermuda, Panama and the British Virgin Islands, in order to avoid paying tax on its redevelopment scheme. Southwark should not be bending over backwards and making planning policy concessions for developers who don't pay their tax.
 
 Please register my objection and keep me informed should any of the above shortcomings be addressed and the planning applications amended accordingly.
 
 Yours sincerely,
 </textarea>
   </p>
-  <p class="submit" style="margin:20px"><button type="submit">Submit Objection</button></p>
-<p>You will receive a confirmation email upon submitting your objection.</p>
+
+  <p class="submit" style="margin:20px"><button type="submit">Send Objection</button></p>
+
+</br>
 </div>
-</fieldset>
-</form>
+   </fieldset>
+  </form>
 
 
 
