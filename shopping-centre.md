@@ -164,7 +164,7 @@ Be sure to amend and add to the suggested wording.</legend>
 I am writing to object to the planning application for the redevelopment of the shopping centre and LCC campus at the Elephant & Castle (ref:16/AP/4458).
 
 Affordable Housing:
-This application does not propose a policy compliant affordable housing mix. Southwark's policy for the Elephant & Castle requires a minimum of 35% affordable housing, of which 50% should be social rented. The applicant's offer does not make any provision for social rented housing or any payment in-lieu. The applicant has submitted a viability appraisal, arguing that providing social rented housing would render the development unviable, but despite the Council's new transparency policy this has still not been made public. 
+This application does not propose a policy compliant affordable housing mix. Southwark's policy for the Elephant & Castle requires a minimum of 35% affordable housing, of which 50% must be social rented. The applicant's offer does not make any provision for social rented housing or any payment in-lieu. The applicant has submitted a viability appraisal, arguing that providing social rented housing would render the development unviable, but despite the Council's new transparency policy this has still not been made public. 
 
 Given that the development is coming forward as a result of the Council's own planning directives and given that the developer is an offshore company registered in the BVI and Bermuda, there is a greater need for transparency - especially so given that the application is not policy compliant. 
 
