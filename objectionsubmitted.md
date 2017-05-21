@@ -2,10 +2,10 @@
 layout: page
 title: Success!
 ---
-<meta http-equiv="refresh" content="13;url=http://35percent.org/shopping-centre/" />
+<meta http-equiv="refresh" content="9;url=http://35percent.org/shopping-centre/" />
 
-#### Thanks! Your objection has been submitted to Southwark Council and you will receive a confirmation email from them in the next few minutes.
+#### Your objection has been submitted - you will shortly receive a confirmation email from Southwark Council.
 
-You will now be redirected back.
+You are now being redirected back.
 
 
