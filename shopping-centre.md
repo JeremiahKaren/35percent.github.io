@@ -123,37 +123,37 @@ Be sure to amend and add to the suggested wording.</legend>
 
 <p class="first" style="margin:20px">
         <label for="name">Title:</label>
-        <input type="text" name="title" id="title" size="30" placeholder="Mr" /><span class="asterisk">*</span>
+        <input type="text" name="title" id="title" size="5" placeholder="Mr" /><span class="asterisk">*</span>
   </p>
 
 <p style="margin:20px">
         <label for="email">First Name:</label>
-        <input type="text" name="firstname" id="firstname" size="30" placeholder="Joe"/><span class="asterisk">*</span>
+        <input type="text" name="firstname" id="firstname" size="15" placeholder="Joe"/><span class="asterisk">*</span>
   </p>
 
 <p style="margin:20px">
         <label for="email">Surname:</label>
-        <input type="text" name="surname" id="surname" size="30" placeholder="Bloggs"/><span class="asterisk">*</span>
+        <input type="text" name="surname" id="surname" size="21" placeholder="Bloggs"/><span class="asterisk">*</span>
   </p>
 
   <p style="margin:20px">
         <label for="email">Email:</label>
-        <input type="text" name="email" id="email" size="30" placeholder="joebloggs@gmail.com"/><span class="asterisk">*</span>
+        <input type="text" name="email" id="email" size="23" placeholder="joebloggs@gmail.com"/><span class="asterisk">*</span>
   </p>
 
   <p style="margin:20px">
         <label for="address">Address:</label>
-        <input type="text" name="address" id="address" size="40" placeholder="99 Chaplin Street, London"/><span class="asterisk">*</span>
+        <input type="text" name="address" id="address" size="27" placeholder="99 Chaplin Street"/><span class="asterisk">*</span>
   </p>
 
   <p style="margin:20px">
         <label for="address">Town/City:</label>
-        <input type="text" name="city" id="city" size="40" placeholder="London"/><span class="asterisk">*</span>
+        <input type="text" name="city" id="city" size="12" placeholder="London"/><span class="asterisk">*</span>
   </p>
 
   <p style="margin:20px">
         <label for="postcode">Postcode:</label>
-        <input type="text" name="postcode" id="postcode" size="30" placeholder="SE17 1RS"/><span class="asterisk">*</span>
+        <input type="text" name="postcode" id="postcode" size="10" placeholder="SE17 1RS"/><span class="asterisk">*</span>
   </p>
 
 
