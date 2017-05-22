@@ -17,7 +17,12 @@ The scheme was originally given planning consent in 2009 which included a public
 ![](/img/bctoptower.png)
 *CGI of the original plans for a public sky deck*
 
-There will be no affordable housing on-site or off-site. This was deemed to be unviable according to a viability assessment undertaken by Savills and submitted to Southwark Council. Instead the developer will pay £29m (4% of total value) in a series of staged payments to the council, towards its council house building programme. 
+There will be no affordable housing on-site or off-site. This was deemed to be unviable according to a viability assessment undertaken by Savills and submitted to Southwark Council. Instead the developer will pay £29m (4% of total value) in a series of staged payments to the council, towards its council house building programme.
+
+A local resident made an FOI request to the Council for the viability assessment, which the Council supplied but with all of the figures redacted. The Council's response makes a mockery of FOI regulations.
+
+![](/img/obfvaredacted.png)
+*Extract from the (completely) redacted [viability assessment](https://www.whatdotheyknow.com/request/226757/response/575472/attach/2/141022%20part%201%20attachment%201.pdf).* 
 
 As consolation for loss of the public sky deck, Berkeley's [planning application](/img/oneblackfriarsplanningapplication.pdf) said that there would be a _'public viewing lounge on level 32'_. 
 
@@ -43,6 +48,9 @@ Berkeley's most recent [brochure](/img/oneblackfriarsbrochure.pdf) for __One Bla
 
 ![](/img/executivelounge.png)
 *Extract from Berkeley's [sales brochure](/img/oneblackfriarsbrochure.pdf) for One Blackfriars*
+
+## Well advised
+If you are wondering how Berkeley manage to run such finely-managed rings around Southwark's planning office the answer is that they are well advised. Berkeley employed [Four Communications](http://fourcommunications.com) to help with its planning application. Four Communications is [founded and run](http://35percent.org/2014-10-19-gamekeepers-turned-poachers/) by former Southwark (Labour) Council leader Jeremy Fraser and employs Southwark's former Cabinet member for Regeneration; yet another example of Southwark's well-oiled [revolving doors](http://35percent.org/revolving-doors).  
 
 ## 50 shades of grotesque
 The development [came under fire](http://www.standard.co.uk/news/london/luxury-london-flat-advert-branded-the-creepiest-thing-you-will-ever-see-9966793.html) in January 2015, when its promoters produced a [bizzare promotional film](http://uk.businessinsider.com/bizarre-one-blackfriars-ad-from-new-homes-london-2015-1) showing a macho city type taking his wife househunting in a helicopter and being served by a butler in their luxury __One Blackfriars__ apartment.
