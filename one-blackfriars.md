@@ -19,7 +19,7 @@ The scheme was originally given planning consent in 2009 which included a public
 
 There will be no affordable housing on-site or off-site. This was deemed to be unviable according to a viability assessment undertaken by Savills and submitted to Southwark Council. Instead the developer will pay £29m (4% of total value) in a series of staged payments to the council, towards its council house building programme.
 
-A local resident made an FOI request to the Council for the viability assessment, which the Council supplied but with all of the figures redacted. The Council's response makes a mockery of FOI regulations.
+A local resident made an FOI request to the Council for the viability assessment, which the Council [fulfilled](https://www.whatdotheyknow.com/request/226757/response/575472/attach/2/141022%20part%201%20attachment%201.pdf) but with all of the figures redacted. The Council's response makes a mockery of FOI regulations.
 
 ![](/img/obfvaredacted.png)
 *Extract from the (completely) redacted [viability assessment](https://www.whatdotheyknow.com/request/226757/response/575472/attach/2/141022%20part%201%20attachment%201.pdf).* 
