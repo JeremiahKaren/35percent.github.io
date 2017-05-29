@@ -35,10 +35,9 @@ Berkeley's [planning application statement](http://planbuild.southwark.gov.uk/do
 ![](/img/viewingloungeps.png)
 *Extract from Berkeley's [planning application statement](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!28pvllAgL%2bwF8rb4Xe8zyw%3d%3d!%7d%7d%7d)*
 
-The [One Blackfriars planning committee report](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!N3XzHN1XX76Wjzxddhd13g%3d%3d!%7d%7d%7d) explains that the £29m in-lieu payment was lower than the £35m minimum policy requirement, on the grounds that the development will be providing a _"viewing lounge on the 32nd level, which would be made available to the public by prior arrangement"_. (para. 45) 
-
+The [One Blackfriars planning committee report](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!N3XzHN1XX76Wjzxddhd13g%3d%3d!%7d%7d%7d) explains why the  the £29m in-lieu payment was lower than the £35m minimum policy requirement.  It uses the viability assessmemt as justification, but does not state the profit rate, landvalue or benchmark value used cites  the build cost of the tower's  _'distinctive..curved glass facade'_  which is thought to be _'high but not necessarily unreasonable'_ and the _'public viewing lounge'_, described as a _'notable benefit of the scheme'_,available to the community at a low charge, while costing the developer £5.5m (paras. 149, 150).  
 ![](http://www.london-se1.co.uk/news/imageuploads/1349877689_80.177.117.97.jpg)
-*CGI of the 'public' viewing lounge submitted to Southwark's planning committee*
+*CGI of the 'public' viewing lounge submitted to Southwark's planning committee*   
 
 However, the [small print](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!sk%2bEbHwM0x7SbbHfJ%2bPlUg%3d%3d!%7d%7d%7d) in the planning application documents show that the public viewing lounge won't be so public. It says the viewing lounge will be accessible only to companies, organisations and residents in Southwark's SE1 (riverside) postcode, who will need to book in advance and pay a fee of £50 plus £30 per hour. This is good news for the Council and its corporate events and good news for Council leader Peter John who lives in a neighbouring riverside development, but not much use to the rest of us elsewhere in the borough.
 
