@@ -7,7 +7,7 @@ published: false
 ---
 ![](/img/obcgi.jpg)
 
-Looming over the Thames like a wonky ice-lolly the Berkeley Group's __'One Blackfriars'__is nearing completion.  The 50 storey glass tower will have 274 luxury homes and a 110-space multilevel parking basement. The total development value is approximately £700m.
+Looming over the Thames like a wonky ice-lolly the Berkeley Group's __'One Blackfriars'__is nearing completion.  The 50 storey glass tower will have 274 luxury homes and a 110-space multilevel car-parking basement. The total development value is approximately £700m.
 
 [Planning application documents](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!yEWdLLdNR%2bJj86NpOhjqfw%3d%3d!%7d%7d%7d) for __One Blackfriars__ claim that the unique design of the building _"is inspired by both the sculptures of Brancussi, Henry Moore and 1950s Finnish glassware design"_. (page 48) 
 
