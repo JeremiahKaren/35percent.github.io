@@ -9,7 +9,7 @@ published: false
 
 Anyone troubled by the housing crisis can take comfort from **One Blackfriars**. Looming over the Thames like a wonky ice lolly, the Berkeley Group's 50 storey glass tower will have 274 luxury homes, a 110-space multi-level car parking basement, a 152 room hotel, a gym, cinema, wine cellar. massage parlour, swimming pool and much else.
 
-[Planning application documents](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!yEWdLLdNR%2bJj86NpOhjqfw%3d%3d!%7d%7d%7d) for One Blackfriars__One Blackfriars__ claim that the fatuous design of the building _"is inspired by both the sculptures of Brancussi, Henry Moore and 1950s Finnish glassware design"_ and the arty pretentions continue with interiors 'inspired' by Thomas Gainsborough, JMW Turner and Barbara Hepworth. 
+[Planning application documents](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!yEWdLLdNR%2bJj86NpOhjqfw%3d%3d!%7d%7d%7d) for One Blackfriars__One Blackfriars__ claim that the fatuous design of the building _"is inspired by both the sculptures of Brancussi, Henry Moore and 1950s Finnish glassware design"_ and the arty pretentions continue with interiors ['inspired'](https://www.berkeleygroup.co.uk/new-homes/london/southwark/one-blackfriars) by Thomas Gainsborough, JMW Turner and Barbara Hepworth. 
 
 ![](/img/obdesign.png)
 
@@ -34,7 +34,8 @@ Car parking was one area of non-compliance.  Despite the site having the highest
 ![](/img/oborparking.png)
 *Extract from the [planning committee report](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!N3XzHN1XX76Wjzxddhd13g%3d%3d!%7d%7d%7d)*
 
-Inevitably, affordable housing was also non-compliant.  There will be no affordable housing on-site or off-site.  Instead Berkeley are making a payment towards Southwark's council house delivery programme, but after paying to build a snow cabin and ice fountain, a gym with private Zen garden, a virtual golf course with whisky bar, a swimming pool, a sauna with jungle shower, a wine cellar with tasting room, a hot stone massage parlour and a cinema, Berkeley found it did not have enough money to meet the full in lieu payment of £35m, so offered £29m instead - 4% of an estimated total scheme value of £700m - which Southwark gratefully accepted.  Penthouses at __One Blackfriars__ are [currently on sale](http://www.telegraph.co.uk/property/buy/one-blackfriars-an-exclusive-look-inside-the-vase-londons-newest/) for £23m.
+Inevitably, affordable housing was also non-compliant.  There will be no affordable housing on-site or off-site.  Instead Berkeley are making a payment towards Southwark's council house delivery programme, but after paying to build a [snow cabin](https://www.theguardian.com/uk-news/2016/dec/28/snow-cabins-jungle-showers-latest-perks-luxury-london-flat)and ice fountain, a 
+ ['gym with privare Zen garden'](https://www.berkeleygroup.co.uk/new-homes/london/southwark/one-blackfriars)a virtual golf course with whisky bar, a swimming pool, a sauna with jungle shower, a wine cellar with tasting room, a hot stone massage parlour and a cinema, Berkeley found it did not have enough money to meet the full in lieu payment of £35m, so offered £29m instead - 4% of an estimated total scheme value of £700m - which Southwark gratefully accepted.  Penthouses at __One Blackfriars__ are [currently on sale](http://www.telegraph.co.uk/property/buy/one-blackfriars-an-exclusive-look-inside-the-vase-londons-newest/) for £23m.
 
 This was all justified by a viability assessment, drafted by Savills for Berkeley and submitted to Southwark.  Southwark disclosed [the viability assessment](https://www.whatdotheyknow.com/request/226757/response/575472/attach/2/141022%20part%201%20attachment%201.pdf) to a local resident, in response to an FOI request, but with all the figures redacted.  We therefore have to rely on the [One Blackfriars planning committee report](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!N3XzHN1XX76Wjzxddhd13g%3d%3d!%7d%7d%7d)to explain why the £29m in lieu payment was lower than the £35m minimum policy requirement.
 
@@ -107,5 +108,3 @@ The development [came under fire](http://www.standard.co.uk/news/london/luxury-l
 
 ![](/img/viewingloungecs.png)
 *Extract from the [planning application documents](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!yEWdLLdNR%2bJj86NpOhjqfw%3d%3d!%7d%7d%7d)*
-
-
