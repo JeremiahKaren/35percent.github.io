@@ -52,11 +52,6 @@ Leaving aside whatever sense sacrificing homes for viewing lounges makes, the [s
 ![](/img/executivelounge.png)
 *Extract from Berkeley's [sales brochure](/img/oneblackfriarsbrochure.pdf) for One Blackfriars*
 
-
-
-
-
-
 PS
 
 If you are wondering how Berkeley manage to run such finely-managed rings around Southwark's planning office the answer is that they are well advised. Berkeley employed [Four Communications](http://fourcommunications.com) to help with its planning application. Four Communications is [founded and run](http://35percent.org/2014-10-19-gamekeepers-turned-poachers/) by former Southwark (Labour) Council leader Jeremy Fraser and employs Southwark's former Cabinet member for Regeneration; yet another example of Southwark's well-oiled [revolving doors](http://35percent.org/revolving-doors).
@@ -66,21 +61,6 @@ PPS
 The development [came under fire](http://www.standard.co.uk/news/london/luxury-london-flat-advert-branded-the-creepiest-thing-you-will-ever-see-9966793.html) in January 2015, when its promoters produced a [bizzare promotional film](http://uk.businessinsider.com/bizarre-one-blackfriars-ad-from-new-homes-london-2015-1) showing a macho city type taking his wife househunting in a helicopter and being served by a butler in their luxury __One Blackfriars__ apartment.
 
 ![](/img/obmacho.jpg)
-
-
-
-
-
-
-
- 
-
-
-
-
-
-
-
 
 
 ## Underground parking
