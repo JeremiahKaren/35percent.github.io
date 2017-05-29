@@ -43,7 +43,10 @@ This was all justified by a viability assessment, drafted by Savills for Berkele
 
 While the report depends upon the viability assessment to justify the loss of money to the council, it does not relay to the planning committe any of the critical value assumptions needed to judge its veracity, such as profit rate, land value and benchmark value.  Instead it cites the high build cost of the tower's _'distinctive...curved glass facade'_ (which it thought to be _'not necessarily unreasonable'_) and the _'notable benefit'_ to the scheme of the aforementioned public viewing lounge, which, while costing Berkeley £5.5m, _'would be available to the community at a low charge'_ (para 149,150).
 
-Leaving aside whatever sense sacrificing homes for viewing lounges makes, the [small print](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!sk%2bEbHwM0x7SbbHfJ%2bPlUg%3d%3d!%7d%7d%7d) in the planning application documents show that the public viewing lounge won't be so public. It will only be accessible to companies, organisations and residents in Southwark's SE1 (riverside) postcode, who will need to book in advance and pay a fee of £50 plus £30 per hour.  Berkeley's most recent [brochure](/img/oneblackfriarsbrochure.pdf) for __One Blackfriars__ is now advertising the public viewing lounge as a _'private executive lounge'_, and an _'exclusive private club'_ for residents (page 45)
+Leaving aside whatever sense sacrificing homes for viewing lounges makes, the [small print](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!sk%2bEbHwM0x7SbbHfJ%2bPlUg%3d%3d!%7d%7d%7d) in the planning application documents show that the public viewing lounge won't be so public. It will only be accessible to companies, organisations and residents in Southwark's SE1 (riverside) postcode, who will need to book in advance and pay a fee of £50 plus £30 per hour.  Berkeley's most recent [brochure](/img/oneblackfriarsbrochure.pdf) for __One Blackfriars__ is now advertising the public viewing lounge as a _'private executive lounge'_, and an _'exclusive private club'_ for residents (page 45) and a comparison of the image presented to the planning committee and the image in the latest brochure shows the difference.  Berkeley's brochures for __One Blackfriars__ can be downloaded in [Russian](/img/obrussian.pdf), [Chinese](/img/obchinese.pdf) and [Arabic](/img/obarabic.pdf).
+
+![](http://www.london-se1.co.uk/news/imageuploads/1349877689_80.177.117.97.jpg)
+*CGI of the 'public' viewing lounge submitted to Southwark's planning committee*  
 
 ![](/img/executivelounge.png)
 *Extract from Berkeley's [sales brochure](/img/oneblackfriarsbrochure.pdf) for One Blackfriars*
@@ -51,7 +54,7 @@ Leaving aside whatever sense sacrificing homes for viewing lounges makes, the [s
 
 
 
-Berkeley's brochures for __One Blackfriars__ can be downloaded in [Russian](/img/obrussian.pdf), [Chinese](/img/obchinese.pdf) and [Arabic](/img/obarabic.pdf).
+
 
 PS
 
@@ -75,12 +78,8 @@ The development [came under fire](http://www.standard.co.uk/news/london/luxury-l
 
 
 
-![](http://www.london-se1.co.uk/news/imageuploads/1349877689_80.177.117.97.jpg)
-*CGI of the 'public' viewing lounge submitted to Southwark's planning committee*   
 
 
-![](/img/viewingloungecs.png)
-*Extract from the [planning application documents](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!yEWdLLdNR%2bJj86NpOhjqfw%3d%3d!%7d%7d%7d)*
 
 
 ## Underground parking
@@ -105,4 +104,8 @@ The development [came under fire](http://www.standard.co.uk/news/london/luxury-l
 
 ![](/img/obpool.png)
 *One Blackfriars swimming pool*
+
+![](/img/viewingloungecs.png)
+*Extract from the [planning application documents](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!yEWdLLdNR%2bJj86NpOhjqfw%3d%3d!%7d%7d%7d)*
+
 
