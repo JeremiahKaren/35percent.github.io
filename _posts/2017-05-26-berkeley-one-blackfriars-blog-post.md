@@ -18,17 +18,32 @@ The scheme was originally given planning consent in 2009, and to include a publi
 ![](/img/bctoptower.png)
 *CGI of the original plans for a public sky deck*
 
-As consolation for loss, Berkeley's [planning application](/img/oneblackfriarsplanningapplication.pdf) proposed a _'public viewing lounge on level 32'_. The [planning application statement](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!28pvllAgL%2bwF8rb4Xe8zyw%3d%3d!%7d%7d%7d) puts forward the viewing lounge as a material consideration that should be offset against other aspects of the development, which don't comply with policy.
+As consolation for loss, Berkeley's [planning application](/img/oneblackfriarsplanningapplication.pdf) proposed a _'public viewing lounge on level 32'_. 
+
+![](/img/publicviewinglounge.png)
+*Extract from Berkeley's [planning application](/img/oneblackfriarsplanningapplication.pdf)*
+
+The [planning application statement](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!28pvllAgL%2bwF8rb4Xe8zyw%3d%3d!%7d%7d%7d) puts forward the viewing lounge as a material consideration that should be offset against other aspects of the development, which don't comply with policy.
+
+![](/img/viewingloungeps.png)
+*Extract from Berkeley's [planning application statement](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!28pvllAgL%2bwF8rb4Xe8zyw%3d%3d!%7d%7d%7d)*
+
 
 Car parking was one area of non-compliance.  Despite the site having the highest level of transport accessibility and a policy requirement to minimises car use, Southwark was persuaded that Berkeley simply would not be able to sell the apartments at 'viable' prices without a three storey 110 space basement car-park, complete with car stacker and valet service.
 
 Inevitably, affordable housing was also non-compliant.  There will be no affordable housing on-site or off-site.  Instead Berkeley are making a payment towards Southwark's council house delivery programme, but after paying to build a snow cabin and ice fountain, a gym with private Zen garden, a virtual golf course with whisky bar, a swimming pool, a sauna with jungle shower, a wine cellar with tasting room, a hot stone massage parlour and a cinema, Berkeley found it did not have enough money to meet the full in lieu payment of £35m, so offered £29m instead - 4% of an estimated total scheme value of £700m - which Southwark gratefully accepted.
 
-This was all justified by a viability assessment, drafted by Savills for Berkeley and submitted to Southwark.  Southwark disclosed [the viability assessment](https://www.whatdotheyknow.com/request/226757/response/575472/attach/2/141022%20part%201%20attachment%201.pdf) to a local resident, in response to an FOI request, but with all the figures redacted.  We therefore have to rely on the [One Blackfriars planning committee report](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!N3XzHN1XX76Wjzxddhd13g%3d%3d!%7d%7d%7d)to explain why the £29m in lieu payment was lower than the £35m minimum policy requirement.  
+This was all justified by a viability assessment, drafted by Savills for Berkeley and submitted to Southwark.  Southwark disclosed [the viability assessment](https://www.whatdotheyknow.com/request/226757/response/575472/attach/2/141022%20part%201%20attachment%201.pdf) to a local resident, in response to an FOI request, but with all the figures redacted.  We therefore have to rely on the [One Blackfriars planning committee report](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!N3XzHN1XX76Wjzxddhd13g%3d%3d!%7d%7d%7d)to explain why the £29m in lieu payment was lower than the £35m minimum policy requirement.
+
+![](/img/obfvaredacted.png)
+*Extract from the (completely) redacted [viability assessment](https://www.whatdotheyknow.com/request/226757/response/575472/attach/2/141022%20part%201%20attachment%201.pdf).* 
 
 While the report depends upon the viability assessment to justify the loss of money to the council, it does not relay to the planning committe any of the critical value assumptions needed to judge its veracity, such as profit rate, land value and benchmark value.  Instead it cites the high build cost of the tower's _'distinctive...curved glass facade'_ (which it thought to be _'not necessarily unreasonable'_) and the _'notable benefit'_ to the scheme of the aforementioned public viewing lounge, which, while costing Berkeley £5.5m, _'would be available to the community at a low charge'_ (para 149,150).
 
-Leaving aside whatever sense sacrificing homes for viewing lounges makes, the [small print](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!sk%2bEbHwM0x7SbbHfJ%2bPlUg%3d%3d!%7d%7d%7d) in the planning application documents show that the public viewing lounge won't be so public. It will only be accessible to companies, organisations and residents in Southwark's SE1 (riverside) postcode, who will need to book in advance and pay a fee of £50 plus £30 per hour.  Berkeley's most recent [brochure](/img/oneblackfriarsbrochure.pdf) for __One Blackfriars__ is now advertising the public viewing lounge as a _'private executive lounge'_, an _'exclusive private club'_ for residents (page 45)
+Leaving aside whatever sense sacrificing homes for viewing lounges makes, the [small print](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!sk%2bEbHwM0x7SbbHfJ%2bPlUg%3d%3d!%7d%7d%7d) in the planning application documents show that the public viewing lounge won't be so public. It will only be accessible to companies, organisations and residents in Southwark's SE1 (riverside) postcode, who will need to book in advance and pay a fee of £50 plus £30 per hour.  Berkeley's most recent [brochure](/img/oneblackfriarsbrochure.pdf) for __One Blackfriars__ is now advertising the public viewing lounge as a _'private executive lounge'_, and an _'exclusive private club'_ for residents (page 45)
+
+![](/img/executivelounge.png)
+*Extract from Berkeley's [sales brochure](/img/oneblackfriarsbrochure.pdf) for One Blackfriars*
 
 
 Penthouses at __One Blackfriars__ are [currently on sale](http://www.telegraph.co.uk/property/buy/one-blackfriars-an-exclusive-look-inside-the-vase-londons-newest/) for £23m.
