@@ -13,7 +13,7 @@ This abomination is Berkeley Group's __'One Blackfriars'__; a development of 274
 
 ![](/img/obdesign.png)
 
-The scheme was originally given planning consent in 2009 which included a public 'sky deck' on the top floors, allowing public access to some of London's best views. However, this was [axed](http://www.london-se1.co.uk/news/view/5776) three years later after the development changed hands. Berkeley claimed that there would be competition with the public sky deck at the Shard and that it would no longer be viable.
+The scheme was originally given planning consent in 2009 which included a public 'sky deck' on the top floors, allowing public access to some of London's best views, but this was [axed](http://www.london-se1.co.uk/news/view/5776) three years later, after the development changed hands. Berkeley claimed that there would be competition with the public sky deck at the Shard and that it would no longer be viable.
 
 ![](/img/bctoptower.png)
 *CGI of the original plans for a public sky deck*
