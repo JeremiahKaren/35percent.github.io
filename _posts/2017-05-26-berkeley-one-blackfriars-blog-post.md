@@ -1,13 +1,13 @@
 ---
 layout: page
-title: "One Blackfriars"
+title: One Blackfriars
 sharing: true
 footer: true
 published: false
 ---
 ![](/img/obcgi.jpg)
 
-This atrocity is Berkeley Group's __'One Blackfriars'__; a development of 274 luxury homes in a 50 storey glass tower with a 110-space multilevel parking basement below. The total development value is approximately £700m.
+This abomination is Berkeley Group's __'One Blackfriars'__; a development of 274 luxury homes in a 50 storey glass tower with a 110-space multilevel parking basement below. The total development value is approximately £700m.
 
 [Planning application documents](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!yEWdLLdNR%2bJj86NpOhjqfw%3d%3d!%7d%7d%7d) for __One Blackfriars__ claim that the unique design of the building _"is inspired by both the sculptures of Brancussi, Henry Moore and 1950s Finnish glassware design"_. (page 48) 
 
@@ -87,4 +87,3 @@ While __One Blackfriars__ couldn't afford to provide any on-site affordable hous
 Penthouses at __One Blackfriars__ are [currently on sale](http://www.telegraph.co.uk/property/buy/one-blackfriars-an-exclusive-look-inside-the-vase-londons-newest/) for £23m.
 
 Berkeley's brochures for __One Blackfriars__ can be downloaded in [Russian](/img/obrussian.pdf), [Chinese](/img/obchinese.pdf) and [Arabic](/img/obarabic.pdf).
-
