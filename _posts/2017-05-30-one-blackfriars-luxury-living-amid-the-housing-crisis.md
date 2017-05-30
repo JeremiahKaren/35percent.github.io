@@ -64,15 +64,11 @@ The development [came under fire](http://www.standard.co.uk/news/london/luxury-l
 
 ![](http://35percent.org/img/obmacho.jpg)
 
-
-## Snow cabins & jungle showers
- 
+![](http://35percent.org/img/obcinema.png)
+*Berkeley's CGI of the residents' cinema at One Blackfriars*
 
 ![](http://35percent.org/img/obgym.png)
 *Berkeley's CGI of the residents' gym at One Blackfriars*
-
-![](http://35percent.org/img/obcinema.png)
-*Berkeley's CGI of the residents' cinema at One Blackfriars*
 
 ![](http://35percent.org/img/obwinecellar.png)
 *Berkeley's CGI of the residents' wine cellar at One Blackfriars*
@@ -83,5 +79,3 @@ The development [came under fire](http://www.standard.co.uk/news/london/luxury-l
 ![](http://35percent.org/img/obpool.png)
 *Berkeley's CGI of the swimming pool at One Blackfriars*
 
-![](http://35percent.org/img/viewingloungecs.png)
-*Extract from the [planning application documents](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!yEWdLLdNR%2bJj86NpOhjqfw%3d%3d!%7d%7d%7d)*
