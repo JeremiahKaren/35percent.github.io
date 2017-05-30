@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "One Blackfriars"
-subtitle: "Luxury living amid the housing crisis"
+subtitle: "An oasis of luxury amid the housing crisis"
 sharing: true
 footer: true
 published: true 
