@@ -6,7 +6,7 @@ sharing: true
 footer: true
 published: true 
 ---
-Anyone troubled by the housing crisis can take comfort from **One Blackfriars**. Looming over the Thames like a wonky ice lolly, the Berkeley Group's 50 storey glass tower will have 274 luxury homes, a 110-space multi-level car parking basement, a 152 room hotel, a gym, cinema, wine cellar. massage parlour, swimming pool and much else.
+Anyone troubled by the housing crisis can take comfort from **One Blackfriars**. Looming over the Thames like a wonky ice lolly, Berkeley Group's 50 storey glass tower will have 274 luxury homes, a 110-space multi-level car parking basement, a 152 room hotel, a gym, cinema, wine cellar. massage parlour, swimming pool and much else.
 
 ![](http://35percent.org/img/obcgi.jpg)
 
@@ -14,12 +14,12 @@ Anyone troubled by the housing crisis can take comfort from **One Blackfriars**.
 
 ![](http://35percent.org/img/obdesign.png)
 
-The scheme was originally given planning consent in 2009, and to include a public 'sky deck' on the top floors, giving public access to some of London's best views, but this was [axed](http://www.london-se1.co.uk/news/view/5776) three years later, after the developers Beetham Landmark went bust and new owners Berkeley claimed that competition from the Shard's sky deck would render One Blackfriar's sky deck unviable.
+The scheme was originally given planning consent in 2009, and to include a public 'sky deck' on the top floors, giving public access to some of London's best views, but this was [axed](http://www.london-se1.co.uk/news/view/5776) three years later, after Berkeley group purchased the site and claimed that competition from the Shard's sky deck would render One Blackfriar's sky deck unviable.
 
 ![](http://35percent.org/img/bctoptower.png)
 *CGI of the original plans for a public sky deck*
 
-As consolation for loss, Berkeley's [planning application](http://35percent.org/img/oneblackfriarsplanningapplication.pdf) proposed a _'public viewing lounge on level 32'_. 
+As consolation for the loss, Berkeley's [planning application](http://35percent.org/img/oneblackfriarsplanningapplication.pdf) proposed a _'public viewing lounge on level 32'_. 
 
 ![](http://35percent.org/img/publicviewinglounge.png)
 *Extract from Berkeley's [planning application](http://35percent.org/img/oneblackfriarsplanningapplication.pdf)*
@@ -29,14 +29,12 @@ The [planning application statement](http://planbuild.southwark.gov.uk/documents
 ![](http://35percent.org/img/viewingloungeps.png)
 *Extract from Berkeley's [planning application statement](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!28pvllAgL%2bwF8rb4Xe8zyw%3d%3d!%7d%7d%7d)*
 
-
 Car parking was one area of non-compliance.  Despite the site having the highest level of transport accessibility and a policy requirement to minimises car use, Southwark was persuaded that Berkeley simply would not be able to sell the apartments at 'viable' prices without a three storey 110 space basement car-park, complete with car stacker and valet service.
 
 ![](http://35percent.org/img/oborparking.png)
 *Extract from the [planning committee report](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!N3XzHN1XX76Wjzxddhd13g%3d%3d!%7d%7d%7d)*
 
-Inevitably, affordable housing was also non-compliant.  There will be no affordable housing on-site or off-site.  Instead Berkeley are making a payment towards Southwark's council house delivery programme, but after paying to build a [snow cabin](https://www.theguardian.com/uk-news/2016/dec/28/snow-cabins-jungle-showers-latest-perks-luxury-london-flat) and ice fountain, a 
- ['gym with privare Zen garden'](https://www.berkeleygroup.co.uk/new-homes/london/southwark/one-blackfriars), a virtual golf course with whisky bar, a swimming pool, a sauna with jungle shower, a wine cellar with tasting room, a hot stone massage parlour and a cinema, Berkeley found it did not have enough money to meet the full in lieu payment of £35m, so offered £29m instead - 4% of an estimated total scheme value of £700m - which Southwark gratefully accepted.  Penthouses at __One Blackfriars__ are [currently on sale](http://www.telegraph.co.uk/property/buy/one-blackfriars-an-exclusive-look-inside-the-vase-londons-newest/) for £23m.
+Inevitably, affordable housing was also non-compliant.  There will be no affordable housing on-site or off-site.  Instead Berkeley are making a payment towards Southwark's [new council homes delivery programme](https://www.southwarknews.co.uk/news/council-admits-will-miss-target-build-1500-new-council-homes-2018/), but after paying to build a [snow cabin](https://www.theguardian.com/uk-news/2016/dec/28/snow-cabins-jungle-showers-latest-perks-luxury-london-flat) and ice fountain, a ['gym with private Zen garden'](https://www.berkeleygroup.co.uk/new-homes/london/southwark/one-blackfriars), a virtual golf course with whisky bar, a swimming pool, a sauna with jungle shower, a wine cellar with tasting room, a hot stone massage parlour and a cinema, Berkeley found it did not have enough money to meet the full in lieu payment of £35m, so offered £29m instead - 4% of an estimated total scheme value of £700m - which Southwark gratefully accepted.  Penthouses at __One Blackfriars__ are [currently on sale](http://www.telegraph.co.uk/property/buy/one-blackfriars-an-exclusive-look-inside-the-vase-londons-newest/) for £23m.
 
 This was all justified by a viability assessment, drafted by Savills for Berkeley and submitted to Southwark.  Southwark disclosed [the viability assessment](https://www.whatdotheyknow.com/request/226757/response/575472/attach/2/141022%20part%201%20attachment%201.pdf) to a local resident, in response to an FOI request, but with all the figures redacted.  We therefore have to rely on the [One Blackfriars planning committee report](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!N3XzHN1XX76Wjzxddhd13g%3d%3d!%7d%7d%7d) to explain why the £29m in lieu payment was lower than the £35m minimum policy requirement.
 
