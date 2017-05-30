@@ -53,10 +53,10 @@ Leaving aside whatever sense sacrificing homes for viewing lounges makes, the [s
 
 ## Revolving doors
 
-If you are wondering how Berkeley manage to run such finely-managed rings around Southwark's planning office the answer is that they are well advised. Berkeley employed [Four Communications](http://fourcommunications.com) to help with its planning application. Four Communications is [founded and run](http://35percent.org/2014-10-19-gamekeepers-turned-poachers/) by former Southwark (Labour) Council leader Jeremy Fraser and employs Southwark's former (Labour) Cabinet member for Regeneration, Steve Lancashire. Berkeley also employed Southwark's former Lib/Dem Cabinet member for Regeneration Catherine Bowman before she [set up shop](http://carvil-ventures.co.uk) with former Tory deputy leader Kim Humphries. Yet another example of Southwark's well-oiled and well-used [revolving door](http://35percent.org/revolving-doors) between the Council and the development industry.
+If you are wondering how Berkeley manage to run such finely-managed rings around Southwark's planning office, the answer is that they are well advised. Berkeley employed [Four Communications](http://fourcommunications.com) to help with its planning application. Four Communications is [founded and run](http://35percent.org/2014-10-19-gamekeepers-turned-poachers/) by former Southwark (Labour) Council leader Jeremy Fraser and employs Southwark's former (Labour) Cabinet member for Regeneration, Steve Lancashire. Berkeley also employed Southwark's former Lib/Dem Cabinet member for Regeneration Catherine Bowman before she [set up shop](http://carvil-ventures.co.uk) with former Tory deputy leader Kim Humphries. Yet another example of Southwark's well-oiled and well-used [revolving door](http://35percent.org/revolving-doors) between the Council and the development industry.
 
 ![](http://35percent.org/img/revolvingdoorsob.jpg)
-*Former Council chiefs employed by Berkeley on its One Blackfriars scheme*
+*Three former Council chiefs on Berkeley's payroll*
 
 ## Crass marketing
 
@@ -65,28 +65,23 @@ The development [came under fire](http://www.standard.co.uk/news/london/luxury-l
 ![](http://35percent.org/img/obmacho.jpg)
 
 
-## Underground parking
-
-
-![](http://35percent.org/img/undergroundparking.jpg)
-
 ## Snow cabins & jungle showers
  
 
 ![](http://35percent.org/img/obgym.png)
-*One Blackfriars residents' gym*
+*Berkeley's CGI of the residents' gym at One Blackfriars*
 
 ![](http://35percent.org/img/obcinema.png)
-*One Blackfriars residents' cinema*
+*Berkeley's CGI of the residents' cinema at One Blackfriars*
 
 ![](http://35percent.org/img/obwinecellar.png)
-*One Blackfriars wine cellar*
+*Berkeley's CGI of the residents' wine cellar at One Blackfriars*
 
 ![](http://35percent.org/img/obmassageparlour.png)
-*One Blackfriars massage parlour*
+*Berkeley's CGI of the residents' massage parlour at One Blackfriars*
 
 ![](http://35percent.org/img/obpool.png)
-*One Blackfriars swimming pool*
+*Berkeley's CGI of the swimming pool at One Blackfriars*
 
 ![](http://35percent.org/img/viewingloungecs.png)
 *Extract from the [planning application documents](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!yEWdLLdNR%2bJj86NpOhjqfw%3d%3d!%7d%7d%7d)*
