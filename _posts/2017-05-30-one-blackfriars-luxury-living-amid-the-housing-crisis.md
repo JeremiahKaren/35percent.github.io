@@ -6,7 +6,7 @@ sharing: true
 footer: true
 published: true 
 ---
-Anyone troubled by the housing crisis can take comfort from **One Blackfriars**. Looming over the Thames like a wonky ice lolly, Berkeley Group's 50 storey glass tower will have 274 luxury homes, a 110-space multi-level car parking basement, a 152 room hotel, a gym, cinema, wine cellar. massage parlour, swimming pool and much else.
+Anyone troubled by the housing crisis can take comfort from **One Blackfriars** looming over the Thames like a wonky ice lolly on the former site of the [Blackfriars Rotunda](https://en.wikipedia.org/wiki/Blackfriars_Rotunda). Berkeley Group's 50 storey glass tower will have 274 luxury homes, a 110-space multi-level car parking basement, a 152 room hotel, a gym, cinema, wine cellar, massage parlour, swimming pool and much else.
 
 ![](http://35percent.org/img/obcgi.jpg)
 
