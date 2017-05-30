@@ -49,7 +49,7 @@ Leaving aside whatever sense sacrificing homes for viewing lounges makes, the [s
 *CGI of the 'public' viewing lounge submitted to Southwark's planning committee*  
 
 ![](http://35percent.org/img/executivelounge.png)
-*Extract from Berkeley's [sales brochure](http://35percent.org/img/oneblackfriarsbrochure.pdf) for One Blackfriars*
+*Extract from Berkeley's [sales brochure](http://35percent.org/img/oneblackfriarsbrochure.pdf) describing the public viewing lounge as an 'executive lounge - an exclusive private club'*
 
 ## Revolving doors
 
