@@ -1,13 +1,14 @@
 ---
 layout: page
-title: "One Blackfriars - luxury living amid the housing crisis"
+title: "One Blackfriars"
+subtitle: "Luxury living amid the housing crisis"
 sharing: true
 footer: true
 published: true 
 ---
-![](http://35percent.org/img/obcgi.jpg)
-
 Anyone troubled by the housing crisis can take comfort from **One Blackfriars**. Looming over the Thames like a wonky ice lolly, the Berkeley Group's 50 storey glass tower will have 274 luxury homes, a 110-space multi-level car parking basement, a 152 room hotel, a gym, cinema, wine cellar. massage parlour, swimming pool and much else.
+
+![](http://35percent.org/img/obcgi.jpg)
 
 [Planning application documents](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!yEWdLLdNR%2bJj86NpOhjqfw%3d%3d!%7d%7d%7d) for __One Blackfriars__ claim that the fatuous design of the building _"is inspired by both the sculptures of Brancussi, Henry Moore and 1950s Finnish glassware design"_ and the arty pretentions continue with interiors ['inspired'](https://www.berkeleygroup.co.uk/new-homes/london/southwark/one-blackfriars) by Thomas Gainsborough, JMW Turner and Barbara Hepworth. 
 
