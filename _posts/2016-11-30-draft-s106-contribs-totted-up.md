@@ -31,3 +31,5 @@ funded infrastructure is helping developers line their pockets.
 
 ## GLA chield yield
 GLA has a calculator to calculate the potential child yield from a development: [https://www.london.gov.uk/what-we-do/planning/implementing-london-plan/supplementary-planning-guidance/play-and-informal](https://www.london.gov.uk/what-we-do/planning/implementing-london-plan/supplementary-planning-guidance/play-and-informal)
+
+This article by Olly Wainwright contains a link to study showing that granting planning permission gifts £9bn to developers every year: https://www.theguardian.com/artanddesign/2017/may/31/housing-manifestos-conservatives-labour-lib-dems-homes
