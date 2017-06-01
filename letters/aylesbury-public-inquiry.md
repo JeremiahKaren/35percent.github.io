@@ -208,4 +208,5 @@ The [minutes of 10/03/2014 Overview and Scrutiny Committee](http://moderngov.sou
 
 In his [report](http://moderngov.southwark.gov.uk/documents/s44932/Officer%20Report%20-%20Comparison%20of%20Discretionary%20Assistance%20Given%20to%20Resident%20Leaseholders.pdf) to that Committee, the Principal Surveyor said _"Some  Councils  offer  equivalent  exchange  whereby  a  leaseholder  swops his/her property for another of the same value.  This has been considered but the properties being regenerated in this Borough tend to be at the lowest level of the value scale. There are unlikely to be similar equivalents that aren’t part of regeneration schemes so such an offer would be hollow. "_  
 
-
+## Rehousing options
+In his [evidence](http://crappistmartin.github.io/images/Mark_Maginn.pdf) to the site 7 CPO inquiry, Mark Maginn explains that leaseholders are assessed for rehousing on a 'cascade' basis; i.e. they are assessed to see if they can afford shared ownership before being considered for shared equity or other rehousing options. Given that shared ownership is much less attractive and more costly than shared equity, it is no surprise that only 10 of the over 200 leaseholders decanted have qualified for and taken up shared equity.
