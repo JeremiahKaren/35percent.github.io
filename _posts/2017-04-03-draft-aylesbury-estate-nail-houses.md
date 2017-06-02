@@ -20,3 +20,12 @@ The resident who died - Stefan Terrence Crossfield, 28 Arklow SE17 2BJ. TGL 2544
 Follows Mr Hilmi.
 
 phase 1a biomass promises broken.
+
+Creation displacement - majority of tenants rehoused in Walworth:
+https://twitter.com/creationSE17/status/859771179179102208
+
+Creation is funded by NHHT and chaired by Southwark's regen boss - hardly the 'voice of residents' it claims to be..
+
+NHHT Moody's bulletin says just 3% of its pipeline social rent.
+
+Nat Fed calls for flexibility in rents.
