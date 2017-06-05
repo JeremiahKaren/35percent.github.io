@@ -210,3 +210,19 @@ In his [report](http://moderngov.southwark.gov.uk/documents/s44932/Officer%20Rep
 
 ## Rehousing options
 In his [evidence](http://crappistmartin.github.io/images/Mark_Maginn.pdf) to the site 7 CPO inquiry, Mark Maginn explains that leaseholders are assessed for rehousing on a 'cascade' basis; i.e. they are assessed to see if they can afford shared ownership before being considered for shared equity or other rehousing options. Given that shared ownership is much less attractive and more costly than shared equity, it is no surprise that only 10 of the over 200 leaseholders decanted have qualified for and taken up shared equity.
+
+
+Request stock condition survey mentioned here: Paragraph  25  details  the  stock  condition  survey  undertaken  in  2010  which  has provided  the  most  robust  and  extensive  information  to date  on  the  state  of  the Council's  housing  stock. http://moderngov.southwark.gov.uk/documents/s19609/Report%20Housing%20investment%20programme%20and%20revised%20strategy.pdf
+
+Request details of rehousing:
+How many leaseholders rehoused as tenants? where? RSL etc?
+How many shared ownership/equity etc.
+Where did they go?
+
+Creation Trust displacement map for phase 2 - how many tenants rehoused on footprint? Where did leaseholders go?
+
+More detail on the two leaseholders who supposedly took up NHHT's P&R street properties  (see response to Cabinet question).
+
+NHHT social life survey
+
+Are there any reports required by the DPA that we can make a request for - or meetings of yearly scheduled meetings related to the DPA?
