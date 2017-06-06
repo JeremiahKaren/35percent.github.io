@@ -226,3 +226,8 @@ More detail on the two leaseholders who supposedly took up NHHT's P&R street pro
 NHHT social life survey
 
 Are there any reports required by the DPA that we can make a request for - or meetings of yearly scheduled meetings related to the DPA?
+
+Request tenure delivery information: has the AA checked what tenure was delivered on completed phases? it claimed to have done so at the Oct 2015 INquiry but we now know that was a lie. Has the AA completed audit and what are the results for phase 1a and site 7?
+
+Biomass? was it delivered?
+
