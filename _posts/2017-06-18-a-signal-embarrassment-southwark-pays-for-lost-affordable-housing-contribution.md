@@ -1,0 +1,22 @@
+---
+layout: post
+published: false
+title: >-
+  A Signal embarrassment - Southwark pays for lost affordable housing
+  contribution
+---
+## A New Post
+
+As most people know private developments are supposed to provide a certain amount of affordable housing, known as S106 contributions.  The Signal Building at the Elephant and Castle is one such development - twenty-two storeys, 38 residential units, with an S106 contribution of eleven affordable homes, all agreed when planning permission was granted in 2011.
+
+But in an extraordinary turn of events, Southwark Council's Cabinet has just agreed to set aside over £500,000 to pay the current leaseholders of nine of these 'affordable' properties, after alleging that they were wrongfully put onto the free-market.  Southwark then intends then to return them for use as affordable housing.
+
+Southwark has been pursuing a High Court claim aginst numerous defendants, including developers, a housing association and leaseholders.  While the case is due to begin between 5 and 7 July, scheduled to last 15 days, Southwark has set the money aside to '__facilitate settlement__' with the leaseholders.  Southwark's court claim gives open market values of between £650,000 and £795,000 for each of the properties.  If there should be no settlement Southwark is seeking damages of £1.98m.  Southwark has already reached a confidential settlement with the Lond District Housing Association (LDHA) and with '__entities__' from the Trademade group, who were involved in the development and financing of the scheme.
+
+This settlement follows a similiar one, again confidential, with LDHA and Trademark entities, known as Protected Growth Plan and PGP, after Southwark alleged that 25 more affordable homes on four other developents wrongly found their way on to the free market.  Two of the developments were the Jam Factory,Tower Bridge Rd, the others at South City Court,Peckham and Wanley Rd., Camberwell.  In it's High Court claim alleged '__sham__' documents were used for '__fraudulent__' purposes.  As reported in the Sinday Times in April, LDHA and Trademark denied Southwark's claims and they have not been proven in court.  The eventual settlement returned 17 units to affordable housing according to a quote from Southwark and an S106 agreement between Southwark and new affordable housing provider Heylo Housing for 16 units at the Jam Factory was signed on 4 April 2017.  35% Campaign understands that no damages have been paid to Southwark, who have said there has been no loss to the publci purse.  We have no information on the status of the eight 'affordable' housing units at South City Court and Wanley Rd.
+
+###Southwark's claim###
+
+The essence of Southwark's claim is all the allegations is that the part-buy/part-let affordable housing,  
+
+Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
