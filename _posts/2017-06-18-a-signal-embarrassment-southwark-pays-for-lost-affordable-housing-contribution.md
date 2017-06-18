@@ -18,9 +18,25 @@ This settlement follows a similiar one, again confidential, with LDHA and Tradem
 The essence of Southwark's allegations for all the sites was that the affordable housing, 
 was improperly __'stair-cased out'__ ie passed into full ownership and thus onto the open market, in an implausibly short length of time.  The usual period is 21 years, acording to approved Homes and Communities Agency leases.  In the Signal House court papers Southwark allege that three of the properties were purportedly __'stair-cased  out'__ in 2 days, two in 3 days, one in 4 days and another in 7 days [^2].  [The Sunday Times](https://www.thetimes.co.uk/article/affordable-housing-pledges-swept-under-mat-s5r7trv6g) reports that LDHA denied executing or knowing about any sham documentation.  Property Growth Plan are reported as saying they were not party to the original S1O6 agreements, was not bound by them and had not breached any law.
 
+###London District Housing Association###
+
+ __LDHA__, whose head office overlooks the Jam Factory, aggressively pursues every new development in zones 1-4, according to an industry source. Their [board report] claims they have placed 2500 units under offer in central London and have secured units in Southwark, Camden, Greenwich and other London boroughs. Formerly the __Faithland Housing Association__, __LDHA__ is not on the latest social landlord register. Their [website](http://www.londondha.com/) claims that they provide housing for service personal and key workers, giving particular emphasis to BME applicants. 
+
+![](/img/ldhascreenshot.png)
+
+__LDHA__ chair Phillip Butt and __LDHA__ director Sehaer Siddique, are former officers at Lambeth Living, Lambeth Council's housing management company. According to its Articles of Association, __Faithland Housing Association__ was incorporated at the same address as __Trademark Group__'s head office on Long Lane in Bermondsey. The address is located at Trademark's [__City Walk__ development](http://www.trademarkgroup.co.uk/portfolio/city-walk-london-se1-4pp/) that it developed in conjuction with a shell company called __Northcover Ltd__.
+
+###Trademark###
+
+According to its [website](http://www.trademarkgroup.co.uk), Trademark has delivered 4300 homes across 12 developments, all of which in Southwark - including joint ventures with Galliard's [Marcia St](http://www.trademarkgroup.co.uk/portfolio/marcia-road-london-se1-5xf/) development, Galliard's [City Walk](http://www.trademarkgroup.co.uk/portfolio/city-walk-london-se1-4pp/) scheme, the [Bacon Factory](http://www.trademarkgroup.co.uk/portfolio/the-bacon-factory-great-suffolk-street-london-se1-0bd/) and the [Canada Water regeneration](http://www.trademarkgroup.co.uk/portfolio/surrey-quays-leisure-centre-se16/). The City Walk scheme was [in the news](https://www.southwarknews.co.uk/news/dozens-bermondsey-families-billed-thousands-companys-dodgy-roofs-let-leaks/) last year after complaints of substandard construction.
+
 ###Neobrand limited, Neobrand No 2###
 
-The [named developer](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!dmSwvsIphYtbdUvdn3A09Q%3d%3d!%7d%7d%7d) of the Signal Building is Neobrand Limited, who a web search reveals to be [an estate agents in ](http://www.192.com/atoz/business/london-n20/estate-agents/neobrand-limited/96e72f73ac06593e62ed2e5afa6bcb30f07ca4f0/comp/)
+The [named developer](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!dmSwvsIphYtbdUvdn3A09Q%3d%3d!%7d%7d%7d) of the Signal Building is Neobrand Limited, who a web search reveals to be [an estate agents in ](http://www.192.com/atoz/business/london-n20/estate-agents/neobrand-limited/96e72f73ac06593e62ed2e5afa6bcb30f07ca4f0/comp/)Whetstone, north London.  A second Neobrand company, Neobrand No 2, is the named developer of 87 Newington Causeway, next door, but seperated by a railway line from the Signal Building. Both Neobrand companies share the same business address and company officers. Neobrand No 2 successfully obtained planning application for a 140-bed hotel, with 38 residential units, including 16 affordable units in Mar 2016.
+
+###Ombudsman's decison - an audit is required###
+
+The Signal Building and the Jam Factory were amongst the 42 developments that the 35% Campaign submitted in its complaint to the Local Government Ombudsman, that affordable housing from private developments was not being delivered.  The Ombudsman's summary conclusion, issued last November,  was that 'When imposing conditions for providing social housing through S106 agreements the coumcil failed to implement a structured procedure for supervising compliance'.  He added 'It has now begun a borough wide audit into compliance'.  The cases of the Jam Factory, Signal Building, South Court Central and Wanley St illustrate how urgently we need this audit.
 
 [^1] 1.2.1 pg 48
 [^2] High Court Claim No HC-2016-001745 para 48
