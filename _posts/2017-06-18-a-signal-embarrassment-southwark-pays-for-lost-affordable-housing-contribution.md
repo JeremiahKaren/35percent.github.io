@@ -18,7 +18,7 @@ This settlement follows a similiar one, again confidential, with LDHA and Tradem
 ###Southwark's claim###
 
 The essence of Southwark's claim is all the allegations is that the part-buy/part-let affordable housing,  
-was imprperly __'stair-cased out'__ ie passed into full ownership and thus onto the open market, in an implausibly short length of time.  The usual period 21 years, acording to approved Homes and Communities Agency leases.  In the Signal House court papers Southwark aalge that three of the properties were s
+was improperly __'stair-cased out'__ ie passed into full ownership and thus onto the open market, in an implausibly short length of time.  The usual period is 21 years, acording to approved Homes and Communities Agency leases.  In the Signal House court papers Southwark allege that three of the properties were __'stair-cased  out'__ in 2 days, two in 3 days, one in 4 days and another in 7 days.
 
 
 Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
