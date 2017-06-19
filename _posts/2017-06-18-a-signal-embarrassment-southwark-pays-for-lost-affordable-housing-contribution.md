@@ -1,11 +1,13 @@
 ---
 layout: post
 published: false
-title: 'A Signal embarrassment - Southwark pays for ''no cost'' affordable housing  '
+title: "A Signal embarrassment - Southwark pays for 'no cost' affordable housing"  '
 ---
 ## Private developer's affordable housing lost for years 
 
 As most people know private developments are supposed to provide a certain amount of affordable housing, called S106 contributions.  The Signal Building at the Elephant and Castle is one such development - twenty-two storeys, 38 residential units, with an [S106 contribution of eleven affordable homes](http://planbuild.southwark.gov.uk/documents/?casereference=09/AP/1940&system=DC), __'at no cost to the council'__ [^1] all agreed when planning permission was granted in 2011.
+
+![](http://media.rightmove.co.uk/dir/72k/71137/52949120/71137_SOU150150_IMG_06_0001_max_656x437.JPG)
 
 But in an extraordinary turn of events, Southwark Council's Cabinet is to [agree to set aside over £500,000](http://moderngov.southwark.gov.uk/mgIssueHistoryHome.aspx?IssueId=50013861&OptionNum=0&) to pay the current leaseholders of nine of these 'affordable' properties, after alleging that they were wrongfully put onto the free-market.  Southwark then intends then to return them for use as affordable housing.
 
@@ -40,5 +42,3 @@ The Signal Building and the Jam Factory were amongst the 42 developments that th
 
 [^1] 1.2.1 pg 48
 [^2] High Court Claim No HC-2016-001745 para 48
-
-Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
