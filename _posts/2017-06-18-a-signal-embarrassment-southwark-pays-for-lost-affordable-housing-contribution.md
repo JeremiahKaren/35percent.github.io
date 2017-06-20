@@ -55,7 +55,7 @@ The Signal Building and the Jam Factory were amongst the 46 developments that th
 
 ![](http://35percent.org/img/LGOFinalDecisionSOR.png)
 
-More importantly, when it does discover that planning conditions have been breached, the Council should take a firm stance, especially when 'sham transactions' and 'sham documents' are involved. Rolling over to the developers involved by purchasing the units off them in an out of court settlement is giving out the wrong signal. We say the Council should instead stand firm; it should pursue its injunction to return the units to their consented use and refer the matter not just to the housing association regulator (HCA) but also the police. 
+More importantly, when it does discover that planning conditions have been breached, the Council should take a firm stance, especially when allegedly 'sham transactions' and 'sham documents' are involved. Rolling over by purchasing the units in an out of court settlements is giving out the wrong signal. We say the Council should instead stand firm, pursue its court action to return the units to their consented use and refer the matter not just to the housing association regulator (HCA) but also to the police. 
 
 __Footnotes:__
 
