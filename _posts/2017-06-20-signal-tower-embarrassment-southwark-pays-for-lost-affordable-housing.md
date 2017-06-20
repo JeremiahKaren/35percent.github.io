@@ -50,7 +50,7 @@ The [named developer](http://planbuild.southwark.gov.uk/documents/?GetDocument=%
 ### Ombudsman's decison - an audit is required
 
 ![](/img/signalairbnb.png)
-*One of the supposedly affordable units at Signal Tower [advertised on AirBNB](https://www.airbnb.co.uk/rooms/5884272?eluid=1&euid=9384f973-2e49-9bc1-357d-99f753a87427)*
+*One of the 11 supposedly affordable housing units at Signal Tower [now advertised on AirBNB](https://www.airbnb.co.uk/rooms/5884272?eluid=1&euid=9384f973-2e49-9bc1-357d-99f753a87427)*
 
 The Signal Building and the Jam Factory were amongst the 46 developments that the 35% Campaign submitted in its [complaint](http://35percent.org/img/ccomplaint15Dec2016.pdf) to the Local Government Ombudsman, that affordable housing from private developments was not being delivered. Supposedly affordable units in the Signal Tower were being [openly advertised](https://www.airbnb.co.uk/rooms/5884272?eluid=1&euid=9384f973-2e49-9bc1-357d-99f753a87427) on AirBNB for £129 per night. The Ombudsman's summary [conclusion](http://35percent.org/2016-12-12-ombudsman-slams-southwark-for-no-s106-monitoring/), issued last November, was that _'When imposing conditions for providing social housing through S106 agreements, the council failed to implement a structured procedure for supervising compliance'_. He added _'It has now begun a borough wide audit into compliance'_. The cases of the Jam Factory, Signal Building, South Court Central and Wanley Rd illustrate how urgently we need this audit.
 
