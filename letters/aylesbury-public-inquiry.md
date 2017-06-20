@@ -216,6 +216,13 @@ How many shared ownership/equity etc.
 Where did they go?
 
 Creation Trust displacement map for phase 2 - how many tenants rehoused on footprint? Where did leaseholders go?
+34.
+
+Ask whether an agreement with the MoJ has been signed for the relocation of Ellison House - if so ask for a copy of the agreement.
+
+Ask whether the Council has sold any properties on the estate at auction. It is understood that the Council has bought back properties on later phases and subsequently sold them at auction rather than let them to temporary licencees.
+
+Ask for details on the leaseholder who died in Arlow. How did he die? was it result of environmental conditions - i.e. discontinuity in services - heating?
 
 More detail on the two leaseholders who supposedly took up NHHT's P&R street properties  (see response to Cabinet question).
 
@@ -227,3 +234,7 @@ Request tenure delivery information: has the AA checked what tenure was delivere
 
 Biomass? was it delivered?
 
+[2009 Toolkit](/img/ToolkitAylesburyLeaseholders2009.pdf)
+
+[Hilmi letter telling him qualifies for shared ownership](/img/hilmisharedownership.pdf)
+[Letter](/img/lettersenttowolvertonleaseholders.pdf) with Jane Seymour saying that re-housing offers will be withdrawn once CPO procedures start.
