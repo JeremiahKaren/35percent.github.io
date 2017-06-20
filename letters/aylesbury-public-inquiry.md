@@ -1,13 +1,17 @@
 ---
 layout: page
-title: "Phase 1b/1c revised CPO Inquiry"
+title: "Statement of Case (draft)"
+subtitle: "Aylesbury estate CPO (resumed) public inquiry 2017"
 ---
 
 ![](http://35percent.org/img/phase1baerial.png)  
 
-## Viability
-@. ODPM Circular 2005 says that the scheme underlying the order must be viable.
-Documents show that the Aylesbury scheme as envisaged is still not viable and that the viability gap is being bridged by shortchanging leaseholders. In Jan 2009, the [draft Aylesbury Area Action Plan](http://35percent.org/img/DraftAAAP.pdf) showed that there was a funding shortfall of £299m. 
+## The scheme underlying the Order is not viable and therefore not deliverable.
+@. ODPM Circular 2005 says that the scheme underlying the order must be viable and therefore deliverable. (quote 2005 ODPM)
+
+@. ODPM 2015 goes further to say "....."
+
+@. Documents submitted to the examination in public of the AAAP, show that the Aylesbury scheme as envisaged is still not viable and that the viability gap is being bridged by shortchanging leaseholders. In Jan 2009, the [draft Aylesbury Area Action Plan](http://35percent.org/img/DraftAAAP.pdf) showed that there was a funding shortfall of £299m. 
 
 ![Page 92 of the [appendices](http://35percent.org/img/DraftAAAP_appendices.pdf) to the [draft AAAP](http://35percent.org/img/DraftAAAP.pdf)](http://35percent.org/img/DraftAAAP_appendices.png)
 
@@ -19,12 +23,47 @@ Documents show that the Aylesbury scheme as envisaged is still not viable and th
 
 ![Extract from final adopted version of [Aylesbury Area Action Plan 2010](http://www.southwark.gov.uk/downloads/download/4444/area_action_plans) showing the funding gap](http://35percent.org/img/aaapfundinggap.png)
 
-@. The Council was expecting to cover the funding shortfall with government PFI funding and this is how the Area Action Plan was deemed sound at its Examination in Public. However, just under a year after the Area Action Plan was adopted, the government [withdrew](http://www.theguardian.com/society/2010/dec/26/cut-regeneration-tony-blair-housing) all PFI funding for the scheme. 
+@. The Acquiring Authority was expecting to cover the funding shortfall with government PFI funding and this is how the Area Action Plan was deemed sound at its Examination in Public. However, just under a year after the Area Action Plan was adopted, the government [withdrew](http://www.theguardian.com/society/2010/dec/26/cut-regeneration-tony-blair-housing) all PFI funding for the scheme. 
 
-## Credit rating downgrade
-@. In June 2016 NHHT was [downgraded](http://35percent.org/img/nhhtmoodys.pdf) by credit agency Moodys. The Moodys downgrade mentioned NHHT's significant development pipeline and listed its largest three projects; Aylesbury estate, Canada Water and a scheme in Hounslow. It said that the capital expenditure to revenues ratio would average 49% over the next five years, but this is based on the figure given of 7% social rented tenure. So the replacement 'social' homes on the FDS must have been included in these figures as affordable rent. To conclude: Moody's capex to revenue ratio must have been based on the provision of affordable rent not social rent. Had it been based on social rent then the capex to revenue ratio would have been much higher. So either Moodys have been given incorrect info on the tenure mix of NHHT's pipeline or the replacement 'social' homes on the Aylesbury will be affordable rent..
+@. The Acquiring Authority has rejected calls for it to publish its viability assessment for the scheme underlying the Order. In response to the requirement to show "general funding sources..." the Acquiring Authority has argued that its development partner NHHT will make up for the funding shortfall using reserves from its £xxm surplus. The Objectors submit that this would have knock-on effects on its credit rating and negatively affect its borrowing costs. NHHT is due to experience substantial debt growth over the next fiver years, rising from £1.3m in 2016 to £2.3bn in 2021. According to credit rating agency Moodys, over the next five years, growth in interest expense will outpace growth in surpluses. 
+
+@. In June 2016 NHHT was [downgraded](http://35percent.org/img/nhhtmoodys.pdf) by Moodys. Moodys' downgrade notice mentioned NHHT's significant development pipeline and its three major schemes; the Aylesbury estate, Canada Water and a scheme in Hounslow. 
+
+@. The Moodys report states that just 7% of the homes in NHHT's pipeline are social rent. So the replacement 'social' homes on the FDS must have been included in these figures as affordable rent. To conclude: Moody's capex to revenue ratio must have been based on the provision of affordable rent not social rent. Had it been based on social rent then the capex to revenue ratio would have been much higher. So either Moodys have been given incorrect info on the tenure mix of NHHT's pipeline or the replacement 'social' homes on the Aylesbury will be affordable rent..
 
 ![Extract from Moodys downgrading [announcement](http://35percent.org/img/nhhtmoodys.pdf)](http://35percent.org/img/nhhtmoodys.png)  
+
+@. In paragraph xxx of its Statement of Case, the Acquiring Authority has inferred that the Scheme has received funding from the GLA. However, its £26m? funding allocation under the GLA's 2014-16? Affordable Homes Programme is now compromised by the fact that phasing for the FDS has been delayed and will not be completed until 2024 [(See here)](http://moderngov.southwark.gov.uk/documents/s68300/Appendix%202%20Draft%20development%20agreement.pdf) (funding requirement is that the scheme is completed before March 2019?). 
+
+@. In paragraph xxx of its Statement of Case, the Acquiring Authority has asserted that £76m of its own funds have been set aside for the scheme over the next five years. However, it does not explain that this covers only site assembly - i.e. leaseholder compensation, decant and rehousing costs, demolition etc. Given that there is no funding for construction of the Scheme, then it cannot be claimed to be viable at the consented tenure mix. 
+
+@. The Moodys downgrade report confirmed that on average NHHT is delivering 7% social rented housing across schemes in its current pipeline and this is despite NHHT having received record levels of funding (£92m - GLA?). 
+
+@. The Objectors submit that in the absence of dedicated government or GLA funding to replace the PFI funding anticipated at the time the AAAP was drafted, the minimum 37.5% social rented housing across the Aylesbury scheme us undeliverable.
+
+@. The Objectors submit that if the Order as it stands is confirmed, then the shortfall will be made up both by continuing to shortchange leaseholders and passing off affordable rented tenure as social rent.
+
+@. This has indeed been the fate of several other schemes completed by NHHT. It was shown at the previous inquiry how NHHT had delivered affordable rented homes at up to 62% market rent at its Bermondsey Spa regeneration, when social rent was agreed in the DPA, planning committee report and section 106 agreement.
+
+@. The same is true of NHHT's regeneration of the xxx estate in neighbouring Lambeth. This was ......
+
+Affordable rent was introduced in 2011 to allow housing associations to charge higher rents (up to 80% market rent) to its tenants. The mayor has recently introduced several other social housing tenures, including 'London Living Rent' and 'London Affordable Rent'.  
+The AAAP specifically requires that a minimum 37.5% of the new homes must be social rent. At the time the AAAP was drafted social rent was the only rented social housing tenure. The AAAP predates affordable rent and the other new tenures that have been created. The AAAP specifically states its aim as to help 'most vulnerable' to remain in area - to rehouse tenants on the estate footprint etc. and this is why it specified such a high proportion of social rented homes that would guarantee remained affordable for existing tenants.
+
+Given the deregulation of the housing association sector which has ensued after the AAAP was adopted, it is no surprise that existing Aylesbury tenants are not taking up the replacement 'social housing' on the completed phases. Of the xxx tenants decanted from the FDS, only xx have been rehoused on the footprint and of the xxx decanted from the next phase  (phase 2) only 34 have been rehoused on the footprint. 
+
+The fear over rising housing association rents is exacerbated not just by the sudden deregulation of the sector but also fierce lobbying by housing association to be able to increase rents as they see fit. 
+
+NHHT is one of the most active lobbyists among housing associations. In 2007, its CEO Kate Davies - then a member of the thinktank CSJ along with Iain Duncan Smith, co-authored a paper in which she wrote:
+
+>"State provided solutionss...
+
+>"Housing associations should be free to set their own rent..
+
+In 2011, when the government introduced its controversial affordable rent tenure, allowing social rents to be increased to up to 80% market rent, NHHT wrote in its official response to the govt consultation:
+
+>"bla bla we really support this" 
+
 
 ## DPA provisions breached
 @. NHHT has breached various provisions in the DPA including its obligation to purchase 5 street properties that it was to offer on shared equity terms to leaseholders in phase 1b/1c. The Council claims in its response to our Cabinet question that NHHT has indeed provided 2 such properties to leaseholders on the FDS. We should seek more details of this and ask why these were not offered to Beverley and Agnes.
@@ -42,14 +81,16 @@ Documents show that the Aylesbury scheme as envisaged is still not viable and th
 
 @. NHHT is also now [reducing](http://www.aylesburynow.london/news/posts/extra-affordable-homes-for-aylesbury-regeneration) the number of affordable units in plot 18, its first phase of development to be completed on the estate. It is moving these to be delivered instead on the FDS. Note that the [9 May Cabinet report](http://moderngov.southwark.gov.uk/documents/s68298/Report%20Aylesbury%20Regeneration%20Programme%20Delivery.pdf) announced a change of phasing: the FDS has been swapped with plot 18 - i.e. the FDS will instead be the second phase of development completed by NHHT after plot 18. Fresh planning applications for both sites are expected shortly.
 
-## Deliverability
+@. The Objectors submit that the number of social housing units on plot 18 has been reduced as a result of viability issues. The Objectors submit that this will be the fate of the FDS.
+
+## The scheme will not be delivered in a reasonable time period 
+@. Circular ODPM/2005 says that there needs to be evidence that the scheme underlying the Order will be completed in a 'reasonable' time period; we need to look up case identifying how 'reasonable time period' is to be interpreted.
+
 @. Show how [Wood Dene estate](http://35percent.org/wood-dene-estate-regeneration/) was demolished in 2007 and how NHHT has [left the site empty](https://www.southwarknews.co.uk/news/notting-hill-admits-wood-dene-estate-peckham-wont-rebuilt-2019-thirteen-years-demolition/) for 10 years without building any new homes. This will be the future of phase 1b/1c.  
 
 ![](http://35percent.org/img/nhhtwooddeneadmission.png)  
 
 @. The DPA says that the FDS will be completed by 2021, but NHHT have now put this back to 2024. See [here](http://moderngov.southwark.gov.uk/documents/s68300/Appendix%202%20Draft%20development%20agreement.pdf).
-
-@. Circular ODPM/2005 says that there needs to be evidence that the scheme underlying the Order will be completed in a 'reasonable' time period; we need to look up case identifying how 'reasonable time period' is to be interpreted.
 
 ## Tenure switch
 @. Submit copy of [Southwark's evidence](http://crappistmartin.github.io/images/CPO_ExplanatoryNote12May2015.pdf) from previous Inquiry where they claim to have robust S106 monitoring procedures.
@@ -82,6 +123,8 @@ Documents show that the Aylesbury scheme as envisaged is still not viable and th
 @. Show HCA/GLA stats showing how many thousands of homes NHHT has converted to affordable rent. 
 
 ## Refurb/Alternative to scheme underlying the CPO 
+
+Work out how much AA receives in rental income from tenants on the estate. Say it should use this on refurb/maintenance instead of £100k salaries for PR managers (Tony Mainwairing). 
 
 ![](http://35percent.org/img/wendcomp.jpg)  
 
@@ -227,6 +270,8 @@ Ask for details on the leaseholder who died in Arlow. How did he die? was it res
 More detail on the two leaseholders who supposedly took up NHHT's P&R street properties  (see response to Cabinet question).
 
 NHHT social life survey
+
+Check DPA and ask for viability review of plot 18 - i.e. the viability assessment showing it is viable.
 
 Are there any reports required by the DPA that we can make a request for - or meetings of yearly scheduled meetings related to the DPA?
 
