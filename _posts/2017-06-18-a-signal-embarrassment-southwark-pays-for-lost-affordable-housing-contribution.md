@@ -5,7 +5,7 @@ title: >-
   A Signal embarrassment - Southwark pays out instead of enforcing planning
   conditions
 ---
-Most people are aware that private developments are supposed to provide a certain amount of affordable housing, called S106 contributions. The Signal Building at the Elephant and Castle is one such development - 22 storeys, 38 residential units, with an [S106 contribution of 11 affordable homes](http://planbuild.southwark.gov.uk/documents/?casereference=09/AP/1940&system=DC), agreed to be provided __'at no cost to the council'__ [^1] when planning permission was granted in 2011.
+Most people are aware that private developments are supposed to provide a certain amount of affordable housing, called S106 contributions. The Signal Building at the Elephant and Castle is one such development - 22 storeys, 38 residential units, with an [S106 contribution of 11 affordable homes](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!AbiyPE%2bVUzxeZA4%2b7nxosA%3d%3d!%7d%7d%7dagreed), to be provided __'at no cost to the council'__ [^1] when planning permission was granted in 2011.
 
 ![](http://media.rightmove.co.uk/dir/72k/71137/52949120/71137_SOU150150_IMG_06_0001_max_656x437.JPG)
 
