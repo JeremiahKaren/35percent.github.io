@@ -1,13 +1,15 @@
 ---
 layout: post
 published: false
-title: "A Signal embarrassment - Southwark pays out instead of enforcing planning conditions"
+title: >-
+  A Signal embarrassment - Southwark pays out instead of enforcing planning
+  conditions
 ---
 Most people are aware that private developments are supposed to provide a certain amount of affordable housing, called S106 contributions. The Signal Building at the Elephant and Castle is one such development - 22 storeys, 38 residential units, with an [S106 contribution of 11 affordable homes](http://planbuild.southwark.gov.uk/documents/?casereference=09/AP/1940&system=DC), agreed to be provided __'at no cost to the council'__ [^1] when planning permission was granted in 2011.
 
 ![](http://media.rightmove.co.uk/dir/72k/71137/52949120/71137_SOU150150_IMG_06_0001_max_656x437.JPG)
 
-But in an extraordinary turn of events, Southwark Council's Cabinet is [set to pay around £200k each](http://moderngov.southwark.gov.uk/documents/s69255/Report%20Acquisition%20of%20up%20to%209%20sub-Leasehold%20properties%20at%20the%20Signal%20Building%2089%20-%2093%20Newington%20Ca.pdf) to return 9 of the 11 units to affordable housing, after claiming that they had been sold by the Housing Association and developer concerned in a series of 'sham transactions'. 
+But in an extraordinary turn of events, Southwark Council's Cabinet is [set to pay around £200k each](http://moderngov.southwark.gov.uk/documents/s69255/Report%20Acquisition%20of%20up%20to%209%20sub-Leasehold%20properties%20at%20the%20Signal%20Building%2089%20-%2093%20Newington%20Ca.pdf) to return 9 of the 11 units to affordable housing, after alleging that they had been sold by the Housing Association and developer concerned in a series of 'sham transactions'. 
 ![](/img/shamtransacts.png)
 *Extract from the Council's [court claim](/img/ahugget15062017.pdf) against the housing association and developer*
 
