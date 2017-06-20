@@ -31,7 +31,7 @@ was improperly __'stair-cased out'__; i.e. passed into full ownership and thus o
 
 ###London District Housing Association###
 
-London District Housing Association (__LDHA__) is the housing association involved in the alleged scam. Its head office overlooks the Jam Factory, and it aggressively pursues every new development in zones 1-4, according to an industry source. LHDA's board report claims they have placed 2500 units under offer in central London and have secured units in Southwark, Camden, Greenwich and other London boroughs. Formerly the __Faithland Housing Association__, __LDHA__ is not on the latest social landlord register. Their [website](http://www.londondha.com/) claims that they provide housing for service personal and key workers, giving particular emphasis to BME applicants. 
+London District Housing Association (__LDHA__) formerly the __Faithland Housing Association__is the housing association involved in the alleged scam. Its head office overlooks the Jam Factory, and it aggressively pursues every new development in zones 1-4, according to an industry source. LHDA's board report claims they have placed 2500 units under offer in central London and have secured units in Southwark, Camden, Greenwich and other London boroughs.  Their [website](http://www.londondha.com/) claims that they provide housing for service personal and key workers, giving particular emphasis to BME applicants. 
 
 ![](/img/ldhascreenshot.png)
 
