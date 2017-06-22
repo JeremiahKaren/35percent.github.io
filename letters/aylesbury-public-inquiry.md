@@ -73,7 +73,7 @@ Policy PL5 (Open Space) of the AAAP says:
 
 @. Furthermore, the majority of the replacement open space will be privately managed. Only a small amount will be public open space adopted by the Council and most of this comprises just pavement on the perimeter of the new development.
 
-![Extract from FDS planning application [supporting docs](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!QQdTMy1vDORvNdggcfRdjw%3d%3d!%7d%7d%7d)](/img/aylesburyopenspaces.png)
+![Extract from FDS planning application docs 15/AP/4584](/img/aylesburyopenspaces.png)
 
 ### Scheme in breach of private amenity space requirements
 @. Policy PL7 of the AAAP says:
