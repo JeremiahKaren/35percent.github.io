@@ -95,6 +95,8 @@ this is an ambitious target to meet in a highly urbanised area
 
 @. The AAAP doesn't say what the tariff is.. it says that details of the tariff will be published in an SPD but I can't find any such SPD..
 
+The main features of the objectives of the scheme underlying the CPO is the provision of an improved ..... Given that the proposed scheme will no longer achieve these objectives, the Order should not be confirmed. 
+
 ## The scheme underlying the Order is not viable and therefore not deliverable.
 @. ODPM Circular 2005 says that the scheme underlying the order must be viable and therefore deliverable. (quote 2005 ODPM)
 
@@ -214,6 +216,17 @@ In 2011, when the government introduced its controversial affordable rent tenure
 
 Work out how much AA receives in rental income from tenants on the estate. Say it should use this on refurb/maintenance instead of £100k salaries for PR managers (Tony Mainwairing). 
 
+Perhaps make the argument that the AAAP was drawn up before significant improvement works were undertaken and that given the extent of these works undertaken in the meantime, the estate is now less needy of redevlopment than it was at the time of the AAAP.
+
+Southwark Council's own report in 2015, carried out by by the council's Principal Design and Technical officer Catherine Bates, said, "The condition of the buildings on the estate does not, itself, present a case for demolition and redevelopment."
+
+Inspector should discount the current condition of buildings on the Order Land
+Any actual or perceived failure in the local housing market that may exist is partly attributable to, or in the alternative has been exacerbated by, the activities of the Acquiring Authority and its partners. Therefore no reliance can be placed upon the Acquiring Authority’s evidence in this respect. Properties that have already been purchased voluntarily by the Acquiring Authority, or by its development partners, have not been occupied subsequent to their acquisition. Instead, they have been secured but left in a manner which fosters an impression of dereliction and decay, with consequent blighting effects, under which ambitions for compulsory purchase of additional land might be considered to be more readily achievable. The Acquiring Authority has therefore attempted to present a fait accompli. Accordingly the Inspector cannot place any reliance on circumstances created by the Acquiring Authority. Further, these properties have not been demolished, thus implying a lack of confidence in the scheme underlying the CPO on the part of the Acquiring Authority or its development partners. 
+
+Quote from the Housing Commission HINES estates data showing only half of estate's homes fail to meet DHS.
+
+Get info on fire safety works.
+
 ![](http://35percent.org/img/wendcomp.jpg)  
 
 @. [This report](http://moderngov.southwark.gov.uk/documents/s56449/Report%20Major%20works%20status%20report%20incorporating%20Warm%20Dry%20and%20Safe.pdf) describes different funding for DHS works, including the 'GLA Backlog fund' and the [accompanying appendices](http://moderngov.southwark.gov.uk/documents/s56450/Appendices%201%20-%204%20Major%20works%20status%20report%20incorporating%20Warm%20Dry%20and%20Safe.pdf) show that the Four Squares estate (a High Investment Needs estate) was brought up to DHS for just £12m. Work out how much this is per unit and also show similar comparables.
@@ -227,6 +240,8 @@ Work out how much AA receives in rental income from tenants on the estate. Say i
 @. Appendix 6 of the Cabinet item shows the Aylesbury as not being the most costly of the estates. We could find out the actual costs of other estates on the list and do a comparison. Here's the [link to appendix 6](http://moderngov.southwark.gov.uk/documents/s19628/Appendix%206%20List%20of%2015%20High%20Investment%20Needs%20Estates.pdf)
 
 @. Southwark has in any case already [committed £12.5m to Major Works](http://35percent.org/img/Aylesbury-Phase-2-newsletter-February-2017-JH.pdf) bringing homes on phase 3/4 of the estate up to Decent Homes Standard.
+
+An alternative scheme (referred to as ‘Plan B’ in the Statement of Reasons for making the CPO) has been promoted by a group of local stakeholders, using the acronym xxx. The scheme proposed by xxx is clearly superior to that of the Acquiring Authority. It would require less funding, would be less intrusive and would meet the Acquiring Authority’s objective of achieving an improved
 
 ## PSED
 @. The only Equalities Assessment conducted on the scheme to date (the [2009 EqIA which accommpanied the AAAP](http://35percent.org/img/EqualitiesImpactAssessment.pdf)), relied upon the mitigation measures in place at the time for leaseholders- i.e. the rehousing options enshrined in the Council's [2006 rehousing policy](http://www.southwark.gov.uk/download/downloads/id/1850/executive_report) which included the like-for-like 'propery swap' for leaseholders. The 2006 policy and the Council's [Handbook for leaseholders](https://www.whatdotheyknow.com/request/331856/response/818864/attach/3/64145%20RedR%20Homeowner.pdf) clearly state the 'property swap' as one of the available rehousing options:
@@ -294,3 +309,8 @@ Biomass? was it delivered?
 
 [Hilmi letter telling him qualifies for shared ownership](/img/hilmisharedownership.pdf)
 [Letter](/img/lettersenttowolvertonleaseholders.pdf) with Jane Seymour saying that re-housing offers will be withdrawn once CPO procedures start.
+
+Conclusion:
+In summary, the Acquiring Authority action in making the CPO is oppressive, it has no statutory powers compulsorily to acquire the Objector’s land or to develop a highway as the principal element of the regeneration proposals. The Acquiring Authority has also failed to comply with several requirements identified in Circular 06/2004. If, contrary to the above, the CPO is confirmed, it is clearly vulnerable to further challenge in the High Court under s.23 of the Acquisition of Land Act 1981, which could result in the CPO being quashed.
+
+The CPO should therefore be withdrawn forthwith to avoid any further wasted costs.
