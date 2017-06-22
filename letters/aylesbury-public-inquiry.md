@@ -45,7 +45,7 @@ Policy A6.5.7 envisages that this will be achieved using a series of 'green fing
 
 >"A series of ‘green fingers’ will be created, extending from Burgess Park into the action area core interlinking the park with the development. Their predominant function is that of a public space with social interaction, pedestrian and cycle movement dominating."
 
-Besides enabling daylight, the AAAP envisages that the green fingers will provide emergency access routes for emergency services and _"provide an important part of the overall public open space in the AAP area. They will extend Burgess Park into the residential development, allowing people to move easily from their homes to the park. They will also enable many more homes to have a frontage along pleasant green spaces. The green fingers will provide a range of functions including children’s play areas, water management and pedestrian and cycle movement."_ (policy 4.2.6)
+Besides enabling daylight, the AAAP envisages that the green fingers will provide access for emergency services and _"provide an important part of the overall public open space in the AAP area. They will extend Burgess Park into the residential development, allowing people to move easily from their homes to the park. They will also enable many more homes to have a frontage along pleasant green spaces. The green fingers will provide a range of functions including children’s play areas, water management and pedestrian and cycle movement."_ (policy 4.2.6)
 
 ![Extract from the AAAP](/img/greenfingerintersections.png)
 
@@ -53,7 +53,13 @@ Besides enabling daylight, the AAAP envisages that the green fingers will provid
 
 ![Extract from AAAP](http://35percent.org/img/fdsgreenfingers.png)
 
+![integrate this with above image](/img/aaaplegend.png)
+
 However, the planning application for the FDS Scheme and the outline masterplan have dropped the green fingers and the Westmoreland Plaza open spaces in their entirety. 
+
+![NHHT's model form its planning application for the FDS](/img/fdsmodel.jpg)
+
+The removal of the plaza and green finger from the Scheme means that the propsals for the order land will now suffer from the very problems that the AA has attributed to the estate in its grounds for redevelopment - lack of permeability, dark alleyways etc.
 
 
 
