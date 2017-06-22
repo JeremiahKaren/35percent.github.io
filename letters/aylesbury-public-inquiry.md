@@ -96,14 +96,6 @@ Do the houses all have gardens and are they all 10m in length?
 
 @. How many of the homes in the new FDS application are due to be dual aspect?
 
-
-
-### Scheme in breach of cycling requirements
-@. The New Southwark Plan (the Council's strategic planning framework) says that there will be a 'Southwark Spine', dedicated cycle route running North/South through the borough and passing through the middle of the new Aylesbury estate. But this was not included in the masterplan application.
-
-@. Also to my knowledge, the previous FDS application didn't include any segregated cycle routes - we need to see what the new application says about cycle routes.
-
-
 ### Scheme in breach of Play Space requirements
 @. Policy PL6 of the AAAP says _"All development proposals must provide 10sqm of children’s play space / youth space per child bed space. Doorstep playable space should be provided within each of the housing blocks, whilst larger local playable spaces should be provided within selected housing blocks and within the green fingers and existing local parks, in accordance with Figure 12. New youth space should be provided within the larger areas of public open space."_
 
