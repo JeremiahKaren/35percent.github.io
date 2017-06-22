@@ -49,11 +49,11 @@ Besides enabling daylight, the AAAP envisages that the green fingers will provid
 
 ![Extract from the AAAP](/img/greenfingerintersections.png)
 
-@. The AAAP diagram for the order land shows the community spine (3), one of the green fingers dissecting the FDS (10) and Westmoreland Plaza (9) on the order land, but these were not included in the existing FDS planning consent. Does the new application include these?
+@. The AAAP diagram for the order land shows one of the green fingers dissecting the FDS (10) and a second open space, Westmoreland Plaza (9) on the order land, but these were not included in the FDS planning consent.
 
 ![Extract from AAAP](http://35percent.org/img/fdsgreenfingers.png)
 
-However, the planning application for the FDS Scheme and the outline masterplan have dropped the green fingers entirely. 
+However, the planning application for the FDS Scheme and the outline masterplan have dropped the green fingers and the Westmoreland Plaza open spaces in their entirety. 
 
 
 
@@ -66,10 +66,6 @@ However, the planning application for the FDS Scheme and the outline masterplan 
 
 ### Scheme in breach of public realm requirements
 @. The AAAP says that there will be a 21 metre-wide 'community spine' running east to west through the site. This will provide a cycle and pedestrian route throughout the entire site, connecting the new community facilities to the Walworth road. It also says there will be three 'green fingers' extending in to the estate from Burgess Park, providing public green space and pedestrian/cycle access. Furthermore it lists a public plaza 'Westmoreland Rd Plaza' on the order land.
-
-![Extract from AAAP](http://35percent.org/img/communityspine.png)
-
-
 
 @. The New Southwark Plan (the Council's strategic planning framework) says that there will be a 'Southwark Spine', dedicated cycle route running North/South through the borough and passing through the middle of the new Aylesbury estate. But this was not included in the masterplan application.
 
