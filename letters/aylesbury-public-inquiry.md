@@ -57,11 +57,37 @@ Besides enabling daylight, the AAAP envisages that the green fingers will provid
 
 However, the planning application for the FDS Scheme and the outline masterplan have dropped the green fingers and the Westmoreland Plaza open spaces in their entirety. 
 
-![NHHT's model form its planning application for the FDS](/img/fdsmodel.jpg)
+![Extract from Design & Access Statement [CD43]](/img/fdsmodel.jpg)
 
-The removal of the plaza and green finger from the Scheme means that the propsals for the order land will now suffer from the very problems that the AA has attributed to the estate in its grounds for redevelopment - lack of permeability, dark alleyways etc.
+The removal of the plaza and green finger from the Scheme means that the propsals for the order land will now suffer from the very problems that the AA has attributed to the estate in its grounds for redevelopment - lack of permeability, dark alleyways etc and will not enable the AAAP's objective of creating better quality open space/public realm. Moreover, the consented scheme will result in a significant net loss of open space.
 
 
+### Scheme in breach of Open Space requirements
+Policy PL5 (Open Space) of the AAAP says:
+
+>"New development must provide a high quality network of public open spaces of different sizes and functions which link well together and contain good pedestrian and cycling routes."
+
+@. Policy 4.5.1 of the AAAP envisages no net loss of open space, but the approved masterplan application (ref:14/AP/3844) acknowledges that there will be a net loss of 1.8 hectares of open space:
+
+![Extract from the planning committee report for the masterplan application.](http://crappistmartin.github.io/images/aylesburygreenspace.png)
+
+@. Furthermore, the replacement open space will be gated - see Harvard Gardens.
+
+Scheme in breach of private amenity space requirements
+@. Policy PL7 of the AAAP says:
+
+>"All development must contain high quality private open space in the form of communal gardens, private gardens and useable balconies.
+The design of communal gardens should comply with the guidance in Appendix 6."
+
+The appendix 6 refererred to in appendix 6 says:
+
+>"All dwellings must have direct access to private open spaces, whether in the form of a garden, roof garden, courtyard or balcony. 1/2 bedroom dwellings must have a minimum of 6 sqm of private amenity space. Larger dwellings should aim to meet the minimum standards set out in the Residential Design Standards SPD."
+
+The Residential Design Standards SPD requires 3 bed flats to have a minimum of 10sqm and _"For new housing, a minimum of 50sqm of private garden spaces is required and this should be at least 10m in length. The private gardens should extend across the entire width of the dwellings."_
+
+Do the houses all have gardens and are they all 10m in length?
+
+(table pg 40 of Planning Statement showing requirements.)
 
 
 @. Policy A6.7.8 of the AAAP says _"At least 75% of apartments in each development should have dual aspect."_
@@ -70,24 +96,18 @@ The removal of the plaza and green finger from the Scheme means that the propsal
 
 
 
-### Scheme in breach of public realm requirements
-@. The AAAP says that there will be a 21 metre-wide 'community spine' running east to west through the site. This will provide a cycle and pedestrian route throughout the entire site, connecting the new community facilities to the Walworth road. It also says there will be three 'green fingers' extending in to the estate from Burgess Park, providing public green space and pedestrian/cycle access. Furthermore it lists a public plaza 'Westmoreland Rd Plaza' on the order land.
-
+### Scheme in breach of cycling requirements
 @. The New Southwark Plan (the Council's strategic planning framework) says that there will be a 'Southwark Spine', dedicated cycle route running North/South through the borough and passing through the middle of the new Aylesbury estate. But this was not included in the masterplan application.
 
 @. Also to my knowledge, the previous FDS application didn't include any segregated cycle routes - we need to see what the new application says about cycle routes.
 
-### Scheme in breach of Open Space requirements
-@. Policy 4.5.1 of the AAAP envisages no net loss of open space, but the approved masterplan application (ref:14/AP/3844) acknowledges that there will be a net loss of 1.8 hectares of open space:
-
-![Extract from the planning committee report for the masterplan application.](http://crappistmartin.github.io/images/aylesburygreenspace.png)
-
-@. Also, the replacement open space will be gated - see Harvard Gardens.
 
 ### Scheme in breach of Play Space requirements
 @. Policy PL6 of the AAAP says _"All development proposals must provide 10sqm of children’s play space / youth space per child bed space. Doorstep playable space should be provided within each of the housing blocks, whilst larger local playable spaces should be provided within selected housing blocks and within the green fingers and existing local parks, in accordance with Figure 12. New youth space should be provided within the larger areas of public open space."_
 
 @. What does the new FDS application say about open space and play space?
+
+Here's a link to the environmental statement: http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!pMsWP8tiTauKMmiQZaV9cQ%3d%3d!%7d%7d%7d
 
 ### Scheme in breach of Mixed use/retail requirements
 @. AAAP policy __'COM6'__ says that the Scheme must _"Provide 1,750 square metres of new local retail facilities (convenience retail, cafes and restaurants) within the action area core"._
