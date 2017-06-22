@@ -202,6 +202,10 @@ The Council has [argued](http://www.southwark.gov.uk/news/article/2041/brand_new
 In conclusion, the Aylesbury redevelopment is not viable. It is only being made viable via a combination of huge public subsidy from the Council, shortchanging the leaseholders and substituting social for affordable rented tenure.
 
 ## Environment/Sustainability
+
+![Aylesbury estate open space](/img/phase1baerial.png)
+*Generous existing green open space that will not be replaced*
+
 The Aylesbury estate masterplan outline planning application gave consent for a total of 1,378 parking spaces in the new development, equating to four out of ten new households with parking.[^3]
 
 The [officer's report](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!Vbu5QpckfYCnJrulzlWyuQ%3d%3d!%7d%7d%7d) for the Aylesbury masterplan application also confirms that there will be a net loss of 1.8 hectares of open space as a result of the redevelopment:
@@ -210,8 +214,8 @@ The [officer's report](http://planbuild.southwark.gov.uk/documents/?GetDocument=
 
 Further, the new open spaces in the development will not be public open spaces adopted by the council; they will be privately owned and managed by a subsidiary of Notting Hill Housing Group. 
 
-![Aylesbury estate open space](/img/phase1baerial.png)
-*Generous existing green open space that will not be replaced*
+![](/img/aylesburyopenspaces.png)
+*Extract from [planning application docs](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!QQdTMy1vDORvNdggcfRdjw%3d%3d!%7d%7d%7d)*
 
 ## Aylesbury diaspora
 Loretta Lees, a leading professor of Human Geography has [published](http://theconversation.com/camerons-sink-estate-strategy-comes-at-a-human-cost-53358) a study researching the displacement of Aylesbury estate tenants as a result of the regeneration. 
