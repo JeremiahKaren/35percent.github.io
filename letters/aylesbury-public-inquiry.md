@@ -41,7 +41,7 @@ Paragraph 5.223 of NHHT's planning statement explains that one of the reasons fo
 
 >"The frontage along Burgess Park must include a strong building line, allow for a range of heights and massing and include excellent architectural design. The park front should be designed to allow for light into rear courtyards and allow for views and glimpses from the park into the areas beyond the immediate front."
 
-Policy A6.5.7 envisages that this will be achieved using a series of 'green fingers': 
+Policy A6.5.7 envisages that this will be achieved using a series of 'green fingers' - _"a series of multi-functional spaces that link with Burgess Park"_ : 
 
 >"A series of ‘green fingers’ will be created, extending from Burgess Park into the action area core interlinking the park with the development. Their predominant function is that of a public space with social interaction, pedestrian and cycle movement dominating."
 
@@ -117,6 +117,10 @@ Here's a link to the environmental statement: http://planbuild.southwark.gov.uk/
 @. How much retail is being provided in the new FDS planning application? is it proportionate to achieving the 1,750 sqm across the masterplan site as a whole?
  
 ### Scheme in breach of Density requirements
+The AAAP says that this is the anticipated phasing strategy:
+
+![Extract from AAAP](/img/anticipatedphasing.png)
+
 @. The AAAP says _"The HCA has also recently admitted Aylesbury phases 2 and 3 to round 6 of the government backed Private Finance Initiative (PFI). Under this programme it is proposed that the council will effectively deliver 1000 new homes of which around 400 will be affordable council owned new homes"_.  
 
 @. We know that the HCA PFI finance was scrapped shortly after the AAAP was adopted and we know that none of the new homes proposed will be Council owned. 
