@@ -136,6 +136,8 @@ Here's a link to the environmental statement: http://planbuild.southwark.gov.uk/
 
 @. Does the accommodation schedule in the new planning application for the FDS conform with these requirements?
 
+AAAP requires parker morris plus 10%. The Development specification gives some info about this - also compare existing floorspace against proposed floorspace.
+
 ### Scheme in breach of Infrastructure funding requirements
 @. Page 75 of the AAAP describes infrastructure funding. It says the developer will pay a tariff which will fund community facilities like the energy centre (£13m) and health centre (£4m). We now know that the Council is paying for the health centre from its own funds and that the energy centre is not being delivered.
 
