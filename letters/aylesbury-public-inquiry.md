@@ -7,21 +7,13 @@ subtitle: "Aylesbury estate CPO (resumed) public inquiry, Oct 2017"
 ![](http://35percent.org/img/phase1baerial.png)  
 
 ## The Scheme for the Order Land is no longer in accordance with the statutory development plan
-@. The statutory development plan context for the Scheme underlying the Order (“the Scheme”) is the Aylesbury Area Action Plan 2010 (“AAAP”) (CD 2).
+@. The compulsory purchase code requires that the Scheme underlying the Order is in conformity with the statutory development plan. The statutory development plan context for the Scheme underlying this Order (“the Scheme”) is the Aylesbury Area Action Plan 2010 (“AAAP”) (CD 2).
 
-### Mixed use/retail requirements
-@. AAAP policy __'COM6'__ says that the Scheme must _"Provide 1,750 square metres of new local retail facilities (convenience retail, cafes and restaurants) within the action area core"._
+### Scheme in breach of Sustainable Energy requirements
+Whilst the AAAP envisaged a single energy centre being provided, the proposal is for an Energy Centre within
+Block 5 of the FDS with another energy centre being located close to the Albany
+Road/Thurlow Street junction as part of the Outline Scheme.
 
-@. How much retail is being provided in the new FDS planning application? is it proportionate to achieving the 1,750 sqm across the masterplan site as a whole?
-
-### BRE Sunlight/Daylight
-@. See what the new FDS application does about the BRE sunlight/daylight issues. Given the density it will be difficult to resolve.
-
-@. Policy A6.7.8 of the AAAP says _"At least 75% of apartments in each development should have dual aspect."_
-
-@. How many of the homes in the new FDS application are due to be dual aspect?
-
-### Sustainable Energy
 @. Show how the sustainable energy requirements of the AAAP are not being adhered to - ie. biomass (see draft blog post on phase 1a having delivered gas boilers when it should have been biomass)
 
 @. [This press release](http://www.24housing.co.uk/news/first-new-homes-completed-on-aylesbury-estate/) says that biomass was to be provided on phase 1a but we know from classeur blog post that biomass was never provided. The planning committee report and s106 for phase 1a also stipulated biomass.
@@ -30,9 +22,23 @@ subtitle: "Aylesbury estate CPO (resumed) public inquiry, Oct 2017"
 
 @. But in its [Energy Strategy](http://35percent.org/img/aylesburyenergystrategy2.pdf) submitted pursuant to conditions of the S106 agreement, NHHT says that the zero carbon homes requirement has been removed (16/AP/2887).
 
-@. What does the new FDS application say about renewable energy provision?
+OR365 says: Photovoltaic panels are proposed for the areas of roof that will achieve enough sunshine to
+make them viable. Currently this stands at 697sqm. It is acknowledged that this represents a
+small proportion of the available roof space across the FDS however, as a result of the
+townscape requirements that sought taller buildings on the park edge with heights reducing
+incrementally northwards, much of the remaining roof space is overshadowed by the taller
+elements to the south. The proposed photovoltaic panels will achieve a 3.72% carbon dioxide
+saving and whilst it is accepted that this falls far short of the 20% target it is accepted that
+this is an ambitious target to meet in a highly urbanised area
 
-### Community Spine, Green Fingers and Westmoreland Plaza
+### Scheme in breach of BRE Sunlight/Daylight requirements
+@. See what the new FDS application does about the BRE sunlight/daylight issues. Given the density it will be difficult to resolve.
+
+@. Policy A6.7.8 of the AAAP says _"At least 75% of apartments in each development should have dual aspect."_
+
+@. How many of the homes in the new FDS application are due to be dual aspect?
+
+### Scheme in breach of public realm requirements
 @. The AAAP says that there will be a 21 metre-wide 'community spine' running east to west through the site. This will provide a cycle and pedestrian route throughout the entire site, connecting the new community facilities to the Walworth road. It also says there will be three 'green fingers' extending in to the estate from Burgess Park, providing public green space and pedestrian/cycle access. Furthermore it lists a public plaza 'Westmoreland Rd Plaza' on the order land.
 
 ![Extract from AAAP](http://35percent.org/img/communityspine.png)
@@ -45,24 +51,24 @@ subtitle: "Aylesbury estate CPO (resumed) public inquiry, Oct 2017"
 
 @. Also to my knowledge, the previous FDS application didn't include any segregated cycle routes - we need to see what the new application says about cycle routes.
 
-### Open Space
+### Scheme in breach of Open Space requirements
 @. Policy 4.5.1 of the AAAP envisages no net loss of open space, but the approved masterplan application (ref:14/AP/3844) acknowledges that there will be a net loss of 1.8 hectares of open space:
 
 ![Extract from the planning committee report for the masterplan application.](http://crappistmartin.github.io/images/aylesburygreenspace.png)
 
 @. Also, the replacement open space will be gated - see Harvard Gardens.
 
-### Play Space
+### Scheme in breach of Play Space requirements
 @. Policy PL6 of the AAAP says _"All development proposals must provide 10sqm of children’s play space / youth space per child bed space. Doorstep playable space should be provided within each of the housing blocks, whilst larger local playable spaces should be provided within selected housing blocks and within the green fingers and existing local parks, in accordance with Figure 12. New youth space should be provided within the larger areas of public open space."_
 
 @. What does the new FDS application say about open space and play space?
 
-### Infrastructure funding
-@. Page 75 of the AAAP describes infrastructure funding. It says the developer will pay a tariff which will fund community facilities like the energy centre (£13m) and health centre (£4m). We now know that the Council is paying for the health centre from its own funds and that the energy centre is not being delivered.
+### Scheme in breach of Mixed use/retail requirements
+@. AAAP policy __'COM6'__ says that the Scheme must _"Provide 1,750 square metres of new local retail facilities (convenience retail, cafes and restaurants) within the action area core"._
 
-@. The AAAP doesn't say what the tariff is.. it says that details of the tariff will be published in an SPD but I can't find any such SPD..
+@. How much retail is being provided in the new FDS planning application? is it proportionate to achieving the 1,750 sqm across the masterplan site as a whole?
  
-### Density
+### Scheme in breach of Density requirements
 @. The AAAP says _"The HCA has also recently admitted Aylesbury phases 2 and 3 to round 6 of the government backed Private Finance Initiative (PFI). Under this programme it is proposed that the council will effectively deliver 1000 new homes of which around 400 will be affordable council owned new homes"_.  
 
 @. We know that the HCA PFI finance was scrapped shortly after the AAAP was adopted and we know that none of the new homes proposed will be Council owned. 
@@ -77,14 +83,17 @@ subtitle: "Aylesbury estate CPO (resumed) public inquiry, Oct 2017"
 
 @. Provide evidence showing the vast gap between the number of units required by more recent planning policy and the numbers being delivered. Show how supply shortage is fuelling the current housing crisis.
 
-### Room Sizes
+### Scheme in breach of Room Size requirements
 @. The AAAP says that:
 
 ![](http://35percent.org/img/aaapsizeofhomes.png)  
 
 @. Does the accommodation schedule in the new planning application for the FDS conform with these requirements?
 
+### Scheme in breach of Infrastructure funding requirements
+@. Page 75 of the AAAP describes infrastructure funding. It says the developer will pay a tariff which will fund community facilities like the energy centre (£13m) and health centre (£4m). We now know that the Council is paying for the health centre from its own funds and that the energy centre is not being delivered.
 
+@. The AAAP doesn't say what the tariff is.. it says that details of the tariff will be published in an SPD but I can't find any such SPD..
 
 ## The scheme underlying the Order is not viable and therefore not deliverable.
 @. ODPM Circular 2005 says that the scheme underlying the order must be viable and therefore deliverable. (quote 2005 ODPM)
