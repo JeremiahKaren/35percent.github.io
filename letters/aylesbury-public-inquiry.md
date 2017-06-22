@@ -131,6 +131,16 @@ Here's a link to the environmental statement: http://planbuild.southwark.gov.uk/
 
 @. Provide evidence showing the vast gap between the number of units required by more recent planning policy and the numbers being delivered. Show how supply shortage is fuelling the current housing crisis.
 
+These are extracts from the Housing Delivery Strategy 2016: http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!GB0ybg40uhtGW5vcbWkuZA%3d%3d!%7d%7d%7d
+
+![](/img/fdshousing1.png)
+
+![](/img/fdshousing2.png)
+
+What does the AAAP say about min number of 3/4 beds?
+
+Does the FDS consent fall short of AH reqs by 50 units? is that why they have rejigged the planning apps?
+
 ### Scheme in breach of Room Size requirements
 @. The AAAP says that:
 
