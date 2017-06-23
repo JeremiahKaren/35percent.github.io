@@ -150,6 +150,28 @@ AAAP requires parker morris plus 10%. The Development specification gives some i
 
 The main features of the objectives of the scheme underlying the CPO is the provision of an improved ..... Given that the proposed scheme will no longer achieve these objectives, the Order should not be confirmed. 
 
+### The Scheme fails to conform with the development plan's Equalities Impact mitigation measures (and consequently PSED)
+The AAAP said there will be a 'range of options to enable leaseholders to stay in area, buy into new scheme etc..'
+
+@. This was discussed in more detail in the Equalities Assessment conducted in conjunction with the AAAP.
+(the [2009 EqIA which accommpanied the AAAP](http://35percent.org/img/EqualitiesImpactAssessment.pdf)), relied upon the mitigation measures in place at the time for leaseholders- i.e. the rehousing options enshrined in the Council's [2006 rehousing policy](http://www.southwark.gov.uk/download/downloads/id/1850/executive_report) which included the like-for-like 'propery swap' for leaseholders. The 2006 policy and the Council's [Handbook for leaseholders](https://www.whatdotheyknow.com/request/331856/response/818864/attach/3/64145%20RedR%20Homeowner.pdf) clearly state the 'property swap' as one of the available rehousing options:
+
+![Extract from the [Leaseholders Handbook](https://www.whatdotheyknow.com/request/331856/response/818864/attach/3/64145%20RedR%20Homeowner.pdf)](http://35percent.org/img/aylesburyleaseholdershandbookoptions.png)
+
+@. The handbook gives a detailed description of the property swap policy available to leaseholders:
+
+![Extract from the [Leaseholders Handbook](https://www.whatdotheyknow.com/request/331856/response/818864/attach/3/64145%20RedR%20Homeowner.pdf)](http://35percent.org/img/aylesburyhandbookswap.png)
+
+@. The EqIA specifically references the 2006 rehousing policy for leaseholders which it says offers leaseholders the _'widest possible choice of rehousing opportunities'_:
+
+![](http://35percent.org/img/spiritofcooperation.png)  
+
+![](http://35percent.org/img/widestpossiblechoice.png)  
+
+@. Given that the 'property swap' option was subsequently withdrawn in 2010, it can be argued that the scheme doesn't comply with the PSED because one of the mitigation measures set out in the EqIA which underlies the AAAP has been withdrawn. Indeed it was the only mitigation measure that would have enabled leaseholders to remain 100% homeowners in the borough - i.e. not impoverished by the shared ownership options. 
+
+@. Inspector Coffey said that leaseholders are left with two bleak options: moving out of the area or remaining but being impoverished. Like-for-like swap was the only option that would have enabled leaseholders to remain in the area without being impoverished. *We will need to show that the shared equity deal impoverishes leaseholders despite change in the £16k policy. (Investigate service charges etc)*
+
 ## The scheme underlying the Order is not viable and therefore not deliverable.
 @. ODPM Circular 2005 says that the scheme underlying the order must be viable and therefore deliverable. (quote 2005 ODPM)
 
@@ -181,6 +203,7 @@ The main features of the objectives of the scheme underlying the CPO is the prov
 
 @. In paragraph xxx of its Statement of Case, the Acquiring Authority has asserted that £76m of its own funds have been set aside for the scheme over the next five years. However, it does not explain that this covers only site assembly - i.e. leaseholder compensation, decant and rehousing costs, demolition etc. Given that there is no funding for construction of the Scheme, then it cannot be claimed to be viable at the consented tenure mix. 
 
+### The non-viability of the Scheme may result in a failure to conform with the affordable housing requirements of the development plan
 @. The Moodys downgrade report confirmed that on average NHHT is delivering 7% social rented housing across schemes in its current pipeline and this is despite NHHT having received record levels of funding (£92m - GLA?). 
 
 @. The Objectors submit that in the absence of dedicated government or GLA funding to replace the PFI funding anticipated at the time the AAAP was drafted, the minimum 37.5% social rented housing across the Aylesbury scheme us undeliverable.
@@ -208,7 +231,6 @@ In 2011, when the government introduced its controversial affordable rent tenure
 
 >"bla bla we really support this" 
 
-## Tenure switch
 @. Submit copy of [Southwark's evidence](http://crappistmartin.github.io/images/CPO_ExplanatoryNote12May2015.pdf) from previous Inquiry where they claim to have robust S106 monitoring procedures.
 
 ![Extract from Southwark's [evidence to first Inquiry](http://crappistmartin.github.io/images/CPO_ExplanatoryNote12May2015.pdf)](http://35percent.org/img/CPO_ExplanatoryNote.png)
@@ -232,35 +254,11 @@ In 2011, when the government introduced its controversial affordable rent tenure
 
 @. Highlight NHHT's profit margin in the DPA.
 
-@. Show how Wood Dene estate and Decathlon sites appear to have stalled. Point out affordable scandal at the Decathlon site (blog post to be drafted still) and the low level of social rented housing at the Wood Dene site. Make the point that NHHT successfully argued (using viability assessments) that it wasn't viable to provide more than the pitiful 15% (avg) social rented housing across both sites. So how can it be possible that the FDS site can viably provide over 40% social rented?
+@. Show how Wood Dene estate and Decathlon sites appear to have stalled. Point out affordable scandal at the Decathlon site (blog post to be drafted still) and the low level of social rented housing at the Wood Dene and Silwood redevelopments, despite them receiving funding. Make the point that NHHT successfully argued (using viability assessments) that it wasn't viable to provide more than the pitiful 15% (avg) social rented housing across both sites. So how can it be possible that the FDS site can viably provide over 40% social rented?
 
 @. Include evidence on the Silwood estate and the 3 missing social rented housing units that NHHT should have delivered according to the planning consent and S106 agreement.
 
 @. Show HCA/GLA stats showing how many thousands of homes NHHT has converted to affordable rent. 
-
-## Scheme in breach of Equalities Impact mitigation measures (and consequently PSED)
-The AAAP said there will be a 'range of options to enable leaseholders to stay in area, buy into new scheme etc..'
-
-@. This was discussed in more detail in the Equalities Assessment conducted in conjunction with the AAAP.
-(the [2009 EqIA which accommpanied the AAAP](http://35percent.org/img/EqualitiesImpactAssessment.pdf)), relied upon the mitigation measures in place at the time for leaseholders- i.e. the rehousing options enshrined in the Council's [2006 rehousing policy](http://www.southwark.gov.uk/download/downloads/id/1850/executive_report) which included the like-for-like 'propery swap' for leaseholders. The 2006 policy and the Council's [Handbook for leaseholders](https://www.whatdotheyknow.com/request/331856/response/818864/attach/3/64145%20RedR%20Homeowner.pdf) clearly state the 'property swap' as one of the available rehousing options:
-
-![Extract from the [Leaseholders Handbook](https://www.whatdotheyknow.com/request/331856/response/818864/attach/3/64145%20RedR%20Homeowner.pdf)](http://35percent.org/img/aylesburyleaseholdershandbookoptions.png)
-
-@. The handbook gives a detailed description of the property swap policy available to leaseholders:
-
-![Extract from the [Leaseholders Handbook](https://www.whatdotheyknow.com/request/331856/response/818864/attach/3/64145%20RedR%20Homeowner.pdf)](http://35percent.org/img/aylesburyhandbookswap.png)
-
-@. The EqIA specifically references the 2006 rehousing policy for leaseholders which it says offers leaseholders the _'widest possible choice of rehousing opportunities'_:
-
-![](http://35percent.org/img/spiritofcooperation.png)  
-
-![](http://35percent.org/img/widestpossiblechoice.png)  
-
-@. Given that the 'property swap' option was subsequently withdrawn in 2010, it can be argued that the scheme doesn't comply with the PSED because one of the mitigation measures set out in the EqIA which underlies the AAAP has been withdrawn. Indeed it was the only mitigation measure that would have enabled leaseholders to remain 100% homeowners in the borough - i.e. not impoverished by the shared ownership options. 
-
-@. Inspector Coffey said that leaseholders are left with two bleak options: moving out of the area or remaining but being impoverished. Like-for-like swap was the only option that would have enabled leaseholders to remain in the area without being impoverished. *We will need to show that the shared equity deal impoverishes leaseholders despite change in the £16k policy. (Investigate service charges etc)*
-
-
 
 ## DPA provisions breached
 @. NHHT has breached various provisions in the DPA including its obligation to purchase 5 street properties that it was to offer on shared equity terms to leaseholders in phase 1b/1c. The Council claims in its response to our Cabinet question that NHHT has indeed provided 2 such properties to leaseholders on the FDS. We should seek more details of this and ask why these were not offered to Beverley and Agnes.
