@@ -7,7 +7,7 @@ subtitle: "Aylesbury estate CPO (resumed) public inquiry, Oct 2017"
 ![](http://35percent.org/img/phase1baerial.png)  
 
 ## The Scheme for the Order Land is no longer in accordance with the statutory development plan
-@. The compulsory purchase code requires that the Scheme underlying the Order is in conformity with the statutory development plan. The statutory development plan context for the Scheme underlying this Order (“the Scheme”) is the [Aylesbury Area Action Plan 2010](http://www.2.southwark.gov.uk/download/downloads/id/13132/aylesbury_area_action_plan_2010_inc_appendices) (“AAAP”) (CD 2).
+@. The compulsory purchase code requires that the Scheme underlying the Order to conform with the requirements of the statutory development plan. The statutory development plan context for the Scheme underlying this Order (“the Scheme”) is the [Aylesbury Area Action Plan 2010](http://www.2.southwark.gov.uk/download/downloads/id/13132/aylesbury_area_action_plan_2010_inc_appendices) (“AAAP”) (CD 2).
 
 ### The Scheme fails to comply with the development plan's sustainable energy requirements
 Policy BH6([I] - ENERGY SUPPLY) of the AAAP requires new developments in the core action area to be serviced by one single CHP energy plant:
@@ -55,7 +55,7 @@ Besides enabling daylight, the AAAP envisages that the green fingers will provid
 
 ![integrate this with above image](/img/aaaplegend.png)
 
-However, the planning application for the FDS Scheme and the outline masterplan have dropped the green fingers and the Westmoreland Plaza open spaces in their entirety. 
+However, the planning application for the FDS Scheme and the outline masterplan have dropped the green fingers and the Westmoreland Plaza is now described in the planning documents as a 'pocket park'. 
 
 ![Extract from Design & Access Statement [CD43]](/img/fdsmodel.jpg)
 
@@ -103,7 +103,7 @@ Do the houses all have gardens and are they all 10m in length?
 Here's a link to the environmental statement: http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!pMsWP8tiTauKMmiQZaV9cQ%3d%3d!%7d%7d%7d
 
 ### The Scheme fails to comply with the development plan's mixed use/retail requirements
-@. AAAP policy __'COM6'__ says that the Scheme must _"Provide 1,750 square metres of new local retail facilities (convenience retail, cafes and restaurants) within the action area core"._
+@. AAAP policy __'COM6'__ requires the Scheme to _"Provide 1,750 square metres of new local retail facilities (convenience retail, cafes and restaurants) within the action area core"._
 
 @. How much retail is being provided in the new FDS planning application? is it proportionate to achieving the 1,750 sqm across the masterplan site as a whole?
  
