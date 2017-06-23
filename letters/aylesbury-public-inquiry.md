@@ -203,6 +203,16 @@ The AAAP said there will be a 'range of options to enable leaseholders to stay i
 
 @. In paragraph xxx of its Statement of Case, the Acquiring Authority has asserted that £76m of its own funds have been set aside for the scheme over the next five years. However, it does not explain that this covers only site assembly - i.e. leaseholder compensation, decant and rehousing costs, demolition etc. Given that there is no funding for construction of the Scheme, then it cannot be claimed to be viable at the consented tenure mix. 
 
+## The non-viability of the Scheme may result in it not be delivered in a reasonable time period 
+@. Circular ODPM/2005 says that there needs to be evidence that the scheme underlying the Order will be completed in a 'reasonable' time period; we need to look up case identifying how 'reasonable time period' is to be interpreted.
+
+@. Show how [Wood Dene estate](http://35percent.org/wood-dene-estate-regeneration/) was demolished in 2007 and how NHHT has [left the site empty](https://www.southwarknews.co.uk/news/notting-hill-admits-wood-dene-estate-peckham-wont-rebuilt-2019-thirteen-years-demolition/) for 10 years without building any new homes. This will be the future of phase 1b/1c.  
+
+![](http://35percent.org/img/nhhtwooddeneadmission.png)  
+
+@. The DPA says that the FDS will be completed by 2021, but NHHT have now put this back to 2024. See [here](http://moderngov.southwark.gov.uk/documents/s68300/Appendix%202%20Draft%20development%20agreement.pdf).
+
+
 ### The non-viability of the Scheme may result in a failure to conform with the affordable housing requirements of the development plan
 @. The Moodys downgrade report confirmed that on average NHHT is delivering 7% social rented housing across schemes in its current pipeline and this is despite NHHT having received record levels of funding (£92m - GLA?). 
 
@@ -278,14 +288,6 @@ In 2011, when the government introduced its controversial affordable rent tenure
 
 @. The Objectors submit that the number of social housing units on plot 18 has been reduced as a result of viability issues. The Objectors submit that this will be the fate of the FDS.
 
-## The scheme will not be delivered in a reasonable time period 
-@. Circular ODPM/2005 says that there needs to be evidence that the scheme underlying the Order will be completed in a 'reasonable' time period; we need to look up case identifying how 'reasonable time period' is to be interpreted.
-
-@. Show how [Wood Dene estate](http://35percent.org/wood-dene-estate-regeneration/) was demolished in 2007 and how NHHT has [left the site empty](https://www.southwarknews.co.uk/news/notting-hill-admits-wood-dene-estate-peckham-wont-rebuilt-2019-thirteen-years-demolition/) for 10 years without building any new homes. This will be the future of phase 1b/1c.  
-
-![](http://35percent.org/img/nhhtwooddeneadmission.png)  
-
-@. The DPA says that the FDS will be completed by 2021, but NHHT have now put this back to 2024. See [here](http://moderngov.southwark.gov.uk/documents/s68300/Appendix%202%20Draft%20development%20agreement.pdf).
 
 ## Refurb/Alternative to scheme underlying the CPO 
 
