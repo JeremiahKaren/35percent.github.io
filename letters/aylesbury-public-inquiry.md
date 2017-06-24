@@ -186,10 +186,6 @@ The AAAP said there will be a 'range of options to enable leaseholders to stay i
 @. Inspector Coffey said that leaseholders are left with two bleak options: moving out of the area or remaining but being impoverished. Like-for-like swap was the only option that would have enabled leaseholders to remain in the area without being impoverished. *We will need to show that the shared equity deal impoverishes leaseholders despite change in the £16k policy. (Investigate service charges etc)*
 
 ## The scheme underlying the Order is not viable and therefore not deliverable.
-@. ODPM Circular 2005 says that the scheme underlying the order must be viable and therefore deliverable. (quote 2005 ODPM)
-
-@. ODPM 2015 goes further to say "....."
-
 @. Documents submitted to the examination in public of the AAAP, show that the Aylesbury scheme as envisaged is still not viable and that the viability gap is being bridged by shortchanging leaseholders. In Jan 2009, the [draft Aylesbury Area Action Plan](http://35percent.org/img/DraftAAAP.pdf) showed that there was a funding shortfall of £299m. 
 
 ![Page 92 of the [appendices](http://35percent.org/img/DraftAAAP_appendices.pdf) to the [draft AAAP](http://35percent.org/img/DraftAAAP.pdf)](http://35percent.org/img/DraftAAAP_appendices.png)
@@ -204,7 +200,11 @@ The AAAP said there will be a 'range of options to enable leaseholders to stay i
 
 @. The Acquiring Authority was expecting to cover the funding shortfall with government PFI funding and this is how the Area Action Plan was deemed sound at its Examination in Public. However, just under a year after the Area Action Plan was adopted, the government [withdrew](http://www.theguardian.com/society/2010/dec/26/cut-regeneration-tony-blair-housing) all PFI funding for the scheme. 
 
-@. The Acquiring Authority has rejected calls for it to publish its viability assessment for the scheme underlying the Order. In response to the requirement to show "general funding sources..." the Acquiring Authority has argued that its development partner NHHT will make up for the funding shortfall using reserves from its £xxm surplus. The Objectors submit that this would have knock-on effects on its credit rating and negatively affect its borrowing costs. NHHT is due to experience substantial debt growth over the next fiver years, rising from £1.3m in 2016 to £2.3bn in 2021. According to credit rating agency Moodys, over the next five years, growth in interest expense will outpace growth in surpluses. 
+@. The September 2011 board meeting minutes of the Aylesbury New Deal for Communities (by now renamed Creation Trust), confirmed that _“at the time of writing the AAAP each [affordable housing] unit was supported with £125k of funding, this has now been reduced to £25,000”_ [OCD24, para 2.4]
+
+@. How much funding is there now per unit? What does Mayor's current funding programme say?
+
+
 
 @. In June 2016 NHHT was [downgraded](http://35percent.org/img/nhhtmoodys.pdf) by Moodys. Moodys' downgrade notice mentioned NHHT's significant development pipeline and its three major schemes; the Aylesbury estate, Canada Water and a scheme in Hounslow. 
 
@@ -216,8 +216,28 @@ The AAAP said there will be a 'range of options to enable leaseholders to stay i
 
 @. In paragraph xxx of its Statement of Case, the Acquiring Authority has asserted that £76m of its own funds have been set aside for the scheme over the next five years. However, it does not explain that this covers only site assembly - i.e. leaseholder compensation, decant and rehousing costs, demolition etc. Given that there is no funding for construction of the Scheme, then it cannot be claimed to be viable at the consented tenure mix. 
 
+## The Acquiring Authority has failed to comply with the requirements of the ODPM 06/04 Circular regarding provision of viability information 
+Paragraph 16 (iii) of Appendix A of the 06/2004 Circular says:
+
+>"Any decision about whether to confirm an order made under section 226(1)(a) of the 1990 Act will be made on its own merits, but the factors which the Secretary of State can be expected to consider include .. (iii) the potential financial viability of the scheme for which the land is being acquired. A general indication of funding intentions, and of any commitments from third parties, will usually suffice to reassure the Secretary of State that there is a reasonable prospect that the scheme will proceed. The greater the
+uncertainty about the financial viability of the scheme, however, the more compelling the other grounds for undertaking the compulsory purchase will need to be. The timing of any available funding may also be important. For example, a strict time-limit on the availability of the necessary funding may be an argument put forward by the acquiring authority to justify proceeding with the order before
+finalising the details of the replacement scheme and/or the statutory planning position."
+
+@. The Objectors submit that there is indeed _"great uncertainty about the financial viability of the scheme"_ and that therefore the Acquiring Authority is required to make a _"more compelling"_ case for _"the other grounds for undertaking the compulsory purchase"_. 
+
+@. Paragraph 19 of the ODPM 06/04 Circular states that “If an Acquiring Authority cannot show that all the necessary resources are likely to be available to achieve that end within a reasonable time-scale, it will be difficult to show conclusively that the compulsory acquisition of the land included in the order is justified in the public interest.”
+
+@. Paragraph 20 of the ODPM 06/04 Circular says:
+
+>"In preparing its justification, the acquiring authority should provide as much information as possible about the resource implications of both acquiring the land and implementing the scheme for which the land is required. It may be that the scheme is not intended to be independently financially viable, or that the details cannot be finalised until there is certainty about the assembly of the necessary land. In such instances, the acquiring authority should provide an indication of how any potential shortfalls are intended to be met. This should include the degree to which other bodies (including the private sector) have agreed to make financial contributions or to underwrite the scheme, and on what basis such contributions or underwriting is to be made."
+
+@. Contrary to the requirements of paragraphs 20 of ODPM Circular 06/2004, insufficient information is given in the Statement of Reasons for making the CPO detailing the cost of the scheme or how it will be funded. All the AA's SoC says about funding is that xxx...
+
+@. The Acquiring Authority has rejected repeated requests by the Objectors to supply information concerning funding and the viability of the scheme. All financial information has been redacted from the Development Partnership Agreement included in the core bundle. The Objectors understand that the Inspector does have the power to require the production of any documents by summons “which relate to any matter in question at the inquiry”.[^1]
+
+@. The Objectors therefore request that an unredacted copy of the DPA, business plan, viability assessment and any funding agreements are supplied to the inquiry, in order to satisfy the requiremments of paragraph 20 of the ODPM and for the inquiry to be able to establish that the Scheme is deliverable in accordance with the requirements of the development plan.
+
 ## The non-viability of the Scheme may result in it not be delivered in a reasonable time period 
-@. Circular ODPM/2005 says that there needs to be evidence that the scheme underlying the Order will be completed in a 'reasonable' time period; we need to look up case identifying how 'reasonable time period' is to be interpreted.
 
 @. Show how [Wood Dene estate](http://35percent.org/wood-dene-estate-regeneration/) was demolished in 2007 and how NHHT has [left the site empty](https://www.southwarknews.co.uk/news/notting-hill-admits-wood-dene-estate-peckham-wont-rebuilt-2019-thirteen-years-demolition/) for 10 years without building any new homes. This will be the future of phase 1b/1c.  
 
@@ -350,6 +370,8 @@ Get info on fire safety works.
 
 An alternative scheme (referred to as ‘Plan B’ in the Statement of Reasons for making the CPO) has been promoted by a group of local stakeholders, using the acronym xxx. The scheme proposed by xxx is clearly superior to that of the Acquiring Authority. It would require less funding, would be less intrusive and would meet the Acquiring Authority’s objective of achieving an improved.
 
+AA is pending £380k per unit on new Council house building programme (not including land acquisition costs) - it has £xxm set aside for this and we suggest that this should be used instead 
+
 Conclusion: 
 The AAAP envisaged redevelopment because at the time it was assumed that "it would cost too much to bring the homes up to
 decent homes standards". It asserted that redevlopement would also enable an uplift in density to 4200 new homes and that these would be of better quality in terms of environment and sustainability. Given that the scheme fails to conform with these objectives and given the significant number of homes brought up to DHS in the interim ...
@@ -410,3 +432,5 @@ Conclusion:
 In summary, the Acquiring Authority action in making the CPO is oppressive, it has no statutory powers compulsorily to acquire the Objector’s land or to develop a highway as the principal element of the regeneration proposals. The Acquiring Authority has also failed to comply with several requirements identified in Circular 06/2004. If, contrary to the above, the CPO is confirmed, it is clearly vulnerable to further challenge in the High Court under s.23 of the Acquisition of Land Act 1981, which could result in the CPO being quashed.
 
 The CPO should therefore be withdrawn forthwith to avoid any further wasted costs.
+
+[^1]: See section 5(2) of the Acquisition of Land Act 1981, and section 250(2) of the Local Government Act 1972
