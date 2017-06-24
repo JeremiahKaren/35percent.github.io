@@ -9,6 +9,19 @@ subtitle: "Aylesbury estate CPO (resumed) public inquiry, Oct 2017"
 ## The Scheme for the Order Land is no longer in accordance with the statutory development plan
 @. The compulsory purchase code requires that the Scheme underlying the Order to conform with the requirements of the statutory development plan. The statutory development plan context for the Scheme underlying this Order (“the Scheme”) is the [Aylesbury Area Action Plan 2010](http://www.2.southwark.gov.uk/download/downloads/id/13132/aylesbury_area_action_plan_2010_inc_appendices) (“AAAP”) (CD 2).
 
+@. As a result of the [withdrawal of £180m government funding](http://www.2.southwark.gov.uk/news/article/159/government_to_withdraw_pfi_funding_for_aylesbury) envisaged by the AAAP, the Scheme now fails to comply with the following requirements of it:
+
+ * Sustainable Energy
+ * Sunlight/Daylight
+ * Open Space
+ * Private Amenity Space
+ * Play Space
+ * Mixed use/Retail
+ * Density
+ * Room Size
+ * Infrastructure Funding
+ * Rehousing/PSED mitigation
+
 ### The Scheme fails to comply with the development plan's sustainable energy requirements
 Policy BH6([I] - ENERGY SUPPLY) of the AAAP requires new developments in the core action area to be serviced by one single CHP energy plant:
 
