@@ -380,6 +380,15 @@ Also, given the fact that redevelopment has proven to be more costly and DHS wor
 
 Council has spent £46m redeveloping just 112 homes and has allocated £96m over next five years. This would be sufficient to bring xx homes on the Order Land up tp DHS.
 
+--------
+Paragraph 16(iv) of the ODPM 06/04 lists factors which the Secretary of State should consider in determining whether to confirm the oreder:
+
+>"whether the purpose for which the acquiring authority is proposing to acquire the land could be achieved by any other means. This may include considering the appropriateness of any alternative proposals put forward by the owners of the land, or any other persons, for its re-use. It may also involve examining the suitability of any alternative locations for the purpose for which the land is being acquired."
+
+What about any nearby estates on th HINES list?
+
+-----
+
 ### Displacement
 @. How many rehoused on estate footprint as per EqIA and AAAP intention?
 
