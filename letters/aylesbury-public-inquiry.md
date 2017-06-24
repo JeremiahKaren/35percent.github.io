@@ -380,11 +380,13 @@ Also, given the fact that redevelopment has proven to be more costly and DHS wor
 Council has spent £46m redeveloping just 112 homes and has allocated £96m over next five years. This would be sufficient to bring xx homes on the Order Land up tp DHS.
 
 --------
-Paragraph 16(iv) of the ODPM 06/04 lists factors which the Secretary of State should consider in determining whether to confirm the oreder:
+Paragraph 16(iv) of the ODPM 06/04 lists factors which the Secretary of State should consider in determining whether to confirm the order:
 
->"whether the purpose for which the acquiring authority is proposing to acquire the land could be achieved by any other means. This may include considering the appropriateness of any alternative proposals put forward by the owners of the land, or any other persons, for its re-use. It may also involve examining the suitability of any alternative locations for the purpose for which the land is being acquired."
+>"whether the purpose for which the acquiring authority is proposing to acquire the land could be achieved by any other means. This may include considering the appropriateness of any alternative proposals put forward by the owners of the land, or any other persons, for its re-use. __It may also involve examining the suitability of any alternative locations for the purpose for which the land is being acquired.__"
 
-What about any nearby estates on th HINES list?
+The Objectors submit that that there is an alternative location, just several hundred metres from the order land that would provide a much greater increase in density that was one of the main objectives of the development plan; the St James estate. This is approximately the same area as the order land but contains just 100 low rise, low quality, energy inefficient homes. Compulsory purchase powers would not be required because NHHT owns the freehold of all the homes, which are let privately at market rents with no social housing tenants.
+
+
 
 -----
 
