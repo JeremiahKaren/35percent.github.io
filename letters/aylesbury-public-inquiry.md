@@ -212,8 +212,18 @@ The AAAP said there will be a 'range of options to enable leaseholders to stay i
 
 @. The DPA says that the FDS will be completed by 2021, but NHHT have now put this back to 2024. See [here](http://moderngov.southwark.gov.uk/documents/s68300/Appendix%202%20Draft%20development%20agreement.pdf).
 
+Schedule 2 0n page 82 of the DPA says that NHHT is given to 2044 to complete the development. 
+
+The DPA requires NHHT to complete the FDS before a given date (XX?) regardless of viability. Has this now been breached given that NHHT has swapped FDS with plot 18?
+
+There is nothing compelling NHHT to complete any of the development phases should it declare them unviable.
+
 
 ### The non-viability of the Scheme may result in a failure to conform with the affordable housing requirements of the development plan
+Para 4.8.4 on page 136 of the DPA says that if (confidential) viability assessments show that the scheme has become unviable then changes to the businees plan and DPA will be sought.
+
+Para 4.8.6 says that both parties will be free to terminate the DPA if phases are deemed unviable.
+
 @. The Moodys downgrade report confirmed that on average NHHT is delivering 7% social rented housing across schemes in its current pipeline and this is despite NHHT having received record levels of funding (£92m - GLA?). 
 
 @. The Objectors submit that in the absence of dedicated government or GLA funding to replace the PFI funding anticipated at the time the AAAP was drafted, the minimum 37.5% social rented housing across the Aylesbury scheme us undeliverable.
