@@ -161,7 +161,7 @@ AAAP requires parker morris plus 10%. The Development specification gives some i
 
 @. The AAAP doesn't say what the tariff is.. it says that details of the tariff will be published in an SPD but I can't find any such SPD..
 
-The main features of the objectives of the scheme underlying the CPO is the provision of an improved ..... Given that the proposed scheme will no longer achieve these objectives, the Order should not be confirmed. 
+The main features of the objectives of the scheme underlying the CPO is the provision of an improved ..... Given that the proposed scheme will no longer achieve these objectives, the Order should not be confirmed.  
 
 ### The Scheme fails to conform with the development plan's Equalities Impact mitigation measures (and consequently PSED)
 The AAAP said there will be a 'range of options to enable leaseholders to stay in area, buy into new scheme etc..'
