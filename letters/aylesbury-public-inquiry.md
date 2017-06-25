@@ -7,9 +7,9 @@ subtitle: "Aylesbury estate CPO (resumed) public inquiry, Oct 2017"
 ![](http://35percent.org/img/phase1baerial.png)  
 
 ## The Scheme for the Order Land is no longer in accordance with the statutory development plan
-@. The compulsory purchase code requires that the Scheme underlying the Order to conform with the requirements of the statutory development plan. The statutory development plan context for the Scheme underlying this Order (“the Scheme”) is the [Aylesbury Area Action Plan 2010](http://www.2.southwark.gov.uk/download/downloads/id/13132/aylesbury_area_action_plan_2010_inc_appendices) (“AAAP”) (CD 2).
+@. The compulsory purchase code requires the Scheme underlying the Order to conform with the requirements of the statutory development plan. The statutory development plan context for the Scheme underlying this Order (“the Scheme”) is the [Aylesbury Area Action Plan 2010](http://www.2.southwark.gov.uk/download/downloads/id/13132/aylesbury_area_action_plan_2010_inc_appendices) (“AAAP”) (CD 2).
 
-@. As a result of the [withdrawal of £180m government funding](http://www.2.southwark.gov.uk/news/article/159/government_to_withdraw_pfi_funding_for_aylesbury) envisaged by the AAAP, the Scheme now fails to comply with the following requirements of it:
+@. As a result of the [withdrawal of £180m government funding](http://www.2.southwark.gov.uk/news/article/159/government_to_withdraw_pfi_funding_for_aylesbury) envisaged by the AAAP, the Scheme now fails to comply with the following requirements of the development plan:
 
  * Sustainable Energy
  * Sunlight/Daylight
@@ -186,6 +186,13 @@ The AAAP said there will be a 'range of options to enable leaseholders to stay i
 @. Inspector Coffey said that leaseholders are left with two bleak options: moving out of the area or remaining but being impoverished. Like-for-like swap was the only option that would have enabled leaseholders to remain in the area without being impoverished. *We will need to show that the shared equity deal impoverishes leaseholders despite change in the £16k policy. (Investigate service charges etc)*
 
 ## The scheme underlying the Order is not viable and therefore not deliverable.
+There are three main factors contributing to the non-viability of the scheme:
+
+1. The Scheme was not viable in the first place
+2. £180m of allocated government funding has been withdrawn since the AAAP was adopted
+3. The government has cut the amount housing associations can charge for (social) rents and introduced a cap in Local Housing Allowance
+https://www.theguardian.com/housing-network/2012/aug/09/housing-benefit-caps-end-tenancies-in-london
+
 @. Documents submitted to the examination in public of the AAAP, show that the Aylesbury scheme as envisaged is still not viable and that the viability gap is being bridged by shortchanging leaseholders. In Jan 2009, the [draft Aylesbury Area Action Plan](http://35percent.org/img/DraftAAAP.pdf) showed that there was a funding shortfall of £299m. 
 
 ![Page 92 of the [appendices](http://35percent.org/img/DraftAAAP_appendices.pdf) to the [draft AAAP](http://35percent.org/img/DraftAAAP.pdf)](http://35percent.org/img/DraftAAAP_appendices.png)
@@ -282,6 +289,8 @@ NHHT is one of the most active lobbyists among housing associations. In 2007, it
 In 2011, when the government introduced its controversial affordable rent tenure, allowing social rents to be increased to up to 80% market rent, NHHT wrote in its official response to the govt consultation:
 
 >"bla bla we really support this" 
+
+https://www.theguardian.com/society/2015/mar/29/tenants-face-70m-rent-rise-as-social-housing-converted-to-affordable-homes
 
 @. Submit copy of [Southwark's evidence](http://crappistmartin.github.io/images/CPO_ExplanatoryNote12May2015.pdf) from previous Inquiry where they claim to have robust S106 monitoring procedures.
 
