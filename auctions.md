@@ -24,6 +24,10 @@ The [new library and health centre](http://www.aylesburynow.london/news/posts/ne
 ![](/img/aylesburymedicalcentreandlibrary.jpg)
 *Aylesbury Medical Centre, East St Library, Wells Way Library, Aylesbury Learning Centre* 
 
+[Planning application documents](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!PJf0l7DN0xFKrvRoqzFnhA%3d%3d!%7d%7d%7d) show the extent of the community facilities being lost through the Aylesbury estate's redevelopment.
+
+![](/img/aylesburycommunityfacilities.png)
+
 Likewise, the new Camberwell library is a replacement of the one that was closed down in 2015 and has been funded exclusively by the Council.
 
 ![](/img/camberwelllibraries.jpg)
