@@ -12,6 +12,7 @@ subtitle: "Aylesbury estate CPO public inquiry, Oct 2017"
 @. As a result of the [withdrawal of £180m government funding](http://www.2.southwark.gov.uk/news/article/159/government_to_withdraw_pfi_funding_for_aylesbury) envisaged by the AAAP and significant changes in social housing policy since it was adopted, the Scheme now fails to comply with the following requirements of the development plan:
 
  * Renewable Energy requirements
+ * Building Heights requirements
  * Sunlight/Daylight requirements
  * Open Space requirements
  * Private Amenity Space requirements
@@ -65,7 +66,7 @@ In addition, the London Plan requires all homes from 2016 onwards to be zero car
 
 The planning consent for the order land fails to comply with any of these policies, which are a core objective of the development plan. The Objectors have submitted a [sample](/img/aylesburynewvsoldepc.pdf) of Energy Performance Certificates (EPC) showing that, despite not having double glazing installed, the existing dwellings on the order land are more energy efficient than the Aylesbury new-build apartments on the neighbouring completed phase 1a of the Scheme (Roffo Court).
 
-![New-build EPC (left) existing Aylesbury estate (right)](/img/epccomparison.png)
+![New-build EPC (left) existing Aylesbury estate (right)](/img/epcomparison.png)
 
 The EPC certificates for completed phase 1a of the Scheme confirm that it does not benefit from any renewable energy sources. Futher [documentation](http://35percent.org/img/Totters_Court.pdf) shows that the development is fuelled by a central gas boiler. 
 
@@ -74,7 +75,17 @@ This is a breach of the planning consent for phase 1a; the [planning committee r
 ![Extract from the phase 1a planning committee report](http://35percent.org/img/biomassboilerproposed.png)
 
 ### Public realm and sunlight/daylight requirements
-It was pointed out during the previous inquiry that the tall buildings (exclusively private for sale units) running east to west along the frontage to Burgess Park, will result in the affordable blocks behind them failing to meet BRE minimum daylight requirements.
+It was pointed out during the previous inquiry that the tall buildings (market units) running east to west along the frontage to Burgess Park, will result in a significant number of homes in the affordable blocks behind them failing to meet BRE minimum daylight requirements.
+
+This was taken up by the inspector at the previous inquiry and the criticisms outlined in detail in paragraphs 368-370 of her report do not need repeating. The planning committee report also openly acknowledges the Scheme's shortcomings in relation to daylight requirements:
+
+>"It is acknowledged that failure to achieve full compliance with BRE guidance for minimum ADF levels is a less positive aspect of the proposal" (paragraph 139)   
+
+Paragraph A6.6.3.7 says that _"Tall buildings should achieve some visual separation from adjacent developments."_
+
+Policy PL4 says that there should be two tall buildings on the order land ranging from 10-15 storeys, but the consented plans show three tall buildings along the Albany Road frontage, ranging from 14 to 20 storeys.
+
+Policy PL4 also says: "The design of these taller buildings needs careful consideration. They should be elegant and slender. Proposals should demonstrate that harmful effects on residents, pedestrians and cyclists, such as overshadowing and wind funnelling, will be minimised.
 
 Paragraph 5.223 of NHHT's planning statement explains that one of the reasons for the sunlight/daylight failure is because _"the development proposes the tall buildings along the park boundary to maximise the number of apartments with a view of the park"._
 
@@ -84,6 +95,7 @@ Paragraph 5.223 of NHHT's planning statement explains that one of the reasons fo
 
 Policy A6.5.7 envisages that this will be achieved using a series of 'green fingers' - _"a series of multi-functional spaces that link with Burgess Park"_ : 
 
+
 >"A series of ‘green fingers’ will be created, extending from Burgess Park into the action area core interlinking the park with the development. Their predominant function is that of a public space with social interaction, pedestrian and cycle movement dominating."
 
 ![Extract from the AAAP's Visual Impact Assessment](/img/visualimpactassessment.png)
@@ -92,6 +104,9 @@ Besides enabling daylight, the AAAP envisages that the green fingers will _"prov
 
 ![Extract from the AAAP](/img/greenfingerintersections.png)
 
+The green fingers also enable several key 'green links' envisaged by the AAAP, which link neighbouring local parks to Burgess Park.
+
+![Extract from AAAP](/img/networkofgreenspaces.png)
 @. The AAAP diagram for the order land shows one of the green fingers dissecting the FDS (10) and a second open space, Westmoreland Plaza (9) on the north-west corner of the order land.
 
 ![Extract from AAAP](http://35percent.org/img/fdsgreenfingers.png)
@@ -102,7 +117,7 @@ However, the planning application for the FDS Scheme and masterplan failed to in
 
 The removal of the green fingers from the Scheme, means that the propsals for the order land will now suffer from the very problems that the AA has attributed to the estate in its grounds for redevelopment - lack of permeability, dark alleyways etc and will not enable the AAAP's objective of creating better quality open space/public realm. Moreover, the consented scheme will result in a significant net loss of open space.
 
-### Sunlight to amenity spaces requirements
+### Sunlight to amenity spaces
 Paragraphs 154 to 162 of The planning committee report for the FDS say:
 
 >"BRE guidance recommends that for outdoor amenity areas to be adequately sunlit throughout the year at least half of a garden or amenity area should receive at least 2 hours of sunlight on 21 March. In terms of the communal courtyards within Blocks 1, 4, 5 and 6 only the courtyards within Blocks 4 and 5 achieve the minimum requirement of at least 50% of the space receiving at least 2 hours sunlight on the 21 March."
@@ -110,6 +125,10 @@ Paragraphs 154 to 162 of The planning committee report for the FDS say:
 >"The courtyards of Block 1 and 6 will achieve 2 hours of sunlight on the 21 March across 39.6% and 26.7% of their respective areas and as such fall below the 50% target. Whilst this does not mean the amenity space is of poor value it does mean that the greater proportion of the courtyards will be in the shade and as such careful consideration will need to be given to the type and form of landscaping that will be provided within these communal areas to allow them to be used effectively throughout the year. 160. Blocks 2 and 3 both contain a significant amount of terraced housing with private rear gardens. These gardens are located between the rear facades of the blocks of terraced dwellings which face north and south away from each other. Of these 49 private amenity spaces only three meet the March target with the rest of the gardens in the shade as a result of shadows cast by the taller elements of Blocks 4 and 5. During the summertime, when amenity spaces will be more intensively used, all but two will be well lit in terms of having in excess of 50% of the area receiving at least two hours of sunlight."
 
 >"Of the amenity spaces that fail to meet the March target, there are 26 spaces that do not receive any sunlight on the 21 March and will be completely in the shade. As is the case with the courtyards of Block 1 and 6, this does not mean that the amenity space is unusable for this part of the year subject to careful landscaping considerations. Achieving compliant sunlight levels within the private and communal amenity spaces on the FDS has been a challenge largely due to the need to provide a significant uplift in housing units and density whilst meeting the townscape objectives of the AAAP which sought taller development along the park edge, perimeter blocks and then lower density housing towards the north of the site to manage the transition between high and low density areas. Having the taller buildings to the south of the site results in long shadows being cast which has resulted in many amenity spaces being in the shade."
+
+Inspector Coffey's report summarises the sunlight/daylight issues well:
+
+>"given that it is intended that these dwellings will replace existing housing which benefits from good standards of daylight internally and well lit sunny amenity areas, the scheme for the FDS would not improve the environmental well-being of the Order Land." (paragraph 370)
 
 ### Open space requirements
 Policy PL5 (Open Space) of the AAAP says:
@@ -155,7 +174,6 @@ Appendix 6 of the AAAP expects proposals to ensure that the privacy of occupants
 
 ### The Scheme fails to comply with the development plan's play space requirements
 @. Policy PL6 of the AAAP says _"All development proposals must provide 10sqm of children’s play space / youth space per child bed space. Doorstep playable space should be provided within each of the housing blocks, whilst larger local playable spaces should be provided within selected housing blocks and within the green fingers and existing local parks, in accordance with Figure 12. New youth space should be provided within the larger areas of public open space."_
-
 
 
 Here's a link to the environmental statement: http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!pMsWP8tiTauKMmiQZaV9cQ%3d%3d!%7d%7d%7d
