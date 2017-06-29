@@ -228,6 +228,12 @@ Does the FDS consent fall short of AH reqs by 50 units? is that why they have re
 
 AAAP requires parker morris plus 10%. The Development specification gives some info about this - also compare existing floorspace against proposed floorspace. file://Desktop/Theca5a.pdf
 
+The S106 Heads of Terms agreement shows that despite increasing the density on the FDS there will be a significant reduction in the child yield as a result of the fewer family homes.
+
+![Extract from the S106 Heads of Terms](/img/fdschildyield.png)
+
+Say something here about the intention of the AAAP to create a family redevelopment...
+
 ### The Scheme fails to comply with the development plan's infrastructure funding requirements
 @. Page 75 of the AAAP describes infrastructure funding. It says the developer will pay a tariff which will fund community facilities like the energy centre (£13m) and health centre (£4m). We now know that the Council is paying for the health centre from its own funds and that the energy centre is not being delivered.
 
@@ -418,10 +424,21 @@ https://www.theguardian.com/society/2015/mar/29/tenants-face-70m-rent-rise-as-so
 @. The Objectors submit that the number of social housing units on plot 18 has been reduced as a result of viability issues. The Objectors submit that this will be the fate of the FDS.
 
 -------
-The DPA says that NHHT is to provide a community facility on the order land comprising at least 250sqm. This has failed to be included in the planning consent. 
+The DPA says that NHHT is to provide a community facility on the order land comprising at least 250sqm. But the planning committee report says that this could be provided as a gym (use class D2). 
 
 ![](/img/fdscommunityfacility.png)
 
+What does the business plan and plot implementation plan say about uses?
+
+The DPA business plan says that the developer will provide a specific number of offsite units from its existing stock to assist with tenant rehousing. It also agreed to convert some of its stock from affordable rent to social rent and to purchase several street properties and repair them for aylesbury residents to move in to.
+
+![](/img/schedulenhhtoffsiteprovision.png)
+
+How many of these have actually been provided?
+
+See table below the above one..
+
+Cabinet said 2/3? P&R properties have been provided, why not 5? and why weren't Beverley etc offered this option?
 
 ## Refurb/Alternative to scheme underlying the CPO 
 
@@ -534,6 +551,8 @@ Biomass? was it delivered?
 [Hilmi letter telling him qualifies for shared ownership](/img/hilmisharedownership.pdf)
 [Letter](/img/lettersenttowolvertonleaseholders.pdf) with Jane Seymour saying that re-housing offers will be withdrawn once CPO procedures start.
 
+Paragraph 4.2.2.2 of Section 4 of the DPA business plan says that NHHT will set aside 142 target rent units for decanting tenants over the first 10 years of the DPA. How many of these have been allocated to date and where are they?
+
 Conclusion:
 In summary, the Acquiring Authority action in making the CPO is oppressive, it has no statutory powers compulsorily to acquire the Objector’s land or to develop a highway as the principal element of the regeneration proposals. The Acquiring Authority has also failed to comply with several requirements identified in Circular 06/2004. If, contrary to the above, the CPO is confirmed, it is clearly vulnerable to further challenge in the High Court under s.23 of the Acquisition of Land Act 1981, which could result in the CPO being quashed.
 
@@ -563,3 +582,16 @@ NHHT pays for demolition but the total cost will be deducted from its £9m publi
 
 
 Subsequent plots depend on plot premium in para 2 of schedule 4 which says:
+
+
+------
+## Compensation issues
+4.2.1.12 of the DPA Business Plan (Section 4.2) says:
+
+>"Addressing the needs of longstanding resident leaseholders is important as they have particular difficulties in finding new homes, as in general the value of their property is lower than other similar sized properties in the borough."
+
+The Acquiring Authority therefore acknowledges that the compensation payable is insufficient for leaseholders to remain in the area. It therefore comes down to what rehousing assistance is on offer in determining whether or not their human rights have been sufficiently safeguarded.
+
+Cascading options - gatekeeping.
+
+No wonder then that only 115 shared equity units have been allocated in the DPA for the 330 leaseholders.
