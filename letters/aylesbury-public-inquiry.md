@@ -417,13 +417,17 @@ https://www.theguardian.com/society/2015/mar/29/tenants-face-70m-rent-rise-as-so
 
 @. The Objectors submit that the number of social housing units on plot 18 has been reduced as a result of viability issues. The Objectors submit that this will be the fate of the FDS.
 
+-------
+The DPA says that NHHT is to provide a community facility on the order land comprising at least 250sqm. This has failed to be included in the planning consent. 
+
+![](/img/fdscommunityfacility.png)
+
 
 ## Refurb/Alternative to scheme underlying the CPO 
 
 Work out how much AA receives in rental income from tenants on the estate. Say it should use this on refurb/maintenance instead of £100k salaries for PR managers (Tony Mainwairing). 
 
-Paragraph 1.2.4 of the AAAP says that the estate needs to be redeveloped because "it would cost too much to bring the homes up to
-decent homes standards".
+Paragraph 1.2.4 of the AAAP says that the estate needs to be redeveloped because "it would cost too much to bring the homes up to decent homes standard".
 
 The Sep 2005 Cabinet report which informed this decision said that the cost of bringing homes up to DHS would be £93m, which included £13m for repairing/replacing the heating system. This has already been committed and £xxm has been spent on bringing xx number of homes up to DHS already. 
 
@@ -438,7 +442,6 @@ Any actual or perceived failure in the local housing market that may exist is pa
 
 Quote from the Housing Commission HINES estates data showing only half of estate's homes fail to meet DHS.
 
-Get info on fire safety works.
 
 ![](http://35percent.org/img/wendcomp.jpg)  
 
@@ -476,6 +479,10 @@ The Objectors submit that that there is an alternative location, just several hu
 
 
 -----
+
+In 2012, the Acquiring Authority spent several million pounds on fire safety works carried out following a fire in one of its tower blocks in Peckham (Lakanal House). This was part of a borough wide policy to ensure that all buildings complied with the latest fire safety regulations. 
+
+The Acquiring Authority has intimated that there are structural problems with the 5 and 6 storey blocks on the estate. However, the Alan Conisbee report on which this is based recommended removal of mains gas from these blocks. It is understood that the blocks now comply with BRE safety standards. If this is not the case then the Acquiring Authority will need to explain why it has continued to house families in these blocks for the past 12 years if they are structurally unsound. 
 
 ### Displacement
 @. How many rehoused on estate footprint as per EqIA and AAAP intention?
@@ -546,3 +553,13 @@ It also says:
 
 >"7.3 LINKS TO OTHER TIERS OF PLANS AND PROGRAMMES 7.3.1 The list of policies set out in the AAP is not exhaustive and does not seek to replicate generic policies in plans which are already in existence. In implementing the redevelopment, it will be necessary to follow the requirements, in particular of the London Plan, the Southwark Plan 2007, the emerging Core Strategy and other documents in Southwark’s local development framework, including supplementary planning documents. Southwark’s SPDs on Sustainable Design and Construction, Sustainability Assessment, Sustainable Transport and Residential
 Design Standards will be especially relevant."
+
+
+---- DPA
+
+FDS - Council gets three fixed payments amounting to circa £15m (VA says £17m)
+NHHT pays for demolition but the total cost will be deducted from its £9m public infrastructure contribution to plot 18.
+
+
+
+Subsequent plots depend on plot premium in para 2 of schedule 4 which says:
