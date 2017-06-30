@@ -58,11 +58,7 @@ Policy 3.6.1 of the AAAP requires the Scheme to result in 'zero carbon growth':
 
 >"The development will be designed to result in zero carbon growth, that is, no net growth in carbon dioxide emissions despite an increase in the number of dwellings. This will require buildings which are highly energy efficient."
 
-Policy 3.6.7 of the AAAP goes on to require development delivered after 2016 to meet zero carbon homes standards: _"The government has announced the intention of ensuring that all homes are CfSH Level 6 by 2016. Proposals will need to comply with these regulations where these are more stringent than CfSH Level 4."_ 
-
-In addition, the London Plan requires all homes from 2016 onwards to be zero carbon:
-
-![Policy 5.2b of the London Plan](/img/lpextractzerocarbon.png)
+The Acquiring Authority has produced no evidence that the Scheme complies with this requirement of the AAAP.
 
 The planning consent for the order land fails to comply with any of these policies, which are a core objective of the development plan. The Objectors have submitted a [sample](/img/aylesburynewvsoldepc.pdf) of Energy Performance Certificates (EPC) showing that, despite not having double glazing installed, the existing dwellings on the order land are more energy efficient than the Aylesbury new-build apartments on the neighbouring completed phase 1a of the Scheme (Roffo Court).
 
@@ -73,6 +69,14 @@ The EPC certificates for completed phase 1a of the Scheme confirm that it does n
 This is a breach of the planning consent for phase 1a; the [planning committee report](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!EBAeY2lWKnBCMyOrbAnyPA%3d%3d!%7d%7d%7d) for the development says that it will be fuelled by a central biomass CHP:
 
 ![Extract from the phase 1a planning committee report](http://35percent.org/img/biomassboilerproposed.png)
+
+The Acquiring Authority may attempt to argue that a new planning application is currently being prepared, but the Objectors point out that it is very unlikely that this will meet the more stringent zero carbon policies introduced since the original 2014 planning consent was granted. 
+
+In March 2016, The Mayor of London set out the approach to achieving the London Plan policy aim of 'zero carbon homes' for major developments in the Housing Supplementary Planning Guidance (SPG), published in March 2016.
+
+![Policy 5.2b of the London Plan](/img/lpextractzerocarbon.png)
+
+Policy 3.6.7 of the AAAP envisaged this requirement for zero carbon homes: _"The government has announced the intention of ensuring that all homes are CfSH Level 6 by 2016. Proposals will need to comply with these regulations where these are more stringent than CfSH Level 4."_ 
 
 ### Public realm and sunlight/daylight requirements
 It was pointed out during the previous inquiry that the tall buildings (market units) running east to west along the frontage to Burgess Park, will result in a significant number of homes in the affordable blocks behind them failing to meet BRE minimum daylight requirements.
@@ -219,7 +223,7 @@ The Sustainability Assessment for the AAAP says:
 
 >"A recent Housing Needs Survey (2003) for Southwark identified 35,851 households stating a need to move in the next 5 years. Of those households, 48% stated the main reason for needing to move was that their home was too small and 54.3% needed a home with 3 or more hbedrooms.
 
-It also says: "The revised tenure mix new option was chosen as it minimises the loss of affordable housing and will help develop a mixed and sustainable community. It will also ensure that the rehousing needs of existing tenants are met."_
+It also says: _"The revised tenure mix new option was chosen as it minimises the loss of affordable housing and will help develop a mixed and sustainable community. It will also ensure that the rehousing needs of existing tenants are met."_
 
 
 Does the FDS consent fall short of AH reqs by 50 units? is that why they have rejigged the planning apps?
@@ -228,7 +232,7 @@ Does the FDS consent fall short of AH reqs by 50 units? is that why they have re
 
 AAAP requires parker morris plus 10%. The Development specification gives some info about this - also compare existing floorspace against proposed floorspace. file://Desktop/Theca5a.pdf
 
-The S106 Heads of Terms agreement shows that despite increasing the density on the FDS there will be a significant reduction in the child yield as a result of the fewer family homes.
+The S106 [Heads of Terms agreement](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!CaG5rOFO9m6tvdWRnS%2b6bg%3d%3d!%7d%7d%7d) shows that despite increasing the density on the FDS there will be a significant reduction in the child yield as a result of the fewer family homes.
 
 ![Extract from the S106 Heads of Terms](/img/fdschildyield.png)
 
