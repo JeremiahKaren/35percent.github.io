@@ -31,24 +31,14 @@ The adopted Local Plan for the Scheme underlying this Order (“the Scheme”) i
  * Rehousing/PSED mitigation requirements
 
 ### Housing uplift requirements
-The AAAP says that this is the anticipated phasing strategy:
 
-![Extract from AAAP](/img/anticipatedphasing.png)
-
-@. The AAAP says _"The HCA has also recently admitted Aylesbury phases 2 and 3 to round 6 of the government backed Private Finance Initiative (PFI). Under this programme it is proposed that the council will effectively deliver 1000 new homes of which around 400 will be affordable council owned new homes"_.  
-
-@. We know that the HCA PFI finance was scrapped shortly after the AAAP was adopted and we know that none of the new homes proposed will be Council owned. 
-
-@. Appendix 5 of the AAAP requires 880 new homes on the FDS, but the planning consent is only for 830 homes.
-
-![](http://35percent.org/img/aaapphasingdensity.png)  
-
-@. The AAAP says that the scheme will deliver 1,450 extra new homes to contribute to the London Plan requirement of 16,300 new homes by 2016/2017. We can show that the scheme is providing less than the 1,450 promised and that Southwark has failed miserably to come anywhere near the 16,300 target.
+@. The AAAP said that the scheme will deliver 1,450 extra new homes to contribute to the London Plan requirement of 16,300 new homes by 2016/2017. The Scheme as proposed is providing less than the 1,450 required.
 
 ![](http://35percent.org/img/aaapnewhomesdensity.png)  
 
-@. Provide evidence showing the vast gap between the number of units required by more recent planning policy and the numbers being delivered. Show how supply shortage is fuelling the current housing crisis.
+@. Appendix 5 of the AAAP requires 880 new homes on the FDS, but the planning consent is only for 830 homes.
 
+@. Provide evidence showing the vast gap between the number of units required by more recent planning policy and the numbers being delivered. Show how supply shortage is fuelling the current housing crisis.
 
 ### Affordable housing requirements
 Policy 3.3.1 of the AAAP envisages just a small net loss of 150 affordable homes across the scheme as a whole. However,paragraph 86 of the planning committee report for the FDS confirms that there will be a net loss of 105 affordable units on the order land alone.
@@ -73,15 +63,15 @@ Using the schedule of accommodation in paragraph 94 of the planning committee re
 
 | Unit type | tenure | Quantity | Sqm | Total sqm |
 |---|---|---|---|---|
-| 1 Bed | Social rent | 135 | 52.3 sqm | 7060 |
-| 2 Bed | Social rent | 68 | 66 sqm | 4488 |
-| 3 Bed | Social rent | 63 | 96 sqm | 6048 |
-| 4 Bed | Social rent | 20 | 99 sqm | 1980 |
-| 5 Bed | Social rent | 18 | 128 sqm | 2304 |
-| 1 Bed | Intermediate | 37 | 50 sqm | 1850 |
-| 2 Bed | Intermediate | 48 | 63 sqm | 3024 |
-| 3 Bed | Intermediate | 15 | 89 sqm | 1335 |
-| 4 Bed | Intermediate | 20 | 99 sqm | 2204 |
+| 1 Bed | Social rent | 135 | 52.3 sqm | 7,060 sqm |
+| 2 Bed | Social rent | 68 | 66 sqm | 4,488 sqm |
+| 3 Bed | Social rent | 63 | 96 sqm | 6,048 sqm |
+| 4 Bed | Social rent | 20 | 99 sqm | 1,980 sqm |
+| 5 Bed | Social rent | 18 | 128 sqm | 2,304 sqm |
+| 1 Bed | Intermediate | 37 | 50 sqm | 1,850 sqm |
+| 2 Bed | Intermediate | 48 | 63 sqm | 3,024 sqm |
+| 3 Bed | Intermediate | 15 | 89 sqm | 1,335 sqm |
+| 4 Bed | Intermediate | 20 | 99 sqm | 2,204 sqm |
 |  | |  |  | 28,293 sqm |
 
 The main features of the objectives of the scheme underlying the CPO is the provision of an improved ..... Given that the proposed scheme will no longer achieve these objectives, the Order should not be confirmed.  
