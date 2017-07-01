@@ -7,10 +7,16 @@ subtitle: "Aylesbury estate CPO public inquiry, Oct 2017"
 ![](http://35percent.org/img/phase1baerial.png)  
 
 ## The Scheme for the Order Land is no longer in accordance with the statutory development plan
-@. The compulsory purchase code requires the Scheme underlying the Order to conform with the requirements of the statutory development plan. The statutory development plan context for the Scheme underlying this Order (“the Scheme”) is the [Aylesbury Area Action Plan 2010](http://www.2.southwark.gov.uk/download/downloads/id/13132/aylesbury_area_action_plan_2010_inc_appendices) (“AAAP”) [CD2], which was adopted in January 2010 as part of the Acquiring Authority's local development framework.
+@. The compulsory purchase code requires the Scheme underlying the Order to conform with the requirements of the statutory development plan. Paragraph 76 of the 06/04 Guidance says that one of the key considerations in deciding if a an order should be confirmed is _"whether the purpose for which the land is being acquired fits in with the adopted
+Local Plan for the area"_.
+
+The adopted Local Plan for the Scheme underlying this Order (“the Scheme”) is the [Aylesbury Area Action Plan 2010](http://www.2.southwark.gov.uk/download/downloads/id/13132/aylesbury_area_action_plan_2010_inc_appendices) (“AAAP”) [CD2], which was adopted in January 2010 as part of the Acquiring Authority's local development framework.
 
 @. As a result of the [withdrawal of £180m government funding](http://www.2.southwark.gov.uk/news/article/159/government_to_withdraw_pfi_funding_for_aylesbury) envisaged by the AAAP and significant changes in social housing policy since it was adopted, the Scheme now fails to comply with the following requirements of the development plan:
 
+ * Housing uplift requirements
+ * Affordable housing requirements
+ * Typology requirements
  * Renewable Energy requirements
  * Building Heights requirements
  * Sunlight/Daylight requirements
@@ -21,9 +27,97 @@ subtitle: "Aylesbury estate CPO public inquiry, Oct 2017"
  * Play Space requirements
  * Mixed use/Retail requirements
  * Density requirements 
- * Room Size requirements
  * Infrastructure Funding requirements
  * Rehousing/PSED mitigation requirements
+
+### Housing uplift requirements
+The AAAP says that this is the anticipated phasing strategy:
+
+![Extract from AAAP](/img/anticipatedphasing.png)
+
+@. The AAAP says _"The HCA has also recently admitted Aylesbury phases 2 and 3 to round 6 of the government backed Private Finance Initiative (PFI). Under this programme it is proposed that the council will effectively deliver 1000 new homes of which around 400 will be affordable council owned new homes"_.  
+
+@. We know that the HCA PFI finance was scrapped shortly after the AAAP was adopted and we know that none of the new homes proposed will be Council owned. 
+
+@. Appendix 5 of the AAAP requires 880 new homes on the FDS, but the planning consent is only for 830 homes.
+
+![](http://35percent.org/img/aaapphasingdensity.png)  
+
+@. The AAAP says that the scheme will deliver 1,450 extra new homes to contribute to the London Plan requirement of 16,300 new homes by 2016/2017. We can show that the scheme is providing less than the 1,450 promised and that Southwark has failed miserably to come anywhere near the 16,300 target.
+
+![](http://35percent.org/img/aaapnewhomesdensity.png)  
+
+@. Provide evidence showing the vast gap between the number of units required by more recent planning policy and the numbers being delivered. Show how supply shortage is fuelling the current housing crisis.
+
+
+### Affordable housing requirements
+Policy 3.3.1 of the AAAP envisages just a small net loss of 150 affordable homes across the scheme as a whole. However,paragraph 86 of the planning committee report for the FDS confirms that there will be a net loss of 105 affordable units on the order land alone.
+ 
+In order to provide sufficient capacity for the tenants rehoused from phase 2, policy BH3 of the AAAP requires 59% of all new homes in phase 1 to be affordable. The consented plans for the FDS (phase 1b/1c) show that just 49% are affordble. The [planning committee report](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!Rp6LgXCaiEovOO%2bcFsi3MA%3d%3d!%7d%7d%7d) for the completed phase 1a shows that also just 51% of the new homes on that site are affordable. 
+
+The Acquiring Authority has argued that the BH3 policy requirement to provide 59% should be calculated by habitable room, but the Objectors contend that the BH3 policy specifies 59% by 'number of homes' rather than habitable rooms.
+
+In any event, if calculation by habitable room is deemed acceptable then there still remains a considerable shortfall: completed phase 1a provides 52% affordable by habitable room and the FDS 51.2% by habitable room. 
+
+Not only does the proposed Scheme fall short of the AAAP's affordable housing requirement, it fails to conform with Policy 3.14 of the London Plan (Existing Housing), which resists the loss of affordable housing, without equivalent replacement (emphasis added): 
+
+>"3.14B: Loss of housing, including affordable housing, should be resisted unless the housing is replaced at existing or higher densities with at least equivalent __floorspace__. 
+
+>"3.82 ESTATE RENEWAL:  Where redevelopment of affordable housing is proposed, it should not be permitted unless it is replaced by better quality accommodation, providing at least an equivalent __floorspace__ of affordable housing."
+
+The London Plan however, specifies that this should be calculated in terms of floorspace. 
+
+Paragraph 353 of the planning committee report confirms that _"The total existing floorspace on the FDS equates to approximately 54,747sqm"_. Paragraph 2.5 of the Acquiring Authority's updated Statement of Case confirms that 22 of the existing properties on the order land were owned privately by leaseholders. Allowing an average sqm floorspace per leaseholder flat of 80sqm results in an approximate overall existing affordable housing floorspace on the FDS of 53,000sqm. 
+
+Using the schedule of accommodation in paragraph 94 of the planning committee report combined with the table of room sizes in paragraph 5.2 of the revised affordable housing statement, the total proposed affordable housing floorspace is 28,293sqm. This shows a net reduction of affordable housing floorspace of 24,707 - more than half of the existing affordable floorspace.   
+
+| Unit type | tenure | Quantity | Sqm | Total sqm |
+|---|---|---|---|---|
+| 1 Bed | Social rent | 135 | 52.3 sqm | 7060 |
+| 2 Bed | Social rent | 68 | 66 sqm | 4488 |
+| 3 Bed | Social rent | 63 | 96 sqm | 6048 |
+| 4 Bed | Social rent | 20 | 99 sqm | 1980 |
+| 5 Bed | Social rent | 18 | 128 sqm | 2304 |
+| 1 Bed | Intermediate | 37 | 50 sqm | 1850 |
+| 2 Bed | Intermediate | 48 | 63 sqm | 3024 |
+| 3 Bed | Intermediate | 15 | 89 sqm | 1335 |
+| 4 Bed | Intermediate | 20 | 99 sqm | 2204 |
+|  | |  |  | 28,293 sqm |
+
+The main features of the objectives of the scheme underlying the CPO is the provision of an improved ..... Given that the proposed scheme will no longer achieve these objectives, the Order should not be confirmed.  
+
+### Typology requirements
+@. The AAAP says _"There will be a significant proportion of family homes with 23% houses, together with all the facilities needed by families, to make sure that the whole area is family-friendly."_
+
+@. The AAAP says that:
+
+![](http://35percent.org/img/aaapsizeofhomes.png) 
+
+But these extracts from the Housing Delivery Strategy 2016 says: http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!GB0ybg40uhtGW5vcbWkuZA%3d%3d!%7d%7d%7d
+
+![](/img/fdshousing1.png)
+
+Table here showing shortfall in 2,3,4, and 5 beds.
+
+The Sustainability Assessment for the AAAP says: 
+
+>"A recent Housing Needs Survey (2003) for Southwark identified 35,851 households stating a need to move in the next 5 years. Of those households, 48% stated the main reason for needing to move was that their home was too small and 54.3% needed a home with 3 or more hbedrooms.
+
+It also says: _"The revised tenure mix new option was chosen as it minimises the loss of affordable housing and will help develop a mixed and sustainable community. It will also ensure that the rehousing needs of existing tenants are met."_
+
+
+Does the FDS consent fall short of AH reqs by 50 units? is that why they have rejigged the planning apps?
+
+![](/img/fdshousing2.png)
+
+AAAP requires parker morris plus 10%. The Development specification gives some info about this - also compare existing floorspace against proposed floorspace. file://Desktop/Theca5a.pdf
+
+The S106 [Heads of Terms agreement](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!CaG5rOFO9m6tvdWRnS%2b6bg%3d%3d!%7d%7d%7d) shows that despite increasing the density on the FDS there will be a significant reduction in the child yield as a result of the fewer family homes.
+
+![Extract from the S106 Heads of Terms](/img/fdschildyield.png)
+
+Say something here about the intention of the AAAP to create a family redevelopment...
+
 
 ### Renewable energy requirements
 @. Sustainable development was one of the core principles of the development plan. Policy BH6([I] - ENERGY SUPPLY) of the AAAP requires new developments in the core action area to be serviced by one centralised energy plant:
@@ -176,74 +270,32 @@ Appendix 6 of the AAAP expects proposals to ensure that the privacy of occupants
 
 @. The SPD specifies a minimum rear-rear separation distance of 21m but paragraph 140 of the planning committee report acknowledges that _"there is one point at which the distance between habitable windows for the general needs flats reduces to 14 metres, but generally the distance is between 17m and 20m."_
 
-### The Scheme fails to comply with the development plan's play space requirements
+### Play space requirements
 @. Policy PL6 of the AAAP says _"All development proposals must provide 10sqm of children’s play space / youth space per child bed space. Doorstep playable space should be provided within each of the housing blocks, whilst larger local playable spaces should be provided within selected housing blocks and within the green fingers and existing local parks, in accordance with Figure 12. New youth space should be provided within the larger areas of public open space."_
 
 
 Here's a link to the environmental statement: http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!pMsWP8tiTauKMmiQZaV9cQ%3d%3d!%7d%7d%7d
 
-### The Scheme fails to comply with the development plan's mixed use/retail requirements
-@. AAAP policy __'COM6'__ requires the Scheme to _"Provide 1,750 square metres of new local retail facilities (convenience retail, cafes and restaurants) within the action area core"._
+### Mixed use/retail requirements
+@. In order to create a mix of uses across the action plan area, AAAP policy __'COM6'__ requires the Scheme to _"Provide 1,750 square metres of new local retail facilities (convenience retail, cafes and restaurants) within the action area core"._
 
-@. How much retail is being provided in the new FDS planning application? is it proportionate to achieving the 1,750 sqm across the masterplan site as a whole?
- 
-### The Scheme fails to comply with the development plan's density requirements
-The AAAP says that this is the anticipated phasing strategy:
+Appendix 5 of the AAAP specifies that the phase 1 of the Scheme should provide a total of 1,050sqm of retail floorspace, of which the FDS should deliver 250sqm. However, only 400sqm was provided on phase 1a and the FDS planning consent does not include provision for any retail floorspace whatsoever (See paragraph 80 of the planning committee report).
 
-![Extract from AAAP](/img/anticipatedphasing.png)
+This will fail to achieve the mix of uses envisaged by the AAAP.
 
-@. The AAAP says _"The HCA has also recently admitted Aylesbury phases 2 and 3 to round 6 of the government backed Private Finance Initiative (PFI). Under this programme it is proposed that the council will effectively deliver 1000 new homes of which around 400 will be affordable council owned new homes"_.  
+### Infrastructure funding requirements
+@. Page 75 of the AAAP describes infrastructure funding. It says the developer will pay a tariff which will fund community facilities like the health centre and other community facilities. However, we now know that the Council is paying for the £35m cost of them mainly from its own funds.
 
-@. We know that the HCA PFI finance was scrapped shortly after the AAAP was adopted and we know that none of the new homes proposed will be Council owned. 
+@. The AAAP said that this infrastructure was to be funded by means of a tariff and that the details of the tariff will be published in a subsequent SPD - The Section 106 & CIL SPD (2015). This requires each development to pay a levy towards local infrastructure. Paragraph 5.8 of the SPD specifically states _"CIL will replace the section 106 tariffs set out in the Aylesbury Area Action Plan"_ and sets out a charging schedule showing a requirement of £50 per square metre of residential floorspace
 
-@. The AAAP says that 1419 units are required in phase 1, but given that only 408 units have been delivered on the other phase 1 sites [1a (261 units) & site 7 (147 units)] and only 840 units are proposed in the FDS application, then there is a shortfall of 171 between the number of units proposed on the Order Land and the number required by the AAAP.
+The planning committee report for the FDS says: _The total existing floorspace on the FDS equates to approximately 54,747sqm. The total proposed floorspace is 81,432sqm. Provided that the existing buildings on the FDS remain in use for at least 6 months within the 36 months prior to implementation, the existing floorspace can be deducted from that proposed to give a figure of 26,685sqm .. This would incur a charge of £1,320,500."_
+_
+The report is not clear as to whether this will be paid and given the absence of a CIL liability notice in the planning application documents, the Objectors request further details of whether the CIL contribution is due.
 
-![](http://35percent.org/img/aaapphasingdensity.png)  
+[This press release](http://www.southwark.gov.uk/news/2017/feb/a-35m-investment-into-new-community-facilities-at-heart-of-one-of-london-s-biggest-regeneration-projects-has-been-approved) confirms that the Acquiring Authority is footing £23m of the £35m required from its capital budget, the remainder being sourced from s106 contributions from other developments in the borough plus a contribution from NHHT.
 
-@. The AAAP says that the scheme will deliver 1,450 extra new homes to contribute to the London Plan requirement of 16,300 new homes by 2016/2017. We can show that the scheme is providing less than the 1,450 promised and that Southwark has failed miserably to come anywhere near the 16,300 target.
+The Development Partnership Agreement says that NHHT's contribution to the facilities is £9m - however it also contains a clause saying that NHHT can deduct from this £9m, all of its site assembly costs for the FDS (currently amounting to £14.5m according to paragraph 8.4 of the AA's SoC). 
 
-![](http://35percent.org/img/aaapnewhomesdensity.png)  
-
-@. Provide evidence showing the vast gap between the number of units required by more recent planning policy and the numbers being delivered. Show how supply shortage is fuelling the current housing crisis.
-
-### The Scheme fails to comply with the development plan's room size requirements
-@. The AAAP says _"There will be a significant proportion of family homes with 23% houses, together with all the facilities needed by families, to make sure that the whole area is family-friendly."_
-
-@. The AAAP says that:
-
-![](http://35percent.org/img/aaapsizeofhomes.png) 
-
-But these extracts from the Housing Delivery Strategy 2016 says: http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!GB0ybg40uhtGW5vcbWkuZA%3d%3d!%7d%7d%7d
-
-![](/img/fdshousing1.png)
-
-Table here showing shortfall in 2,3,4, and 5 beds.
-
-The Sustainability Assessment for the AAAP says: 
-
->"A recent Housing Needs Survey (2003) for Southwark identified 35,851 households stating a need to move in the next 5 years. Of those households, 48% stated the main reason for needing to move was that their home was too small and 54.3% needed a home with 3 or more hbedrooms.
-
-It also says: _"The revised tenure mix new option was chosen as it minimises the loss of affordable housing and will help develop a mixed and sustainable community. It will also ensure that the rehousing needs of existing tenants are met."_
-
-
-Does the FDS consent fall short of AH reqs by 50 units? is that why they have rejigged the planning apps?
-
-![](/img/fdshousing2.png)
-
-AAAP requires parker morris plus 10%. The Development specification gives some info about this - also compare existing floorspace against proposed floorspace. file://Desktop/Theca5a.pdf
-
-The S106 [Heads of Terms agreement](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!CaG5rOFO9m6tvdWRnS%2b6bg%3d%3d!%7d%7d%7d) shows that despite increasing the density on the FDS there will be a significant reduction in the child yield as a result of the fewer family homes.
-
-![Extract from the S106 Heads of Terms](/img/fdschildyield.png)
-
-Say something here about the intention of the AAAP to create a family redevelopment...
-
-### The Scheme fails to comply with the development plan's infrastructure funding requirements
-@. Page 75 of the AAAP describes infrastructure funding. It says the developer will pay a tariff which will fund community facilities like the energy centre (£13m) and health centre (£4m). We now know that the Council is paying for the health centre from its own funds and that the energy centre is not being delivered.
-
-@. The AAAP doesn't say what the tariff is.. it says that details of the tariff will be published in an SPD but I can't find any such SPD..
-
-The main features of the objectives of the scheme underlying the CPO is the provision of an improved ..... Given that the proposed scheme will no longer achieve these objectives, the Order should not be confirmed.  
 
 ### The Scheme fails to conform with the development plan's Equalities Impact mitigation measures (and consequently PSED)
 The AAAP said there will be a 'range of options to enable leaseholders to stay in area, buy into new scheme etc..'
