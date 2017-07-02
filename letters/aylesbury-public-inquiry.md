@@ -40,6 +40,16 @@ The adopted Local Plan for the Scheme underlying this Order (“the Scheme”) i
 
 @. Provide evidence showing the vast gap between the number of units required by more recent planning policy and the numbers being delivered. Show how supply shortage is fuelling the current housing crisis.
 
+@. The Acquiring Authority may argue that it NHHT is submitting a revised planning application for the FDS as per paragraph 7.2 of its Statement of Case, but this will only increase the overall number of homes by 10 to 840. There still remains a significant shortfall.
+
+Viewed in terms of the overall scheme the shortfall is much greater. The outline application that accompanied the FDS application gave consent to build a minimum of 1,700 and maximum of 2,745 new homes on the remaining 3 phases of the Scheme. There is no explanation for the significant difference (1,000 homes) between the maximum and minimum provision requirements. It can only be assumed that this has been used as a means of showing ostensible policy compliance, given that the maximum figure has been used to broadly satisfy the AAAP requirement of 2,786 new homes on remaining phases.
+
+Using the minimum specification figure the Scheme would result in a net loss of xxx homes. How many homes are currently on FDS and outline sites??
+
+Using the minimum specification figure the Scheme will result in a net loss of xxxxxxx sqm floorspace.
+
+The AAAP was adopted and planning application passed before the Mayor announced the Bakerloo line extension along the Old Kent Road. This will create a tube station within a few hundred metres of the estate and creates an opportunity for a much greater uplift in density to meet the capital's burgeoning housing need, which the Scheme fails to address. 
+
 ### Affordable housing requirements
 Policy 3.3.1 of the AAAP envisages just a small net loss of 150 affordable homes across the scheme as a whole. However,paragraph 86 of the planning committee report for the FDS confirms that there will be a net loss of 105 affordable units on the order land alone.
  
@@ -74,7 +84,17 @@ Using the schedule of accommodation in paragraph 94 of the planning committee re
 | 4 Bed | Intermediate | 20 | 99 sqm | 2,204 sqm |
 |  | |  |  | 28,293 sqm |
 
-The main features of the objectives of the scheme underlying the CPO is the provision of an improved ..... Given that the proposed scheme will no longer achieve these objectives, the Order should not be confirmed.  
+The Acquiring Authority is claiming that the Mayor’s Housing SPG says that the re-provision of housing may be considered in terms of units numbers and/or habitable rooms. However the SPG only says that this is permissible in relation to family homes (emphasis added):
+
+>"5.1.9 As a minimum, equivalent residential densities and floorspace should be provided where existing homes are redeveloped. Subject to other policy considerations, higher residential densities are encouraged, alongside more generous floorspace provision. As a general rule, floorspace provision should be calculated and assessed across a site as a whole. However, to address identified housing need, it may be appropriate to require the re-provision of existing __family homes__ with at least equivalent floorspace in terms of units or habitable rooms." 
+
+Given that the London Plan defines family homes as having 3 bedrooms or more and given that the proposed redevelopment comprises predominantly 1 and 2 bedroom flats, it is unlikely that using habitable rooms for calculating the net loss in relation to family homes will affect the overall figure to any significant extent. [We need to run the numbers once the revised application is in].
+
+The Acquiring Authority may argue that it is submitting a revised planning application as per paragraph 7.2 of its Statement of Case, but this will only increase the affordable provision on the FDS by 154 affordable units (approx. 10,000 sqm). There still remains a significant net loss of affordable housing floorspace (ca. 15,000 sqm).
+
+Further, the increase in affordable housing provision on the FDS is being provided as a result of affordable units being transferred to it from plot 18 (Amersham site), where the affordable provision is being reduced to just 19% - well short of the minimum requirement of 59%.
+
+The Objectors note that the phasing plans have also now been swapped - the Amersham Site will now be completed before the FDS, which will not be completed until 2024. This is a further breach of AAAP requirements which envisaged phase 1 to be completed by 2019.
 
 ### Typology requirements
 @. The AAAP says _"There will be a significant proportion of family homes with 23% houses, together with all the facilities needed by families, to make sure that the whole area is family-friendly."_
@@ -107,6 +127,10 @@ The S106 [Heads of Terms agreement](http://planbuild.southwark.gov.uk/documents/
 ![Extract from the S106 Heads of Terms](/img/fdschildyield.png)
 
 Say something here about the intention of the AAAP to create a family redevelopment...
+
+-----
+
+Para 116 of the [outline officers report](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!Vbu5QpckfYCnJrulzlWyuQ%3d%3d!%7d%7d%7d) says something about four person two beds and the s106.
 
 
 ### Renewable energy requirements
@@ -273,6 +297,16 @@ Appendix 5 of the AAAP specifies that the phase 1 of the Scheme should provide a
 
 This will fail to achieve the mix of uses envisaged by the AAAP.
 
+### Community Space requirements
+
+The DPA says that NHHT is to provide a community facility on the order land comprising at least 250sqm. But the planning committee report says that this could be provided as a gym (use class D2). 
+
+![](/img/fdscommunityfacility.png)
+
+The [planning committee report](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!Vbu5QpckfYCnJrulzlWyuQ%3d%3d!%7d%7d%7d) for the outline application shows how far short the Scheme will fall of AAAP requirements if the minimum specification is adhered to:
+
+![](/img/outlinecommunityspace.png)
+
 ### Infrastructure funding requirements
 @. Page 75 of the AAAP describes infrastructure funding. It says the developer will pay a tariff which will fund community facilities like the health centre and other community facilities. However, we now know that the Council is paying for the £35m cost of them mainly from its own funds.
 
@@ -337,6 +371,10 @@ https://www.theguardian.com/housing-network/2012/aug/09/housing-benefit-caps-end
 
 @. How much funding is there now per unit? What does Mayor's current funding programme say?
 
+The previous inquiry was (mis)led to believe that NHHT would receive £27m from the Mayor's 2014-16? AHP - what has happened to this?
+
+
+
 The Sustainability Assessment for the AAAP said:
 
 >"Early financial modelling indicated that about 5000 homes would need to be provided on the footprint of the estate to make any redevelopment financially viable. All the options therefore were predicated around this figure."
@@ -381,7 +419,7 @@ uncertainty about the financial viability of the scheme, however, the more compe
 
 @. The DPA says that the FDS will be completed by 2021, but NHHT have now put this back to 2024. See [here](http://moderngov.southwark.gov.uk/documents/s68300/Appendix%202%20Draft%20development%20agreement.pdf).
 
-Schedule 2 0n page 82 of the DPA says that NHHT is given to 2044 to complete the development. 
+Schedule 2 0n page 82 of the DPA says that NHHT is given to 2044 to complete the development, but the AAAP envisaged that the Scheme would be completed by 2027. 
 
 The DPA requires NHHT to complete the FDS before a given date (XX?) regardless of viability. Has this now been breached given that NHHT has swapped FDS with plot 18?
 
@@ -468,13 +506,7 @@ https://www.theguardian.com/society/2015/mar/29/tenants-face-70m-rent-rise-as-so
 @. NHHT is also now [reducing](http://www.aylesburynow.london/news/posts/extra-affordable-homes-for-aylesbury-regeneration) the number of affordable units in plot 18, its first phase of development to be completed on the estate. It is moving these to be delivered instead on the FDS. Note that the [9 May Cabinet report](http://moderngov.southwark.gov.uk/documents/s68298/Report%20Aylesbury%20Regeneration%20Programme%20Delivery.pdf) announced a change of phasing: the FDS has been swapped with plot 18 - i.e. the FDS will instead be the second phase of development completed by NHHT after plot 18. Fresh planning applications for both sites are expected shortly.
 
 @. The Objectors submit that the number of social housing units on plot 18 has been reduced as a result of viability issues. The Objectors submit that this will be the fate of the FDS.
-
--------
-The DPA says that NHHT is to provide a community facility on the order land comprising at least 250sqm. But the planning committee report says that this could be provided as a gym (use class D2). 
-
-![](/img/fdscommunityfacility.png)
-
-What does the business plan and plot implementation plan say about uses?
+----
 
 The DPA business plan says that the developer will provide a specific number of offsite units from its existing stock to assist with tenant rehousing. It also agreed to convert some of its stock from affordable rent to social rent and to purchase several street properties and repair them for aylesbury residents to move in to.
 
@@ -485,6 +517,7 @@ How many of these have actually been provided?
 See table below the above one..
 
 Cabinet said 2/3? P&R properties have been provided, why not 5? and why weren't Beverley etc offered this option?
+
 
 ## Refurb/Alternative to scheme underlying the CPO 
 

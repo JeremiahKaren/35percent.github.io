@@ -12,7 +12,7 @@ In November 2003 the council designated the London Park Hotel as site 31 in its 
 
 Under threat of compulsory purchase, the London Park Hotel was then [bought by](http://www.london-se1.co.uk/news/view/3475) the Government agency ['English Partnerships'](http://en.wikipedia.org/wiki/English_Partnerships) for [the sum of £18m](/lrdeeds/london360.pdf) in a scheme that proposed to provide affordable housing for key workers. The building was then demolished shortly after receiving planning permission from Southwark Council in 2007. The site was then transferred to the Homes and Communities Agency and eventually the GLA, after English Partnerships was dissolved in 2008. Along the way the overall amount of affordable housing was reduced and then the commitment to provide key-worker housing was dropped. [In 2008](http://www.london-se1.co.uk/news/view/3475), chair of Southwark's planning committee James Gurling noted the _"'dreadful irony' that the Government had spent millions of pounds acquiring the site – part of it from Southwark Council – for housing for people who can't afford it and now the committee was being asked to back a reduction in the number of such homes. A lot of money has gone round in a big circle and the net losers will be the people who need the help most."_ 
 
-<h2>£18m public money spent but no social rented housing</h2>
+<h2>£63m public money spent but no social rented housing</h2>
 
 ![](http://southwarknotes.files.wordpress.com/2009/12/elephant_and_castle_360tower_web.jpg)
 
