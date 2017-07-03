@@ -32,19 +32,38 @@ The adopted Local Plan for the Scheme underlying this Order (“the Scheme”) i
 
 ### Housing uplift requirements
 
-@. The AAAP said that the scheme will deliver 1,450 extra new homes to contribute to the London Plan requirement of 16,300 new homes by 2016/2017. The Scheme as proposed is providing less than the 1,450 required.
+@. The AAAP said that the scheme would deliver 1,450 extra new homes to contribute to the London Plan requirement of 16,300 new homes by 2016/2017. The Scheme as proposed only guarantees the provision of xxxx, much less than the 1,450 required.
 
 ![](http://35percent.org/img/aaapnewhomesdensity.png)  
 
-@. Appendix 5 of the AAAP requires 880 new homes on the FDS, but the planning consent is only for 830 homes.
-
-@. Provide evidence showing the vast gap between the number of units required by more recent planning policy and the numbers being delivered. Show how supply shortage is fuelling the current housing crisis.
+@. Appendix 5 of the AAAP specifies how many homes need to be delivered in each phase to achieve the 1,450 uplift in number of homes. It specifies a requirement for 880 new homes on the FDS, but the consented plans only provide 830 homes.
 
 @. The Acquiring Authority may argue that it NHHT is submitting a revised planning application for the FDS as per paragraph 7.2 of its Statement of Case, but this will only increase the overall number of homes by 10 to 840. There still remains a significant shortfall.
 
-Viewed in terms of the overall scheme the shortfall is much greater. The outline application that accompanied the FDS application gave consent to build a minimum of 1,700 and maximum of 2,745 new homes on the remaining 3 phases of the Scheme. There is no explanation for the significant difference (1,000 homes) between the maximum and minimum provision requirements. It can only be assumed that this has been used as a means of showing ostensible policy compliance, given that the maximum figure has been used to broadly satisfy the AAAP requirement of 2,786 new homes on remaining phases.
+The shortfall on remaining phases is much greater. The outline application that accompanied the FDS application gave consent to build a minimum of 1,700 and maximum of 2,745 new homes on the remaining 3 phases of the Scheme. There is no explanation for the significant difference (1,000 homes) between the maximum and minimum provision requirements. It can only be assumed that this has been used as a means of showing ostensible policy compliance, given that the maximum figure has been used to broadly satisfy the AAAP requirement of 2,786 new homes on remaining phases.
 
-Using the minimum specification figure the Scheme would result in a net loss of xxx homes. How many homes are currently on FDS and outline sites??
+If NHHT builds to the minimum specification agreed, the Scheme would result in a net loss of 561 homes across the FDS and and remaining outline phases. Combined with the completed phases (phase 1a and site 7) this would result in a  
+
+2150
+620
+2770
+
+
+![Extract from S106 agreement](/img/aylesburyoutlinehr.png)
+
+![Extract from S106 agreement](/img/minimumhr.png)
+
+
+#### Completed phases
+2758-
+
+#### FDS
+Paragraph 1.5 of the planning application's [Heads of Terms](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!CaG5rOFO9m6tvdWRnS%2b6bg%3d%3d!%7d%7d%7d) confirms that there were 642 existing homes on the order land at the time of the planning application. Paragraph 2.5 of the Acquiring Authority's Statement of Case confirms that there were 22 leaseholders on the FDS at the time of the planning application. (830-642 = net gain of 188)
+
+#### Remaining phases
+Appendix 1 of the [Heads of Terms](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!F2cnsBhQ1gc6eilnnjVqZg%3d%3d!%7d%7d%7d) for the outline application confirms that there are 2449 existing homes on remaining phases, of which 299 leasehold. (2449-1700 = 749)
+ 
+![](/img/existingra.png)
 
 Using the minimum specification figure the Scheme will result in a net loss of xxxxxxx sqm floorspace.
 
