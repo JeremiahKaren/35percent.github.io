@@ -53,6 +53,7 @@ If NHHT builds to the minimum specification agreed, the Scheme would result in a
 
 ![Extract from S106 agreement](/img/minimumhr.png)
 
+![Extract from S106 agreement](/img/dpadevelopmentdefinition.png)
 
 #### Completed phases
 2758-
@@ -67,7 +68,10 @@ Appendix 1 of the [Heads of Terms](http://planbuild.southwark.gov.uk/documents/?
 
 Using the minimum specification figure the Scheme will result in a net loss of xxxxxxx sqm floorspace.
 
+
 The AAAP was adopted and planning application passed before the Mayor announced the Bakerloo line extension along the Old Kent Road. This will create a tube station within a few hundred metres of the estate and creates an opportunity for a much greater uplift in density to meet the capital's burgeoning housing need, which the Scheme fails to address. 
+
+Paragraph 88 of the [planning committee report](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!Vbu5QpckfYCnJrulzlWyuQ%3d%3d!%7d%7d%7d) for the outline application re-iterates that _"A key objective of the AAAP (Policy BH1 Number of homes) is to increase the number of homes on the estate"_. The Scheme underlying the order as it stands will fail to achieve this objective.
 
 ### Affordable housing requirements
 Policy 3.3.1 of the AAAP envisages just a small net loss of 150 affordable homes across the scheme as a whole. However,paragraph 86 of the planning committee report for the FDS confirms that there will be a net loss of 105 affordable units on the order land alone.
@@ -85,6 +89,8 @@ Not only does the proposed Scheme fall short of the AAAP's affordable housing re
 >"3.82 ESTATE RENEWAL:  Where redevelopment of affordable housing is proposed, it should not be permitted unless it is replaced by better quality accommodation, providing at least an equivalent __floorspace__ of affordable housing."
 
 The London Plan however, specifies that this should be calculated in terms of floorspace. 
+
+The GLA stage 1 report for the outline site says that comprehensive floorspace figures for the Aylesbury estate are not available.
 
 Paragraph 353 of the planning committee report confirms that _"The total existing floorspace on the FDS equates to approximately 54,747sqm"_. Paragraph 2.5 of the Acquiring Authority's updated Statement of Case confirms that 22 of the existing properties on the order land were owned privately by leaseholders. Allowing an average sqm floorspace per leaseholder flat of 80sqm results in an approximate overall existing affordable housing floorspace on the FDS of 53,000sqm. 
 
@@ -114,6 +120,18 @@ The Acquiring Authority may argue that it is submitting a revised planning appli
 Further, the increase in affordable housing provision on the FDS is being provided as a result of affordable units being transferred to it from plot 18 (Amersham site), where the affordable provision is being reduced to just 19% - well short of the minimum requirement of 59%.
 
 The Objectors note that the phasing plans have also now been swapped - the Amersham Site will now be completed before the FDS, which will not be completed until 2024. This is a further breach of AAAP requirements which envisaged phase 1 to be completed by 2019.
+
+The Acquiring Authority may argue that the AAAP says that net loss of affordable housing can be calculated in habitable rooms. But policy 3.3.1 clearly specifies unit numbers and only mentions habitable rooms in relation to the net loss as the result of providing 'more larger units'. We show in paragraph xx of our SoC that the Scheme fails to deliver the required number of 'larger units'.  
+
+![Extract from the AAAP](/img/aaapnetloss.png)
+
+Further, the AAAP specifies the necessity that _"about 2,100 affordable homes are re-provided"_ in order to satisfy requirements.
+
+Further, the London Plan policy requiring no net loss of affordable floorspace is more current than the AAAP, i.e. the policy was adopted more recently and is therefore a more accurate reflection of current housing need.
+
+-----
+Not only has the planning committee report for the outline site failed to say how it arrives at the 4790 hr required figure, it has..
+
 
 ### Typology requirements
 @. The AAAP says _"There will be a significant proportion of family homes with 23% houses, together with all the facilities needed by families, to make sure that the whole area is family-friendly."_
@@ -196,6 +214,10 @@ The EPC certificates for completed phase 1a of the Scheme confirm that it does n
 This is a breach of the planning consent for phase 1a; the [planning committee report](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!EBAeY2lWKnBCMyOrbAnyPA%3d%3d!%7d%7d%7d) for the development says that it will be fuelled by a central biomass CHP:
 
 ![Extract from the phase 1a planning committee report](http://35percent.org/img/biomassboilerproposed.png)
+
+Here is an extract from the [planning officer report](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!ZjnzKbe5kK9g1qbkCkoQdQ%3d%3d!%7d%7d%7d) for a subsequent application to install the biomass boiler and thereby discharge the requirement.
+
+![Extract from officer report re- application to discharge biomass requirement](/img/phase1abiomass.png)
 
 The Acquiring Authority may attempt to argue that a new planning application is currently being prepared, but the Objectors point out that it is very unlikely that this will meet the more stringent zero carbon policies introduced since the original 2014 planning consent was granted. 
 
@@ -335,10 +357,16 @@ The planning committee report for the FDS says: _The total existing floorspace o
 _
 The report is not clear as to whether this will be paid and given the absence of a CIL liability notice in the planning application documents, the Objectors request further details of whether the CIL contribution is due.
 
+The [S106 agreement] says this:
+
+![](/img/s106cil.png)
+
 [This press release](http://www.southwark.gov.uk/news/2017/feb/a-35m-investment-into-new-community-facilities-at-heart-of-one-of-london-s-biggest-regeneration-projects-has-been-approved) confirms that the Acquiring Authority is footing £23m of the £35m required from its capital budget, the remainder being sourced from s106 contributions from other developments in the borough plus a contribution from NHHT.
 
 The Development Partnership Agreement says that NHHT's contribution to the facilities is £9m - however it also contains a clause saying that NHHT can deduct from this £9m, all of its site assembly costs for the FDS (currently amounting to £14.5m according to paragraph 8.4 of the AA's SoC). 
 
+
+A7.1.40 gives a breakdown of the estimated costs of infrastructure that the tariff will fund. It says how much is required per unit but I can't read it on my pdf as it looks corrupted. I Need to see a hard copy.
 
 ### The Scheme fails to conform with the development plan's Equalities Impact mitigation measures (and consequently PSED)
 The AAAP said there will be a 'range of options to enable leaseholders to stay in area, buy into new scheme etc..'
