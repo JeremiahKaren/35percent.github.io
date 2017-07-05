@@ -7,13 +7,13 @@ footer: true
 ---
 Granting developers planning permission can increase the value of a given plot of land exponentially. In London this can result in windfalls to the developer of tens, sometimes hundreds of millions of pounds. Affordable housing obligations are a way of capturing some of that value while ensuring that developments make some provision for local housing need. 
 
-So why is it that every politician promises us more affordable housing and we end up getting less and less. The answer is viability assessments, the dark art of tweeking the numbers to make developments look less viable than they really are. We have produced this short film explaining the basics of how they do it and how they get away with it.
+So why is it that every politician promises us more affordable housing and we end up getting less and less? The answer is viability assessments; the dark art of tweeking the numbers to make developments look less viable than they really are. We have produced this short film explaining the basics of how developers cook the books and how they get away with it.
 
 <iframe width="450" height="253" src="https://www.youtube.com/embed/QHVFMUaG8fQ" frameborder="0" allowfullscreen></iframe>
 
-We have been very active in campaigning for transparency in viability testing. Viability assessments are a key factor in any planning application as they not only determine the level of affordable housing but also other departures from policy requirements, i.e. parking spaces and public infrastructure contributions.
+We have been very active in campaigning for transparency in viability testing. Viability assessments are a key factor in any planning application as they not only determine the level of affordable housing but also justify other departures from policy requirements, i.e. restrictions on car parking and contributions to public infrastructure.
 
-Following our success in [obtaining the viability assessment](http://35percent.org/2015-06-25-heygate-viability-assessment-finally-revealed/) for the Heygate redevelopment, we published our [Viability for Dummies](http://35percent.org/images/viabilityfordummies.pdf) hanbook, explaining how to obtaining viability assessments via FOI/EIR regulations. Subsequent [media pressure](https://www.theguardian.com/cities/2015/jun/25/london-developers-viability-planning-affordable-social-housing-regeneration-oliver-wainwright) has resulted in three London boroughs and the GLA introducing policies to make viability testing more transparent (Islington, Greenwich and Southwark). 
+Following our success in [obtaining the viability assessment](http://35percent.org/2015-06-25-heygate-viability-assessment-finally-revealed/) for the Heygate redevelopment, we published our [Viability for Dummies](http://35percent.org/images/viabilityfordummies.pdf) hanbook, explaining how to obtain viability assessments via FOI/EIR regulations. Subsequent [media pressure](https://www.theguardian.com/cities/2015/jun/25/london-developers-viability-planning-affordable-social-housing-regeneration-oliver-wainwright) has resulted in three London boroughs and the GLA introducing policies to make viability testing more transparent (Islington, Greenwich and Southwark). 
 
 Below we publish the Heygate viability assessment and various other viability assessments obtained via FOI/EIR from campaign groups across London.
 
