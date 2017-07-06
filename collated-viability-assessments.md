@@ -1,11 +1,11 @@
 ---
 layout: page
 title: "The dark art of viability"
-subtitle: "How developers dodge affordable housing requirements"
+subtitle: "How developers dodge affordable housing obligations"
 sharing: true
 footer: true
 ---
-Granting developers planning permission can increase the value of a given plot of land exponentially. In London this can result in windfalls to the developer of tens, sometimes hundreds of millions of pounds. Affordable housing obligations are a way of capturing some of that value while ensuring that developments make some provision for local housing need. 
+Granting developers planning permission can increase the value of a given plot of land exponentially. In London this can result in windfalls to developers of tens, sometimes hundreds of millions of pounds. Affordable housing obligations are a way of capturing some of that value while ensuring that developments make some provision for local housing need. 
 
 So why is it that every politician promises us more affordable housing and we end up getting less and less? The answer is viability assessments; the dark art of tweeking the numbers to make developments look less viable than they really are. The 35% Campaign and [Woolfe Vision](http://woolfe.vision) have produced this short film explaining the basics of how developers cook the books and how they get away with it.
 
