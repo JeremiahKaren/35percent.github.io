@@ -40,14 +40,13 @@ The adopted Local Plan for the Scheme underlying this Order (“the Scheme”) i
 
 @. The Acquiring Authority may argue that it NHHT is submitting a revised planning application for the FDS as per paragraph 7.2 of its Statement of Case, but this will only increase the overall number of homes by 10 to 840. There still remains a significant shortfall.
 
-The shortfall on remaining phases is much greater. The outline application that accompanied the FDS application gave consent to build a minimum of 1,700 and maximum of 2,745 new homes on the remaining 3 phases of the Scheme. There is no explanation for the significant difference (1,000 homes) between the maximum and minimum provision requirements. It can only be assumed that this has been used as a means of showing ostensible policy compliance, given that the maximum figure has been used to broadly satisfy the AAAP requirement of 2,786 new homes on remaining phases.
+The shortfall on remaining phases is much greater. The outline application that accompanied the FDS application gave consent to build a minimum of 1,700 and maximum of 2,745 new homes on the remaining 3 phases of the Scheme. There is no explanation for the significant difference (1,000 homes) between the maximum and minimum provision requirements, especially given that if the Scheme is built to the minimum specification then it will fail to conform with numerous AAAP requirements. It can only be assumed that this has been used as a means of showing ostensible policy compliance, given that the maximum figure has been used to broadly satisfy the AAAP requirement of 2,786 new homes on remaining phases.
 
 If NHHT builds to the minimum specification agreed, the Scheme would result in a net loss of 561 homes across the FDS and and remaining outline phases. Combined with the completed phases (phase 1a and site 7) this would result in a  
 
-2150
-620
-2770
+![Extract from planning committee report](/img/or4790hr.png)
 
+![Extract from GLA stage 2 report](/img/glastage2aylesbury.png)
 
 ![Extract from S106 agreement](/img/aylesburyoutlinehr.png)
 
