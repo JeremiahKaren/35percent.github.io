@@ -12,9 +12,9 @@ Local Plan for the area"_.
 
 The adopted Local Plan for the Scheme underlying this Order (“the Scheme”) is the [Aylesbury Area Action Plan 2010](http://www.2.southwark.gov.uk/download/downloads/id/13132/aylesbury_area_action_plan_2010_inc_appendices) (“AAAP”) [CD2], which was adopted in January 2010 as part of the Acquiring Authority's local development framework.
 
-@. As a result of the [withdrawal of £180m government funding](http://www.2.southwark.gov.uk/news/article/159/government_to_withdraw_pfi_funding_for_aylesbury) envisaged by the AAAP and significant changes in social housing policy since it was adopted, the Scheme now fails to comply with the following requirements of the development plan:
+@. As a result of the [withdrawal of £180m government funding](http://www.2.southwark.gov.uk/news/article/159/government_to_withdraw_pfi_funding_for_aylesbury) envisaged by the AAAP and subsequent changes in housing policy affecting viability, the Scheme now fails to comply with the following requirements of the development plan:
 
- * Housing uplift requirements
+ * Housing density requirements
  * Affordable housing requirements
  * Typology requirements
  * Renewable Energy requirements
@@ -30,9 +30,9 @@ The adopted Local Plan for the Scheme underlying this Order (“the Scheme”) i
  * Infrastructure Funding requirements
  * Rehousing/PSED mitigation requirements
 
-### Housing uplift requirements
+### Housing density requirements
 
-@. The AAAP said that the scheme would deliver 1,450 extra new homes to contribute to the London Plan requirement of 16,300 new homes by 2016/2017. The Scheme as proposed only guarantees the provision of xxxx, much less than the 1,450 required.
+@. The AAAP said that the scheme would deliver 1,450 extra new homes to contribute to the London Plan requirement of 16,300 new homes by 2016/2017. xxxx extra new homes have been delivered so far in the two completed phases, meaning that xxxx extra new homes are required to be provided by the Scheme underlying the Order. However, the planning consent has only made provision for xxxx.
 
 ![](http://35percent.org/img/aaapnewhomesdensity.png)  
 
@@ -48,11 +48,17 @@ If NHHT builds to the minimum specification agreed, the Scheme would result in a
 
 ![Extract from GLA stage 2 report](/img/glastage2aylesbury.png)
 
-![Extract from S106 agreement](/img/aylesburyoutlinehr.png)
 
 ![Extract from S106 agreement](/img/minimumhr.png)
 
 ![Extract from S106 agreement](/img/dpadevelopmentdefinition.png)
+
+The minimum requirement is either 4790 affordable habitable rooms on the Masterplan site, or 50% of the habitable rooms across the FDS and Masterplan site combined - whichever is the greater.
+So if NHHT delivers 4791 affordable habitable rooms across the FDS and Masterplan site combined then the "Minimum Affordable Housing Requirement" is satisfied.  
+
+A further loophole has been inserted under the definition of habitable room for the purposes of calculation the min affordable housing provison. This allows any room larger than 27.5m2 to be counted as two habitable rooms. 
+
+![Extract from S106 agreement](/img/aylesburyoutlinehr.png)
 
 #### Completed phases
 2758-
@@ -126,10 +132,6 @@ The Acquiring Authority may argue that the AAAP says that net loss of affordable
 
 Further, the AAAP specifies the necessity that _"about 2,100 affordable homes are re-provided"_ in order to satisfy requirements.
 
-Further, the London Plan policy requiring no net loss of affordable floorspace is more current than the AAAP, i.e. the policy was adopted more recently and is therefore a more accurate reflection of current housing need.
-
------
-Not only has the planning committee report for the outline site failed to say how it arrives at the 4790 hr required figure, it has..
 
 
 ### Typology requirements
@@ -152,17 +154,13 @@ The Sustainability Assessment for the AAAP says:
 It also says: _"The revised tenure mix new option was chosen as it minimises the loss of affordable housing and will help develop a mixed and sustainable community. It will also ensure that the rehousing needs of existing tenants are met."_
 
 
-Does the FDS consent fall short of AH reqs by 50 units? is that why they have rejigged the planning apps?
-
-![](/img/fdshousing2.png)
-
 AAAP requires parker morris plus 10%. The Development specification gives some info about this - also compare existing floorspace against proposed floorspace. file://Desktop/Theca5a.pdf
 
 The S106 [Heads of Terms agreement](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!CaG5rOFO9m6tvdWRnS%2b6bg%3d%3d!%7d%7d%7d) shows that despite increasing the density on the FDS there will be a significant reduction in the child yield as a result of the fewer family homes.
 
 ![Extract from the S106 Heads of Terms](/img/fdschildyield.png)
 
-Say something here about the intention of the AAAP to create a family redevelopment...
+Say something here about the intention of the AAAP to create a family-oriented redevelopment to address the needs of existing families on the estate...
 
 -----
 
@@ -366,6 +364,11 @@ The Development Partnership Agreement says that NHHT's contribution to the facil
 
 
 A7.1.40 gives a breakdown of the estimated costs of infrastructure that the tariff will fund. It says how much is required per unit but I can't read it on my pdf as it looks corrupted. I Need to see a hard copy.
+
+--
+Southwark is filling the gap - its SoC confirms it has allocated £100m to the Scheme over next 3/5 years? and £46m has already been spent. Its 2005 Committee decision was based on the assumption that the Scheme would be cost neutral.
+
+Council has already seen xx budget cuts - with £39m cut from adult and social care in this year alone. A further 77% of its budget is due to be cut by 2020. There is a clear austerity case for refurb rather than demolition.
 
 ### The Scheme fails to conform with the development plan's Equalities Impact mitigation measures (and consequently PSED)
 The AAAP said there will be a 'range of options to enable leaseholders to stay in area, buy into new scheme etc..'
@@ -639,7 +642,7 @@ The Acquiring Authority has intimated that there are structural problems with th
 @. In his [report](http://moderngov.southwark.gov.uk/documents/s44932/Officer%20Report%20-%20Comparison%20of%20Discretionary%20Assistance%20Given%20to%20Resident%20Leaseholders.pdf) to that Committee, the Principal Surveyor said _"Some  Councils  offer  equivalent  exchange  whereby  a  leaseholder  swops his/her property for another of the same value.  This has been considered but the properties being regenerated in this Borough tend to be at the lowest level of the value scale. There are unlikely to be similar equivalents that aren’t part of regeneration schemes so such an offer would be hollow. "_  
 
 ## Rehousing options
-@. In his [evidence](http://crappistmartin.github.io/images/Mark_Maginn.pdf) to the site 7 CPO inquiry, Mark Maginn explains that leaseholders are assessed for rehousing on a 'cascade' basis; i.e. they are assessed to see if they can afford shared ownership before being considered for shared equity or other rehousing options. Given that shared ownership is much less attractive and more costly than shared equity, it is no surprise that only 10 of the over 200 leaseholders decanted have qualified for and taken up shared equity.
+@. In his [evidence](http://crappistmartin.github.io/images/Mark_Maginn.pdf) to the site 7 CPO inquiry, Mark Maginn explains that leaseholders are assessed for rehousing on a 'cascade' assessment basis; i.e. they are assessed to see if they can afford shared ownership before being considered for shared equity or other rehousing options. Given that shared ownership is much less attractive and more costly than shared equity, it is no surprise that only 10 of the over 200 leaseholders decanted have qualified for and taken up shared equity.
 
 @. Request stock condition survey mentioned here: Paragraph  25  details  the  stock  condition  survey  undertaken  in  2010  which  has provided  the  most  robust  and  extensive  information  to date  on  the  state  of  the Council's  housing  stock. http://moderngov.southwark.gov.uk/documents/s19609/Report%20Housing%20investment%20programme%20and%20revised%20strategy.pdf
 
@@ -669,8 +672,6 @@ Are there any reports required by the DPA that we can make a request for - or me
 
 Request tenure delivery information: has the AA checked what tenure was delivered on completed phases? it claimed to have done so at the Oct 2015 INquiry but we now know that was a lie. Has the AA completed audit and what are the results for phase 1a and site 7?
 
-Biomass? was it delivered?
-
 [2009 Toolkit](/img/ToolkitAylesburyLeaseholders2009.pdf)
 
 [Hilmi letter telling him qualifies for shared ownership](/img/hilmisharedownership.pdf)
@@ -679,7 +680,7 @@ Biomass? was it delivered?
 Paragraph 4.2.2.2 of Section 4 of the DPA business plan says that NHHT will set aside 142 target rent units for decanting tenants over the first 10 years of the DPA. How many of these have been allocated to date and where are they?
 
 Conclusion:
-In summary, the Acquiring Authority action in making the CPO is oppressive, it has no statutory powers compulsorily to acquire the Objector’s land or to develop a highway as the principal element of the regeneration proposals. The Acquiring Authority has also failed to comply with several requirements identified in Circular 06/2004. If, contrary to the above, the CPO is confirmed, it is clearly vulnerable to further challenge in the High Court under s.23 of the Acquisition of Land Act 1981, which could result in the CPO being quashed.
+In summary, the Acquiring Authority's action in making the CPO is oppressive, it has no statutory powers compulsorily to acquire the Objector’s land or to develop a highway as the principal element of the regeneration proposals. The Acquiring Authority has also failed to comply with several requirements identified in Circular 06/2004. If, contrary to the above, the CPO is confirmed, it is clearly vulnerable to further challenge in the High Court under s.23 of the Acquisition of Land Act 1981, which could result in the CPO being quashed.
 
 The CPO should therefore be withdrawn forthwith to avoid any further wasted costs.
 
