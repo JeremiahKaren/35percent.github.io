@@ -12,7 +12,7 @@ Cllr John backed up his call by trumpeting Southwark's claim of having the large
 
 However, what remains unsaid is that the 11,000 new 'council homes' will fail to replace those predicted to be lost through right-to-buy over that period and those being demolished on the Heygate and Aylesbury estates. 
 
-![](http://crappistmartin.github.io/images/SN11homes.png)
+![](http://crappistmartin.github.io/images/SN1100homes.png)
 
 Neither does it account for the thousands of other council homes lost through other estate regeneration schemes over the last few years.
 
