@@ -4,13 +4,17 @@ title: "The Southwark Clearances"
 comments: true
 categories: [Estate regeneration, New council homes] 
 ---
-David Cameron's [announcement](https://www.gov.uk/government/news/prime-minister-pledges-to-transform-sink-estates) that the government will be regenerating 100 council estates across the country, should send a chill down the spine of every council tenant and leaseholder in the country.
+Council leader Peter John recently stood up at a Local Government Association conference and claimed that building new council housing is the answer to the housing crisis.
 
-![](/img/camerondailymail.jpg)
+![](/img/pjlgaconf.jpg)
 
-This, combined with the Housing & Planning Bill that's being railroaded through parliament, has been interpreted by many as the end of social housing. It is hard to disagree.
+Cllr John backed up his call by trumpeting Southwark's claim of having the largest council house building programme in the country - 11,000 new homes (over the next 30 years).
 
-Here in Southwark, we know how these estate regenerations - full of [promises](/affordable-housing/) of replacement 'social' housing and [rights to return](/2013-06-08-the-heygate-diaspora/) - usually end up. The Heygate is the most notorious example, but it is just one of many:
+However, what remains unsaid is that the 11,000 new 'council homes' will fail to replace those predicted to be lost through right-to-buy over that period and those being demolished on the Heygate and Aylesbury estates. 
+
+![](http://crappistmartin.github.io/images/SN11homes.png)
+
+Neither does it account for the thousands of other council homes lost through other estate regeneration schemes over the last few years.
 
 |   | Estate  | Council homes demolished  | Total new homes  | of which social rented  |
 |---|---|---|---|---|
@@ -29,6 +33,8 @@ Here in Southwark, we know how these estate regenerations - full of [promises](/
 That's a loss of 7,639 council homes and net loss of 4,424 social rented homes as a direct result of Southwark's regeneration schemes to date. The [GLA has predicted](https://www.london.gov.uk/press-releases/assembly/darren-johnson/loss-of-social-housing-through-estate-regeneration) that Southwark will lose 2,051 social rented homes as a result of schemes in its current pipeline (far more than any other borough) and GLA figures [show that](http://35percent.org/2016-05-07-southwark-in-bottom-3-boroughs-for-affordable-housing-delivery/) Southwark is in the bottom 3 boroughs for affordable housing delivery. In addition, we can't even be sure that the small number of social rented housing provided isn't actually affordable rent or won't morph into it - as reported [here](http://35percent.org/redefining-social-rent/). 
 
 ![Mayor Johnson and council leader Peter John celebrating Heygate redevelopment](http://35percent.org/img/bojoandpj2.jpg)
+
+Needless to say that Cllr John's council house building programme is [well behind](https://www.southwarknews.co.uk/news/council-admits-will-miss-target-build-1500-new-council-homes-2018/) on delivering its 11,000 target and the few new 'council homes' that have been delivered have not only been [bought from developers](http://35percent.org/2017-04-29-blackfriars-affordable-housing-circus/) but are [being let at affordable rather than social rent](http://35percent.org/2017-04-29-blackfriars-affordable-housing-circus/#10m-wasted-and-new-council-homes-not-even-social-rent). 
 
 ## Completing Southwark's clearances with Savills
 <img src="/img/socialcleanserssavills.jpg" align="left" style="margin:10px" width="100">Despite widespread criticism, Southwark is [ploughing ahead](/2015-03-28-manifesto-for-destruction-of-council-estates/) with further regeneration plans, largely informed by Savills which it has instructed to develop and manage an (APEX) asset management system and advise on strategy for future management of its housing stock. In 2013 Savills produced a [Housing Stock Options report](http://moderngov.southwark.gov.uk/documents/s39341/Appendix%207%20Savills%20finance%20and%20stock%20options%20appraisal%20report.pdf), which described a _“legacy of housing in Southwark that is now reaching the end of its life”_ and outlined the _“potential for the Council to improve its business plan .. through effective asset management. This would mean identifying those assets which are a net liability in the plan, and exploring alternative options for those properties”_

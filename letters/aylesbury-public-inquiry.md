@@ -370,6 +370,8 @@ Southwark is filling the gap - its SoC confirms it has allocated £100m to the S
 
 Council has already seen xx budget cuts - with £39m cut from adult and social care in this year alone. A further 77% of its budget is due to be cut by 2020. There is a clear austerity case for refurb rather than demolition.
 
+[This article](https://www.southwarknews.co.uk/news/installing-sprinklers-southwarks-council-housing-cost-100m/) confirms the Council is considering spending £100m on sprinklers for its tower blocks and admits that if no govt funding is found then _"other things will have to be put on hold"_.
+
 ### The Scheme fails to conform with the development plan's Equalities Impact mitigation measures (and consequently PSED)
 The AAAP said there will be a 'range of options to enable leaseholders to stay in area, buy into new scheme etc..'
 
@@ -708,6 +710,8 @@ NHHT pays for demolition but the total cost will be deducted from its £9m publi
 
 
 Subsequent plots depend on plot premium in para 2 of schedule 4 which says:
+
+Word is Barratt has pulled out??
 
 
 ------
