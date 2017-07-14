@@ -188,9 +188,9 @@ Not only is this crystal clear on how rents can be rebased to 80% market rent on
 
 So from the details we have so far it would appear that there is nothing in the GLA's funding agreement that would stop a housing association from issuing a fixed term tenancy on a London Affordable Rent home and then racking up the rent to 80% market at the end of the tenancy? 
 
-Jamie Ratcliff's response is that the Capital Funding Guidance _'hasn't been updated yet'_ and that it and the GLA's standard form funding agreement will be updated to _'be clear that benchmarks act as caps in perpetuity'_
+Jamie Ratcliff's [response](https://twitter.com/Jamrat_/status/885766590633058304) is that the Capital Funding Guidance _'hasn't been updated yet'_ and that it and the GLA's standard form funding agreement will be updated to _'be clear that benchmarks act as caps in perpetuity'_
 
-Given that the [Standard Form Agreement](http://35percent.org/img/standardformagreement2017.pdf) is current 2017 and specific to this funding programme, why is it that the word perpetuity wasn't written into it in the first place? and why is it silent on relets?
+But, given that the [Standard Form Agreement](http://35percent.org/img/standardformagreement2017.pdf) is current 2017 and specific to this funding programme, why is it that the word perpetuity wasn't written into it in the first place? and why is it silent on relets?
 
 ![](/img/fa2017.png)
 *The GLA's Standard Form Funding Agreement for AHP 2016-21 - dated 2017*
