@@ -154,10 +154,53 @@ To further muddy the already muddy waters, GLA Assembly Member and Labour housin
 Tom has [argued](https://twitter.com/tomcopley/status/842031557284118528) that __London Affordable Rent__ _'is effectively social rent'_. But we have [pointed out](https://twitter.com/35percent_EAN/status/842034373318868994) that the [policy definition](https://www.london.gov.uk/sites/default/files/homesforlondoners-affordablehomesprogrammefundingguidance.pdf) says something else. It says that social rent levels are only _'the starting point'_ for setting __London Affordable Rent__ levels and that _'other rent levels will also be considered'_. 
 
 ![](/img/londonaffordablerent.png)
-*Policy definition from the Mayor's [funding programme](https://www.london.gov.uk/sites/default/files/homesforlondoners-affordablehomesprogrammefundingguidance.pdf)*
+*Policy definition from the Mayor's [funding programme guidance](https://www.london.gov.uk/sites/default/files/homesforlondoners-affordablehomesprogrammefundingguidance.pdf)*
 
-The Mayor's funding programme guidance also makes it clear that product is __Affordable Rent__ and will be regulated as such.
+The Mayor's funding programme guidance makes it clear that __London Affordable Rent__ levels will be capped such that they cannot increase by more than CPI +1% per year, paragraph 11 also says that the tenure product will be governed in accordance with the _"Social Housing Regulator's Affordable Rent Guidance"_. The Social Housing Regulator is the Homes and Communities Agency and their Affordable Rent Guidance is in their [Rent Standard Guidance](https://www.gov.uk/government/publications/rent-standard-guidance) (pages 12-15).
 
 ![](/img/homesforlondonerslar.png)
+
+Worryingly, page 13 of the Rent Standard Guidance says that Affordable Rent levels can be re-based to up to 80% market rent when a tenancy is reissued.
+
+![](/img/rsg.png)
+*Extract from the HCA's [Rent Standard Guidance](https://www.gov.uk/government/publications/rent-standard-guidance) for Affordable Rented tenure*
+
+Giles Peaker from Anthony Gold solicitors has rightly [pointed out](https://twitter.com/nearlylegal/status/885597479168876544) that the paragraph Mayor's funding programme guidance is not binding and that the devil is in the detail of the (legal) funding agreement. 
+
+GLA Housing Chief Jamie Ratcliff [responded](https://twitter.com/Jamrat_/status/885617818661773312) by providing a copy of the [standard form funding agreement](/img/standardformagreement2017.pdf). The small print of which brings raises some serious concerns. The paragraph relating to setting __London Affordable Rent__ (LAR) rent levels says that _"initial rents" will be set by the (near social-rent) benchmarks but "such rent continues to be set and charged in accordance with the criteria of the __London Affordable Rent__"._
+
+![](/img/initialrent.png)
+*Extract from the GLA's standard form funding agreement*
+
+If we then take a look at the _"criteria of the __London Affordable Rent__"_ further on in the contract, we see that the LAR tenure product is to be governed _"in accordance with the applicable requirements of the Affordable Housing Capital Funding Guide, Legislation, the Rent Standard and any other relevant Guidance issued by the Regulator"_. 
+
+![](/img/ahcfg.png)
+*Extract from the GLA's standard form funding agreement*
+
+Not only does it reference the HCA's Rent Standard Guidance that we have already mentioned, but it references the government's [Affordable Housing Capital Funding Guide](https://www.gov.uk/guidance/capital-funding-guide/4-housing-for-rent#rent-reviews) which says this:
+
+![](/img/rentreviews.png)
+*Extract from the government's Affordable Housing Capital Funding Guide*
+
+Not only is this crystal clear on how rents can be rebased to 80% market rent on relet but it also states that the tenure is governed by the _" will be subject to requirements of the Welfare Reform and Work Act 2016 and regulations made under it."_.  
+
+Jamie Ratcliff's response is that the Capital Funding Guidance _'hasn't been updated yet'_ and that it and the GLA's standard form funding agreement will be updated to _'be clear that benchmarks act as caps in perpetuity'_
+
+Given that the Standard Form Agreement is current 2017 and specific to this funding programme, why is it that the word perpetuity wasn't written into it in the first place?
+
+When will the Standard Form Agreement be updated?
+
+When will the Capital Funding Guidance be updated?
+
+How will the GLA ensure that the govt agrees to insert the perpetuity guarantee for London Affordable Rent? 
+
+Will the GLA publish the individual details? - i.e. NHHT's agreement for the Aylesbury? 
+
+http://www.standard.co.uk/news/mayor/sadiq-khan-announces-17bn-deal-to-build-50000-affordable-homes-across-london-a3586911.html
+17,500 LAR
+80% of which at Benchmark Rents - but what Benchmarks?
+
+Fixed grant rates of £60k per home
+Represents 10% of build/provision cost
 
 All in all, the Mayor's new affordable housing policy does nothing but further confuse affordable housing terminology, while reducing the policy requirement for social rented housing and allowing it to be substituted by other tenures. We have submitted a detailed response to the Mayor's policy proposals in which we are asking him to go back to the drawing board - you can [read it here.](https://justspacelondon.files.wordpress.com/2017/02/affordable-hsg-spg-35-response-draft.pdf) 
