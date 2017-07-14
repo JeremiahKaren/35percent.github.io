@@ -4,6 +4,7 @@ title: "Redefining social rent"
 subtitle: "Morphing social into affordable rent"
 sharing: true
 footer: true
+comments: true
 ---
 Southwark Council has [fought vehemently](http://www.southwark.gov.uk/news/article/1617/southwark_council_challenges_mayor_over_affordable_rent) against the Tory-led introduction of __affordable rent__, i.e. rents of up to 80% market rent.
 
