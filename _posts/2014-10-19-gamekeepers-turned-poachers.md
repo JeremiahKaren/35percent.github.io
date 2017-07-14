@@ -71,13 +71,13 @@ Another working example is [Strata Tower](/strata-tower/), which shows what a sh
 
 The planning application was duly nodded through and Strata Tower - entirely without social rented housing but complete with useless wind turbines - was built.  
 
-## Inclusive prosperity
+## Revolving doors
 It is worth noting that the council's E&C regeneration partner Lend Lease, is absent from the list of __Four__'s clients. That's because Lend Lease employs a different PR company called [__Quatro__](http://www.quatro-pr.co.uk/) to handle PR for its developments. It's also worth noting that __Quatro__'s Managing Director [Paul Dimoldenberg](https://www.linkedin.com/pub/paul-dimoldenberg/a/5b5/b44), is a former senior Southwark council officer and current leader of the Labour group on Westminster city council. 
 
  ![](http://betterelephant.github.io/images/dimoldenberg.jpg)
 *Private Eye (issue 1380 - 25 Nov 2014)*
 
-Paul is one of [many](/revolving-doors/) former Southwark Council officers and members who have shown that regeneration does indeed provide a wealth of opportunity. They have given a whole new meaning to the mantra of __"inclusive prosperity"__.   
+Paul is just one of former Southwark Council officers and members who have shown that regeneration provides a wealth of opportunity - for those making use of its [revolving doors](/revolving-doors)..   
 
 __Footnotes:__
 
