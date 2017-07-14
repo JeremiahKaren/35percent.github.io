@@ -194,13 +194,13 @@ Jamie Ratcliff's [initial response](https://twitter.com/Jamrat_/status/885766590
 
 The Mayor negotiated the funding for this affordable homes programme in a [£3.15bn deal](https://www.london.gov.uk/press-releases/mayoral/mayor-welcomes-devolution-in-autumn-statement) with the Chancellor last November, so it's surprising that the HCA Capital Funding Guide hasn't been amended yet to include the LAR rebasing exemptions that Jamie says will be included. Could the HCA/DCLG be resisting such exemptions?
 
-With 17,500 new __London Affordable Rent__ homes proposed in the Mayor's new [£17bn deal to build 'affordable' homes](http://www.standard.co.uk/news/mayor/sadiq-khan-announces-17bn-deal-to-build-50000-affordable-homes-across-london-a3586911.html) across London, many questions remain unanswered:
+With 17,500 new __London Affordable Rent__ homes proposed in just the first round of the Mayor's new [£17bn deal to build 'affordable' homes](http://www.standard.co.uk/news/mayor/sadiq-khan-announces-17bn-deal-to-build-50000-affordable-homes-across-london-a3586911.html) across London, many questions remain unanswered:
 
  * When will the HCA update the Capital Funding Guide to exempt LAR from rebasing on relets?
 
  * Why has this still not been done at this late stage, given that the deal was struck in November 2016? 
 
- * How will the GLA ensure that the Tory-run DCLG/HCA agrees to the exemptions for LAR? 
+ * How will the GLA ensure that the Tory-run DCLG/HCA agrees to the rebasing exemptions for LAR? 
 
-Meanwhile, if the small print is not updated and LAR tenure not exempted from rebasing on relets, then the Mayor's new __London Affordable Rent__ will prove to be but a quick and temporary fix that will last only as long as the fixed term tenancies issued under this new tenure and the Mayor's tenure itself. 
+Meanwhile, if the small print is not updated and LAR tenure not exempted from rebasing on relets, then the Mayor's new __London Affordable Rent__ will prove to be but a quick and temporary fix that will last only as long as the fixed term tenancies issued under this new tenure and possibly also the Mayor's tenure itself. 
 
