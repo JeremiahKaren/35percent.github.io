@@ -190,7 +190,7 @@ So from the details we have so far it would appear that there is nothing in the 
 
 Jamie Ratcliff's [response](https://twitter.com/Jamrat_/status/885766590633058304) is that the Capital Funding Guidance _'hasn't been updated yet'_ and that it and the GLA's standard form funding agreement will be updated to _'be clear that benchmarks act as caps in perpetuity'_
 
-But, given that the [Standard Form Agreement](http://35percent.org/img/standardformagreement2017.pdf) is current 2017 and specific to this funding programme, why is it that the word perpetuity wasn't written into it in the first place? and why is it silent on relets?
+But, given that the [Standard Form Agreement](http://35percent.org/img/standardformagreement2017.pdf) is current (2017) and specific to this funding programme and given that the Mayor and his team have been working on this for over a year, why wasn't the perpetuity clause written into the agreement in the first place? 
 
 ![](/img/fa2017.png)
 *The GLA's Standard Form Funding Agreement for AHP 2016-21 - dated 2017*
