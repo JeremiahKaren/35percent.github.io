@@ -134,27 +134,27 @@ The Acquiring Authority may argue that the AAAP says that net loss of affordable
 Further, the AAAP specifies the necessity that _"about 2,100 affordable homes are re-provided"_ in order to satisfy requirements.
 
 ----
-NHHT's failure to ensure that there is no net loss of affordable housing may present a barrier to it receiving funding for the redevelopment. The Mayor's [funding agreement](http://35percent.org/img/standardformagreement2017.pdf) requires all estate regeneration schemes funded by his programme to comply with his [Good Practice Principles for Estate Regeneration](https://www.london.gov.uk/sites/default/files/draftgoodpracticeestateregenerationguidedec16v2.pdf):
+NHHT's failure to ensure that there is no net loss of affordable housing may present a barrier to it receiving funding for the redevelopment. The Mayor's [funding agreement](http://35percent.org/img/standardformagreement2017.pdf) requires all estate regeneration schemes funded by his programme to comply with his [Good Practice Guide to Estate Regeneration](https://www.london.gov.uk/sites/default/files/draftgoodpracticeestateregenerationguidedec16v2.pdf):
 
 ![](/img/standardformer.png)
 *Extract from the Mayor's [funding agreement](http://35percent.org/img/standardformagreement2017.pdf)*
 
-The Mayor's [Good Practice Principles](https://www.london.gov.uk/sites/default/files/draftgoodpracticeestateregenerationguidedec16v2.pdf) clearly state that _"demolition should only be followed where it does not result in a loss of social housing"_. 
+The Mayor's [Good Practice Guide](https://www.london.gov.uk/sites/default/files/draftgoodpracticeestateregenerationguidedec16v2.pdf) clearly state that _"demolition should only be followed where it does not result in a loss of social housing"_. 
 
 ### Tenure requirements
 The AAAP requires 37.5% of all new homes to be social rented tenure. The AAAP was adopted before the introduction of the new Affordable Rent tenure.
 
-It is understood that NHHT is funding the social rented homes on the FDS with a grant from the GLA's Affordable Housing Programme 2016-2021. The GLA's [funding agreement](http://35percent.org/img/standardformagreement2017.pdf) for this programme does not provide for social rent. Instead it offers funding for a tenure named 'London Affordable Rent'. The funding agreement makes it clear that this effectively the Affordable Rent tenure and subject to regulations and legislation governing Affordable Rent:
+It is understood that NHHT is funding the social rented homes on the FDS with a grant from the GLA's Affordable Housing Programme 2016-2021. The GLA's [funding agreement](http://35percent.org/img/standardformagreement2017.pdf) for this programme does not provide for social rent. Instead it offers funding for a tenure named 'London Affordable Rent' (LAR). The funding agreement makes it clear that this effectively the Affordable Rent tenure and subject to regulations and legislation governing Affordable Rent:
 
 ![](http://35percent.org/img/rentstandardpara.png)
 *Extract from the Mayor's [funding agreement](http://35percent.org/img/standardformagreement2017.pdf)*
 
-Furthermore, the funding agreement prescribes a specific formula for how London Affordable Rent levels are to be set:
+Furthermore, the funding agreement prescribes a specific formula for how LAR rent levels are to be set:
 
 ![](/img/larformula.png)
 *Extract from the Mayor's [funding agreement](http://35percent.org/img/standardformagreement2017.pdf)*
 
-This formula conflicts with the formula for the setting of social rents prescribed in the Rent Standard Guidance and will result in London Affordable Rents increasing by more than social rents year on year. 
+This formula conflicts with the formula for the setting of social rents prescribed in the Rent Standard Guidance and will result in LAR rents increasing proportionally by more than social rents year on year. LAR tenure is not social rented tenure required by the AAAP, it is subject to different regulation and legislation (enabling fixed-term rather than secure tenancies, pay to stay, etc). 
 
 ### Typology requirements
 @. The AAAP says _"There will be a significant proportion of family homes with 23% houses, together with all the facilities needed by families, to make sure that the whole area is family-friendly."_
