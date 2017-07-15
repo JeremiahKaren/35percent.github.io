@@ -196,13 +196,5 @@ Jamie Ratcliff's [initial response](https://twitter.com/Jamrat_/status/885766590
 
 Given that the Mayor negotiated the funding for this affordable homes programme in a [£3.15bn deal](https://www.london.gov.uk/press-releases/mayoral/mayor-welcomes-devolution-in-autumn-statement) with the Chancellor last November, it's surprising that the HCA Capital Funding Guide hasn't been amended yet to include the LAR rebasing exemptions that Jamie says will be included. Could there be an issue with the HCA/DCLG be resisting such exemptions?
 
-With 17,500 new __London Affordable Rent__ homes proposed in just the first round of the Mayor's new [£17bn deal to build 'affordable' homes](http://www.standard.co.uk/news/mayor/sadiq-khan-announces-17bn-deal-to-build-50000-affordable-homes-across-london-a3586911.html) across London, many questions remain unanswered:
-
- * When will the HCA update the Capital Funding Guide to exempt LAR from rebasing on relets?
-
- * Why has this still not been done at this late stage, given that the deal was struck in November 2016? 
-
- * How will the GLA ensure that the Tory-run DCLG/HCA agrees to the rebasing exemptions for LAR? 
-
-Meanwhile, if the small print is not updated and LAR tenure not exempted from rebasing on relets, then the Mayor's new __London Affordable Rent__ might prove to be just a quick and temporary fix that may last only as long as the fixed term tenancies issued under this new tenure.
+With 17,500 new __London Affordable Rent__ homes proposed in just the first round of the Mayor's new [£17bn deal to build 'affordable' homes](http://www.standard.co.uk/news/mayor/sadiq-khan-announces-17bn-deal-to-build-50000-affordable-homes-across-london-a3586911.html) across London it's important that the Mayor gets this right. If the small print is not updated, then the Mayor's new __London Affordable Rent__ may prove to be just a quick and temporary fix that lasts only as long as the fixed term tenancies issued under this new tenure.
 
