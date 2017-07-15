@@ -15,7 +15,8 @@ The adopted Local Plan for the Scheme underlying this Order (“the Scheme”) i
 @. As a result of the [withdrawal of £180m government funding](http://www.2.southwark.gov.uk/news/article/159/government_to_withdraw_pfi_funding_for_aylesbury) envisaged by the AAAP and subsequent changes in housing policy affecting viability, the Scheme now fails to comply with the following requirements of the development plan:
 
  * Housing density requirements
- * Affordable housing requirements
+ * Net loss of affordable housing requirements
+ * Tenure requirements
  * Typology requirements
  * Renewable Energy requirements
  * Building Heights requirements
@@ -78,7 +79,7 @@ The AAAP was adopted and planning application passed before the Mayor announced 
 
 Paragraph 88 of the [planning committee report](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!Vbu5QpckfYCnJrulzlWyuQ%3d%3d!%7d%7d%7d) for the outline application re-iterates that _"A key objective of the AAAP (Policy BH1 Number of homes) is to increase the number of homes on the estate"_. The Scheme underlying the order as it stands will fail to achieve this objective.
 
-### Affordable housing requirements
+### Net loss of affordable housing requirements
 Policy 3.3.1 of the AAAP envisages just a small net loss of 150 affordable homes across the scheme as a whole. However,paragraph 86 of the planning committee report for the FDS confirms that there will be a net loss of 105 affordable units on the order land alone.
  
 In order to provide sufficient capacity for the tenants rehoused from phase 2, policy BH3 of the AAAP requires 59% of all new homes in phase 1 to be affordable. The consented plans for the FDS (phase 1b/1c) show that just 49% are affordble. The [planning committee report](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!Rp6LgXCaiEovOO%2bcFsi3MA%3d%3d!%7d%7d%7d) for the completed phase 1a shows that also just 51% of the new homes on that site are affordable. 
@@ -132,7 +133,28 @@ The Acquiring Authority may argue that the AAAP says that net loss of affordable
 
 Further, the AAAP specifies the necessity that _"about 2,100 affordable homes are re-provided"_ in order to satisfy requirements.
 
+----
+NHHT's failure to ensure that there is no net loss of affordable housing may present a barrier to it receiving funding for the redevelopment. The Mayor's [funding agreement](http://35percent.org/img/standardformagreement2017.pdf) requires all estate regeneration schemes funded by his programme to comply with his [Good Practice Principles for Estate Regeneration](https://www.london.gov.uk/sites/default/files/draftgoodpracticeestateregenerationguidedec16v2.pdf):
 
+![](/img/standardformer.png)
+*Extract from the Mayor's [funding agreement](http://35percent.org/img/standardformagreement2017.pdf)*
+
+The Mayor's [Good Practice Principles](https://www.london.gov.uk/sites/default/files/draftgoodpracticeestateregenerationguidedec16v2.pdf) clearly state that _"demolition should only be followed where it does not result in a loss of social housing"_. 
+
+### Tenure requirements
+The AAAP requires 37.5% of all new homes to be social rented tenure. The AAAP was adopted before the introduction of the new Affordable Rent tenure.
+
+It is understood that NHHT is funding the social rented homes on the FDS with a grant from the GLA's Affordable Housing Programme 2016-2021. The GLA's [funding agreement](http://35percent.org/img/standardformagreement2017.pdf) for this programme does not provide for social rent. Instead it offers funding for a tenure named 'London Affordable Rent'. The funding agreement makes it clear that this effectively the Affordable Rent tenure and subject to regulations and legislation governing Affordable Rent:
+
+![](http://35percent.org/img/rentstandardpara.png)
+*Extract from the Mayor's [funding agreement](http://35percent.org/img/standardformagreement2017.pdf)*
+
+Furthermore, the funding agreement prescribes a specific formula for how London Affordable Rent levels are to be set:
+
+![](/img/larformula.png)
+*Extract from the Mayor's [funding agreement](http://35percent.org/img/standardformagreement2017.pdf)*
+
+This formula conflicts with the formula for the setting of social rents prescribed in the Rent Standard Guidance and will result in London Affordable Rents increasing by more than social rents year on year. 
 
 ### Typology requirements
 @. The AAAP says _"There will be a significant proportion of family homes with 23% houses, together with all the facilities needed by families, to make sure that the whole area is family-friendly."_
