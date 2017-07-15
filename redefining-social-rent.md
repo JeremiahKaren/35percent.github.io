@@ -170,10 +170,10 @@ The agreement says nothing about what should happen in the event of a relet and 
 ![](/img/rentstandardpara.png)
 *Extract from the GLA's [Standard Form Funding Agreement](http://35percent.org/img/standardformagreement2017.pdf)*
 
-So what happens subsequent to the initial let at the Benchmark levels, appears to be contracted out, i.e. governed by the regulations of the HCA's [Rent Standard Guidance](https://www.gov.uk/government/publications/rent-standard-guidance), which says that Affordable Rent levels can be re-based to up to 80% market rent when a tenancy is reissued.
+So what happens subsequent to the initial let at the Benchmark levels, appears to be contracted out, i.e. governed by the regulations of the HCA's [Rent Standard Guidance](https://www.gov.uk/government/publications/rent-standard-guidance), which says that Affordable Rent levels can be re-based to up to 80% market rent when a tenancy is reissued:
 
 ![](/img/rsg.png)
 *Extract from the HCA's [Rent Standard Guidance](https://www.gov.uk/government/publications/rent-standard-guidance) for Affordable Rented tenure*
 
-With 17,500 new __London Affordable Rent__ homes proposed in just the first round of the Mayor's new [£17bn deal to build 'affordable' homes](http://www.standard.co.uk/news/mayor/sadiq-khan-announces-17bn-deal-to-build-50000-affordable-homes-across-london-a3586911.html) across London it's important that the Mayor gets this right. If the small print is not amended to ensure Benchmark Rent Level caps on relets and in perpetuity, then the Mayor's new __London Affordable Rent__ may prove to be just a quick and temporary fix that lasts only as long as the fixed term tenancies issued under this new tenure.
+With 17,500 new __London Affordable Rent__ homes proposed in just the first round of the Mayor's new [£17bn deal to build 50,000 'affordable' homes](http://www.standard.co.uk/news/mayor/sadiq-khan-announces-17bn-deal-to-build-50000-affordable-homes-across-london-a3586911.html) across London, it's important that the Mayor gets this right. If the small print isn't amended to make it clear that Benchmark rents apply to relets and in perpetuity, then the Mayor's new __London Affordable Rent__ may prove to be just a quick and temporary fix that lasts only as long as the fixed term tenancies issued under this new tenure.
 
