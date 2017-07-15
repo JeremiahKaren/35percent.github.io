@@ -160,7 +160,7 @@ Tom has [argued](https://twitter.com/tomcopley/status/842031557284118528) that _
 ![](/img/londonaffordablerent.png)
 *Policy definition from the Mayor's [funding programme guidance](https://www.london.gov.uk/sites/default/files/homesforlondoners-affordablehomesprogrammefundingguidance.pdf)*
 
-A closer look at the [legal funding agreement](/img/standardformagreement2017.pdf) behind the programme raises further concerns; the clause relating to the setting of __London Affordable Rent__ (LAR) rent levels, appears to cover only the initial let: 
+A closer look at the [legal funding agreement](/img/standardformagreement2017.pdf) behind the programme raises further concerns; the provision relating to the setting of __London Affordable Rent__ (LAR) rent levels, appears to cover only the initial let: 
 
 ![](/img/initialrent.png)
 *Extract from the GLA's [Standard Form Funding Agreement](http://35percent.org/img/standardformagreement2017.pdf)*
