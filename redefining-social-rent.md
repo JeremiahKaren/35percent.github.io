@@ -24,19 +24,19 @@ The same [affordable rent study](http://www.southwark.gov.uk/downloads/download/
 ![](/img/AffordableRentStudy2015.png)
 *Southwark's Affordable Rent Study 2015 showing average weekly market and social rents*
 
-The main problem with linking rents to market rents is that rents rise in line with market increases not wages. This has the obvious result of pricing out those whose incomes cannot keep up with the manic gentrification programme fuelled by Southwark Council's policies. The result is that teachers and nurses are being [forced out](http://www.standard.co.uk/news/london/nurses-and-teachers-living-in-affordable-housing-scheme-face-20-rent-rise-a3304431.html) of the borough by 20% year-on-year rent increases.  
+The main problem with linking affordable rents to market rents is that rents rise in line with market rent increases not wages. This has the obvious result of pricing out those whose incomes cannot keep up with the manic gentrification programme fuelled by Southwark Council's policies. The result is that teachers and nurses are being [forced out](http://www.standard.co.uk/news/london/nurses-and-teachers-living-in-affordable-housing-scheme-face-20-rent-rise-a3304431.html) of the borough by 20% year-on-year rent increases.  
 
-Despite the Council's policy commitments to social rent, the vast majority of replacement social rented homes on the Heygate were substituted for affordable rent and in March 2015 we [discovered](http://35percent.org/2015-03-18-stand-up-for-more-social-housing/) that 44 social rented units that were supposed to have replaced 54 council homes demolished at the Bermondsey Spa regeneration, had in fact been provided as affordable rent of 62% market rent - in breach of the planning approval. We also [discovered](https://www.theguardian.com/artanddesign/architecture-design-blog/2015/jul/21/neo-bankside-how-richard-rogers-new-non-dom-accom-cut-out-the-poor) that the Richard Rogers [Neo Bankside](http://35percent.org/neo-bankside) development had provided 32 social rented homes fewer than the number agreed at planning committee. 
+Despite the Council's policy commitments to social rent, the vast majority of replacement social rented homes on the Heygate were substituted for affordable rent and in March 2015 we [discovered](http://35percent.org/2015-03-18-stand-up-for-more-social-housing/) that 44 social rented units that were supposed to have replaced 54 council homes demolished at the Bermondsey Spa regeneration, had in fact been provided as affordable rent of 62% market rent - in breach of the planning approval. We also [discovered](https://www.theguardian.com/artanddesign/architecture-design-blog/2015/jul/21/neo-bankside-how-richard-rogers-new-non-dom-accom-cut-out-the-poor) that the high-profile [Neo Bankside](http://35percent.org/neo-bankside) development had provided 32 social rented homes fewer than the number agreed by the Council's planning committee. 
 
 We later discovered that developers and housing associations across the borough were routinely breaching planning approvals, either by substituting social for affordable rent or simply not providing the number of affordable homes required by individual planning consents.
 
-By cross-checking planning committee reports, section 106 agreements, Land Registry information, the [GLA affordable housing outturn dataset](http://data.london.gov.uk/dataset/gla-affordable-housing-programme-outturn/resource/0c87e5dc-f1e9-4edf-b246-bef6b40a9ba3) and [CORE lettings data](https://core.communities.gov.uk/), we have compiled a long (but by no means exhaustive) [list](http://35percent.org/img/section106_tenure_breaches.pdf) of breaches identified in tenure provision. This causes great concern that the Council is opposed to affordable rent only in appearance - not in practice. We believe that the Council's administration is turning a blind eye to this practice, which helps it make claims to delivering social rented housing in the borough, which is in fact nothing of the kind.
+By cross-checking planning committee reports, section 106 agreements, Land Registry information, the [GLA affordable housing outturn dataset](http://data.london.gov.uk/dataset/gla-affordable-housing-programme-outturn/resource/0c87e5dc-f1e9-4edf-b246-bef6b40a9ba3) and [CORE lettings data](https://core.communities.gov.uk/), we have compiled a long (but by no means exhaustive) [list](http://35percent.org/img/section106_tenure_breaches.pdf) of breaches identified in affordable housing tenure provision. This causes great concern that the Council is opposed to affordable rent only in appearance - not in practice. We believe that the Council's administration is turning a blind eye to this practice, which helps it make claims to delivering social housing in the borough, which is nothing of the kind.
 
-The [list](http://35percent.org/img/section106_tenure_breaches.pdf) is by no means exhaustive and we are calling for a borough-wide audit in order to establish the full scale of the problem. We submitted it to the Council as part of our [corporate complaint](/img/ccomplaint15Dec2016.pdf) in December 2015.
+The [list](http://35percent.org/img/section106_tenure_breaches.pdf) of breaches is by no means exhaustive and we are calling for a borough-wide audit in order to establish the full scale of the problem. We submitted our list to the Council as part of our [corporate complaint](/img/ccomplaint15Dec2016.pdf) in December 2015.
 
-In July 2016 we finally received a [response](/img/complaintresponseMWilliams.pdf) from Southwark Council to our [complaint](/img/ccomplaint15Dec2016.pdf). We were very disappointed to discover that the Council hadn't actually investigated the tenure delivery on the sites we identified (it had merely insisted that the S106 agreement wording for each site is sound). We subsequently [referred](/img/Ombudsman18July2016.pdf) our complaint the Local Government Ombudsman. After a five month investigation, in December 2016 the Ombudsman [published a report](http://35percent.org/2016-12-12-ombudsman-slams-southwark-for-no-s106-monitoring/) showing that the Council does no monitoring or enforcement whatsoever of the tenure mix delivered through S106 agreements. It said that the Council relied on 'voluntary compliance' and that as a result, _‘it is hard to know how many social housing units…developers [have] delivered’_. The Ombudsman has directed Southwark to undertake a borough-wide audit of section 106 affordable housing delivery and introduce monitoring and enforcement measures going forward, but this won't take into account the potentially thousands of social rented homes that have been lost over the years. Southwark is yet to announce when it will complete its audit.
+In July 2016 we finally received a [response](/img/complaintresponseMWilliams.pdf) from Southwark Council to our [complaint](/img/ccomplaint15Dec2016.pdf). We were very disappointed to discover that the Council hadn't actually investigated the tenure delivery on the sites we identified (it had merely insisted that the S106 agreement wording for each site is sound). We subsequently [referred](/img/Ombudsman18July2016.pdf) our complaint the Local Government Ombudsman. After a five month investigation, in December 2016 the Ombudsman [published a report](http://35percent.org/2016-12-12-ombudsman-slams-southwark-for-no-s106-monitoring/) showing that the Council conducts no routine monitoring or enforcement whatsoever of the tenure mix delivered via S106 agreements. The Ombudsman said that the Council relied instead on 'voluntary compliance' and that as a result, _‘it is hard to know how many social housing units…developers [have] delivered’_. As a result of his findings, the Ombudsman directed Southwark to undertake a borough-wide audit of section 106 affordable housing delivery and introduce monitoring and enforcement measures going forward, but this won't take into account the potentially thousands of social rented homes that have been lost over recent years. Southwark is yet to announce when it will complete its audit.
 
-The following are a few examples of the 43 breaches identified in our [list](http://35percent.org/img/section106_tenure_breaches.pdf). In most cases the rents are currently lower than 80% market rent, but still significantly higher than the [average £100pw council rents](http://www.southwark.gov.uk/news/article/1738/southwark_council_keeping_social_rent_affordable_for_londoners). 
+The following are a few examples of the 43 breaches identified in our [list](http://35percent.org/img/section106_tenure_breaches.pdf) of tenure breaches. In most cases the rents are currently lower than 80% market rent, but still significantly higher than the [average £100pw council rents](http://www.southwark.gov.uk/news/article/1738/southwark_council_keeping_social_rent_affordable_for_londoners). 
 
 ## Colorama buildings
 This redevelopment of the former [Colorama film processing warehouse](http://35percent.org/colorama/) in SE1 was completed in April 2016. The [planning report](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!Zz6kQSuw9WcG1eGU1VRSAg%3d%3d!%7d%7d%7d) for the application said that the redevelopment would provide a total of 19 social rented habitable rooms.  
@@ -132,7 +132,7 @@ This is the one scheme that the Council has responded to in our complaint. It co
 ![](/img/theexchange.jpg)
 *Notting Hill's "The Exchange" - 205 unit Bermondsey Spa redevelopment*
 
-## Silwood estate regeneration Site 4B (11/AP/0139)
+s## Silwood estate regeneration Site 4B (11/AP/0139)
 Notting Hill Housing was supposed to provide 22 social rented homes as part of its [redevelopment of the Silwood estate](/silwood-estate-regeneration) involving the demolition of 57 council homes and construction of 127 new homes. The the definition of social rented in the section 106 agreement is worded as affordable rent and the [CORE lettings data system](https://core.communities.gov.uk/) shows that only 19 units have been let at social rent levels. 
 
 ![](/img/silwoodstreet.png)
@@ -141,13 +141,13 @@ Notting Hill Housing was supposed to provide 22 social rented homes as part of i
 The above examples show that until such time as there has been a borough-wide s106 audit, enforcement action taken and procedures put in place for ongoing monitoring of compliance, then the Council’s use of the term __'social'__ or __'target rent'__ must be assumed to mean __affordable rent__.
 
 ## GLA Muddys the waters
-Meanwhile, in his [draft new planning guidance](https://www.london.gov.uk/sites/default/files/draft_affordable_housing_and_viability_spg_2016.pdf) Mayor Sadiq Khan has complicated matters further by introducing yet more affordable housing tenures; __London Affordable Rent__, __London Living Rent__ and __Discounted Market Rent__. 
+Meanwhile, in his [draft new planning guidance](https://www.london.gov.uk/sites/default/files/draft_affordable_housing_and_viability_spg_2016.pdf), London's Mayor Sadiq Khan has complicated matters further by introducing three additional affordable housing tenures; __London Affordable Rent__, __London Living Rent__ and __Discounted Market Rent__. 
 
-The new planning guidance also drops any requirement for social rented housing and explicitly enables it to be substited by either __Affordable Rent__ or __Discounted Market Rent__ (in Build-to-Rent developments). 
+His new planning guidance also drops any requirement for social rented housing and explicitly enables it to be substited by either __Affordable Rent__ or __Discounted Market Rent__ (in Build-to-Rent developments). 
 
 ![](/img/mayorspgar.png)
 
-Here's our [detailed response](https://justspacelondon.files.wordpress.com/2017/02/affordable-hsg-spg-35-response-draft.pdf) to the Mayor's consultation on these new tenure proposals.
+Here's our [detailed response](https://justspacelondon.files.wordpress.com/2017/02/affordable-hsg-spg-35-response-draft.pdf) to the Mayor's consultation on his new tenure proposals.
 
 ## London Affordable Rent
 One of the new tenures is __London Affordable Rent__, which GLA Assembly Member and Labour housing spokesperson Tom Copley has [lobbied](http://tomcopley.com/response-mayors-draft-affordable-housing-viability-supplementary-planning-guidance/) to be renamed __London Social Rent__.  
@@ -155,38 +155,40 @@ One of the new tenures is __London Affordable Rent__, which GLA Assembly Member 
 ![](/img/londonsocialrent.png)
 *Tom Copley's [response](http://tomcopley.com/response-mayors-draft-affordable-housing-viability-supplementary-planning-guidance/) to the Mayor's draft new Affordable Housing planning guidance*
 
-Tom has [argued](https://twitter.com/tomcopley/status/842031557284118528) that __London Affordable Rent__ _'is effectively social rent'_. But we [pointed out](https://twitter.com/35percent_EAN/status/842034373318868994) that the [policy definition](https://www.london.gov.uk/sites/default/files/homesforlondoners-affordablehomesprogrammefundingguidance.pdf) says something else. It says that social rent levels are only _'the starting point'_ for setting __London Affordable Rent__ levels and that _'other rent levels will also be considered'_. 
+Tom has [argued](https://twitter.com/tomcopley/status/842031557284118528) that __London Affordable Rent__ _'is effectively social rent'_. But we have [pointed out](https://twitter.com/35percent_EAN/status/842034373318868994) that the Mayor's [policy definition](https://www.london.gov.uk/sites/default/files/homesforlondoners-affordablehomesprogrammefundingguidance.pdf) says something else; it says that social rent levels are only _'the starting point'_ for setting __London Affordable Rent__ levels and that _'other rent levels will also be considered'_. 
 
 ![](/img/londonaffordablerent.png)
 *Policy definition from the Mayor's [funding programme guidance](https://www.london.gov.uk/sites/default/files/homesforlondoners-affordablehomesprogrammefundingguidance.pdf)*
 
-Also, the Mayor's [funding programme guidance](https://www.london.gov.uk/sites/default/files/homesforlondoners-affordablehomesprogrammefundingguidance.pdf) makes it clear that __London Affordable Rent__ levels will be capped by increases of no more than CPI +1% per year, but paragraph 11 says that the tenure product will be governed in accordance with the _"Social Housing Regulator's Affordable Rent Guidance"_. The Social Housing Regulator is the Homes and Communities Agency and their Affordable Rent Guidance is in their [Rent Standard Guidance](https://www.gov.uk/government/publications/rent-standard-guidance) (pages 12-15).
+While the Mayor's [funding programme guidance](https://www.london.gov.uk/sites/default/files/homesforlondoners-affordablehomesprogrammefundingguidance.pdf) makes it clear that __London Affordable Rent__ levels will be capped by increases of no more than CPI +1% per year, it also makes it clear that the new tenure product will be governed in accordance with the _"Social Housing Regulator's Affordable Rent Guidance"_. The Social Housing Regulator is the Homes and Communities Agency and their Affordable Rent Guidance is in their [Rent Standard Guidance](https://www.gov.uk/government/publications/rent-standard-guidance) (pages 12-15).
 
 ![](/img/homesforlondonerslar.png)
 
-Worryingly, page 13 of the [Rent Standard Guidance](https://www.gov.uk/government/publications/rent-standard-guidance) says that Affordable Rent levels can be re-based to up to 80% market rent when a tenancy is reissued.
+Quite worryingly, page 13 of the [Rent Standard Guidance](https://www.gov.uk/government/publications/rent-standard-guidance) says that Affordable Rent levels can be re-based to up to 80% market rent when a tenancy is reissued.
 
 ![](/img/rsg.png)
 *Extract from the HCA's [Rent Standard Guidance](https://www.gov.uk/government/publications/rent-standard-guidance) for Affordable Rented tenure*
 
-Giles Peaker from Anthony Gold solicitors has rightly [pointed out](https://twitter.com/nearlylegal/status/885597479168876544) that paragraph 11 of the Mayor's funding programme guidance is not binding and that the devil is in the detail of the (legal) funding agreement. 
+Giles Peaker from Anthony Gold solicitors has rightly [pointed out](https://twitter.com/nearlylegal/status/885597479168876544) that paragraph 11 of the Mayor's funding programme guidance is not binding and that the devil lies in the detail of the (legal) funding agreement. 
 
 GLA Housing Chief Jamie Ratcliff [responded](https://twitter.com/Jamrat_/status/885617818661773312) by providing a copy of the GLA's [standard form funding agreement](/img/standardformagreement2017.pdf). The small print of which raises some serious concerns; the clause relating to the setting of __London Affordable Rent__ (LAR) rent levels, says that _"initial rents" will be set by the (near social-rent) benchmarks, but that "such rent continues to be set and charged in accordance with the criteria of the __London Affordable Rent__" tenure._
 
 ![](/img/initialrent.png)
 *Extract from the GLA's [Standard Form Funding Agreement](http://35percent.org/img/standardformagreement2017.pdf)*
 
-If we then take a look at the said _"criteria of the __London Affordable Rent__"_  in the contract, we see that it says the tenure is to be governed _"in accordance with the applicable requirements of the Affordable Housing Capital Funding Guide, Legislation, the Rent Standard and any other relevant Guidance issued by the Regulator"_. 
+The key words here are _"such rent continues to be set and charged in accordance with the criteria of the __London Affordable Rent__" tenure definition. _ This effectively contracts out what happens to rent levels after the 'initial rent' (charged according to the Benchmark Level) to the provisions contained with the paragraph entitled __"London Affordable Rent"__.
+
+If one then looks at this paragraph  entitled _"__London Affordable Rent__"_, it says that the tenure is to be governed _"in accordance with the applicable requirements of the Affordable Housing Capital Funding Guide, Legislation, the Rent Standard and any other relevant Guidance issued by the Regulator"_. 
 
 ![](/img/ahcfg.png)
 *Extract from the GLA's [Standard Form Funding Agreement](http://35percent.org/img/standardformagreement2017.pdf)*
 
-Not only does the LAR criteria reference the HCA's Rent Standard Guidance already mentioned, but it references the HCA's [Affordable Housing Capital Funding Guide](https://www.gov.uk/guidance/capital-funding-guide/4-housing-for-rent#rent-reviews) which says this:
+So it contracts out what happens subsequent to the "initial rent" at Benchmark (social rent) levels to the requirements of the HCA's Rent Standard Guidance (already mentioned) and also the HCA's [Affordable Housing Capital Funding Guide](https://www.gov.uk/guidance/capital-funding-guide/4-housing-for-rent#rent-reviews) which says this:
 
 ![](/img/rentreviews.png)
 *Extract from the HCA's [Affordable Housing Capital Funding Guide](https://www.gov.uk/guidance/capital-funding-guide/4-housing-for-rent#rent-reviews)*
 
-Not only is this crystal clear on how rents can be rebased to 80% market rent on relet, but it also states that the tenure _" will be subject to requirements of the Welfare Reform and Work Act 2016 and regulations made under it."_.  
+Not only is Capital Funding Guide also crystal clear on how rents can be rebased to 80% market rent on relet, but it also states that the tenure _" will be subject to requirements of the Welfare Reform and Work Act 2016 and regulations made under it."_.  
 
 So from the details we have so far it would appear that there is nothing in the GLA's funding agreement that would stop a housing association from issuing a fixed term tenancy on a London Affordable Rent home and then racking up the rent to 80% market at the end of the tenancy? 
 
