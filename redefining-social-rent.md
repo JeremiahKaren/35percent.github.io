@@ -160,18 +160,7 @@ Tom has [argued](https://twitter.com/tomcopley/status/842031557284118528) that _
 ![](/img/londonaffordablerent.png)
 *Policy definition from the Mayor's [funding programme guidance](https://www.london.gov.uk/sites/default/files/homesforlondoners-affordablehomesprogrammefundingguidance.pdf)*
 
-While the Mayor's [funding programme guidance](https://www.london.gov.uk/sites/default/files/homesforlondoners-affordablehomesprogrammefundingguidance.pdf) makes it clear that __London Affordable Rent__ levels will be capped by increases of no more than CPI +1% per year, it also makes it clear that the new tenure product will be governed in accordance with the _"Social Housing Regulator's Affordable Rent Guidance"_. The Social Housing Regulator is the Homes and Communities Agency and their Affordable Rent Guidance is in their [Rent Standard Guidance](https://www.gov.uk/government/publications/rent-standard-guidance) (pages 12-15).
-
-![](/img/homesforlondonerslar.png)
-
-Worryingly, page 13 of the [Rent Standard Guidance](https://www.gov.uk/government/publications/rent-standard-guidance) says that Affordable Rent levels can be re-based to up to 80% market rent when a tenancy is reissued.
-
-![](/img/rsg.png)
-*Extract from the HCA's [Rent Standard Guidance](https://www.gov.uk/government/publications/rent-standard-guidance) for Affordable Rented tenure*
-
-Giles Peaker from Anthony Gold solicitors has rightly [pointed out](https://twitter.com/nearlylegal/status/885597479168876544) that paragraph 11 of the Mayor's funding programme guidance is not binding and that the devil lies in the detail of the (legal) funding agreement. 
-
-A close look at the [legal funding agreement](/img/standardformagreement2017.pdf) raises some concerns; the clause relating to the setting of __London Affordable Rent__ (LAR) rent levels, appears to cover only the initial let: 
+A closer look at the [legal funding agreement](/img/standardformagreement2017.pdf) behind the programme raises further concerns; the clause relating to the setting of __London Affordable Rent__ (LAR) rent levels, appears to cover only the initial let: 
 
 ![](/img/initialrent.png)
 *Extract from the GLA's [Standard Form Funding Agreement](http://35percent.org/img/standardformagreement2017.pdf)*
@@ -181,7 +170,10 @@ The agreement says nothing about what should happen in the event of a relet and 
 ![](/img/rentstandardpara.png)
 *Extract from the GLA's [Standard Form Funding Agreement](http://35percent.org/img/standardformagreement2017.pdf)*
 
-So what happens subsequent to the "initial rent" at Benchmark (social rent) levels, appears to be contracted out, i.e. governed by the regulations of the HCA's Rent Standard Guidance already mentioned and its enabling of rebasing up to 80% market rent.
+So what happens subsequent to the "initial rent" at Benchmark (social rent) levels, appears to be contracted out, i.e. governed by the regulations of the HCA's [Rent Standard Guidance](https://www.gov.uk/government/publications/rent-standard-guidance), which says that Affordable Rent levels can be re-based to up to 80% market rent when a tenancy is reissued.
+
+![](/img/rsg.png)
+*Extract from the HCA's [Rent Standard Guidance](https://www.gov.uk/government/publications/rent-standard-guidance) for Affordable Rented tenure*
 
 With 17,500 new __London Affordable Rent__ homes proposed in just the first round of the Mayor's new [£17bn deal to build 'affordable' homes](http://www.standard.co.uk/news/mayor/sadiq-khan-announces-17bn-deal-to-build-50000-affordable-homes-across-london-a3586911.html) across London it's important that the Mayor gets this right. If the small print is not amended to ensure Benchmark Rent Level caps on relets and in perpetuity, then the Mayor's new __London Affordable Rent__ may prove to be just a quick and temporary fix that lasts only as long as the fixed term tenancies issued under this new tenure.
 
