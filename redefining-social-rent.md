@@ -138,19 +138,19 @@ Notting Hill Housing was supposed to provide 22 social rented homes as part of i
 ![](/img/silwoodstreet.png)
 *Redeveloped Silwood estate*
 
-The above examples show that until such time as there has been a borough-wide s106 audit, enforcement action taken and procedures put in place for ongoing monitoring of compliance, then the Council’s use of the term __'social'__ or __'target rent'__ must be assumed to mean __affordable rent__.
+The above examples show that until such time as there has been a borough-wide s106 audit, enforcement action taken and procedures put in place for ongoing monitoring of compliance, then use of the term __'social'__ or __'target rent'__ in Southwark must be assumed to mean __affordable rent__.
 
-## GLA Muddys the waters
+## Mayor muddys the waters
 Meanwhile, in his [draft new planning guidance](https://www.london.gov.uk/sites/default/files/draft_affordable_housing_and_viability_spg_2016.pdf), London's Mayor Sadiq Khan has complicated matters further by introducing three additional affordable housing tenures; __London Affordable Rent__, __London Living Rent__ and __Discounted Market Rent__. 
 
 His new planning guidance also drops any requirement for social rented housing and explicitly enables it to be substited by either __Affordable Rent__ or __Discounted Market Rent__ (in Build-to-Rent developments). 
 
 ![](/img/mayorspgar.png)
 
-Here's our [detailed response](https://justspacelondon.files.wordpress.com/2017/02/affordable-hsg-spg-35-response-draft.pdf) to the Mayor's consultation on his new tenure proposals.
+Here's our [detailed response](https://justspacelondon.files.wordpress.com/2017/02/affordable-hsg-spg-35-response-draft.pdf) to the Mayor's consultation outlining our criticisms of his new tenure proposals.
 
 ## London Affordable Rent
-One of the new tenures is __'London Affordable Rent'__, which GLA Assembly Member and Labour housing spokesperson Tom Copley has [lobbied](http://tomcopley.com/response-mayors-draft-affordable-housing-viability-supplementary-planning-guidance/) to be renamed __'London Social Rent'__.  
+One of the Mayor's new tenures is __'London Affordable Rent'__, which GLA Assembly Member and Labour housing spokesperson Tom Copley has [lobbied](http://tomcopley.com/response-mayors-draft-affordable-housing-viability-supplementary-planning-guidance/) to be renamed __'London Social Rent'__.  
 
 ![](/img/londonsocialrent.png)
 *Tom Copley's [response](http://tomcopley.com/response-mayors-draft-affordable-housing-viability-supplementary-planning-guidance/) to the Mayor's draft new Affordable Housing planning guidance*
@@ -170,7 +170,7 @@ The agreement says nothing about what should happen in the event of a relet and 
 ![](/img/rentstandardpara.png)
 *Extract from the GLA's [Standard Form Funding Agreement](http://35percent.org/img/standardformagreement2017.pdf)*
 
-So what happens subsequent to the "initial" let at Benchmark (social rent) levels, appears to be contracted out, i.e. governed by the regulations of the HCA's [Rent Standard Guidance](https://www.gov.uk/government/publications/rent-standard-guidance), which says that Affordable Rent levels can be re-based to up to 80% market rent when a tenancy is reissued.
+So what happens subsequent to the initial let at Benchmark (social rent) levels, appears to be contracted out, i.e. governed by the regulations of the HCA's [Rent Standard Guidance](https://www.gov.uk/government/publications/rent-standard-guidance), which says that Affordable Rent levels can be re-based to up to 80% market rent when a tenancy is reissued.
 
 ![](/img/rsg.png)
 *Extract from the HCA's [Rent Standard Guidance](https://www.gov.uk/government/publications/rent-standard-guidance) for Affordable Rented tenure*
