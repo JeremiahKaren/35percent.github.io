@@ -22,6 +22,7 @@ The adopted Local Plan for the Scheme underlying this Order (“the Scheme”) i
  * Building Heights requirements
  * Sunlight/Daylight requirements
  * Open Space requirements
+ * Transport/public realm requirements
  * Private Amenity Space requirements
  * Dual aspect design requirements
  * Privacy and overlooking requirements
@@ -299,6 +300,7 @@ However, the planning application for the FDS Scheme and masterplan failed to in
 
 The removal of the green fingers from the Scheme, means that the propsals for the order land will now suffer from the very problems that the AA has attributed to the estate in its grounds for redevelopment - lack of permeability, dark alleyways etc and will not enable the AAAP's objective of creating better quality open space/public realm. Moreover, the consented scheme will result in a significant net loss of open space.
 
+
 ### Sunlight to amenity spaces
 Paragraphs 154 to 162 of The planning committee report for the FDS say:
 
@@ -324,6 +326,25 @@ Policy PL5 (Open Space) of the AAAP says:
 @. Furthermore, the majority of the replacement open space will be privately managed. Only a small amount will be public open space adopted by the Council and most of this comprises just pavement on the perimeter of the new development.
 
 ![Extract from FDS planning application docs 15/AP/4584](/img/aylesburyopenspaces.png)
+
+### Transport/public realm requirements
+The AAAP says that the Scheme should provide an improved and modern cycle enviroment (quotes).
+
+As a statutory consultee, TFL objected to NHHT's planning application, in its [formal response to the application](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!4pokZj%2fGk2vz59bcWED5rw%3d%3d!%7d%7d%7d) it said that _"The Masterplan is a once-in-a-generation opportunity to provide an exemplar walking and cycling environment .. However, TfL is concerned that the application material fails to demonstrate this."_
+
+>"The proposals for Thurlow Street and Albany Street in particular, key streets in the Masterplan, are considered poor. These two roads are also earmarked in the TA for freight, servicing and construction traffic, which underlines the need for better provision for cyclists. East-west links, and permeability to the surrounding areas, particularly beyond Old Kent Road and Walworth Road, are not adequately considered, nor are the linkages to the Council’s proposed ‘Southwark Spine’ cycle route along Portland Street."
+
+>"The Masterplan should encourage active travel, prioritising walking and cycling over motorised modes. This can only be achieved through the creation of safe and appealing streets, easy access to public transport, a coherent cycle network, and attractive cycling facilities. TfL is not currently satisfied that this approach is being taken."
+
+>"The application material fails to propose a coherent network of safe, accessible and welcoming cycle routes. All of the pedestrian routes should be accessible to cycling unless there is a clear and justified reason they should not be. The total lack of segregation proposed in the Masterplan does not reflect current policy and guidance."
+
+>"The TA predicts a significant uplift in bus passenger demand (over 280 additional trips in the AM peak). Buses passing the site are already crowded, and TfL is seeking an extension of a route from Elephant and Castle to support the FDS, funded through the s106 agreement for that site. The additional demand from the Masterplan will require further capacity enhancements. Therefore £3.75m (indexed) is sought, to be secured in the s106 agreement for the Masterplan, to fund for these enhancements for the first five years of operation, for example increasing the frequency of operation on route 42."
+
+It is unerstood that NHHT only agreed to pay £1.5??m... check s106 agreement
+
+>"TfL recommends that across the Masterplan area, at least two medium sized (30) point docking stations should be provided, one of which should be located in the FDS. At an absolute minimum 60 docking points are required across the Masterplan area. This will reduce stress arising from the development on the already heavily used nearby existing Cycle Hire docking stations. Space should be reserved in the masterplan for a Cycle Hire docking station together with one in the FDS, and should be secured in any subsequent planning permission. Further details of the location and space requirements for this can be provided by TfL. £200,000 (index linked) should be secured in the Masterplan s106 agreement, to cover the cost of delivery and maintenance of this docking station."
+
+It is understood that NHHT resisted TFL's requirement for a cycle docking station on the FDS.
 
 ### Private amenity space requirements
 @. Policy PL7 of the AAAP says:
