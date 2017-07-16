@@ -34,7 +34,7 @@ The adopted Local Plan for the Scheme underlying this Order (“the Scheme”) i
 
 ### Housing density requirements
 
-@. The AAAP said that the scheme would deliver 1,450 extra new homes to contribute to the London Plan requirement of 16,300 new homes by 2016/2017. 408 extra new homes have been delivered so far in the two completed phases, meaning that xxxx extra new homes are required to be provided by the Scheme underlying the Order. However, the planning consent has only made provision for xxxx.
+@. The AAAP said that the scheme would deliver 1,450 extra new homes to contribute to the London Plan requirement of 16,300 new homes by 2016/2017. 408 extra new homes have been delivered so far in the two completed phases, meaning that 2,337 extra new homes are required to be provided by the Scheme underlying the Order. However, the planning consent has only made provision for xxxx.
 
 ![](http://35percent.org/img/aaapnewhomesdensity.png)  
 
@@ -44,7 +44,7 @@ The adopted Local Plan for the Scheme underlying this Order (“the Scheme”) i
 
 The shortfall on remaining phases is much greater. The outline application that accompanied the FDS application gave consent to build a minimum of 1,700 and maximum of 2,745 new homes on the remaining 3 phases of the Scheme. There is no explanation for the significant difference (1,000 homes) between the maximum and minimum provision requirements, especially given that if the Scheme is built to the minimum specification then it will fail to conform with numerous AAAP requirements. It can only be assumed that this has been used as a means of showing ostensible policy compliance, given that the maximum figure has been used to broadly satisfy the AAAP requirement of 2,786 new homes on remaining phases.
 
-If NHHT builds to the minimum specification agreed, the Scheme would result in a net loss of 561 homes across the FDS and and remaining outline phases. Combined with the completed phases (phase 1a and site 7) this would result in a  
+If NHHT builds to the minimum specification agreed, the Scheme would result in a net loss of 561 homes across the FDS and and remaining outline phases. Combined with the completed phases (phase 1a and site 7) this would result in a shortfall of 472 homes. 
 
 ![Extract from planning committee report](/img/or4790hr.png)
 
@@ -55,9 +55,7 @@ If NHHT builds to the minimum specification agreed, the Scheme would result in a
 
 ![Extract from S106 agreement](/img/dpadevelopmentdefinition.png)
 
-The minimum requirement is either 4790 affordable habitable rooms on the Masterplan site, or 50% of the habitable rooms across the FDS and Masterplan site combined - whichever is the greater.
-So if NHHT delivers 4791 affordable habitable rooms across the FDS and Masterplan site combined then the "Minimum Affordable Housing Requirement" is satisfied.  
-
+The minimum requirement is either 4790 affordable habitable rooms on the Masterplan site, or 50% of the habitable rooms across the FDS and Masterplan site combined - whichever is the greater. Therefore, if NHHT delivers 4791 affordable habitable rooms across the FDS and Masterplan site combined. then the "Minimum Affordable Housing Requirement" is satisfied.  
 A further loophole has been inserted under the definition of habitable room for the purposes of calculation the min affordable housing provison. This allows any room larger than 27.5m2 to be counted as two habitable rooms. 
 
 ![Extract from S106 agreement](/img/aylesburyoutlinehr.png)
