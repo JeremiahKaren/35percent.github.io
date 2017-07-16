@@ -150,7 +150,7 @@ Given that there were xxxx affordable habitable rooms across both sites, this re
 
 ![](http://35percent.org/aaapapp5.png)
 
-@. Of the xx 3bed, xx 4beds and xx 5beds provided on completed phases 1a/site7, only xx 3beds, xx 4beds and xx 5beds have been provided
+@. Of the xx 3bed, xx 4beds and xx 5beds provided on completed phases 1a/site7, only xx 3beds, xx 4beds and xx 5beds have been provided. This represents a shortfall of xxx family units against the AAAP requirements.
 
 @. The AAAP says that:
 
