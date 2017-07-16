@@ -27,7 +27,8 @@ The adopted Local Plan for the Scheme underlying this Order (“the Scheme”) i
  * Privacy and overlooking requirements
  * Play Space requirements
  * Mixed use/Retail requirements
- * Density requirements 
+ * Density requirements
+ * Monitoring and compliance 
  * Infrastructure Funding requirements
  * Rehousing/PSED mitigation requirements
 
@@ -61,6 +62,10 @@ A further loophole has been inserted under the definition of habitable room for 
 
 ![Extract from S106 agreement](/img/aylesburyoutlinehr.png)
 
+NHHT's [June 2016 Housing Delivery Strategy](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!GB0ybg40uhtGW5vcbWkuZA%3d%3d!%7d%7d%7d) submitted pursuant to the requirements of the s106 agreement, clearly shows how it has combined the FDS and the outline masterplan application within the minimum 4790 habitable rooms requirement:
+
+![](/img/housingdeliverystrategy.png)
+
 #### Completed phases
 2758-
 
@@ -73,9 +78,6 @@ Appendix 1 of the [Heads of Terms](http://planbuild.southwark.gov.uk/documents/?
 ![](/img/existingra.png)
 
 Using the minimum specification figure the Scheme will result in a net loss of xxxxxxx sqm floorspace.
-
-
-The AAAP was adopted and planning application passed before the Mayor announced the Bakerloo line extension along the Old Kent Road. This will create a tube station within a few hundred metres of the estate and creates an opportunity for a much greater uplift in density to meet the capital's burgeoning housing need, which the Scheme fails to address. 
 
 Paragraph 88 of the [planning committee report](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!Vbu5QpckfYCnJrulzlWyuQ%3d%3d!%7d%7d%7d) for the outline application re-iterates that _"A key objective of the AAAP (Policy BH1 Number of homes) is to increase the number of homes on the estate"_. The Scheme underlying the order as it stands will fail to achieve this objective.
 
@@ -100,6 +102,9 @@ The GLA stage 1 report for the outline site says that comprehensive floorspace f
 
 Paragraph 353 of the planning committee report confirms that _"The total existing floorspace on the FDS equates to approximately 54,747sqm"_. Paragraph 2.5 of the Acquiring Authority's updated Statement of Case confirms that 22 of the existing properties on the order land were owned privately by leaseholders. Allowing an average sqm floorspace per leaseholder flat of 80sqm results in an approximate overall existing affordable housing floorspace on the FDS of 53,000sqm. 
 
+![](/img/fdsbaseline.png)
+*Extract from the [planning committee report for the FDS](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!JwAZWYwclvfEhXaN8JmiPA%3d%3d!%7d%7d%7d)*
+
 Using the schedule of accommodation in paragraph 94 of the planning committee report combined with the table of room sizes in paragraph 5.2 of the revised affordable housing statement, the total proposed affordable housing floorspace is 28,293sqm. This shows a net reduction of affordable housing floorspace of 24,707 - more than half of the existing affordable floorspace.   
 
 | Unit type | tenure | Quantity | Sqm | Total sqm |
@@ -113,7 +118,7 @@ Using the schedule of accommodation in paragraph 94 of the planning committee re
 | 2 Bed | Intermediate | 48 | 63 sqm | 3,024 sqm |
 | 3 Bed | Intermediate | 15 | 89 sqm | 1,335 sqm |
 | 4 Bed | Intermediate | 20 | 99 sqm | 2,204 sqm |
-|  | |  |  | 28,293 sqm |
+|  | |  |  | 30,293 sqm |
 
 The Acquiring Authority is claiming that the Mayor’s Housing SPG says that the re-provision of housing may be considered in terms of units numbers and/or habitable rooms. However the SPG only says that this is permissible in relation to family homes (emphasis added):
 
@@ -246,6 +251,11 @@ In March 2016, The Mayor of London set out the approach to achieving the London 
 
 Policy 3.6.7 of the AAAP envisaged this requirement for zero carbon homes: _"The government has announced the intention of ensuring that all homes are CfSH Level 6 by 2016. Proposals will need to comply with these regulations where these are more stringent than CfSH Level 4."_ 
 
+---
+The section 106 agreement only requires a minimum 3% renewable energy across the FDS and outline scheme:
+
+![](/img/renewablesrequirement.png)
+
 ### Public realm and sunlight/daylight requirements
 It was pointed out during the previous inquiry that the tall buildings (market units) running east to west along the frontage to Burgess Park, will result in a significant number of homes in the affordable blocks behind them failing to meet BRE minimum daylight requirements.
 
@@ -367,6 +377,19 @@ The [planning committee report](http://planbuild.southwark.gov.uk/documents/?Get
 
 ![](/img/outlinecommunityspace.png)
 
+### Monitoring of compliance
+The Objectors submit that the Acquiring Authority's lack of robust section 106 monitoring procedures will result is likely to result in yet further non-compliance with the obligations of the planning consent and thus further non-compliance with the AAAP.
+
+The section 106 agreement for the FDS negotiated a sum of just £1,567 for the ongoing monitoring of compliance with planning obligations. 
+
+![](/img/monitoringcontribution.png)
+
+At the previous public inquiry the Objectors raised the issue of NHHT's Bermondsey Spa regeneration where it had delivered Affordable Rent instead of the Social Rent required by the planning consent. The Acquiring Authority bla bla lied and then took no action against NHHT.
+
+The 35% Campaign referred the Bermondsey Spa complaint and 46 other breaches they had identified in a complaint to the Local Government Ombudsman. After an investigation by the Ombudsman the Acquiring Authority was forced to acknowledge that it didn't have any monitoring procedures whatsoever. 
+
+The Ombudsman directed the AA to conduct a borough-wide audit of compliance and introduce s106 monitoring procedures going forward. The AA has sinced allocated just £60,000 to this audit and pay for software and staffing for ongoing compliance. This is insufficient means to ensure that the.. 
+
 ### Infrastructure funding requirements
 @. Page 75 of the AAAP describes infrastructure funding. It says the developer will pay a tariff which will fund community facilities like the health centre and other community facilities. However, we now know that the Council is paying for the £35m cost of them mainly from its own funds.
 
@@ -393,6 +416,7 @@ Southwark is filling the gap - its SoC confirms it has allocated £100m to the S
 Council has already seen xx budget cuts - with £39m cut from adult and social care in this year alone. A further 77% of its budget is due to be cut by 2020. There is a clear austerity case for refurb rather than demolition.
 
 [This article](https://www.southwarknews.co.uk/news/installing-sprinklers-southwarks-council-housing-cost-100m/) confirms the Council is considering spending £100m on sprinklers for its tower blocks and admits that if no govt funding is found then _"other things will have to be put on hold"_.
+
 
 ### The Scheme fails to conform with the development plan's Equalities Impact mitigation measures (and consequently PSED)
 The AAAP said there will be a 'range of options to enable leaseholders to stay in area, buy into new scheme etc..'
