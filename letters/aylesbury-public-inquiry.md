@@ -7,8 +7,7 @@ subtitle: "Aylesbury estate CPO public inquiry, Oct 2017"
 ![](http://35percent.org/img/phase1baerial.png)  
 
 ## The Scheme for the Order Land is no longer in accordance with the statutory development plan
-@. The compulsory purchase code requires the Scheme underlying the Order to conform with the requirements of the statutory development plan. Paragraph 76 of the 06/04 Guidance says that one of the key considerations in deciding if a an order should be confirmed is _"whether the purpose for which the land is being acquired fits in with the adopted
-Local Plan for the area"_.
+@. The compulsory purchase code requires the Scheme underlying the Order to conform with the requirements of the statutory development plan. Paragraph 76 of the 06/04 Guidance says that one of the key considerations in deciding if a an order should be confirmed is _"whether the purpose for which the land is being acquired fits in with the adopted Local Plan for the area"_.
 
 The adopted Local Plan for the Scheme underlying this Order (“the Scheme”) is the [Aylesbury Area Action Plan 2010](http://www.2.southwark.gov.uk/download/downloads/id/13132/aylesbury_area_action_plan_2010_inc_appendices) (“AAAP”) [CD2], which was adopted in January 2010 as part of the Acquiring Authority's local development framework.
 
@@ -93,7 +92,7 @@ In any event, if calculation by habitable room is deemed acceptable then there s
 
 Not only does the proposed Scheme fall short of the AAAP's affordable housing requirement, it fails to conform with Policy 3.14 of the London Plan (Existing Housing), which resists the loss of affordable housing, without equivalent replacement (emphasis added): 
 
->"3.14B: Loss of housing, including affordable housing, should be resisted unless the housing is replaced at existing or higher densities with at least equivalent __floorspace__. 
+>"3.14B: Loss of housing, including affordable housing, should be resisted unless the housing is replaced at existing or higher densities with at least equivalent **floorspace**. 
 
 >"3.82 ESTATE RENEWAL:  Where redevelopment of affordable housing is proposed, it should not be permitted unless it is replaced by better quality accommodation, providing at least an equivalent __floorspace__ of affordable housing."
 
@@ -103,8 +102,7 @@ The GLA stage 1 report for the outline site says that comprehensive floorspace f
 
 Paragraph 353 of the planning committee report confirms that _"The total existing floorspace on the FDS equates to approximately 54,747sqm"_. Paragraph 2.5 of the Acquiring Authority's updated Statement of Case confirms that 22 of the existing properties on the order land were owned privately by leaseholders. Allowing an average sqm floorspace per leaseholder flat of 80sqm results in an approximate overall existing affordable housing floorspace on the FDS of 53,000sqm. 
 
-![](/img/fdsbaseline.png)
-*Extract from the [planning committee report for the FDS](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!JwAZWYwclvfEhXaN8JmiPA%3d%3d!%7d%7d%7d)*
+![Extract from the [planning committee report for the FDS](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!JwAZWYwclvfEhXaN8JmiPA%3d%3d!%7d%7d%7d)](/img/fdsbaseline.png)
 
 Using the schedule of accommodation in paragraph 94 of the planning committee report combined with the table of room sizes in paragraph 5.2 of the revised affordable housing statement, the total proposed affordable housing floorspace is 28,293sqm. This shows a net reduction of affordable housing floorspace of 24,707 - more than half of the existing affordable floorspace.   
 
