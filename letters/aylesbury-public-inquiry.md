@@ -34,52 +34,38 @@ subtitle: "Aylesbury estate CPO public inquiry, Oct 2017"
 
 ### Housing density requirements
 
-@. The AAAP said that the scheme would deliver 1,450 extra new homes to contribute to the London Plan requirement of 16,300 new homes by 2016/2017. xxxx extra new homes have been delivered so far in the two completed phases, meaning that xxxx extra new homes are required to be provided by the Scheme underlying the Order. However, the planning consent has only made provision for xxxx.
+@. The AAAP said that the scheme would deliver 1,450 extra new homes to contribute to the London Plan requirement of 16,300 new homes by 2016/2017.
 
-![](http://35percent.org/img/aaapnewhomesdensity.png)  
+@. Paragraph 88 of the [planning committee report](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!Vbu5QpckfYCnJrulzlWyuQ%3d%3d!%7d%7d%7d) for the outline application re-iterates that _"A key objective of the AAAP (Policy BH1 Number of homes) is to increase the number of homes on the estate"_. The Scheme underlying the order as it stands will fail to achieve this objective.
 
-@. Appendix 5 of the AAAP specifies how many homes need to be delivered in each phase to achieve the 1,450 uplift in number of homes. It specifies a requirement for 880 new homes on the FDS, but the consented plans only provide 830 homes.
+@. Appendix 5 of the AAAP specifies how many homes need to be delivered in each phase to achieve the 1,450 uplift in number of homes. It specifies a requirement for 425 new homes on (completed) phases 1a/site 7 but only 402 were provided. It also requires 880 new homes on the FDS, but the consented plans are to provide only 830 new homes.
+
+![AAAP Appendix 5](http://35percent.org/img/aaapapp5.png)
 
 @. The Acquiring Authority may argue that it NHHT is submitting a revised planning application for the FDS as per paragraph 7.2 of its Statement of Case, but this will only increase the overall number of homes by 10 to 840. There still remains a significant shortfall.
 
-The shortfall on remaining phases is much greater. The outline application that accompanied the FDS application gave consent to build a minimum of 1,700 and maximum of 2,745 new homes on the remaining 3 phases of the Scheme. There is no explanation for the significant difference (1,000 homes) between the maximum and minimum provision requirements, especially given that if the Scheme is built to the minimum specification then it will fail to conform with numerous AAAP requirements. It can only be assumed that this has been used as a means of showing ostensible policy compliance, given that the maximum figure has been used to broadly satisfy the AAAP requirement of 2,786 new homes on remaining phases.
-
-If NHHT builds to the minimum specification agreed, the Scheme would result in a net loss of 561 homes across the FDS and and remaining outline phases. Combined with the completed phases (phase 1a and site 7) this would result in a  
-
-![Extract from planning committee report](http://35percent.org/img/or4790hr.png)
-
-![Extract from GLA stage 2 report](http://35percent.org/img/glastage2aylesbury.png)
-
+@. The shortfall in the numbers in the planning consent for remaining phases 2,3 and 4 is much greater. The section 106 agreement which covers both the FDS and the outline masterplan application, only requires NHHT to build a minimum 4791 habitable rooms of affordable housing across both sites combined.
 
 ![Extract from S106 agreement](http://35percent.org/img/minimumhr.png)
 
 ![Extract from S106 agreement](http://35percent.org/img/dpadevelopmentdefinition.png)
 
-The minimum requirement is either 4790 affordable habitable rooms on the Masterplan site, or 50% of the habitable rooms across the FDS and Masterplan site combined - whichever is the greater.
-So if NHHT delivers 4791 affordable habitable rooms across the FDS and Masterplan site combined then the "Minimum Affordable Housing Requirement" is satisfied.  
+@. The minimum requirement is either 4790 affordable habitable rooms on the Masterplan site, or 50% of the habitable rooms across the FDS and Masterplan site combined - whichever is the greater. So if NHHT delivers 4791 affordable habitable rooms across the FDS and Masterplan site combined then the "Minimum Affordable Housing Requirement" is satisfied.  
 
-A further loophole has been inserted under the definition of habitable room for the purposes of calculation the min affordable housing provison. This allows any room larger than 27.5m2 to be counted as two habitable rooms. 
+@. A further loophole has been inserted under the definition of habitable room for the purposes of calculation the min affordable housing provison. This allows any room larger than 27.5m2 to be counted as two habitable rooms for affordable housing provision. 
 
 ![Extract from S106 agreement](http://35percent.org/img/aylesburyoutlinehr.png)
 
-NHHT's [June 2016 Housing Delivery Strategy](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!GB0ybg40uhtGW5vcbWkuZA%3d%3d!%7d%7d%7d) submitted pursuant to the requirements of the s106 agreement, clearly shows how it has combined the FDS and the outline masterplan application within the minimum 4790 habitable rooms requirement:
+@. NHHT's [June 2016 Housing Delivery Strategy](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!GB0ybg40uhtGW5vcbWkuZA%3d%3d!%7d%7d%7d) submitted pursuant to the requirements of the s106 agreement, clearly show how it has combined the FDS and the outline masterplan application within the minimum 4790 affordable habitable rooms requirement:
 
 ![](http://35percent.org/img/housingdeliverystrategy.png)
 
-#### Completed phases
-2758-
+Given that there were xxxx affordable habitable rooms across both sites, this represents a net loss of xxxx affordable habitable rooms across the FDS and outline phases combined. 
 
-#### FDS
-Paragraph 1.5 of the planning application's [Heads of Terms](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!CaG5rOFO9m6tvdWRnS%2b6bg%3d%3d!%7d%7d%7d) confirms that there were 642 existing homes on the order land at the time of the planning application. Paragraph 2.5 of the Acquiring Authority's Statement of Case confirms that there were 22 leaseholders on the FDS at the time of the planning application. (830-642 = net gain of 188)
-
-#### Remaining phases
-Appendix 1 of the [Heads of Terms](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!F2cnsBhQ1gc6eilnnjVqZg%3d%3d!%7d%7d%7d) for the outline application confirms that there are 2449 existing homes on remaining phases, of which 299 leasehold. (2449-1700 = 749)
+@. Appendix 1 of the [Heads of Terms](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!F2cnsBhQ1gc6eilnnjVqZg%3d%3d!%7d%7d%7d) for the outline application confirms that there are 2449 existing homes on remaining phases, of which 299 leasehold. (2449-1700 = 749)
  
 ![](http://35percent.org/img/existingra.png)
 
-Using the minimum specification figure the Scheme will result in a net loss of xxxxxxx sqm floorspace.
-
-Paragraph 88 of the [planning committee report](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!Vbu5QpckfYCnJrulzlWyuQ%3d%3d!%7d%7d%7d) for the outline application re-iterates that _"A key objective of the AAAP (Policy BH1 Number of homes) is to increase the number of homes on the estate"_. The Scheme underlying the order as it stands will fail to achieve this objective.
 
 ### Net loss of affordable housing requirements
 @. Policy 3.3.1 of the AAAP envisages just a small net loss of 150 affordable homes across the scheme as a whole. However,paragraph 86 of the planning committee report for the FDS confirms that there will be a net loss of 105 affordable units on the order land alone.
@@ -144,8 +130,8 @@ Paragraph 88 of the [planning committee report](http://planbuild.southwark.gov.u
 
 @. The Mayor's [Good Practice Guide](https://www.london.gov.uk/sites/default/files/draftgoodpracticeestateregenerationguidedec16v2.pdf) in turn, states that _"demolition should only be followed where it does not result in a loss of social housing"_. 
 
-### Tenure requirements
-@. The AAAP requires 37.5% of all new homes to be social rented tenure. The AAAP was adopted before the introduction of the new Affordable Rent tenure. 
+## Tenure requirements
+@. The AAAP requires 37.5% of all new homes to be social rented tenure. The AAAP was adopted before the introduction of the incoming Tory government's new Affordable Rent tenure. 
 
 @. It is understood that NHHT is funding the social rented homes on the FDS with a grant from the GLA's Affordable Housing Programme 2016-2021. The GLA's [funding agreement](http://35percent.org/img/standardformagreement2017.pdf) for this programme does not provide for social rent. Instead it offers funding for a tenure named 'London Affordable Rent' (LAR). The funding agreement makes it clear that this effectively the Affordable Rent tenure and subject to regulations and legislation governing Affordable Rent:
 
@@ -157,8 +143,14 @@ Paragraph 88 of the [planning committee report](http://planbuild.southwark.gov.u
 
 @. This formula conflicts with the formula for the setting of social rents prescribed in the Rent Standard Guidance and will result in LAR rents increasing proportionally by more than social rents year on year. LAR tenure is not social rented tenure required by the AAAP, it is subject to different regulation and legislation (enabling fixed-term rather than secure tenancies, pay to stay, etc). 
 
-### Typology requirements
+## Typology requirements
 @. The AAAP says _"There will be a significant proportion of family homes with 23% houses, together with all the facilities needed by families, to make sure that the whole area is family-friendly."_
+
+@. Appendix 5 of the AAAP sets out the required number of unit sizes per phase:
+
+![](http://35percent.org/aaapapp5.png)
+
+@. Of the xx 3bed, xx 4beds and xx 5beds provided on completed phases 1a/site7, only xx 3beds, xx 4beds and xx 5beds have been provided
 
 @. The AAAP says that:
 
@@ -252,7 +244,7 @@ Paragraph 88 of the [planning committee report](http://planbuild.southwark.gov.u
 
 ![](http://35percent.org/img/renewablesrequirement.png)
 
-### Public realm and sunlight/daylight requirements
+## Public realm and sunlight/daylight requirements
 @. It was pointed out during the previous inquiry that the tall buildings (market units) running east to west along the frontage to Burgess Park, will result in a significant number of homes in the affordable blocks behind them failing to meet BRE minimum daylight requirements.
 
 @. This was taken up by the inspector at the previous inquiry and the criticisms outlined in detail in paragraphs 368-370 of her report do not need repeating. The planning committee report also openly acknowledges the Scheme's shortcomings in relation to daylight requirements:
