@@ -90,9 +90,9 @@ In any event, if calculation by habitable room is deemed acceptable then there s
 
 Not only does the proposed Scheme fall short of the AAAP's affordable housing requirement, it fails to conform with Policy 3.14 of the London Plan (Existing Housing), which resists the loss of affordable housing, without equivalent replacement (emphasis added): 
 
->"3.14B: Loss of housing, including affordable housing, should be resisted unless the housing is replaced at existing or higher densities with at least equivalent **floorspace**. 
+>"3.14B: Loss of housing, including affordable housing, should be resisted unless the housing is replaced at existing or higher densities with at least **equivalent floorspace**. 
 
->"3.82 ESTATE RENEWAL:  Where redevelopment of affordable housing is proposed, it should not be permitted unless it is replaced by better quality accommodation, providing at least an equivalent __floorspace__ of affordable housing."
+>"3.82 ESTATE RENEWAL:  Where redevelopment of affordable housing is proposed, it should not be permitted unless it is replaced by better quality accommodation, providing at least an **equivalent floorspace** of affordable housing."
 
 The London Plan however, specifies that this should be calculated in terms of floorspace. 
 
