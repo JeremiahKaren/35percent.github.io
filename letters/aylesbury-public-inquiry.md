@@ -34,7 +34,7 @@ The adopted Local Plan for the Scheme underlying this Order (“the Scheme”) i
 
 ### Housing density requirements
 
-@. The AAAP said that the scheme would deliver 1,450 extra new homes to contribute to the London Plan requirement of 16,300 new homes by 2016/2017. xxxx extra new homes have been delivered so far in the two completed phases, meaning that xxxx extra new homes are required to be provided by the Scheme underlying the Order. However, the planning consent has only made provision for xxxx.
+@. The AAAP said that the scheme would deliver 1,450 extra new homes to contribute to the London Plan requirement of 16,300 new homes by 2016/2017. 408 extra new homes have been delivered so far in the two completed phases, meaning that xxxx extra new homes are required to be provided by the Scheme underlying the Order. However, the planning consent has only made provision for xxxx.
 
 ![](http://35percent.org/img/aaapnewhomesdensity.png)  
 
