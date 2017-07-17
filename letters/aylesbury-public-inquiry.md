@@ -16,6 +16,7 @@ subtitle: "Aylesbury estate CPO public inquiry, Oct 2017"
  * Minimum number of new homes requirements
  * Net loss of affordable housing requirements
  * Dwelling size requirements
+ * Minimum space standards
  * Tenure requirements
  * Renewable Energy requirements
  * Building Heights requirements
@@ -31,7 +32,7 @@ subtitle: "Aylesbury estate CPO public inquiry, Oct 2017"
  * Monitoring and compliance 
  * Infrastructure/public sector funding requirements
  * Rehousing/PSED mitigation requirements
-
+ 
 ## Minimum number of new homes requirements
 @. The AAAP said that the scheme would deliver 4,200 new homes - a net uplift of 1,450 over the existing estate. The @AAAP said that this would help contribute to and conform with the London Plan requirement of 16,300 new homes by 2016/2017.
 
@@ -132,17 +133,13 @@ subtitle: "Aylesbury estate CPO public inquiry, Oct 2017"
 
 ![](http://35percent.org/aaapapp5.png)
 
-@. Of the xx 3bed, xx 4beds and xx 5beds provided on completed phases 1a/site7, only xx 3beds, xx 4beds and xx 5beds have been provided. This represents a shortfall of xxx family units against the AAAP requirements.
+@. Of the 60 3-bed dwellings required by the AAAP on completed phases 1a/site 7 - only 30 were provided. The AAAP requires 149 3-bed dwellings on the FDS but only consented 108. The AAAP requires 38 4-bed dwellings but only 32 were in the planning consent. (We will need to check what dwelling sizes are proposed in the revised FDS application)
+
+@. The shortfalls in the family homes required by the AAAP are far more severe on the Outline scheme under the minimum specification.
 
 @. The AAAP says that:
 
 ![Extract from the AAAP](http://35percent.org/img/aaapsizeofhomes.png) 
-
-@. But these extracts from the Housing Delivery Strategy 2016 says: http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!GB0ybg40uhtGW5vcbWkuZA%3d%3d!%7d%7d%7d
-
-![NHHT's Housing Delivery Strategy](http://35percent.org/img/fdshousing1.png)
-
-@. Table here showing shortfall in 2,3,4, and 5 beds.
 
 @. The Sustainability Assessment for the AAAP says: 
 
@@ -150,8 +147,18 @@ subtitle: "Aylesbury estate CPO public inquiry, Oct 2017"
 
 @. It also says: _"The revised tenure mix new option was chosen as it minimises the loss of affordable housing and will help develop a mixed and sustainable community. It will also ensure that the rehousing needs of existing tenants are met."_
 
+## Minimum space standards
+Paragraph 124 of the planning committee report for the Outline Scheme acknowledges that _"Since the AAAP was adopted, space standards have increased with the introduction of minimum dwellings sizes in the London Plan (2011) and the adoption of the Southwark Plan Residential Design SPD (2011). The result is that the minimum space standards in the AAAP have been superseded by larger space standards in these more recent documents."_
 
-@. AAAP requires parker morris plus 10%. The Development specification gives some info about this - also compare existing floorspace against proposed floorspace. file://Desktop/Theca5a.pdf
+@. The London Plan's minimum space requirements are as follows:
+
+![](/img/londonplanminspace.png)
+
+@. The planning committee report for the FDS failed to address the planning application's failure to conform with the above requirements and instead chose to compare them only with the AAAP and the requirements of its Residential Design SPD (2011):
+
+![](/img/spacestandardsfds.png)
+
+@. Given that the eniterety of the **flats** in the FDS consent fail to meet the London Plan's minimum space requirements, it is unsurprising that the planning committee report chose not to include them. 
 
 @. The S106 [Heads of Terms agreement](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!CaG5rOFO9m6tvdWRnS%2b6bg%3d%3d!%7d%7d%7d) shows that despite increasing the density on the FDS there will be a significant reduction in the child yield as a result of the fewer family homes.
 
