@@ -7,16 +7,16 @@ subtitle: "Aylesbury estate CPO public inquiry, Oct 2017"
 ![](http://35percent.org/img/phase1baerial.png)  
 
 ## The Scheme for the Order Land is no longer in accordance with the statutory development plan
-@. The compulsory purchase code requires the Scheme underlying the Order to conform with the requirements of the statutory development plan. Paragraph 76 of the 06/04 Guidance says that one of the key considerations in deciding if a an order should be confirmed is _"whether the purpose for which the land is being acquired fits in with the adopted Local Plan for the area"_.
+@. A key requirement of the compulsory purchase code is that the Scheme underlying the Order must conform with the requirements of the statutory development plan. Paragraph 76 of the [06/04 ODPM Circular](https://www.gov.uk/government/publications/compulsory-purchase-and-the-crichel-down-rules-circular-06-2004) lists a key consideration as _"whether the purpose for which the land is being acquired fits in with the adopted Local Plan for the area"_ and specifies that _"any programme of land assembly needs to be set within a clear strategic framework, and this will be particularly important when demonstrating the justification for acquiring land compulsorily under section 226(1)(a) powers as a means of furthering the well-being of the wider area."_.
 
 @. The adopted Local Plan for the Scheme underlying this Order (“the Scheme”) is the [Aylesbury Area Action Plan 2010](http://www.2.southwark.gov.uk/download/downloads/id/13132/aylesbury_area_action_plan_2010_inc_appendices) (“AAAP”) [CD2], which was adopted in January 2010 as part of the Acquiring Authority's local development framework.
 
-@. As a result of the [withdrawal of £180m government funding](http://www.2.southwark.gov.uk/news/article/159/government_to_withdraw_pfi_funding_for_aylesbury) envisaged by the AAAP and subsequent changes in housing policy affecting viability, the Scheme now fails to comply with the following requirements of the development plan:
+@. As a result of the [withdrawal of £180m government funding](http://www.2.southwark.gov.uk/news/article/159/government_to_withdraw_pfi_funding_for_aylesbury) envisaged by the AAAP and subsequent changes in housing policy affecting the viability of the Scheme, it now fails to comply with the following requirements of the development plan:
 
- * Housing density requirements
+ * Minimum number of new homes requirements
  * Net loss of affordable housing requirements
+ * Dwelling size requirements
  * Tenure requirements
- * Typology requirements
  * Renewable Energy requirements
  * Building Heights requirements
  * Sunlight/Daylight requirements
@@ -29,64 +29,72 @@ subtitle: "Aylesbury estate CPO public inquiry, Oct 2017"
  * Mixed use/Retail requirements
  * Density requirements
  * Monitoring and compliance 
- * Infrastructure Funding requirements
+ * Infrastructure/public sector funding requirements
  * Rehousing/PSED mitigation requirements
 
-### Housing density requirements
-
-@. The AAAP said that the scheme would deliver 1,450 extra new homes to contribute to the London Plan requirement of 16,300 new homes by 2016/2017.
+## Minimum number of new homes requirements
+@. The AAAP said that the scheme would deliver 4,200 new homes - a net uplift of 1,450 over the existing estate. The @AAAP said that this would help contribute to and conform with the London Plan requirement of 16,300 new homes by 2016/2017.
 
 @. Paragraph 88 of the [planning committee report](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!Vbu5QpckfYCnJrulzlWyuQ%3d%3d!%7d%7d%7d) for the outline application re-iterates that _"A key objective of the AAAP (Policy BH1 Number of homes) is to increase the number of homes on the estate"_. The Scheme underlying the order as it stands will fail to achieve this objective.
 
-@. Appendix 5 of the AAAP specifies how many homes need to be delivered in each phase to achieve the 1,450 uplift in number of homes. It specifies a requirement for 425 new homes on (completed) phases 1a/site 7 but only 402 were provided. It also requires 880 new homes on the FDS, but the consented plans are to provide only 830 new homes.
+@. Appendix 5 of the AAAP specifies how many homes need to be delivered in each phase to achieve the 1,450 uplift in number of homes. It specifies a requirement for 425 new homes on (completed) phases 1a/site 7 but only 408 were provided. It also requires 880 new homes on the FDS, but the consented plans are to provide only 830 new homes.
 
 ![AAAP Appendix 5](http://35percent.org/img/aaapapp5.png)
 
-@. The Acquiring Authority may argue that it NHHT is submitting a revised planning application for the FDS as per paragraph 7.2 of its Statement of Case, but this will only increase the overall number of homes by 10 to 840. There still remains a significant shortfall.
+@. The Acquiring Authority may argue that NHHT is submitting a revised planning application for the FDS (see paragraph 7.2 of its Statement of Case), but this will only increase the overall number of homes by 10 to 840. There still remains a significant shortfall.
 
-@. The shortfall in the numbers in the planning consent for remaining phases 2,3 and 4 is much greater. The section 106 agreement which covers both the FDS and the outline masterplan application, only requires NHHT to build a minimum 4791 habitable rooms of affordable housing across both sites combined.
+@. The shortfall between the minimum number of homes guaranteed in the planning consent for remaining outline phases and the number required by the AAAP is much greater. Given that the FDS Scheme was approved in conjunction with the outline phases and shares the same section 106 agreement, the outline Scheme is inseperable from the FDS Scheme.
+
+@. The Outline planning application sought consent to build a *minimum* of 1,700 new homes and *maximum* of 2,745 across the outline Scheme. It is understood that some flexibility may be required in an outline application, but there is no explanation as to why NHHT required such a significant amount of flexibility (1000 homes). The Outline application for the neighbouring Heygate estate regeneration (2,700 new homes) gave a flexibility between min and max provision of just 200 homes. 
+
+@. The minimum specification of 1,700 homes is well below the AAAP requirement of 2,898 homes across the Outline phases and would result in the provision of just 2,948 new homes across all phases (1,700 plus 408 on completed phases plus 840 on FDS) - well short of the 4,200 required and an uplift of just 200 homes on the estate baseline[^2]. 
+
+@. If the order is confirmed then there is nothing preventing NHHT delivering the Scheme according to the minimum specification, thereby failing to comply with key objective AAAP (Policy BH1 Increasing the Number of Homes). 
+
+### Net loss of affordable housing requirements
+@. The [planning committee report](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!Vbu5QpckfYCnJrulzlWyuQ%3d%3d!%7d%7d%7d) for the Outline Scheme acknowledges that if NHHT builds to the *minimum* specification, then _"the outline minimum scenario would result in a net loss of -559 affordable dwellings or -1542 affordable habitable rooms"_ (para. 98). It acknowledges that this would fail to comply with the London Plan requirements on net loss of affordable housing and the AAAP's requirement that there would only be a small net loss of affordable housing (150 dwellings). It will also result in the provision of just 1,634 affordable dwellings (210 in the completed phases, plus 560 in the revised FDS application, plus 864 affordable units in the consented Outline minimum specification). This falls well short of the 2,100 affordable housing dwellings required by the AAAP: 
+
+![Extract from the AAAP](http://35percent.org/img/aaapnetloss.png)
+
+@. In response to the shortcomings in NHHT's minimum proposed specification, the planning committee report goes on to explain (emphasis added):
+
+>"with Phase 1A and Site 7 in place, and assuming that the FDS scheme is delivered in line with the current application, then an additional 4790 habitable rooms of affordable housing **in phases 2, 3 and 4** would be required to deliver full replacement of the baseline." (para. 101)
+
+>"The applicant has therefore confirmed that they will commit to provide 50% of all habitable rooms as affordable housing, in line with AAAP policy BH3, or a minimum of 4790 habitable rooms of affordable housing **under the outline application**, whichever is the greater. This would ensure future phases will secure full replacement affordable housing, when measured by habitable rooms. This will be secured by a legal agreement along with a site wide affordable housing delivery strategy that will **set milestones for the required number of affordable habitable rooms on a phase by phase basis.**" (paras 102/103)
+
+@. However, the section 106 legal agreement failed to secure these minimum requirements. It failed to set any _"milestones for the required number of affordable habitable rooms on a phase by phase basis"_ and failed to require _"a minimum of 4790 habitable rooms of affordable housing **under the outline application**"_. The provisions of the section 106 agreement instead required a minimum of 4790 affordable habitable rooms on the Outline Development **OR** 50% of all habitable rooms as affordable housing **accross the FDS and the Outline applications combined - whichever is the greater**.
 
 ![Extract from S106 agreement](http://35percent.org/img/minimumhr.png)
 
 ![Extract from S106 agreement](http://35percent.org/img/dpadevelopmentdefinition.png)
 
-@. The minimum requirement is either 4790 affordable habitable rooms on the Masterplan site, or 50% of the habitable rooms across the FDS and Masterplan site combined - whichever is the greater. So if NHHT delivers 4791 affordable habitable rooms across the FDS and Masterplan site combined then the "Minimum Affordable Housing Requirement" is satisfied.  
+@. This subtle but significant change of wording enables NHHT to build a minimum of 4791 affordable habitable rooms across the FDS and Outline Schemes combined, as long as this represents 50% of the total housing across the sites.
 
-@. A further loophole has been inserted under the definition of habitable room for the purposes of calculation the min affordable housing provison. This allows any room larger than 27.5m2 to be counted as two habitable rooms for affordable housing provision. 
+@. As a result of the Acquiring Authority's failure to properly negotiate the minimum affordable housing requirement, and its failure to secure any minimum affordable housing requirement in its DPA with NHHT, if the order is confirmed it or (any other developer it may choose to assign the planning consent to (check this?)), will be able to build the Scheme out to the minimum specification and there will be nothing the Acquiring Authority can do to stop it. Note also the Acquiring Authority's failure to action against NHHT when it breached the terms of the section 106 agreement for the Bermondsey Spa regeneration.
 
-![Extract from S106 agreement](http://35percent.org/img/aylesburyoutlinehr.png)
+@. The Acquiring Authority may argue that the section 106 provision governing the minimum affordable housing requirement should be interpreted according to its intention. 
 
-@. NHHT's [June 2016 Housing Delivery Strategy](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!GB0ybg40uhtGW5vcbWkuZA%3d%3d!%7d%7d%7d) submitted pursuant to the requirements of the s106 agreement, clearly show how it has combined the FDS and the outline masterplan application within the minimum 4790 affordable habitable rooms requirement:
+@. However, NHHT's intention and interpretation of the provision is clear; its [June 2016 Housing Delivery Strategy](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!GB0ybg40uhtGW5vcbWkuZA%3d%3d!%7d%7d%7d) submitted pursuant to the requirements of the s106 agreement, clearly show how it has combined both the FDS and the outline Schemes within the minimum 4790 affordable habitable rooms requirement:
 
 ![](http://35percent.org/img/housingdeliverystrategy.png)
 
-Given that there were xxxx affordable habitable rooms across both sites, this represents a net loss of xxxx affordable habitable rooms across the FDS and outline phases combined. 
+@. A further loophole in the section 106 agreement's affordable housing provisions, can be found in the definition of habitable room for the purposes of calculation the min affordable housing provison. This allows any room larger than 27.5m2 to be counted as two habitable rooms for affordable housing provision. 
 
-@. Appendix 1 of the [Heads of Terms](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!F2cnsBhQ1gc6eilnnjVqZg%3d%3d!%7d%7d%7d) for the outline application confirms that there are 2449 existing homes on remaining phases, of which 299 leasehold. (2449-1700 = 749)
- 
-![](http://35percent.org/img/existingra.png)
+![Extract from S106 agreement](http://35percent.org/img/aylesburyoutlinehr.png)
 
+@. The Acquiring Authority may argue that the FDS Scheme should be regarded in isolation from the Outline Scheme (and the above loophole around habitable room calculation) because the section 106 agreement provides a schedule (Schedule 4) setting out the minimum number of affordable housing units to be provided on the FDS.
 
-### Net loss of affordable housing requirements
-@. Policy 3.3.1 of the AAAP envisages just a small net loss of 150 affordable homes across the scheme as a whole. However,paragraph 86 of the planning committee report for the FDS confirms that there will be a net loss of 105 affordable units on the order land alone.
- 
-@. In order to provide sufficient capacity for the tenants rehoused from phase 2, policy BH3 of the AAAP requires 59% of all new homes in phase 1 to be affordable. The consented plans for the FDS (phase 1b/1c) show that just 49% are affordble. The [planning committee report](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!Rp6LgXCaiEovOO%2bcFsi3MA%3d%3d!%7d%7d%7d) for the completed phase 1a shows that also just 51% of the new homes on that site are affordable. 
+@. The Objectors submit that the Outline Scheme should not be seen in isolation because ...  and that in any event there will still be a significant net loss of affordable housing **floorspace** on the FDS if the schedule 4 of the section 106 agreement is complied with. 
 
-@. The Acquiring Authority has argued that the BH3 policy requirement to provide 59% should be calculated by habitable room, but the Objectors contend that the BH3 policy specifies 59% by 'number of homes' rather than habitable rooms.
+@. Policy 3.14 of the London Plan resists the loss of affordable housing, without equivalent replacement (emphasis added): 
 
-@. In any event, if calculation by habitable room is deemed acceptable then there still remains a considerable shortfall: completed phase 1a provides 52% affordable by habitable room and the FDS 51.2% by habitable room. 
+>"3.14B: Loss of housing, including affordable housing, should be resisted unless the housing is replaced at existing or higher densities with **at least equivalent floorspace**. 
 
-@. Not only does the proposed Scheme fall short of the AAAP's affordable housing requirement, it fails to conform with Policy 3.14 of the London Plan (Existing Housing), which resists the loss of affordable housing, without equivalent replacement (emphasis added): 
+>"3.82 ESTATE RENEWAL:  Where redevelopment of affordable housing is proposed, it should not be permitted unless it is replaced by better quality accommodation, providing **at least an equivalent floorspace** of affordable housing."
 
->"3.14B: Loss of housing, including affordable housing, should be resisted unless the housing is replaced at existing or higher densities with at least equivalent **floorspace**. 
+@. The London Plan is very clear that net loss of affordable housing is resisted and should be calculated in terms of **floorspace**.
 
->"3.82 ESTATE RENEWAL:  Where redevelopment of affordable housing is proposed, it should not be permitted unless it is replaced by better quality accommodation, providing at least an equivalent __floorspace__ of affordable housing."
-
-@. The London Plan however, specifies that this should be calculated in terms of floorspace. 
-
-@. The GLA stage 1 report for the outline site says that comprehensive floorspace figures for the Aylesbury estate are not available.
-
-@. Paragraph 353 of the planning committee report confirms that _"The total existing floorspace on the FDS equates to approximately 54,747sqm"_. Paragraph 2.5 of the Acquiring Authority's updated Statement of Case confirms that 22 of the existing properties on the order land were owned privately by leaseholders. Allowing an average sqm floorspace per leaseholder flat of 80sqm results in an approximate overall existing affordable housing floorspace on the FDS of 53,000sqm. 
+@. The GLA stage 1 report for the outline site says that comprehensive floorspace figures for the Aylesbury estate are not available. However, paragraph 353 of the FDS planning committee report confirms that _"The total existing floorspace on the FDS equates to approximately 54,747sqm"_. 
 
 ![Extract from the [planning committee report for the FDS](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!JwAZWYwclvfEhXaN8JmiPA%3d%3d!%7d%7d%7d)](http://35percent.org/img/fdsbaseline.png)
 
@@ -107,43 +115,17 @@ Given that there were xxxx affordable habitable rooms across both sites, this re
 
 @. The Acquiring Authority is claiming that the Mayor’s Housing SPG says that the re-provision of housing may be considered in terms of units numbers and/or habitable rooms. However the SPG only says that this is permissible in relation to family homes (emphasis added):
 
->"5.1.9 As a minimum, equivalent residential densities and floorspace should be provided where existing homes are redeveloped. Subject to other policy considerations, higher residential densities are encouraged, alongside more generous floorspace provision. As a general rule, floorspace provision should be calculated and assessed across a site as a whole. However, to address identified housing need, it may be appropriate to require the re-provision of existing __family homes__ with at least equivalent floorspace in terms of units or habitable rooms." 
+>"5.1.14 Calculations of whether there is a loss of affordable or overall housing provision can be made on the basis of habitable rooms rather than dwellings, where the redevelopment of an estate is providing a housing mix more appropriate to the needs of both existing and prospective future residents – for example where there is increased provision of dwellings for larger households."
 
-@. Given that the London Plan defines family homes as having 3 bedrooms or more and given that the proposed redevelopment comprises predominantly 1 and 2 bedroom flats, it is unlikely that using habitable rooms for calculating the net loss in relation to family homes will affect the overall figure to any significant extent. [We need to run the numbers once the revised application is in].
+@. Given the proposed Scheme's shortcomings in relation to the objectives and requirements of the AAAP, the Objectors submit that the Scheme is not _"providing a housing mix more appropriate to the needs of both existing and prospective future residents"_ - for example, the Scheme fails to provide _"increased provision of dwellings for larger households"_. This is addressed in the following section explaining the Scheme's failure to comply with the AAAP's dwelling size requirements.
 
-@. The Acquiring Authority may argue that it is submitting a revised planning application as per paragraph 7.2 of its Statement of Case, but this will only increase the affordable provision on the FDS by 154 affordable units (approx. 10,000 sqm). There still remains a significant net loss of affordable housing floorspace (ca. 15,000 sqm).
-
-@. Further, the increase in affordable housing provision on the FDS is being provided as a result of affordable units being transferred to it from plot 18 (Amersham site), where the affordable provision is being reduced to just 19% - well short of the minimum requirement of 59%.
-
-@. The Objectors note that the phasing plans have also now been swapped - the Amersham Site will now be completed before the FDS, which will not be completed until 2024. This is a further breach of AAAP requirements which envisaged phase 1 to be completed by 2019.
-
-@. The Acquiring Authority may argue that the AAAP says that net loss of affordable housing can be calculated in habitable rooms. But policy 3.3.1 clearly specifies unit numbers and only mentions habitable rooms in relation to the net loss as the result of providing 'more larger units'. We show in paragraph xx of our SoC that the Scheme fails to deliver the required number of 'larger units'.  
-
-![Extract from the AAAP](http://35percent.org/img/aaapnetloss.png)
-
-@. Further, the AAAP specifies the necessity that _"about 2,100 affordable homes are re-provided"_ in order to satisfy requirements. 
-
-----
-@. NHHT's failure to ensure that there is no net loss of affordable housing may present a barrier to it receiving funding for the redevelopment. The Mayor's [funding agreement](http://35percent.org/img/standardformagreement2017.pdf) requires all estate regeneration schemes funded by his programme to comply with his [Good Practice Guide to Estate Regeneration](https://www.london.gov.uk/sites/default/files/draftgoodpracticeestateregenerationguidedec16v2.pdf):
+@. The Objectors also note that NHHT's failure to ensure that there is no net loss of affordable housing may present a barrier to it receiving funding for the redevelopment. The Mayor's [funding agreement](http://35percent.org/img/standardformagreement2017.pdf) requires all estate regeneration schemes funded by his programme to comply with his [Good Practice Guide to Estate Regeneration](https://www.london.gov.uk/sites/default/files/draftgoodpracticeestateregenerationguidedec16v2.pdf):
 
 ![Extract from the Mayor's [funding agreement](http://35percent.org/img/standardformagreement2017.pdf)](http://35percent.org/img/standardformer.png)
 
 @. The Mayor's [Good Practice Guide](https://www.london.gov.uk/sites/default/files/draftgoodpracticeestateregenerationguidedec16v2.pdf) in turn, states that _"demolition should only be followed where it does not result in a loss of social housing"_. 
 
-## Tenure requirements
-@. The AAAP requires 37.5% of all new homes to be social rented tenure. The AAAP was adopted before the introduction of the incoming Tory government's new Affordable Rent tenure. 
-
-@. It is understood that NHHT is funding the social rented homes on the FDS with a grant from the GLA's Affordable Housing Programme 2016-2021. The GLA's [funding agreement](http://35percent.org/img/standardformagreement2017.pdf) for this programme does not provide for social rent. Instead it offers funding for a tenure named 'London Affordable Rent' (LAR). The funding agreement makes it clear that this effectively the Affordable Rent tenure and subject to regulations and legislation governing Affordable Rent:
-
-![Extract from the Mayor's [funding agreement](http://35percent.org/img/standardformagreement2017.pdf)](http://35percent.org/img/rentstandardpara.png)
-
-@. Furthermore, the funding agreement prescribes a specific formula for how LAR rent levels are to be set:
-
-![Extract from the Mayor's [funding agreement](http://35percent.org/img/standardformagreement2017.pdf)](http://35percent.org/img/larformula.png)
-
-@. This formula conflicts with the formula for the setting of social rents prescribed in the Rent Standard Guidance and will result in LAR rents increasing proportionally by more than social rents year on year. LAR tenure is not social rented tenure required by the AAAP, it is subject to different regulation and legislation (enabling fixed-term rather than secure tenancies, pay to stay, etc). 
-
-## Typology requirements
+## Dwelling size requirements
 @. The AAAP says _"There will be a significant proportion of family homes with 23% houses, together with all the facilities needed by families, to make sure that the whole area is family-friendly."_
 
 @. Appendix 5 of the AAAP sets out the required number of unit sizes per phase:
@@ -180,6 +162,21 @@ Given that there were xxxx affordable habitable rooms across both sites, this re
 -----
 
 @. Para 116 of the [outline officers report](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!Vbu5QpckfYCnJrulzlWyuQ%3d%3d!%7d%7d%7d) says something about four person two beds and the s106.
+
+## Tenure requirements
+@. The AAAP requires 37. 5% of all new homes to be social rented tenure. The AAAP was adopted before the introduction of the incoming Tory government's new Affordable Rent tenure. 
+
+@. It is understood that NHHT is funding the social rented homes on the FDS with a grant from the GLA's Affordable Housing Programme 2016-2021. The GLA's [funding agreement](http://35percent.org/img/standardformagreement2017.pdf) for this programme does not provide for social rent. Instead it offers funding for a tenure named 'London Affordable Rent' (LAR). The funding agreement makes it clear that this effectively the Affordable Rent tenure and subject to regulations and legislation governing Affordable Rent:
+
+![Extract from the Mayor's [funding agreement](http://35percent.org/img/standardformagreement2017.pdf)](http://35percent.org/img/rentstandardpara.png)
+
+@. Furthermore, the funding agreement prescribes a specific formula for how LAR rent levels are to be set:
+
+![Extract from the Mayor's [funding agreement](http://35percent.org/img/standardformagreement2017.pdf)](http://35percent.org/img/larformula.png)
+
+@. This formula conflicts with the formula for the setting of social rents prescribed in the Rent Standard Guidance and will result in LAR rents increasing proportionally by more than social rents year on year. LAR tenure is not social rented tenure required by the AAAP, it is subject to different regulation and legislation (enabling fixed-term rather than secure tenancies, pay to stay, etc). 
+
+@. It is also noted that NHHT's revised planning applications for the FDS now include the provision of 'market rent' rather than private for-sale housing. This is a breach of the AAAP's tenure requirements, which specifically state 'private homes'. Homes rented on short-term tenancies by a housing association at market rent are not interchangeable with private for-sale homes; they are two separate types of tenure for planning purposes (check this?).
 
 
 ### Renewable energy requirements
@@ -401,13 +398,13 @@ Note to Chris: obviously we are going to have to revise this section once the re
 @. The Ombudsman directed the AA to conduct a borough-wide audit of compliance and introduce s106 monitoring procedures going forward. The AA has sinced allocated just £60,000 to this audit and pay for software and staffing for ongoing compliance. This is insufficient means to ensure that the.. 
 
 ## Infrastructure funding requirements
-@. Page 75 of the AAAP describes infrastructure funding. It says the developer will pay a tariff which will fund community facilities like the health centre and other community facilities. However, we now know that the Council is paying for the £35m cost of them mainly from its own funds.
+ @. Page 75 of the AAAP describes infrastructure funding. It says the developer will pay a tariff which will fund community facilities like the health centre and other community facilities. However, we now know that the Council is paying for the £35m cost of them mainly from its own funds.
 
 @. The AAAP said that this infrastructure was to be funded by means of a tariff and that the details of the tariff will be published in a subsequent SPD - The Section 106 & CIL SPD (2015). This requires each development to pay a levy towards local infrastructure. Paragraph 5.8 of the SPD specifically states _"CIL will replace the section 106 tariffs set out in the Aylesbury Area Action Plan"_ and sets out a charging schedule showing a requirement of £50 per square metre of residential floorspace
 
 @. The planning committee report for the FDS says: _The total existing floorspace on the FDS equates to approximately 54,747sqm. The total proposed floorspace is 81,432sqm. Provided that the existing buildings on the FDS remain in use for at least 6 months within the 36 months prior to implementation, the existing floorspace can be deducted from that proposed to give a figure of 26,685sqm .. This would incur a charge of £1,320,500."_
 
-@. The report is not clear as to whether this will be paid and given the absence of a CIL liability notice in the planning application documents, the Objectors request further details of whether the CIL contribution is due.
+@. The report is not clear as to whether this will be paid and given the absence of a CIL liability notice in the planning application documents, the Objectors request further details of whether the FDS and Outline Schemes are liable for CIL and whether a CIL contribution has been agreed.
 
 @. The [S106 agreement] says this:
 
@@ -599,6 +596,8 @@ https://www.theguardian.com/society/2015/mar/29/tenants-face-70m-rent-rise-as-so
 
 @. The following changes to the funding programme show how NHHT is rolling back on its funding commitments to the scheme. In September 2016, Southwark [agreed](http://moderngov.southwark.gov.uk/documents/s63817/Report.Aylesbury%20Regeneration%20Delivery.pdf) a number of changes to the development agreement with NHHT. Southwark agreed to forward fund £21m of the ongoing costs of progressing the scheme, that NHHT was originally required to fund under the terms of the Development Partnership Agreement. These comprised:
 
+![](/img/dpafunding.png)
+
 > * £16.8m demolition costs for the First Development Site
 > * £0.8m for the demolition of Plot 18
 > * £2m to underwrite the cost of Plot 18’s planning application
@@ -704,7 +703,7 @@ Conclusion:
  * How many leaseholders rehoused as tenants? where? RSL etc?
  * How many shared ownership/equity etc.
  * Where did they go?
- * Supply copy of the Creation Trust displacement map for phase 2 - how many tenants rehoused on footprint? (34) Where did leaseholders go?
+ * Supply copy of the Creation Trust displacement map for phase 2 - how many tenants rehoused on footprint? (34) Where did leaseholders go? Para 7.2.6 of the AAAP says _"We will accommodate approximately 50% of existing tenants through the re-provision of homes on site"_. Show how this AAAP target hasn't been met.
  * Ask whether an agreement with the MoJ has been signed for the relocation of Ellison House - if so ask for a copy of the agreement.
  * Ask whether the Council has sold any properties on the estate at auction. It is understood that the Council has bought back properties on later phases and subsequently sold them at auction rather than let them to temporary licencees.
  * Ask for details on the leaseholder who died in Arlow. How did he die? was it result of environmental conditions - i.e. discontinuity in services - heating?
