@@ -3,6 +3,7 @@ layout: page
 title: "Statement of Case"
 subtitle: "Aylesbury estate CPO public inquiry, Oct 2017"
 ---
+**Table of Contents:**
 * TOC
 {:toc}
 
@@ -37,7 +38,7 @@ subtitle: "Aylesbury estate CPO public inquiry, Oct 2017"
  * Rehousing/PSED mitigation requirements
  
 ## Minimum number of new homes requirements
-@. The AAAP said that the scheme would deliver 4,200 new homes - a net uplift of 1,450 over the existing estate. The @AAAP said that this would help contribute to and conform with the London Plan requirement of 16,300 new homes by 2016/2017.
+@. The AAAP said that  the scheme would deliver 4,200 new homes - a net uplift of 1,450 over the existing estate. The @AAAP said that this would help contribute to and conform with the London Plan requirement of 16,300 new homes by 2016/2017.
 
 @. Paragraph 88 of the [planning committee report](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!Vbu5QpckfYCnJrulzlWyuQ%3d%3d!%7d%7d%7d) for the outline application re-iterates that _"A key objective of the AAAP (Policy BH1 Number of homes) is to increase the number of homes on the estate"_. The Scheme underlying the order as it stands will fail to achieve this objective.
 
@@ -55,7 +56,7 @@ subtitle: "Aylesbury estate CPO public inquiry, Oct 2017"
 
 @. If the order is confirmed then there is nothing preventing NHHT delivering the Scheme according to the minimum specification, thereby failing to comply with key objective AAAP (Policy BH1 Increasing the Number of Homes). 
 
-### Net loss of affordable housing requirements
+## Net loss of affordable housing requirements
 @. The [planning committee report](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!Vbu5QpckfYCnJrulzlWyuQ%3d%3d!%7d%7d%7d) for the Outline Scheme acknowledges that if NHHT builds to the *minimum* specification, then _"the outline minimum scenario would result in a net loss of -559 affordable dwellings or -1542 affordable habitable rooms"_ (para. 98). It acknowledges that this would fail to comply with the London Plan requirements on net loss of affordable housing and the AAAP's requirement that there would only be a small net loss of affordable housing (150 dwellings). It will also result in the provision of just 1,634 affordable dwellings (210 in the completed phases, plus 560 in the revised FDS application, plus 864 affordable units in the consented Outline minimum specification). This falls well short of the 2,100 affordable housing dwellings required by the AAAP: 
 
 ![Extract from the AAAP](http://35percent.org/img/aaapnetloss.png)
@@ -121,7 +122,7 @@ subtitle: "Aylesbury estate CPO public inquiry, Oct 2017"
 
 >"5.1.14 Calculations of whether there is a loss of affordable or overall housing provision can be made on the basis of habitable rooms rather than dwellings, where the redevelopment of an estate is providing a housing mix more appropriate to the needs of both existing and prospective future residents – for example where there is increased provision of dwellings for larger households."
 
-@. Given the proposed Scheme's shortcomings in relation to the objectives and requirements of the AAAP, the Objectors submit that the Scheme is not _"providing a housing mix more appropriate to the needs of both existing and prospective future residents"_ - for example, the Scheme fails to provide _"increased provision of dwellings for larger households"_. This is addressed in the following section explaining the Scheme's failure to comply with the AAAP's dwelling size requirements.
+@. Given the proposed Scheme's shortcomings in relation to the objectives and requirements of the AAAP, the Objectors submit that the Scheme is not _"providing a housing mix more appropriate to the needs of both existing and prospective future residents"_ - for example, the Scheme fails to provide _"increased provision of dwellings for larger households"_. This is addressed in the following section explaining the Scheme's failure to comply with the minimum dwelling size requirements and minimum space standards.
 
 @. The Objectors also note that NHHT's failure to ensure that there is no net loss of affordable housing may present a barrier to it receiving funding for the redevelopment. The Mayor's [funding agreement](http://35percent.org/img/standardformagreement2017.pdf) requires all estate regeneration schemes funded by his programme to comply with his [Good Practice Guide to Estate Regeneration](https://www.london.gov.uk/sites/default/files/draftgoodpracticeestateregenerationguidedec16v2.pdf):
 
@@ -157,21 +158,23 @@ subtitle: "Aylesbury estate CPO public inquiry, Oct 2017"
 
 
 ## Minimum space standards
-Paragraph 124 of the planning committee report for the Outline Scheme acknowledges that _"Since the AAAP was adopted, space standards have increased with the introduction of minimum dwellings sizes in the  London Plan (2011) and the adoption of the Southwark Plan Residential Design SPD (2011). The result is that the minimum space standards in the AAAP have been superseded by larger space standards in these more recent documents."_
+@. Paragraph 124 of the planning committee report for the Outline Scheme acknowledges that _"Since the AAAP was adopted, space standards have increased with the introduction of minimum dwellings sizes in the  London Plan (2011) and the adoption of the Southwark Plan Residential Design SPD (2011). The result is that the minimum space standards in the AAAP have been superseded by larger space standards in these more recent documents."_
 
 @. The London Plan's minimum space requirements are as follows:
 
 ![](/img/londonplanminspace.png)
 
-@. The Outline Scheme's Affordable Housing Statement provides a breakdown of the minimum sizes of the social rented and intermediate affordable housing units:
+@. The Outline Scheme's Affordable Housing Statement provides a breakdown of the minimum sizes of the social rented and intermediate affordable housing units across the Outline and FDS scheme:
 
 ![](/img/outlineminsize.png)
 
-What about the private units?
+@. Not one of the proposed dwelling sizes complies with the London Plan's minimum space requirements. (check this)
+
+What about the private units? Where can we find a break down of the proposed dwelling sizes for the private units?
 
 
 
-@. Say something here about the intention of the AAAP to create a family-oriented redevelopment to address the needs of existing families on the estate...
+
  
 -----
 
@@ -193,7 +196,7 @@ What about the private units?
 @. It is also noted that NHHT's revised planning applications for the FDS now include the provision of 'market rent' rather than private for-sale housing. This is a breach of the AAAP's tenure requirements, which specifically state 'private homes'. Homes rented on short-term tenancies by a housing association at market rent are not interchangeable with private for-sale homes; they are two separate types of tenure for planning purposes (check this?).
 
 
-### Renewable energy requirements
+## Renewable energy requirements
 @ . Sustainable development was one of the core principles of the development plan. Policy BH6([I] - ENERGY SUPPLY) of the AAAP requires new developments in the core action area to be serviced by one centralised energy plant:
 
 >"The energy supply for the action area core will be generated by combined heat and power (CHP). The CHP plant should be part of an energy centre located immediately south of the junction of Thurlow Street and Inville Road and appropriately sized to accommodate plant required to deliver services to the development. The redevelopment of the action area core will result in zero carbon growth. All developments within the action area core must connect to the CHP system. Developments completed prior to the implementation of CHP should be designed so that they can switch to the CHP once it is available." 
@@ -438,7 +441,7 @@ Note to Chris: obviously we are going to have to revise this section once the re
 @. [This article](https://www.southwarknews.co.uk/news/installing-sprinklers-southwarks-council-housing-cost-100m/) confirms the Council is considering spending £100m on sprinklers for its tower blocks and admits that if no govt funding is found then _"other things will have to be put on hold"_.
 
 
-## The Scheme fails to conform with the development plan's Equalities Impact mitigation measures (and consequently PSED)
+## Public Sector Equalities Duty (PSED) requirements 
 @. The AAAP said there will be a 'range of options to enable leaseholders to stay in area, buy into new scheme etc..'
 
 @. This was discussed in more detail in the Equalities Assessment conducted in conjunction with the AAAP.
@@ -460,7 +463,7 @@ Note to Chris: obviously we are going to have to revise this section once the re
 
 @. Inspector Coffey said that leaseholders are left with two bleak options: moving out of the area or remaining but being impoverished. Like-for-like swap was the only option that would have enabled leaseholders to remain in the area without being impoverished. *We will need to show that the shared equity deal impoverishes leaseholders despite change in the £16k policy. (Investigate service charges etc)*
 
-## The scheme underlying the Order is not viable and therefore not deliverable.
+## The scheme is not viable and therefore not deliverable.
 There are three main factors contributing to the non-viability of the scheme:
 
 1. The Scheme was not viable in the first place
@@ -507,7 +510,7 @@ https://www.theguardian.com/housing-network/2012/aug/09/housing-benefit-caps-end
 
 @. In paragraph xxx of its Statement of Case, the Acquiring Authority has asserted that £76m of its own funds have been set aside for the scheme over the next five years. However, it does not explain that this covers only site assembly - i.e. leaseholder compensation, decant and rehousing costs, demolition etc. Given that there is no funding for construction of the Scheme, then it cannot be claimed to be viable at the consented tenure mix. 
  
-## The Acquiring Authority has failed to comply with the requirements of the ODPM 06/04 Circular regarding provision of viability information 
+## Failure to demonstrated the Scheme is viable and therefore deliverable 
 @. Paragraph 16 (iii) of Appendix A of the 06/2004 Circular says(emphasis added):
 
 >"Any decision about whether to confirm an order made under section 226(1)(a) of the 1990 Act will be made on its own merits, but the factors which the Secretary of State can be expected to consider include .. (iii) the potential financial viability of the scheme for which the land is being acquired. A general indication of funding intentions, and of any commitments from third parties, will usually suffice to reassure the Secretary of State that there is a reasonable prospect that the scheme will proceed. __The greater the uncertainty about the financial viability of the scheme, however, the more compelling the other grounds for undertaking the compulsory purchase will need to be__. The timing of any available funding may also be important. For example, a strict time-limit on the availability of the necessary funding may be an argument put forward by the acquiring authority to justify proceeding with the order before finalising the details of the replacement scheme and/or the statutory planning position."
