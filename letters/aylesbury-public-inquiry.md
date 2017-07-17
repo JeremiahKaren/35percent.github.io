@@ -6,6 +6,8 @@ subtitle: "Aylesbury estate CPO public inquiry, Oct 2017"
 
 ![](http://35percent.org/img/phase1baerial.png)  
 
+{:toc}
+
 ## The Scheme for the Order Land is no longer in accordance with the statutory development plan
 @. A key requirement of the compulsory purchase code is that the Scheme underlying the Order must conform with the requirements of the statutory development plan. Paragraph 76 of the [06/04 ODPM Circular](https://www.gov.uk/government/publications/compulsory-purchase-and-the-crichel-down-rules-circular-06-2004) lists a key consideration as _"whether the purpose for which the land is being acquired fits in with the adopted Local Plan for the area"_ and specifies that _"any programme of land assembly needs to be set within a clear strategic framework, and this will be particularly important when demonstrating the justification for acquiring land compulsorily under section 226(1)(a) powers as a means of furthering the well-being of the wider area."_.
 
@@ -131,11 +133,15 @@ subtitle: "Aylesbury estate CPO public inquiry, Oct 2017"
 
 @. Appendix 5 of the AAAP sets out the required number of unit sizes per phase:
 
-![](http://35percent.org/aaapapp5.png)
+![](http://35percent.org/img/aaapapp5.png)
 
 @. Of the 60 3-bed dwellings required by the AAAP on completed phases 1a/site 7 - only 30 were provided. The AAAP requires 149 3-bed dwellings on the FDS but only consented 108. The AAAP requires 38 4-bed dwellings but only 32 were in the planning consent. (We will need to check what dwelling sizes are proposed in the revised FDS application)
 
 @. The shortfalls in the family homes required by the AAAP are far more severe on the Outline scheme under the minimum specification.
+
+@. Paragraph 93 of the planning committee report for the Outline Scheme shows that the minimum specification would result in the reprovision of just 263 'social rented' family homes (3-bed and above). This compares with 776 social rented family units on the existing Outline site right now (874 listed in the S106 Heads of Terms for Outline and FDS combined, minus 98 social rented family homes on FDS). 
+
+@. This will prevent the requirements of paragraph 7.2.6 of the AAAP being satisfied: _“We will accommodate approximately 50% of existing tenants through the re-provision of homes on site”._
 
 @. The AAAP says that:
 
@@ -143,26 +149,26 @@ subtitle: "Aylesbury estate CPO public inquiry, Oct 2017"
 
 @. The Sustainability Assessment for the AAAP says: 
 
->"A recent Housing Needs Survey (2003) for Southwark identified 35,851 households stating a need to move in the next 5 years. Of those households, 48% stated the main reason for needing to move was that their home was too small and 54.3% needed a home with 3 or more hbedrooms.
+>"A recent Housing Needs Survey (2003) for Southwark identified 35,851 households stating a need to move in the next 5 years. Of those households, 48% stated the main reason for needing to move was that their home was too small and 54.3% needed a home with 3 or more bedrooms.
 
-@. It also says: _"The revised tenure mix new option was chosen as it minimises the loss of affordable housing and will help develop a mixed and sustainable community. It will also ensure that the rehousing needs of existing tenants are met."_
+>"The revised tenure mix new option was chosen as it minimises the loss of affordable housing and will help develop a mixed and sustainable community. It will also ensure that the rehousing needs of existing tenants are met."
+
+
 
 ## Minimum space standards
-Paragraph 124 of the planning committee report for the Outline Scheme acknowledges that _"Since the AAAP was adopted, space standards have increased with the introduction of minimum dwellings sizes in the London Plan (2011) and the adoption of the Southwark Plan Residential Design SPD (2011). The result is that the minimum space standards in the AAAP have been superseded by larger space standards in these more recent documents."_
+Paragraph 124 of the planning committee report for the Outline Scheme acknowledges that _"Since the AAAP was adopted, space standards have increased with the introduction of minimum dwellings sizes in the  London Plan (2011) and the adoption of the Southwark Plan Residential Design SPD (2011). The result is that the minimum space standards in the AAAP have been superseded by larger space standards in these more recent documents."_
 
 @. The London Plan's minimum space requirements are as follows:
 
 ![](/img/londonplanminspace.png)
 
-@. The planning committee report for the FDS failed to address the planning application's failure to conform with the above requirements and instead chose to compare them only with the AAAP and the requirements of its Residential Design SPD (2011):
+@. The Outline Scheme's Affordable Housing Statement provides a breakdown of the minimum sizes of the social rented and intermediate affordable housing units:
 
-![](/img/spacestandardsfds.png)
+![](/img/outlineminsize.png)
 
-@. Given that the eniterety of the **flats** in the FDS consent fail to meet the London Plan's minimum space requirements, it is unsurprising that the planning committee report chose not to include them. 
+What about the private units?
 
-@. The S106 [Heads of Terms agreement](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!CaG5rOFO9m6tvdWRnS%2b6bg%3d%3d!%7d%7d%7d) shows that despite increasing the density on the FDS there will be a significant reduction in the child yield as a result of the fewer family homes.
 
-![Extract from the S106 Heads of Terms](http://35percent.org/img/fdschildyield.png)
 
 @. Say something here about the intention of the AAAP to create a family-oriented redevelopment to address the needs of existing families on the estate...
  
