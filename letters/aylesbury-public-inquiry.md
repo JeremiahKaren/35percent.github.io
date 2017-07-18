@@ -3,15 +3,14 @@ layout: page
 title: "Statement of Case"
 subtitle: "Aylesbury estate CPO public inquiry, Oct 2017"
 ---
+![](http://35percent.org/img/phase1baerial.png)  
+
 **Table of Contents:**
 * TOC
 {:toc}
 
-![](http://35percent.org/img/phase1baerial.png)  
-
-
-## The Scheme for the Order Land is no longer in accordance with the statutory development plan
-@. A key requirement of the compulsory purchase code is that the Scheme underlying the Order must conform with the requirements of the statutory development plan. Paragraph 76 of the [06/04 ODPM Circular](https://www.gov.uk/government/publications/compulsory-purchase-and-the-crichel-down-rules-circular-06-2004) lists a key consideration as _"whether the purpose for which the land is being acquired fits in with the adopted Local Plan for the area"_ and specifies that _"any programme of land assembly needs to be set within a clear strategic framework, and this will be particularly important when demonstrating the justification for acquiring land compulsorily under section 226(1)(a) powers as a means of furthering the well-being of the wider area."_.
+## The Scheme is no longer in accordance with the development plan
+@. A key requirement of the compulso ry purchase code is that the Scheme underlying the Order must conform with the requirements of the statutory development plan. Paragraph 76 of the [06/04 ODPM Circular](https://www.gov.uk/government/publications/compulsory-purchase-and-the-crichel-down-rules-circular-06-2004) lists a key consideration as _"whether the purpose for which the land is being acquired fits in with the adopted Local Plan for the area"_ and specifies that _"any programme of land assembly needs to be set within a clear strategic framework, and this will be particularly important when demonstrating the justification for acquiring land compulsorily under section 226(1)(a) powers as a means of furthering the well-being of the wider area."_.
 
 @. The adopted Local Plan for the Scheme underlying this Order (“the Scheme”) is the [Aylesbury Area Action Plan 2010](http://www.2.southwark.gov.uk/download/downloads/id/13132/aylesbury_area_action_plan_2010_inc_appendices) (“AAAP”) [CD2], which was adopted in January 2010 as part of the Acquiring Authority's local development framework.
 
@@ -37,7 +36,7 @@ subtitle: "Aylesbury estate CPO public inquiry, Oct 2017"
  * Infrastructure/public sector funding requirements
  * Rehousing/PSED mitigation requirements
  
-## Minimum number of new homes requirements
+## Housing uplift requirements
 @. The AAAP said that  the scheme would deliver 4,200 new homes - a net uplift of 1,450 over the existing estate. The @AAAP said that this would help contribute to and conform with the London Plan requirement of 16,300 new homes by 2016/2017.
 
 @. Paragraph 88 of the [planning committee report](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!Vbu5QpckfYCnJrulzlWyuQ%3d%3d!%7d%7d%7d) for the outline application re-iterates that _"A key objective of the AAAP (Policy BH1 Number of homes) is to increase the number of homes on the estate"_. The Scheme underlying the order as it stands will fail to achieve this objective.
@@ -168,17 +167,7 @@ subtitle: "Aylesbury estate CPO public inquiry, Oct 2017"
 
 ![](/img/outlineminsize.png)
 
-@. Not one of the proposed dwelling sizes complies with the London Plan's minimum space requirements. (check this)
-
-What about the private units? Where can we find a break down of the proposed dwelling sizes for the private units?
-
-
-
-
- 
------
-
-@. Para 116 of the [outline officers report](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!Vbu5QpckfYCnJrulzlWyuQ%3d%3d!%7d%7d%7d) says something about four person two beds and the s106.
+@. Read in conjunction with the schedule of accommodation in NHHT's [Design & Access Statement](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!SP7j9NgvVQ81I%2fbtk2kPWQ%3d%3d!%7d%7d%7d), we can see that not one of the proposed dwelling sizes for any of the **flats** on the FDS or Oultine Scheme complies with the London Plan's minimum space requirements.
 
 ## Tenure requirements
 @. The AAAP requires 37. 5% of all new homes to be social rented tenure. The AAAP was adopted before the introduction of the incoming Tory government's new Affordable Rent tenure. 
@@ -191,10 +180,11 @@ What about the private units? Where can we find a break down of the proposed dwe
 
 ![Extract from the Mayor's [funding agreement](http://35percent.org/img/standardformagreement2017.pdf)](http://35percent.org/img/larformula.png)
 
-@. This formula conflicts with the formula for the setting of social rents prescribed in the Rent Standard Guidance and will result in LAR rents increasing proportionally by more than social rents year on year. LAR tenure is not social rented tenure required by the AAAP, it is subject to different regulation and legislation (enabling fixed-term rather than secure tenancies, pay to stay, etc). 
+@. This formula conflicts with the formula for the setting of social rents prescribed in the Rent Standard Guidance and will result in LAR rents increasing proportionally by more than social rents year on year, as social rents are required to be reduced by 1% each year (see section 23 of the Welfare, Reform and Work Act 2016).
+
+@. LAR tenure is not social rented tenure required by the AAAP, it is subject to different regulation and legislation (enabling fixed-term rather than secure tenancies, pay to stay, etc). 
 
 @. It is also noted that NHHT's revised planning applications for the FDS now include the provision of 'market rent' rather than private for-sale housing. This is a breach of the AAAP's tenure requirements, which specifically state 'private homes'. Homes rented on short-term tenancies by a housing association at market rent are not interchangeable with private for-sale homes; they are two separate types of tenure for planning purposes (check this?).
-
 
 ## Renewable energy requirements
 @ . Sustainable development was one of the core principles of the development plan. Policy BH6([I] - ENERGY SUPPLY) of the AAAP requires new developments in the core action area to be serviced by one centralised energy plant:
@@ -209,7 +199,7 @@ What about the private units? Where can we find a break down of the proposed dwe
 
 >"New developments will also need to reduce carbon emissions by 20% using carbon renewable technologies. Currently, the most feasible way of doing this would appear to be by providing biomass CHP in the energy centre."
 
-@. However, the Scheme falls short of these requirements in that the biomass plans have been dropped and the development on the order land will be serviced by its own separate individual (non-renewable) gas-fired CHP plant, which will have the 'potential' to be connected to the proposed energy centre on Thurlow St, but won't be serviced by it. This is acknowledged in the planning committee report for the FDS application, which says:
+@. However, the Scheme falls short of these requirements in that the biomass plans have been dropped and the development on the FDS will be serviced by its own separate individual (non-renewable) gas-fired CHP plant, which will have the 'potential' to be connected to the proposed energy centre on Thurlow St, but won't be serviced by it. This is acknowledged in the planning committee report for the FDS application, which says:
 
 >"Whilst the AAAP envisaged a single energy centre being provided, the proposal is for an Energy Centre within Block 5 of the FDS with another energy centre being located close to the Albany Road/Thurlow Street junction as part of the Outline Scheme."
 
@@ -229,15 +219,17 @@ What about the private units? Where can we find a break down of the proposed dwe
 
 >"The development will be designed to result in zero carbon growth, that is, no net growth in carbon dioxide emissions despite an increase in the number of dwellings. This will require buildings which are highly energy efficient."
 
-@. The Acquiring Authority has produced no evidence that the Scheme complies with this requirement of the AAAP.
+@. The Acquiring Authority has produced no evidence that the Scheme complies with this requirement of the AAAP. Moreover, the section 106 agreement only requires a minimum 3% renewable energy across the FDS and outline scheme:
+
+![](http://35percent.org/img/renewablesrequirement.png)
 
 @. The planning consent for the order land fails to comply with any of these policies, which are a core objective of the development plan. The Objectors have submitted a [sample](http://35percent.org/img/aylesburynewvsoldepc.pdf) of Energy Performance Certificates (EPC) showing that, despite not having double glazing installed, the existing dwellings on the order land are more energy efficient than the Aylesbury new-build apartments on the neighbouring completed phase 1a of the Scheme (Roffo Court).
 
 ![New-build EPC (left) existing Aylesbury estate (right)](http://35percent.org/img/epcomparison.png)
 
-@. The EPC certificates for completed phase 1a of the Scheme confirm that it does not benefit from any renewable energy sources. Futher [documentation](http://35percent.org/img/Totters_Court.pdf) shows that the development is fuelled by a central gas boiler. 
+@. The EPC certificates for completed phase 1a of the Scheme confirm that it did not provide any renewable energy either. Futher [documentation](http://35percent.org/img/Totters_Court.pdf) shows that the development is fuelled by a central gas boiler. 
 
-@. This is a breach of the planning consent for phase 1a; the [planning committee report](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!EBAeY2lWKnBCMyOrbAnyPA%3d%3d!%7d%7d%7d) for the development says that it will be fuelled by a central biomass CHP:
+@. This is a breach of the planning consent for phase 1a; the [planning committee report](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!EBAeY2lWKnBCMyOrbAnyPA%3d%3d!%7d%7d%7d) for the development said that it would be fuelled by a central biomass CHP:
 
 ![Extract from the phase 1a planning committee report](http://35percent.org/img/biomassboilerproposed.png)
 
@@ -245,21 +237,16 @@ What about the private units? Where can we find a break down of the proposed dwe
 
 ![Extract from officer report re- application to discharge biomass requirement](http://35percent.org/img/phase1abiomass.png)
 
-@. The Acquiring Authority may attempt to argue that a new planning application is currently being prepared, but the Objectors point out that it is very unlikely that this will meet the more stringent zero carbon policies introduced since the original 2014 planning consent was granted. 
+@. The Acquiring Authority may attempt to argue that a revised planning application is currently being prepared, but the Objectors point out that it is very unlikely that this will meet the more stringent zero carbon policies introduced since the original 2014 planning consent was granted. 
 
 @. In March 2016, The Mayor of London set out the approach to achieving the London Plan policy aim of 'zero carbon homes' for major developments in the Housing Supplementary Planning Guidance (SPG), published in March 2016.
 
 ![Policy 5.2b of the London Plan](http://35percent.org/img/lpextractzerocarbon.png)
 
-@. Policy 3.6.7 of the AAAP envisaged this requirement for zero carbon homes: _"The government has announced the intention of ensuring that all homes are CfSH Level 6 by 2016. Proposals will need to comply with these regulations where these are more stringent than CfSH Level 4."_ 
-
----
-@. The section 106 agreement only requires a minimum 3% renewable energy across the FDS and outline scheme:
-
-![](http://35percent.org/img/renewablesrequirement.png)
-
+ @. Policy 3.6.7 of the AAAP envisaged this requirement for zero carbon homes: _"The government has announced the intention of ensuring that all homes are CfSH Level 6 by 2016. Proposals will need to comply with these regulations where these are more stringent than CfSH Level 4."_ 
+ 
 ## Public realm and sunlight/daylight requirements
-@. It was pointed out during the previous inquiry that the tall buildings (market units) running east to west along the frontage to Burgess Park, will result in a significant number of homes in the affordable blocks behind them failing to meet BRE minimum daylight requirements.
+@. It was pointed out during the previous inquiry that the tall buildings (all private units) running east to west along the frontage to Burgess Park, will result in a significant number of homes in the affordable blocks behind them failing to meet BRE minimum daylight requirements.
 
 @. This was taken up by the inspector at the previous inquiry and the criticisms outlined in detail in paragraphs 368-370 of her report do not need repeating. The planning committee report also openly acknowledges the Scheme's shortcomings in relation to daylight requirements:
 
@@ -278,7 +265,6 @@ What about the private units? Where can we find a break down of the proposed dwe
 >"The frontage along Burgess Park must include a strong building line, allow for a range of heights and massing and include excellent architectural design. The park front should be designed to allow for light into rear courtyards and allow for views and glimpses from the park into the areas beyond the immediate front."
 
 @. Policy A6.5.7 envisages that this will be achieved using a series of 'green fingers' - _"a series of multi-functional spaces that link with Burgess Park"_ : 
-
 
 >"A series of ‘green fingers’ will be created, extending from Burgess Park into the action area core interlinking the park with the development. Their predominant function is that of a public space with social interaction, pedestrian and cycle movement dominating."
 
@@ -301,7 +287,6 @@ What about the private units? Where can we find a break down of the proposed dwe
 
 @. The removal of the green fingers from the Scheme, means that the propsals for the order land will now suffer from the very problems that the AA has attributed to the estate in its grounds for redevelopment - lack of permeability, dark alleyways etc and will not enable the AAAP's objective of creating better quality open space/public realm. Moreover, the consented scheme will result in a significant net loss of open space.
 
- 
 ## Sunlight to amenity spaces
 @. Paragraphs 154 to 162 of The planning committee report for the FDS say:
 
@@ -368,12 +353,12 @@ Note to Chris: obviously we are going to have to revise this section once the re
 
 @. The Objectors note that the planning committee report has incorrectly sought to offset the shortfall against the communal amenity space provided. The Residential Design SPD says that this is permissible, but only in relation to new flat developments (policy 3.2) not new detached, semi-detached or terraced houses (policy 3.1). 
 
-## Dual aspect
+## Dual aspect design requirements
 @. Policy A6.7.8 of the AAAP says _"At least 75% of apartments in each development should have dual aspect."_
 
 @. Paragraph 128 of the planning committee report confirms that only _"70% of apartments and maisonettes/duplex units"_ on the FDS site will be dual aspect
 
-## Privacy and overlooking
+## Privacy and overlooking requirements
 @. Appendix 6 of the AAAP expects proposals to ensure that the privacy of occupants is protected without compromising the ability to create a compact urban neighbourhood. It does not set out specific requirements for separation distances, but references the Residential Design Standards SPD. 
 
 @. The SPD specifies a minimum rear-rear separation distance of 21m but paragraph 140 of the planning committee report acknowledges that _"there is one point at which the distance between habitable windows for the general needs flats reduces to 14 metres, but generally the distance is between 17m and 20m."_
@@ -381,6 +366,7 @@ Note to Chris: obviously we are going to have to revise this section once the re
 ## Play space requirements
 @. Policy PL6 of the AAAP says _"All development proposals must provide 10sqm of children’s play space / youth space per child bed space. Doorstep playable space should be provided within each of the housing blocks, whilst larger local playable spaces should be provided within selected housing blocks and within the green fingers and existing local parks, in accordance with Figure 12. New youth space should be provided within the larger areas of public open space."_
 
+Policy 3.6.2 of the AAAP says: _"We will require children’s play areas to be integrated into the residential areas. About 3 hectares of children’s play space and youth space will be provided"_.
 
 @. Here's a link to the environmental statement: http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!pMsWP8tiTauKMmiQZaV9cQ%3d%3d!%7d%7d%7d
 
@@ -510,7 +496,7 @@ https://www.theguardian.com/housing-network/2012/aug/09/housing-benefit-caps-end
 
 @. In paragraph xxx of its Statement of Case, the Acquiring Authority has asserted that £76m of its own funds have been set aside for the scheme over the next five years. However, it does not explain that this covers only site assembly - i.e. leaseholder compensation, decant and rehousing costs, demolition etc. Given that there is no funding for construction of the Scheme, then it cannot be claimed to be viable at the consented tenure mix. 
  
-## Failure to demonstrated the Scheme is viable and therefore deliverable 
+## Failure to demonstrate the Scheme is viable and therefore deliverable 
 @. Paragraph 16 (iii) of Appendix A of the 06/2004 Circular says(emphasis added):
 
 >"Any decision about whether to confirm an order made under section 226(1)(a) of the 1990 Act will be made on its own merits, but the factors which the Secretary of State can be expected to consider include .. (iii) the potential financial viability of the scheme for which the land is being acquired. A general indication of funding intentions, and of any commitments from third parties, will usually suffice to reassure the Secretary of State that there is a reasonable prospect that the scheme will proceed. __The greater the uncertainty about the financial viability of the scheme, however, the more compelling the other grounds for undertaking the compulsory purchase will need to be__. The timing of any available funding may also be important. For example, a strict time-limit on the availability of the necessary funding may be an argument put forward by the acquiring authority to justify proceeding with the order before finalising the details of the replacement scheme and/or the statutory planning position."
