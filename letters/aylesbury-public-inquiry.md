@@ -10,7 +10,7 @@ subtitle: "Aylesbury estate CPO public inquiry, Oct 2017"
 {:toc}
 
 ## The Scheme is no longer in accordance with the development plan
-@. A key requirement of the compulso ry purchase code is that the Scheme underlying the Order must conform with the requirements of the statutory development plan. Paragraph 76 of the [06/04 ODPM Circular](https://www.gov.uk/government/publications/compulsory-purchase-and-the-crichel-down-rules-circular-06-2004) lists a key consideration as _"whether the purpose for which the land is being acquired fits in with the adopted Local Plan for the area"_ and specifies that _"any programme of land assembly needs to be set within a clear strategic framework, and this will be particularly important when demonstrating the justification for acquiring land compulsorily under section 226(1)(a) powers as a means of furthering the well-being of the wider area."_.
+@. A key requirement of the compulsory purchase code is that the Scheme underlying the Order must conform with the requirements of the statutory development plan. Paragraph 76 of the [06/04 ODPM Circular](https://www.gov.uk/government/publications/compulsory-purchase-and-the-crichel-down-rules-circular-06-2004) lists a key consideration as _"whether the purpose for which the land is being acquired fits in with the adopted Local Plan for the area"_ and specifies that _"any programme of land assembly needs to be set within a clear strategic framework, and this will be particularly important when demonstrating the justification for acquiring land compulsorily under section 226(1)(a) powers as a means of furthering the well-being of the wider area."_.
 
 @. The adopted Local Plan for the Scheme underlying this Order (“the Scheme”) is the [Aylesbury Area Action Plan 2010](http://www.2.southwark.gov.uk/download/downloads/id/13132/aylesbury_area_action_plan_2010_inc_appendices) (“AAAP”) [CD2], which was adopted in January 2010 as part of the Acquiring Authority's local development framework.
 
@@ -36,7 +36,7 @@ subtitle: "Aylesbury estate CPO public inquiry, Oct 2017"
  * Infrastructure/public sector funding requirements
  * Rehousing/PSED mitigation requirements
  
-## Housing uplift requirements
+## Breach of housing uplift requirements
 @. The AAAP said that  the scheme would deliver 4,200 new homes - a net uplift of 1,450 over the existing estate. The @AAAP said that this would help contribute to and conform with the London Plan requirement of 16,300 new homes by 2016/2017.
 
 @. Paragraph 88 of the [planning committee report](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!Vbu5QpckfYCnJrulzlWyuQ%3d%3d!%7d%7d%7d) for the outline application re-iterates that _"A key objective of the AAAP (Policy BH1 Number of homes) is to increase the number of homes on the estate"_. The Scheme underlying the order as it stands will fail to achieve this objective.
@@ -129,7 +129,7 @@ subtitle: "Aylesbury estate CPO public inquiry, Oct 2017"
 
 @. The Mayor's [Good Practice Guide](https://www.london.gov.uk/sites/default/files/draftgoodpracticeestateregenerationguidedec16v2.pdf) in turn, states that _"demolition should only be followed where it does not result in a loss of social housing"_. 
 
-## Dwelling size requirements
+## Breach of dwelling size requirements
 @. The AAAP says _"There will be a significant proportion of family homes with 23% houses, together with all the facilities needed by families, to make sure that the whole area is family-friendly."_
 
 @. Appendix 5 of the AAAP sets out the required number of unit sizes per phase:
@@ -156,7 +156,7 @@ subtitle: "Aylesbury estate CPO public inquiry, Oct 2017"
 
 
 
-## Minimum space standards
+## Breach of minimum space standards
 @. Paragraph 124 of the planning committee report for the Outline Scheme acknowledges that _"Since the AAAP was adopted, space standards have increased with the introduction of minimum dwellings sizes in the  London Plan (2011) and the adoption of the Southwark Plan Residential Design SPD (2011). The result is that the minimum space standards in the AAAP have been superseded by larger space standards in these more recent documents."_
 
 @. The London Plan's minimum space requirements are as follows:
@@ -169,7 +169,7 @@ subtitle: "Aylesbury estate CPO public inquiry, Oct 2017"
 
 @. Read in conjunction with the schedule of accommodation in NHHT's [Design & Access Statement](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!SP7j9NgvVQ81I%2fbtk2kPWQ%3d%3d!%7d%7d%7d), we can see that not one of the proposed dwelling sizes for any of the **flats** on the FDS or Oultine Scheme complies with the London Plan's minimum space requirements.
 
-## Tenure requirements
+## Breach of tenure requirements
 @. The AAAP requires 37. 5% of all new homes to be social rented tenure. The AAAP was adopted before the introduction of the incoming Tory government's new Affordable Rent tenure. 
 
 @. It is understood that NHHT is funding the social rented homes on the FDS with a grant from the GLA's Affordable Housing Programme 2016-2021. The GLA's [funding agreement](http://35percent.org/img/standardformagreement2017.pdf) for this programme does not provide for social rent. Instead it offers funding for a tenure named 'London Affordable Rent' (LAR). The funding agreement makes it clear that this effectively the Affordable Rent tenure and subject to regulations and legislation governing Affordable Rent:
@@ -186,7 +186,7 @@ subtitle: "Aylesbury estate CPO public inquiry, Oct 2017"
 
 @. It is also noted that NHHT's revised planning applications for the FDS now include the provision of 'market rent' rather than private for-sale housing. This is a breach of the AAAP's tenure requirements, which specifically state 'private homes'. Homes rented on short-term tenancies by a housing association at market rent are not interchangeable with private for-sale homes; they are two separate types of tenure for planning purposes (check this?).
 
-## Renewable energy requirements
+## Breach of renewable energy requirements
 @ . Sustainable development was one of the core principles of the development plan. Policy BH6([I] - ENERGY SUPPLY) of the AAAP requires new developments in the core action area to be serviced by one centralised energy plant:
 
 >"The energy supply for the action area core will be generated by combined heat and power (CHP). The CHP plant should be part of an energy centre located immediately south of the junction of Thurlow Street and Inville Road and appropriately sized to accommodate plant required to deliver services to the development. The redevelopment of the action area core will result in zero carbon growth. All developments within the action area core must connect to the CHP system. Developments completed prior to the implementation of CHP should be designed so that they can switch to the CHP once it is available." 
@@ -245,7 +245,7 @@ subtitle: "Aylesbury estate CPO public inquiry, Oct 2017"
 
  @. Policy 3.6.7 of the AAAP envisaged this requirement for zero carbon homes: _"The government has announced the intention of ensuring that all homes are CfSH Level 6 by 2016. Proposals will need to comply with these regulations where these are more stringent than CfSH Level 4."_ 
  
-## Public realm and sunlight/daylight requirements
+## Breach of public realm and sunlight/daylight requirements
 @. It was pointed out during the previous inquiry that the tall buildings (all private units) running east to west along the frontage to Burgess Park, will result in a significant number of homes in the affordable blocks behind them failing to meet BRE minimum daylight requirements.
 
 @. This was taken up by the inspector at the previous inquiry and the criticisms outlined in detail in paragraphs 368-370 of her report do not need repeating. The planning committee report also openly acknowledges the Scheme's shortcomings in relation to daylight requirements:
@@ -286,8 +286,7 @@ subtitle: "Aylesbury estate CPO public inquiry, Oct 2017"
 ![Extract from Design & Access Statement [CD43]](http://35percent.org/img/fdsmodel.jpg)
 
 @. The removal of the green fingers from the Scheme, means that the propsals for the order land will now suffer from the very problems that the AA has attributed to the estate in its grounds for redevelopment - lack of permeability, dark alleyways etc and will not enable the AAAP's objective of creating better quality open space/public realm. Moreover, the consented scheme will result in a significant net loss of open space.
-
-## Sunlight to amenity spaces
+ 
 @. Paragraphs 154 to 162 of The planning committee report for the FDS say:
 
 >"BRE guidance recommends that for outdoor amenity areas to be adequately sunlit throughout the year at least half of a garden or amenity area should receive at least 2 hours of sunlight on 21 March. In terms of the communal courtyards within Blocks 1, 4, 5 and 6 only the courtyards within Blocks 4 and 5 achieve the minimum requirement of at least 50% of the space receiving at least 2 hours sunlight on the 21 March."
@@ -529,8 +528,12 @@ https://www.theguardian.com/housing-network/2012/aug/09/housing-benefit-caps-end
 
 @. There is nothing compelling NHHT to complete any of the development phases should it declare them unviable.
 
+@. The Objectors submit that the non-viability of the Scheme is likely to result in a failure to conform with the affordable housing requirements of the development plan
 
-## The non-viability of the Scheme may result in a failure to conform with the affordable housing requirements of the development plan
+@. The Acquiring Authority has argued that social rented tenure is guaranteed by provisions of the DPA, but DPA refers only to 'target rent', which is not a recognised affordable housing tenure. There is no mention in the entire DPA of the word 'social rent'.
+
+![Extract from the DPA](/img/Aylesbury_targetrent.png)
+
 @. Para 4.8.4 on page 136 of the DPA says that if (confidential) viability assessments show that the scheme has become unviable then changes to the businees plan and DPA will be sought.
 
 @. Para 4.8.6 says that both parties will be free to terminate the DPA if phases are deemed unviable.
