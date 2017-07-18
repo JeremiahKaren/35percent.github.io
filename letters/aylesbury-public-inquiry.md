@@ -56,9 +56,7 @@ subtitle: "Aylesbury estate CPO public inquiry, Oct 2017"
 @. If the order is confirmed then there is nothing preventing NHHT delivering the Scheme according to the minimum specification, thereby failing to comply with key objective AAAP (Policy BH1 Increasing the Number of Homes). 
 
 ## Net loss of affordable housing requirements
-@. At the time the AAAP was adopted, it had secured funding in a partnership with the HCA to provide 1,000 new homes, 400 of which would be council owned. However, this partnership was terminated and the funding withdrawn.
 
-![](/img/aaapcouncilhomes.png)
 
 @. The [planning committee report](http://pl anbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!Vbu5QpckfYCnJrulzlWyuQ%3d%3d!%7d%7d%7d) for the Outline Scheme acknowledges that if NHHT builds to the *minimum* specification, then _"the outline minimum scenario would result in a net loss of -559 affordable dwellings or -1542 affordable habitable rooms"_ (para. 98). It acknowledges that this would fail to comply with the London Plan requirements on net loss of affordable housing and the AAAP's requirement that there would only be a small net loss of affordable housing (150 dwellings). It will also result in the provision of just 1,634 affordable dwellings (210 in the completed phases, plus 560 in the revised FDS application, plus 864 affordable units in the consented Outline minimum specification). This falls well short of the 2,100 affordable housing dwellings required by the AAAP: 
 
@@ -373,15 +371,13 @@ Note to Chris: obviously we are going to have to revise this section once the re
 
 Policy 3.6.2 of the AAAP says: _"We will require children’s play areas to be integrated into the residential areas. About 3 hectares of children’s play space and youth space will be provided"_.
 
-@. Here's a link to the environmental statement: http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!pMsWP8tiTauKMmiQZaV9cQ%3d%3d!%7d%7d%7d
+Both the consented FDS and Outline plans fall short of this requirement - (exact figures to be inserted here). 
 
 ## Mixed use/retail requirements
 @. In order to create a mix of uses across the action plan area, AAAP policy __'COM6'__ requires the Scheme to _"Provide 1,750 square metres of new local retail facilities (convenience retail, cafes and restaurants) within the action area core"._
 
 @. Appendix 5 of the AAAP specifies that the phase 1 of the Scheme should provide a total of 1,050sqm of retail floorspace, of which the FDS should deliver 250sqm. However, only 400sqm was provided on phase 1a and the FDS planning consent does not include provision for any retail floorspace whatsoever (See paragraph 80 of the planning committee report).
-
-@. This will fail to achieve the mix of uses envisaged by the AAAP.
-
+ 
 ## Community Space requirements
 
 @. The DPA says that NHHT is to provide a community facility on the order land comprising at least 250sqm. But the planning committee report says that this could be provided as a gym (use class D2). 
@@ -392,18 +388,6 @@ Policy 3.6.2 of the AAAP says: _"We will require children’s play areas to be i
 
 ![](http://35percent.org/img/outlinecommunityspace.png)
 
-## Monitoring of compliance
-@. The Objectors submit that the Acquiring Authority's lack of robust section 106 monitoring procedures will result is likely to result in yet further non-compliance with the obligations of the planning consent and thus further non-compliance with the AAAP.
-
-@. The section 106 agreement for the FDS negotiated a sum of just £1,567 for the ongoing monitoring of compliance with planning obligations. 
-
-![](http://35percent.org/img/monitoringcontribution.png)
-
-@. At the previous public inquiry the Objectors raised the issue of NHHT's Bermondsey Spa regeneration where it had delivered Affordable Rent instead of the Social Rent required by the planning consent. The Acquiring Authority bla bla lied and then took no action against NHHT.
-
-@. The 35% Campaign referred the Bermondsey Spa complaint and 46 other breaches they had identified in a complaint to the Local Government Ombudsman. After an investigation by the Ombudsman the Acquiring Authority was forced to acknowledge that it didn't have any monitoring procedures whatsoever. 
-
-@. The Ombudsman directed the AA to conduct a borough-wide audit of compliance and introduce s106 monitoring procedures going forward. The AA has sinced allocated just £60,000 to this audit and pay for software and staffing for ongoing compliance. This is insufficient means to ensure that the.. 
 
 ## Infrastructure funding requirements
  @. Page 75 of the AAAP describes infrastructure funding. It says the developer will pay a tariff which will fund community facilities like the health centre and other community facilities. However, we now know that the Council is paying for the £35m cost of them mainly from its own funds.
@@ -514,29 +498,29 @@ https://www.theguardian.com/housing-network/2012/aug/09/housing-benefit-caps-end
 
 >"In preparing its justification, __the acquiring authority should provide as much information as possible__ about the resource implications of both acquiring the land and implementing the scheme for which the land is required. It may be that the scheme is not intended to be independently financially viable, or that the details cannot be finalised until there is certainty about the assembly of the necessary land. In such instances, __the acquiring authority should provide an indication of how any potential shortfalls are intended to be met. This should include the degree to which other bodies (including the private sector) have agreed to make financial contributions or to underwrite the scheme, and on what basis such contributions or underwriting is to be made.__"
 
-@. Contrary to the requirements of paragraphs 20 of ODPM Circular 06/2004, insufficient information is given in the Statement of Reasons for making the CPO detailing the cost of the scheme or how it will be funded. All the AA's SoC says about funding is that xxx...
+@. Contrary to the requirements of paragraphs 20 of ODPM Circular 06/2004, insufficient information is given in the Statement of Reasons for making the CPO detailing the cost of the scheme or how it will be funded. 
 
 @. The Acquiring Authority has rejected repeated requests by the Objectors to supply information concerning funding and the viability of the scheme. All financial information has been redacted from the Development Partnership Agreement included in the core bundle. The Objectors understand that the Inspector does have the power to require the production of any documents by summons “which relate to any matter in question at the inquiry”.[^1]
 
 @. The Objectors therefore request that an unredacted copy of the DPA, business plan, viability assessment and any funding agreements are supplied to the inquiry, in order to satisfy the requiremments of paragraph 20 of the ODPM and for the inquiry to be able to establish that the Scheme is deliverable in accordance with the requirements of the development plan.
+ 
+## Possible impacts of viability on deliverability
 
-## The non-viability of the Scheme may result in it not be delivered in a reasonable time period 
+@. The Objectors submit that the non-viability of the Scheme may result in it not be delivered in a reasonable time period 
 
-@. Show how [Wood Dene estate](http://35percent.org/wood-dene-estate-regeneration/) was demolished in 2007 and how NHHT has [left the site empty](https://www.southwarknews.co.uk/news/notting-hill-admits-wood-dene-estate-peckham-wont-rebuilt-2019-thirteen-years-demolition/) for 10 years without building any new homes. This will be the future of phase 1b/1c.  
+@. The [Wood Dene estate](http://35percent.org/wood-dene-estate-regeneration/), an estate owned by the Acquiring Authority in Peckham, was demolished in 2007 and is due to be redeveloped by NHHT. However, it has [left the site empty](https://www.southwarknews.co.uk/news/notting-hill-admits-wood-dene-estate-peckham-wont-rebuilt-2019-thirteen-years-demolition/) for 10 years without building any new homes. This Objectors submit that this will be likely future of the FDS if the order is confirmed.  
 
 ![](http://35percent.org/img/nhhtwooddeneadmission.png)  
 
-@. The DPA says that the FDS will be completed by 2021, but NHHT have now put this back to 2024. See [here](http://moderngov.southwark.gov.uk/documents/s68300/Appendix%202%20Draft%20development%20agreement.pdf).
+@. The AAAP said that the FDS development would be completed by 2016. The DPA says that the FDS will be completed by 2021, but NHHT have now put this back to 2024. See [here](http://moderngov.southwark.gov.uk/documents/s68300/Appendix%202%20Draft%20development%20agreement.pdf).
 
-@. Schedule 2 0n page 82 of the DPA says that NHHT is given to 2044 to complete the development, but the AAAP envisaged that the Scheme would be completed by 2027. 
-
-@. The DPA requires NHHT to complete the FDS before a given date (XX?) regardless of viability. Has this now been breached given that NHHT has swapped FDS with plot 18?
+@. This is further evidence of the Scheme's failure to comply with the development plan and contractual requirements. It is also a breach of the compulsory purchase code (ODPM 06/04), which says that the Acquiring Authority must show that there is a _"realistic prospect of the land being brought into beneficial use within a reasonable timeframe"_. The Objectors submit that seven years is not a reasonable timeframe.
 
 @. There is nothing compelling NHHT to complete any of the development phases should it declare them unviable.
 
 @. The Objectors submit that the non-viability of the Scheme is likely to result in a failure to conform with the affordable housing requirements of the development plan
 
-@. The Acquiring Authority has argued that social rented tenure is guaranteed by provisions of the DPA, but DPA refers only to 'target rent', which is not a recognised affordable housing tenure. There is no mention in the entire DPA of the word 'social rent'.
+@. The Acquiring Authority has argued that social rented tenure is guaranteed by provisions of the DPA, but DPA refers only to 'target rent', which is not a recognised affordable housing tenure. There is no mention in the entire DPA of the term 'social rent'.
 
 ![Extract from the DPA](/img/Aylesbury_targetrent.png)
 
@@ -544,64 +528,68 @@ https://www.theguardian.com/housing-network/2012/aug/09/housing-benefit-caps-end
 
 @. Para 4.8.6 says that both parties will be free to terminate the DPA if phases are deemed unviable.
 
-@. The Moodys downgrade report confirmed that on average NHHT is delivering 7% social rented housing across schemes in its current pipeline and this is despite NHHT having received record levels of funding (£92m - GLA?). 
+@. The Moodys downgrade report confirmed that on average NHHT is delivering 7% social rented housing across schemes in its current pipeline and this is despite NHHT having received record levels of funding. 
 
-@. The Objectors submit that in the absence of dedicated government or GLA funding to replace the PFI funding anticipated at the time the AAAP was drafted, the minimum 37.5% social rented housing across the Aylesbury scheme us undeliverable.
+@. The Objectors submit that in the absence of dedicated government funding to replace the PFI funding anticipated at the time the AAAP was drafted, the minimum 37.5% social rented housing across the Aylesbury scheme us undeliverable.
 
 @. The Objectors submit that if the Order as it stands is confirmed, then the shortfall will be made up both by continuing to shortchange leaseholders and passing off affordable rented tenure as social rent.
 
 @. This has indeed been the fate of several other schemes completed by NHHT. It was shown at the previous inquiry how NHHT had delivered affordable rented homes at up to 62% market rent at its Bermondsey Spa regeneration, when social rent was agreed in the DPA, planning committee report and section 106 agreement.
 
-@. The same is true of NHHT's regeneration of the xxx estate in neighbouring Lambeth. This was ......
+@. The same is true of NHHT's regeneration of the Claremont East estate in neighbouring Lambeth. This was sold by Lambeth Council to NHHT on the basis that it would provide "100% social rented housing". 
+
+
+@. However, NHHT later submitted a viability assessment claiming that it was no longer possible to provide this and Lambeth agreed to lower the quota. In March 2011, Lambeth granted planning permission for just 40% affordable housing, of which 70% social rented. 
+
+![Extract prom planning committee report for NHHT's Claremont East estate application](http://35percent.org/img/claremontplanningcommittee.png)
+
+@. An investigation by the 35% Campaign researching GLA data, showed that the social rented units had been provided instead as affordable rent of up to 68% market rent - the very same tenure switch that NHHT pulled at the Bermondsey Spa regeneration.  
 
 @. Affordable rent was introduced in 2011 to allow housing associations to charge higher rents (up to 80% market rent) to its tenants. The mayor has recently introduced several other social housing tenures, including 'London Living Rent' and 'London Affordable Rent'.  
 
 @. The AAAP specifically requires that a minimum 37.5% of the new homes must be social rent. At the time the AAAP was drafted social rent was the only rented social housing tenure. The AAAP predates affordable rent and the other new tenures that have been created. The AAAP specifically states its aim as to help 'most vulnerable' to remain in area - to rehouse tenants on the estate footprint etc. and this is why it specified such a high proportion of social rented homes that would guarantee remained affordable for existing tenants.
 
-@. Given the deregulation of the housing association sector which has ensued after the AAAP was adopted, it is no surprise that existing Aylesbury tenants are not taking up the replacement 'social housing' on the completed phases. Of the xxx tenants decanted from the FDS, only xx have been rehoused on the footprint and of the xxx decanted from the next phase  (phase 2) only 34 have been rehoused on the footprint. 
+@. Given the deregulation of the housing association sector which has ensued after the AAAP was adopted, it is no surprise that existing Aylesbury tenants are not taking up the replacement 'social housing' on the completed phases. With a clear lack of any political will to halt the transition from social rent to affordable rent, is is no surprise that of the xxx tenants decanted from the FDS, only xx have been rehoused on the footprint and of the xxx decanted from the next phase  (phase 2) only 34 have been rehoused on the footprint. 
 
 @. The fear over rising housing association rents is exacerbated not just by the sudden deregulation of the sector but also fierce lobbying by housing association to be able to increase rents as they see fit. 
 
-@. NHHT is one of the most active lobbyists among housing associations. In 2007, its CEO Kate Davies - then a member of the thinktank CSJ along with Iain Duncan Smith, co-authored a paper in which she wrote:
+@. NHHT is one of the most active lobbyists among housing associations. In 2007, its CEO Kate Davies - then a member of the thinktank CSJ along with Iain Duncan Smith, co-authored a paper in which she claimed that _‘social housing is not a desirable destination’_, that _‘private ownership is preferable to state provided solutions’_ and that social housing providers should be able to sent rent levels without restrictions:
 
->"State provided solutionss...
+![Extract from Kate Davies' CSJ report](http://35percent.org/img/csjquoterents.png)
 
->"Housing associations should be free to set their own rent..
+@. In 2011, when the government introduced its controversial affordable rent tenure, allowing social rents to be converted and increased to up to 80% market rent, NHHT was one of just two housing associations that wrote in supporting the proposed reforms.
 
-@. In 2011, when the government introduced its controversial affordable rent tenure, allowing social rents to be increased to up to 80% market rent, NHHT wrote in its official response to the govt consultation:
+@. Indeed, Kate Davies was a key advisor to the extremely influential [Localis review](http://eprints.lse.ac.uk/5568/1/Ends_and_Means_The_future_roles_of_social_housing_in_England_1.pdf) (Principles for Social Housing Reform by John Hills), which had proposed the reforms.
 
->"bla bla we really support this" 
-
+@. This Guardian article shows how NHHT has pocketed £xxm? from the conversion of social rent to affordable rent.
 https://www.theguardian.com/society/2015/mar/29/tenants-face-70m-rent-rise-as-social-housing-converted-to-affordable-homes
 
-@. Submit copy of [Southwark's evidence](http://crappistmartin.github.io/images/CPO_ExplanatoryNote12May2015.pdf) from previous Inquiry where they claim to have robust S106 monitoring procedures.
+@. The Objectors submit that the non-viability of the scheme will result in NHHT delivering affordable instead of social rent. At the previous inquiry, the Acquiring Authority argued that this would be prevented by the terms of the section 106 agreement requiring social rent rather than affordable rent. The Objectors responded that this was also the case at with the Bermondsey Spa regeneration where the Acquiring Authority had failed to monitor delivery and subsequently failed to enforce the terms of its section 106 agreement once the breach had been pointed out by the 35% Campaign. 
+
+@. At the previous inquiru the Acquiring Authority submitted [evidence](http://crappistmartin.github.io/images/CPO_ExplanatoryNote12May2015.pdf) claiming to have robust S106 monitoring procedures to ensure that providers deliver according to section 106 requirements.
 
 ![Extract from Southwark's [evidence to first Inquiry](http://crappistmartin.github.io/images/CPO_ExplanatoryNote12May2015.pdf)](http://35percent.org/img/CPO_ExplanatoryNote.png)
 
-@. Submit copy of [Ombudsman decision](http://35percent.org/2016-12-12-ombudsman-slams-southwark-for-no-s106-monitoring/) and Sunday Times [article](http://35percent.org/img/ST23April2017.pdf) showing Southwark's failure to monitor S106 AH tenure delivery, as a result of it not having any monitoring procedures. Show how it therefore misled the previous Inquiry with its evidence claiming to have robust monitoring procedures.
+@. Following the close of the previous inquiry, the 35% Campaign submitted a detailed complaint to the Local Government Ombudsman, listing ca. 40 futher suspected breaches in affordable housing tenure delivery. Following an investigation, the Ombudsman issued a [decision](http://35percent.org/2016-12-12-ombudsman-slams-southwark-for-no-s106-monitoring/) in which it was found that the Acquiring Authority had no monitoring procedures and did no checks whatsoever to ensure that providers delivered affordable housing in accordance with s106 tenure requirements. The findings were summarised in [thi Sunday Times article](http://35percent.org/img/ST23April2017.pdf).
 
-@. Highlight NHHT's other developments where social rent intended but affordable rent delivered - i.e. the one in Lambeth delivered on the [Claremont East estate](http://35percent.org/2017-01-16-draft-more-on-notting-hill/#claremont-east-estate-lambeth).
+@. The Ombudsman directed the Acquiring Authority to conduct a borough-wide audit of compliance and introduce s106 monitoring procedures going forward. The AA has sinced allocated just £60,000 to this audit which will pay for software and staffing. The Objectors submit that this is insufficient means to ensure compliance over the 20-year build programme and beyond.
 
-@. Show how the breach at Bermondsey Spa hasn't been resolved, i.e. the Council hasn't taken effective action to recover the SR homes - i.e. there still remains a net loss across the Bermondsey Spa and Manor Place Depot sites.  
+@. The section 106 agreement for the FDS negotiated a sum of just £1,567 for the ongoing monitoring of compliance with planning obligations. This is clearly insufficient.
 
-@. Re-run all of our previous criticisms of Kate Davies and her predeliction for affordable rent and privatisation. Include also Steve Hilditch's recent [article](https://redbrickblog.wordpress.com/2017/01/07/one-article-does-not-wipe-the-slate-clean/) criticising Davies and Notting Hill (Hilditch is a former NHHT board member).
+![](http://35percent.org/img/monitoringcontribution.png)
 
->"Social housing is not a desirable destination.. Private ownership is preferable to state-provided solutions". (Kate Davies, CEO of NHHT - 2008)
+@. The Objectors submit that the previous inquiry was misled and request full evidence to be provided to the inquiry that it has conducted the audit as directed by the Ombudsman and is taking enforcement action on any breaches discovered.
 
-![CSJ report recommendations (co-authored by Kate Davies)](http://35percent.org/img/csjquoterents.png)  
-   
+
+
+
+
+
 ## Bashing NHHT 
  @. Submit the  on NHHT's rent hikes and evictions at its St. James estate in Bermondsey. Include MP Neil Coyle's criticisms and Cllr Pollak's quote saying NHHT is acting like a 'predatory landlord'. 
 
 ![[Southwark News article, 6/10/16](https://www.southwarknews.co.uk/news/housing-association-slammed-nightmare-scenario-eviction-threat-bermondseys-st-james-estate/)](http://35percent.org/img/nhhtevictions.png)  
 
-@. Highlight NHHT's profit margin in the DPA.
-
-@. Show how Wood Dene estate and Decathlon sites appear to have stalled. Point out affordable scandal at the Decathlon site (blog post to be drafted still) and the low level of social rented housing at the Wood Dene and Silwood redevelopments, despite them receiving funding. Make the point that NHHT successfully argued (using viability assessments) that it wasn't viable to provide more than the pitiful 15% (avg) social rented housing across both sites. So how can it be possible that the FDS site can viably provide over 40% social rented?
-
-@. Include evidence on the Silwood estate and the 3 missing social rented housing units that NHHT should have delivered according to the planning consent and S106 agreement.
-
-@. Show HCA/GLA stats showing how many thousands of homes NHHT has converted to affordable rent. 
 
 ## DPA provisions breached
 @. NHHT has breached various provisions in the DPA including its obligation to purchase 5 street properties that it was to offer on shared equity terms to leaseholders in phase 1b/1c. The Council claims in its response to our Cabinet question that NHHT has indeed provided 2 such properties to leaseholders on the FDS. We should seek more details of this and ask why these were not offered to Beverley and Agnes.
@@ -632,24 +620,11 @@ https://www.theguardian.com/society/2015/mar/29/tenants-face-70m-rent-rise-as-so
 
 ## Refurb/Alternative to scheme underlying the CPO 
 
-@. Work out how much AA receives in rental income from tenants on the estate. Say it should use this on refurb/maintenance instead of £100k salaries for PR managers (Tony Mainwairing). 
+@. Work out how much AA receives in rental income from tenants on the estate. Say it should use this on refurb/maintenance 
 
 @. Paragraph 1.2.4 of the AAAP says that the estate needs to be redeveloped because "it would cost too much to bring the homes up to decent homes standard".
 
-@. The Sep 2005 Cabinet report which informed this decision said that the cost of bringing homes up to DHS would be £93m, which included £13m for repairing/replacing the heating system. This has already been committed and £xxm has been spent on bringing xx number of homes up to DHS already. 
-
-@. This is confirmed in Council briefing papers and also Para 360 of the OR for the planning application for the FDS, which says: "The heating system has become more reliable recently due to upgrades to pipework and other pieces of equipment."
-
-@. Given that the AAAP was drafted on the basis of the 2005 data, i.e. before significant improvement works were undertaken and that given the extent of these works undertaken in the meantime, the estate is now less needy of redevlopment than it was at the time of the AAAP.
-
-@. Southwark Council's own report in 2015, carried out by by the council's Principal Design and Technical officer Catherine Bates, said, "The condition of the buildings on the estate does not, itself, present a case for demolition and redevelopment."
-
-@. Inspector should discount the current condition of buildings on the Order Land: Any actual or perceived failure in the local housing market that may exist is partly attributable to, or in the alternative has been exacerbated by, the activities of the Acquiring Authority and its partners. Therefore no reliance can be placed upon the Acquiring Authority’s evidence in this respect. Properties that have already been purchased voluntarily by the Acquiring Authority, or by its development partners, have not been occupied subsequent to their acquisition. Instead, they have been secured but left in a manner which fosters an impression of dereliction and decay, with consequent blighting effects, under which ambitions for compulsory purchase of additional land might be considered to be more readily achievable. The Acquiring Authority has therefore attempted to present a fait accompli. Accordingly the Inspector cannot place any reliance on circumstances created by the Acquiring Authority. Further, these properties have not been demolished, thus implying a lack of confidence in the scheme underlying the CPO on the part of the Acquiring Authority or its development partners. 
-
 @. Quote from the Housing Commission HINES estates data showing only half of estate's homes fail to meet DHS.
-
-
-![](http://35percent.org/img/wendcomp.jpg)  
 
 @. [This report](http://moderngov.southwark.gov.uk/documents/s56449/Report%20Major%20works%20status%20report%20incorporating%20Warm%20Dry%20and%20Safe.pdf) describes different funding for DHS works, including the 'GLA Backlog fund' and the [accompanying appendices](http://moderngov.southwark.gov.uk/documents/s56450/Appendices%201%20-%204%20Major%20works%20status%20report%20incorporating%20Warm%20Dry%20and%20Safe.pdf) show that the Four Squares estate (a High Investment Needs estate) was brought up to DHS for just £12m. Work out how much this is per unit and also show similar comparables.
 
@@ -689,8 +664,13 @@ Conclusion:
 
 @. The Acquiring Authority has intimated that there are structural problems with the 5 and 6 storey blocks on the estate. However, the Alan Conisbee report on which this is based recommended removal of mains gas from these blocks. It is understood that the blocks now comply with BRE safety standards. If this is not the case then the Acquiring Authority will need to explain why it has continued to house families in these blocks for the past 12 years if they are structurally unsound. 
 
-### Displacement
+## Displacement 
+@. At the time the AAAP was adopted, it had secured funding in a partnership with the HCA to provide 1,000 new homes, 400 of which would be council owned. These would provide sufficent reprovison to rehouse tenants displaced by the first phases of the decant. 
+
+![](/img/aaapcouncilhomes.png)
 @.  How many rehoused on estate footprint as per EqIA and AAAP intention?
+
+However, this partnership was terminated and the funding withdrawn and the AAAP's objective of rehousing 50% of the tenants in new homes on the footprint have failed.
 
 @. Why have only 10 of the estate's 200 leaseholders decanted to date taken up the shared equity offer? Where did the rest of the leaseholders go?
  
