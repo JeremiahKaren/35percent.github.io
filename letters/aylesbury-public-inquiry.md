@@ -9,7 +9,7 @@ subtitle: "Aylesbury estate CPO public inquiry, Oct 2017"
 * TOC
 {:toc}
 
-## The Scheme is no longer in accordance with the development plan
+## Scheme no longer in accordance with the development plan
 @. A key requirement of the compulsory purchase code is that the Scheme underlying the Order must conform with the requirements of the statutory development plan. Paragraph 76 of the [06/04 ODPM Circular](https://www.gov.uk/government/publications/compulsory-purchase-and-the-crichel-down-rules-circular-06-2004) lists a key consideration as _"whether the purpose for which the land is being acquired fits in with the adopted Local Plan for the area"_ and specifies that _"any programme of land assembly needs to be set within a clear strategic framework, and this will be particularly important when demonstrating the justification for acquiring land compulsorily under section 226(1)(a) powers as a means of furthering the well-being of the wider area."_.
 
 @. The adopted Local Plan for the Scheme underlying this Order (“the Scheme”) is the [Aylesbury Area Action Plan 2010](http://www.2.southwark.gov.uk/download/downloads/id/13132/aylesbury_area_action_plan_2010_inc_appendices) (“AAAP”) [CD2], which was adopted in January 2010 as part of the Acquiring Authority's local development framework.
@@ -305,7 +305,7 @@ What percentage of new homes are houses and what percentage have gardens?
 
 Note to Chris: obviously we are going to have to revise this section once the revised planning application is submitted and we have been able to review how the sunlight/daylight issues have been address, or not as the case may be.
 
-## Open space requirements
+## Breach of open space requirements
 @. Policy PL5 (Open Space) of the AAAP says:
 
 >"New development must provide a high quality network of public open spaces of different sizes and functions which link well together and contain good pedestrian and cycling routes."
@@ -318,7 +318,7 @@ Note to Chris: obviously we are going to have to revise this section once the re
 
 ![Extract from FDS planning application docs 15/AP/4584](http://35percent.org/img/aylesburyopenspaces.png)
 
-## Transport/public realm requirements
+## Breach of transport/public realm requirements
 @. The AAAP says that the Scheme should provide an improved and modern cycle enviroment (quotes).
 
 @. As a statutory consultee, TFL objected to NHHT's planning application, in its [formal response to the application](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!4pokZj%2fGk2vz59bcWED5rw%3d%3d!%7d%7d%7d) it said that _"The Masterplan is a once-in-a-generation opportunity to provide an exemplar walking and cycling environment .. However, TfL is concerned that the application material fails to demonstrate this."_
@@ -337,8 +337,8 @@ Note to Chris: obviously we are going to have to revise this section once the re
 
 @. It is understood that NHHT resisted TFL's requirement for a cycle docking station on the FDS.
 
-## Private amenity space requirements
- @. Policy PL7 of the AAAP says:
+## Breach of private amenity space requirements
+  @. Policy PL7 of the AAAP says:
 
 >"All development must contain high quality private open space in the form of communal gardens, private gardens and useable balconies. The design of communal gardens should comply with the guidance in Appendix 6."
 
@@ -352,33 +352,33 @@ Note to Chris: obviously we are going to have to revise this section once the re
 
 >"The AAAP Appendix 6 requires at least 6sqm private amenity space for one and two bedroom flats with the remaining units being required to meet the minimum private amenity space standards set out in the SPD Residential Design Standards. The SPD requires flats with three or more bedrooms have a minimum requirement of 10sqm. With regards to houses, the SPD seeks private gardens that are at least the width of the house, extend at least 10 metres in depth and provide 50sqm of garden space. This requirement also applies to ground floor maisonettes."
 
-@. Paragraph 147 of the planning committee report confirm that only one terraced dwelling in block 2 meets with the minimum 10 metre depth and eight fail to meet the 50sqm minimum garden space requirement. Paragraph 148 confirms that none of the dwellings in block 3 meet with the 10 metre depth and only five meet with the 50sqm garden space requirement.
+@. Paragraph 147 of the planning committee report for the FDS, confirms that only one terraced dwelling in block 2 meets with the minimum 10 metre depth requirement and eight further dwellings fail to meet the 50sqm minimum garden space requirement. Paragraph 148 confirms that none of the dwellings in block 3 meet with the 10 metre depth and only five meet with the 50sqm garden space requirement.
 
-@. The Objectors note that the planning committee report has incorrectly sought to offset the shortfall against the communal amenity space provided. The Residential Design SPD says that this is permissible, but only in relation to new flat developments (policy 3.2) not new detached, semi-detached or terraced houses (policy 3.1). 
+@. The Objectors note that the planning committee report has incorrectly sought to offset the above shortfalls against the communal amenity space provided. The Residential Design SPD says that this is permissible, but only in relation to new flat developments (policy 3.2) not new detached, semi-detached or terraced houses (policy 3.1). 
 
-## Dual aspect design requirements
+## Breach of dual aspect design requirements
 @. Policy A6.7.8 of the AAAP says _"At least 75% of apartments in each development should have dual aspect."_
 
 @. Paragraph 128 of the planning committee report confirms that only _"70% of apartments and maisonettes/duplex units"_ on the FDS site will be dual aspect
+ 
+## Breach of privacy and overlooking requirements
+@. Appendix 6 of the AAAP expects proposals to ensure that the privacy of occupants is protected without compromising the ability to create a compact urban neighbourhood. It does not set out specific requirements for separation distances, but instead references the Residential Design Standards SPD. 
 
-## Privacy and overlooking requirements
-@. Appendix 6 of the AAAP expects proposals to ensure that the privacy of occupants is protected without compromising the ability to create a compact urban neighbourhood. It does not set out specific requirements for separation distances, but references the Residential Design Standards SPD. 
+@. The Residential Design Standards SPD, specifies a minimum rear-rear separation distance of 21m but paragraph 140 of the planning committee report acknowledges that _"there is one point at which the distance between habitable windows for the general needs flats reduces to 14 metres, but generally the distance is between 17m and 20m."_
 
-@. The SPD specifies a minimum rear-rear separation distance of 21m but paragraph 140 of the planning committee report acknowledges that _"there is one point at which the distance between habitable windows for the general needs flats reduces to 14 metres, but generally the distance is between 17m and 20m."_
-
-## Play space requirements
+## Breach of play space requirements
 @. Policy PL6 of the AAAP says _"All development proposals must provide 10sqm of children’s play space / youth space per child bed space. Doorstep playable space should be provided within each of the housing blocks, whilst larger local playable spaces should be provided within selected housing blocks and within the green fingers and existing local parks, in accordance with Figure 12. New youth space should be provided within the larger areas of public open space."_
 
 Policy 3.6.2 of the AAAP says: _"We will require children’s play areas to be integrated into the residential areas. About 3 hectares of children’s play space and youth space will be provided"_.
 
 Both the consented FDS and Outline plans fall short of this requirement - (exact figures to be inserted here). 
 
-## Mixed use/retail requirements
+## Breach of mixed use/retail requirements
 @. In order to create a mix of uses across the action plan area, AAAP policy __'COM6'__ requires the Scheme to _"Provide 1,750 square metres of new local retail facilities (convenience retail, cafes and restaurants) within the action area core"._
 
 @. Appendix 5 of the AAAP specifies that the phase 1 of the Scheme should provide a total of 1,050sqm of retail floorspace, of which the FDS should deliver 250sqm. However, only 400sqm was provided on phase 1a and the FDS planning consent does not include provision for any retail floorspace whatsoever (See paragraph 80 of the planning committee report).
- 
-## Community Space requirements
+  
+## Breach of community Space requirements
 
 @. The DPA says that NHHT is to provide a community facility on the order land comprising at least 250sqm. But the planning committee report says that this could be provided as a gym (use class D2). 
 
@@ -388,9 +388,8 @@ Both the consented FDS and Outline plans fall short of this requirement - (exact
 
 ![](http://35percent.org/img/outlinecommunityspace.png)
 
-
-## Infrastructure funding requirements
- @. Page 75 of the AAAP describes infrastructure funding. It says the developer will pay a tariff which will fund community facilities like the health centre and other community facilities. However, we now know that the Council is paying for the £35m cost of them mainly from its own funds.
+## Breach of infrastructure funding requirements
+@. Page 75 of the AAAP describes infrastructure funding. It says the developer will pay a tariff which will fund community facilities like the health centre and other community facilities. However, we now know that the Council is paying for the £35m cost of them mainly from its own funds.
 
 @. The AAAP said that this infrastructure was to be funded by means of a tariff and that the details of the tariff will be published in a subsequent SPD - The Section 106 & CIL SPD (2015). This requires each development to pay a levy towards local infrastructure. Paragraph 5.8 of the SPD specifically states _"CIL will replace the section 106 tariffs set out in the Aylesbury Area Action Plan"_ and sets out a charging schedule showing a requirement of £50 per square metre of residential floorspace
 
@@ -407,16 +406,14 @@ Both the consented FDS and Outline plans fall short of this requirement - (exact
 @. The Development Partnership Agreement says that NHHT's contribution to the facilities is £9m - however it also contains a clause saying that NHHT can deduct from this £9m, all of its site assembly costs for the FDS (currently amounting to £14.5m according to paragraph 8.4 of the AA's SoC). 
 
 @. A7 .1.40 gives a breakdown of the estimated costs of infrastructure that the tariff will fund. It says how much is required per unit but I can't read it on my pdf as it looks corrupted. I Need to see a hard copy.
- 
---
+
 @. Southwark is filling the gap - its SoC confirms it has allocated £100m to the Scheme over next 3/5 years? and £46m has already been spent. Its 2005 Committee decision was based on the assumption that the Scheme would be cost neutral.
 
 @. Council has already seen xx budget cuts - with £39m cut from adult and social care in this year alone. A further 77% of its budget is due to be cut by 2020. There is a clear austerity case for refurb rather than demolition.
 
 @. [This article](https://www.southwarknews.co.uk/news/installing-sprinklers-southwarks-council-housing-cost-100m/) confirms the Council is considering spending £100m on sprinklers for its tower blocks and admits that if no govt funding is found then _"other things will have to be put on hold"_.
 
-
-## Public Sector Equalities Duty (PSED) requirements 
+## Breach of Public Sector Equalities Duty (PSED) 
 @. The AAAP said there will be a 'range of options to enable leaseholders to stay in area, buy into new scheme etc..'
 
 @. This was discussed in more detail in the Equalities Assessment conducted in conjunction with the AAAP.
@@ -438,15 +435,15 @@ Both the consented FDS and Outline plans fall short of this requirement - (exact
 
 @. Inspector Coffey said that leaseholders are left with two bleak options: moving out of the area or remaining but being impoverished. Like-for-like swap was the only option that would have enabled leaseholders to remain in the area without being impoverished. *We will need to show that the shared equity deal impoverishes leaseholders despite change in the £16k policy. (Investigate service charges etc)*
 
-## The scheme is not viable and therefore not deliverable.
-There are three main factors contributing to the non-viability of the scheme:
+## Scheme is not viable and therefore not deliverable.
+@. There are three main factors which demonstrate that the Scheme is not viable:
 
-1. The Scheme was not viable in the first place
-2. £180m of allocated government funding has been withdrawn since the AAAP was adopted
-3. The government has cut the amount housing associations can charge for (social) rents and introduced a cap in Local Housing Allowance
+ 1. The Scheme was not viable in the first place
+ 2. £180m of allocated government funding has been withdrawn since the AAAP was adopted
+ 3. The government has cut the amount housing associations can charge for (social) rents and introduced a cap in Local Housing Allowance
 https://www.theguardian.com/housing-network/2012/aug/09/housing-benefit-caps-end-tenancies-in-london
 
-@. Documents submitted to the examination in public of the AAAP, show that the Aylesbury scheme as envisaged is still not viable and that the viability gap is being bridged by shortchanging leaseholders. In Jan 2009, the [draft Aylesbury Area Action Plan](http://35percent.org/img/DraftAAAP.pdf) showed that there was a funding shortfall of £299m. 
+@. Documents submitted prior to the examination in public of the AAAP in 2009, show that the Aylesbury scheme as envisaged is was not viable and that the viability gap is being bridged by shortchanging leaseholders. In Jan 2009, the [draft Aylesbury Area Action Plan](http://35percent.org/img/DraftAAAP.pdf) showed that there was a funding shortfall of £299m. 
 
 ![Page 92 of the [appendices](http://35percent.org/img/DraftAAAP_appendices.pdf) to the [draft AAAP](http://35percent.org/img/DraftAAAP.pdf)](http://35percent.org/img/DraftAAAP_appendices.png)
 
@@ -464,10 +461,7 @@ https://www.theguardian.com/housing-network/2012/aug/09/housing-benefit-caps-end
 
 @. The September 2011 board meeting minutes of the Aylesbury New Deal for Communities (by now renamed Creation Trust), confirmed that _“at the time of writing the AAAP each [affordable housing] unit was supported with £125k of funding, this has now been reduced to £25,000”_ [OCD24, para 2.4]
 
-@. How much funding is there now per unit? What does Mayor's current funding programme say?
-
-@. The previous inquiry was (mis)led to believe that NHHT would receive £27m from the Mayor's 2014-16? AHP - what has happened to this?
-
+@. It is understood that NHHT has secured funding for the FDS from the Mayor's current AHP funding programme for his new 'London Affordable Rent' tenure. This amounts to £60,000 funding per affordable dwelling and is still not even half of the original funding envisaged by the AAAP.
 
 @. The Sustainability Assessment for the AAAP said:
 
@@ -485,7 +479,7 @@ https://www.theguardian.com/housing-network/2012/aug/09/housing-benefit-caps-end
 
 @. In paragraph xxx of its Statement of Case, the Acquiring Authority has asserted that £76m of its own funds have been set aside for the scheme over the next five years. However, it does not explain that this covers only site assembly - i.e. leaseholder compensation, decant and rehousing costs, demolition etc. Given that there is no funding for construction of the Scheme, then it cannot be claimed to be viable at the consented tenure mix. 
  
-## Failure to demonstrate the Scheme is viable and therefore deliverable 
+## Failure to demonstrate Scheme is viable and therefore deliverable 
 @. Paragraph 16 (iii) of Appendix A of the 06/2004 Circular says(emphasis added):
 
 >"Any decision about whether to confirm an order made under section 226(1)(a) of the 1990 Act will be made on its own merits, but the factors which the Secretary of State can be expected to consider include .. (iii) the potential financial viability of the scheme for which the land is being acquired. A general indication of funding intentions, and of any commitments from third parties, will usually suffice to reassure the Secretary of State that there is a reasonable prospect that the scheme will proceed. __The greater the uncertainty about the financial viability of the scheme, however, the more compelling the other grounds for undertaking the compulsory purchase will need to be__. The timing of any available funding may also be important. For example, a strict time-limit on the availability of the necessary funding may be an argument put forward by the acquiring authority to justify proceeding with the order before finalising the details of the replacement scheme and/or the statutory planning position."
@@ -504,9 +498,8 @@ https://www.theguardian.com/housing-network/2012/aug/09/housing-benefit-caps-end
 
 @. The Objectors therefore request that an unredacted copy of the DPA, business plan, viability assessment and any funding agreements are supplied to the inquiry, in order to satisfy the requiremments of paragraph 20 of the ODPM and for the inquiry to be able to establish that the Scheme is deliverable in accordance with the requirements of the development plan.
  
-## Possible impacts of viability on deliverability
-
-@. The Objectors submit that the non-viability of the Scheme may result in it not be delivered in a reasonable time period 
+## Impacts of viability on deliverability
+@. The Objectors submit that the non-viability of the Scheme may result in it not be delivered in a reasonable time period. 
 
 @. The [Wood Dene estate](http://35percent.org/wood-dene-estate-regeneration/), an estate owned by the Acquiring Authority in Peckham, was demolished in 2007 and is due to be redeveloped by NHHT. However, it has [left the site empty](https://www.southwarknews.co.uk/news/notting-hill-admits-wood-dene-estate-peckham-wont-rebuilt-2019-thirteen-years-demolition/) for 10 years without building any new homes. This Objectors submit that this will be likely future of the FDS if the order is confirmed.  
 
@@ -537,7 +530,6 @@ https://www.theguardian.com/housing-network/2012/aug/09/housing-benefit-caps-end
 @. This has indeed been the fate of several other schemes completed by NHHT. It was shown at the previous inquiry how NHHT had delivered affordable rented homes at up to 62% market rent at its Bermondsey Spa regeneration, when social rent was agreed in the DPA, planning committee report and section 106 agreement.
 
 @. The same is true of NHHT's regeneration of the Claremont East estate in neighbouring Lambeth. This was sold by Lambeth Council to NHHT on the basis that it would provide "100% social rented housing". 
-
 
 @. However, NHHT later submitted a viability assessment claiming that it was no longer possible to provide this and Lambeth agreed to lower the quota. In March 2011, Lambeth granted planning permission for just 40% affordable housing, of which 70% social rented. 
 
@@ -580,17 +572,6 @@ https://www.theguardian.com/society/2015/mar/29/tenants-face-70m-rent-rise-as-so
 
 @. The Objectors submit that the previous inquiry was misled and request full evidence to be provided to the inquiry that it has conducted the audit as directed by the Ombudsman and is taking enforcement action on any breaches discovered.
 
-
-
-
-
-
-## Bashing NHHT 
- @. Submit the  on NHHT's rent hikes and evictions at its St. James estate in Bermondsey. Include MP Neil Coyle's criticisms and Cllr Pollak's quote saying NHHT is acting like a 'predatory landlord'. 
-
-![[Southwark News article, 6/10/16](https://www.southwarknews.co.uk/news/housing-association-slammed-nightmare-scenario-eviction-threat-bermondseys-st-james-estate/)](http://35percent.org/img/nhhtevictions.png)  
-
-
 ## DPA provisions breached
 @. NHHT has breached various provisions in the DPA including its obligation to purchase 5 street properties that it was to offer on shared equity terms to leaseholders in phase 1b/1c. The Council claims in its response to our Cabinet question that NHHT has indeed provided 2 such properties to leaseholders on the FDS. We should seek more details of this and ask why these were not offered to Beverley and Agnes.
 
@@ -618,8 +599,7 @@ https://www.theguardian.com/society/2015/mar/29/tenants-face-70m-rent-rise-as-so
 @. Cabinet said 2/3? P&R properties have been provided, why not 5? and why weren't Beverley etc offered this option?
 
 
-## Refurb/Alternative to scheme underlying the CPO 
-
+## Alternative to scheme underlying the CPO 
 @. Work out how much AA receives in rental income from tenants on the estate. Say it should use this on refurb/maintenance 
 
 @. Paragraph 1.2.4 of the AAAP says that the estate needs to be redeveloped because "it would cost too much to bring the homes up to decent homes standard".
@@ -648,21 +628,26 @@ Conclusion:
 @. Also, given the fact that redevelopment has proven to be more costly and DHS works less costly...
 
 @. Council has spent £46m redeveloping just 112 homes and has allocated £96m over next five years. This would be sufficient to bring xx homes on the Order Land up tp DHS.
-  
---------
+
+@. In 2012, the Acquiring Authority spent several million pounds on fire safety works at the Aylesbury estate. This was carried out following a fire in one of its tower blocks in Peckham (Lakanal House) and a borough-wide fire safety review.
+
+@. The Objectors note that the existing buildings on the estate have not been wrapped in flammable cladding and all benefit from at least two stairwells, which was not the case in the recent Grenfell Tower incident. The same cannot be said for the proposed tall buildings on the FDS, which only propose one single stairwell (check this?).
+
+@. The Acquiring Authority has intimated that there are structural problems with the 5 and 6 storey blocks on the estate. However, the Alan Conisbee report on which this is based recommended removal of mains gas from these blocks and it is understood that these blocks now comply with BRE safety standards as a result. If this is not the case then the Acquiring Authority will need to explain why it has continued to house families in these blocks for the past 12 years if they are structurally unsound. 
+
+## Alternative location for the Scheme
 @. Paragraph 16(iv) of the ODPM 06/04 lists factors which the Secretary of State should consider in determining whether to confirm the order:
 
 >"whether the purpose for which the acquiring authority is proposing to acquire the land could be achieved by any other means. This may include considering the appropriateness of any alternative proposals put forward by the owners of the land, or any other persons, for its re-use. __It may also involve examining the suitability of any alternative locations for the purpose for which the land is being acquired.__"
 
-@. The Objectors submit that that there is an alternative location, just several hundred metres from the order land that would provide a much greater increase in density that was one of the main objectives of the development plan; the St James estate. This is approximately the same area as the order land but contains just 100 low rise, low quality, energy inefficient homes. Compulsory purchase powers would not be required because NHHT owns the freehold of all the homes, which are let privately at market rents with no social housing tenants.
+@. The Objectors submit that that there is an alternative location, just several hundred metres from the order land that would provide a much greater increase in density that was one of the main objectives of the development plan; the St James estate. This is approximately the same area as the order land but contains just 100 low rise, low quality, energy inefficient homes. 
 
+@. Compulsory purchase powers would not be required because NHHT owns the freehold of all the homes, which it lets privately on short-term lets and where it can [evict residents](https://www.southwarknews.co.uk/news/housing-association-slammed-nightmare-scenario-eviction-threat-bermondseys-st-james-estate/) without the need for compulsory purchase orders.
 
-  
------
+![[Southwark News article, 6/10/16](https://www.southwarknews.co.uk/news/housing-association-slammed-nightmare-scenario-eviction-threat-bermondseys-st-james-estate/)](http://35percent.org/img/nhhtevictions.png)
 
-@. In 2012, the Acquiring Authority spent several million pounds on fire safety works carried out following a fire in one of its tower blocks in Peckham (Lakanal House). This was part of a borough wide policy to ensure that all buildings complied with the latest fire safety regulations. 
+@. Not only would the development of this site provide a much greater density uplift but it would also achieve the AAAP's objective of providing a more mixed community, given that the existing housing is exclusively private market rent.
 
-@. The Acquiring Authority has intimated that there are structural problems with the 5 and 6 storey blocks on the estate. However, the Alan Conisbee report on which this is based recommended removal of mains gas from these blocks. It is understood that the blocks now comply with BRE safety standards. If this is not the case then the Acquiring Authority will need to explain why it has continued to house families in these blocks for the past 12 years if they are structurally unsound. 
 
 ## Displacement 
 @. At the time the AAAP was adopted, it had secured funding in a partnership with the HCA to provide 1,000 new homes, 400 of which would be council owned. These would provide sufficent reprovison to rehouse tenants displaced by the first phases of the decant. 
