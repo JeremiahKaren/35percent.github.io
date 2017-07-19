@@ -582,9 +582,20 @@ https://www.theguardian.com/housing-network/2012/aug/09/housing-benefit-caps-end
 
 @. The Objectors request that the inquiry is provided with details of how many of these have actually been provided?
 
-@. See table below the above one..
+@. NHHT's commitment to the Scheme is further brought into question when the Acquiring Authority declared at a [Cabinet meeting](http://moderngov.southwark.gov.uk/documents/s63817/Report.Aylesbury%20Regeneration%20Delivery.pdf) in September 2016, that NHHT was no longer willing to abide by the terms of the DPA and underwrite the demolition costs for the FDS or the costs of design and preparing the planning applications for the two subsequent phases of development (plot 18 and phase 2): 
 
-@. The following changes to the funding programme show how NHHT is rolling back on other commitments it made in the DPA. In September 2016, Southwark [agreed](http://moderngov.southwark.gov.uk/documents/s63817/Report.Aylesbury%20Regeneration%20Delivery.pdf) a number of changes to the DPA at the request of NHHT. Southwark agreed to forward fund £21m of the ongoing costs of progressing the scheme, that NHHT was originally required to fund under the terms of the Development Partnership Agreement. These comprised:
+![Extract from Sep 2016 Cabinet report](/img/nhhtunderwrite.png)
+
+
+@. The DPA originally stipulated that NHHT must pay the demoliton costs for all phases and in respect of the FDS, these were to be deducted from the £16.3m total (of 3 fixed land payments £1.2m; £2.4m; £12.7m) that NHHT was supposed to pay the Acquiring Authority when the land is transferred.
+
+@. NHHT's refusal to adhere to the terms of the DPA means that not only is the Acquiring Authority having to fund the demolition costs (now established at £16.8m), but it will only receive the third (and largest £12.7m) of the £16.3m fixed payments when the FDS development is completed in 2024. 
+
+@. In summary, as a result of NHHT's failure to adhere to the terms of the DPA, the Acquiring Authority is having to stump up £16.8m, of which it will receive just £16.3m in return in at least 7 years time and make a net loss on the sale of several hectares of public-owned land.
+
+@. The Acquiring Authority may argue that it has an 'overage agreement' in the DPA, meaning that it receives a percentage share of NHHT's 'overage' profit. However, such agreements are precarious as demonstrated by the Acquiring Authority's regeneration of the Silwood estate in Bermondsey in partnership with NHHT. A similar agreement here resulted in an 'overage' payment of just £546,047 to the Acquiring Authority. An [FOI request](https://www.whatdotheyknow.com/request/silwood_estate_regeneration_site/new) shows that there was disagreement between the parties about the amount of overage paid with the Acquiring Authority arguing that more overage was due.
+
+@. In total, Southwark agreed to forward fund £21m of the ongoing costs of progressing the scheme, that NHHT was originally required to fund under the terms of the Development Partnership Agreement. These comprise:
 
 ![](/img/dpafunding.png)
 
@@ -593,13 +604,25 @@ https://www.theguardian.com/housing-network/2012/aug/09/housing-benefit-caps-end
 > * £2m to underwrite the cost of Plot 18’s planning application
 > * £2m to underwrite the design fees for phase 2
 
+
+![Extract from DPA](/img/democostsdpa.png)
+
+
 @. These costs are in addition to the Council’s other costs that it has already agreed to allocate to the scheme. In total the Council is now forecast to spend £76.7m (see para 8.14 of the AA's updated SoC) over the next five years on progressing decant and demolition, plus an additional £32.4m on the new community facilities (that were supposed to be funded by the infrastructure tarif).
 
 @. At the previous inquiry it was established that the Acquring Authority had already spent £46m progressing the Scheme up to 2014.
 
-@. The [Cabinet report](http://moderngov.southwark.gov.uk/documents/s63817/Report.Aylesbury%20Regeneration%20Delivery.pdf) also said that _‘if the scheme has not proceeded in accordance with the DPA (Development Partnership Agreement)’_ then _‘at that point all design work will pass to the council enabling the council to market the site’_(para. 13) - in plain language: if Notting Hill drops out then Southwark takes over and looks for another developer. 
+@. These significant funding requirements were not envisaged at the time that the Acquiring Authority made the decision to progress the scheme. In the Sep 27 2005 report to the Executive, members were given costing estimates showing that the redevelopment would be more or less cost neutral to the Acquiring Authority over the duration of the Scheme. 
 
-@. This confirms the Objectors assertion made at the previous inquiry, that there is a break clause in the DPA enabling the partnership agreement to be terminated and provides further doubt that the Scheme will proceed following confirmation of the order.
+@. As a result of having to step in and fund the scheme following NHHT's refusal to continue underwriting it, the Acquiring Authority has had to make sweeping cuts to front line services. This year alone saw [cuts](http://moderngov.southwark.gov.uk/documents/s59115/Policy%20and%20Resources%20Strategy%20201617%20to%20201819.pdf) to the Adult Care and Education budget of £39m.
+
+@. This is in addition to the care homes and other council-owned facilities that are being sold to help fill the hole in the Acquiring Authority's budget.
+
+![Care homes sold off under budget cuts](http://35percent.org/img/carehomesshutdown.jpg)
+
+@. In total, the Acquiring Authority is required to absorb around £100m of central government budget cuts between now and 2019/20. In addition, it has also estimated a cost of £100m to install sprinklers in its tower blocks following safety concerns arising after the Grenfell Tower disaster.
+
+@. The Objecors submit that the impact of the Acquiring Authority's decision to forward fund the Scheme, should be considered as part of the 'well-being' test in relation to the order; i.e. that confirmation of the order would result in harm to the social well-being of residents affected by the resulting loss of funds to adult care services and education, as funding is diverted away (to pay for demolition of the FDS) in order to compensate for NHHT's refusal to continue underwriting scheme costs.
 
 ## Alternative to scheme underlying the CPO 
 @. Work out how much AA receives in rental income from tenants on the estate. Say it should use this on refurb/maintenance 
@@ -636,7 +659,7 @@ Conclusion:
 @. The Objectors note that the existing buildings on the estate have not been wrapped in flammable cladding and all benefit from at least two stairwells, which was not the case in the recent Grenfell Tower incident. The same cannot be said for the proposed tall buildings on the FDS, which only propose one single stairwell (check this?).
 
 @. The Acquiring Authority has intimated that there are structural problems with the 5 and 6 storey blocks on the estate. However, the Alan Conisbee report on which this is based recommended removal of mains gas from these blocks and it is understood that these blocks now comply with BRE safety standards as a result. If this is not the case then the Acquiring Authority will need to explain why it has continued to house families in these blocks for the past 12 years if they are structurally unsound. 
-
+ 
 ## Alternative location for the Scheme
 @. Paragraph 16(iv) of the ODPM 06/04 lists factors which the Secretary of State should consider in determining whether to confirm the order:
 
