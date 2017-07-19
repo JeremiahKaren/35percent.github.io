@@ -553,8 +553,7 @@ https://www.theguardian.com/housing-network/2012/aug/09/housing-benefit-caps-end
 
 @. Indeed, Kate Davies was a key advisor to the extremely influential [Localis review](http://eprints.lse.ac.uk/5568/1/Ends_and_Means_The_future_roles_of_social_housing_in_England_1.pdf) (Principles for Social Housing Reform by John Hills), which had proposed the reforms.
 
-@. This Guardian article shows how NHHT has pocketed £xxm? from the conversion of social rent to affordable rent.
-https://www.theguardian.com/society/2015/mar/29/tenants-face-70m-rent-rise-as-social-housing-converted-to-affordable-homes
+@. [This Guardian article](https://www.theguardian.com/society/2015/mar/29/tenants-face-70m-rent-rise-as-social-housing-converted-to-affordable-homes) shows that NHHT has switched 853 social rented homes to affordable rent over just the first 3 years of its introduction, earning it an extra £3.3m in annual rental income.
 
 @. The Objectors submit that the non-viability of the scheme will result in NHHT delivering affordable instead of social rent. At the previous inquiry, the Acquiring Authority argued that this would be prevented by the terms of the section 106 agreement requiring social rent rather than affordable rent. The Objectors responded that this was also the case at with the Bermondsey Spa regeneration where the Acquiring Authority had failed to monitor delivery and subsequently failed to enforce the terms of its section 106 agreement once the breach had been pointed out by the 35% Campaign. 
 
@@ -573,9 +572,19 @@ https://www.theguardian.com/society/2015/mar/29/tenants-face-70m-rent-rise-as-so
 @. The Objectors submit that the previous inquiry was misled and request full evidence to be provided to the inquiry that it has conducted the audit as directed by the Ombudsman and is taking enforcement action on any breaches discovered.
 
 ## DPA provisions breached
-@. NHHT has breached various provisions in the DPA including its obligation to purchase 5 street properties that it was to offer on shared equity terms to leaseholders in phase 1b/1c. The Council claims in its response to our Cabinet question that NHHT has indeed provided 2 such properties to leaseholders on the FDS. We should seek more details of this and ask why these were not offered to Beverley and Agnes.
+ @. NHHT has breached various provisions in the DPA including its obligation to purchase 5 street properties that it was to offer on shared equity terms to leaseholders in phase 1b/1c. The Council claims in its response to a Cabinet question from leaseholders, that NHHT has indeed provided 2 such properties to leaseholders on the FDS, but the Objectors were not aware of such offers. The Objectors request that the Acquiring Authority provide details of these two properties and explain why 5 street properties weren't purchased as per the DPA and why the Objectors have not been offered this option. 
 
-@. The following changes to the funding programme show how NHHT is rolling back on its funding commitments to the scheme. In September 2016, Southwark [agreed](http://moderngov.southwark.gov.uk/documents/s63817/Report.Aylesbury%20Regeneration%20Delivery.pdf) a number of changes to the development agreement with NHHT. Southwark agreed to forward fund £21m of the ongoing costs of progressing the scheme, that NHHT was originally required to fund under the terms of the Development Partnership Agreement. These comprised:
+@. This is of particular interest given that in November 2015, one of the Objectors (whose mother is wheelchair bound) [wrote](/img/AgnesKabutoNHHTemails.pdf) to NHHT asking why it was unable to offer any properties with wheelchair access. NHHT responding by claiming that it didn't have any wheelchair-accessible properties available via the shared equity scheme and advised her to apply to the Council for rehousing assistance instead. (correspondence is [here](/img/AgnesKabutoNHHTemails.pdf).
+
+@. The DPA business plan says that the developer will provide a specific number of offsite units from its existing stock to assist with tenant rehousing. It also agreed to convert some of its stock from affordable rent to social rent and to purchase several street properties and repair them for aylesbury residents to move in to.
+
+![](http://35percent.org/img/schedulenhhtoffsiteprovision.png)
+
+@. The Objectors request that the inquiry is provided with details of how many of these have actually been provided?
+
+@. See table below the above one..
+
+@. The following changes to the funding programme show how NHHT is rolling back on other commitments it made in the DPA. In September 2016, Southwark [agreed](http://moderngov.southwark.gov.uk/documents/s63817/Report.Aylesbury%20Regeneration%20Delivery.pdf) a number of changes to the DPA at the request of NHHT. Southwark agreed to forward fund £21m of the ongoing costs of progressing the scheme, that NHHT was originally required to fund under the terms of the Development Partnership Agreement. These comprised:
 
 ![](/img/dpafunding.png)
 
@@ -584,20 +593,13 @@ https://www.theguardian.com/society/2015/mar/29/tenants-face-70m-rent-rise-as-so
 > * £2m to underwrite the cost of Plot 18’s planning application
 > * £2m to underwrite the design fees for phase 2
 
-@. These costs are in addition to the Council’s other costs that it has already agreed to allocate to the scheme. In total the Council is now forecast to spend £52.5m over the next three years on the Aylesbury redevelopment scheme.
+@. These costs are in addition to the Council’s other costs that it has already agreed to allocate to the scheme. In total the Council is now forecast to spend £76.7m (see para 8.14 of the AA's updated SoC) over the next five years on progressing decant and demolition, plus an additional £32.4m on the new community facilities (that were supposed to be funded by the infrastructure tarif).
 
-@. Notting Hill Housing’s commitment to the scheme is also plainly a concern. The [Cabinet report](http://moderngov.southwark.gov.uk/documents/s63817/Report.Aylesbury%20Regeneration%20Delivery.pdf) goes on to say that _‘if the scheme has not proceeded in accordance with the DPA (Development Partnership Agreement)’_ then _‘at that point all design work will pass to the council enabling the council to market the site’_(para. 13) - in plain language: if Notting Hill drops out then Southwark takes over and looks for another developer. 
+@. At the previous inquiry it was established that the Acquring Authority had already spent £46m progressing the Scheme up to 2014.
 
-@. The DPA business plan says that the developer will provide a specific number of offsite units from its existing stock to assist with tenant rehousing. It also agreed to convert some of its stock from affordable rent to social rent and to purchase several street properties and repair them for aylesbury residents to move in to.
+@. The [Cabinet report](http://moderngov.southwark.gov.uk/documents/s63817/Report.Aylesbury%20Regeneration%20Delivery.pdf) also said that _‘if the scheme has not proceeded in accordance with the DPA (Development Partnership Agreement)’_ then _‘at that point all design work will pass to the council enabling the council to market the site’_(para. 13) - in plain language: if Notting Hill drops out then Southwark takes over and looks for another developer. 
 
-![](http://35percent.org/img/schedulenhhtoffsiteprovision.png)
-
-@. How many of these have actually been provided?
-
-@. See table below the above one..
-
-@. Cabinet said 2/3? P&R properties have been provided, why not 5? and why weren't Beverley etc offered this option?
-
+@. This confirms the Objectors assertion made at the previous inquiry, that there is a break clause in the DPA enabling the partnership agreement to be terminated and provides further doubt that the Scheme will proceed following confirmation of the order.
 
 ## Alternative to scheme underlying the CPO 
 @. Work out how much AA receives in rental income from tenants on the estate. Say it should use this on refurb/maintenance 
