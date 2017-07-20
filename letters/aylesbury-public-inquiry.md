@@ -502,6 +502,8 @@ https://www.theguardian.com/housing-network/2012/aug/09/housing-benefit-caps-end
 
 ![Extract from Moodys downgrading [announcement](http://35percent.org/img/nhhtmoodys.pdf)](http://35percent.org/img/nhhtmoodys.png)  
 
+@. NHHT's recently announced merger with Genesis housing association will exert additional pressure on NHHT as well as raise concerns that the differences in style and approach may affect board level decisions and commitment to the Scheme.
+
 @. In paragraph xxx of its Statement of Case, the Acquiring Authority has inferred that the Scheme has received funding from the GLA. However, its £26m? funding allocation under the GLA's 2014-16? Affordable Homes Programme is now compromised by the fact that phasing for the FDS has been delayed and will not be completed until 2024 [(See here)](http://moderngov.southwark.gov.uk/documents/s68300/Appendix%202%20Draft%20development%20agreement.pdf) (funding requirement is that the scheme is completed before March 2019?). 
 
 @. In paragraph xxx of its Statement of Case, the Acquiring Authority has asserted that £76m of its own funds have been set aside for the scheme over the next five years. However, it does not explain that this covers only site assembly - i.e. leaseholder compensation, decant and rehousing costs, demolition etc. Given that there is no funding for construction of the Scheme, then it cannot be claimed to be viable at the consented tenure mix. 
@@ -774,9 +776,7 @@ It also says:
 FDS - Council gets three fixed payments amounting to circa £15m (VA says £17m)
 NHHT pays for demolition but the total cost will be deducted from its £9m public infrastructure contribution to plot 18.
 
-
-
-Subsequent plots depend on plot premium in para 2 of schedule 4 which says:
+Subsequent plots: Council pays for demolition and demolition costs are also entered in the development account (as a minus - double counting). So when viability tests show a positive land value (could be £1) then the phase will proceed. I.e. Council is only going to receive something for the land if overage is enough to pay off demolition costs.
 
 Word is Barratt has pulled out??
 
