@@ -57,8 +57,6 @@ subtitle: "Aylesbury estate CPO public inquiry, Oct 2017"
 @. If the order is confirmed then there is nothing preventing NHHT delivering the Scheme according to the minimum specification, thereby failing to comply with key objective AAAP (Policy BH1 Increasing the Number of Homes). 
 
 ## Net loss of affordable housing requirements
-
-
 @. The [planning committee report](http://pl anbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!Vbu5QpckfYCnJrulzlWyuQ%3d%3d!%7d%7d%7d) for the Outline Scheme acknowledges that if NHHT builds to the *minimum* specification, then _"the outline minimum scenario would result in a net loss of -559 affordable dwellings or -1542 affordable habitable rooms"_ (para. 98). It acknowledges that this would fail to comply with the London Plan requirements on net loss of affordable housing and the AAAP's requirement that there would only be a small net loss of affordable housing (150 dwellings). It will also result in the provision of just 1,634 affordable dwellings (210 in the completed phases, plus 560 in the revised FDS application, plus 864 affordable units in the consented Outline minimum specification). This falls well short of the 2,100 affordable housing dwellings required by the AAAP: 
 
 ![Extract from the AAAP](http://35percent.org/img/aaapnetloss.png)
@@ -268,7 +266,7 @@ including those of the elderly and vulnerable."_ (Policy 1.6.2)
 
 ![Policy 5.2b of the London Plan](http://35percent.org/img/lpextractzerocarbon.png)
 
- @. Policy 3.6.7 of the AAAP envisaged this requirement for zero carbon homes: _"The government has announced the intention of ensuring that all homes are CfSH Level 6 by 2016. Proposals will need to comply with these regulations where these are more stringent than CfSH Level 4."_ 
+@. Policy 3.6.7 of the AAAP envisaged this requirement for zero carbon homes: _"The government has announced the intention of ensuring that all homes are CfSH Level 6 by 2016. Proposals will need to comply with these regulations where these are more stringent than CfSH Level 4."_ 
 
 @. Southwark’s SPD on Sustainable Design and Construction says that 95% of all demolition waste must be either re-used or recycled, in line with the London Plan requirement. No evidence has been provided to show that the Scheme is compliant with this policy. 
  
@@ -308,7 +306,7 @@ including those of the elderly and vulnerable."_ (Policy 1.6.2)
 
 ![Extract from AAAP](http://35percent.org/img/fdsgreenfingers.png)
 
-@. However, the planning application for the FDS Scheme and masterplan failed to include the green fingers and Westmoreland Plaza reduced in size such that it is now described in the planning documents as a 'pocket park'. 
+@. However, the planning application for the FDS Scheme and masterplan failed to include the green finger (labelled in the AAAP as 'King William IV Green Finger'[0.24ha]) and Westmoreland Plaza is now shown as being provided on the existing open space situated on the adjacent completed phase 1a site. 
 
 ![Extract from Design & Access Statement [CD43]](http://35percent.org/img/fdsmodel.jpg)
 
@@ -352,7 +350,13 @@ The other public open spaces proposed on the order land comprise:
  * 'Portland Park': 880sqm
  *  Albany Road frontage: 400sqm
 
+Only the 400sqm on Albany Road will be publicly adopted open space.
+
 Their combined floorspace represents approximately 10% of the existing open amenity space on the order land.
+
+@. As mentioned in the previous section, the AAAP said required a 'Green Finger' open space to be provided on the FDS named "King William IV green finger", which was supposed to provide 0.24ha of new public open space (2,400sqm).
+
+@. The current FDS planning consent clearly falls well short of the open space plans proposed by the AAAP.
 
 ## Breach of transport/public realm requirements
 @. The AAAP says that the Scheme should provide an improved and modern cycle enviroment (quotes).
@@ -378,7 +382,7 @@ Their combined floorspace represents approximately 10% of the existing open amen
 @. The Objectors note that this of particular relevance given that the order land adjoins the Acquiring Authority's proposed 'Quietway 7' cycle route from Crystal Palace to Elephant & Castle (along Portland Street on the west border of the order land) and the site was recommended for a docking station by the Acquiring Authority's own 'Cycle Survey' commissioned by LB Southwark road safety team in 2015 (Site UniqueID:132). 
 
 ## Breach of private amenity space requirements
-  @. Policy PL7 of the AAAP says:
+@. Policy PL7 of the AAAP says:
 
 >"All development must contain high quality private open space in the form of communal gardens, private gardens and useable balconies. The design of communal gardens should comply with the guidance in Appendix 6."
 
@@ -407,11 +411,15 @@ Their combined floorspace represents approximately 10% of the existing open amen
 @. The Residential Design Standards SPD, specifies a minimum rear-rear separation distance of 21m but paragraph 140 of the planning committee report acknowledges that _"there is one point at which the distance between habitable windows for the general needs flats reduces to 14 metres, but generally the distance is between 17m and 20m."_
 
 ## Breach of play space requirements
+@. Policy 3.6.2 of the AAAP says: _"We will require children’s play areas to be integrated into the residential areas. About 3 hectares of children’s play space and youth space will be provided"_.
+
 @. Policy PL6 of the AAAP says _"All development proposals must provide 10sqm of children’s play space / youth space per child bed space. Doorstep playable space should be provided within each of the housing blocks, whilst larger local playable spaces should be provided within selected housing blocks and within the green fingers and existing local parks, in accordance with Figure 12. New youth space should be provided within the larger areas of public open space."_
 
-Policy 3.6.2 of the AAAP says: _"We will require children’s play areas to be integrated into the residential areas. About 3 hectares of children’s play space and youth space will be provided"_.
+@. The New Southwark Plan provides further detail on how the 10sqm of play space per bed space requirement should be calculated:
 
-Both the consented FDS and Outline plans fall short of this requirement - (exact figures to be inserted here). 
+![](/img/NSPchieldyield.png)
+
+Both the consented FDS and Outline plans fall well short of this requirement - (exact figures to be inserted here). 
 
 ## Breach of mixed use/retail requirements
 @. In order to create a mix of uses across the action plan area, AAAP policy __'COM6'__ requires the Scheme to _"Provide 1,750 square metres of new local retail facilities (convenience retail, cafes and restaurants) within the action area core"._
@@ -766,6 +774,7 @@ In its 10 May letter to the Acquiring Authority, the DCLG wrote: _"It is importa
  * Clarification is sought on whether NHHT's development partner (Barratt Homes) has withdrawn from its involvement in the Scheme. If so, please provide details of any replacement development partner and copies of any agreements with them.
  * Paragraph 7.11 of the Acquiring Authority's updated Statement of Case claims that there will be a gain in affordable housing floorspace on the FDS of 3,232sqm. The Objectors dispute this figure (we calculate net loss of 24,707sqm) and seek clarification of how it has been calculated.
  * Paragraph 10.9 of the Acquiring Authority's updated Statement of Case says: _"The Council has kept and continues to keep detailed records about the owners and occupiers of the interests in the Order Land."_ The Objectors request that copies of these 'detailed records' are provided before the inquiry commences (with personal information redacted if necessary).
+ * Full details of the location and number of dwellings on the estate that currently meet/fail Decent Homes Standard.
  
 ## Further docs for inclusion in core bundle
  * Submit copy of the [2009 Leaseholders Toolkit](http://35percent.org/img/ToolkitAylesburyLeaseholders2009.pdf) showing the like-for-like property swap option.
@@ -812,7 +821,9 @@ In its 10 May letter to the Acquiring Authority, the DCLG wrote: _"It is importa
 
 @. An alternative scheme (referred to as ‘Plan B’ in the Statement of Reasons for making the CPO) has been promoted by a group of local stakeholders, using the acronym xxx. The scheme proposed by xxx is clearly superior to that of the Acquiring Authority. It would require less funding, would be less intrusive and would meet the Acquiring Authority’s objective of achieving an improved.
 
-@. AA is pending £380k per unit on new Council house building programme (not including land acquisition costs) - it has £xxm set aside for this and we suggest that this should be used instead 
+@. The Acquiring Authority is [spending £380k per dwelling](http://www.estatesgazette.com/blogs/london-residential-research/2015/07/costs-southwark-council-528149-build-council-flat/) on building new Council homes (not even including land acquisition costs) - it is spending £49m this year alone on building new council homes (see Budget Book 2016/17). The Objectors submit that this would be better spent on refurbishment at £xx,xxx per dwelling.
+
+@. Last year the Acquiring Authority spent £14.2m purchasing homes from developers on the open market to use as council housing. The Objectors submit that these funds would be better used refurbishing the dwellings on the order land.
 
 @. The AAAP envisaged redevelopment because at the time it said that: _"it would cost too much to bring the homes up to decent homes standards"_. It asserted that redevlopement would also enable an uplift in density to 4200 new homes and that these would be of better quality in terms of environment and sustainability. Given that the scheme fails to conform with these objectives and given the significant number of homes brought up to DHS in the interim, the Objectors submit that refurbishment would be a more economically efficent and socially equitable option. 
 
