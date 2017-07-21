@@ -31,7 +31,7 @@ subtitle: "Aylesbury estate CPO public inquiry, Oct 2017"
  * Dual aspect design requirements
  * Privacy and overlooking requirements
  * Play Space requirements
- * Mixed use/Retail requirements
+ * Land use requirements
  * Density requirements
  * Monitoring and compliance 
  * Infrastructure/public sector funding requirements
@@ -331,32 +331,29 @@ Note to Chris: obviously we are going to have to revise this section once the re
 
 >"New development must provide a high quality network of public open spaces of different sizes and functions which link well together and contain good pedestrian and cycling routes."
 
-@. Policy 4.5.1 of the AAAP envisages no net loss of open space, but the approved masterplan application (ref:14/AP/3844) acknowledges that there will be a net loss of 1.8 hectares of open space:
+@. Policy 4.5.1 of the AAAP requires no net loss of open space through the Scheme. There is no information provided on the net loss of open space on the FDS site alone, but the planning committee report for the Outline Scheme does provide an analysis which aggregates net loss including the FDS site and it acknowledges that there will be a net loss of 1.8 hectares of open space:
 
 ![Extract from the planning committee report for the masterplan application.](http://crappistmartin.github.io/images/aylesburygreenspace.png)
 
-@. Furthermore, the majority of the replacement open space will be privately managed. Only a small amount will be public open space adopted by the Council and most of this comprises just pavement on the perimeter of the new development.
+@. Furthermore, the majority of the replacement open space will be privately managed by a subsidiary company set up by NHHT. Only the smallest of the three new open spaces on the FDS (Albany Rd Frontage[400sqm]) will be public open space adopted by the Council. 
 
 ![Extract from FDS planning application docs 15/AP/4584](http://35percent.org/img/aylesburyopenspaces.png)
 
-![Play space on the FDS that is not being replaced](/img/aylesburyfdsbasketballcourt.jpg)
 
 @. Paragraph 261 of the planning committee report for the FDS confirms that the planning consent will include 157 on-street parking spaces. 
 
-There has been double counting in the calculations for the provision of open space on the FDS. The planning application has sought to include 'Westmoreland Square' - an existing amenity space on the neighbouring phase 1a site, measuring 1,350sqm.
+@. There has been double counting in the calculations for the provision of open space on the FDS. The planning application has sought to include 'Westmoreland Square' - an existing amenity space on the neighbouring phase 1a site, measuring 1,350sqm. Paragraph 207 of the FDS planning committee report acknowledges that the application merely _"expands and completes Westmoreland Square Plaza, the first part of which was laid out within Phase 1a"_.
 
-The other public open spaces proposed on the order land comprise:
+@. The other public open spaces proposed on the order land comprise:
  * 'Westmoreland Park': 1,130sqm
  * 'Portland Park': 880sqm
  *  Albany Road frontage: 400sqm
 
-Only the 400sqm on Albany Road will be publicly adopted open space.
-
-Their combined floorspace represents approximately 10% of the existing open amenity space on the order land.
+@. The combined floorspace of these represents approximately 10% of the existing open amenity space on the order land.
 
 @. As mentioned in the previous section, the AAAP said required a 'Green Finger' open space to be provided on the FDS named "King William IV green finger", which was supposed to provide 0.24ha of new public open space (2,400sqm).
 
-@. The current FDS planning consent clearly falls well short of the open space plans proposed by the AAAP.
+@. The current FDS planning consent clearly falls well short of the open space requirements proposed in the AAAP.
 
 ## Breach of transport/public realm requirements
 @. The AAAP says that the Scheme should provide an improved and modern cycle enviroment (quotes).
@@ -380,7 +377,7 @@ Their combined floorspace represents approximately 10% of the existing open amen
 @. This is a breach of the Acquiring Authority's Cycle Strategy, Sustainable Transport SPD and Policy DM46(5) of the New Southwark Plan which makes requirements for cycling including: _"providing space within the development, where required for the expansion of the cycle hire scheme;"_
 
 @. The Objectors note that this of particular relevance given that the order land adjoins the Acquiring Authority's proposed 'Quietway 7' cycle route from Crystal Palace to Elephant & Castle (along Portland Street on the west border of the order land) and the site was recommended for a docking station by the Acquiring Authority's own 'Cycle Survey' commissioned by LB Southwark road safety team in 2015 (Site UniqueID:132). 
-
+ 
 ## Breach of private amenity space requirements
 @. Policy PL7 of the AAAP says:
 
@@ -421,45 +418,27 @@ Their combined floorspace represents approximately 10% of the existing open amen
 
 Both the consented FDS and Outline plans fall well short of this requirement - (exact figures to be inserted here). 
 
-## Breach of mixed use/retail requirements
-@. In order to create a mix of uses across the action plan area, AAAP policy __'COM6'__ requires the Scheme to _"Provide 1,750 square metres of new local retail facilities (convenience retail, cafes and restaurants) within the action area core"._
+![Play space on the FDS that is not being replaced](/img/aylesburyfdsbasketballcourt.jpg)
 
-@. Appendix 5 of the AAAP specifies that the phase 1 of the Scheme should provide a total of 1,050sqm of retail floorspace, of which the FDS should deliver 250sqm. However, only 400sqm was provided on phase 1a and the FDS planning consent does not include provision for any retail floorspace whatsoever (See paragraph 80 of the planning committee report).
-  
-## Breach of community Space requirements
+## Breach of Layout/land use requirements
+@. The AAAP laid out the parameters for the layout of the development on the FDS as six blocks. The layout for the consented plans proposes just four blocks.
 
-@. The DPA says that NHHT is to provide a community facility on the order land comprising at least 250sqm. But the planning committee report says that this could be provided as a gym (use class D2). 
+@.AAAP policy __'COM6'__ requires the Scheme to _"Provide 1,750 square metres of new local retail facilities (convenience retail, cafes and restaurants) within the action area core"_, in order to create a mix of uses.
 
-![](http://35percent.org/img/fdscommunityfacility.png)
+@. Appendix 5 of the AAAP specifies that the FDS should provide a minimum of 250sqm retail space, but the consented plans do not propose any retail floorspace whatsoever. Paragraph 80 of the FDS planning committee report justifies the compliance failure by arguing that NHHT is providing 250sqm of D1 or D2 use class, permitting it _"to be used as an Early years facility or a gym subject to need and demand"_.
 
-@. The [planning committee report](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!Vbu5QpckfYCnJrulzlWyuQ%3d%3d!%7d%7d%7d) for the outline application shows how far short the Scheme will fall of AAAP requirements if the minimum specification is adhered to:
+@. The shortfalls on the Outline Scheme against the AAAP's land use requirements are greater: there is a shortfall of 546sqm of retail; 1900sqm of offices and employment use; and 487sqm of community use.
 
-![](http://35percent.org/img/outlinecommunityspace.png)
+@. The AAAP requires 263sqm of community use facilities on the FDS, but the consented plans only make provision for 250sqm. for the outline application shows how both the FDS and Outline Schemes fall short of the AAAP mixed use requirements:
+
+![[Planning committee report](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!Vbu5QpckfYCnJrulzlWyuQ%3d%3d!%7d%7d%7d) for the outline application](http://35percent.org/img/outlinecommunityspace.png)
 
 ## Breach of infrastructure funding requirements
 @. Page 75 of the AAAP describes infrastructure funding. It says the developer will pay a tariff which will fund community facilities like the health centre and other community facilities. However, we now know that the Council is paying for the £35m cost of them mainly from its own funds.
 
-@. The AAAP said that this infrastructure was to be funded by means of a tariff and that the details of the tariff will be published in a subsequent SPD - The Section 106 & CIL SPD (2015). This requires each development to pay a levy towards local infrastructure. Paragraph 5.8 of the SPD specifically states _"CIL will replace the section 106 tariffs set out in the Aylesbury Area Action Plan"_ and sets out a charging schedule showing a requirement of £50 per square metre of residential floorspace
+@. [This press release](http://www.southwark.gov.uk/news/2017/feb/a-35m-investment-into-new-community-facilities-at-heart-of-one-of-london-s-biggest-regeneration-projects-has-been-approved) confirms that the Acquiring Authority is footing £23m of the £35m required from its capital budget. The DPA confirms that the remainder is being sourced from s106 contributions from other developments in the borough plus a £9m contribution from NHHT.
 
-@. The planning committee report for the FDS says: _The total existing floorspace on the FDS equates to approximately 54,747sqm. The total proposed floorspace is 81,432sqm. Provided that the existing buildings on the FDS remain in use for at least 6 months within the 36 months prior to implementation, the existing floorspace can be deducted from that proposed to give a figure of 26,685sqm .. This would incur a charge of £1,320,500."_
-
-@. The report is not clear as to whether this will be paid and given the absence of a CIL liability notice in the planning application documents, the Objectors request further details of whether the FDS and Outline Schemes are liable for CIL and whether a CIL contribution has been agreed.
-
-@. The [S106 agreement] says this:
-
-![](http://35percent.org/img/s106cil.png)
-
-@. [This press release](http://www.southwark.gov.uk/news/2017/feb/a-35m-investment-into-new-community-facilities-at-heart-of-one-of-london-s-biggest-regeneration-projects-has-been-approved) confirms that the Acquiring Authority is footing £23m of the £35m required from its capital budget, the remainder being sourced from s106 contributions from other developments in the borough plus a contribution from NHHT.
-
-@. The Development Partnership Agreement says that NHHT's contribution to the facilities is £9m - however it also contains a clause saying that NHHT can deduct from this £9m, all of its site assembly costs for the FDS (currently amounting to £14.5m according to paragraph 8.4 of the AA's SoC). 
-
-@. A7 .1.40 gives a breakdown of the estimated costs of infrastructure that the tariff will fund. It says how much is required per unit but I can't read it on my pdf as it looks corrupted. I Need to see a hard copy.
-
-@. Southwark is filling the gap - its SoC confirms it has allocated £100m to the Scheme over next 3/5 years? and £46m has already been spent. Its 2005 Committee decision was based on the assumption that the Scheme would be cost neutral.
-
-@. Council has already seen xx budget cuts - with £39m cut from adult and social care in this year alone. A further 77% of its budget is due to be cut by 2020. There is a clear austerity case for refurb rather than demolition.
-
-@. [This article](https://www.southwarknews.co.uk/news/installing-sprinklers-southwarks-council-housing-cost-100m/) confirms the Council is considering spending £100m on sprinklers for its tower blocks and admits that if no govt funding is found then _"other things will have to be put on hold"_.
+@. Paragraphs 7.8 and 7.9 of the Acquiring Authority's updated Statement of Case acknowledges that NHHT taking role of delivery partner is a change to Policy D2 of the AAAP. Are NHHT meeting full financial obligations under Policy D2?  A table of expected payments, totalling c £50m, is given at A7.1.40 AAP pg 174; it includes £1.47m for green fingers and £12m for improvements to Burgess Park. There is nothing in the DPA obliging NHHT to make a contribution towards improving Burgess Park. (xx - more research required)
 
 ## Breach of Public Sector Equalities Duty (PSED) 
 @. The AAAP said there will be a 'range of options to enable leaseholders to stay in area, buy into new scheme etc..'
@@ -647,7 +626,7 @@ https://www.theguardian.com/housing-network/2012/aug/09/housing-benefit-caps-end
 @. The Objectors submit that the previous inquiry was misled and request full evidence to be provided to the inquiry that it has conducted the audit as directed by the Ombudsman and is taking enforcement action on any breaches discovered.
 
 ## NHHT refusal to underwrite costs & adhere to DPA obliations as result of viability
- @. NHHT has breached various provisions in the DPA including i ts obligation to purchase 5 P&R (Purchase & Repair) street properties on the open market, that it was repair and subsequently offer on shared equity terms to leaseholders on the FDS, in order to provide a wider rehousing choice (see para 4.2.2.13 of the DPA Business Plan Section 4). The Council claimed in its response to a Cabinet question from leaseholders, that NHHT has indeed provided 2 such properties to leaseholders on the FDS, but the Objectors were not aware of such offers. The Objectors request that the Acquiring Authority provide details of these two properties and explain why only 2 of the 5 street properties have been purchased by NHHT under its obligations to the DPA and why none of the Objectors have not been offered a P&R street property. 
+ @. NHHT has breached various provisions in the DPA including its obligation to purchase 5 P&R (Purchase & Repair) street properties on the open market, that it was repair and subsequently offer on shared equity terms to leaseholders on the FDS, in order to provide a wider rehousing choice (see para 4.2.2.13 of the DPA Business Plan Section 4). The Council claimed in its response to a Cabinet question from leaseholders, that NHHT has indeed provided 2 such properties to leaseholders on the FDS, but the Objectors were not aware of such offers. The Objectors request that the Acquiring Authority provide details of these two properties and explain why only 2 of the 5 street properties have been purchased by NHHT under its obligations to the DPA and why none of the Objectors have not been offered a P&R street property. 
 
 @. This is of particular importance given that in November 2015, one of the Objectors (whose mother is wheelchair bound) [wrote](/img/AgnesKabutoNHHTemails.pdf) to NHHT asking why it was unable to offer any properties with wheelchair access. NHHT responding by claiming that it didn't have any wheelchair-accessible properties available via the shared equity scheme and advised her to apply to the Council for rehousing assistance instead. (correspondence is [here](/img/AgnesKabutoNHHTemails.pdf).
 
@@ -660,7 +639,6 @@ https://www.theguardian.com/housing-network/2012/aug/09/housing-benefit-caps-end
 @. NHHT's commitment to the Scheme is further brought into question when the Acquiring Authority declared at a [Cabinet meeting](http://moderngov.southwark.gov.uk/documents/s63817/Report.Aylesbury%20Regeneration%20Delivery.pdf) in September 2016, that "_due to the costs"_ and _"CPO delay"_, NHHT was no longer willing to continue underwriting the ongoing costs of the scheme, i.e the demolition costs for the FDS and costs of design plus preparing the planning applications for the two subsequent phases of development - as per its obligations under the DPA: 
 
 ![Extract from Sep 2016 Cabinet report](/img/nhhtunderwrite.png)
-
 
 @. The DPA stipulates that NHHT must pay the demoliton costs in respect of the FDS (para 4.1.4), the demolition cost was subsequently to be deducted from the £16.3m total (of 3 fixed land payments £1.2m; £2.4m; £12.7m) - (para 1.2.2) that NHHT was supposed to pay the Acquiring Authority upon transfer of the land.
 
@@ -694,7 +672,7 @@ https://www.theguardian.com/housing-network/2012/aug/09/housing-benefit-caps-end
 
 ![Care homes sold off under budget cuts](http://35percent.org/img/carehomesshutdown.jpg)
 
-@. In total, the Acquiring Authority is required to absorb around £100m of central government budget cuts between now and 2019/20. In addition, it has also estimated a cost of £100m to install sprinklers in its tower blocks following safety concerns arising after the Grenfell Tower disaster.
+@. In total, the Acquiring Authority is required to absorb around £100m of central government budget cuts between now and 2019/20. In addition, it has also [estimated](https://www.southwarknews.co.uk/news/installing-sprinklers-southwarks-council-housing-cost-100m/) a cost of £100m to install sprinklers in its tower blocks following safety concerns arising after the Grenfell Tower disaster.
 
 @. Compulsory purchase orders issued under Section 226(1)(a) of the TCPA are subject to S226(1A) which sets out the "wellbeing" test. This says that the Acquiring authority must not exercise the power unless it thinks that the proposed development, redevelopment or improvement is likely to achieve the promotion or improvement of the economic, social or environmental well being for its area.
 
