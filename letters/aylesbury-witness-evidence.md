@@ -37,21 +37,23 @@ subtitle: "Aylesbury estate CPO public inquiry, Oct 2017"
  * Infrastructure/public sector funding requirements
 
 ## Breach of housing uplift requirements
-@. The AAAP said that  the scheme would deliver 4,200 new homes - a net uplift of 1,450 over the existing estate. The @AAAP said that this would help contribute to and conform with the London Plan requirement of 16,300 new homes by 2016/2017.
+@. The AAAP says:
 
-@. Paragraph 88 of the [planning committee report](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!Vbu5QpckfYCnJrulzlWyuQ%3d%3d!%7d%7d%7d) for the outline application re-iterates that _"A key objective of the AAAP (Policy BH1 Number of homes) is to increase the number of homes on the estate"_. The Scheme underlying the order as it stands will fail to achieve this objective.
+>"3.1.4 The London Plan’s requirement for Southwark is 16,300 new homes by 2016/2017. The AAP will deliver about 1,450 extra homes to contribute towards this target."
 
-@. Appendix 5 of the AAAP specifies how many homes need to be delivered in each phase to achieve the 1,450 uplift in number of homes. It specifies a requirement for 425 new homes on (completed) phases 1a/site 7 but only 408 were provided. It also requires 880 new homes on the FDS, but the consented plans are to provide only 830 new homes.
+The AAAP baseline of existing homes in the action area core is 2,758. The requirement is therefore for the delivery of 4,208 new homes to be buit in the action area core. Notting Hill's planning consent for the FDS and remaining phases requires only 2,580 number of new homes to be built (830 on the FDS and 1700 on the outline).
 
-![AAAP Appendix 5](http://35percent.org/img/aaapapp5.png)
+@. According to Appendix 5 of the AAAP, to deliver the 4,208 homes, a requirement of 425 new homes needed to have been delivered on completed phases 1a/site 7, but only 408 have been provided. On the remaining FDS and outline scheme 3,566 new homes are required by the AAAP. However, planning consent for the FDS and outline scheme only requires 2,530.
 
-@. The Acquiring Authority may argue that NHHT is submitting a revised planning application for the FDS (see paragraph 7.2 of its Statement of Case), but this will only increase the overall number of homes by 10 to 840. There still remains a significant shortfall.
+@. The Outline planning application sought consent to build a *minimum* of 1,700 new homes and *maximum* of 2,745 across the outline Scheme. It is understood that some flexibility may be required in an outline application, but there is no explanation as to why NHHT required such a significant amount of flexibility (1000 homes). The Outline application for the neighbouring Heygate estate regeneration (2,704 new homes) gave a flexibility between min and max provision of just 200 homes. This is a difference of 7.4% variable on the Heygate scheme, compared with a 36.4% variable on the Aylesbury scheme.
+
+@. The minimum specification of 1,700 homes is well below the AAAP requirement of 2,898 homes across the Outline phases and would result in the provision of just 2,948 new homes across all phases (1,700 plus 408 on completed phases plus 840 on FDS) - well short of the 4,200 required and an uplift of just 200 homes on the estate baseline[^2]. 
+
+
 
 @. The shortfall between the minimum number of homes guaranteed in the planning consent for remaining outline phases and the number required by the AAAP is much greater. Given that the FDS Scheme was approved in conjunction with the outline phases and shares the same section 106 agreement, the outline Scheme is inseperable from the FDS Scheme.
 
-@. The Outline planning application sought consent to build a *minimum* of 1,700 new homes and *maximum* of 2,745 across the outline Scheme. It is understood that some flexibility may be required in an outline application, but there is no explanation as to why NHHT required such a significant amount of flexibility (1000 homes). The Outline application for the neighbouring Heygate estate regeneration (2,700 new homes) gave a flexibility between min and max provision of just 200 homes. 
 
-@. The minimum specification of 1,700 homes is well below the AAAP requirement of 2,898 homes across the Outline phases and would result in the provision of just 2,948 new homes across all phases (1,700 plus 408 on completed phases plus 840 on FDS) - well short of the 4,200 required and an uplift of just 200 homes on the estate baseline[^2]. 
 
 @. If the order is confirmed then there is nothing preventing NHHT delivering the Scheme according to the minimum specification, thereby failing to comply with key objective AAAP (Policy BH1 Increasing the Number of Homes). 
 
@@ -436,4 +438,16 @@ Both the consented FDS and Outline plans fall well short of this requirement - (
 @. [This press release](http://www.southwark.gov.uk/news/2017/feb/a-35m-investment-into-new-community-facilities-at-heart-of-one-of-london-s-biggest-regeneration-projects-has-been-approved) confirms that the Acquiring Authority is footing £23m of the £35m required from its capital budget. The DPA confirms that the remainder is being sourced from s106 contributions from other developments in the borough plus a £9m contribution from NHHT.
 
 @. Paragraphs 7.8 and 7.9 of the Acquiring Authority's updated Statement of Case acknowledges that NHHT taking role of delivery partner is a change to Policy D2 of the AAAP. Are NHHT meeting full financial obligations under Policy D2?  A table of expected payments, totalling c £50m, is given at A7.1.40 AAP pg 174; it includes £1.47m for green fingers and £12m for improvements to Burgess Park. There is nothing in the DPA obliging NHHT to make a contribution towards improving Burgess Park. (xx - more research required)
+
+
+
+
+
+REMOVED PARAGRAPHS:
+
+@. Paragraph 88 of the [planning committee report](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!Vbu5QpckfYCnJrulzlWyuQ%3d%3d!%7d%7d%7d) for the outline application re-iterates that _"A key objective of the AAAP (Policy BH1 Number of homes) is to increase the number of homes on the estate"_. The Scheme underlying the order as it stands will fail to achieve this objective.
+
+@. The Acquiring Authority may argue that NHHT is submitting a revised planning application for the FDS (see paragraph 7.2 of its Statement of Case), but this will only increase the overall number of homes by 10 to 840. There still remains a significant shortfall.
+
+
 
