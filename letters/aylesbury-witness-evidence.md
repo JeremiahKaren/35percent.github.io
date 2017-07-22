@@ -133,7 +133,7 @@ subtitle: "Aylesbury estate CPO public inquiry, Oct 2017"
 
 @. The Objectors note that the loophole of allowing NHHT to 'double count' habitable rooms in the calculation of the minimum affordable housing requirement, is not just written in to the small print of the section 106 agreement - it is also contained in the provisions of the DPA:
 
-![Extract from the DPA](/img/hrloopholedpa.png)
+![Extract from the DPA](http://35percent.org/img/hrloopholedpa.png)
 
 @. NB: the 27.5sqm 'double counting' loophole in the s106 specifies that it relates only to the calculation of affordable housing. The clause in the DPA relates to the calculation of all residential units. 
 
@@ -169,11 +169,11 @@ subtitle: "Aylesbury estate CPO public inquiry, Oct 2017"
 
 @. The London Plan's and the New Southwark Plan's minimum space requirements are identical and are as follows:
 
-![](/img/londonplanminspace.png)
+![](http://35percent.org/img/londonplanminspace.png)
 
 @. The Outline Scheme's Affordable Housing Statement provides a breakdown of the minimum sizes of the social rented and intermediate affordable housing units across the Outline and FDS scheme:
 
-![](/img/outlineminsize.png)
+![](http://35percent.org/img/outlineminsize.png)
 
 @. Read in conjunction with the schedule of accommodation in NHHT's [Design & Access Statement](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!SP7j9NgvVQ81I%2fbtk2kPWQ%3d%3d!%7d%7d%7d), we can see that not one of the proposed dwelling sizes for any of the **flats** on the FDS or Oultine Scheme complies with the London Plan's or the New Southwark Plan's minimum space requirements.
 
@@ -296,8 +296,6 @@ including those of the elderly and vulnerable."_ (Policy 1.6.2)
 
 @. Besides enabling daylight, the AAAP envisages that the green fingers will _"provide an important part of the overall public open space in the AAP area. They will extend Burgess Park into the residential development, allowing people to move easily from their homes to the park. They will also enable many more homes to have a frontage along pleasant green spaces. The green fingers will provide a range of functions including children’s play areas, water management and pedestrian and cycle movement."_ (policy 4.2.6)
 
-![Extract from the AAAP](http://35percent.org/img/greenfingerintersections.png)
-
 @. The green fingers also enable several key 'green links' envisaged by the AAAP, which link neighbouring local parks to Burgess Park.
 
 ![Extract from AAAP](http://35percent.org/img/networkofgreenspaces.png)
@@ -413,11 +411,11 @@ Note to Chris: obviously we are going to have to revise this section once the re
 
 @. The New Southwark Plan provides further detail on how the 10sqm of play space per bed space requirement should be calculated:
 
-![](/img/NSPchieldyield.png)
+![](http://35percent.org/img/NSPchieldyield.png)
 
 Both the consented FDS and Outline plans fall well short of this requirement - (exact figures to be inserted here). 
 
-![Play space on the FDS that is not being replaced](/img/aylesburyfdsbasketballcourt.jpg)
+![Play space on the FDS that is not being replaced](http://35percent.org/img/aylesburyfdsbasketballcourt.jpg)
 
 ## Breach of Layout/land use requirements
 @. The AAAP laid out the parameters for the layout of the development on the FDS as six blocks. The layout for the consented plans proposes just four blocks.
