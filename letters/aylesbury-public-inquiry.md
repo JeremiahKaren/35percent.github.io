@@ -3,7 +3,7 @@ layout: page
 title: "Statement of Case"
 subtitle: "Aylesbury estate CPO public inquiry, Oct 2017"
 ---
-![](http://35percent.org/img/phase1baerial.png)  
+![](http://35percent.org/img/phase1baerial.png)
 
 **Table of Contents:**
 * TOC

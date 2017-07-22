@@ -3,6 +3,12 @@ layout: page
 title: "35% Campaign witness evidence"
 subtitle: "Aylesbury estate CPO public inquiry, Oct 2017"
 ---
+![](http://35percent.org/img/phase1baerial.png)
+
+**Table of Contents:**
+* TOC
+{:toc}
+
 ## The Scheme is no longer in accordance with the development plan
 @. A key requirement of the compulsory purchase code is that the Scheme underlying the Order must conform with the requirements of the statutory development plan. Paragraph 76 of the [06/04 ODPM Circular](https://www.gov.uk/government/publications/compulsory-purchase-and-the-crichel-down-rules-circular-06-2004) lists a key consideration as _"whether the purpose for which the land is being acquired fits in with the adopted Local Plan for the area"_ and specifies that _"any programme of land assembly needs to be set within a clear strategic framework, and this will be particularly important when demonstrating the justification for acquiring land compulsorily under section 226(1)(a) powers as a means of furthering the well-being of the wider area."_.
 
