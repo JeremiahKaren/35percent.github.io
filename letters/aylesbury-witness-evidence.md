@@ -49,11 +49,14 @@ The AAAP baseline of existing homes in the action area core is 2,758. The requir
 
 @. The minimum specification of 1,700 homes is well below the AAAP requirement of 2,898 homes across the Outline phases and would result in the provision of just 2,948 new homes across all phases (1,700 plus 408 on completed phases plus 840 on FDS) - well short of the 4,200 required and an uplift of just 200 homes on the estate baseline[^2]. 
 
-
+|Phase|AAAP reqs.|Consented units|Shortfall|
+|---|---|---|---|
+|Phase 1a/Site 7|425|408|17|
+|FDS|880|830|50|
+|Outline|2,898|1,700|1,198|
+|Total|4,208|2,938|1,270|
 
 @. The shortfall between the minimum number of homes guaranteed in the planning consent for remaining outline phases and the number required by the AAAP is much greater. Given that the FDS Scheme was approved in conjunction with the outline phases and shares the same section 106 agreement, the outline Scheme is inseperable from the FDS Scheme.
-
-
 
 @. If the order is confirmed then there is nothing preventing NHHT delivering the Scheme according to the minimum specification, thereby failing to comply with key objective AAAP (Policy BH1 Increasing the Number of Homes). 
 
