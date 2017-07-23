@@ -21,7 +21,7 @@ subtitle: "Aylesbury estate CPO public inquiry, Oct 2017"
  * Dwelling size requirements
  * Minimum space standards
  * Wheelchair accessible requirements
- * Tenure requirements
+ * Affordable Housing Tenure requirements
  * Renewable Energy requirements
  * Building Heights requirements
  * Sunlight/Daylight requirements
@@ -35,6 +35,7 @@ subtitle: "Aylesbury estate CPO public inquiry, Oct 2017"
  * Density requirements
  * Monitoring and compliance 
  * Infrastructure/public sector funding requirements
+ * AAAP rehousing requirements
 
 ## Breach of housing uplift requirements
 @. The AAAP says:
@@ -140,7 +141,7 @@ It's intention then was to write a condition into the section 106 agreement requ
 
 @. This would assist in achieving the AAAP's aim of rehousing 50% of existing tenants on site: _“We will accommodate approximately 50% of existing tenants through the re-provision of homes on site”_. (AAAP Policy 7.2.6)
 
-@. The Equalities Impact Assessment supporting the AAAP also relied on this objective in order to satisfy the Acquiring Authority's Public Sector Equalities Duty (PSED).
+@. The Equalities Impact Assessment supporting the AAAP also relied on this objective in order to satisfy the Acquiring Authority's Public Sector Equalities Duty (PSED). Rehousing 50% of tenants in new homes on the estate would reduce the pressure on the Acquiring Authority's housing waiting list were it to rehouse tenants exclusively using existing available stock.
 
 @. The Scheme however, appears to be failing in this requirement. Of the ca. 680 tenants and leaseholders decanted from the estate to date, the only available data shows that just 34 tenants and 5 leaseholders have been rehoused in new homes on site (para 4.12 of the Acquring Authority's updated statement of case). 
 
@@ -162,6 +163,10 @@ It's intention then was to write a condition into the section 106 agreement requ
 @. The map claims contains inaccuraccies: it shows data for 410 decanted tenants from phase 2 up to March 2017, but the Acquiring Authority's [Sep 2016 Cabinet report](http://moderngov.southwark.gov.uk/documents/s63817/Report.Aylesbury%20Regeneration%20Delivery.pdf) states that 422 tenants had been decanted from phase 2 at Sep 2016. It also claims that 'the majority of tenants remained in Walworth', but this is clearly incorrect - 34% is not a majority. 
 
 @. Creation Trust's displacement map failed to provide information on how many tenants were rehoused in new homes on the estate. Neither did it include any information on leaseholders displacement, which is of particlar importance given so few leaseholders have been rehoused on the estate footprint. 
+
+@. The Scheme is clearly falling well short of the AAAP requirement to rehouse 50% of tenants in new homes on the estate footprint. This is having the knock-on effect of reducing the amount of available homes for those on the housing waiting list, as tenants being decanted from the estate are given priority Band 1 status.
+
+@. Given that the 2009 AAAP Equalities Impact Assessment was measured against the requirement of rehousing 50% of tenants in new homes on the footprint, a new assessment is required to ensure that the departure from this requirement is not having a disproportionate impact on those affected - i.e. those 12,000 households on the Acquiring Authority's waiting list.
 
 ## Affordable housing tenure requirements
 @. The Objectors submit that the non-viability of the Scheme is likely to result in a failure to conform with the affordable housing tenure requirements of the development plan

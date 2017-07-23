@@ -10,7 +10,9 @@ subtitle: "Aylesbury estate CPO public inquiry, Oct 2017"
 {:toc}
 
 ## The Scheme is no longer in accordance with the development plan
-@. A key requirement of the compulsory purchase code is that the Scheme underlying the Order must conform with the requirements of the statutory development plan. Paragraph 76 of the [06/04 ODPM Circular](https://www.gov.uk/government/publications/compulsory-purchase-and-the-crichel-down-rules-circular-06-2004) lists a key consideration as _"whether the purpose for which the land is being acquired fits in with the adopted Local Plan for the area"_ and specifies that _"any programme of land assembly needs to be set within a clear strategic framework, and this will be particularly important when demonstrating the justification for acquiring land compulsorily under section 226(1)(a) powers as a means of furthering the well-being of the wider area."_.
+@. A key requirement of the compulsory purchase code is that the Scheme underlying the Order must conform with the requirements of the statutory development plan.
+
+@. Paragraph 76 of the [06/04 ODPM Circular](https://www.gov.uk/government/publications/compulsory-purchase-and-the-crichel-down-rules-circular-06-2004) lists a key consideration as _"whether the purpose for which the land is being acquired fits in with the adopted Local Plan for the area"_ and specifies that _"any programme of land assembly needs to be set within a clear strategic framework, and this will be particularly important when demonstrating the justification for acquiring land compulsorily under section 226(1)(a) powers as a means of furthering the well-being of the wider area."_.
 
 @. The adopted Local Plan for the Scheme underlying this Order (“the Scheme”) is the [Aylesbury Area Action Plan 2010](http://www.2.southwark.gov.uk/download/downloads/id/13132/aylesbury_area_action_plan_2010_inc_appendices) (“AAAP”) [CD2], which was adopted in January 2010 as part of the Acquiring Authority's local development framework.
 
@@ -38,10 +40,10 @@ subtitle: "Aylesbury estate CPO public inquiry, Oct 2017"
 
 @. These numerous failures to meet with the AAAP's minimum policy requirements and those of the local development framework, are set out in detail by the 35% Campaign in their [witness evidence](http://35percent.org/letters/aylesbury-witness-evidence) and are relied upon but not be addressed in detail here.
 
-## The Scheme is not viable and therefore not deliverable.
+## The Scheme is not viable.
 @. Paragraph 22 of the ODPM Circular 06/04 requires the Acquiring Authority to demonstrate that the Scheme underlying the Order is financially viable and therefore deliverable. 
 
-@. The Objectors submit that there are three main factors which demonstrate that the Scheme is not financially viable:
+@. The Objectors submit that there are four main factors which demonstrate that the Scheme is not financially viable:
 
  1. The Scheme was not viable in the first place
  2. £180m of allocated government funding has been withdrawn since the AAAP was adopted
@@ -83,16 +85,18 @@ subtitle: "Aylesbury estate CPO public inquiry, Oct 2017"
 ### The government has reduced the social rent levels that housing associations can charge.
 @. In 2015, the government introduced reforms to the amount of rent housing associations can charge under social rented tenancies in its Housing & Planning Act, forcing them to reduce social rents by 1% per year.
 
+18. The Financial Times [reported](http://35percent.org/img/ft10june2015.pdf) that the changes could force housing associations into a financial cirisis, explaining that according to Treasury forecasts landlords’ rents will be 12 per cent lower than previously forecast by 2020-21. The Office for Budget Responsibility said the drop in rental income was likely to result in housing associations calling off plans to build 14,000 homes; the National Housing Federation said this figure was nearer to 27,000.
+
 @. NHHT's 2016 financial statement confirmed that _"Following changes announced by the Government in July 2015, we paused our start on sites to reassess scheme viability and to review our blend of tenures to reflect Government priorities .. Starts on site slowed down as we paused to reappraise the tenure split of schemes following the social rent cuts announced in the Government’s summer budget."_
 
-@. In September the Acquiring Authority announced at a [Cabinet meeting](http://moderngov.southwark.gov.uk/documents/s63817/Report.Aylesbury%20Regeneration%20Delivery.pdf) that _"the impact of measures in the Housing and Planning Act have reduced the ability of NHHT’s Board to progress Phase 2 and Plot 18 at this stage"_ (para 8) and that "_due to the costs"_ and _"CPO delay"_, NHHT was no longer willing to fund the demolition costs of the FDS that it was obliged to under the terms of the Development Partnership Agreement (DPA) - (para 12).
+@. In September 2016, the Acquiring Authority announced at a [Cabinet meeting](http://moderngov.southwark.gov.uk/documents/s63817/Report.Aylesbury%20Regeneration%20Delivery.pdf) that _"the impact of measures in the Housing and Planning Act have reduced the ability of NHHT’s Board to progress Phase 2 and Plot 18 at this stage"_ (para 8) and that "_due to the costs"_ and _"CPO delay"_, NHHT was no longer willing to fund the demolition costs of the FDS that it was obliged to under the terms of the Development Partnership Agreement (DPA) - (para 12).
 
 ![Sep 2016 Cabinet report](http://35percent.org/img/sep2016cabinet.png)
 
 
 @. NHHT's board's refusal to continue funding the Scheme as a result of viability concerns, provides evidence that just because NHHT is running a bumper surplus and has liquidity, it's board will not proceed with schemes that are not financially viable, regardless of any contractual obligations to do so. 
 
-@. The Objectors note the evidence provided to the previous inquiry, with which the Acquiring Authority successfully argued that there was both board-level approval and contractual requirements in the DPA obliging NHHT to proceed with the FDS Scheme regardless of whether it is viable or not. (see paras 92 and 388 of the inspector's report) 
+@. The Objectors note the evidence provided to the previous inquiry, with which the Acquiring Authority successfully argued that there was both board-level approval and contractual requirements in the DPA, obliging NHHT to proceed with the FDS Scheme regardless of whether it is viable or not. (see paras 92 and 388 of the inspector's report) 
 
 @. The Acquiring Authority's updated Statement of Case claims similarly: _"this phase of the development is not subject to viability testing"_ (para 11.2.6). The Objectors submit that NHHT's board decision not to continue funding the Scheme provides clear evidence to the contrary.
 
@@ -104,7 +108,7 @@ subtitle: "Aylesbury estate CPO public inquiry, Oct 2017"
 
 ![Extract from Moodys downgrading [announcement](http://35percent.org/img/nhhtmoodys.pdf)](http://35percent.org/img/nhhtmoodys.png)  
 
-@. In July 2017, NHHT announced a 'mega' merger with Genesis housing association, which will exert additional pressure on NHHT as well as raise concerns that the differences in style and approach may affect board level decisions and commitment to the Scheme, especially in light of the viability issues.
+@. Paragraphs 8.10-8.11 of the Acquiring Authority’s updated statement of case make much of the ‘strength of robustness of NHHT’s financial standing’. The Objectors submit that this is a result of NHHT’s board’s tough business-minded approach; i.e. ensuring that schemes are financially viable and offer a healthy operating margin before proceeding – stalling or extracting concessions from development partners if they don’t. Paragraph 8.10 confirms that its average operating margin is 34% - this is nearly 10% above the industry average.  
 
 ## Construction costs have spiralled since DPA financial modelling
 @. [This article in the Financial Times](http://35percent.org/img/ft23june2016.pdf) confirms that construction costs in London have been spiralling since the DPA was agreed in April 2014, by as much as 10% per year. 
@@ -149,7 +153,7 @@ subtitle: "Aylesbury estate CPO public inquiry, Oct 2017"
 
 @. This is further evidence of the Scheme's failure to comply with the development plan and contractual requirements. It is also a breach of the compulsory purchase code (ODPM 06/04), which says that the Acquiring Authority must show that there is a _"realistic prospect of the land being brought into beneficial use within a reasonable timeframe"_. The Objectors submit that seven years is not a reasonable timeframe.
 
-@. The Objectors note that there is nothing in the DPA compelling NHHT to complete any of the development phases should they be declared unviable.
+@. The Objectors note that there is nothing in the DPA compelling NHHT to complete any of the development phases should NHHT declare them unviable.
 
 ## NHHT breaches terms of DPA & refuses to continue funding Scheme
 @. NHHT has breached various provisions in the DPA including its obligation to purchase 5 P&R (Purchase & Repair) street properties on the open market, that it was repair and subsequently offer on shared equity terms to leaseholders on the FDS, in order to provide a wider rehousing choice (see para 4.2.2.13 of the DPA Business Plan Section 4).
@@ -219,11 +223,11 @@ subtitle: "Aylesbury estate CPO public inquiry, Oct 2017"
 
 > "Homeowners that are assessed as being able to afford less than 25% of the costs of home ownership are recommended for a Council/RSL tenancy." (para 6.7)
 
-@. Given that  strict 'cascade' qualifying criteria, it is no surprise that only one leaseholder from the Order land qualified for a tenancy in a new home on completed phase 1a. 
+@. Given the capital uplift small print in the shared equity deal and the strict 'cascade' qualifying criteria, it is no surprise that none of the leaseholders from the Order land applied for a shared equity flat on phase 1a and only one qualified for a tenancy.
 
 @. The AAAP said that there are a _"range of options for leaseholders whose interests are being bought out"_. (A7.4.1/A7.1.18)
 
-@. These were also referred to in the AAAP's [Equalities Impact Assessment](http://35percent.org/img/EqualitiesImpactAssessment.pdf), which which made specific reference to the _"re-housing policy framework for leaseholders and tenants in November 2006"_:
+@. These were also referred to in the AAAP's [Equalities Impact Assessment](http://35percent.org/img/EqualitiesImpactAssessment.pdf), which made specific reference to the _"re-housing policy framework for leaseholders and tenants in November 2006"_:
 
 ![Extract from the AAAP's EqIA](http://35percent.org/img/spiritofcooperation.png)  
 
@@ -258,20 +262,20 @@ subtitle: "Aylesbury estate CPO public inquiry, Oct 2017"
 
 >"Some  Councils  offer  equivalent  exchange  whereby  a  leaseholder  swops his/her property for another of the same value.  This has been considered but the properties being regenerated in this Borough tend to be at the lowest level of the value scale. There are unlikely to be similar equivalents that aren’t part of regeneration schemes so such an offer would be hollow." ([OSC Committee report 10/03/14](http://moderngov.southwark.gov.uk/documents/s44932/Officer%20Report%20-%20Comparison%20of%20Discretionary%20Assistance%20Given%20to%20Resident%20Leaseholders.pdf))
 
-@. Given that the Acquiring Authority acknowledges that the compensation payable is insufficient for leaseholders to remain in the area. It follows that the rehousing options on offer are critical in determining whether or not leaseholders' human rights have been sufficiently safeguarded. In particular those rehousing options on offer at the time the AAAP was adopted (i.e. the like-for-like swap option subseqently withdrawn) and against which its Equalities Impact Assessment was assessed.
+@. Given that the Acquiring Authority acknowledges that the compensation payable is insufficient for leaseholders to remain in the area. It follows that the rehousing options on offer are critical in determining whether or not leaseholders' human rights have been sufficiently safeguarded. In particular those rehousing options against which the AAAP’s PSED was assessed (i.e. the like-for-like swap option) and which were subseqently withdrawn.
 
 ## Conclusion
 @. The Scheme underlying the Order fails to comply with the requirements of the AAAP and wider development plan.
 
-@. One of the key rehousing options and PSED mitigation measures that that the AAAP relied upon to satisfy its PSED requirement has been subsequently withdrawn. 
+@. One of the key rehousing options (PSED mitigation measures) that that the AAAP relied upon to satisfy its PSED requirement has been withdrawn. 
 
-@. The Scheme is not viable and therefore unlikely to be delivered in reasonable timeframe or in accordance with the requirements of the development plan. 
+@. The Scheme is not viable and therefore unlikely to be delivered within a reasonable timeframe or in accordance with the requirements of the development plan. 
 
 @. The Acquiring Authority concludes in paragraph 7.39 of its updated Statement of Case by claiming that the AAAP policies _"were supported by 82% of residents who attended the final exhibition of the plans"._ 
 
-@. The Objectors point out that the final exhibition of the plans (30/10/2008-02/11/2008) were attended by just 54 people, who were not necessarily all Aylesbury residents and only 46 of which completed a questionnaire. The 86% of 'residents' who supported the plans were thus from a sample of just 46 local residents.
+@. The Objectors point out that the final exhibition of the plans referred to (30/10/2008-02/11/2008) was attended by just 54 people, who were not necessarily all Aylesbury residents and only 46 of which completed a questionnaire. The 86% of 'residents' who supported the plans were thus from a sample of just 46 local residents.
 
-@. Given that the estate was home to 7,500 people and given that there is no information confirming how many of the 46 questionnaires were completed by Aylesbury residents. This claim cannot be used as reliable evidence that the majority of Aylesbury estate residents support the AAAP plans. The Objectors have shown how, in any event the Scheme as it is now proposed has made significant departures from the AAAP's plans.
+@. Given that the estate was home to 7,500 people and given that there is no information confirming how many of the 46 questionnaires were completed by Aylesbury residents. This cannot be used as reliable evidence that the majority of Aylesbury estate residents supported the AAAP plans. The Objectors have shown how, in any event the Scheme as it is now proposed has made significant departures from the AAAP's plans.
 
 @. In summary, the Acquiring Authority's decision to pursue compulsory purchase powers instead of negotiating with the Objectors is oppressive. The remaining leaseholders have shown themselves to be reasonable and dignified people who have continued to engage constructively. Their demands are reasonable: the Acquiring Authority should either replace their homes in a like-for-like swap for another of its properties elsewhere in the borough as per the originally adopted policy, or pay the market value for homes as determined by the independent RICS valuers that they have instructed.
 
