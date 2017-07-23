@@ -38,16 +38,17 @@ subtitle: "Aylesbury estate CPO public inquiry, Oct 2017"
 
 @. These numerous failures to meet with the AAAP's minimum policy requirements and those of the local development framework, are set out in detail by the 35% Campaign in their [witness evidence](http://35percent.org/letters/aylesbury-witness-evidence) and are relied upon but not be addressed in detail here.
 
-## Scheme is not viable and therefore not deliverable.
-@. There are three main factors which demonstrate that the Scheme is not viable:
+## The Scheme is not viable and therefore not deliverable.
+@. Paragraph 22 of the ODPM Circular 06/04 requires the Acquiring Authority to demonstrate that the Scheme underlying the Order is financially viable and therefore deliverable. 
+
+@. The Objectors submit that there are three main factors which demonstrate that the Scheme is not financially viable:
 
  1. The Scheme was not viable in the first place
  2. £180m of allocated government funding has been withdrawn since the AAAP was adopted
- 3. The government has cut the amount housing associations can charge for (social) rents and introduced a cap in Local Housing Allowance
-https://www.theguardian.com/housing-network/2012/aug/09/housing-benefit-caps-end-tenancies-in-london
+ 3. The [government has cut](https://www.theguardian.com/housing-network/2012/aug/09/housing-benefit-caps-end-tenancies-in-london) the amount housing associations can charge for (social) rents and introduced a cap in Local Housing Allowance
 
 ### The scheme was not viable in the first place
-@. The AAAP's Sustainability Assessment said:
+@. The AAAP's 2009 Sustainability Assessment said:
 
 >"Early financial modelling indicated that about 5000 homes would need to be provided on the footprint of the estate to make any redevelopment financially viable. All the options therefore were predicated around this figure."
 
@@ -57,9 +58,9 @@ https://www.theguardian.com/housing-network/2012/aug/09/housing-benefit-caps-end
 
 ![Page 92 of the [appendices](http://35percent.org/img/DraftAAAP_appendices.pdf) to the [draft AAAP](http://35percent.org/img/DraftAAAP.pdf)](http://35percent.org/img/DraftAAAP_appendices.png)
 
-@. The ability to be able to deliver an Area Action Plan is one of the government’s key tests on the “soundness” of the plan and a requirement that a plan meets these tests of soundness.
+@. The National Policy Planning Framework (NPPF) requires that Local Plans are viable and therefore deliverable (Para 174). This is one of the key tests in assessing the “soundness” of a Local Plan at an examination in public.
 
-@. The inspector at the examination in public of Southwark's AAAP, [flagged up](https://www.whatdotheyknow.com/request/352116/response/873296/attach/3/160926%20EIR%20FOI%20685920.pdf) the significant funding gap to the Council and her [final report](http://35percent.org/img/AAAP_inspectors_report.pdf) on the AAAP shows that the Council's solution was to arbitrarily slash the cost estimates, without providing any evidence base or justification for doing so. The £130m originally estimated for leasehold acquisitions of the circa 500 leasehold properties on the estate was slashed by half. There is no explanation as to why the Council slashed its estimate of the market value of leaseholders' homes by 50% overnight. 
+@. The inspector at the examination in public of Southwark's AAAP, [flagged up](https://www.whatdotheyknow.com/request/352116/response/873296/attach/3/160926%20EIR%20FOI%20685920.pdf) the significant funding gap to the Council and her [final report](http://35percent.org/img/AAAP_inspectors_report.pdf) on the AAAP shows that the Acquiring Authority's solution was to arbitrarily slash the cost estimates, without providing any evidence base or justification for doing so. The £130m originally estimated for leasehold acquisitions of the circa 500 leasehold properties on the estate was slashed by half. There is no justificaiton provided by the Acquiring Authority as to why its estimate of the market value of leaseholders' homes was reduced by 50% overnight. 
 
 ![[Table of Recommended Changes to AAAP (2009)](http://35percent.org/img/Table_of_Recommended_Changes.pdf) showing cost estimates slashed](http://35percent.org/img/Recommended_Changes.png)
 
@@ -68,20 +69,22 @@ https://www.theguardian.com/housing-network/2012/aug/09/housing-benefit-caps-end
 ![Extract from final adopted version of [Aylesbury Area Action Plan 2010](http://www.southwark.gov.uk/downloads/download/4444/area_action_plans) showing the funding gap](http://35percent.org/img/aaapfundinggap.png)
 
 ### £180m of central government funding was withdrawn from the Scheme post adoption of the AAAP
-@. The Acquiring Authority was expecting to cover the funding shortfall with government PFI funding and this is how the Area Action Plan was deemed sound at its Examination in Public. However, just under a year after the Area Action Plan was adopted, the government [withdrew](http://www.theguardian.com/society/2010/dec/26/cut-regeneration-tony-blair-housing) all PFI funding for the scheme. 
+@. The Acquiring Authority was expecting to cover the remaining £169m funding shortfall with government PFI funding and this satisfied the inspector at the Examination in Public. However, just under a year after the Area Action Plan was adopted, the government [withdrew](http://www.theguardian.com/society/2010/dec/26/cut-regeneration-tony-blair-housing) all PFI funding for the scheme. 
 
 @. The September 2011 board meeting minutes of the Aylesbury New Deal for Communities (by now renamed Creation Trust), confirmed that _“at the time of writing the AAAP each [affordable housing] unit was supported with £125k of funding, this has now been reduced to £25,000”_ [OCD24, para 2.4]
 
-@. At the previously inquiry NHHT claimed that it had 'applied' for central government funding from the Estate Regeneration Fund. Given that there is no mention of this in the Acquiring Authority's updated Statement of Case (check this?), the Objectors seek clarification as to whether NHHT's application was accepted and if so details of the funding awarded.
+@. At the previous inquiry NHHT claimed that it had 'applied' for central government funding from the Estate Regeneration Fund. Its updated Statement of Case also says that it has 'applied' for funding from the same programme. The Objectors seek clarification as to whether this is the same application (that has taken over 3 years to process) or a separate application, the first having been rejected. 
 
-@. It is understood that the only funding allocated to the scheme is that secured by NHHT for the FDS from the Mayor's current AHP funding programme for his new 'London Affordable Rent' tenure. This amounts to £60,000 funding per affordable dwelling and is still not even half of the original funding envisaged by the AAAP.
+@. It is understood that the only funding allocated to the Scheme, is that secured by NHHT for the FDS from the Mayor's current AHP funding programme for his new 'London Affordable Rent' tenure. This amounts to £60,000 funding per affordable dwelling and is still not even half of the original funding envisaged by the AAAP.
+
+@. Further, this tenure is Affordable Rent for regulatory purposes and conflicts with the AAAP requirement to provide social rent. The difference between the two tenures is outlined in further detail in the 35% Campaign's witness evidence.
 
 ### The government has reduced the social rent levels that housing associations can charge.
 @. In 2015, the government introduced reforms to the amount of rent housing associations can charge under social rented tenancies in its Housing & Planning Act, forcing them to reduce social rents by 1% per year.
 
 @. NHHT's 2016 financial statement confirmed that _"Following changes announced by the Government in July 2015, we paused our start on sites to reassess scheme viability and to review our blend of tenures to reflect Government priorities .. Starts on site slowed down as we paused to reappraise the tenure split of schemes following the social rent cuts announced in the Government’s summer budget."_
 
-@. In September the Acquiring Authority announced at a [Cabinet meeting](http://moderngov.southwark.gov.uk/documents/s63817/Report.Aylesbury%20Regeneration%20Delivery.pdf) that _"the impact of measures in the Housing and Planning Act have reduced the ability of NHHT’s Board to progress Phase 2 and Plot 18 at this stage"_. 
+@. In September the Acquiring Authority announced at a [Cabinet meeting](http://moderngov.southwark.gov.uk/documents/s63817/Report.Aylesbury%20Regeneration%20Delivery.pdf) that _"the impact of measures in the Housing and Planning Act have reduced the ability of NHHT’s Board to progress Phase 2 and Plot 18 at this stage"_ (para 8) and that "_due to the costs"_ and _"CPO delay"_ (para 12), NHHT was no longer willing to fund the demolition costs of the FDS that it was obliged to under the terms of the Development Partnership Agreement (DPA).
 
 ![Sep 2016 Cabinet report](http://35percent.org/img/sep2016cabinet.png)
 
@@ -99,7 +102,7 @@ https://www.theguardian.com/housing-network/2012/aug/09/housing-benefit-caps-end
 
 ![Extract from Moodys downgrading [announcement](http://35percent.org/img/nhhtmoodys.pdf)](http://35percent.org/img/nhhtmoodys.png)  
 
-@. NHHT's recently announced a 'mega' merger with Genesis housing association will exert additional pressure on NHHT as well as raise concerns that the differences in style and approach may affect board level decisions and commitment to the Scheme, especially in light of the viability issues.
+@. In July 2017, NHHT announced a 'mega' merger with Genesis housing association, which will exert additional pressure on NHHT as well as raise concerns that the differences in style and approach may affect board level decisions and commitment to the Scheme, especially in light of the viability issues.
 
 ## Failure to demonstrate Scheme is viable and therefore deliverable 
 @. Paragraph 16 (iii) of Appendix A of the 06/2004 Circular says(emphasis added):
@@ -152,7 +155,7 @@ https://www.theguardian.com/housing-network/2012/aug/09/housing-benefit-caps-end
 
 @. The Objectors request that the inquiry is provided with details of how many of these 35 have actually been provided and used to house existing Aylesbury secure tenants? The DPA also says that NHHT will purchase a number of street properties and offer them to Aylesbury tenants at 'target rent'. According to the DPA 3 of these should have been provided by 2017. The Acquiring Authority is requested to provide details confirming that this provision has also been fulfilled.
 
-@. NHHT's commitment to the Scheme is further brought into question when the Acquiring Authority declared at a [Cabinet meeting](http://moderngov.southwark.gov.uk/documents/s63817/Report.Aylesbury%20Regeneration%20Delivery.pdf) in September 2016, that "_due to the costs"_ and _"CPO delay"_, NHHT was no longer willing to continue underwriting the ongoing costs of the scheme, i.e the demolition costs for the FDS and costs of design plus preparing the planning applications for the two subsequent phases of development - as per its obligations under the DPA: 
+@. NHHT's commitment to the Scheme is further brought into question when the Acquiring Authority declared at a [Cabinet meeting](http://moderngov.southwark.gov.uk/documents/s63817/Report.Aylesbury%20Regeneration%20Delivery.pdf) in September 2016, that _"the impact of measures in the Housing and Planning Act have reduced the ability of NHHT’s Board to progress Phase 2 and Plot 18 at this stage"_ (para 8). It went on to add that "_due to the costs"_ and _"CPO delay"_ (para 12), NHHT was no longer willing to fund the demolition costs for the FDS. 
 
 ![Extract from Sep 2016 Cabinet report](http://35percent.org/img/nhhtunderwrite.png)
 
@@ -164,7 +167,7 @@ https://www.theguardian.com/housing-network/2012/aug/09/housing-benefit-caps-end
 
 @. The Acquiring Authority may argue that it has an 'overage agreement' in the DPA, meaning that it receives a percentage share of NHHT's 'overage' profit. However, such agreements bring notoriously uncertain results, as demonstrated by the Acquiring Authority's regeneration of the Silwood estate in Bermondsey that it redeveloped in partnership with NHHT. A similar agreement here resulted in an 'overage' payment of just £546,047 to the Acquiring Authority. An [FOI request](https://www.whatdotheyknow.com/request/silwood_estate_regeneration_site/new) shows that there was disagreement between the parties about the amount of overage paid with the Acquiring Authority arguing that more overage was due.
 
-@. In total, Southwark agreed to underwrite £26.5m of the ongoing costs of progressing the scheme (over the next 3 years alone) and that NHHT was originally required to fund under the terms of the Development Partnership Agreement. These comprise:
+@. In total, Southwark agreed to fund £26.5m of the ongoing costs of progressing the scheme (over the next 3 years alone) that NHHT was originally required to fund under the terms of the DPA. These comprise:
 
 ![](http://35percent.org/img/dpafunding.png)
 
@@ -176,7 +179,7 @@ https://www.theguardian.com/housing-network/2012/aug/09/housing-benefit-caps-end
 
 ![Extract from DPA](http://35percent.org/img/democostsdpa.png)
 
-@. These costs are in addition to the Council’s other costs that it has already allocated to the scheme to pay for rehousing of tenants and buy back of leaseholders. In total the Council is now forecast to spend £76.7m (see para 8.14 of the AA's updated SoC) over the next five years on progressing decant and demolition, plus an additional £32.4m on the new community facilities (that were supposed to be funded by the infrastructure tarif).
+@. These costs are in addition to the Council’s other costs that it has already allocated to the scheme to pay for rehousing of tenants and buy back of leaseholders. In total the Council is now forecast to spend £76.7m  over the next five years on progressing decant and demolition, plus an additional £32.4m on the new community facilities that were supposed to be funded by the Acquiring Authority's delivery partner(s). (see para 8.14 of the AA's updated Statement of Case)
 
 @. At the previous inquiry it was established that the Acquring Authority had already spent £46m progressing the Scheme up to 2014.
 
@@ -275,6 +278,7 @@ In its 10 May letter to the Acquiring Authority, the DCLG wrote: _"It is importa
  * Unredacted copies of all deeds of variation to the 28 April 2014 Development Partnership Agreement.
  * Unredacted copy of the closed 20 Sep 2016 Cabinet decision report, which agreed funding significant funding changes with NHHT.
  * Minutes from the NHHT board meeting (referred to in the Sep 2016 Cabinet report) which decided not to continue funding with the Scheme.
+ * Full copy of NHHT's bid for funding from the GLA's Affordable Homes Programme in respect of the FDS including details of 'Benchmark Rent Levels' for any 'London Affordable Rent' homes funded by this programme.
  
 ## Further docs for inclusion in core bundle
  * Submit copy of the [2009 Leaseholders Toolkit](http://35percent.org/img/ToolkitAylesburyLeaseholders2009.pdf) showing the like-for-like property swap option.
@@ -289,11 +293,11 @@ In its 10 May letter to the Acquiring Authority, the DCLG wrote: _"It is importa
 ## Conclusion
 @. The Acquiring Authority concludes in paragraph 7.39 of its updated Statement of Case by claiming that the AAAP policies _"were supported by 82% of residents who attended the final exhibition of the plans"._ 
 
-@. The Objectors point out that the final exhibition of the plans (30/10/2008-02/11/2008) were attended by just 54 people, who were not necessarily all Aylesbury residents and only 46 of which completed a questionnaire. The 86% who supported the plans were thus from a sample of 46 people - not very representative for an estate comprising 7,500 residents. 
+@. The Objectors point out that the final exhibition of the plans (30/10/2008-02/11/2008) were attended by just 54 people, who were not necessarily all Aylesbury residents and only 46 of which completed a questionnaire. The 86% of 'residents' who supported the plans were thus from a sample of just 46 local residents.
 
-@. The Objectors have shown above how, in any event the Scheme as it is now proposed fails to comply with the AAAP's requirements and therefore fails to _"reflect the ovrall aspiration for a balanced community where people would choose to live"_ claimed in paragraph 7.39 of the Acquiring Authority's updated Statement of Case. 
+@. Given that the estate was home to 7,500 people and given that there is no information confirming how many of the 46 questionnaires were completed by Aylesbury residents. This claim cannot be used as reliable evidence that the majority of Aylesbury estate residents support the AAAP plans. The Objectors have shown how, in any event the Scheme as it is now proposed has made significant departures from the AAAP's plans.
 
-@. In addition, the Acquiring Authority's decision to pursue compulsory purchase powers instead of negotiating with the Objectors is oppressive. The remaining leaseholders have shown themselves to be reasonable and dignified people who have continued to engage constructively. Their demands are reasonable: the Acquiring Authority should either replace their homes in a like-for-like swap for another of its properties elsewhere in the borough as per the originally adopted policy, or pay the market value for homes as determined by the independent RICS valuers that they have instructed.
+@. In summary, the Acquiring Authority's decision to pursue compulsory purchase powers instead of negotiating with the Objectors is oppressive. The remaining leaseholders have shown themselves to be reasonable and dignified people who have continued to engage constructively. Their demands are reasonable: the Acquiring Authority should either replace their homes in a like-for-like swap for another of its properties elsewhere in the borough as per the originally adopted policy, or pay the market value for homes as determined by the independent RICS valuers that they have instructed.
 
 @. RICS valuers are bound by a code of professional conduct meaning they have to value a property according to a strict set of criteria, they cannot demand 'ransom value' as the Acquiring Authority has intimated. In any event, the fact that Objectors are willing to accept a like-for-like swap for another council-owned property elsewhere in the borough, shows that their demands are reasonable and based on the simple request of wanting to remain 100% homeowners living in the area. 
 
