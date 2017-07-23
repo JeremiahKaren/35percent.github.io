@@ -197,17 +197,25 @@ https://www.theguardian.com/housing-network/2012/aug/09/housing-benefit-caps-end
 ## Breach of Public Sector Equalities Duty (PSED) 
 @. In paragraph 4.8 of its updated Statement of Case, the Acquiring Authority claims that _"All resident leaseholders from the Order Land were offered a new apartment within the new development at Site 1a. One leaseholder accepted that offer and qualified for a secure tenancy within that development."_
 
-@. The reason that only one of the leaseholders accepted the offer of a new apartment on Site 1a is because being rehoused as a tenant is subject to strict means testing and only offered to those who cannot afford a minimum 25% share in a shared ownership property....; should the leaseholder actually qualify for shared equity rather than shared ownership under the Acquring Authority's 'cascade' assessment basis, then they would have been subject to a shared equity lease with the site freeholder London & Quadrant, which doesn't offer full uplift to shared equity owners. 
+@. The reason that only one of the leaseholders accepted the offer of a new apartment on Site 1a is because the shared equity lease with Site 1a freeholder London & Quadrant, doesn't offer full uplift to shared equity owners. 
 
 @. This means that when the leaseholder comes to sell the property or it is sold upon decease, then they don't receive the full capital uplift of their share. Indeed, for 2-bed properties there is no capital uplift whatsoever [see details of L&R lease here](https://halag.files.wordpress.com/2015/11/londonquadrant_sharedequity.pdf)
 
-@. In his [evidence](http://crappistmartin.github.io/images/Mark_Maginn.pdf) to the site 7 CPO inquiry, Mark Maginn explains that leaseholders are assessed for rehousing on a 'cascade' assessment basis; i.e. they are assessed to see if they can afford shared ownership before being considered for shared equity or other rehousing options. Given that shared ownership is much less attractive and more costly than shared equity, it is no surprise that only circa 10 of the (circa 110?) leaseholders decanted to date have qualified for and taken up shared equity.
+@. In his [evidence](http://crappistmartin.github.io/images/Mark_Maginn.pdf) to the site 7 CPO inquiry, Mark Maginn explains that leaseholders are assessed for rehousing on a 'cascade' assessment basis;
 
-2006 Leaseholder Policy (and handbook) said nothing about a 'cascade assessment system' - it implied that leaseholders would be able to choose from options. 
+>"Homeowners that are assessed as being able to afford less than 25% to less than 100% of the costs of home ownership are recommended for shared ownership (purchase of vacant property from Council owned stock)." (para 6.8)
+
+> "Homeowners that are assessed as being able to afford less than 25% of the costs of home ownership are recommended for a Council/RSL tenancy." (para 6.7)
+
+@. Given the strict qualifying criteria, it is no surprise that only one leaseholder from the Order land qualified for a tenancy in a new home on completed phase 1a. 
 
 @. The AAAP said that there are a 'range of options for leaseholders whose interests are being bought out'. (A7.4.1/A7.1.18)
 
-@. These were also referred to in the [2009 EqIA which accommpanied the AAAP](http://35percent.org/img/EqualitiesImpactAssessment.pdf), which made specific reference to the _"re-housing policy framework for leaseholders and tenants in November 2006"_.
+@.  which made specific reference to the _"re-housing policy framework for leaseholders and tenants in November 2006"_.
+
+@. These were also referred to in the AAAP's [Equalities Impact Assessment](http://35percent.org/img/EqualitiesImpactAssessment.pdf), which specifically references the November 2006 rehousing policy for leaseholders:
+
+![Extract from the AAAP's EqIA](http://35percent.org/img/spiritofcooperation.png)  
 
 @. The AAAP's EqIA therefore relied directly upon the mitigation measures in place at the time for leaseholders- i.e. the rehousing options enshrined in the Council's [Nov 2006 rehousing policy](http://www.southwark.gov.uk/download/downloads/id/1850/executive_report).
 
@@ -217,26 +225,22 @@ https://www.theguardian.com/housing-network/2012/aug/09/housing-benefit-caps-end
 
 ![Extract from the [Leaseholders Handbook](https://www.whatdotheyknow.com/request/331856/response/818864/attach/3/64145%20RedR%20Homeowner.pdf)](http://35percent.org/img/aylesburyleaseholdershandbookoptions.png)
 
-@. The handbook gives a detailed description of the property swap policy available to leaseholders:
+@. The handbook goes further and gives a detailed description of the property swap (comparative value transaction) option available to leaseholders:
 
 ![Extract from the [Leaseholders Handbook](https://www.whatdotheyknow.com/request/331856/response/818864/attach/3/64145%20RedR%20Homeowner.pdf)](http://35percent.org/img/aylesburyhandbookswap.png)
 
-@. The EqIA specifically references the 2006 rehousing policy for leaseholders which it says offers leaseholders the _'widest possible choice of rehousing opportunities'_:
+@. This option was subsequently withdrawn following adoption of the AAAP (Cabinet item 9, 14 Dec 2010). In his [evidence](http://crappistmartin.github.io/images/Mark_Maginn.pdf) to the site 7 CPO, the Acquiring Authority's Mark Maginn exlained that the option was withdrawn because it was 'unworkable and restricted choice' (para 3.4).
 
-![Extract from the AAAP's EqIA](http://35percent.org/img/spiritofcooperation.png)  
+@. The Objectors submit that the Scheme no longer complies with the PSED because one of the key rehousing options (PSED mitigation measures) set out in the EqIA which underlies the AAAP has been withdrawn. Indeed it was the only rehousing option that would have enabled leaseholders to remain 100% homeowners in the borough - i.e. not impoverished by the shared ownership options. 
 
-![Exract from the AAAP's EqIA](http://35percent.org/img/widestpossiblechoice.png)  
-
-@. Given that the 'property swap' like-for-like ('comparative value transaction') option was subsequently withdrawn in 2010 (Cabinet item 9, 14 Dec 2010), it can be argued that the scheme doesn't comply with the PSED because one of the mitigation measures set out in the EqIA which underlies the AAAP has been withdrawn. Indeed it was the only mitigation measure that would have enabled leaseholders to remain 100% homeowners in the borough - i.e. not impoverished by the shared ownership options. 
-
-@. Inspector Coffey said that leaseholders are left with two bleak options: moving out of the area or remaining but being impoverished. Like-for-like swap was the only option that would have enabled leaseholders to remain in the area without being impoverished. *We will need to show that the shared equity deal impoverishes leaseholders despite change in the £16k policy. (Investigate service charges etc)*
+@. Inspector Coffey said in her report that leaseholders are left with two bleak options: moving out of the area or remaining but being impoverished. The Objectors submit that the like-for-like property swap was the only option that would have enabled leaseholders to remain in the area without being impoverished. *We will need to show that the shared equity deal impoverishes leaseholders despite change in the £16k policy. (Investigate service charges etc)*
 
 ## Compensation issues
 @. The Acquiring Authority has argued that the Objectors' argument that leaseholders are being forced out of the area because the compensation receive is insufficent, is a valuation issue which should be dealt with instead by the Upper Tribunal. 
 
 @. However, the Acquiring Authority openly acknowledges that the compensation levels are insufficient:
 
->"It is acknowledged that the market value compensation for properties on the Estate is sometimes insufficient to buy outright a comparable non-Estate property in the area" (update SoC, para 5.5)
+>"It is acknowledged that the market value compensation for properties on the Estate is sometimes insufficient to buy outright a comparable non-estate property in the area" (update SoC, para 5.5)
 
 >"Addressing the needs of longstanding resident leaseholders is important as they have particular difficulties in finding new homes, as in general the value of their property is lower than other similar sized properties in the borough." (Paragraph 4.2.1.12 of the DPA Business Plan)
 
