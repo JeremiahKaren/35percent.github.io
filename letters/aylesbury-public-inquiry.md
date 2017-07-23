@@ -203,11 +203,13 @@ https://www.theguardian.com/housing-network/2012/aug/09/housing-benefit-caps-end
 
 @. In his [evidence](http://crappistmartin.github.io/images/Mark_Maginn.pdf) to the site 7 CPO inquiry, Mark Maginn explains that leaseholders are assessed for rehousing on a 'cascade' assessment basis;
 
+>"The purpose of the financial assessment is to determine which category of assistance a homeowner may qualify for .. Assistance accordingly works as a cascade." (paras 4.4/4.5)
+
 >"Homeowners that are assessed as being able to afford less than 25% to less than 100% of the costs of home ownership are recommended for shared ownership (purchase of vacant property from Council owned stock)." (para 6.8)
 
 > "Homeowners that are assessed as being able to afford less than 25% of the costs of home ownership are recommended for a Council/RSL tenancy." (para 6.7)
 
-@. Given the strict qualifying criteria, it is no surprise that only one leaseholder from the Order land qualified for a tenancy in a new home on completed phase 1a. 
+@. Given that  strict 'cascade' qualifying criteria, it is no surprise that only one leaseholder from the Order land qualified for a tenancy in a new home on completed phase 1a. 
 
 @. The AAAP said that there are a 'range of options for leaseholders whose interests are being bought out'. (A7.4.1/A7.1.18)
 
