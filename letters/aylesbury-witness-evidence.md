@@ -36,6 +36,7 @@ subtitle: "Aylesbury estate CPO public inquiry, Oct 2017"
  * Monitoring and compliance 
  * Infrastructure/public sector funding requirements
  * AAAP rehousing requirements
+ * Requirements of the Mayor's [Equality and Diversity SPG](https://www.london.gov.uk/file/8173/download?token=1Svk6LBu)
 
 ## Breach of housing uplift requirements
 @. The AAAP says:
@@ -533,13 +534,15 @@ Both the consented FDS and Outline plans fall well short of this requirement - (
 ![[Planning committee report](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!Vbu5QpckfYCnJrulzlWyuQ%3d%3d!%7d%7d%7d) for the outline application](http://35percent.org/img/outlinecommunityspace.png)
 
 ## Breach of infrastructure funding requirements
-@. Page 75 of the AAAP describes infrastructure funding. It says the developer will pay a tariff which will fund community facilities like the health centre and other community facilities. However, we now know that the Council is paying for the £35m cost of them mainly from its own funds.
+ @. Page 75 of the AAAP describes infrastructure funding. It says the developer will pay a tariff which will fund community facilities like the health centre and other community facilities. However, we now know that the Council is paying for the £35m cost of them mainly from its own funds.
 
 @. [This press release](http://www.southwark.gov.uk/news/2017/feb/a-35m-investment-into-new-community-facilities-at-heart-of-one-of-london-s-biggest-regeneration-projects-has-been-approved) confirms that the Acquiring Authority is footing £23m of the £35m required from its capital budget. The DPA confirms that the remainder is being sourced from s106 contributions from other developments in the borough plus a £9m contribution from NHHT.
 
 @. Paragraphs 7.8 and 7.9 of the Acquiring Authority's updated Statement of Case acknowledges that NHHT taking role of delivery partner is a change to Policy D2 of the AAAP. Are NHHT meeting full financial obligations under Policy D2?  A table of expected payments, totalling c £50m, is given at A7.1.40 AAP pg 174; it includes £1.47m for green fingers and £12m for improvements to Burgess Park. There is nothing in the DPA obliging NHHT to make a contribution towards improving Burgess Park. (xx - more research required)
 
+## Breach of requirements of Mayor's new [Equality and Diversity SPG](https://www.london.gov.uk/file/8173/download?token=1Svk6LBu)
 
+To do: read requirements of the SPG.
 
 
 
