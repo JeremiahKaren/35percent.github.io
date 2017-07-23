@@ -46,6 +46,7 @@ subtitle: "Aylesbury estate CPO public inquiry, Oct 2017"
  1. The Scheme was not viable in the first place
  2. £180m of allocated government funding has been withdrawn since the AAAP was adopted
  3. The [government has cut](https://www.theguardian.com/housing-network/2012/aug/09/housing-benefit-caps-end-tenancies-in-london) the amount housing associations can charge for (social) rents and introduced a cap in Local Housing Allowance
+ 4. Construction costs have been spiralled 10% annually since the Scheme was modelled and DPA signed in 2014
 
 ### The scheme was not viable in the first place
 @. The AAAP's 2009 Sustainability Assessment said:
@@ -103,6 +104,12 @@ subtitle: "Aylesbury estate CPO public inquiry, Oct 2017"
 ![Extract from Moodys downgrading [announcement](http://35percent.org/img/nhhtmoodys.pdf)](http://35percent.org/img/nhhtmoodys.png)  
 
 @. In July 2017, NHHT announced a 'mega' merger with Genesis housing association, which will exert additional pressure on NHHT as well as raise concerns that the differences in style and approach may affect board level decisions and commitment to the Scheme, especially in light of the viability issues.
+
+## Construction costs have spiralled since DPA financial modelling
+@. [This article in the Financial Times](http://35percent.org/img/ft23june2016.pdf) confirms that construction costs in London have been spiralling since the DPA was agreed in April 2014, by as much as 10% per year. 
+
+@. The [viability note](http://35percent.org/img/document.pdf) disclosed under FOI in 2014, shows that the estimated construction costs for the FDS are £145m. This means an extra scheme cost of up to £50m since the viability of the scheme was originally modelled. 
+
 
 ## Failure to demonstrate Scheme is viable and therefore deliverable 
 @. Paragraph 16 (iii) of Appendix A of the 06/2004 Circular says(emphasis added):
@@ -175,7 +182,7 @@ subtitle: "Aylesbury estate CPO public inquiry, Oct 2017"
 > * £0.8m for the demolition of Plot 18
 > * £2m to underwrite the cost of Plot 18’s planning application
 > * £2m to underwrite the design fees for phase 2
-> * £5.5m to construct the replacement facility for Ellison House (check that the DPA says NHHT should pay for this?)
+> * £5.5m to construct the replacement facility for Ellison House
 
 ![Extract from DPA](http://35percent.org/img/democostsdpa.png)
 
@@ -289,6 +296,8 @@ In its 10 May letter to the Acquiring Authority, the DCLG wrote: _"It is importa
  * [This Guardian article](https://www.theguardian.com/society/2017/apr/12/mps-call-for-sweeping-changes-to-housing-association-regulation)
  * [This article](https://redbrickblog.wordpress.com/2017/01/07/one-article-does-not-wipe-the-slate-clean/) by a former NHHT board member
  * [This Guardian article](https://www.theguardian.com/society/2017/apr/11/housing-associations-face-storm-of-complaints-over-new-build-homes)
+ * [This article in the Financial Times](http://35percent.org/img/ft23june2016.pdf)
+ * The [viability note](http://35percent.org/img/document.pdf) disclosed under FOI in 2014
 
 ## Conclusion
 @. The Acquiring Authority concludes in paragraph 7.39 of its updated Statement of Case by claiming that the AAAP policies _"were supported by 82% of residents who attended the final exhibition of the plans"._ 
