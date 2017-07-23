@@ -36,7 +36,7 @@ subtitle: "Aylesbury estate CPO public inquiry, Oct 2017"
  * Monitoring and compliance 
  * Infrastructure/public sector funding requirements
 
-@. These numerous failures to meet with the AAAP's minimum policy requirements and those of the local development framework, are set out in detail by the 35% Campaign in their witness evidence and are relied upon, but in order to avoid duplication will not be addressed in detail here.
+@. These numerous failures to meet with the AAAP's minimum policy requirements and those of the local development framework, are set out in detail by the 35% Campaign in their [witness evidence](http://35percent.org/letters/aylesbury-witness-evidence) and are relied upon but not be addressed in detail here.
 
 ## Scheme is not viable and therefore not deliverable.
 @. There are three main factors which demonstrate that the Scheme is not viable:
@@ -182,23 +182,17 @@ https://www.theguardian.com/housing-network/2012/aug/09/housing-benefit-caps-end
 
 @. These significant funding requirements were not envisaged at the time that the Acquiring Authority made the decision to progress the scheme. In the Sep 27 2005 report to the Executive, members were given costing estimates showing that the redevelopment would be more or less cost neutral to the Acquiring Authority over the duration of the Scheme. 
 
-@. As a result of having to step in and fund the scheme following NHHT's refusal to continue underwriting it, the Acquiring Authority has had to make sweeping cuts to front line services. This year alone saw [cuts](http://moderngov.southwark.gov.uk/documents/s59115/Policy%20and%20Resources%20Strategy%20201617%20to%20201819.pdf) to the Adult Care and Education budget of £39m.
-
-@. This is in addition to the care homes and other council-owned facilities that are being sold to help fill the hole in the Acquiring Authority's budget.
-
-![Care homes sold off under budget cuts](http://35percent.org/img/carehomesshutdown.jpg)
-
-@. In total, the Acquiring Authority is required to absorb around £100m of central government budget cuts between now and 2019/20. In addition, it has also [estimated](https://www.southwarknews.co.uk/news/installing-sprinklers-southwarks-council-housing-cost-100m/) a cost of £100m to install sprinklers in its tower blocks following safety concerns arising after the Grenfell Tower disaster.
-
 @. Compulsory purchase orders issued under Section 226(1)(a) of the TCPA are subject to S226(1A) which sets out the "wellbeing" test. This says that the Acquiring authority must not exercise the power unless it thinks that the proposed development, redevelopment or improvement is likely to achieve the promotion or improvement of the economic, social or environmental well being for its area.
 
 @. Circular 06/2004 makes it clear that the exercise of CPO powers pursuant to this section, in terms of the benefit (or disbenefits) to be derived, need not be restricted to the land the subject of the proposed order.
 
 @. The Objectors submit that the impact of the Scheme on the Acquiring Authority's Housing Investment Programme (HIP) budget (as a result of funding commitments not envisaged by the AAAP), should be considered as part of the 'wellbeing' test in relation to the order; i.e. that confirmation of the order would result in harm to the social and environmental wellbeing of 5,000 households in the wider area, whose homes do not meet minimum Decent Homes Standards (DHS) and will remain so because funding set aside for their refurbishment has been diverted to pay for demolition of the FDS - as a result of NHHT's refusal to continue demolition funding.
 
-@. The Objectors also submit that Acquiring Authority's Sep [2016 Cabinet decision](http://moderngov.southwark.gov.uk/documents/s63817/Report.Aylesbury%20Regeneration%20Delivery.pdf) to deviate from the terms of the DPA and redirect £21m of funding to the Scheme, failed to consider the resulting impact on protected groups. 
+@. A further impact of the drawing down funding from the HIP will result in there being less funding available for the [estimated](https://www.southwarknews.co.uk/news/installing-sprinklers-southwarks-council-housing-cost-100m/) cost of £100m to install sprinklers in the Acquiring Authority's tower blocks, recommended by a fire safety review following the Grenfell disaster.
 
-@. Paragraph 18 of the Cabinet report acknowledges that _"In bringing forward this funding from the HRA, the council recognises that there will be some knock-on impact on other housing investment projects."_ It does not consider whether this 'knock-on impact on other housing investment projects' falls disproportionately on any protected groups, i.e. those 5,000+ households whose homes will remain substandard for longer as a result. 
+@. The Objectors submit that Acquiring Authority's Sep [2016 Cabinet decision](http://moderngov.southwark.gov.uk/documents/s63817/Report.Aylesbury%20Regeneration%20Delivery.pdf) to deviate from the terms of the DPA and redirect £21m of funding to the Scheme, failed in its PSED duty to consider the resulting impact on protected groups. 
+
+@. Paragraph 18 of the Cabinet report acknowledges that _"In bringing forward this funding from the HRA, the council recognises that there will be some knock-on impact on other housing investment projects."_ It does not consider whether this 'knock-on impact on other housing investment projects' falls disproportionately on any protected groups, i.e. those 5,000+ households whose homes will remain substandard for longer as a result, or residents in tower blocks whose lives will remain at risk because the Acquiring Authority is unable to fund fire safety measures. 
 
 ## Breach of Public Sector Equalities Duty (PSED) 
 @. In paragraph 4.8 of its updated Statement of Case, the Acquiring Authority claims that _"All resident leaseholders from the Order Land were offered a new apartment within the new development at Site 1a. One leaseholder accepted that offer and qualified for a secure tenancy within that development."_
@@ -211,10 +205,15 @@ https://www.theguardian.com/housing-network/2012/aug/09/housing-benefit-caps-end
 
 2006 Leaseholder Policy (and handbook) said nothing about a 'cascade assessment system' - it implied that leaseholders would be able to choose from options. 
 
-@. The AAAP said there will be a 'range of options to enable leaseholders to stay in area, buy into new scheme etc..'
+@. The AAAP said that there are a 'range of options for leaseholders whose interests are being bought out'. (A7.4.1/A7.1.18)
 
-@. This was discussed in more detail in the Equalities Assessment conducted in conjunction with the AAAP.
-(the [2009 EqIA which accommpanied the AAAP](http://35percent.org/img/EqualitiesImpactAssessment.pdf)), relied upon the mitigation measures in place at the time for leaseholders- i.e. the rehousing options enshrined in the Council's [2006 rehousing policy](http://www.southwark.gov.uk/download/downloads/id/1850/executive_report) which included the like-for-like 'propery swap' for leaseholders. The 2006 policy and the Council's [Handbook for leaseholders](https://www.whatdotheyknow.com/request/331856/response/818864/attach/3/64145%20RedR%20Homeowner.pdf) clearly state the 'property swap' as one of the available rehousing options:
+@. These were also referred to in the [2009 EqIA which accommpanied the AAAP](http://35percent.org/img/EqualitiesImpactAssessment.pdf), which made specific reference to the _"re-housing policy framework for leaseholders and tenants in November 2006"_.
+
+@. The AAAP's EqIA therefore relied directly upon the mitigation measures in place at the time for leaseholders- i.e. the rehousing options enshrined in the Council's [Nov 2006 rehousing policy](http://www.southwark.gov.uk/download/downloads/id/1850/executive_report).
+
+@. The Nov 2006 rehousing policy included among its options for leaseholders, a like-for-like 'propery swap' for leaseholders (option D). This would involve a direct exchange for another council-owned property elsewhere in the borough at no financial cost to the leaseholder. 
+
+@. The 2006 policy and the Council's [Handbook for leaseholders](https://www.whatdotheyknow.com/request/331856/response/818864/attach/3/64145%20RedR%20Homeowner.pdf) clearly states the 'property swap' as one of the available rehousing options:
 
 ![Extract from the [Leaseholders Handbook](https://www.whatdotheyknow.com/request/331856/response/818864/attach/3/64145%20RedR%20Homeowner.pdf)](http://35percent.org/img/aylesburyleaseholdershandbookoptions.png)
 
@@ -228,7 +227,7 @@ https://www.theguardian.com/housing-network/2012/aug/09/housing-benefit-caps-end
 
 ![Exract from the AAAP's EqIA](http://35percent.org/img/widestpossiblechoice.png)  
 
-@. Given that the 'property swap' option was subsequently withdrawn in 2010, it can be argued that the scheme doesn't comply with the PSED because one of the mitigation measures set out in the EqIA which underlies the AAAP has been withdrawn. Indeed it was the only mitigation measure that would have enabled leaseholders to remain 100% homeowners in the borough - i.e. not impoverished by the shared ownership options. 
+@. Given that the 'property swap' like-for-like ('comparative value transaction') option was subsequently withdrawn in 2010 (Cabinet item 9, 14 Dec 2010), it can be argued that the scheme doesn't comply with the PSED because one of the mitigation measures set out in the EqIA which underlies the AAAP has been withdrawn. Indeed it was the only mitigation measure that would have enabled leaseholders to remain 100% homeowners in the borough - i.e. not impoverished by the shared ownership options. 
 
 @. Inspector Coffey said that leaseholders are left with two bleak options: moving out of the area or remaining but being impoverished. Like-for-like swap was the only option that would have enabled leaseholders to remain in the area without being impoverished. *We will need to show that the shared equity deal impoverishes leaseholders despite change in the £16k policy. (Investigate service charges etc)*
 
