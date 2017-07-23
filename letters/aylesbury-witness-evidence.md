@@ -41,13 +41,11 @@ subtitle: "Aylesbury estate CPO public inquiry, Oct 2017"
 
 >"3.1.4 The London Plan’s requirement for Southwark is 16,300 new homes by 2016/2017. The AAP will deliver about 1,450 extra homes to contribute towards this target."
 
-The AAAP baseline of existing homes in the action area core is 2,758. The requirement is therefore for the delivery of 4,208 new homes to be buit in the action area core. Notting Hill's planning consent for the FDS and remaining phases requires only 2,580 number of new homes to be built (830 on the FDS and 1700 on the outline).
+@. The AAAP baseline of existing homes in the action area core is stated as 2,758. The AAAP requires 4,208 new homes to be buit in the action area core. NHHT's planning consent for the FDS and remaining phases requires only 2,580 number of new homes to be built (830 on the FDS and 1700 on the outline).
 
-@. According to Appendix 5 of the AAAP, to deliver the 4,208 homes, a requirement of 425 new homes needed to have been delivered on completed phases 1a/site 7, but only 408 have been provided. On the remaining FDS and outline scheme 3,566 new homes are required by the AAAP. However, planning consent for the FDS and outline scheme only requires 2,530.
+@. According to Appendix 5 of the AAAP, to deliver the 4,208 homes, a requirement of 425 new homes needed to have been delivered on completed phases 1a/site 7, but only 408 have been provided. 3,566 new homes are required by the AAAP on the remaining FDS and outline schemes combined. 
 
-@. The Outline planning application sought consent to build a *minimum* of 1,700 new homes and *maximum* of 2,745 across the outline Scheme. It is understood that some flexibility may be required in an outline application, but there is no explanation as to why NHHT required such a significant amount of flexibility (1000 homes). The Outline application for the neighbouring Heygate estate regeneration (2,704 new homes) gave a flexibility between min and max provision of just 200 homes. This is a difference of 7.4% variable on the Heygate scheme, compared with a 36.4% variable on the Aylesbury scheme.
-
-@. The minimum specification of 1,700 homes is well below the AAAP requirement of 2,898 homes across the Outline phases and would result in the provision of just 2,948 new homes across all phases (1,700 plus 408 on completed phases plus 840 on FDS) - well short of the 4,200 required and an uplift of just 200 homes on the estate baseline[^2]. 
+@. NHHT's planning applications for these sites proposed just 830 units on the FDS and 1,700 on the Outline site totalling 2,530 homes - a significant shortfall of over 1,000 homes. Just 1,270 of the 2,530 would be affordable, which added to the 210 provided on completed phase 1a/site 7 would result in just 1,480 affordable homes built on the redeveloped estate. This falls well short of the AAAP's requirement for at least 2,100 new affordable homes and the GLA's baseline of 2,402 social rented homes on the Aylesbury estate.
 
 |Phase|AAAP reqs.|Consented units|Shortfall|
 |---|---|---|---|
@@ -56,38 +54,31 @@ The AAAP baseline of existing homes in the action area core is 2,758. The requir
 |Outline|2,898|1,700|1,198|
 |Total|4,208|2,938|1,270|
 
-@. The shortfall between the minimum number of homes guaranteed in the planning consent for remaining outline phases and the number required by the AAAP is much greater. Given that the FDS Scheme was approved in conjunction with the outline phases and shares the same section 106 agreement, the outline Scheme is inseperable from the FDS Scheme.
+@. The GLA blocked the proposals in his [stage I response](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!izsWJ9%2fRx3xk24MB9MvTtw%3d%3d!%7d%7d%7d), because _"the proposed net loss of affordable housing does not comply with London Plan policy"_. (para 13)
 
-@. If the order is confirmed then there is nothing preventing NHHT delivering the Scheme according to the minimum specification, thereby failing to comply with key objective AAAP (Policy BH1 Increasing the Number of Homes). 
+@. The Acquiring Authority sought to address this shortcoming by agreeing with NHHT to set a minimum requirement for the number of affordable homes to be provided such that there would be no net loss of affordable housing. Despite the London Plan specifying that net loss should be calculated in terms of **floorspace**, the Acquiring Authority decided to use **habitable rooms** for its calculations instead. 
 
-## Net loss of affordable housing requirements
-@. The [planning committee report](http://pl anbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!Vbu5QpckfYCnJrulzlWyuQ%3d%3d!%7d%7d%7d) for the Outline Scheme acknowledges that if NHHT builds to the *minimum* specification, then _"the outline minimum scenario would result in a net loss of -559 affordable dwellings or -1542 affordable habitable rooms"_ (para. 98). It acknowledges that this would fail to comply with the London Plan requirements on net loss of affordable housing and the AAAP's requirement that there would only be a small net loss of affordable housing (150 dwellings). It will also result in the provision of just 1,634 affordable dwellings (210 in the completed phases, plus 560 in the revised FDS application, plus 864 affordable units in the consented Outline minimum specification). This falls well short of the 2,100 affordable housing dwellings required by the AAAP: 
+@. The AA also chose a different baseline than the one in the GLA's stage I report. It selected a May 2008 baseline for the calculation which showed 6,887 social rented habitable rooms as the baseline (para 89 of 14/AP/3844 OR). The Mayor's stage I report gave a February 2008 baseline of 7,345 social rented habitable rooms (para 20) - a significant and unexplained difference.
 
-![Extract from the AAAP](http://35percent.org/img/aaapnetloss.png)
+![Extract from GLA stage I response](/img/gla2008baseline.png)
 
-@. In response to the shortcomings in NHHT's minimum proposed specification, the planning committee report goes on to explain (emphasis added):
+The AA took the baseline of 6,887 and deducted the 703 affordable habitable rooms reprovided on completed phases 1a/site 7. It then further deducted the 1,394 affordable habitable rooms proposed on the FDS and was left with a shortfall of 4,790 habitable rooms against the baseline.
 
->"with Phase 1A and Site 7 in place, and assuming that the FDS scheme is delivered in line with the current application, then an additional 4790 habitable rooms of affordable housing **in phases 2, 3 and 4** would be required to deliver full replacement of the baseline." (para. 101)
+It's intention then was to write a condition into the section 106 agreement requiring at least 4,790 affordable habitable rooms to be constructed on the Outline site. 
 
->"The applicant has therefore confirmed that they will commit to provide 50% of all habitable rooms as affordable housing, in line with AAAP policy BH3, or a minimum of 4790 habitable rooms of affordable housing **under the outline application**, whichever is the greater. This would ensure future phases will secure full replacement affordable housing, when measured by habitable rooms. This will be secured by a legal agreement along with a site wide affordable housing delivery strategy that will **set milestones for the required number of affordable habitable rooms on a phase by phase basis.**" (paras 102/103)
+>"with Phase 1A and Site 7 in place, and assuming that the FDS scheme is delivered in line with the current application, then an additional 4790 habitable rooms of affordable housing **in phases 2, 3 and 4** would be required to deliver full replacement of the baseline." (Planning Committee report 14/AP/3844, para. 101)
 
-@. However, the section 106 legal agreement failed to secure these minimum requirements. It failed to set any _"milestones for the required number of affordable habitable rooms on a phase by phase basis"_ and failed to require _"a minimum of 4790 habitable rooms of affordable housing **under the outline application**"_. The provisions of the section 106 agreement instead required a minimum of 4790 affordable habitable rooms on the Outline Development **OR** 50% of all habitable rooms as affordable housing **accross the FDS and the Outline applications combined - whichever is the greater**.
+@. However, the final section 106 legal agreement failed to secure this minimum requirement. It failed require a minimum of 4790 affordable habitable rooms under the outline application. The provisions of the section 106 agreement said that NHHT could deliver **either** a minimum of 4790 affordable habitable rooms on the Outline Development **OR** 50% of all habitable rooms as affordable housing **accross the FDS and the Outline applications combined - whichever is the greater**.
 
 ![Extract from S106 agreement](http://35percent.org/img/minimumhr.png)
 
 ![Extract from S106 agreement](http://35percent.org/img/dpadevelopmentdefinition.png)
 
-@. This subtle but significant change of wording enables NHHT to build a minimum of 4791 affordable habitable rooms across the FDS and Outline Schemes combined, as long as this represents 50% of the total housing across the sites.
+@. This subtle but significant change of wording enables NHHT to build a minimum of 4791 affordable habitable rooms across the FDS and Outline Schemes combined, and as long as this represents 50% of the total housing across the sites then the minimum affordable housing requirement is satisfied. (Had it read _"across the **Outline** Development"_ then the clause would have achieved the Council's intention)
 
-@. As a result of the Acquiring Authority's failure to properly negotiate the minimum affordable housing requirement, and its failure to secure any minimum affordable housing requirement in its DPA with NHHT, if the order is confirmed it or (any other developer it may choose to assign the planning consent to (check this?)), will be able to build the Scheme out to the minimum specification and there will be nothing the Acquiring Authority can do to stop it. Note also the Acquiring Authority's failure to action against NHHT when it breached the terms of the section 106 agreement for the Bermondsey Spa regeneration.
+@. As a result of the Acquiring Authority's failure to properly negotiate the s106 terms of minimum affordable housing requirement, and its failure to secure any minimum affordable housing requirement in its DPA with NHHT, if the order is confirmed NHHT will be able to build the Scheme out to the minimum specification, thereby failing to comply with key objective AAAP (Policy BH1 Increasing the Number of Homes), AAAP policy 3.3.1 and policies 3.14B/3.82 of the London Plan (net loss of affordable housing). 
 
-@. The Acquiring Authority may argue that the section 106 provision governing the minimum affordable housing requirement should be interpreted according to its intention. 
-
-@. However, NHHT's intention and interpretation of the provision is clear; its [June 2016 Housing Delivery Strategy](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!GB0ybg40uhtGW5vcbWkuZA%3d%3d!%7d%7d%7d) submitted pursuant to the requirements of the s106 agreement, clearly show how it has combined both the FDS and the outline Schemes within the minimum 4790 affordable habitable rooms requirement:
-
-![](http://35percent.org/img/housingdeliverystrategy.png)
-
-@. A further loophole in the section 106 agreement's affordable housing provisions, can be found in the definition of habitable room for the purposes of calculation the minimum affordable housing provison. This allows any room larger than 27.5m2 to be counted as two habitable rooms for affordable housing provision. 
+@. A further loophole in the section 106 agreement's affordable housing provisions, is found in the definition of habitable room for the purposes of calculation the minimum affordable housing provison. This allows any room larger than 27.5m2 to be counted as two habitable rooms for affordable housing provision. 
 
 ![Extract from S106 agreement](http://35percent.org/img/aylesburyoutlinehr.png)
 
@@ -141,6 +132,107 @@ The AAAP baseline of existing homes in the action area core is 2,758. The requir
 ![Extract from the DPA](http://35percent.org/img/hrloopholedpa.png)
 
 @. NB: the 27.5sqm 'double counting' loophole in the s106 specifies that it relates only to the calculation of affordable housing. The clause in the DPA relates to the calculation of all residential units. 
+
+## Failure to comply with AAAP rehousing objectives 
+@. At the time the AAAP was adopted, it had secured funding in a partnership with the HCA to provide 1,000 new homes, 400 of which would be council owned. These would provide sufficent reprovison to rehouse tenants displaced by the first phases of the decant. 
+
+![](/img/aaapcouncilhomes.png)
+
+@. This would assist in achieving the AAAP's aim of rehousing 50% of existing tenants on site: _“We will accommodate approximately 50% of existing tenants through the re-provision of homes on site”_. (AAAP Policy 7.2.6)
+
+@. The Equalities Impact Assessment supporting the AAAP also relied on this objective in order to satisfy the Acquiring Authority's Public Sector Equalities Duty (PSED).
+
+@. The Scheme however, appears to be failing in this requirement. Of the ca. 680 tenants and leaseholders decanted from the estate to date, the only available data shows that just 34 tenants and 5 leaseholders have been rehoused in new homes on site (para 4.12 of the Acquring Authority's updated statement of case). 
+
+|  Phase | Tenants decanted | Leaseholders decanted | Total | (Rehoused on site) |
+|---|---|---|---|---|
+| 1a | ? | ?  | 53 |  |
+| Site 7 | 45 | 14(3) | 59 | |
+|  FDS | 544 | 22(1) | 566 |
+| Phase 2 | 422(34) | ? | ||
+
+@. The Acquiring Authority's statement of case fails to give details of how many Aylesbury tenants have been reshoused on the completed phase 1a of the Scheme. Indeed, there appears to be a general lack of evidence required to establish and measure how the rehousing requirements of the AAAP are being complied with. The Objectors understand that NHHT has commissioned a 'framework for measuring the success of the regeneration', but NHHT rejected the Objectors' request to provide this framework to the previous inquiry and has rejected [subsequent FOI requests](https://www.whatdotheyknow.com/request/framework_for_measuring_success). The Objectors request that a full copy of this framework is provided before the inquiry. 
+
+![Framework for measuring success of the regeneration[commissioned](http://www.social-life.co/project/Aylesbury_estate_benchmarking/) by NHHT](/img/sociallifeframework.png)
+
+@. In 2017, the Council-run (the Acquiring Authority's Regeneration Boss is the chairman) and developer funded Creation Trust [published](https://twitter.com/creationSE17/status/859771179179102208) a 'displacement map' of tenants from the phase 2 decant:
+
+![Creation Trust's displacement map of phase 2 tenants](/img/creationdisplacementphase2.png) 
+
+@. The map claims contains inaccuraccies: it shows data for 410 decanted tenants from phase 2 up to March 2017, but the Acquiring Authority's [Sep 2016 Cabinet report](http://moderngov.southwark.gov.uk/documents/s63817/Report.Aylesbury%20Regeneration%20Delivery.pdf) states that 422 tenants had been decanted from phase 2 at Sep 2016. It also claims that 'the majority of tenants remained in Walworth', but this is clearly incorrect - 34% is not a majority. 
+
+@. Creation Trust's displacement map failed to provide information on how many tenants were rehoused in new homes on the estate. Neither did it include any information on leaseholders displacement, which is of particlar importance given so few leaseholders have been rehoused on the estate footprint. 
+
+## Affordable housing tenure requirements
+@. The Objectors submit that the non-viability of the Scheme is likely to result in a failure to conform with the affordable housing tenure requirements of the development plan
+
+@. The Acquiring Authority has argued that social rented tenure is guaranteed by provisions of the DPA, but DPA refers only to 'target rent', which is not a recognised affordable housing tenure. There is no mention in the entire DPA of the term 'social rent'.
+
+![Extract from the DPA](/img/Aylesbury_targetrent.png)
+
+@. Para 4.8.4 on page 136 of the DPA says that if (confidential) viability assessments show that the scheme has become unviable then changes to the businees plan and DPA will be sought.
+
+@. Para 4.8.6 says that both parties will be free to terminate the DPA if phases are deemed unviable.
+
+@. The Moodys downgrade report confirmed that on average NHHT is delivering 7% social rented housing across schemes in its current pipeline and this is despite NHHT having received record levels of funding. 
+
+@. The Objectors submit that in the absence of dedicated government funding to replace the PFI funding anticipated at the time the AAAP was drafted, the minimum 37.5% social rented housing across the Aylesbury scheme us undeliverable.
+
+@. The Objectors submit that if the Order as it stands is confirmed, then the shortfall will be made up both by continuing to shortchange leaseholders and passing off affordable rented tenure as social rent.
+
+@. This has indeed been the fate of several other schemes completed by NHHT. It was shown at the previous inquiry how NHHT had delivered affordable rented homes at up to 62% market rent at its Bermondsey Spa regeneration, when social rent was agreed in the DPA, planning committee report and section 106 agreement.
+
+@. The same is true of NHHT's regeneration of the Claremont East estate in neighbouring Lambeth. This was sold by Lambeth Council to NHHT on the basis that it would provide "100% social rented housing". 
+
+@. However, NHHT later submitted a viability assessment claiming that it was no longer possible to provide this and Lambeth agreed to lower the quota. In March 2011, Lambeth granted planning permission for just 40% affordable housing, of which 70% social rented. 
+
+![Extract prom planning committee report for NHHT's Claremont East estate application](http://35percent.org/img/claremontplanningcommittee.png)
+
+@. An investigation by the 35% Campaign researching GLA data, showed that the social rented units had been provided instead as affordable rent of up to 68% market rent - the very same tenure switch that NHHT pulled at the Bermondsey Spa regeneration.  
+
+@. Affordable rent was introduced in 2011 to allow housing associations to charge higher rents (up to 80% market rent) to its tenants. The mayor has recently introduced several other social housing tenures, including 'London Living Rent' and 'London Affordable Rent'.  
+
+@. The AAAP specifically requires that a minimum 37.5% of the new homes must be social rent. At the time the AAAP was drafted social rent was the only rented social housing tenure. The AAAP predates affordable rent and the other new tenures that have been created. The AAAP specifically states its aim as to help 'most vulnerable' to remain in area - to rehouse tenants on the estate footprint etc. and this is why it specified such a high proportion of social rented homes that would guarantee remained affordable for existing tenants.
+
+@. Shortly after the AAAP was adopted, Secretary of State Eric Pickles announced the abolition of the Audit Commission, which had overseen housing associations since 2001. In 2012, the government then got rid of a body called the Tenants Services Authority, which had closely regulated how housing associations provided social homes. Given the [widespread reporting of tenants experiencing problems](https://www.theguardian.com/society/2017/apr/12/mps-call-for-sweeping-changes-to-housing-association-regulation) with the management of housing association homes as a result (NHHT in particular), it is no surprise that existing Aylesbury tenants are not taking up the replacement 'social housing' on the completed phases. With a clear lack of any political will to halt the transition from social rent to affordable rent, is is no surprise that of the xxx tenants decanted from the FDS, only xx have been rehoused on the footprint and of the xxx decanted from the next phase  (phase 2) only 34 have been rehoused on the footprint. 
+
+@. The fear over rising housing association rents is exacerbated not just by the sudden deregulation of the sector but also fierce lobbying by housing association to be able to increase rents as they see fit. 
+
+@. NHHT is one of the most active lobbyists among housing associations. In 2007, its CEO Kate Davies - then a member of the thinktank CSJ along with Iain Duncan Smith, co-authored a paper in which she claimed that _‘social housing is not a desirable destination’_, that _‘private ownership is preferable to state provided solutions’_ and that social housing providers should be able to set rent levels without restrictions:
+
+![Extract from Kate Davies' CSJ report](http://35percent.org/img/csjquoterents.png)
+
+@. In 2011, when the government introduced its controversial affordable rent tenure, allowing social rents to be converted and increased to up to 80% market rent, NHHT was one of just two housing associations that wrote in to the government's consultation supporting the proposed reforms.
+
+@. Indeed, Kate Davies was a key advisor to the extremely influential [Localis review](http://eprints.lse.ac.uk/5568/1/Ends_and_Means_The_future_roles_of_social_housing_in_England_1.pdf) (Principles for Social Housing Reform by John Hills), which had proposed the reforms.
+
+[This account](https://redbrickblog.wordpress.com/2017/01/07/one-article-does-not-wipe-the-slate-clean/) from former NHHT board member Steve Hilditch, (also former head of policy for Shelter and housing adviser to the last Labour government) gives an insight into NHHT and its changed priorities:
+
+>"the Trust came to be dominated by a philosophy which saw social renting as something to be disparaged, a ‘dead end’ and a route into ‘dependency’, and which also placed home ownership on a pedestal called ‘aspiration’. Provision of social rented homes was downgraded in priority, there were moves into making tenancies conditional (eg on seeking work), whilst more and more effort went into shared ownership and private development. There were skirmishes at the Board over individual schemes where the proposed balance between social rent and shared ownership was weighted in favour of the latter even though the finances of the scheme seemed to allow for more social renting in the mix.
+
+>It came to a head in early 2008 when a new 5 year development programme was put before the Board. It was fully costed, certified by the Director of Finance as a credible and viable plan, and it reflected in full the policy of the then mayor, Ken Livingstone, that development should be 50% affordable (35% social rent and 15% intermediate). Having drafted Ken’s housing strategy, I was delighted that NHHT planned to follow the lead. But the proposal was withdrawn by the chief executive and a different strategy was brought to the next Board. The amount of shared ownership was significantly increased and the share of social rent significantly decreased. After a long and difficult Board meeting, where I was an isolated advocate for the first strategy, the revision was passed (as I recall) by 8 votes to 1. The mix in the programme was proposed to shift from (social rent: intermediate) 70:30 to 40:60, much more extreme than even the policy of the incoming mayor Boris Johnson (although still much better than now).
+
+>I resigned. In my (July 2008) letter to the Chair, a clever businessman who helped improve the Trust in many other ways, I commented:
+
+>I cannot support the Board’s decision to approve the strategic plan proposed by the Corporate Management Team and the underlying attitudes it reflects. The basic premise of the growth strategy is that NHHT should make ‘shed loads of money’ from private development, which can then be applied to meeting housing needs.  But this argument falls if CMT and the Board then decide to provide many fewer social rented homes than could be provided within reasonable business parameters.  Real choices were available in deciding the strategy – and the final decision reflects serious differences of principle.  In short terms, I feel that NHHT is fixated with promoting home ownership and has insufficient commitment to meeting housing need.
+
+@. [This Guardian article](https://www.theguardian.com/society/2015/mar/29/tenants-face-70m-rent-rise-as-social-housing-converted-to-affordable-homes) shows that NHHT has switched 853 social rented homes to affordable rent over just the first 3 years of its introduction, earning it an extra £3.3m in annual rental income.
+
+@. The Objectors submit that the non-viability of the scheme will result in NHHT delivering affordable instead of social rent. At the previous inquiry, the Acquiring Authority argued that this would be prevented by the terms of the section 106 agreement requiring social rent rather than affordable rent. The Objectors responded that this was also the case at with the Bermondsey Spa regeneration where the Acquiring Authority had failed to monitor delivery and subsequently failed to enforce the terms of its section 106 agreement once the breach had been pointed out by the 35% Campaign. 
+
+@. At the previous inquiry the Acquiring Authority submitted [evidence](http://crappistmartin.github.io/images/CPO_ExplanatoryNote12May2015.pdf) claiming to have robust S106 monitoring procedures to ensure that providers deliver according to section 106 requirements.
+
+![Extract from Southwark's [evidence to first Inquiry](http://crappistmartin.github.io/images/CPO_ExplanatoryNote12May2015.pdf)](http://35percent.org/img/CPO_ExplanatoryNote.png)
+
+@. Following the close of the previous inquiry, the 35% Campaign submitted a detailed complaint to the Local Government Ombudsman, listing ca. 40 futher suspected breaches in affordable housing tenure delivery. Following an investigation, the Ombudsman issued a [decision](http://35percent.org/2016-12-12-ombudsman-slams-southwark-for-no-s106-monitoring/) in which it was found that the Acquiring Authority had no monitoring procedures and did no checks whatsoever to ensure that providers delivered affordable housing in accordance with s106 tenure requirements. The findings were summarised in [thi Sunday Times article](http://35percent.org/img/ST23April2017.pdf).
+
+@. The Ombudsman directed the Acquiring Authority to conduct a borough-wide audit of compliance and introduce s106 monitoring procedures going forward. The AA has sinced allocated just £60,000 to this audit which will pay for software and staffing. The Objectors submit that this is insufficient means to ensure compliance over the 20-year build programme and beyond.
+
+@. The section 106 agreement for the FDS negotiated a sum of just £1,567 for the ongoing monitoring of compliance with planning obligations. This is clearly insufficient.
+
+![](http://35percent.org/img/monitoringcontribution.png)
+
+@. The Objectors submit that the previous inquiry was misled and request full evidence to be provided to the inquiry that it has conducted the audit as directed by the Ombudsman and is taking enforcement action on any breaches discovered.
 
 ## Breach of dwelling size requirements
 @. The AAAP says _"There will be a significant proportion of family homes with 23% houses, together with all the facilities needed by families, to make sure that the whole area is family-friendly."_

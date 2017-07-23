@@ -38,28 +38,6 @@ subtitle: "Aylesbury estate CPO public inquiry, Oct 2017"
 
 @. These numerous failures to meet with the AAAP's minimum policy requirements and those of the local development framework, are set out in detail by the 35% Campaign in their witness evidence and are relied upon, but in order to avoid duplication will not be addressed in detail here.
 
-## Breach of Public Sector Equalities Duty (PSED) 
-@. The AAAP said there will be a 'range of options to enable leaseholders to stay in area, buy into new scheme etc..'
-
-@. This was discussed in more detail in the Equalities Assessment conducted in conjunction with the AAAP.
-(the [2009 EqIA which accommpanied the AAAP](http://35percent.org/img/EqualitiesImpactAssessment.pdf)), relied upon the mitigation measures in place at the time for leaseholders- i.e. the rehousing options enshrined in the Council's [2006 rehousing policy](http://www.southwark.gov.uk/download/downloads/id/1850/executive_report) which included the like-for-like 'propery swap' for leaseholders. The 2006 policy and the Council's [Handbook for leaseholders](https://www.whatdotheyknow.com/request/331856/response/818864/attach/3/64145%20RedR%20Homeowner.pdf) clearly state the 'property swap' as one of the available rehousing options:
-
-![Extract from the [Leaseholders Handbook](https://www.whatdotheyknow.com/request/331856/response/818864/attach/3/64145%20RedR%20Homeowner.pdf)](http://35percent.org/img/aylesburyleaseholdershandbookoptions.png)
-
-@. The handbook gives a detailed description of the property swap policy available to leaseholders:
-
-![Extract from the [Leaseholders Handbook](https://www.whatdotheyknow.com/request/331856/response/818864/attach/3/64145%20RedR%20Homeowner.pdf)](http://35percent.org/img/aylesburyhandbookswap.png)
-
-@. The EqIA specifically references the 2006 rehousing policy for leaseholders which it says offers leaseholders the _'widest possible choice of rehousing opportunities'_:
-
-![Extract from the AAAP's EqIA](http://35percent.org/img/spiritofcooperation.png)  
-
-![Exract from the AAAP's EqIA](http://35percent.org/img/widestpossiblechoice.png)  
-
-@. Given that the 'property swap' option was subsequently withdrawn in 2010, it can be argued that the scheme doesn't comply with the PSED because one of the mitigation measures set out in the EqIA which underlies the AAAP has been withdrawn. Indeed it was the only mitigation measure that would have enabled leaseholders to remain 100% homeowners in the borough - i.e. not impoverished by the shared ownership options. 
-
-@. Inspector Coffey said that leaseholders are left with two bleak options: moving out of the area or remaining but being impoverished. Like-for-like swap was the only option that would have enabled leaseholders to remain in the area without being impoverished. *We will need to show that the shared equity deal impoverishes leaseholders despite change in the £16k policy. (Investigate service charges etc)*
-
 ## Scheme is not viable and therefore not deliverable.
 @. There are three main factors which demonstrate that the Scheme is not viable:
 
@@ -105,7 +83,7 @@ https://www.theguardian.com/housing-network/2012/aug/09/housing-benefit-caps-end
 
 @. In September the Acquiring Authority announced at a [Cabinet meeting](http://moderngov.southwark.gov.uk/documents/s63817/Report.Aylesbury%20Regeneration%20Delivery.pdf) that _"the impact of measures in the Housing and Planning Act have reduced the ability of NHHT’s Board to progress Phase 2 and Plot 18 at this stage"_. 
 
-![Sep 2016 Cabinet report](/img/sep2016cabinet.png)
+![Sep 2016 Cabinet report](http://35percent.org/img/sep2016cabinet.png)
 
 @. The Cabinet report went on to say that NHHT was no longer willing to continue underwriting the ongoing costs of the scheme and that the Acquiring Authority has decided to step in and provide funding instead. (para. 12)
 
@@ -163,70 +141,10 @@ https://www.theguardian.com/housing-network/2012/aug/09/housing-benefit-caps-end
 
 @. The Objectors note that there is nothing in the DPA compelling NHHT to complete any of the development phases should they be declared unviable.
 
-@. The Objectors submit that the non-viability of the Scheme is likely to result in a failure to conform with the affordable housing requirements of the development plan
+## NHHT breaches terms of DPA & refuses to continue funding Scheme
+@. NHHT has breached various provisions in the DPA including its obligation to purchase 5 P&R (Purchase & Repair) street properties on the open market, that it was repair and subsequently offer on shared equity terms to leaseholders on the FDS, in order to provide a wider rehousing choice (see para 4.2.2.13 of the DPA Business Plan Section 4). The Council claimed in its response to a Cabinet question from leaseholders, that NHHT has indeed provided 2 such properties to leaseholders on the FDS, but the Objectors were not aware of such offers. The Objectors request that the Acquiring Authority provide details of these two properties and explain why only 2 of the 5 street properties have been purchased by NHHT under its obligations to the DPA and why none of the Objectors have not been offered a P&R street property. 
 
-@. The Acquiring Authority has argued that social rented tenure is guaranteed by provisions of the DPA, but DPA refers only to 'target rent', which is not a recognised affordable housing tenure. There is no mention in the entire DPA of the term 'social rent'.
-
-![Extract from the DPA](/img/Aylesbury_targetrent.png)
-
-@. Para 4.8.4 on page 136 of the DPA says that if (confidential) viability assessments show that the scheme has become unviable then changes to the businees plan and DPA will be sought.
-
-@. Para 4.8.6 says that both parties will be free to terminate the DPA if phases are deemed unviable.
-
-@. The Moodys downgrade report confirmed that on average NHHT is delivering 7% social rented housing across schemes in its current pipeline and this is despite NHHT having received record levels of funding. 
-
-@. The Objectors submit that in the absence of dedicated government funding to replace the PFI funding anticipated at the time the AAAP was drafted, the minimum 37.5% social rented housing across the Aylesbury scheme us undeliverable.
-
-@. The Objectors submit that if the Order as it stands is confirmed, then the shortfall will be made up both by continuing to shortchange leaseholders and passing off affordable rented tenure as social rent.
-
-@. This has indeed been the fate of several other schemes completed by NHHT. It was shown at the previous inquiry how NHHT had delivered affordable rented homes at up to 62% market rent at its Bermondsey Spa regeneration, when social rent was agreed in the DPA, planning committee report and section 106 agreement.
-
-@. The same is true of NHHT's regeneration of the Claremont East estate in neighbouring Lambeth. This was sold by Lambeth Council to NHHT on the basis that it would provide "100% social rented housing". 
-
-@. However, NHHT later submitted a viability assessment claiming that it was no longer possible to provide this and Lambeth agreed to lower the quota. In March 2011, Lambeth granted planning permission for just 40% affordable housing, of which 70% social rented. 
-
-![Extract prom planning committee report for NHHT's Claremont East estate application](http://35percent.org/img/claremontplanningcommittee.png)
-
-@. An investigation by the 35% Campaign researching GLA data, showed that the social rented units had been provided instead as affordable rent of up to 68% market rent - the very same tenure switch that NHHT pulled at the Bermondsey Spa regeneration.  
-
-@. Affordable rent was introduced in 2011 to allow housing associations to charge higher rents (up to 80% market rent) to its tenants. The mayor has recently introduced several other social housing tenures, including 'London Living Rent' and 'London Affordable Rent'.  
-
-@. The AAAP specifically requires that a minimum 37.5% of the new homes must be social rent. At the time the AAAP was drafted social rent was the only rented social housing tenure. The AAAP predates affordable rent and the other new tenures that have been created. The AAAP specifically states its aim as to help 'most vulnerable' to remain in area - to rehouse tenants on the estate footprint etc. and this is why it specified such a high proportion of social rented homes that would guarantee remained affordable for existing tenants.
-
-@. Given the deregulation of the housing association sector which has ensued after the AAAP was adopted, it is no surprise that existing Aylesbury tenants are not taking up the replacement 'social housing' on the completed phases. With a clear lack of any political will to halt the transition from social rent to affordable rent, is is no surprise that of the xxx tenants decanted from the FDS, only xx have been rehoused on the footprint and of the xxx decanted from the next phase  (phase 2) only 34 have been rehoused on the footprint. 
-
-@. The fear over rising housing association rents is exacerbated not just by the sudden deregulation of the sector but also fierce lobbying by housing association to be able to increase rents as they see fit. 
-
-@. NHHT is one of the most active lobbyists among housing associations. In 2007, its CEO Kate Davies - then a member of the thinktank CSJ along with Iain Duncan Smith, co-authored a paper in which she claimed that _‘social housing is not a desirable destination’_, that _‘private ownership is preferable to state provided solutions’_ and that social housing providers should be able to sent rent levels without restrictions:
-
-![Extract from Kate Davies' CSJ report](http://35percent.org/img/csjquoterents.png)
-
-@. In 2011, when the government introduced its controversial affordable rent tenure, allowing social rents to be converted and increased to up to 80% market rent, NHHT was one of just two housing associations that wrote in supporting the proposed reforms.
-
-@. Indeed, Kate Davies was a key advisor to the extremely influential [Localis review](http://eprints.lse.ac.uk/5568/1/Ends_and_Means_The_future_roles_of_social_housing_in_England_1.pdf) (Principles for Social Housing Reform by John Hills), which had proposed the reforms.
-
-@. [This Guardian article](https://www.theguardian.com/society/2015/mar/29/tenants-face-70m-rent-rise-as-social-housing-converted-to-affordable-homes) shows that NHHT has switched 853 social rented homes to affordable rent over just the first 3 years of its introduction, earning it an extra £3.3m in annual rental income.
-
-@. The Objectors submit that the non-viability of the scheme will result in NHHT delivering affordable instead of social rent. At the previous inquiry, the Acquiring Authority argued that this would be prevented by the terms of the section 106 agreement requiring social rent rather than affordable rent. The Objectors responded that this was also the case at with the Bermondsey Spa regeneration where the Acquiring Authority had failed to monitor delivery and subsequently failed to enforce the terms of its section 106 agreement once the breach had been pointed out by the 35% Campaign. 
-
-@. At the previous inquiru the Acquiring Authority submitted [evidence](http://crappistmartin.github.io/images/CPO_ExplanatoryNote12May2015.pdf) claiming to have robust S106 monitoring procedures to ensure that providers deliver according to section 106 requirements.
-
-![Extract from Southwark's [evidence to first Inquiry](http://crappistmartin.github.io/images/CPO_ExplanatoryNote12May2015.pdf)](http://35percent.org/img/CPO_ExplanatoryNote.png)
-
-@. Following the close of the previous inquiry, the 35% Campaign submitted a detailed complaint to the Local Government Ombudsman, listing ca. 40 futher suspected breaches in affordable housing tenure delivery. Following an investigation, the Ombudsman issued a [decision](http://35percent.org/2016-12-12-ombudsman-slams-southwark-for-no-s106-monitoring/) in which it was found that the Acquiring Authority had no monitoring procedures and did no checks whatsoever to ensure that providers delivered affordable housing in accordance with s106 tenure requirements. The findings were summarised in [thi Sunday Times article](http://35percent.org/img/ST23April2017.pdf).
-
-@. The Ombudsman directed the Acquiring Authority to conduct a borough-wide audit of compliance and introduce s106 monitoring procedures going forward. The AA has sinced allocated just £60,000 to this audit which will pay for software and staffing. The Objectors submit that this is insufficient means to ensure compliance over the 20-year build programme and beyond.
-
-@. The section 106 agreement for the FDS negotiated a sum of just £1,567 for the ongoing monitoring of compliance with planning obligations. This is clearly insufficient.
-
-![](http://35percent.org/img/monitoringcontribution.png)
-
-@. The Objectors submit that the previous inquiry was misled and request full evidence to be provided to the inquiry that it has conducted the audit as directed by the Ombudsman and is taking enforcement action on any breaches discovered.
-
-## NHHT refusal to underwrite costs & adhere to DPA obliations as result of viability
- @. NHHT has breached various provisions in the DPA including its obligation to purchase 5 P&R (Purchase & Repair) street properties on the open market, that it was repair and subsequently offer on shared equity terms to leaseholders on the FDS, in order to provide a wider rehousing choice (see para 4.2.2.13 of the DPA Business Plan Section 4). The Council claimed in its response to a Cabinet question from leaseholders, that NHHT has indeed provided 2 such properties to leaseholders on the FDS, but the Objectors were not aware of such offers. The Objectors request that the Acquiring Authority provide details of these two properties and explain why only 2 of the 5 street properties have been purchased by NHHT under its obligations to the DPA and why none of the Objectors have not been offered a P&R street property. 
-
-@. This is of particular importance given that in November 2015, one of the Objectors (whose mother is wheelchair bound) [wrote](/img/AgnesKabutoNHHTemails.pdf) to NHHT asking why it was unable to offer any properties with wheelchair access. NHHT responding by claiming that it didn't have any wheelchair-accessible properties available via the shared equity scheme and advised her to apply to the Council for rehousing assistance instead. (correspondence is [here](/img/AgnesKabutoNHHTemails.pdf).
+@. This is of particular importance given that in November 2015, one of the Objectors (whose mother is wheelchair bound) [wrote](http://35percent.org/img/AgnesKabutoNHHTemails.pdf) to NHHT asking why it was unable to offer any properties with wheelchair access. NHHT responding by claiming that it didn't have any wheelchair-accessible properties available via the shared equity scheme and advised her to apply to the Council for rehousing assistance instead. (correspondence is [here](http://35percent.org/img/AgnesKabutoNHHTemails.pdf).
 
 @. The DPA also requires NHHT to provide 142 'target rent' homes from its own existing stock (outside the development area) to rehouse existing Aylesbury tenants, 35 of which to be provided by 2017 - (paras 4.2.2.2 and 4.2.3.4 of the DPA Business Plan section 4).
 
@@ -236,7 +154,7 @@ https://www.theguardian.com/housing-network/2012/aug/09/housing-benefit-caps-end
 
 @. NHHT's commitment to the Scheme is further brought into question when the Acquiring Authority declared at a [Cabinet meeting](http://moderngov.southwark.gov.uk/documents/s63817/Report.Aylesbury%20Regeneration%20Delivery.pdf) in September 2016, that "_due to the costs"_ and _"CPO delay"_, NHHT was no longer willing to continue underwriting the ongoing costs of the scheme, i.e the demolition costs for the FDS and costs of design plus preparing the planning applications for the two subsequent phases of development - as per its obligations under the DPA: 
 
-![Extract from Sep 2016 Cabinet report](/img/nhhtunderwrite.png)
+![Extract from Sep 2016 Cabinet report](http://35percent.org/img/nhhtunderwrite.png)
 
 @. The DPA stipulates that NHHT must pay the demoliton costs in respect of the FDS (para 4.1.4), the demolition cost was subsequently to be deducted from the £16.3m total (of 3 fixed land payments £1.2m; £2.4m; £12.7m) - (para 1.2.2) that NHHT was supposed to pay the Acquiring Authority upon transfer of the land.
 
@@ -248,7 +166,7 @@ https://www.theguardian.com/housing-network/2012/aug/09/housing-benefit-caps-end
 
 @. In total, Southwark agreed to underwrite £26.5m of the ongoing costs of progressing the scheme (over the next 3 years alone) and that NHHT was originally required to fund under the terms of the Development Partnership Agreement. These comprise:
 
-![](/img/dpafunding.png)
+![](http://35percent.org/img/dpafunding.png)
 
 > * £16.8m demolition costs for the First Development Site
 > * £0.8m for the demolition of Plot 18
@@ -256,7 +174,7 @@ https://www.theguardian.com/housing-network/2012/aug/09/housing-benefit-caps-end
 > * £2m to underwrite the design fees for phase 2
 > * £5.5m to construct the replacement facility for Ellison House (check that the DPA says NHHT should pay for this?)
 
-![Extract from DPA](/img/democostsdpa.png)
+![Extract from DPA](http://35percent.org/img/democostsdpa.png)
 
 @. These costs are in addition to the Council’s other costs that it has already allocated to the scheme to pay for rehousing of tenants and buy back of leaseholders. In total the Council is now forecast to spend £76.7m (see para 8.14 of the AA's updated SoC) over the next five years on progressing decant and demolition, plus an additional £32.4m on the new community facilities (that were supposed to be funded by the infrastructure tarif).
 
@@ -276,45 +194,43 @@ https://www.theguardian.com/housing-network/2012/aug/09/housing-benefit-caps-end
 
 @. Circular 06/2004 makes it clear that the exercise of CPO powers pursuant to this section, in terms of the benefit (or disbenefits) to be derived, need not be restricted to the land the subject of the proposed order.
 
-@. The Objectors submit that the impact of the Scheme on the Acquiring Authority's budget as a result of funding commitments not envisaged by the AAAP, should be considered as part of the 'wellbeing' test in relation to the order; i.e. that confirmation of the order would result in harm to the social well-being of residents in the wider area, affected by the resulting budget cuts to adult care services and education, as funding is diverted away (to pay for demolition of the FDS) in order to compensate for NHHT's refusal to continue underwriting scheme costs.
+@. The Objectors submit that the impact of the Scheme on the Acquiring Authority's Housing Investment Programme (HIP) budget (as a result of funding commitments not envisaged by the AAAP), should be considered as part of the 'wellbeing' test in relation to the order; i.e. that confirmation of the order would result in harm to the social and environmental wellbeing of 5,000 households in the wider area, whose homes do not meet minimum Decent Homes Standards (DHS) and will remain so because funding set aside for their refurbishment has been diverted to pay for demolition of the FDS - as a result of NHHT's refusal to continue demolition funding.
 
-## Failure to comply with AAAP rehousing objectives 
-@. At the time the AAAP was adopted, it had secured funding in a partnership with the HCA to provide 1,000 new homes, 400 of which would be council owned. These would provide sufficent reprovison to rehouse tenants displaced by the first phases of the decant. 
+@. The Objectors also submit that Acquiring Authority's Sep [2016 Cabinet decision](http://moderngov.southwark.gov.uk/documents/s63817/Report.Aylesbury%20Regeneration%20Delivery.pdf) to deviate from the terms of the DPA and redirect £21m of funding to the Scheme, failed to consider the resulting impact on protected groups. 
 
-![](/img/aaapcouncilhomes.png)
+@. Paragraph 18 of the Cabinet report acknowledges that _"In bringing forward this funding from the HRA, the council recognises that there will be some knock-on impact on other housing investment projects."_ It does not consider whether this 'knock-on impact on other housing investment projects' falls disproportionately on any protected groups, i.e. those 5,000+ households whose homes will remain substandard for longer as a result. 
 
-@. This would assist in achieving the AAAP's aim of rehousing 50% of existing tenants on site: _“We will accommodate approximately 50% of existing tenants through the re-provision of homes on site”_. (AAAP Policy 7.2.6)
-
-@. The Equalities Impact Assessment supporting the AAAP also relied on this objective in order to satisfy the Acquiring Authority's Public Sector Equalities Duty (PSED).
-
-@. The Scheme however, appears to be failing in this requirement. Of the ca. 680 tenants and leaseholders decanted from the estate to date, the only available data shows that just 34 tenants and 5 leaseholders have been rehoused in new homes on site (para 4.12 of the Acquring Authority's updated statement of case). 
-
-|  Phase | Tenants decanted | Leaseholders decanted | Total | (Rehoused on site) |
-|---|---|---|---|---|
-| 1a | ? | ?  | 53 |  |
-| Site 7 | 45 | 14(3) | 59 | |
-|  FDS | 544 | 22(1) | 566 |
-| Phase 2 | 422(34) | ? | ||
-
-@. The Acquiring Authority's statement of case fails to give details of how many Aylesbury tenants have been reshoused on the completed phase 1a of the Scheme. Indeed, there appears to be a general lack of evidence required to establish and measure how the rehousing requirements of the AAAP are being complied with. The Objectors understand that NHHT has commissioned a 'framework for measuring the success of the regeneration', but NHHT rejected the Objectors' request to provide this framework to the previous inquiry and has rejected [subsequent FOI requests](https://www.whatdotheyknow.com/request/framework_for_measuring_success). The Objectors request that a full copy of this framework is provided before the inquiry. 
-
-![Framework for measuring success of the regeneration[commissioned](http://www.social-life.co/project/Aylesbury_estate_benchmarking/) by NHHT](/img/sociallifeframework.png)
-
-@. In 2017, the Council-run (the Acquiring Authority's Regeneration Boss is the chairman) and developer funded Creation Trust [published](https://twitter.com/creationSE17/status/859771179179102208) a 'displacement map' of tenants from the phase 2 decant:
-
-![Creation Trust's displacement map of phase 2 tenants](/img/creationdisplacementphase2.png) 
-
-@. The map claims contains inaccuraccies: it shows data for 410 decanted tenants from phase 2 up to March 2017, but the Acquiring Authority's [Sep 2016 Cabinet report](http://moderngov.southwark.gov.uk/documents/s63817/Report.Aylesbury%20Regeneration%20Delivery.pdf) states that 422 tenants had been decanted from phase 2 at Sep 2016. It also claims that 'the majority of tenants remained in Walworth', but this is clearly incorrect - 34% is not a majority. 
-
-@. Creation Trust's displacement map failed to provide information on how many tenants were rehoused in new homes on the estate. Neither did it include any information on leaseholders displacement, which is of particlar importance given so few leaseholders have been rehoused on the estate footprint. 
-
+## Breach of Public Sector Equalities Duty (PSED) 
 @. In paragraph 4.8 of its updated Statement of Case, the Acquiring Authority claims that _"All resident leaseholders from the Order Land were offered a new apartment within the new development at Site 1a. One leaseholder accepted that offer and qualified for a secure tenancy within that development."_
 
-@. The reason that only one of the leaseholders accepted the offer of a new apartment on Site 1a is because the terms of that offer are undisputably disadvantageous; should the leaseholder actually qualify for shared equity rather than shared ownership under the Acquring Authority's 'cascade' assessment basis, then they would have been subject to a shared equity lease with the site freeholder London & Quadrant, which doesn't offer full uplift to shared equity owners. 
+@. The reason that only one of the leaseholders accepted the offer of a new apartment on Site 1a is because being rehoused as a tenant is subject to strict means testing and only offered to those who cannot afford a minimum 25% share in a shared ownership property....; should the leaseholder actually qualify for shared equity rather than shared ownership under the Acquring Authority's 'cascade' assessment basis, then they would have been subject to a shared equity lease with the site freeholder London & Quadrant, which doesn't offer full uplift to shared equity owners. 
 
 @. This means that when the leaseholder comes to sell the property or it is sold upon decease, then they don't receive the full capital uplift of their share. Indeed, for 2-bed properties there is no capital uplift whatsoever [see details of L&R lease here](https://halag.files.wordpress.com/2015/11/londonquadrant_sharedequity.pdf)
 
 @. In his [evidence](http://crappistmartin.github.io/images/Mark_Maginn.pdf) to the site 7 CPO inquiry, Mark Maginn explains that leaseholders are assessed for rehousing on a 'cascade' assessment basis; i.e. they are assessed to see if they can afford shared ownership before being considered for shared equity or other rehousing options. Given that shared ownership is much less attractive and more costly than shared equity, it is no surprise that only circa 10 of the (circa 110?) leaseholders decanted to date have qualified for and taken up shared equity.
+
+2006 Leaseholder Policy (and handbook) said nothing about a 'cascade assessment system' - it implied that leaseholders would be able to choose from options. 
+
+@. The AAAP said there will be a 'range of options to enable leaseholders to stay in area, buy into new scheme etc..'
+
+@. This was discussed in more detail in the Equalities Assessment conducted in conjunction with the AAAP.
+(the [2009 EqIA which accommpanied the AAAP](http://35percent.org/img/EqualitiesImpactAssessment.pdf)), relied upon the mitigation measures in place at the time for leaseholders- i.e. the rehousing options enshrined in the Council's [2006 rehousing policy](http://www.southwark.gov.uk/download/downloads/id/1850/executive_report) which included the like-for-like 'propery swap' for leaseholders. The 2006 policy and the Council's [Handbook for leaseholders](https://www.whatdotheyknow.com/request/331856/response/818864/attach/3/64145%20RedR%20Homeowner.pdf) clearly state the 'property swap' as one of the available rehousing options:
+
+![Extract from the [Leaseholders Handbook](https://www.whatdotheyknow.com/request/331856/response/818864/attach/3/64145%20RedR%20Homeowner.pdf)](http://35percent.org/img/aylesburyleaseholdershandbookoptions.png)
+
+@. The handbook gives a detailed description of the property swap policy available to leaseholders:
+
+![Extract from the [Leaseholders Handbook](https://www.whatdotheyknow.com/request/331856/response/818864/attach/3/64145%20RedR%20Homeowner.pdf)](http://35percent.org/img/aylesburyhandbookswap.png)
+
+@. The EqIA specifically references the 2006 rehousing policy for leaseholders which it says offers leaseholders the _'widest possible choice of rehousing opportunities'_:
+
+![Extract from the AAAP's EqIA](http://35percent.org/img/spiritofcooperation.png)  
+
+![Exract from the AAAP's EqIA](http://35percent.org/img/widestpossiblechoice.png)  
+
+@. Given that the 'property swap' option was subsequently withdrawn in 2010, it can be argued that the scheme doesn't comply with the PSED because one of the mitigation measures set out in the EqIA which underlies the AAAP has been withdrawn. Indeed it was the only mitigation measure that would have enabled leaseholders to remain 100% homeowners in the borough - i.e. not impoverished by the shared ownership options. 
+
+@. Inspector Coffey said that leaseholders are left with two bleak options: moving out of the area or remaining but being impoverished. Like-for-like swap was the only option that would have enabled leaseholders to remain in the area without being impoverished. *We will need to show that the shared equity deal impoverishes leaseholders despite change in the £16k policy. (Investigate service charges etc)*
 
 ## Compensation issues
 @. The Acquiring Authority has argued that the Objectors' argument that leaseholders are being forced out of the area because the compensation receive is insufficent, is a valuation issue which should be dealt with instead by the Upper Tribunal. 
@@ -329,7 +245,7 @@ https://www.theguardian.com/housing-network/2012/aug/09/housing-benefit-caps-end
 
 >"Some  Councils  offer  equivalent  exchange  whereby  a  leaseholder  swops his/her property for another of the same value.  This has been considered but the properties being regenerated in this Borough tend to be at the lowest level of the value scale. There are unlikely to be similar equivalents that aren’t part of regeneration schemes so such an offer would be hollow." ([OSC Committee report 10/03/14](http://moderngov.southwark.gov.uk/documents/s44932/Officer%20Report%20-%20Comparison%20of%20Discretionary%20Assistance%20Given%20to%20Resident%20Leaseholders.pdf))
 
-Given that the Acquiring Authority acknowledges that the compensation payable is insufficient for leaseholders to remain in the area. It follows that the rehousing options on offer are critical in determining whether or not leaseholders' human rights have been sufficiently safeguarded. In particular those rehousing options on offer at the time the AAAP was adopted (i.e. the like-for-like swap option subseqently withdrawn) and upon which its Equalities Impact Assessment was based.
+@. Given that the Acquiring Authority acknowledges that the compensation payable is insufficient for leaseholders to remain in the area. It follows that the rehousing options on offer are critical in determining whether or not leaseholders' human rights have been sufficiently safeguarded. In particular those rehousing options on offer at the time the AAAP was adopted (i.e. the like-for-like swap option subseqently withdrawn) and upon which its Equalities Impact Assessment was based.
 
 ## Failure to supply sufficient evidence
 In its 10 May letter to the Acquiring Authority, the DCLG wrote: _"It is important that those whose interest or rights are included in the order should be in a position to put their case at the inquiry without having to probe for further details. If they have to do this during the inquiry, they may not be in a position to deal with the additional information and this could lead to a request for an adjournment."_
@@ -351,12 +267,19 @@ In its 10 May letter to the Acquiring Authority, the DCLG wrote: _"It is importa
  * Paragraph 7.11 of the Acquiring Authority's updated Statement of Case claims that there will be a gain in affordable housing floorspace on the FDS of 3,232sqm. The Objectors dispute this figure (we calculate net loss of 24,707sqm) and seek clarification of how it has been calculated.
  * Paragraph 10.9 of the Acquiring Authority's updated Statement of Case says: _"The Council has kept and continues to keep detailed records about the owners and occupiers of the interests in the Order Land."_ The Objectors request that copies of these 'detailed records' are provided before the inquiry commences (with personal information redacted if necessary).
  * Full details of the location and number of dwellings on the estate that currently meet/fail Decent Homes Standard.
+ * Unredacted copies of all deeds of variation to the 28 April 2014 Development Partnership Agreement.
+ * Unredacted copy of the closed 20 Sep 2016 Cabinet decision report, which agreed funding significant funding changes with NHHT.
+ * Minutes from the NHHT board meeting (referred to in the Sep 2016 Cabinet report) which decided not to continue funding with the Scheme.
  
 ## Further docs for inclusion in core bundle
  * Submit copy of the [2009 Leaseholders Toolkit](http://35percent.org/img/ToolkitAylesburyLeaseholders2009.pdf) showing the like-for-like property swap option.
  * Ensure that a copy of the 2006 leaseholder rehousing policy with details of the like-for-like options is either already in the core bundle or submitted for inclusion.
  * Submit copy of [this letter to a Site 7 leaseholder](http://35percent.org/img/hilmisharedownership.pdf) in which he is arbitrarily informed that he doesn't qualify for shared equity, only shared ownership (this is evindence of the AA's arbitrary 'cascade' rehousing eligibility assessment procedures)
  * Submit copy of [Letter to Site 7 leaseholders](http://35percent.org/img/lettersenttowolvertonleaseholders.pdf) with the Acquiring Authority warning that re-housing offers will be withdrawn once CPO procedures start (evidence of failure to take reasonable steps to negotiate by agreement).
+ * [This Guardian article](https://www.theguardian.com/society/2017/apr/14/guilt-by-association-the-housing-developments-that-went-sour)
+ * [This Guardian article](https://www.theguardian.com/society/2017/apr/12/mps-call-for-sweeping-changes-to-housing-association-regulation)
+ * [This article](https://redbrickblog.wordpress.com/2017/01/07/one-article-does-not-wipe-the-slate-clean/) by a former NHHT board member
+ * [This Guardian article](https://www.theguardian.com/society/2017/apr/11/housing-associations-face-storm-of-complaints-over-new-build-homes)
 
 ## Conclusion
 @. The Acquiring Authority concludes in paragraph 7.39 of its updated Statement of Case by claiming that the AAAP policies _"were supported by 82% of residents who attended the final exhibition of the plans"._ 
@@ -389,7 +312,7 @@ In its 10 May letter to the Acquiring Authority, the DCLG wrote: _"It is importa
 
 @. Paragraph 1.2.4 of the AAAP says that the estate needs to be redeveloped because _"it would cost too much to bring the homes up to decent homes standard"._ But information in from the Council's Housing Commission HINES estates costings show that only half of estate's homes failed to meet DHS in 2011. @. [This Cabinet item](http://moderngov.southwark.gov.uk/ieIssueDetails.aspx?IId=11030&Opt=3) from 2011 gives details of 'High Investment Needs estates' and gives cost estimates of the DHS works.
 
-![](/img/dhscosts.png)
+![](http://35percent.org/img/dhscosts.png)
 
 @. Appendix 6 of the Cabinet item shows the Aylesbury as not being the most costly of the estates. We could find out the actual costs of other estates on the list and do a comparison. Here's the [link to appendix 6](http://moderngov.southwark.gov.uk/documents/s19628/Appendix%206%20List%20of%2015%20High%20Investment%20Needs%20Estates.pdf)
 
@@ -400,8 +323,6 @@ In its 10 May letter to the Acquiring Authority, the DCLG wrote: _"It is importa
 [£10m per year it is having to spend on temporary accommodation](https://www.southwarknews.co.uk/news/council-spend-temporary-housing-now-five-times-20112012/):
 
 ![](http://35percent.org/img/spendbandb.png)  
-
-@. An alternative scheme (referred to as ‘Plan B’ in the Statement of Reasons for making the CPO) has been promoted by a group of local stakeholders, using the acronym xxx. The scheme proposed by xxx is clearly superior to that of the Acquiring Authority. It would require less funding, would be less intrusive and would meet the Acquiring Authority’s objective of achieving an improved.
 
 @. The Acquiring Authority is [spending £380k per dwelling](http://www.estatesgazette.com/blogs/london-residential-research/2015/07/costs-southwark-council-528149-build-council-flat/) on building new Council homes (not even including land acquisition costs) - it is spending £49m this year alone on building new council homes (see Budget Book 2016/17). The Objectors submit that this would be better spent on refurbishment at £xx,xxx per dwelling.
 
@@ -419,4 +340,7 @@ In its 10 May letter to the Acquiring Authority, the DCLG wrote: _"It is importa
 
 @. The Acquiring Authority has intimated that there are structural problems with the 5 and 6 storey blocks on the estate. However, the Alan Conisbee report on which this is based recommended removal of mains gas from these blocks and it is understood that these blocks now comply with BRE safety standards as a result. If this is not the case then the Acquiring Authority will need to explain why it has continued to house families in these blocks for the past 12 years if they are structurally unsound. 
  
+@. All we need to show is that bringing existing homes (on the order land) up to decent homes standard, will cost less (per dwelling) than the amount the AA is spending on redevelopment (per dwelling). This will result in less expenditure from the AA's Housing Investment Programme which will in turn mean that it can spend more on bringing the 5,000+ council homes in the borough that fail to meet Decent Homes Standard up to DHS. It will also mean that more funds are available in the HIP for installing sprinkler systems in its blocks, recommended following the Grenfell Tower disaster. 
+
+@. In summary, the 'wellbeing' test is better satisfied by bringing homes on the order land up to DHS as it is less costly than redeveloping them. This will result in more sub-standard council homes in the borough being brought up to DHS and more fire safety works being able to be completed, as more funds will be available in the HIP. 
 
