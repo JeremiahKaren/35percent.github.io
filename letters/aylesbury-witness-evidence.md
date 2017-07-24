@@ -540,11 +540,22 @@ Both the consented FDS and Outline plans fall well short of this requirement - (
 
 @. Paragraphs 7.8 and 7.9 of the Acquiring Authority's updated Statement of Case acknowledges that NHHT taking role of delivery partner is a change to Policy D2 of the AAAP. Are NHHT meeting full financial obligations under Policy D2?  A table of expected payments, totalling c £50m, is given at A7.1.40 AAP pg 174; it includes £1.47m for green fingers and £12m for improvements to Burgess Park. There is nothing in the DPA obliging NHHT to make a contribution towards improving Burgess Park. (xx - more research required)
 
+
+END of draft.
+ 
 ## Breach of requirements of Mayor's new [Equality and Diversity SPG](https://www.london.gov.uk/file/8173/download?token=1Svk6LBu)
+
 
 To do: read requirements of the SPG.
 
+Also to do: 
+The District Auditor in his Public Interest Report of February, 2004 found there to be general procedural weaknesses in Southwark’s Planning department, in addition that consultation in respect of the residential development was flawed and that reports prepared by officers were inaccurate, inadequate and incomplete.
 
+He wrote: _“My investigations have revealed serious deficiencies in the planning processes and procedures of the Council which have not been satisfactorily explained. I believe that urgent action is required by the Council to ensure that there is openness, honesty, transparency and public confidence in all planning-related matters and to prevent similar failings In the future”_
+
+[The Audit Commission public interest report, Award of Planning Permission at 295-297 Camberwell New Road and 299 Camberwell New Road]
+
+Include screenshot of Bermondsey Spa flats advertised on Homesearch at £280 pw.
 
 REMOVED PARAGRAPHS:
 
