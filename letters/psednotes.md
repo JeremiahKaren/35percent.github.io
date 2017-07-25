@@ -14,9 +14,7 @@ The 2009 AAAP EqIA specifically references the 2006 leaseholder rehousing policy
 The reason given for the Acquiring Authority's Dec 2010 departure from the 2006 rehousing policy is given as 'unworkable and restricted'. (para 3.4)
 
 ## Forward funding of scheme costs
-Paragraph 18 of the Cabinet report acknowledges that _"In bringing forward this funding
-from the HRA, the council recognises that there will be some knock-on impact on other
-housing investment projects."_ 
+Paragraph 18 of the Cabinet report acknowledges that _"In bringing forward this funding from the HRA, the council recognises that there will be some knock-on impact on other housing investment projects."_ 
 
 However, it fails to assess how this knock-on impact might affect protected groups.
 
