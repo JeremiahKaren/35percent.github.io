@@ -172,7 +172,7 @@ It's intention then was to write a condition into the section 106 agreement requ
 ## Affordable housing tenure requirements
 @. The Objectors submit that the non-viability of the Scheme is likely to result in a failure to conform with the affordable housing tenure requirements of the development plan
 
-@. The Acquiring Authority has argued that social rented tenure is guaranteed by provisions of the DPA, but DPA refers only to 'target rent', which is not a recognised affordable housing tenure. There is no mention in the entire DPA of the term 'social rent'.
+@. The AAAP requires 50% affordable housing of which 75% social rented tenure. Having established that the 'double counting' small print in the section 106 agreement fails to secure this, the Acquiring Authority may try to argue that social rented tenure is guaranteed by provisions of the DPA, but DPA refers only to 'target rent'. 'Target rent' is not a recognised affordable housing tenure. There is no mention in the entire DPA of the term 'social rent'. 'Target rent' is a term that has been used in previous rent guidance to describe convergence. Bla BLa explain convergence. Convergence was done away with and the term target rent was removed from the government's rent guidance in 2011(why? was it achieved?). 
 
 ![Extract from the DPA](/img/Aylesbury_targetrent.png)
 
@@ -310,6 +310,11 @@ including those of the elderly and vulnerable."_ (Policy 1.6.2)
 @. This formula conflicts with the formula for the setting of social rents prescribed in the Rent Standard Guidance and will result in LAR rents increasing proportionally by more than social rents year on year, as social rents are required to be reduced by 1% each year (see section 23 of the Welfare, Reform and Work Act 2016).
 
 @. LAR tenure is not social rented tenure required by the AAAP, it is subject to different regulation and legislation (enabling fixed-term rather than secure tenancies, pay to stay, etc). 
+
+The London Tenants Federation have published [detailed guidance](http://www.londontenants.org/publications/briefings/Briefing%20-%20Genuinely%20affordable%20housing%20(FF).pdf) on the various different affordable housing tenures. They explain that _"Rents at this level are quite a lot higher than average social-rents in London. According to the latest available data (2015/16) the average London council rent in was £107.931 and the average London Private Registered Provider rent was £125.27._" They go on to conclude:
+
+>"London Affordable Rents are almost 50% higher than average council rents and 43% higher than average private registered provider (housing association) rents. As average social-rented household incomes in London are only £17,500 this is a significant hike in rent levels. This hasn’t stopped many authorities and the Mayor’s office saying that ‘London Affordable Rent’ homes are the same as, or ‘equivalent’ to, social-rents , when actually in cost terms they are actually pretty much the same as the previous Mayor’s capped affordable rents homes. Indeed London Affordable Rents, once service charges are added, can be higher than 50% market rents. The example on page 4 relates to the Oaklands development, approved by the Old Oak and Park Royal Development Corporation. Note that in this example London Affordable Rent homes are described as ‘social rents’ but some are also (once indicative service charges are added) above
+50% market rents."
 
 @. It is also noted that NHHT's revised planning applications for the FDS now include the provision of 'market rent' rather than private for-sale housing. This is a breach of the AAAP's tenure requirements, which specifically state 'private homes'. Homes rented on short-term tenancies by a housing association at market rent are not interchangeable with private for-sale homes; they are two separate types of tenure for planning purposes (check this?).
 
