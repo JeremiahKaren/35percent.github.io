@@ -180,6 +180,8 @@ It's intention then was to write a condition into the section 106 agreement requ
 
 @. Para 4.8.6 says that both parties will be free to terminate the DPA if phases are deemed unviable.
 
+@. In 2010, the Acquiring Authority signed a development partnership agreement for the redevelopment of the neighbouring Heygate estate. The contractual agreement required the developer to provide a minimum of 12.5% social rented housing. In the event, the developer claimed this was not viable and is now providing just 3% social rent as a result. We submit that this will be the future of the Aylesbury scheme.
+
 @. The Moodys downgrade report confirmed that on average NHHT is delivering 7% social rented housing across schemes in its current pipeline and this is despite NHHT having received record levels of funding. 
 
 @. The Objectors submit that in the absence of dedicated government funding to replace the PFI funding anticipated at the time the AAAP was drafted, the minimum 37.5% social rented housing across the Aylesbury scheme us undeliverable.
