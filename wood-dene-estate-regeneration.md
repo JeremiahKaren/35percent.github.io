@@ -34,9 +34,9 @@ Wood Dene tenants were promised the right to return to the redeveloped estate an
 
 ![](http://crappistmartin.github.io/images/wooddenertr.png)
 
-The [planning report](http://moderngov.southwark.gov.uk/documents/s38968/Report.pdf) shows that the replacement development will provide 333 new homes, of which just 54 will be social rented.
+The [planning committee report](http://moderngov.southwark.gov.uk/documents/s38968/Report.pdf) for the consented application, confirms that Notting Hill submitted a viability assessment claiming that provision of 35% affordable housing with a policy compliant split between intermediate and social rent is not viable. The Council accepted this and gave Notting Hill consent to build 333 new homes, of which just 54 will be social rent.
 
-It is therefore difficult to see how the Council's promise of a right to return to the estate can be honoured.
+It is therefore difficult to see how the Council's promise of a right to return to the 173 'temporarily' decanted tenants can be honoured.
 
 ![](http://crappistmartin.github.io/images/wooddeneor.png)
 
@@ -44,7 +44,7 @@ Despite being approved in 2013, the development is still under construction and 
 
 ![](http://crappistmartin.github.io/images/wooddeneplan.jpg)
 
-[Land Registry deeds](http://crappistmartin.github.io/images/LRegisterWoodDene.pdf) show that the Council sold the entire Wood Dene site to Notting Hill for just £7m. The [Regeneration Agreement](/img/RAWooddene.pdf) with Notting Hill provides for an 'overage' payment should the development turn out more profitable than expected. However, if Notting Hill's pitiful overage payment for its regeneration of the Silwood estate is anything to go by (£546k), then there is little hope that the Wood Dene is going to provide a windfall.
+[Land Registry deeds](http://crappistmartin.github.io/images/LRegisterWoodDene.pdf) show that the Council sold the entire Wood Dene site to Notting Hill for just £7m. The [Regeneration Agreement](/img/RAWooddene.pdf) with Notting Hill provides for an 'overage' payment should the development turn out more profitable than expected. However, if Notting Hill's pitiful overage payment for its [regeneration of the Silwood estate](/silwood-estate-regeneration) is anything to go by (£546k), then there is little hope that the Wood Dene is going to provide a windfall.
 
 Paragraph 1.16.6 of the Regneneration Agreement also caps any CIL charges payable to 6,000GBP per unit. Anything over this is deductable from the 7m purchase price. 
 
