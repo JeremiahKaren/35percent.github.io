@@ -1,4 +1,4 @@
----
+net ---
 layout: page
 title: "35% Campaign witness evidence"
 subtitle: "Aylesbury estate CPO public inquiry, Oct 2017"
@@ -97,6 +97,14 @@ It's intention then was to write a condition into the section 106 agreement requ
 >"3.14B: Loss of housing, including affordable housing, should be resisted unless the housing is replaced at existing or higher densities with **at least equivalent floorspace**. 
 
 >"3.82 ESTATE RENEWAL:  Where redevelopment of affordable housing is proposed, it should not be permitted unless it is replaced by better quality accommodation, providing **at least an equivalent floorspace** of affordable housing."
+
+See also the requirements for no net loss of 'social' housing in Mayor's estate regeneration good practice guide.
+
+The Mayor's new Affordable Housing and Viability SPD also says:
+
+>“homes at social rent levels should be replaced with homes at the same or similar rent levels, or that specialist types of affordable housing should be replaced with the same type of housing. The Fast Track Route does not apply in these circumstances, and all estate regeneration schemes should follow the Viability Tested Route to deliver the re-provision of the existing affordable floorspace on a like-for-like basis and maximise additional affordable housing.” 
+
+>“Habitable rooms in affordable and market elements of the scheme should be of comparable size when averaged across the whole development. If this is not the case, then it may be more appropriate to measure the provision of affordable housing using habitable floorspace. Applicants should present affordable housing figures as a percentage of total residential provision by habitable rooms, by units, and by floorspace to enable comparison.”
 
 @. The London Plan is very clear that net loss of affordable housing is resisted and should be calculated in terms of **floorspace**.
 
