@@ -582,5 +582,5 @@ REMOVED PARAGRAPHS:
 
 @. The Acquiring Authority may argue that NHHT is submitting a revised planning application for the FDS (see paragraph 7.2 of its Statement of Case), but this will only increase the overall number of homes by 10 to 840. There still remains a significant shortfall.
 
-
+The NHF has said that funding cuts mean that HA's are not building the homes they planned: http://www.housing.org.uk/press/press-releases/government-plans-cause-85-drop-in-new-homes-for-most-vulnerable/
 
