@@ -55,7 +55,7 @@ If you are wondering how Berkeley manage to run such finely-managed rings around
 ## 50 shades of grotesque
 The development [came under fire](http://www.standard.co.uk/news/london/luxury-london-flat-advert-branded-the-creepiest-thing-you-will-ever-see-9966793.html) in January 2015, when its promoters produced a [bizzare promotional film](http://uk.businessinsider.com/bizarre-one-blackfriars-ad-from-new-homes-london-2015-1) showing a macho city type taking his wife househunting in a helicopter and being served by a butler in their luxury __One Blackfriars__ apartment.
 
-<video id="sampleMovie" src="https://niederschrift.github.io/img/OneBlackfriarsVideo.mp4" width=”640” height=”360”></video>
+[![IMAGE ALT TEXT](http://35percent.org/img/london-borough-of-southwark-street-sign3.png)](https://niederschrift.github.io/img/OneBlackfriarsVideo.mp4) "One Blackfriars")
 
 ## Underground parking
 Planning consent was given for a 110-space, three-storey car park in the basement complete with car stacker and valet service. Despite being in a car-free planning zone where planning policy restricts any parking in new developments whatsover, Berkeley was able to convince the Council that if it didn't provide the basement parking then it wouldn't be able to sell the flats.
