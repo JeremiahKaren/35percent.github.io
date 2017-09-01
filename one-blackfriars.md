@@ -53,9 +53,9 @@ Berkeley's most recent [brochure](/img/oneblackfriarsbrochure.pdf) for __One Bla
 If you are wondering how Berkeley manage to run such finely-managed rings around Southwark's planning office the answer is that they are well advised. Berkeley employed [Four Communications](http://fourcommunications.com) to help with its planning application. Four Communications is [founded and run](http://35percent.org/2014-10-19-gamekeepers-turned-poachers/) by former Southwark (Labour) Council leader Jeremy Fraser and employs Southwark's former Cabinet member for Regeneration; yet another example of Southwark's well-oiled [revolving doors](http://35percent.org/revolving-doors).  
 
 ## 50 shades of grotesque
-The development [came under fire](http://www.standard.co.uk/news/london/luxury-london-flat-advert-branded-the-creepiest-thing-you-will-ever-see-9966793.html) in January 2015, when its promoters produced a [bizzare promotional film](http://uk.businessinsider.com/bizarre-one-blackfriars-ad-from-new-homes-london-2015-1) showing a macho city type taking his wife househunting in a helicopter and being served by a butler in their luxury __One Blackfriars__ apartment.
+The development [came under fire](http://www.standard.co.uk/news/london/luxury-london-flat-advert-branded-the-creepiest-thing-you-will-ever-see-9966793.html) in January 2015, when its promoters produced a [bizzare promotional film](http://uk.businessinsider.com/bizarre-one-blackfriars-ad-from-new-homes-london-2015-1) showing a macho city type taking his wife househunting in a helicopter and being served by a butler in their luxury __One Blackfriars__ apartment:
 
-[![IMAGE ALT TEXT](http://35percent.org/img/london-borough-of-southwark-street-sign3.png)](https://niederschrift.github.io/img/OneBlackfriarsVideo.mp4) "One Blackfriars")
+[![One Blackfriars Promo Video](http://35percent.org/img/obvideo.png)](https://niederschrift.github.io/img/OneBlackfriarsVideo.mp4))
 
 ## Underground parking
 Planning consent was given for a 110-space, three-storey car park in the basement complete with car stacker and valet service. Despite being in a car-free planning zone where planning policy restricts any parking in new developments whatsover, Berkeley was able to convince the Council that if it didn't provide the basement parking then it wouldn't be able to sell the flats.
