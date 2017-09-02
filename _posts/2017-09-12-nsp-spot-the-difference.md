@@ -1,15 +1,17 @@
 ---
 layout: post
 published: false
-title: "Southwark's new planning policy - spot the difference"
-subtitle: "Southwark deletes numerous affordable housing provisions from its planning policy and inserts 'subject to viability' loophole"
+title: Southwark's new planning policy - spot the difference
+subtitle: >-
+  Southwark deletes numerous affordable housing provisions from its planning
+  policy and inserts 'subject to viability' loophole
 ---
 
 Southwark Council has just released the final 'preferred option' version of its borough-wide planning policy that will govern development in the borough during the next 15 years.
 
 It has been consulting on this new policy since 2014 and the [first draft version](http://www.2.southwark.gov.uk/download/downloads/id/12867/new_southwark_plan_preferred_option_consultation_version_web) was published in October 2015. 
 
-In June this year it published its second and final ['amended preferred option' version] which we have discovered drops many of the safeguards surrouding affordable housing delivery that were contained in the first version, and has inserted a number of loopholes for developers to boot. 
+In June this year it published its second and final ['amended preferred option' version](https://www.southwark.gov.uk/assets/attach/3658/NSP%20Full%20New%20and%20Revised%20Policies%20optimised.pdf) which we have discovered drops many of the safeguards surrouding affordable housing delivery that were contained in the first version, and has inserted a number of loopholes for developers to boot. 
 
 The first of which is policy DM1 which has dropped the requirement for affordable housing to be calculated in terms of floorspace and inserted the qualification 'subject to viability'. The consequences of this will be obvious to developers who already [run rings around the Council with their viability assessments](http://35percent.org/collated-viability-assessments/) and will be glad to calculate affordable housing using habitable rooms where difference in room sizes can be manipulated according to the developer's advantage.
 
@@ -45,5 +47,3 @@ Instead of using this as an opportunity to set down some red lines for developer
 ![](/img/subjecttoviability.png)
 
 The three words 'subject to viability' inserted into the final policy draft, will undoubtedly be quoted by developers in hundreds of planning applications over the next 15 years to come. They will be the lasting legacy of an administration hell bent on 'regeneration' and 'attracting investment' in whatever shiny high-rise form it takes; an administration desperate and grateful for whatever crumbs it receives in planning gain, so that it can continue pursuing its needless and highly costly demolition schemes elsewhere... bla bla
-
-
