@@ -19,6 +19,13 @@ Despite the introduction of these new policies developers are continuing to plea
 
 Below we publish the Heygate viability assessment and various other viability assessments obtained via FOI/EIR from campaign groups across London.
 
+|   |   |   |
+|---|---|---|
+| <img src="/img/tctbermondseyworks.jpg"> | <img src="/img/ttote.jpg |   |
+|   |   |   |
+|   |   |   |
+
+
 ## Heygate Viability Assessment
 [Viability Assessment - Main Report](http://crappistmartin.github.io/images/HeygateViabilityAssessment_MainReport.pdf)
 
