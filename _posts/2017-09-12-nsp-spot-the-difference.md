@@ -46,3 +46,9 @@ Instead of using this as an opportunity to set down some red lines for developer
 ![](/img/subjecttoviability.png)
 
 The three words 'subject to viability' inserted into the final policy draft, will undoubtedly be quoted by developers in hundreds of planning applications over the next 15 years to come. They will be the lasting legacy of an administration hell bent on 'regeneration' and 'attracting investment' in whatever shiny high-rise form it takes; an administration desperate and grateful for whatever crumbs it receives in planning gain, so that it can continue pursuing its needless and highly costly demolition schemes elsewhere... bla bla
+
+The same caveat was inserted into the [local area plan for the Old Kent Rd opportunity area](http://35percent.org/2016-11-21-old-kent-road-aap-loopholes/) last year. Not one of Southwark's 48 Labour councillors objected. Labour values?
+
+![](http://35percent.org/img/subjecttoviability.jpg)
+
+For years our Labour councillors have been blaming the Tories and Tory policy for the housing crisis. This is one example of where they could have made a difference by using local policy to force developers to provide a proportion of housing affordable to local people. They have failed miserably.  
