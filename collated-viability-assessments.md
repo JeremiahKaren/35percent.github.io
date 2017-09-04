@@ -21,7 +21,7 @@ Below we publish the Heygate viability assessment and various other viability as
 
 |   |   |   |
 |---|---|---|
-| <img src="/img/tctbermondseyworks.jpg" width="200"> | <img src="/img/ttote.jpg" width="200"> |   |
+| <img src="/img/tctbermondseyworks.jpg" width="200"> | <img src="/img/ttote.jpg" width="200"> | <img src="/img/tctstrata.jpg" width="200"> |
 |   |   |   |
 |   |   |   |
 
