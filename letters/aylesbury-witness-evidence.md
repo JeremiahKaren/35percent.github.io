@@ -584,3 +584,4 @@ REMOVED PARAGRAPHS:
 
 The NHF has said that funding cuts mean that HA's are not building the homes they planned: http://www.housing.org.uk/press/press-releases/government-plans-cause-85-drop-in-new-homes-for-most-vulnerable/
 
+NHF data showing just 8% of new starts are social rent: https://speyejoe2.wordpress.com/2017/09/07/housing-associations-social-purpose-of-the-carcinogenic-variety/
