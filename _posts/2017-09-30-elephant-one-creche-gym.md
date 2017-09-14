@@ -1,12 +1,14 @@
 ---
 layout: post
 title: "Elephant creche gym"
-subtitle: "Delancey was supposed to provide a creche as community facilities instead it built a gym"
+subtitle: "Shopping centre update and Delancey's crechegym"
 published: false
 ---
-Planning gain - explain concept, i.e. to ensure that developments contribute something to the community around them. s106 requirements are based on local need. Given the shortfall in local creche facilities (ref) bla bla..
+We have already [shown how Delancey betrayed](http://35percent.org/tribeca-square/#affordable-retail-units-sold-to-sainsburys) its planning obligation requirements to provide affordable retail on its neighbouring [__Elephant One__](/tribeca-square) scheme.
 
-[Planning Committee report](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!KVVznBUP22aHb8QmfxcSTA%3d%3d!%7d%7d%7d) says that community facilities will be provided in the form of a gym:
+Now it appears that further breaches of planning consent are afoot.
+
+The [Planning Committee report](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!KVVznBUP22aHb8QmfxcSTA%3d%3d!%7d%7d%7d) for __Elephant One__ says that community facilities would be provided in the form of a gym:
 
 ![](/img/tribecacreche.png)
 
@@ -17,7 +19,7 @@ Sure enough the requirement was written in to the [section 106 agreement](http:/
 
 ![](/img/tribecacreches1062.png)
 
-Instead they have built a gym.
+Instead it looks as if they have built a gym.
 
 
 Here's another extract from the section 106 showing the creche next to the cinema:
