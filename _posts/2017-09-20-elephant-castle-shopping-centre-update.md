@@ -22,9 +22,9 @@ With its compulsory purchase powers, Southwark holds the key to Delancey's regen
 
 It's not too late to object! You can write to:
  
- * MP Neil Coyle (neil.coyle@southwark.gov.uk @coyleneil)
- * Council leader Peter John (peter.john@southwark.gov.uk @peterjohn6)
- * Cabinet member for Regeneration Mark Williams (mark.williams@southwark.gov.uk @markwilliams84).
+ * MP Neil Coyle (neil.coyle@southwark.gov.uk [@coyleneil](https://twitter.com/coyleneil))
+ * Council leader Peter John (peter.john@southwark.gov.uk [@peterjohn6](https://twitter.com/peterjohn6))
+ * Cabinet member for Regeneration Mark Williams (mark.williams@southwark.gov.uk [@markwilliams84](https://twitter.com/coyleneil)).
 
 You can also use our automated objection form below to lodge an objection to the revised planning application. 
 
