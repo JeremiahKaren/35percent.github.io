@@ -291,6 +291,13 @@ subtitle: Summary of regeneration schemes
 
 <article class="post-preview">
   
+<h1><a href="http://35percent.org/2017-06-20-signal-tower-embarrassment-southwark-pays-for-lost-affordable-housing/">Signal Tower</a></h1>
+
+<img src="http://media.rightmove.co.uk/dir/72k/71137/52949120/71137_SOU150150_IMG_06_0001_max_656x437.JPG" width="100" align="left">
+</article>
+
+<article class="post-preview">
+  
 <h1><a href="/skipton-house/">Skipton House</a></h1>
 
 <img src="http://www.constructionenquirer.com/wp-content/uploads/Screen-Shot-2015-10-06-at-11.00.45-600x414.png" width="100" align="left">
