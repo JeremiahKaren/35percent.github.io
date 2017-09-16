@@ -54,3 +54,7 @@ The same caveat was inserted into the [local area plan for the Old Kent Rd oppor
 For years our Labour councillors have been blaming the Tories and Tory policy for the housing crisis. This is one example of where they could have made a difference by using local policy to force developers to provide a proportion of housing affordable to local people. They have failed miserably.  
 
 See our [full submission here](/img/EANComments_FinalNSP.pdf).
+
+say something here about latest GLA figures showing net loss social rented - knocking down more social rented homes than are being built and provided under policy reqs.
+
+So much for largest council house building programme in the country - spin, keep spinning.
