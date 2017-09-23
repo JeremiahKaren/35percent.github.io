@@ -12,7 +12,7 @@ However, the application is not much better for any of these changes.  At local 
 
 Nor are there any proposals for either relocating the bingo hall and bowling alley or accommodating them in the new development.  This is a serious omission.  A new [equalities statement]( http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!jL6JkkYmmtpBMzdpRozUkA%3d%3d!%7d%7d%7d) notes that both the elderly and people from black, Asian and minority ethnic background form a large part of the bingo hall's clientele and would be adveresly affected should the application be approved.  Southwark's failure to ensure that Aylesbury estate leaseholders from of similiar background were fairly treated led to the [humiliating refusal](http://35percent.org/2016-09-18-aylesbury-compulsory-purchase-order-rejected/) of its compulsory purchase order application.
 
-![](/img/elephantcastlebingo.jpg)
+![](http://35percent.org/img/elephantcastlebingo.jpg)
 *Elephant & Castle shopping centre bingo hall - used by up to 500 pensioners daily*
 
 Delancey's [affordable retail offer](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!CgEoZ4vEh0beAm1jRSlUrA%3d%3d!%7d%7d%7d) for the development itself is craftily-worded (10% on the west site of the development, 5% on the east site), but the total amount across the whole site is only 5%, half the required amount.  Delancey offers a cash payment in lieu, but will not say how much this would be.
@@ -37,7 +37,7 @@ This remains a dreadful planning application, but it's not too late to object! Y
  * Cabinet member for Regeneration Mark Williams (mark.williams@southwark.gov.uk [@markwilliams84](https://twitter.com/coyleneil)).
 
 You can also use our automated objection form below to lodge an objection to the revised planning application. 
-
+ 
 ## Object Now!
  <form id="form5" action="http://commentform .herokuapp.com/" method="post">
 <fieldset><legend>Fill in the details below to object to Delancey's revised planning application.</legend>
