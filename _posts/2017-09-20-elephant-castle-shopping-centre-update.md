@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Elephant & Castle shopping centre update
-subtitle: Revised planning application still falls short of policy requirements
-published: false
+title: "Elephant & Castle shopping centre update"
+subtitle: "Revised planning application still falls short of policy requirements"
+published: true 
 ---
 After a trader's deputation to Southwark Council and over 200 objections, developer Delancey has amended its plans for the demolition  and redevelopment of the shopping centre.  The original plans had [no provison for current traders, no affordable retail units and no social rented housing](http://35percent.org/2016-12-19-delancey-submits-shopping-centre-application/).  Delancey's amendments include a [draft local business support & relocation stratgy](http://moderngov.southwark.gov.uk/documents/s68297/Report%20Elephant%20and%20Castle%20Shopping%20Centre%20Equalities%20Analysis%20and%20Mitigation%20Projects.pdf), as well as more information about the [affordable housing](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!SeVE7nVBcuVxpQARghoUbA%3d%3d!%7d%7d%7d) offer.
 
@@ -13,7 +13,7 @@ Nor are there any proposals for either relocating the Palaces bingo hall and bow
 Delancey's affordable retail offer for the development itself is craftily-worded (10% on the west site of the development, 5% on the east site), but the total amount across the whole site is only 5%, half the required amount.  Delancey offers a cash payment in lieu, but will not say how much this would be.
 
 ### 0.3% fake social rented housing
-
+ 
 Matters do not improve with the [affordable housing addendum](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!SeVE7nVBcuVxpQARghoUbA%3d%3d!%7d%7d%7d).  Delancey still refuses to include any proper social rented housing, but instead offers something it calls 'social rent equivalent', starting at £160pw, with a 3-year tenancy.  Rents will rise with inflation, but with the prospect of further rises, should your income rise.  It also looks as if 'social rent equivalent' will only be available to 'economically active' households; what these are is left undefined.  Delancey proposes 33 'social rent equivalent' units out of a total of 979 new homes - 0.3%.
 
 Instead of social rented housing we will be getting affordable rent, at 'London Living Rent equivalent',at £205 - £308pw, and affordable rent at up to 80% market rent, depending on income.  60% of the affordable housing will be for households with incomes over £60,000 pa and up to £90,000pa.
@@ -37,7 +37,7 @@ This is a dreadful planning application, but it's not too late to object! You ca
 You can also use our automated objection form below to lodge an objection to the revised planning application. 
 
 ## Object Now!
-<form id="form5" action="http://commentform.herokuapp.com/" method="post">
+ <form id="form5" action="http://commentform.herokuapp.com/" method="post">
 <fieldset><legend>Fill in the details below to object to Delancey's revised planning application.</legend>
 <div id="mc_embed_signup">
 <div class="indicates-required"><span class="asterisk">*</span> indicates required</div>
