@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Elephant & Castle shopping centre update"
-subtitle: "Revised planning application still falls short of policy requirements"
-published: true 
+title: Elephant & Castle shopping centre update
+subtitle: Revised planning application still falls short of policy requirements
+published: true
 ---
 After a trader's deputation to Southwark Council and over 200 objections, developer Delancey has amended its plans for the demolition  and redevelopment of the shopping centre.  The original plans had [no provison for current traders, no affordable retail units and no social rented housing](http://35percent.org/2016-12-19-delancey-submits-shopping-centre-application/).  Delancey's amendments include a [draft local business support & relocation stratgy](http://moderngov.southwark.gov.uk/documents/s68297/Report%20Elephant%20and%20Castle%20Shopping%20Centre%20Equalities%20Analysis%20and%20Mitigation%20Projects.pdf), as well as more information about the [affordable housing](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!SeVE7nVBcuVxpQARghoUbA%3d%3d!%7d%7d%7d) offer.
 
