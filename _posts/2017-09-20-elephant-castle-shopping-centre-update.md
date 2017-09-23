@@ -1,26 +1,34 @@
 ---
 layout: post
-title: "Elephant & Castle shopping centre update"
-subtitle: "Revised planning application still falls short of policy requirements"
+title: Elephant & Castle shopping centre update
+subtitle: Revised planning application still falls short of policy requirements
 published: false
 ---
-Latest update on the Elephant & Castle shopping centre redevelopment:
+After a trader's deputation to Southwark Council and over 200 objections, developer Delancey has amended its plans for the demolition  and redevelopment of the shopping centre.  The original plans had [no provison for current traders, no affordable retail units and no social rented housing](http://35percent.org/2016-12-19-delancey-submits-shopping-centre-application/).  Delancey's amendments include a [draft local business support & relocation stratgy](http://moderngov.southwark.gov.uk/documents/s68297/Report%20Elephant%20and%20Castle%20Shopping%20Centre%20Equalities%20Analysis%20and%20Mitigation%20Projects.pdf), as well as more information about the [affordable housing](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!SeVE7nVBcuVxpQARghoUbA%3d%3d!%7d%7d%7d) offer.
 
-1. Still proposing half the amount of social rented housing required by policy.
-2. Still proposing (?%) less than the required 10% affordable retail.
-3. Still fails to make any re-provision for the bingo hall.
+However, the application  is not much better for any of these changes.  At local community meetings organised by the Walworth Society and Elephant Amenity Network, traders described the relocation strategy as 'vague'. There will be a relocation fund to assist traders, but Delancey will not say how large it will be, nor who exactly will qualify for payments.  Seven off-site units in the new Elephant Rd development are mentioned as alternative premises for traders, as well as unbuilt space of Elephant Park,and garage areas underneath nearby council block, Perronet House, but  this is nowhere near enough - Southwark itself has identified [45 'local operators'](http://moderngov.southwark.gov.uk/documents/s68297/Report%20Elephant%20and%20Castle%20Shopping%20Centre%20Equalities%20Analysis%20and%20Mitigation%20Projects.pdf), but there are many more, once kiosks, stalls and the sub-leasing of shop units is taken into account.
 
-A viability assessment was submitted in December last year by Delancey, justifying its departures from policy requirements. Despite Southwark's new policy it hasn't been made public.
+Nor are there any proposals for either relocating the Palaces bingo hall and bowling alley or accommodating them in the new development.  This is a serious omission.  A new [equalities statement]( http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!jL6JkkYmmtpBMzdpRozUkA%3d%3d!%7d%7d%7d) notes that both the elderly and people from black, Asian and minority ethnic background form a large part of the bingo hall's clientele and would be adveresly affected should the application be approved.  Southwark's failure to ensure that Aylesbury estate leaseholders from of similiar background were fairly treated led to the [humiliating refusal](http://35percent.org/2016-09-18-aylesbury-compulsory-purchase-order-rejected/) of its compulsory purchase order application.
 
-Bingo hall is effectively a community facility for 500 local pensioners every day. 
+Delancey's affordable retail offer for the development itself is craftily-worded (10% on the west site of the development, 5% on the east site), but the total amount across the whole site is only 5%, half the required amount.  Delancey offers a cash payment in lieu, but will not say how much this would be.
+
+### 0.3% fake social rented housing
+
+Matters do not improve with the [affordable housing addendum](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!SeVE7nVBcuVxpQARghoUbA%3d%3d!%7d%7d%7d).  Delancey still refuses to include any proper social rented housing, but instead offers something it calls 'social rent equivalent', starting at £160pw, with a 3-year tenancy.  Rents will rise with inflation, but with the prospect of further rises, should your income rise.  It also looks as if 'social rent equivalent' will only be available to 'economically active' households; what these are is left undefined.  Delancey proposes 33 'social rent equivalent' units out of a total of 979 new homes - 0.3%.
+
+Instead of social rented housing we will be getting affordable rent, at 'London Living Rent equivalent',at £205 - £308pw, and affordable rent at up to 80% market rent, depending on income.  60% of the affordable housing will be for households with incomes over £60,000 pa and up to £90,000pa.
+
+None of this is in line with the [Elephant's current affordable housing policy](http://www.southwark.gov.uk/assets/attach/1817/1.0.5%20Elephant%20%26%20Castle%20SPD%20OAPF.pdf), which requires half the affordable housing to be social rented.  Delancey should be givimg 170 social rented units, instead of 33 fake social rent.    Nor does the affordable housing offer meet the required amounts in the [new, 'emerging' policy](https://www.southwark.gov.uk/planning-and-building-control/planning-policy-and-transport-policy/development-plan/local-plan?chapter=4) Southwark is trying to sneak through the backdoor, to help the likes of Delancey reduce their affordable housing obligations.  Southwark has also vehemently [argued against including affordable rent in local housing policy](http://35percent.org/redefining-social-rent/).
 
 ![](/img/elephantcastlebingo.jpg)
 
-Calls for the bingo hall to be re-provided in the new development have been rejected by Delancey. Southwark claims it is powerless to force Delancey to re-provide a new bingo hall but Delancey is completely reliant on Southwark for this redevelopment to proceed. Without Southwark exercising its compulsory purchase powers to terminate the bingo hall's lease and several other of the shopping centre's long-term traders, Delancey cannot proceed with its scheme.
+Delanceys true intentions, if they were ever in any doubt, have been flushed out by these planning amendmendments - to do as little as possible for local traders and create a social housing-free zone at the Elephant and Castle.
 
-With its compulsory purchase powers, Southwark holds the key to Delancey's regeneration, it should take a firm stance with Delancey - either you comply with affordable housing and affordable retail policy requirements and re-provide a bingo hall or we won't exercise our compulsory purchase powers. 
+Southwark Council has the power to stop them, by refusing not only to grant planning application,but refusing to even consider the application in its current form.  We need units for every trader to stay in the area,if that is what they want .  We need to keep the bingo hall and bowling alley.  We need proper affordable housing, including the full amount of social rented housing.
 
-It's not too late to object! You can write to:
+Southwark also has compulsory purchase order powers that Delancey is relying on, if it cannot come to an agreement with the longer term leaseholders, including the Palace's bingo hall.  Southwark must make it clear it won't do Delancey's dirty work and won't be seeking any compulsory purchase orders on its behalf.
+
+This is a dreadful planning application, but it's not too late to object! You can write to:
  
  * MP Neil Coyle (neil.coyle@southwark.gov.uk [@coyleneil](https://twitter.com/coyleneil))
  * Council leader Peter John (peter.john@southwark.gov.uk [@peterjohn6](https://twitter.com/peterjohn6))
@@ -77,13 +85,13 @@ You can also use our automated objection form below to lodge an objection to the
 I am writing to object to the revised planning application for the redevelopment of the shopping centre and LCC campus at the Elephant & Castle (ref:16/AP/4458).
 
 Affordable Housing:
-This application does not propose a policy compliant affordable housing mix. Southwark's policy for the Elephant & Castle requires a minimum of 35% affordable housing, of which 50% must be social rented. The applicant is proposing a different tenure of housing, only 9% of which will be at social rent levels.
+This application does not propose a policy compliant affordable housing mix. Southwark's policy for the Elephant & Castle requires a minimum of 35% affordable housing, of which 50% must be social rented. The applicant is proposing a different tenure of housing, only 0.3% of which will be at social rent levels.
 
 Affordable retail & existing traders:
 The Council's strategic planning framework requires a minimum 10% affordable retail for new developments. Paragraph 5.1.7 of the Council's local planning policy (E&C SPD), further requires a number of "affordable retail units which are made available to existing occupiers displaced by development", in order to "ensure that development opportunities provide opportunities for existing and future SME businesses". The applicant's proposals fail to meet the Council's minimum 10% affordable retail requirement.
 
 Bingo Hall:
-Delancey is failing to make re-provision for the existing bingo hall. This provides community facilities for 500 local pensioners every day. This important facility must be retained in any new development in order to ensure that community benefits are not lost without being replaced.
+Delancey is failing to make re-provision for the existing bingo hall. This is an importsnt social and community facility for 500 local pensioners every day. This important facility must be retained in any new development in order to ensure that community benefits are not lost without being replaced.
 
 This application should not be considered by the Council until the above shortcomings have been addressed. 
 
@@ -97,6 +105,3 @@ Yours sincerely,
 </div>
    </fieldset>
   </form>
-
-
-
