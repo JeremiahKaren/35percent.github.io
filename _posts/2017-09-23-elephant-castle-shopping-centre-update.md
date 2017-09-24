@@ -39,7 +39,7 @@ This remains a dreadful planning application, but it's not too late to object! Y
 You can also use our automated objection form below to lodge an objection to the revised planning application. 
  
 ## Object Now!
- <form id="form5" action="http://commentform .herokuapp.com/" method="post">
+ <form id="form5" action="http://commentform.herokuapp.com/" method="post">
 <fieldset><legend>Fill in the details below to object to Delancey's revised planning application.</legend>
 <div id="mc_embed_signup">
 <div class="indicates-required"><span class="asterisk">*</span> indicates required</div>

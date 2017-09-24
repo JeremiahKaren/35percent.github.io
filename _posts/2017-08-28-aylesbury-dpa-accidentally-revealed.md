@@ -16,6 +16,10 @@ published: false
 
 @. The Acquiring Authority may argue that it has an 'overage agreement' in the DPA, meaning that it receives a percentage share of NHHT's 'overage' profit. However, such agreements bring notoriously uncertain results, as demonstrated by the Acquiring Authority's regeneration of the Silwood estate in Bermondsey that it redeveloped in partnership with NHHT. A similar agreement here resulted in an 'overage' payment of just £546,047 to the Acquiring Authority. An [FOI request](https://www.whatdotheyknow.com/request/silwood_estate_regeneration_site/new) shows that there was disagreement between the parties about the amount of overage paid with the Acquiring Authority arguing that more overage was due.
 
+In any case, the overage agreement is only triggered when sales of the private units exceed £471 per sqft. Notting Hill's [viability assessment](http://35percent.org/img/document.pdf) shows that if it sells the private units for an average of £470 per sqft then it will make a staggering £xxxm profit from the FDS. 
+
+![](http://35percent.org/img/profitshare.png)
+
 @. In total, Southwark agreed to underwrite £26.5m of the ongoing costs of progressing the scheme (over the next 3 years alone) and that NHHT was originally required to fund under the terms of the Development Partnership Agreement. These comprise:
 
 ![](/img/dpafunding.png)
