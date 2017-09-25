@@ -11,15 +11,24 @@ In response to criticism of his administration's failure to secure social rented
 
 We are blocked by Councillor John on Twitter, so we couldn't engage in the conversation. 
 
-We can show that the 40% figure is not grounded in facts, not the GLA's facts anyway. Every year the Mayor produces a monitoring report showing how many affordable homes are provided in each borough.
+We can show that the 40% figure is not grounded in facts, not the GLA's facts anyway. Every year the Mayor produces an annual monitoring report showing how many affordable homes are provided in each borough.
 
-These show that...
+The [report for the current year 2016/17](https://www.london.gov.uk/sites/default/files/amr_13.pdf) shows a net gain of 13 social rented homes over the past three years. 
 
+![](http://35percent.org/img/amr12.png)
 
-Southwark is knocking down council homes quicker than it can secure new social rented homes from developers.
+Table 3.7 of the report shows that there were a total of 5,220 net completions over the same period.
 
-Earlier this year, the Council acknowledged that it was failing in its programme to build new council homes: https://www.southwarknews.co.uk/news/council-admits-will-miss-target-build-1500-new-council-homes-2018/.
+Note that the GLA figures are net figures and whilst they don't take into acccount social rented homes lost through Right to Buy, they do take into account the number of social rented homes demolished. Given Southwark's [ongoing pipeline of estate demolitions](http://35percent.org/the-southwark-clearances/) it is no surprise that the net gain in social rented housing is extremely low. 
 
+Three years ago Councillor John announced the 'largest council house building programme in the country' with a commitment to build 11,000 new Council homes over the next 30 years. Councillor John even took the trouble of writing an [open letter](http://35percent.org/img/pj11000councilhomesletter.pdf) reassuring sceptics that the 11,000 new homes would be a net increase:
+
+![](http://35percent.org/img/pj11000councilhomesletter.png)
+*Extract from Councillor John's [open letter](/img/pj11000councilhomesletter.pdf)*
+
+Earlier this year, the Council [acknowledged](https://www.southwarknews.co.uk/news/council-admits-will-miss-target-build-1500-new-council-homes-2018/) that it was failing its targets. Quite what the extent of this failure is has now become apparent. 
+
+Meanwhile, demolition of the 2,600 council homes on the Aylesbury estate continues and the 'social rented' homes built as replacements will be [social rent only by name](http://35percent.org/redefining-social-rent/).
 
 ## Listening to communities
 Earlier this week Council leader Peter John spoke at the Labour party conference in Brighton on 'Listening to communities - the future of social housing post Grenfell'.
