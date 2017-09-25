@@ -13,7 +13,7 @@ We are blocked by Councillor John on Twitter, so we couldn't engage in the conve
 
 We can show that the 40% figure is not grounded in facts, not the GLA's facts anyway. Every year the Mayor produces an annual monitoring report showing how many affordable homes are provided in each borough.
 
-The [report for the current year 2016/17](https://www.london.gov.uk/sites/default/files/amr_13.pdf) shows a net gain of 13 social rented homes over the past three years. 
+The [report for the current year 2016/17](https://www.london.gov.uk/sites/default/files/amr_13.pdf) shows a net gain of 13 social rented homes over the past three years. That's a net gain of 4 homes at council rents per year. But we're not even sure they are being providing as social rent. We have [shown before](/redefining-social-rent) how Southwark turns a blind eye to developers and housing associations proving affordable rent insted.
 
 ![](http://35percent.org/img/amr13.png)
 
