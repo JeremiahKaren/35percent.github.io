@@ -6,7 +6,7 @@ published: false
 In response to criticism of his administration's failure to secure social rented housing from developers, last week Council leader Peter John [claimed on Twitter](https://twitter.com/peterjohn6/status/910181725187305472) that 40% of new homes delivered in the borough over the last 5 years were social rented:
 
 
-![](/img/pjfactsthread.png)
+![](http://35percent.org/img/pjfactsthread.png)
 *[Tweet](https://twitter.com/peterjohn6/status/910181725187305472) from Council leader Peter John*
 
 We are blocked by Councillor John on Twitter, so we couldn't engage in the conversation. 
@@ -18,7 +18,7 @@ Earlier this year, the Council acknowledged that it was failing in its programme
 
 Earlier this week Council leader Peter John spoke at the Labour party conference in Brighton on 'the future of social housing post Grenfell'.
 
-![](/img/lpc.png)
+![](http://35percent.org/img/lpc.png)
 
 
 Vice article: https://www.vice.com/en_uk/article/43avj3/the-london-lobbyist-with-ties-to-billions-of-pounds-of-gentrification
