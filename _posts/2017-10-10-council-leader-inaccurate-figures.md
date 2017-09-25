@@ -15,7 +15,7 @@ We can show that the 40% figure is not grounded in facts, not the GLA's facts an
 
 The [report for the current year 2016/17](https://www.london.gov.uk/sites/default/files/amr_13.pdf) shows a net gain of 13 social rented homes over the past three years. 
 
-![](http://35percent.org/img/amr12.png)
+![](http://35percent.org/img/amr13.png)
 
 Table 3.7 of the report shows that there were a total of 5,220 net completions over the same period.
 
