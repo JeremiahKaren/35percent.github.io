@@ -9,38 +9,45 @@ In response to criticism of his administration's failure to secure social rented
 ![](http://35percent.org/img/pjfactsthread.png)
 *[Tweet](https://twitter.com/peterjohn6/status/910181725187305472) from Council leader Peter John*
 
-We are blocked by Councillor John on Twitter, so we couldn't engage in the conversation. 
+We are blocked by Councillor John on Twitter, so we couldn't engage in the conversation or ask Councillor John where he got his 'facts' from.
 
-We can show that the 40% figure is not grounded in facts, not the GLA's facts anyway. Every year the Mayor produces an annual monitoring report showing how many affordable homes are provided in each borough.
+However, we can show that the 40% figure is not grounded in objective facts. Every year the Mayor produces an annual monitoring report showing how many affordable homes are provided in each borough along with a breakdown of tenures. The [report for the current year 2016/17](https://www.london.gov.uk/sites/default/files/amr_13.pdf) shows a net gain of 13 social rented homes over the past three years. This is out of a total 5,220 new homes built in the borough over those three years (Table 3.7). 
 
-The [report for the current year 2016/17](https://www.london.gov.uk/sites/default/files/amr_13.pdf) shows a net gain of 13 social rented homes over the past three years. That's a net gain of 4 homes at council rents per year. But we're not even sure they are being providing as social rent. We have [shown before](/redefining-social-rent) how Southwark turns a blind eye to developers and housing associations proving affordable rent insted.
+That's an average net gain of just 4 social rented homes per year and we're not even sure they are social rent; we have [shown before](/redefining-social-rent) how Southwark turns a blind eye to developers and housing associations proving affordable rent instead.
 
 ![](http://35percent.org/img/amr13.png)
 
-Table 3.7 of the report shows that there were a total of 5,220 net completions over the same period.
+Note that the GLA figures are net figures and whilst they don't take into acccount social rented homes lost through Right to Buy, they do take into account the number of social rented homes demolished. Given Southwark's [ongoing pipeline of estate demolitions](http://35percent.org/the-southwark-clearances/) it is no surprise that the net gain in social rented housing is in some years a negative figure and overall extremely low. 
 
-Note that the GLA figures are net figures and whilst they don't take into acccount social rented homes lost through Right to Buy, they do take into account the number of social rented homes demolished. Given Southwark's [ongoing pipeline of estate demolitions](http://35percent.org/the-southwark-clearances/) it is no surprise that the net gain in social rented housing is extremely low. 
+## Knocking em down faster than you can put em up
+Three years ago Councillor John announced the 'largest council house building programme in the country' with a commitment to build 11,000 new Council homes over the next 30 years. 
 
-Three years ago Councillor John announced the 'largest council house building programme in the country' with a commitment to build 11,000 new Council homes over the next 30 years. Councillor John even took the trouble of writing an [open letter](http://35percent.org/img/pj11000councilhomesletter.pdf) reassuring sceptics that the 11,000 new homes would be a net increase:
+Sceptics complained that the plans were nothing but PR spin that would be used to cover up the extent of the growing programme of council estate demolitions.
+
+![](http://crappistmartin.github.io/images/SN1100homes.png)
+
+Councillor John responded with an [open letter](http://35percent.org/img/pj11000councilhomesletter.pdf) reassuring sceptics and guaranteeing that the 11,000 new council homes would be a net increase:
 
 ![](http://35percent.org/img/pj11000councilhomesletter.png)
 *Extract from Councillor John's [open letter](/img/pj11000councilhomesletter.pdf)*
 
-Earlier this year, the Council [acknowledged](https://www.southwarknews.co.uk/news/council-admits-will-miss-target-build-1500-new-council-homes-2018/) that it was failing its targets. Quite what the extent of this failure is has now become apparent. 
-
-Meanwhile, demolition of the 2,600 council homes on the Aylesbury estate continues and the 'social rented' homes built as replacements will be [social rent only by name](http://35percent.org/redefining-social-rent/).
+Earlier this year, the Council [acknowledged](https://www.southwarknews.co.uk/news/council-admits-will-miss-target-build-1500-new-council-homes-2018/) that it was failing its targets. Quite what the extent of this failure is only now becoming apparent. 
 
 ## Listening to communities
-Earlier this week Council leader Peter John spoke at the Labour party conference in Brighton on 'Listening to communities - the future of social housing post Grenfell'.
+Earlier this week Council leader Peter John spoke at the Labour party conference alongside Labour's shadow Minister for housing John Healey. The title of the talk was _'Listening to communities - the future of social housing post Grenfell'_.
 
 ![](http://35percent.org/img/lpc.png)
 
-Lets hope his model of 'listening to communities' is not adopted by the Labour party - Heygate and Aylesbury etc. 
+We hope that Councillor John's model of 'listening to communities' is not adopted by the rest of the Labour party. Heygate residents were [denied a ballot](http://heygate.github.io/img/councilrulesoutvote.pdf) and 70% of residents balloted on the Aylesbury estate [voted against demolition](https://www.theguardian.com/society/2001/dec/27/1), on a 73% ballot turnout. If this is listening to communities then it is the Grenfell model of listening to communities and needs to change.
 
-PJ is much better at listening to developers rather than communities.
+## Listening to developers
+Private eye has shown us that Councillor John is much better at listening to developers than he is to communities.
 
-This is confirmed in a recent Vice article: https://www.vice.com/en_uk/article/43avj3/the-london-lobbyist-with-ties-to-billions-of-pounds-of-gentrification
+![](http://crappistmartin.github.io/images/private-eye-southwark-council-developers.png)
 
-Lendlease listed amongst Terrapin's clients and PJ had seven meetings with Mr Bingle.
+This is further confirmed by a [recent article](https://www.vice.com/en_uk/article/43avj3/the-london-lobbyist-with-ties-to-billions-of-pounds-of-gentrification) in Vice magazine, where Councillor John is found to have had no less than seven meetings with London lobbyist Peter Bingle, who works [in the service of Lendlease](https://web.archive.org/web/20170614105632/http://www.terrapincommunications.co.uk/our-clients/).
 
-https://web.archive.org/web/20170614105632/http://www.terrapincommunications.co.uk/our-clients/
+![](http://35percent.org/img/vicebingle.png)
+
+Councillor John is not the only Southwark Councillor good at listening to developers; our [growing dossier](http://35percent.org/revolving-doors) shows a growing number of Southwark Labour members and officials with links to the development industry. These are surely not Labour values that deserve promoting..
+
