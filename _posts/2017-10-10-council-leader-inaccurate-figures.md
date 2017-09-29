@@ -19,7 +19,7 @@ That's an average net gain of just 4 social rented homes per year (if they are s
 
 The Mayor's figures are net figures and whilst they don't take into acccount social rented homes lost through Right to Buy, they do take into account the number of social rented homes demolished. Given Southwark's [ongoing pipeline of estate demolitions](http://35percent.org/the-southwark-clearances/) it is therefore no surprise that the net gain in social rented housing is in some years a negative figure and overall extremely low. 
 
-## Knocking 'em down faster than you can put 'em up
+## Southwark nnocking 'em down faster than it's putting 'em up
 
 Southwark were a bit more candid about their failure earlier in the year when it [acknowledged](https://www.southwarknews.co.uk/news/council-admits-will-miss-target-build-1500-new-council-homes-2018/)that it had not reached the first-phase target for its 11,000 council house building programme.
 
