@@ -21,7 +21,7 @@ The Mayor's figures are net figures and whilst they don't take into acccount soc
 
 ##Southwark knocking 'em down faster than it's putting 'em up
 
-Southwark were a bit more candid about its failures earlier in the year when it [acknowledged](https://www.southwarknews.co.uk/news/council-admits-will-miss-target-build-1500-new-council-homes-2018/) that it had not reached an eaarly phase target for its 11,000 council house building programme.
+Southwark Council was a bit more candid about its failures earlier in the year when it [acknowledged](https://www.southwarknews.co.uk/news/council-admits-will-miss-target-build-1500-new-council-homes-2018/) that it had not reached an eaarly phase target for its 11,000 council house building programme.
 
 When this programme was announced in 2014,sceptics complained that the plans were nothing but PR spin that would be used to cover up the extent of the growing programme of council estate demolitions.  Councillor John responded with an [open letter](http://35percent.org/img/pj11000councilhomesletter.pdf)guaranteeing that the 11,000 new council homes would be a in addition to the current council housing stock, in other words 'net'.  Three years on the net figures in the Mayor's Annual Monitoring Reports show just how far Southwark are fom achieving this.
 
