@@ -21,18 +21,18 @@ The Mayor's figures are net figures and whilst they don't take into acccount soc
 
 ## Southwark knocking 'em down faster than it's putting 'em up
 
-Southwark were a bit more candid about their failure earlier in the year when it [acknowledged](https://www.southwarknews.co.uk/news/council-admits-will-miss-target-build-1500-new-council-homes-2018/) that it had not reached the first-phase target for its 11,000 council house building programme.
+Southwark were a bit more candid about its failure earlier in the year when it [acknowledged](https://www.southwarknews.co.uk/news/council-admits-will-miss-target-build-1500-new-council-homes-2018/) that it had not reached the first-phase target for its 11,000 council house building programme.
 
-When this programme was announced 3 years ago as the 'largest council house building programme in the country' sceptics complained that the plans were nothing but PR spin that would be used to cover up the extent of the growing programme of council estate demolitions.
+When this programme was announced in 2014,sceptics complained that the plans were nothing but PR spin that would be used to cover up the extent of the growing programme of council estate demolitions.  Councillor John responded with an [open letter](http://35percent.org/img/pj11000councilhomesletter.pdf)guaranteeing that the 11,000 new council homes would be a in addition to the current council housing stock, in other words 'net'.  Three years on the net figures in the Mayor's Annual Monitoring Reports show just how far Southwark are fom achieving this.
 
 ![](http://crappistmartin.github.io/images/SN1100homes.png)
 
-Councillor John responded with an [open letter](http://35percent.org/img/pj11000councilhomesletter.pdf)guaranteeing that the 11,000 new council homes would be a in addition to the current council housing stock, in other words 'net'.
+
 
 ![](http://35percent.org/img/pj11000councilhomesletter.png)
 *Extract from Councillor John's [open letter](/img/pj11000councilhomesletter.pdf)*
 
-The net figures in the Mayor's Annual Monitoring Reports show just how far Southwark are fom achieving this.
+
 
 ## Listening to communities
 Earlier this week Council leader Peter John spoke at the Labour party conference alongside Labour's shadow Minister for housing John Healey. The title of the talk was _'Listening to communities - the future of social housing post Grenfell'_.
