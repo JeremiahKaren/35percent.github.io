@@ -33,14 +33,15 @@ When this programme was announced in 2014,sceptics complained that the plans wer
 *Extract from Councillor John's [open letter](/img/pj11000councilhomesletter.pdf)*
 
 ##The listening council
-As well as speaking, or at least tweeting, Cllr John wants us to know that Southwark also 'listens'.  He appeared earlier this week at the Labour party conference, alongside Labour's shadow Minister for housing John Healey. The title of the talk was _'Listening to communities - the future of social housing post Grenfell'_.
+As well as speaking, or at least tweeting, Cllr John wants us to know that Southwark also 'listens'.  He appeared earlier this week at the Labour party conference, alongside Labour's shadow Minister for housing John Healey, at a talk titled _'Listening to communities - the future of social housing post Grenfell'_.
 
 ![](http://35percent.org/img/lpc.png)
 
 All the evidence,though, is that Southwark is deaf to its communities, particularly its council estate communities.  On the Aylesbury estate, 70% of residents balloted [voted against its demolition](https://www.theguardian.com/society/2001/dec/27/1), on a 73% ballot turnout - all to no avail; the estate is being demolished, regardless and Southwark continues its ruthless treatment of leaseholders who stand in its way. The Heygate estate community did not even get the chance to be ignored, and were [denied a ballot](http://heygate.github.io/img/councilrulesoutvote.pdf)on the future of their homes and estate.
 
 When it comes to developers, though, Southwark is all ears, as articles in 
-Private eye and more recently [Vice magazine](https://www.vice.com/en_uk/article/43avj3/the-london-lobbyist-with-ties-to-billions-of-pounds-of-gentrification) show.  Cllr John is found to have had no less than seven meetings with London lobbyist Peter Bingle, who works [in the service of Lendlease](https://web.archive.org/web/20170614105632/http://www.terrapincommunications.co.uk/our-clients/).
+Private Eye and more recently [Vice magazine](https://www.vice.com/en_uk/article/43avj3/the-london-lobbyist-with-ties-to-billions-of-pounds-of-gentrification) show.  In the Vice article Cllr John is found to have had no less than seven meetings with London lobbyist Peter Bingle, who works 
+[in the service of Lendlease](https://web.archive.org/web/20170614105632/http://www.terrapincommunications.co.uk/our-clients/), who are building on their successly destruction of the Heygate to provide more of thee same in Haringey. 
 ![](http://crappistmartin.github.io/images/private-eye-southwark-council-developers.png)
 
 This is further confirmed by a [recent article](https://www.vice.com/en_uk/article/43avj3/the-london-lobbyist-with-ties-to-billions-of-pounds-of-gentrification) in Vice magazine, where Councillor John is found to have had no less than seven meetings with London lobbyist Peter Bingle, who works [in the service of Lendlease](https://web.archive.org/web/20170614105632/http://www.terrapincommunications.co.uk/our-clients/).
