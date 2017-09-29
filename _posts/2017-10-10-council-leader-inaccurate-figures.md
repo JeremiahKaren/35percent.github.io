@@ -21,14 +21,13 @@ The GLA figures are net figures and whilst they don't take into acccount social 
 
 ## Knocking 'em down faster than you can put 'em up
 
-Southwark were a bit more candid about their failure earlier in the year when it [acknowledged](https://www.southwarknews.co.uk/news/council-admits-will-miss-target-build-1500-new-council-homes-2018/)that it had not reached its first phase target of its council house building programme.
-Three years ago Councillor John announced the 'largest council house building programme in the country' with a commitment to build 11,000 new Council homes over the next 30 years. 
+Southwark were a bit more candid about their failure earlier in the year when it [acknowledged](https://www.southwarknews.co.uk/news/council-admits-will-miss-target-build-1500-new-council-homes-2018/)that it had not reached the first-phase target for its 11,000 council house building programme.
 
-Sceptics complained that the plans were nothing but PR spin that would be used to cover up the extent of the growing programme of council estate demolitions.
+When this programme was announced 3 years ago as the 'largest council house building programme in the country' sceptics complained that the plans were nothing but PR spin that would be used to cover up the extent of the growing programme of council estate demolitions.
 
 ![](http://crappistmartin.github.io/images/SN1100homes.png)
 
-Councillor John responded with an [open letter](http://35percent.org/img/pj11000councilhomesletter.pdf) reassuring sceptics and guaranteeing that the 11,000 new council homes would be a net increase:
+Councillor John responded with an [open letter](http://35percent.org/img/pj11000councilhomesletter.pdf)guaranteeing that the 11,000 new council homes would be a net increase:
 
 ![](http://35percent.org/img/pj11000councilhomesletter.png)
 *Extract from Councillor John's [open letter](/img/pj11000councilhomesletter.pdf)*
@@ -42,7 +41,7 @@ Earlier this week Council leader Peter John spoke at the Labour party conference
 
 We hope that Councillor John's model of 'listening to communities' is not adopted by the rest of the Labour party. Heygate residents were [denied a ballot](http://heygate.github.io/img/councilrulesoutvote.pdf) and 70% of residents balloted on the Aylesbury estate [voted against demolition](https://www.theguardian.com/society/2001/dec/27/1), on a 73% ballot turnout. If this is listening to communities then it is the Grenfell model of listening to communities and needs to change.
 
-## Listening to developers
+## The Listening Council
 Private eye has shown us that Councillor John is much better at listening to developers than he is to communities.
 
 ![](http://crappistmartin.github.io/images/private-eye-southwark-council-developers.png)
