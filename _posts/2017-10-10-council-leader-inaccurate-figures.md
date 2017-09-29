@@ -19,7 +19,7 @@ That's an average net gain of just 4 social rented homes per year (if they are s
 
 The Mayor's figures are net figures and whilst they don't take into acccount social rented homes lost through Right to Buy, they do take into account the number of social rented homes demolished. Given Southwark's [ongoing pipeline of estate demolitions](http://35percent.org/the-southwark-clearances/) it is therefore no surprise that the net gain in social rented housing is in some years a negative figure and overall extremely low. 
 
-## Southwark knocking 'em down faster than it's putting 'em up
+##Southwark knocking 'em down faster than it's putting 'em up
 
 Southwark were a bit more candid about its failures earlier in the year when it [acknowledged](https://www.southwarknews.co.uk/news/council-admits-will-miss-target-build-1500-new-council-homes-2018/) that it had not reached an eaarly phase target for its 11,000 council house building programme.
 
@@ -32,18 +32,15 @@ When this programme was announced in 2014,sceptics complained that the plans wer
 ![](http://35percent.org/img/pj11000councilhomesletter.png)
 *Extract from Councillor John's [open letter](/img/pj11000councilhomesletter.pdf)*
 
-
-
-## Listening to communities
-Earlier this week Council leader Peter John spoke at the Labour party conference alongside Labour's shadow Minister for housing John Healey. The title of the talk was _'Listening to communities - the future of social housing post Grenfell'_.
+##The listening council
+As well as speaking, or at least tweeting, Cllr John wants us to know that Southwark also 'listens'.  He appeared earlier this week at the Labour party conference, alongside Labour's shadow Minister for housing John Healey. The title of the talk was _'Listening to communities - the future of social housing post Grenfell'_.
 
 ![](http://35percent.org/img/lpc.png)
 
-We hope that Councillor John's model of 'listening to communities' is not adopted by the rest of the Labour party. Heygate residents were [denied a ballot](http://heygate.github.io/img/councilrulesoutvote.pdf) and 70% of residents balloted on the Aylesbury estate [voted against demolition](https://www.theguardian.com/society/2001/dec/27/1), on a 73% ballot turnout. If this is listening to communities then it is the Grenfell model of listening to communities and needs to change.
+All the evidence,though, is that Southwark is deaf to its communities, particularly its council estate communities.  On the Aylesbury estate, 70% of residents balloted [voted against its demolition](https://www.theguardian.com/society/2001/dec/27/1), on a 73% ballot turnout - all to no avail; the estate is being demolished, regardless and Southwark continues its ruthless treatment of leaseholders who stand in its way. The Heygate estate community did not even get the chance to be ignored, and were [denied a ballot](http://heygate.github.io/img/councilrulesoutvote.pdf)on the future of their homes and estate.
 
-## The Listening Council
-Private eye has shown us that Councillor John is much better at listening to developers than he is to communities.
-
+When it comes to developers, though, Southwark is all ears, as articles in 
+Private eye and more recently [Vice magazine](https://www.vice.com/en_uk/article/43avj3/the-london-lobbyist-with-ties-to-billions-of-pounds-of-gentrification) show.  Cllr John is found to have had no less than seven meetings with London lobbyist Peter Bingle, who works [in the service of Lendlease](https://web.archive.org/web/20170614105632/http://www.terrapincommunications.co.uk/our-clients/).
 ![](http://crappistmartin.github.io/images/private-eye-southwark-council-developers.png)
 
 This is further confirmed by a [recent article](https://www.vice.com/en_uk/article/43avj3/the-london-lobbyist-with-ties-to-billions-of-pounds-of-gentrification) in Vice magazine, where Councillor John is found to have had no less than seven meetings with London lobbyist Peter Bingle, who works [in the service of Lendlease](https://web.archive.org/web/20170614105632/http://www.terrapincommunications.co.uk/our-clients/).
