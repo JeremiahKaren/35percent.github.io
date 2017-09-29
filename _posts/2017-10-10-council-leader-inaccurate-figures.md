@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Council leader - the alternative facts
+title: Council leader Peter John - the alternative facts
 published: false
 ---
 In response to criticism of his administration's failure to secure social rented housing from developers, last week Council leader Peter John [claimed on Twitter](https://twitter.com/peterjohn6/status/910181725187305472) that 40% of new homes delivered in the borough over the last 5 years were social rented:
@@ -9,9 +9,9 @@ In response to criticism of his administration's failure to secure social rented
 ![](http://35percent.org/img/pjfactsthread.png)
 *[Tweet](https://twitter.com/peterjohn6/status/910181725187305472) from Council leader Peter John*
 
-We are blocked by Councillor John on Twitter, so we couldn't engage in the conversation or ask Councillor John where he got his 'facts' from.
+We're blocked by Councillor John on Twitter, so we couldn't engage in the conversation or ask Councillor John where he got his 'facts' from.
 
-However, we can show that the 40% figure is not grounded in objective facts. Every year the Mayor produces an annual monitoring report showing how many affordable homes are provided in each borough along with a breakdown of tenures. The [report for the current year 2016/17](https://www.london.gov.uk/sites/default/files/amr_13.pdf) shows a net gain of 13 social rented homes over the past three years. This is out of a total 5,220 new homes built in the borough over those three years (Table 3.7). 
+However, we can show thatCllr John's 40% figure is not grounded in reality. Every year the London Mayor produces an Annual Monitoring Report, showing how many affordable homes are provided in each borough, along with a breakdown of tenures. The [report for the current year 2016/17](https://www.london.gov.uk/sites/default/files/amr_13.pdf) shows a net gain of 13 social rented homes over the past three years. This is out of a total 5,220 new homes built in the borough over those three years (Table 3.7). 
 
 That's an average net gain of just 4 social rented homes per year and we're not even sure they are social rent; we have [shown before](/redefining-social-rent) how Southwark turns a blind eye to developers and housing associations proving affordable rent instead.
 
