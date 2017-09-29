@@ -19,9 +19,9 @@ That's an average net gain of just 4 social rented homes per year and we're not 
 
 The GLA figures are net figures and whilst they don't take into acccount social rented homes lost through Right to Buy, they do take into account the number of social rented homes demolished. Given Southwark's [ongoing pipeline of estate demolitions](http://35percent.org/the-southwark-clearances/) it is therefore no surprise that the net gain in social rented housing is in some years a negative figure and overall extremely low. 
 
-## Knocking em down faster than you can put em up
+## Knocking 'em down faster than you can put 'em up
 
-Southwark 
+Southwark were a bit more candid about their failure earlier in the year when it [acknowledged](https://www.southwarknews.co.uk/news/council-admits-will-miss-target-build-1500-new-council-homes-2018/)that it had not reached its first phase target of its council house building programme.
 Three years ago Councillor John announced the 'largest council house building programme in the country' with a commitment to build 11,000 new Council homes over the next 30 years. 
 
 Sceptics complained that the plans were nothing but PR spin that would be used to cover up the extent of the growing programme of council estate demolitions.
