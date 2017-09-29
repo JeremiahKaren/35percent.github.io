@@ -21,7 +21,7 @@ The Mayor's figures are net figures and whilst they don't take into acccount soc
 
 ##Southwark knocking 'em down faster than it's putting 'em up
 
-Southwark Council was a bit more candid about its failures earlier in the year when it [acknowledged](https://www.southwarknews.co.uk/news/council-admits-will-miss-target-build-1500-new-council-homes-2018/) that it had not reached an eaarly phase target for its 11,000 council house building programme.
+Southwark Council was a bit more candid about its failures earlier in the year when it [acknowledged](https://www.southwarknews.co.uk/news/council-admits-will-miss-target-build-1500-new-council-homes-2018/) that it had not reached an early phase target for its 11,000 council house building programme.
 
 When this programme was announced in 2014,sceptics complained that the plans were nothing but PR spin that would be used to cover up the extent of the growing programme of council estate demolitions.  Councillor John responded with an [open letter](http://35percent.org/img/pj11000councilhomesletter.pdf)guaranteeing that the 11,000 new council homes would be a in addition to the current council housing stock, in other words 'net'.  Three years on the net figures in the Mayor's Annual Monitoring Reports show just how far Southwark are fom achieving this.
 
@@ -46,6 +46,3 @@ Private Eye and more recently [Vice magazine](https://www.vice.com/en_uk/article
 Councillor John is not the only Southwark Councillor listening to developers; our [growing dossier](http://35percent.org/revolving-doors) shows a growing number of Southwark Labour members and officials with links to the development industry. If Jeremy Corbyn's encouraging words that ['regeneration under a Labour government will be for the benefit of the local people, not private developers, not property speculators'](https://www.totalpolitics.com/articles/news/jeremy-corbyn%E2%80%99s-2017-labour-conference-speech-full-transcript) are to be made something more than a conference sound-bite, then the Labour Party needs to get its house in order and break these ties.
 
 ![](http://crappistmartin.github.io/images/private-eye-southwark-council-developers.png)
-
-
-
