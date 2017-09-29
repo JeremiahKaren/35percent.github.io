@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Council leader - alternative facts"
+title: Council leader - the alternative facts
 published: false
 ---
 In response to criticism of his administration's failure to secure social rented housing from developers, last week Council leader Peter John [claimed on Twitter](https://twitter.com/peterjohn6/status/910181725187305472) that 40% of new homes delivered in the borough over the last 5 years were social rented:
@@ -50,4 +50,3 @@ This is further confirmed by a [recent article](https://www.vice.com/en_uk/artic
 ![](http://35percent.org/img/vicebingle.png)
 
 Councillor John is not the only Southwark Councillor good at listening to developers; our [growing dossier](http://35percent.org/revolving-doors) shows a growing number of Southwark Labour members and officials with links to the development industry. These are surely not Labour values that deserve promoting..
-
