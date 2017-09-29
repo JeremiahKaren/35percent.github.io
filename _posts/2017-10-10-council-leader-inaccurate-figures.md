@@ -27,12 +27,12 @@ When this programme was announced 3 years ago as the 'largest council house buil
 
 ![](http://crappistmartin.github.io/images/SN1100homes.png)
 
-Councillor John responded with an [open letter](http://35percent.org/img/pj11000councilhomesletter.pdf)guaranteeing that the 11,000 new council homes would be a net increase:
+Councillor John responded with an [open letter](http://35percent.org/img/pj11000councilhomesletter.pdf)guaranteeing that the 11,000 new council homes would be a in addition to the current council housing stock, in other words 'net'.
 
 ![](http://35percent.org/img/pj11000councilhomesletter.png)
 *Extract from Councillor John's [open letter](/img/pj11000councilhomesletter.pdf)*
 
-Earlier this year, the Council [acknowledged](https://www.southwarknews.co.uk/news/council-admits-will-miss-target-build-1500-new-council-homes-2018/) that it was failing its targets. Quite what the extent of this failure is only now becoming apparent. 
+The net figures in the Mayor's Annual Monitoring Reports show just how far Southwark are fom achieving this.
 
 ## Listening to communities
 Earlier this week Council leader Peter John spoke at the Labour party conference alongside Labour's shadow Minister for housing John Healey. The title of the talk was _'Listening to communities - the future of social housing post Grenfell'_.
