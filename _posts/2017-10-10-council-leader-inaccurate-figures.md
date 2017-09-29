@@ -37,15 +37,15 @@ As well as speaking, or at least tweeting, Cllr John wants us to know that South
 
 ![](http://35percent.org/img/lpc.png)
 
-All the evidence,though, is that Southwark is deaf to its communities, particularly its council estate communities.  On the Aylesbury estate, 70% of residents balloted [voted against its demolition](https://www.theguardian.com/society/2001/dec/27/1), on a 73% ballot turnout - all to no avail; the estate is being demolished, regardless and Southwark continues its ruthless treatment of leaseholders who stand in its way. The Heygate estate community did not even get the chance to be ignored, and were [denied a ballot](http://heygate.github.io/img/councilrulesoutvote.pdf)on the future of their homes and estate.
+All the evidence,though, is that Southwark is deaf to its communities, particularly its council estate communities.  On the Aylesbury estate, 70% of residents balloted [voted against its demolition](https://www.theguardian.com/society/2001/dec/27/1), on a 73% ballot turnout - all to no avail; the estate is being demolished, regardless and Southwark continues its [ruthless treatment](http://35percent.org/2017-05-08-aylesbury-cpo-what-has-really-happened/)of leaseholders who stand in its way. The Heygate estate community did not even get the chance to be ignored, and were [denied a ballot](http://heygate.github.io/img/councilrulesoutvote.pdf) on the future of their homes and estate.
 
 When it comes to developers, though, Southwark is all ears, as articles in 
 Private Eye and more recently [Vice magazine](https://www.vice.com/en_uk/article/43avj3/the-london-lobbyist-with-ties-to-billions-of-pounds-of-gentrification) show.  In the Vice article Cllr John is found to have had no less than seven meetings with London lobbyist Peter Bingle, who works 
-[in the service of Lendlease](https://web.archive.org/web/20170614105632/http://www.terrapincommunications.co.uk/our-clients/), who are building on their successly destruction of the Heygate to provide more of thee same in Haringey. 
+[in the service of Lendlease](https://web.archive.org/web/20170614105632/http://www.terrapincommunications.co.uk/our-clients/).  Lendlease are building on their success destroying the Heygate, to provide [more of the same in Haringey](https://www.theguardian.com/society/2017/jul/03/labour-mps-urge-haringey-council-to-rethink-housing-sell-off).
+
+Councillor John is not the only Southwark Councillor listening to developers; our [growing dossier](http://35percent.org/revolving-doors) shows a growing number of Southwark Labour members and officials with links to the development industry. If Jeremy Corbyn's encouraging words that ['regeneration under a Labour government will be for the benefit of the local people, not private developers, not property speculators'](https://www.totalpolitics.com/articles/news/jeremy-corbyn%E2%80%99s-2017-labour-conference-speech-full-transcript) are to be made concrete, then the Labour Party needs to get its house in order and break these ties.
+
 ![](http://crappistmartin.github.io/images/private-eye-southwark-council-developers.png)
 
-This is further confirmed by a [recent article](https://www.vice.com/en_uk/article/43avj3/the-london-lobbyist-with-ties-to-billions-of-pounds-of-gentrification) in Vice magazine, where Councillor John is found to have had no less than seven meetings with London lobbyist Peter Bingle, who works [in the service of Lendlease](https://web.archive.org/web/20170614105632/http://www.terrapincommunications.co.uk/our-clients/).
 
-![](http://35percent.org/img/vicebingle.png)
 
-Councillor John is not the only Southwark Councillor good at listening to developers; our [growing dossier](http://35percent.org/revolving-doors) shows a growing number of Southwark Labour members and officials with links to the development industry. These are surely not Labour values that deserve promoting..
