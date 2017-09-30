@@ -37,5 +37,12 @@ All the evidence though, is that Southwark is deaf to its communities, particula
 
 When it comes to developers though, Southwark is all ears; as Private Eye has noted in the past and our [growing dossier](http://35percent.org/revolving-doors) shows, an increasing number of Southwark Labour members and officials with links to the development industry. If Jeremy Corbyn's encouraging words that ['regeneration under a Labour government will be for the benefit of the local people, not private developers, not property speculators'](https://www.totalpolitics.com/articles/news/jeremy-corbyn%E2%80%99s-2017-labour-conference-speech-full-transcript) are to be made something more than a conference sound-bite, then the Labour Party needs to get its house in order and break these ties.
 
-![](http://crappistmartin.github.io/images/private-eye-southwark-council-developers.png)
+![](http://35percent.org/img/private-eye-southwark-council-developers.png)
 
+## Stop press
+Cllr John has issued a [press statement](http://southwarklabour.co.uk/latest-news/southwark/news.aspx?p=102392) in response to Jeremy Corbyn's speech.
+
+![](http://35percent.org/img/statementpjestateballots.jpg)
+
+He says that his Council already only considers estate regeneration where there is no net loss in council homes. 
+This is utter crap as none of the replacement 'social housing' on the Aylesbury will be council homes and even if they are [provided at social rent rather than affordable rent](http://35percent.org/redefining-social-rent) as we suspect, there will be still be a minimum net loss of 778 social rented units.  
