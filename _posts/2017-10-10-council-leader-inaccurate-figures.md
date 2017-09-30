@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Council leader Peter John - the alternative facts"
-published: true 
+title: Council leader Peter John - the alternative facts
+published: true
 ---
 In response to criticism of his administration's failure to secure social rented housing from developers, last week Southwark Council leader Peter John [claimed on Twitter](https://twitter.com/peterjohn6/status/910181725187305472) that 40% of new homes delivered in the borough over the last 5 years were social rented:
 
@@ -44,6 +44,4 @@ Cllr John has issued a [press statement](http://southwarklabour.co.uk/latest-new
 
 ![](http://35percent.org/img/statementpjestateballots.jpg)
 
-He says his Council already only considers estate regeneration where there is no net loss in council homes. 
-
-This is another alternative fact; [just 82](http://35percent.org/affordable-housing/) of the new homes on the Heygate estate will be social rented; the [Aylesbury estate regeneration](http://35percent.org/aylesbury-estate/) will result in a minimum net loss of 778 social rented units. The [Elmington estate regeneration](http://35percent.org/elmington-estate-regeneration/) is resulting in a [net loss of 346 social rented homes](https://southwarknotes.wordpress.com/tag/elmington-estate/), the [Wood Dene estate regeneration](http://35percent.org/wood-dene-estate-regeneration/) is resulting in a net loss of 262 social rented homes.
+He says his Council already only considers estate regeneration where there is no net loss in council homes. This is a welcome change of heart, but if is sincere, Southwark must start by halting the demolition of the Aylesbury estate.  This will lose Southwark 2700 council homes, which combined with the 1200 already demolished on the Heygate, means that around 10% of Southwark's council housing stock will be lost.  None of this is being replaced by new council housing, but by much smaller amounts of social rented housing.  The [Aylesbury estate regeneration](http://35percent.org/aylesbury-estate/) will see a minimum net loss of 778 social rented units, and of course on the Heygate[just 82](http://35percent.org/affordable-housing/) of the new homes will be social rented.  We might add to this the [Elmington estate regeneration](http://35percent.org/elmington-estate-regeneration/), with a [net loss of 346 social rented homes](https://southwarknotes.wordpress.com/tag/elmington-estate/) and the [Wood Dene estate regeneration](http://35percent.org/wood-dene-estate-regeneration/, with a net loss of 262 social rented homes.
