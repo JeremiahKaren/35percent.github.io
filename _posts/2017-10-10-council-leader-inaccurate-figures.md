@@ -1,10 +1,9 @@
 ---
 layout: post
-title: Council leader Peter John - the alternative facts
-published: false
+title: "Council leader Peter John - the alternative facts"
+published: true 
 ---
 In response to criticism of his administration's failure to secure social rented housing from developers, last week Southwark Council leader Peter John [claimed on Twitter](https://twitter.com/peterjohn6/status/910181725187305472) that 40% of new homes delivered in the borough over the last 5 years were social rented:
-
 
 ![](http://35percent.org/img/pjfactsthread.png)
 *[Tweet](https://twitter.com/peterjohn6/status/910181725187305472) from Council leader Peter John*
