@@ -44,5 +44,6 @@ Cllr John has issued a [press statement](http://southwarklabour.co.uk/latest-new
 
 ![](http://35percent.org/img/statementpjestateballots.jpg)
 
-He says that his Council already only considers estate regeneration where there is no net loss in council homes. 
-This is utter crap as none of the replacement 'social housing' on the Aylesbury will be council homes and even if they are [provided at social rent rather than affordable rent](http://35percent.org/redefining-social-rent) as we suspect, there will be still be a minimum net loss of 778 social rented units.  
+He says his Council already only considers estate regeneration where there is no net loss in council homes. 
+
+This is another alternative fact; [just 82](http://35percent.org/affordable-housing/) of the new homes on the Heygate estate will be social rented; the [Aylesbury estate regeneration](http://35percent.org/aylesbury-estate/) will result in a minimum net loss of 778 social rented units. The [Elmington estate regeneration](http://35percent.org/elmington-estate-regeneration/) is resulting in a [net loss of 346 social rented homes](https://southwarknotes.wordpress.com/tag/elmington-estate/), the [Wood Dene estate regeneration](http://35percent.org/wood-dene-estate-regeneration/) is resulting in a net loss of 262 social rented homes.
