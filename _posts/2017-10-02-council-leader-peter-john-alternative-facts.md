@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Council leader Peter John - the alternative facts
+title: "Council leader Peter John - the alternative facts"
 published: true
 ---
 In response to criticism of his administration's failure to secure social rented housing from developers, last week Southwark Council leader Peter John [claimed on Twitter](https://twitter.com/peterjohn6/status/910181725187305472) that 40% of new homes delivered in the borough over the last 5 years were social rented:
@@ -10,13 +10,13 @@ In response to criticism of his administration's failure to secure social rented
 
 We're blocked by Councillor John on Twitter, so we couldn't engage in the conversation or ask Councillor John where he got his 'Facts' from. However, we can show that Cllr John's 40% figure is not grounded in reality.
 
-Every year the London Mayor produces an Annual Monitoring Report, showing how many affordable homes are provided in each borough, along with a breakdown of tenures. The [report for the current year 2016/17](https://www.london.gov.uk/sites/default/files/amr_13.pdf) shows a net gain of just 13 social rented homes over the past three years. This is out of a total 5,220 new homes built in the borough over those three years (Table 3.7). 
+Every year the London Mayor produces an [Annual Monitoring Report](https://www.london.gov.uk/what-we-do/planning/implementing-london-plan/monitoring-london-plan), showing how many affordable homes are provided in each borough, along with a breakdown of tenures. The [report for the current year 2016/17](https://www.london.gov.uk/sites/default/files/amr_13.pdf) shows a net gain of just 13 social rented homes over the past three years in Southwark. This is out of a total 5,220 new homes built in the borough over those three years (Table 3.7). 
 
-That's an average net gain of just 4 social rented homes per year (if they are social rent; we have [shown before](http://35percent.org/redefining-social-rent) how Southwark turns a blind eye to developers and housing associations proving affordable rent instead).
+That's an average net gain of just 4 social rented homes per year (if they are social rent; we have [shown before](http://35percent.org/redefining-social-rent) how Southwark turns a blind eye to developers and housing associations providing affordable rent instead).
 
 ![](http://35percent.org/img/amr13.png)
 
-The Mayor's figures are net figures and whilst they don't take into acccount social rented homes lost through Right to Buy, they do take into account the number of social rented homes demolished. Given Southwark's [ongoing pipeline of estate demolitions](http://35percent.org/the-southwark-clearances/) it is no surprise that the net gain in social rented housing is in some years a negative figure and overall extremely low. 
+The Mayor's figures are net figures and whilst they don't take into acccount social rented homes lost through Right to Buy, they do take into account the number of social rented homes demolished. Given Southwark's [ongoing pipeline of estate demolitions](http://35percent.org/the-southwark-clearances/) it is no surprise that the figures for social rented housing are in some years negative and overall extremely low. 
 
 ## Southwark knocking 'em down faster than it's putting 'em up
 Southwark Council was a bit more candid about its failures earlier in the year when it [acknowledged](https://www.southwarknews.co.uk/news/council-admits-will-miss-target-build-1500-new-council-homes-2018/) that it had not reached an early phase target for its 11,000 council house building programme.
@@ -29,7 +29,7 @@ When this programme was announced in 2014, sceptics complained that the plans we
 *Extract from Councillor John's [open letter](http://35percent.org/img/pj11000councilhomesletter.pdf)*
  
 ## The listening council
-As well as speaking, or at least tweeting, Cllr John wants us to k now that Southwark also 'listens'.  He appeared earlier this week at the Labour party conference, alongside Labour's shadow Minister for housing John Healey, at a [talk entitled](http://www.smith-institute.org.uk/2017/08/08/smith-institute-2017-party-conferences/) _'Listening to communities - the future of social housing post Grenfell'_.
+As well as speaking, or at least tweeting, Cllr John wants us to know that Southwark also 'listens'.  He appeared earlier this week at the Labour party conference, alongside Labour's shadow Minister for housing John Healey, at a [talk entitled](http://www.smith-institute.org.uk/2017/08/08/smith-institute-2017-party-conferences/) _'Listening to communities - the future of social  housing post Grenfell'_.
 
 ![](http://35percent.org/img/lpc.png)
 
