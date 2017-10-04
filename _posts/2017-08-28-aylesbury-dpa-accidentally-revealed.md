@@ -10,11 +10,16 @@ published: false
 
 @. The DPA stipulates that NHHT must pay the demoliton costs in respect of the FDS (para 4.1.4), the demolition cost was subsequently to be deducted from the £16.3m total (of 3 fixed land payments £1.2m; £2.4m; £12.7m) - (para 1.2.2) that NHHT was supposed to pay the Acquiring Authority upon transfer of the land.
 
+![](/img/dpademocosts.png)
+
+The Council gets overage on the sale of the private units but only after £471 per sqft. By this time NHHT will have made £xxm profit (see viability note). 
+
+
+
+
 @. NHHT's refusal to carry out its obligations under the terms of the DPA means that, not only is the Acquiring Authority now having to fund the £16.8m demolition costs itself plus a 2% management fee to NHHT, but it will only receive the third (and largest £12.7m) of the £16.3m fixed payments when the FDS development is completed in 2024. 
 
 @. In summary, the Acquiring Authority is having to stump up £16.8m, of which it will receive just £16.3m in return in at least 7 years time - resulting in a net loss on the sale of 4.4 hectares of public-owned land.
-
-@. The Acquiring Authority may argue that it has an 'overage agreement' in the DPA, meaning that it receives a percentage share of NHHT's 'overage' profit. However, such agreements bring notoriously uncertain results, as demonstrated by the Acquiring Authority's regeneration of the Silwood estate in Bermondsey that it redeveloped in partnership with NHHT. A similar agreement here resulted in an 'overage' payment of just £546,047 to the Acquiring Authority. An [FOI request](https://www.whatdotheyknow.com/request/silwood_estate_regeneration_site/new) shows that there was disagreement between the parties about the amount of overage paid with the Acquiring Authority arguing that more overage was due.
 
 In any case, the overage agreement is only triggered when sales of the private units exceed £471 per sqft. Notting Hill's [viability assessment](http://35percent.org/img/document.pdf) shows that if it sells the private units for an average of £470 per sqft then it will make a staggering £xxxm profit from the FDS. 
 
