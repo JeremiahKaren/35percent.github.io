@@ -87,7 +87,7 @@ You can also use our automated objection form below to lodge an objection to the
 I am writing to object to the revised planning application for the redevelopment of the shopping centre and LCC campus at the Elephant & Castle (ref:16/AP/4458).
 
 Affordable Housing:
-This application does not propose a policy compliant affordable housing mix. Southwark's policy for the Elephant & Castle requires a minimum of 35% affordable housing, of which 50% must be social rented. This should provide around 170 units but Delancey is proposing a different tenure and only 33 (0.3%) of the total units will be at social rent levels.
+This application does not propose a policy compliant affordable housing mix. Southwark's policy for the Elephant & Castle requires a minimum of 35% affordable housing, of which 50% must be social rented. This should provide around 170 units but Delancey is proposing a different tenure and only 33 (3%) of the total units will be at social rent levels.
 
 Affordable retail & existing traders:
 The Council's strategic planning framework requires a minimum 10% affordable retail for new developments. Paragraph 5.1.7 of the Council's local planning policy (E&C SPD), further requires a number of "affordable retail units which are made available to existing occupiers displaced by development", in order to "ensure that development opportunities provide opportunities for existing and future SME businesses". The applicant's proposals fail to meet this and the Council's minimum 10% affordable retail requirement.

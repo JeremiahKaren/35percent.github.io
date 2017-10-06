@@ -3,6 +3,10 @@ layout: post
 title: "DPA accidentally revealed"
 published: false
 ---
+In September last year I wrote about the Aylesbury estate regeneration and the Secretary of State's decision to refuse Southwark's application for compulsory purchase powers. Recently, I was contacted anonymously by someone who provided me with a copy of the Council's regeneration agreement with Notting Hill Housing Group for the redevelopment.
+
+
+
 @. NHHT's commitment to the Scheme is further brought into question when the Acquiring Authority declared at a [Cabinet meeting](http://moderngov.southwark.gov.uk/documents/s63817/Report.Aylesbury%20Regeneration%20Delivery.pdf) in September 2016, that "_due to the costs"_ and _"CPO delay"_, NHHT was no longer willing to continue underwriting the ongoing costs of the scheme, i.e the demolition costs for the FDS and costs of design plus preparing the planning applications for the two subsequent phases of development - as per its obligations under the DPA: 
 
 ![Extract from Sep 2016 Cabinet report](/img/nhhtunderwrite.png)
@@ -15,7 +19,7 @@ published: false
 The Council gets overage on the sale of the private units but only after £471 per sqft. By this time NHHT will have made £xxm profit (see viability note). 
 
 
-
+[did the Cabinet report approving the DPA say anything about capital receipts being offset against demolition costs?]
 
 @. NHHT's refusal to carry out its obligations under the terms of the DPA means that, not only is the Acquiring Authority now having to fund the £16.8m demolition costs itself plus a 2% management fee to NHHT, but it will only receive the third (and largest £12.7m) of the £16.3m fixed payments when the FDS development is completed in 2024. 
 
