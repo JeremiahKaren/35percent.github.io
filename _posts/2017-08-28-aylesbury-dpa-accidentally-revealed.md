@@ -31,7 +31,12 @@ In addition to the land payments, the Council has a 'share of the profits' from 
 
 ![](http://35percent.org/img/dpaoverageplots.png)
 
-In this scenario, Notting Hill banks a guaranteed profit of £23m plus half of the £4.3m overage while Southwark gets just its 50% of the overage (£2.17m). 
+In this scenario, Notting Hill banks a guaranteed profit of £23m plus half of the £4.3m overage while Southwark gets just its 50% of the overage (£2.17m). That's just 8% of the overall profit - not a very equal split..
+
+In the development business profit margins are higher than other industries because of the risk. Profit is supposed to reflect risk.
+Given that Notting Hill is receiving land as vacant sites with planning permission and they don't have to pay for it until they have built and sold the new homes, it can be argued that their risk is very low compared to most developers who in any case typically factor in between 15 and 20% profit.
+
+Why Southwark has agreed to such a high profit margin and for it to be ringfenced before any further profit, needs to be questioned.
 
 ## Conclusion
 Southwark Council has so far spent £49.1m on the Aylesbury estate regeneration and has allocated a further £52.5m to the scheme over the next 3 years alone[^3]. The crumbs it will receive from the partnership deal with Notting Hill won't go anywhere near reimbursing this colossal expenditure.
