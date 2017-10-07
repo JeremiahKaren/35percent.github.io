@@ -1,59 +1,44 @@
 ---
 layout: post
-title: "DPA accidentally revealed"
+title: "Aylesbury Development Partnership - no partnership of equals"
 published: false
 ---
-In September last year I wrote about the Aylesbury estate regeneration and the Secretary of State's decision to refuse Southwark's application for compulsory purchase powers. Recently, I was contacted anonymously by someone who provided me with a copy of the Council's regeneration agreement with Notting Hill Housing Group for the redevelopment.
+In September last year I [wrote about] the Aylesbury estate regeneration and the Secretary of State's decision to refuse Southwark's application for compulsory purchase powers. Recently, I was contacted anonymously by someone who provided me with a copy of the Council's regeneration agreement with Notting Hill Housing Group for the redevelopment.
+
+The [35% Campaign](http://35percent.org) has long been campaigning for disclosure of the agreement, even [appealing to the Information Commissioner](https://ico.org.uk/media/action-weve-taken/decision-notices/2017/2014556/fer0662249.pdf).
+
+I set to work on working out who gets what from the partnership deal.
+
+The agreement carves the estate up into four phases of which the first is aptly named the First Development Site (FDS). This site is the subject of the current compulsory purchase order proceedings that will be re-examined at a public inquiry in January.
+
+Having paid around £14m[^1] in compensation to the 70 leaseholders displaced from the FDS, Southwark Council is paying £16.8m for demolition of the site and a further £5.5m for the relocation of the Ministry of Justice's probation unit located on it.
+
+## Land receipts
+In return for its sale of the land to Notting Hill Housing Group it will receive just £16.3m in a series of 3 fixed land payments, the last of which is only paid when redevelopment of the site completes. 
+
+![](http://35percent.org/img/dpafixedpayments.png)
+
+This is a good deal compared to the land payments the Council will receive for the three remaining phases of the estate. These will be determined by a viability assessment (conducted by Notting Hill) and, crucially, there is no minimum fixed amount. They are determined as the residual value left over after estimated build costs and a 21% profit margin for Notting Hill are deducted from estimated sales revenue:
+
+![](http://35percent.org/img/positivelandprice.png)
+
+The development of a given phase will proceed as soon as a viablity assessments shows the residual land value payable to the Council as _'greater than or equal to nil'_.
+
+## Overage
+In addition to the land payments, the Council has a 'share of the profits' from the scheme, but this is no ordinary or equal share. Firstly, Notting Hill's 21% priority profit is ringfenced - any surplus profit above this level is then split equally between Notting Hill and the Council. The DPA gives us a worked example of this based on the scenario that the private for sale properties on this phase sell for an average of £550 per sqft:
+
+![](http://35percent.org/img/dpaoverageplots.png)
+
+In this scenario, Notting Hill banks a guaranteed profit of £23m and plus half of the £4.3m overage while Southwark gets just its 50% of the overage (£2.17m). 
+
+## Conclusion
+
+
+![](http://35percent.org/img/landassembly.png)
 
 
 
-@. NHHT's commitment to the Scheme is further brought into question when the Acquiring Authority declared at a [Cabinet meeting](http://moderngov.southwark.gov.uk/documents/s63817/Report.Aylesbury%20Regeneration%20Delivery.pdf) in September 2016, that "_due to the costs"_ and _"CPO delay"_, NHHT was no longer willing to continue underwriting the ongoing costs of the scheme, i.e the demolition costs for the FDS and costs of design plus preparing the planning applications for the two subsequent phases of development - as per its obligations under the DPA: 
+__Footnotes__
+[^1]: 70 leaseholders on the FDS at an average of £200,000 per property.
 
-![Extract from Sep 2016 Cabinet report](/img/nhhtunderwrite.png)
-
-
-@. The DPA stipulates that NHHT must pay the demoliton costs in respect of the FDS (para 4.1.4), the demolition cost was subsequently to be deducted from the £16.3m total (of 3 fixed land payments £1.2m; £2.4m; £12.7m) - (para 1.2.2) that NHHT was supposed to pay the Acquiring Authority upon transfer of the land.
-
-![](/img/dpademocosts.png)
-
-The Council gets overage on the sale of the private units but only after £471 per sqft. By this time NHHT will have made £xxm profit (see viability note). 
-
-
-[did the Cabinet report approving the DPA say anything about capital receipts being offset against demolition costs?]
-
-@. NHHT's refusal to carry out its obligations under the terms of the DPA means that, not only is the Acquiring Authority now having to fund the £16.8m demolition costs itself plus a 2% management fee to NHHT, but it will only receive the third (and largest £12.7m) of the £16.3m fixed payments when the FDS development is completed in 2024. 
-
-@. In summary, the Acquiring Authority is having to stump up £16.8m, of which it will receive just £16.3m in return in at least 7 years time - resulting in a net loss on the sale of 4.4 hectares of public-owned land.
-
-In any case, the overage agreement is only triggered when sales of the private units exceed £471 per sqft. Notting Hill's [viability assessment](http://35percent.org/img/document.pdf) shows that if it sells the private units for an average of £470 per sqft then it will make a staggering £xxxm profit from the FDS. 
-
-![](http://35percent.org/img/profitshare.png)
-
-@. In total, Southwark agreed to underwrite £26.5m of the ongoing costs of progressing the scheme (over the next 3 years alone) and that NHHT was originally required to fund under the terms of the Development Partnership Agreement. These comprise:
-
-![](/img/dpafunding.png)
-
-> * £16.8m demolition costs for the First Development Site
-> * £0.8m for the demolition of Plot 18
-> * £2m to underwrite the cost of Plot 18’s planning application
-> * £2m to underwrite the design fees for phase 2
-> * £5.5m to construct the replacement facility for Ellison House (check that the DPA says NHHT should pay for this?)
-
-![Extract from DPA](/img/democostsdpa.png)
-
-@. These costs are in addition to the Council’s other costs that it has already allocated to the scheme to pay for rehousing of tenants and buy back of leaseholders. In total the Council is now forecast to spend £76.7m (see para 8.14 of the AA's updated SoC) over the next five years on progressing decant and demolition, plus an additional £32.4m on the new community facilities (that were supposed to be funded by the infrastructure tarif).
-
-@. At the previous inquiry it was established that the Acquring Authority had already spent £46m progressing the Scheme up to 2014.
-
-@. These significant funding requirements were not envisaged at the time that the Acquiring Authority made the decision to progress the scheme. In the Sep 27 2005 report to the Executive, members were given costing estimates showing that the redevelopment would be more or less cost neutral to the Acquiring Authority over the duration of the Scheme. 
-
-@. As a result of having to step in and fund the scheme following NHHT's refusal to continue underwriting it, the Acquiring Authority has had to make sweeping cuts to front line services. This year alone saw [cuts](http://moderngov.southwark.gov.uk/documents/s59115/Policy%20and%20Resources%20Strategy%20201617%20to%20201819.pdf) to the Adult Care and Education budget of £39m.
-
-@. This is in addition to the care homes and other council-owned facilities that are being sold to help fill the hole in the Acquiring Authority's budget.
-
-![Care homes sold off under budget cuts](http://35percent.org/img/carehomesshutdown.jpg)
-
-@. In total, the Acquiring Authority is required to absorb around £100m of central government budget cuts between now and 2019/20. In addition, it has also estimated a cost of £100m to install sprinklers in its tower blocks following safety concerns arising after the Grenfell Tower disaster.
-
-
-Subsequent plots: Council pays for demolition and demolition costs are also entered in the development account (as a minus - double counting). So when viability tests show a positive land value (could be £1) then the phase will proceed. I.e. Council is only going to receive something for the land if overage is enough to pay off demolition costs.
+[^2]: £16.8m demolition cost confirmed in [this Council report](http://moderngov.southwark.gov.uk/documents/s63817/Report.Aylesbury%20Regeneration%20Delivery.pdf).
