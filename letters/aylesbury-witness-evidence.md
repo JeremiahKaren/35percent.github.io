@@ -587,3 +587,5 @@ The NHF has said that funding cuts mean that HA's are not building the homes the
 NHF data showing just 8% of new starts are social rent: https://speyejoe2.wordpress.com/2017/09/07/housing-associations-social-purpose-of-the-carcinogenic-variety
 
 /img/How_many_homes_did_housing_associations_build_in_2016-17.pdf
+
+Council rents confirmed at an average of £99.48 per week: http://moderngov.southwark.gov.uk/ieDecisionDetails.aspx?Id=6002
