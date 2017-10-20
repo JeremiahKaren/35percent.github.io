@@ -44,7 +44,7 @@ Instead of using this as an opportunity to set down some red lines for developer
 
 ![](http://35percent.org/img/subjecttoviability.png)
 
-We (blogged recently](http://35percent.org/2017-10-02-council-leader-peter-john-alternative-facts/) about the pitifully low levels of affordable housing being delivered under this administration. We also [blogged last year](http://35percent.org/2016-11-21-old-kent-road-aap-loopholes/) about a viability loophole being inserted into the Council's planning policy for the Old Kent Road opportunity area:
+We [blogged recently](http://35percent.org/2017-10-02-council-leader-peter-john-alternative-facts/) about the pitifully low levels of affordable housing being delivered under this administration. We also [blogged last year](http://35percent.org/2016-11-21-old-kent-road-aap-loopholes/) about a viability loophole being inserted into the Council's planning policy for the Old Kent Road opportunity area:
 
 ![](http://35percent.org/img/subjecttoviability.jpg)
 
