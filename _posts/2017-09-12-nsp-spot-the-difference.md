@@ -1,8 +1,8 @@
 ---
 layout: post
 published: false
-title: Southwark rolls out the red carpet instead of the red lines
-subtitle: Subject to viability loophole inserted
+title: Southwark substitutes red lines for red carpet
+subtitle: Subject to viability loophole inserted into borough's new planning policy
 ---
 
 Southwark Council has just released the final 'preferred option' version of its borough-wide planning policy, the local plan, that will govern development in the borough during the next 15 years.
