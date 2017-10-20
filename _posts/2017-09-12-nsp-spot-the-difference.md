@@ -1,14 +1,13 @@
 ---
 layout: post
 published: false
-title: "Southwark rolls out the red carpet instead of the red lines"
-subtitle: "Subject to viability loophole inserted"
-  
+title: Southwark rolls out the red carpet instead of the red lines
+subtitle: Subject to viability loophole inserted
 ---
 
-Southwark Council has just released the final 'preferred option' version of its borough-wide planning policy that will govern development in the borough during the next 15 years.
+Southwark Council has just released the final 'preferred option' version of its borough-wide planning policy, the local plan, that will govern development in the borough during the next 15 years.
 
-It has been consulting on this new policy since 2014 and the [first draft version](http://www.2.southwark.gov.uk/download/downloads/id/12867/new_southwark_plan_preferred_option_consultation_version_web) was published in October 2015. This first October 2015 draft was promising; it set down a number of red lines that developers must comply with and was clear on affordable housing requirements.
+It has been consulting on this new policy since 2014 and the [first draft version](http://www.2.southwark.gov.uk/download/downloads/id/12867/new_southwark_plan_preferred_option_consultation_version_web) was published in October 2015. This first October 2015 draft stuck to the status-quo of the current local plan, the Core Strategy; it set down a number of red lines that developers must comply with and was clear on affordable housing requirements.
 
 In June this year it published its second and final ['amended preferred option' version](https://www.southwark.gov.uk/assets/attach/3658/NSP%20Full%20New%20and%20Revised%20Policies%20optimised.pdf), which we have discovered, drops many of the safeguards surrouding affordable housing delivery that were contained in the first version, and has inserted a number of loopholes for developers to boot. 
 
