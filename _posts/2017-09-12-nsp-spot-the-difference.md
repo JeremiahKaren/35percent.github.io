@@ -56,4 +56,4 @@ Unlike any of Southwark's 48 Labour Councillors, we have objected to these 'subj
 
 __Footnotes:__
 
-[^1]: Southwark's [2011 Affordable Housing SPD](http://www.2.southwark.gov.uk/download/downloads/id/6069/draft_affordable_housing_spd_2011) enables any room larger than 27.5 sqm to be counted as two habitable rooms: _"Any room that is over 27.5 sqm will be considered as two habitable rooms."_ (Policy 3.3.2)
+[^1]: The small print in Southwark's [2011 Affordable Housing SPD](http://www.2.southwark.gov.uk/download/downloads/id/6069/draft_affordable_housing_spd_2011) says: _"Any room that is over 27.5 sqm will be considered as two habitable rooms."_ (Policy 3.3.2)
