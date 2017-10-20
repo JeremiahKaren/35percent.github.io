@@ -8,11 +8,11 @@ subtitle: "Subject to viability loophole inserted"
 
 Southwark Council has just released the final 'preferred option' version of its borough-wide planning policy that will govern development in the borough during the next 15 years.
 
-It has been consulting on this new policy since 2014 and the [first draft version](http://www.2.southwark.gov.uk/download/downloads/id/12867/new_southwark_plan_preferred_option_consultation_version_web) was published in October 2015. This first October 2015 was actually rather good; it set down a number of red lines that developers must comply with and was clear on affordable housing requirements.
+It has been consulting on this new policy since 2014 and the [first draft version](http://www.2.southwark.gov.uk/download/downloads/id/12867/new_southwark_plan_preferred_option_consultation_version_web) was published in October 2015. This first October 2015 draft was promising; it set down a number of red lines that developers must comply with and was clear on affordable housing requirements.
 
-In June this year it published its second and final ['amended preferred option' version](https://www.southwark.gov.uk/assets/attach/3658/NSP%20Full%20New%20and%20Revised%20Policies%20optimised.pdf) which we have discovered drops many of the safeguards surrouding affordable housing delivery that were contained in the first version, and has inserted a number of loopholes for developers to boot. 
+In June this year it published its second and final ['amended preferred option' version](https://www.southwark.gov.uk/assets/attach/3658/NSP%20Full%20New%20and%20Revised%20Policies%20optimised.pdf), which we have discovered, drops many of the safeguards surrouding affordable housing delivery that were contained in the first version, and has inserted a number of loopholes for developers to boot. 
 
-The first of which is policy DM1 which has dropped the requirement for affordable housing to be calculated in terms of floorspace and inserted the qualification 'subject to viability'. The consequences of this will be obvious to developers who already [run rings around the Council with their viability assessments](http://35percent.org/collated-viability-assessments/) and will be glad to calculate affordable housing using habitable rooms where difference in room sizes can be manipulated according to the developer's advantage.
+The first of which is policy DM1 which has dropped the requirement for affordable housing to be calculated in terms of floorspace and inserted the qualification 'subject to viability'. The consequences of this will be obvious to developers who already [run rings around the Council with their viability assessments](http://35percent.org/collated-viability-assessments/) and will be glad to calculate affordable housing using habitable rooms where they can continue to exploit the double counting loophole in the Council's existing affordable housing SPD[^1].
 
 ![](/img/amendednsp.png)
 *Previous draft New Southwark Plan (left) - Latest final 'preffered option' (right)*
@@ -45,16 +45,16 @@ Instead of using this as an opportunity to set down some red lines for developer
 
 ![](/img/subjecttoviability.png)
 
-The three words 'subject to viability' inserted into the final policy draft, will undoubtedly be quoted by developers in hundreds of planning applications over the next 15 years to come. They will be the lasting legacy of an administration hell bent on 'regeneration' and 'attracting investment' in whatever shiny high-rise form it takes; an administration desperate and grateful for whatever crumbs it receives in planning gain, so that it can continue pursuing its needless and highly costly demolition schemes elsewhere... bla bla
-
-The same caveat was inserted into the [local area plan for the Old Kent Rd opportunity area](http://35percent.org/2016-11-21-old-kent-road-aap-loopholes/) last year. Not one of Southwark's 48 Labour councillors objected. Labour values?
+We (blogged recently](http://35percent.org/2017-10-02-council-leader-peter-john-alternative-facts/) about the pitifully low levels of affordable housing being delivered under this administration. We also [blogged last year](http://35percent.org/2016-11-21-old-kent-road-aap-loopholes/) about a viability loophole being inserted into the Council's planning policy for the Old Kent Road opportunity area:
 
 ![](http://35percent.org/img/subjecttoviability.jpg)
 
+This latest concession to developers will do nothing but fuel further speculation bla bla bla.. the housing crisis... 
 For years our Labour councillors have been blaming the Tories and Tory policy for the housing crisis. This is one example of where they could have made a difference by using local policy to force developers to provide a proportion of housing affordable to local people. They have failed miserably.  
 
-See our [full submission here](/img/EANComments_FinalNSP.pdf).
+Unlike any of Southwark's 48 Labour Councillors, we have objected to these 'subject to viability' policy proposals. You can view our [full submission here](/img/EANComments_FinalNSP.pdf).
 
-say something here about latest GLA figures showing net loss social rented - knocking down more social rented homes than are being built and provided under policy reqs.
 
-So much for largest council house building programme in the country - spin, keep spinning.
+__Footnotes:__
+
+[^1]: Southwark's [2011 Affordable Housing SPD](http://www.2.southwark.gov.uk/download/downloads/id/6069/draft_affordable_housing_spd_2011) enables any room larger than 27.5 sqm to be counted as two habitable rooms: _"Any room that is over 27.5 sqm will be considered as two habitable rooms." (Policy 3.3.2)
