@@ -11,7 +11,7 @@ It has been consulting on this new policy since 2014 and the [first draft versio
 
 In June this year Southwark published its second and final version, before consideration by the cabinet.  ['amended preferred option' version](https://www.southwark.gov.uk/assets/attach/3658/NSP%20Full%20New%20and%20Revised%20Policies%20optimised.pdf)This dropped many of the safeguards surrounding affordable housing delivery contained in the first version, and has inserted a number of loopholes for developers to boot. 
 
-In policy DM1 Affordable Homes the requirement for affordable housing to be calculated in terms of floorspace has been removed and the qualification 'subject to viability' added. This will further encourage developers   to [run ever-faster rings around the Council with their viability assessments](http://35percent.org/collated-viability-assessments/) and continue to calculate affordable housing using habitable rooms and exploit the double counting loophole in the Council's existing affordable housing SPD[^1].
+In policy DM1 Affordable Homes the requirement to calculate affordable housing in terms of floorspace has been removed and the qualification 'subject to viability' added. This will further encourage developers   to [run ever-faster rings around the Council with their viability assessments](http://35percent.org/collated-viability-assessments/) and continue to calculate affordable housing using habitable rooms, exploiting the double counting loophole in the Council's existing affordable housing SPD[^1].
 
 ![](http://35percent.org/img/amendednsp.png)
 *Previous draft New Southwark Plan (left) - Latest final 'preffered option' (right)*
