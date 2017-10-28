@@ -1,7 +1,7 @@
 ---
 layout: post
 published: false
-title: Southwark substitutes red lines with the red carpet
+title: Southwark replaces red lines with the red carpet
 subtitle: Subject to viability loophole inserted into borough's new planning policy
 ---
 
@@ -9,15 +9,15 @@ Southwark Council has just released the final 'preferred option' version of its 
 
 It has been consulting on this new policy since 2014 and the [first draft version](http://www.2.southwark.gov.uk/download/downloads/id/12867/new_southwark_plan_preferred_option_consultation_version_web) was published in October 2015. This first October 2015 draft stuck to the status-quo of the current local plan, the Core Strategy; it set down a number of red lines that developers must comply with and was relatively clear on affordable housing requirements.
 
-In June this year Southwark published its second and final version, before consideration by the cabinet.  ['amended preferred option' version](https://www.southwark.gov.uk/assets/attach/3658/NSP%20Full%20New%20and%20Revised%20Policies%20optimised.pdf)This dropped many of the safeguards surrounding affordable housing delivery contained in the first version, and has inserted a number of loopholes for developers to boot. 
+In June this year Southwark published its second and final version, before consideration by the cabinet the   ['amended preferred option' version](https://www.southwark.gov.uk/assets/attach/3658/NSP%20Full%20New%20and%20Revised%20Policies%20optimised.pdf).  This dropped many of the safeguards surrounding affordable housing delivery contained in the previous version, the [preferred option of Oct 2015](file:///C:/Users/grego/Downloads/New_Southwark_Plan_Preferred_Option__Consultation_version_web_.pdf), and has inserted a number of loopholes for developers to boot. 
 
-In policy DM1 Affordable Homes the requirement to calculate affordable housing in terms of floorspace has been removed and the qualification 'subject to viability' added. This will further encourage developers   to [run ever-faster rings around the Council with their viability assessments](http://35percent.org/collated-viability-assessments/) and continue to calculate affordable housing using habitable rooms, exploiting the double counting loophole in the Council's existing affordable housing SPD[^1].
+In policy DM1 Affordable Homes the requirement to calculate affordable housing in terms of floorspace has been removed and the qualification 'subject to viability' added. This will further encourage developers to [run ever-faster rings around the Council with their viability assessments](http://35percent.org/collated-viability-assessments/) and continue to calculate affordable housing using habitable rooms and exploit the double counting loophole in the Council's affordable housing SPD[^1].
 
 ![](http://35percent.org/img/amendednsp.png)
 *Previous draft New Southwark Plan (left) - Latest final 'preffered option' (right)*
 
 The same section of the original draft policy contained further detail on the 35% policy as a 'minimum' requirement that it asserts as 'viable and deliverable'. It went on to require a 'full viability appraisal' in the event this cannot be achieved and vowed that the calculation methodology of any financial contribution accepted in lieu will ensure that there _"cannot be a financial advantage to the developer from not providing the affordable housing on site"_. The section also made reference to the Council's committment to build 9,500 new Council homes between 2018 and 2033.
-This entire section has been deleted from the final draft. 
+This entire section has been deleted from the final draft. The affordable housing contribution from developments with 10 units or fewer has been reworded dropping the requirement
 
 ![](http://35percent.org/img/nspahtarget.png)
 
