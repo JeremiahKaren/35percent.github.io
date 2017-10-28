@@ -1,7 +1,7 @@
 ---
 layout: post
 published: false
-title: Southwark substitutes red lines for red carpet
+title: Southwark substitutes red lines with the red carpet
 subtitle: Subject to viability loophole inserted into borough's new planning policy
 ---
 
