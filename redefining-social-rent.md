@@ -177,3 +177,6 @@ So what happens subsequent to the initial let at the Benchmark levels, appears t
 
 With 17,500 new __London Affordable Rent__ homes proposed in just the first round of the Mayor's new [£17bn deal to build 50,000 'affordable' homes](http://www.standard.co.uk/news/mayor/sadiq-khan-announces-17bn-deal-to-build-50000-affordable-homes-across-london-a3586911.html) across London, it's important that the Mayor gets this right. If the small print isn't amended to make it clear that Benchmark rents apply to relets and in perpetuity, then the Mayor's new __London Affordable Rent__ may prove to be just a quick and temporary fix that lasts only as long as the fixed term tenancies issued under this new tenure.
 
+As if this wasn't enough, the Mayor has introduced a draft ['Good Practice Guide for Estate Regeneration'](https://www.london.gov.uk/sites/default/files/draftgoodpracticeestateregenerationguidedec16v2.pdf) which is due to be adopted as policy in early 2018. It says this:
+
+![](/img/goodpracticear.png)
