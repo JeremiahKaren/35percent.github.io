@@ -218,6 +218,10 @@ Further, the new open spaces in the development will not be public open spaces a
 ![](/img/aylesburyopenspaces.png)
 *Extract from [planning application docs](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!QQdTMy1vDORvNdggcfRdjw%3d%3d!%7d%7d%7d)*
 
+In addition, there are currently four games courts on the estate which are due to be built on and not replaced. In its planning application, Notting Hill argues that children don't need on-site facilities because can go and play in nearby Burgess Park.
+
+![](/img/aylesburygamescourts.jpg)
+
 ## Aylesbury diaspora
 Loretta Lees, a leading professor of Human Geography has [published](http://theconversation.com/camerons-sink-estate-strategy-comes-at-a-human-cost-53358) a study researching the displacement of Aylesbury estate tenants as a result of the regeneration. 
 

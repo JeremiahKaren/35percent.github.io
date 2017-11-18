@@ -5,6 +5,8 @@ published: false
 ---
 By way of background, the main objectors to the compulsory purchase order are four remaining leaseholders on the first main phase of the Aylesbury estate redevelopment.
 
+![](http://35percent.org/img/phase1baerial.png)
+
 They are all from BAME groups, primarily Black African and Carribean and are the last remaining residents on the empty site.
 
 They Council first applied for a compulsory purchase order to gain vacant possession from them in 2014. This went to a [public inquiry in 2015](http://35percent.org/2015-05-02-aylesbury-estate-compulsory-purchase-order-public-inquiry/) and the CPO was subsequently [rejected by the Secretary of State](http://35percent.org/2016-09-18-aylesbury-compulsory-purchase-order-rejected/) on the grounds that the leaseholders would end up either displaced by the scheme or impoverished if they took up one of the shared ownership rehousing options offered by the Council's development partner. Listing his reasons for refusal, the Secretary of State's [decision notice](http://35percent.org/img/Decision_Letter_Final.pdf) said that this would be a breach of the Equalities Act.
@@ -15,5 +17,14 @@ Instead of fighting the appeal, the Secretary of State offered the compromise of
 
 There has been lost of interest in the Aylesbury CPO. It has been subject of much discussion in the legal world and heralded as a test case - right to a community etc.
 
-It will be a test case to see if Councils are permitted to do the following:
+The Council [claims] that the maintenance costs are too high but it hasn't done ANY cost/benefit analysis.
 
+Proof that this regeneration is being pushed through by ideologues.
+
+## Refurbishment
+We take a pragmatic and common sense approach. The buildings have been declared structurally sound and architects and a quantity surveyor will present an alternative plan showing how refurbishment is 
+
+![](http://35percent.org/img/wendcomp.jpg)
+
+## Help us
+Help us sink this zombie blairite PFI scheme by contributing to our crowdfunding:
