@@ -9,7 +9,7 @@ The regeneration of Canada Water has been in the news lately. This former dockla
 ![](/img/canadawaterregeneration.png)
 *Sites in pink under freehold ownership of Council*
 
-Sites A&B were [sold](http://moderngov.southwark.gov.uk/documents/s20069/Report%20-%20Improved%20terms%20for%20the%20sale%20of%20sites%20A%20and%20B%20at%20Canada%20Water.pdf) by the Council to Barratt Homes in 2011. An [FOI request](https://www.whatdotheyknow.com/request/canada_water_regeneration_receip#incoming-848790) shows that the Council received £64m for the land and just £2.5m from its profit share (overage) agreement with Barratt. 
+Sites A&B were [sold](http://moderngov.southwark.gov.uk/documents/s20069/Report%20-%20Improved%20terms%20for%20the%20sale%20of%20sites%20A%20and%20B%20at%20Canada%20Water.pdf) by the Council to Barratt Homes in 2011. An [FOI request](https://www.whatdotheyknow.com/request/canada_water_regeneration_receip#incoming-848790) shows that the Council received £64m for the land and just £2.5m from its profit share (overage) agreement with Barratt. Some of the new 'affordable' homes recently completed in this phase have reported defects with [serious damp issues](https://www.southwarknews.co.uk/news/flats-plagued-leaks-mould/). 
 
 The regeneration has provided a replacement library for the one demolished on Albion street, but provides no further public or transport infrastructure to support the estimated 18,000 new residents and 15,000 new workplaces - NO new schools, NO new child-care facilities, NO new GP clinic or other health-care facilities. Further, the replacement library cost £14m to build and was entirely funded by the Council without any contributions from developers.
 
