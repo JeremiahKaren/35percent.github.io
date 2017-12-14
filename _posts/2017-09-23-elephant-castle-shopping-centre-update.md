@@ -107,3 +107,7 @@ Yours sincerely,
 </div>
    </fieldset>
   </form>
+
+# Postscript update
+The Council has announced that it has recommended this disastrous application for approval by its planning committee on 18th December 2017.
+We will be protesting along with traders and others at the planning committee hearing on 18th Dec. Please check our twitter @35percent_EAN for full details.

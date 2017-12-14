@@ -3,6 +3,36 @@ layout: post
 title: "Aylesbury CPO update"
 published: false
 ---
+
+## issues
+82% support for demolition plans (out of 54 people - not all residents). 
+Ballot
+
+Tenure distribution
+
+50% rehousing on footprint objective
+
+Ousley report - Ben Campkin
+
+## Infrastructure Tariff
+Page 75 of the AAAP describes infrastructure funding. It says the developer will pay an ‘infrastructure tariff’, which will fund new public infrastructure facilities on the redeveloped estate.
+The AAAP Background Paper ‘Infrastructure Tariff and S106 Contributions’ (RL4) section 8.2 sets out a formula for calculating the level of the tariff:
+
+“Tariff = (Cost of Infrastructure / No. of residential units) – Grant”
+It said that at the current level of the Tariff “currently equates to an average of £13,420 per unit at today’s prices.” 
+If applied to the 842 units proposed for the FDS scheme, this would amount to a required tariff payment of £11.3m to the Council by NHHT.
+
+Paragraphs 7.8 and 7.9 of the Acquiring Authority’s November 2017 updated statement of case claims that the infrastructure tariff has been ‘superseded’ by the agreement with NHHT, in which it is to deliver the public infrastructure directly rather than through a tariff.
+This may be read to infer that NHHT is paying for the infrastructure, but this is not the case; it is the Acquiring Authority footing the bill for much of the key infrastructure.
+This is confirmed in paragraph 8.15 of the Acquiring Authority’s Nov 2017 statement of case, which says that the £32.4m required to pay for the construction of the key infrastructure facilities (community/health facilities and new library) at plot 18, is being funded directly from the Council’s Capital Programme.
+Whilst NHHT is obliged by the terms of the DPA to pay the Council a £9m towards this plot 18 infrastructure, the unredacted provisions of the DPA (See George Turner’s appendix) shows that this £9m contribution can be deducted from the fixed land payments that NHHT is supposed to pay the Council for the land.
+
+Netting off the contribution against the Council’s payment for the land means that it is effectively paying the entire £32m cost of providing the plot 18 public infrastructure. 
+
+
+
+
+## Background
 By way of background, the main objectors to the compulsory purchase order are four remaining leaseholders on the first main phase of the Aylesbury estate redevelopment.
 
 ![](http://35percent.org/img/phase1baerial.png)
