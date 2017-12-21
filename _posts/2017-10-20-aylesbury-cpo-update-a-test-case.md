@@ -4,7 +4,7 @@ title: "Save our community - the battle for the Aylesbury is on"
 subtitle: "Aylesbury CPO update: Objectors submit witness evidence"
 published: false
 ---
-Yesterday was the deadline for the exchange of witness evidence for the forthcoming Aylesbury estate CPO public inquiry, which commences on 9th January and is Southwark's latest in a series of failed attempts to remove the estate's leaseholders from their homes. 
+Last week was the deadline for the exchange of witness evidence for the forthcoming Aylesbury estate CPO public inquiry, which commences on 9th January and is Southwark's latest in a series of failed attempts to remove the estate's leaseholders from their homes. 
 
 ![](https://halag.files.wordpress.com/2016/09/cropped-alag1.png)
 
