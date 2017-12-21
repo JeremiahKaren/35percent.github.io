@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Save our community - the battle for the Aylesbury is on"
-title: "Aylesbury CPO update: Objectors submit witness evidence"
+subtitle: "Aylesbury CPO update: Objectors submit witness evidence"
 published: false
 ---
 Yesterday was the deadline for the exchange of witness evidence for the forthcoming Aylesbury estate CPO public inquiry, which commences on 9th January and is Southwark's latest in a series of failed attempts to remove the estate's leaseholders from their homes. 
@@ -38,8 +38,8 @@ Professor Loretta Lees and Anna Minton will be giving evidence showing how the s
 They will also show evidence that of the 1489 Aylesbury estate residents decanted to date, only 112 have been rehoused in new homes on these two completed phases (7%).
 
 ## Affordable housing tenure
-We will be giving evidence as well as a representative from London Tenants Federation, to the effect that the replacement 'social rented' housing will be affordable rent levels, and show how this substitution has become [common practice](/redefining-social-rent) in Southwark
-
+We will be giving evidence as well as a representative from London Tenants Federation, to the effect that the replacement 'social rented' housing will be affordable rent levels. We will show how Southwark's regeneration partner Notting Hill Housing [pulled this switch at the Bermondsey Spa regeneration](http://35percent.org/2015-03-18-stand-up-for-more-social-housing/) and show how this substitution has become [common practice](/redefining-social-rent) in Southwark.
+ 
 ## Design
 Academics Ben Campkin and Richard Baxter will be giving evidence to counter Southwark's design criticisms and its justification for demolition
 
