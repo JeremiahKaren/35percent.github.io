@@ -3,6 +3,7 @@ layout: post
 title: "The Elephant's new Ivory Towers"
 date: 2014-04-15 12:37
 comments: true
+permalink: "/blog/2014/04/15/the-elephants-new-ivory-towers"
 categories: 
 ---
 <center>
