@@ -47,6 +47,27 @@ Professor Jane Rendell and quantity surveyor Simon Morrow will be showing design
 
 ![](http://35percent.org/img/wendcomp.jpg)
 
+## Public subsidy, private profits - an unequal regeneration 'partnership'
+Who pays, who benefits?
+Southwark has paid the (ca. £10m) cost of buying out the leaseholders and is paying the £16.8m demolition costs for the buildings on the FDS plot. It will eventually receive a total of £17m from Notting Hill for the land, which (providing demolition costs don't exceed the estimate) will allow it to just about break even.
+
+However, there is a clause 
+
+## The case for demolition
+Southwark says residents are in favour of demolition and that the scheme came about because of residents lobbying the Council to demolish their homes.
+
+![](Extract from Wolverton SoC)
+
+It claims that 82% of residents at the final exhibition supported the proposals - it didn't say that this was 82% of just 100 people - not all of which residents. Hardly a convincing mandate for an estate of 7000 people. 
+
+Southwark claims in its evidence that residents are unsatisfied with their homes 
+
+![](extract from evidence)
+
+We point out that, ... Toby - extracts from Social Life report:
+
+
+
 ## Help!
 We still need funds!
 Given the number of witnesses and amount of witness evidence submitted, the inquiry is likely to last for at least three weeks. We need more funds to ensure that the objectors can have full legal representation throughout the duration of the inquiry.
