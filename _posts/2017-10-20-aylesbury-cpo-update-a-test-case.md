@@ -4,6 +4,8 @@ title: "Save our community - the battle for the Aylesbury is on"
 subtitle: "Aylesbury CPO update: Objectors submit witness evidence"
 published: false
 ---
+![](/img/phase1aerial.png)
+
 Last week was the deadline for the exchange of witness evidence for the forthcoming Aylesbury estate CPO public inquiry, which commences on 9th January and is Southwark's latest in a series of failed attempts to remove the estate's leaseholders from their homes. 
 
 ![](https://halag.files.wordpress.com/2016/09/cropped-alag1.png)
@@ -21,6 +23,23 @@ This second inquiry will now hear the case afresh, which in the meantime has bec
 As an interested party to the proceedings, we have been helping Aylesbury leaseholders organise and submit their witness evidence, which can be viewed on their website here: [http://ouraylesbury.org/cpo](http://ouraylesbury.org/cpo)
 
 The evidence - presented by a number of expert witnesses - covers a number of areas showing how the Aylesbury scheme fails to satisfy the well-being test required under cpo legislation[^1]:
+
+## Resident satisfaction
+Three astonishing results in the "Living on the Aylesbury Estate" document:
+p19 of the doc (which is appendix 4 (LL4) to Loretta's PoE):
+
+Satisfied with local area as a place to live
+89.0%   - response from Aylesbury
+75.6%   - response from "comparable area"
+
+Plan to remain a resident for a number of years
+90.0%  - response from Aylesbury
+51.2%  - response from "comparable area"
+
+Belong to this neighbourhood
+89.1%  - response from Aylesbury
+60.8% - response from "comparable area"
+
 
 ## Like for like
 First and foremost, the leaseholders themselves will give evidence showing how the CPO will impact on their well-being as a result of the Council's decision to renege on its original [promise of a like-for-like replacement](http://ouraylesbury.org) home.

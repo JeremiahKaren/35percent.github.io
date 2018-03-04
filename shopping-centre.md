@@ -163,29 +163,25 @@ Be sure to amend and add to the suggested wording.</legend>
         <label for="message">Comment:</label>
         <textarea name="message" id="message" cols="55" rows="10">Dear Southwark Planning,
 
-I am writing to object to the planning application for the redevelopment of the shopping centre and LCC campus at the Elephant & Castle (ref:16/AP/4458).
+I wish to object to updated planning application 16/AP/4458 for the redevelopment of the Elephant
+and Castle Shopping Centre.
 
 Affordable Housing:
-This application does not propose a policy compliant affordable housing mix. Southwark's policy for the Elephant & Castle requires a minimum of 35% affordable housing, of which 50% must be social rented. The applicant's offer does not make any provision for social rented housing or any payment in-lieu and offers just 3% 'social rent equivalent'. The applicant has submitted a viability appraisal, arguing that providing social rented housing would render the development unviable, but despite the Council's new transparency policy this has still not been made public. 
+The developer Delancey has increased the amount of social rented housing to 74 units and allowed
+that they will be let on assured tenancies. This is an improvement on the original offer, but still does not meet the required number of units, which according to the local plan should be approximately 117 units.
 
-Given that the development is coming forward as a result of the Council's own planning directives and given that the developer is an offshore company registered in the BVI and Bermuda, there is a greater need for transparency - especially so given that the application is not policy compliant. 
+While the number of social rented units has been increased it has been at the expense of homes at
+London Living Rent mid-rent levels, which have been reduced. Homes for rent at 80% market rate
+have also been increased and would make up nearly half the affordable housing. Southwark
+Council’s local plan rightly rejects homes with rents at this level, because they do not meet the
+needs of local people.
 
-Affordable retail & existing traders:
-The Council's strategic planning framework requires a minimum 10% affordable retail for new developments but Delancey is offering just over 5%. Paragraph 5.1.7 of the Council's local planning policy (E&C SPD), further requires a number of "affordable retail units which are made available to existing occupiers displaced by development", in order to "ensure that development opportunities provide opportunities for existing and future SME businesses". The SPD also refers to a 'Traders Charter' agreed with the Council in 2007 and which sets out a number of guarantees for traders. However, the charter has been ignored and Delancey has made no provision for any affordable retail in its application, making only a vague reference to a 'relocation strategy' - but providing no detail on what this 'relocation strategy' actually entails. 
-Its diverse economy of small retailers are at the heart of the community and make Elephant & Castle the vibrant destination it is. Southwark should be supporting and cultivating these - not using its CPO powers to help Delancey evict them.
+Affordable retail and existing traders:
+Delancey has promised to create a new Temporary Retail facility as an interim home to traders, but it is too small – only 300 sqm – and will not accommodate all the traders who wish to remain in the area. The shopping centre is home to many successful businesses, including those of the Latin American community as well as other ethnic minority backgrounds. The centre is also home to many market traders. The loss of all these businesses would be a loss to the whole community and Delancey’s relocation strategy must accommodate all those who wish to remain at the Elephant.
 
-Coronet Cinema:
-Delancey has dismissed the campaign to save The Coronet theatre. The Coronet takes up a sizeable part of the shopping centre site and is a popular music and event venue. The building dates back to 1872 and is a popular local institution. The Theatres Trust has objected to its demolition as have local preservation groups, on the basis of its Art Deco interior and exterior, which currently remains hidden behind its blue corrugated facade.
-
-Transport:
-The plans make insufficient provison for the necessary public transport infrastructure to support the high-density development as well as extra capacity requirements that will result from the proposed Bakerloo line extension and all of the other major developments currently under construction at the Elephant & Castle.
-
-Delancey is using a network of shell companies registered in tax havens including Bermuda, Panama and the British Virgin Islands, in order to avoid paying tax on its redevelopment scheme. Southwark should not be bending over backwards and making planning policy concessions for developers who don't pay their tax.
-
-Bingo Hall:
-Delancey is failing to make re-provision for the existing bingo hall. This is an importsnt social and community facility for 7,500 local pensioners every week. This important facility must be retained in any new development in order to ensure that community benefits are not lost without being replaced.
-
-Please register my objection and keep me informed should any of the above shortcomings be addressed and the planning applications amended accordingly.
+The Bingo hall and bowling alley:
+Delancey has made a welcome commitment to providing a bingo facility in the new development
+and reports significant progress on discussions with Palatial Leisure, who run the present bingo hall and bowling alley. However, there is no final agreement yet on retaining the bingo hall and bowling alley and these must be part of any approved development. Please register my objection and keep me informed should any of the above shortcomings be addressed and the planning applications amended accordingly.
 
 Yours sincerely,
 </textarea>
