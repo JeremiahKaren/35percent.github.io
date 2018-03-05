@@ -167,21 +167,15 @@ I wish to object to updated planning application 16/AP/4458 for the redevelopmen
 and Castle Shopping Centre.
 
 Affordable Housing:
-The developer Delancey has increased the amount of social rented housing to 74 units and allowed
-that they will be let on assured tenancies. This is an improvement on the original offer, but still does not meet the required number of units, which according to the local plan should be approximately 117 units.
+The developer Delancey has increased the amount of social rented housing to 74 units and allowed that they will be let on assured tenancies. This is an improvement on the original offer, but still does not meet the required number of units, which according to the local plan should be approximately 117 units.
 
-While the number of social rented units has been increased it has been at the expense of homes at
-London Living Rent mid-rent levels, which have been reduced. Homes for rent at 80% market rate
-have also been increased and would make up nearly half the affordable housing. Southwark
-Council’s local plan rightly rejects homes with rents at this level, because they do not meet the
-needs of local people.
+While the number of social rented units has been increased it has been at the expense of homes at London Living Rent mid-rent levels, which have been reduced. Homes for rent at 80% market rate have also been increased and would make up nearly half the affordable housing. Southwark Council’s local plan rightly rejects homes with rents at this level, because they do not meet the needs of local people.
 
 Affordable retail and existing traders:
 Delancey has promised to create a new Temporary Retail facility as an interim home to traders, but it is too small – only 300 sqm – and will not accommodate all the traders who wish to remain in the area. The shopping centre is home to many successful businesses, including those of the Latin American community as well as other ethnic minority backgrounds. The centre is also home to many market traders. The loss of all these businesses would be a loss to the whole community and Delancey’s relocation strategy must accommodate all those who wish to remain at the Elephant.
 
 The Bingo hall and bowling alley:
-Delancey has made a welcome commitment to providing a bingo facility in the new development
-and reports significant progress on discussions with Palatial Leisure, who run the present bingo hall and bowling alley. However, there is no final agreement yet on retaining the bingo hall and bowling alley and these must be part of any approved development. Please register my objection and keep me informed should any of the above shortcomings be addressed and the planning applications amended accordingly.
+Delancey has made a welcome commitment to providing a bingo facility in the new development and reports significant progress on discussions with Palatial Leisure, who run the present bingo hall and bowling alley. However, there is no final agreement yet on retaining the bingo hall and bowling alley and these must be part of any approved development. Please register my objection and keep me informed should any of the above shortcomings be addressed and the planning applications amended accordingly.
 
 Yours sincerely,
 </textarea>
