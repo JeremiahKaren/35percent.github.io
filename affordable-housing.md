@@ -56,6 +56,11 @@ These shared ownership homes have already [come under fire](http://www.thelondon
 
 1034 Heygate tenants were 'decanted' on the promise that there would be 500 social housing units for those who wished to exercise their 'right to return' to the redeveloped estate. Thanks to a decade of broken promises there will now be just 82 homes to accommodate those who wish to return. 
 
+## New Southwark Plan
+The [New Southwark Plan](https://consultations.southwark.gov.uk/planning-and-regeneration/new-southwark-plan-proposed-submission-version/supporting_documents/NSP%20Proposed%20Submission%20Version%20Final5.pdf) requires every development in the borough to provide a minimum of 25% __social rented__ housing:
+
+![](/img/25percent.png)
+
 
 
 
