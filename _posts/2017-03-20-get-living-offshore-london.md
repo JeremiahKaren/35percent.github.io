@@ -16,7 +16,7 @@ Delancey is now showing equal efficiency in managing its new housing at the Elep
 ![](http://35percent.org/img/getlivingbvi.png)
 *__Get Living London__'s ultimate parent company based in BVI*
 
-__Get Living London__ already manages the 646 dwellings in [__Elephant One__](http://35percent.org/tribeca-square), just next to the shopping centre and housing across both sites will be marketed as ['South Village'](http://www.shawcorporation.com/south-village-elephant-castle). __Elephant One__ includes 274 student rooms, which __Get Living London__ is [letting at rents](http://www.portchesterhouse.com/) of  £279pw for a 'Classic' room, or £349pw for a 'Supreme'. 
+__Get Living London__ already manages the 646 dwellings in [__Elephant One__](http://35percent.org/tribeca-square), just next to the shopping centre and housing across both sites will be marketed as ['South Village'](http://www.shawcorporation.com/south-village-elephant-castle). __Elephant One__ includes 274 student rooms, which __Get Living London__ is [letting at rents](http://www.portchesterhouse.com/) of  £279pw for a 'Classic' room, or £349pw for a 'Supreme'. The remaining 372 'build-to-rent' private rented units are being [advertised](https://www.theguardian.com/housing-network/2018/apr/11/build-to-rent-developers-profiting-generation-rent?) starting at £1,841 per month for a 1-bed.
 
 Over in Stratford __Get Living London__ also lets just over 1400 private rented apartments at ['East Village'](http://eastvillagelondon.co.uk), formerly the Olympic Village, with a further 2000 in the pipeline. 
 
