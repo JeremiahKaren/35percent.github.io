@@ -12,7 +12,7 @@ __Elephant One__ is a mixed-use development including a cinema, shops, new Marke
 
 ![](https://pbs.twimg.com/media/CBXYmc6XIAAHGsy.jpg)
 
-The development is a joint venture between Isle-of-Man registered, [tax dodging developer Oakmayne and Delancey DV4](http://35percent.org/2017-03-12-delanceys-dirty-tricks/#tax-dodging-developers) - a multimillion pound real-estate developer registered in the British Virgin Islands.
+The development is a joint venture between Isle-of-Man registered, [tax dodging developer Oakmayne and Delancey DV4](http://35percent.org/2017-03-12-delanceys-dirty-tricks/#tax-dodging-developers) - a multimillion pound real-estate developer registered in the British Virgin Islands. The Guardian [reports](https://www.theguardian.com/education/2018/may/27/swansea-to-newcastle-offshore-ownership-of-student-blocks#london) that whilst the rents are paid to a UK company, these are then paid to a separate British Virgin Islands based company.
 
 It has been constructed entirely using an [offsite prefabricated construction technique](http://www.laingorourke.com/media/news-releases/2015/laing-o-rourke-led-consortium-awarded.aspx); even the [bathrooms](http://www.modulor.ae/index.php?page=view_pages_detail&tbl_pages_id=eacf5a7153) are [prefabricated in Dubai](http://www.london-se1.co.uk/news/view/7609).
 
