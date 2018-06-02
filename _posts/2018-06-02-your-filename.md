@@ -1,7 +1,7 @@
 ---
 layout: post
 published: false
-title: 'Ledbury estate residents '
+title: Ledbury estate tenants face hard choices
 ---
 ## The LE
 
@@ -13,7 +13,7 @@ Southwark had sound financial reasons for this; like all councils it was enterin
 
 Southwark's Tenants Council was consulted about the keeping target rents for relets and saw the danger of a two-tier rent system, gradually ratcheting all rents up as tenants changed (Southwark estaimated that this would be achieved after 20 years), and duly voted 14 to 3 against the change (link), but to no avail.  Unsurprisingly, there was no wider consultation.
 
-The Ledbury case sheds a light on Southwark's pledge to build 11000 (15000) council homes.  A very welcome pledge, but if the new council housing proves to be too expensive for current council tenants, as demonstrated by the fact that Ledbury tenants are turning it down, then the fulfilled promise will turn out to be hollow.  If, also, along the way the term 'council housing' itself is being  stealthily redefined to allow different rent levels, then it will cease to be one tenure of affordabe housing that is trusted, readily understood and truly affordableis.  Other new measures, such as the intermediate list, will help this dangerous process along, aided by the Mayor, Sadiq Khan, repeatedly equating social rent with 40% market rent, when it is nothing of the kind (link) - it is not determined by the market and in cash terms is equivalent to about 25-30% market rents in Southwark
+The Ledbury case sheds a light on Southwark's pledge to build 11000 (15000) council homes.  A very welcome pledge, but if the new council housing proves to be too expensive for current council tenants, as demonstrated by the fact that Ledbury tenants are turning it down, then the fulfilled promise will turn out to be hollow.  If, also, along the way the term 'council housing' itself is being  stealthily redefined to allow different rent levels, then it will cease to be one tenure of affordabe housing that is trusted, readily understood and truly affordable.  Other new measures, such as the intermediate list, will help this dangerous process along, aided by the Mayor, Sadiq Khan, repeatedly equating social rent with 40% market rent, when it is nothing of the kind (link) - it is not determined by the market and in cash terms is equivalent to about 25-30% market rents in Southwark
 
 £15-£20pw may not sound like too much to many people, but the Ledbury case demonstrates that is a significnat amount to those who rely on council housing and may make the difference between having a home you can afford, or not.
 
@@ -22,6 +22,8 @@ Well-founded suspicions, given the (Southwark's track record)[http://35percent.o
 
 
 Southwark announced the purchase of the 80 new build homes of (Sylvan Grove)[https://www.ledburyestate.com/single-post/2017/11/14/3-month-delay-on-new-local-homes-causes-further-misery-for-Ledbury-residents] from Hyde Housing in August and after delays they finally became available in...
+
+Leaseholders able to take advantage of amended rehousing policy - shared equity loan.
 
 
 Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
