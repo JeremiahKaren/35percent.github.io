@@ -3,7 +3,7 @@ layout: post
 published: false
 title: Ledbury estate tenants face hard choices
 ---
-## The LE
+## 
 
 The beleagured tenants of the (Ledbury estate)[https://www.ledburyestate.com/] face stiff increases in rent and council tax,if they take up an offer of new homes made by Southwark Council.  New homes are needed after an (Arups report)[http://www.southwark.gov.uk/housing/safety-in-the-home/fire-safety-on-the-ledbury-estate?chapter=4] recommended strengthening the four tower blocks on the estate to bring them up to building standard, works which would in all liklihood require the residents to leave their homes[https://www.ledburyestate.com/single-post/2017/11/22/ARUP-engineers-report-on-Ledbury-published].  The report was in turn commissioned by Southwark after persistent complaints by residents were finally heeded.  The residents' struggles, ably led by the Ledbury TRA and Ledbury Action Group, are chronicled in the excellent (LAG blog)[https://www.ledburyestate.com/blog].
 
