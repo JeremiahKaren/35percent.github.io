@@ -15,7 +15,7 @@ Southwark's Tenants Council was consulted about the keeping target rents for rel
 
 The Ledbury case sheds a light on Southwark's pledge to build 11000 (15000) council homes.  A very welcome pledge, but if the new council housing proves to be too expensive for current council tenants, as demonstrated by the fact that Ledbury tenants are turning it down, then the fulfilled promise will turn out to be hollow.  If, also, along the way the term 'council housing' itself is being  stealthily redefined to allow different rent levels, then it will cease to be one tenure of affordabe housing that is trusted, readily understood and truly affordable.  Other new measures, such as the intermediate list, will help this dangerous process along, aided by the Mayor, Sadiq Khan, repeatedly equating social rent with 40% market rent, when it is nothing of the kind (link) - it is not determined by the market and in cash terms is equivalent to about 25-30% market rents in Southwark
 
-£15-£20pw may not sound like too much to many people, but the Ledbury case demonstrates that is a significnat amount to those who rely on council housing and may make the difference between having a home you can afford, or not.
+£15-£20pw may not sound like too much to many people, but the Ledbury case demonstrates that is a significant mount to those who rely on council housing and may make the difference between having a home you can afford, or not.
 
 
 Well-founded suspicions, given the [Southwark's track record](http://35percent.org/the-southwark-clearances/) have wrested a promise that the estate will remain [100% council housing](https://www.ledburyestate.com/single-post/2017/11/14/Council-leaders-promise-once-again-to-keep-Ledbury-100-council).
