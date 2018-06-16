@@ -1,7 +1,9 @@
 ---
 layout: post
 published: false
-title: ''
+title: >-
+  Southwark Law Centre makes big objection to shopping centre planning
+  application
 ---
 ## A New Post
 ## 
