@@ -5,7 +5,7 @@ title: Shopping Centre redevelopment - Delancy tries again
 ---
 ## Delancey returns to the planning commmittee
 
-Elephant shopping centre owners and developers Delancey will be hoping it is third time lucky when Southwark's planning committee considers their application for redeveloping the centre centre on 3 July.  The committee chose not approve the application at two meetings in January and the decison was further deferred because of local elections in May.  
+Elephant shopping centre owner and developer Delancey will be hoping it is third time lucky when Southwark's planning committee considers their application for redeveloping the centre centre on 3 July.  The committee chose not approve the application at two meetings in January and the decison was further deferred because of local elections in May.  
 
 Delancey's initial failure, though, was the result of a concerted campaign which united shopping centre traders, the local Latin American community, staff and students from the London College of Communication,  local housing campaigners and local councillors.  There were over 900 objections.
 
