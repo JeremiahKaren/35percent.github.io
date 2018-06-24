@@ -19,8 +19,6 @@ Despite all this the affordable housing offer is still does not meet the the reu
 
 All in all then, while the application is an improvement on what was [dreadful](http://35percent.org/2017-09-23-elephant-castle-shopping-centre-update/), there is still a way to go before it should be approved.
 
-A protest has been organised for the evening of the planning committee on 3 July - [details here]( https://www.facebook.com/events/167374030786608/)
+A protest has been organised for the evening of the planning committee on 3 July - [details here]( https://www.facebook.com/events/167374030786608/.)
 
-m, according to the 
 
-Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
