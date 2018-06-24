@@ -1,8 +1,9 @@
 ---
 layout: post
 published: false
-title: ''
+title: Shopping Centre redevelopment - Delancy tries again
 ---
-## Delancey
+## Delancey returns to the planning commmittee
+
 
 Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
