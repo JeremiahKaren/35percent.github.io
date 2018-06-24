@@ -17,7 +17,7 @@ The improved housing offer comes at cost too, but not for Delancey.  While there
 
 Despite all this the affordable housing offer is still does not meet the the requirements of the adopted local plan; there would have to be at least 170 social rented units, amongst other things, for this to happen.  Delancey instead hopes to get the advantage of new policy that is in pipeline, so called emerging policy, which requires less social rented housing and favours the Build for Rent type scheme Delancey is proposing, rather that the traditional Build for Sale scheme (although Delancey is hedging its bets and wants the option of reverting to Build for Sale on half the site, if it chooses to).
 
-All in all then, while the application is an improvement on what was [dreadful](http://35percent.org/2017-09-23-elephant-castle-shopping-centre-update/), there is still a way to go before it should be approved.
+All in all then, while the application is an improvement on what was [dreadful](http://35percent.org/2017-09-23-elephant-castle-shopping-centre-update/), there is still a way to go before it is fit for approval.  The planning committee must hold firm and reject the application.
 
 A protest has been organised for the evening of the planning committee on 3 July - [details here]( https://www.facebook.com/events/167374030786608/.)
 
