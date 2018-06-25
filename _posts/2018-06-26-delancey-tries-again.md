@@ -24,9 +24,17 @@ and still stand to make £137m profit, according to their [latest Development Ap
 
 Despite all this the affordable housing offer is still does not meet the requirements of the adopted local plan; there would have to be at least 170 social rented units, amongst other things, for this to happen.
 
-Delancey claims that its affordable housing offer is the maximum it can viably provide, but its viab
+Delancey claims that its affordable housing offer is the maximum it can viably provide, but its [viability assessment](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!eW5y4yYs725p%2bJMli9Cf8g%3d%3d!%7d%7d%7d) contains several unexplained costs. Firstly there is a £79m unnamed construction cost on the East Site:
 
-Delancey instead hopes to get the advantage of new policy that is in pipeline, so called emerging policy, which requires less social rented housing and favours the Build for Rent type scheme Delancey is proposing, rather than the traditional Build for Sale scheme (although Delancey is hedging its bets and wants the option of reverting to Build for Sale on half the site, if it chooses to).
+![](http://35percent.org/img/e1.png)
+
+Secondly, there are two acquisition costs plus stamp duty amounting to £142m and a further £15m unitemised development cost included in Delancey's viability assessment (which was only made public at the end of last week):
+
+![](http://35percent.org/img/e2.png)
+
+Given that Delancey has owned the shopping centre since 2013 and is developing the land in partnership with the UAL which has owned its site for decades, we are at a loss as to explain what these acquisition costs represent and why they have been included as a cost to the scheme in Delancey's viability assessment.
+
+_Delancey instead hopes to get the advantage of new policy that is in pipeline, so called emerging policy, which requires less social rented housing and favours the Build for Rent type scheme Delancey is proposing, rather than the traditional Build for Sale scheme (although Delancey is hedging its bets and wants the option of reverting to Build for Sale on half the site, if it chooses to)._ (*maybe delete this paragraph?)
 
 ## Poor design
 None of Delancey's amendments involve changes to the design of the scheme, which Southwark's Design Review Panel have criticised heavily, in particular in relation to _" poorly designed access and the presence of the railway station at the centre of the site."_ In their [report](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!Lne%2f9qVjTGbWyUdbJYdnsw%3d%3d!%7d%7d%7d) to the Council's planning committee they said that _"In respect of the public realm, the Panel felt the current proposals lacked generosity. They noted that other significant schemes provided appropriate civic spaces and public realm on their sites and felt that the current proposal did not strike the right balance between pubic realm and built form to mitigate against the enormous scale of the proposal."_ 
