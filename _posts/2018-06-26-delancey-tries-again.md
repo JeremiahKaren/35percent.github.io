@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 title: Shopping Centre redevelopment - Delancey tries again
 ---
 ## Application returns to the planning committee
