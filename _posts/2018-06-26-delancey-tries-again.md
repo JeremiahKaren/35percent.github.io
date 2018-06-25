@@ -13,7 +13,7 @@ Delancey's initial failure, though, was the result of a concerted campaign which
 
 Delancey has used the time since to make some modest improvements to the application.  The number of social rented homes was first increased from 33 to 74 units and then, within the last week, up to 116 units.  The units will be purchased and managed by Southwark Council, not a private sector registered provider as previously proposed.  Interim retail units are also being built, to accommodate at least some of the displaced traders, on Castle Sq, just over the railway from the centre.  Any trader within the 'red-line' of the development will be eligible for support from the relocation strategy.  A 'cluster' of affordable retail and affordable space is proposed for Pastor St, behind the London College of Communication.  There is also a qualified commitment to lease a proportion of the proposed leisure floorspace to a bingo operator. Delancey [says](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!Hw5NLOf19aAUEMtPn8HzFA%3d%3d!%7d%7d%7d) it _"will give first refusal (on commercial terms) to a bingo operator to lease a proportion of the proposed leisure floorspace within the development."_ 
 
-The Palaces bingo hall and bowling alley in the shopping centre are major attractions in the area).
+The Palaces bingo hall and bowling alley in the shopping centre are major attractions in the area.
 
 These improvements are valuable for some, but for most traders it is all too little, too late. Local charity [Latin Elephant](http://latinelephant.org/) reckons there are 150 migrant and ethnic businesses at the Elephant.  The Elephant and Castle Traders Asssociation counts traders from 16 different countries, stretching from Bolivia to Turkey to Bangladesh and Ghana. They have been informed that they will have to leave the centre by March 2019 (regardless of the outcome of the planning application) and there is little doubt that Delancey's proposals will not accommodate them all.
 
@@ -23,18 +23,7 @@ The improved housing offer comes at a cost too, but not for Delancey.  While the
 and still stand to make £137m profit, according to their [latest Development Appraisal](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!eW5y4yYs725p%2bJMli9Cf8g%3d%3d!%7d%7d%7d).  Delancey is also seeking [funding from the GLA](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!b5xBNaYRSleWlYx6oXVrEA%3d%3d!%7d%7d%7d) to build its affordable housing (£60k per social rented unit) which it will then sell to Southwark Council [for an estimated £26.7m](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!eW5y4yYs725p%2bJMli9Cf8g%3d%3d!%7d%7d%7d) (£230k per unit).
 
 Despite all this the affordable housing offer is still does not meet the requirements of the adopted local plan; there would have to be at least 170 social rented units, amongst other things, for this to happen.
-
-Delancey claims that its affordable housing offer is the maximum it can viably provide, but its [viability assessment](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!eW5y4yYs725p%2bJMli9Cf8g%3d%3d!%7d%7d%7d) contains several unexplained costs. Firstly there is a £79m unnamed construction cost on the East Site:
-
-![](http://35percent.org/img/e1.png)
-
-Secondly, there are two acquisition costs plus stamp duty amounting to £142m and a further £15m unitemised development cost included in Delancey's viability assessment (which was only made public at the end of last week):
-
-![](http://35percent.org/img/e2.png)
-
-Given that Delancey has owned the shopping centre since 2013 and is developing the land in partnership with the UAL which has owned its site for decades, we are at a loss as to explain what these acquisition costs represent and why they have been included as a cost to the scheme in Delancey's viability assessment.
-
-Delancey instead hopes to get the advantage of new policy that is in pipeline, so called emerging policy, which requires less social rented housing and favours the Build for Rent type scheme Delancey is proposing, rather than the traditional Build for Sale scheme (although Delancey is hedging its bets and wants the option of reverting to Build for Sale on half the site, if it chooses to). (*maybe delete this paragraph?)
+Delancey instead hopes to get the advantage of new policy that is in pipeline, so called emerging policy, which requires less social rented housing and favours the Build for Rent type scheme Delancey is proposing, rather than the traditional Build for Sale scheme. 
 
 ## Poor design
 None of Delancey's amendments involve changes to the design of the scheme, which Southwark's Design Review Panel have criticised heavily, in particular in relation to _" poorly designed access and the presence of the railway station at the centre of the site."_ In their [report](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!Lne%2f9qVjTGbWyUdbJYdnsw%3d%3d!%7d%7d%7d) to the Council's planning committee they said that _"In respect of the public realm, the Panel felt the current proposals lacked generosity. They noted that other significant schemes provided appropriate civic spaces and public realm on their sites and felt that the current proposal did not strike the right balance between pubic realm and built form to mitigate against the enormous scale of the proposal."_ 
