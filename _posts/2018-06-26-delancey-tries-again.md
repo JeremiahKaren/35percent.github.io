@@ -32,7 +32,7 @@ It goes on to raise _"significant concerns"_ about the building infront of the r
 
 The panel raises significant concerns about the new Northern line entrance, which they felt _"lacked visual presence on the street and is currently proposed as a simple single-storey shopfront – no different to a retail unit."_
 
-It also criticises the public realm proposals; _"In respect of the public realm, the Panel felt the current proposals lacked generosity. They noted that other significant schemes provided appropriate civic spaces and public realm on their sites and felt that the current proposal did not strike the right balance between pubic realm and built form to mitigate against the enormous scale of the proposal."_
+It also criticises Delancey's public realm proposals; _"In respect of the public realm, the Panel felt the current proposals lacked generosity. They noted that other significant schemes provided appropriate civic spaces and public realm on their sites and felt that the current proposal did not strike the right balance between pubic realm and built form to mitigate against the enormous scale of the proposal."_
 
 All in all then, while the application is an improvement on what was [dreadful](http://35percent.org/2017-09-23-elephant-castle-shopping-centre-update/), there is still a way to go before it is fit for approval.  The planning committee must hold firm and reject the application.
 
