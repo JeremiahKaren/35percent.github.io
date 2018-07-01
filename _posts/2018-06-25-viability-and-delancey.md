@@ -1,7 +1,7 @@
 ---
 layout: post
 published: false
-title: Delanceys subsidised profit
+title: Delancey's subsidised profit
 ---
 ##Courtesy of GLA
 
