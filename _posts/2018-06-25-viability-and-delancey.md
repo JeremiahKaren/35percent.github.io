@@ -3,7 +3,10 @@ layout: post
 published: false
 title: Viability and Delancey
 ---
-## Viabilitty and Delancey
+## Viability and Delancey
+
+Just over a week before the shopping centre planning application goes before Southwark's planning committee for the third time (link) a slew of viability documents were released (link). Given the size of the main document, the the full financial viability assessment it has not been poosible for campaigners to present a complete response, but some interesting facts have come to light.
+As is usual developer Delancey claims its affordable housing offer is the most it can possible provide and, as is also usual it falls some way short of what Southwark's planning policg requires.  it has upped the number of social rented units from 33, first to 74 and then to 116; this still leavesi tsome way short of the 165 or so needed for polciy compliance.its social rened nu
 
 Delancey claims that its affordable housing offer is the maximum it can viably provide, but its [viability assessment](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!eW5y4yYs725p%2bJMli9Cf8g%3d%3d!%7d%7d%7d) contains several unexplained costs. Firstly there is a £79m unnamed construction cost on the East Site:
 
