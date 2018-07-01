@@ -3,7 +3,7 @@ layout: post
 published: false
 title: Delanceys subsidised profit
 ---
-##Gratis GLA
+##Courtesy of GLA
 
 Just over a week before the shopping centre planning application goes before Southwark's planning committee [for the third time](http://35percent.org/2018-06-26-delancey-tries-again/) a slew of viability documents were released. Given the size of the main document, the full financial viability assessment [(FVA)](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!7Op6ZeDkjdW7huGG0wKoxg%3d%3d!%7d%7d%7d) it has not been possible for campaigners to present a complete response, but some interesting facts have come to light nonetheless.
 
