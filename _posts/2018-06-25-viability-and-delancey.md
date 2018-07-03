@@ -20,7 +20,7 @@ All this aside it is quite clear from the viability section in the [officer's re
 
 The decision on this application is in the balance.  There will be a demonstration before the planning committee meeting **Up the Elephant Tuesday 3rd July @ 5:30pm; Southwark Council Offices, 160 Tooley Street, London SE1 2QH** (Planning Committee starts at 6:30pm)
 
-More info can be [found here](https://www.facebook.com/events/167374030786608/)
+More info about the demonstration can be [found here](https://www.facebook.com/events/167374030786608/) and our briefing to Councillors summarising our objections can be found [here](/img/Councillor_lett300618.pdf).
 
 
 ----------------------------------------------------------------------------------------------------
