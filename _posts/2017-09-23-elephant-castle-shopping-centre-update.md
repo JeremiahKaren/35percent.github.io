@@ -32,7 +32,7 @@ Southwark also has compulsory purchase order powers that Delancey is relying on,
 
 This remains a dreadful planning application, but it's not too late to object! You can write to:
  
- * MP Neil Coyle (neil.coyle@southwark.gov.uk [@coyleneil](https://twitter.com/coyleneil))
+ * local MP Neil Coyle (neil.coyle@southwark.gov.uk [@coyleneil](https://twitter.com/coyleneil))
  * Council leader Peter John (peter.john@southwark.gov.uk [@peterjohn6](https://twitter.com/peterjohn6))
  * Cabinet member for Regeneration Mark Williams (mark.williams@southwark.gov.uk [@markwilliams84](https://twitter.com/coyleneil)).
 
@@ -108,5 +108,4 @@ Yours sincerely,
    </fieldset>
   </form>
 
-The Council has announced that it has recommended this disastrous application for approval by its planning committee on 18th December 2017.
-We will be protesting along with traders and others at the planning committee hearing on 18th Dec. Please check our twitter @35percent_EAN for full details.
+
