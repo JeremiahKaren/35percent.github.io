@@ -4,6 +4,8 @@ title: Grosvenor takes the biscuit
 subtitle: Revised planning application still falls well short of policy requirements
 published: true
 ---
+![](http://35percent.org/img/biscuitfactory1.png)
+
 # 1200 new homes, no social rented#
 While most eyes have been on the plans for the redevelopment of the Elephant and Castle shopping centre, an equally large and very similiar proposal, with no social rented housing, out of over a thousand new homes, on the other side of Southwark has been stealthily making its way towards planning permission.
 
@@ -13,11 +15,17 @@ The housing policy for the area requires 35% affordable housing, three-quarters 
 
 Convenant 15 
 
+
+![](http://35percent.org/img/biscuitfactory2.png)
+
+
 Similarities with Delancey
 No surprise to see DS2
 Grovesnor Estate His His Grace, the Duke of Westminster https://www.grosvenorestate.com/about-us.aspx
 
 
+
+![](http://35percent.org/img/grosvenorfva.png)
 
 
 
