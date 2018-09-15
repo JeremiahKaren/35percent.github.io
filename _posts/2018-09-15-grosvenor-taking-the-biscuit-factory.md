@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Elephant & Castle shopping centre update"
-subtitle: "Revised planning application still falls well short of policy requirements"
+title: Grosvenor takes the biscuit
+subtitle: Revised planning application still falls well short of policy requirements
 published: true
 ---
 
@@ -87,5 +87,3 @@ Yours sincerely,
 </div>
    </fieldset>
   </form>
-
-
