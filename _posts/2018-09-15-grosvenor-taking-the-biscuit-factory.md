@@ -1,8 +1,10 @@
 ---
 layout: post
 title: Grosvenor takes the biscuit
-subtitle: Revised planning application still falls well short of policy requirements
-published: true
+subtitle: >-
+  Bermondsey's Biscuit Factory redevelopment falls well short of policy
+  requirements
+published: false
 ---
 ![](http://35percent.org/img/biscuitfactory1.png)
 
