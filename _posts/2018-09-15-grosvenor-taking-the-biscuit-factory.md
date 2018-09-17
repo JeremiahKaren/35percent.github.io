@@ -39,9 +39,9 @@ Grovesnor Estate His His Grace, the Duke of Westminster https://www.grosvenorest
 
 This remains a dreadful planning application, but it's not too late to object! You can write to:
  
- * local MP Neil Coyle (neil.coyle@southwark.gov.uk [@coyleneil](https://twitter.com/coyleneil))
- * Council leader Peter John (peter.john@southwark.gov.uk [@peterjohn6](https://twitter.com/peterjohn6))
- * Cabinet member for Regeneration Mark Williams (mark.williams@southwark.gov.uk [@markwilliams84](https://twitter.com/coyleneil)).
+ * local MP - Neil Coyle (neil.coyle@southwark.gov.uk [@coyleneil](https://twitter.com/coyleneil))
+ * Council leader - Peter John (peter.john@southwark.gov.uk [@peterjohn6](https://twitter.com/peterjohn6))
+ * Cabinet member for Growth, Development & Planning - Johnson Situ (johnson.situ@southwark.gov.uk [@johnsonsitu](https://twitter.com/johnsonsitu)).
 
 You can also use our automated objection form below to lodge an objection to the revised planning application. 
  
