@@ -46,7 +46,7 @@ For example, the Council has [cut](http://moderngov.southwark.gov.uk/documents/s
 
 ![](/img/carehomesshutdown.jpg)
 
-Besides selling off its community and social services facilities, the Council has been busy [selling off its council estates](http://35percent.org/the-southwark-clearances/), its [Town Halls](http://35percent.org/southwark-town-halls/) and street properties. Here are some of the street properties [sold at auction](/images/sold_by_southwark.pdf) by the current (Labour) administration.
+Besides selling off its community and social services facilities, the Council has been busy [selling off its council estates](http://35percent.org/the-southwark-clearances/), its [Town Halls](http://35percent.org/southwark-town-halls/) and street properties. Here are some of the street properties [sold at auction](http://35percent.org/img/sold_by_southwark.pdf) by the current (Labour) administration.
 
 | Council House  | Address  | Sold Price  | Date  |
 |---|---|---|---|
