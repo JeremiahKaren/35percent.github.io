@@ -8,14 +8,14 @@ published: false
 ---
 ![](http://35percent.org/img/biscuitfactory1.png)
 
-# 1200 new homes, no social rented#
+# 1300 new homes, no social rented#
 While most eyes have been on [developer Delancey's plans](https://planning.southwark.gov.uk/online-applications/applicationDetails.do?activeTab=externalDocuments&keyVal=_STHWR_DCAPR_9569810) for the redevelopment of the Elephant and Castle shopping centre, on the other side of Southwark, an equally large, but worse proposal, for over a thousand homes with no social housing, has been stealthily making its way towards planning permission.
 
 Grovesnor Estates bought the Biscuit Factory and campus site in Bermondsey in 2013.  The site combines the the former homes of biscuit manufacturer Peek Freans and the Bermondsey campus of Lewisham and Southwark FE College.  Peek Freans closed in 1989, the college left in 2013 and the site is currently occupied by a variety of businesses and offices.
 
 ![](http://35percent.org/img/biscuittown.jpg)
 
-Grosvenor proposes [a mixed use development](https://planning.southwark.gov.uk/online-applications/applicationDetails.do?activeTab=externalDocuments&keyVal=_STHWR_DCAPR_9575486) of 1217 new homes with 19000 sqm of other uses, and a new school (link).  The homes will all be Build to Rent (BtR), owned and mangaged by Grovesnor; none will be for sale.  Grovesnor are offering 27% affordable housing at 75% market rents.  There will be no social rented housing or 'social rent equivalent' affordable housing. 
+Grosvenor proposes [a mixed use development](https://planning.southwark.gov.uk/online-applications/applicationDetails.do?activeTab=externalDocuments&keyVal=_STHWR_DCAPR_9575486) of 1343 new homes with 19000 sqm of other uses, and a new school (link).  The homes will all be Build to Rent (BtR), owned and mangaged by Grovesnor; none will be for sale.  Grovesnor are offering 27% affordable housing at 75% market rents.  There will be no social rented housing or 'social rent equivalent' affordable housing. 
 
 Southwark Council's adopted housing policy does not support BtR.  The housing policy for this part of Bermonndsey and requires 35% affordable housing, three-quarters of which should be social rent.  This would amount to around 420 affordable units in total, 360 of which should be social rent.  Policy also requires that the remainder of the affordable housing be part-buty/part-rent. By contrast, the affordable housing in Build to Rent is a form of the egregious affordable rent, at up to 80% market rent.  Southwark have maintained since 2011 that this 
 [does not meet the borough's housing needs](http://moderngov.southwark.gov.uk/documents/s24907/Report%20Clarification%20of%20affordable%20housing%20policies.pdf), but is in the middle of a sharp policy u-turn, which proposes allowing affordable rent (called Discounted Market Rent) in the latest version of the local plan, the [New Southwark Plan](https://www.southwark.gov.uk/assets/attach/5811/NSP%20PSV%20FINAL.pdf) (see policy P4).  Grovesnor are employing the same tactic as Delancey and relying on this so-called 'emerging' policy, rather than the policy as it stands, to get their application through planning committee.
@@ -26,7 +26,9 @@ It is no surprise to see that the viability assessment had been drafted by DS2, 
 
 All is not lost though, because generous Grovesnor continue _'notwithstanding the overall scheme viability, it would be willing to offer 27.5% affordable housing, delivered as discount market rented (“DMR”) homes (“Grosvenor’s Offer”)_.'  The average discount would be 25% ie 75% market rents,  close to the maximum of 80% allowed for the egregious 'affordable rent'.  Exactly how much this will be we are left to guess - unlike Delancey's proposals for the shopping centre Grovesnor does not bother to provide any rent tables for either the market or affordable housing.  Currnet market rents  in the [SE16 postcode ](https://www.zoopla.co.uk/to-rent/flats/london/se16/rotherhithe-south-bermonsey-surrey-docks/) are upwards of £1600pcm.
 
-Grovesnor adds voluntarily proposing a post completion, fixed point viability review mechanism, to be secured through the S106 Agreement.
+
+
+
 
 
 Convenant 15 years
@@ -46,6 +48,7 @@ School
 Newington Communications
 No affordable housing provider?
 No table of rents, affordable or otherwise.
+Grovesnor 'voluntarily' proposes 'a post completion, fixed point viability review mechanism.
 
 
 
