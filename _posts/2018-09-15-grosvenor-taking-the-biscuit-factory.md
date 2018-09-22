@@ -24,7 +24,7 @@ and the government's
 
 Even if 'emerging' policy were applied to allow a BtR development, Grosvenor's affordable housing offer still comprehensively fails to fulfill its demands.  The NSP Policy P4 for BtR requires 35% total affordable housing, made up 12% 'social rent equivalent', 18% London Living Rent, 5% for £60k-£90k incomes.  Grosvenor falls short on every measure -  0% social rent equivalent, 0% London Living Rent, 100% at £60k-£90k market rent, and only 27% total affordable housing.
 
-Other areas where Grosvenor's scheme fails policy tests are the
+Other areas where Grosvenor's scheme fails policy tests are; the
 [number of studio flats](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!%2bn6U3QMQULFPWhUK7W10pA%3d%3d!%7d%7d%7d) - (150; there should be no more than about 70 (5%), according to Southwark's [Core Strategy](https://www.southwark.gov.uk/assets/attach/1675/1.0.2%20DL%20Core_Strategy_2011.pdf)); the length of covenant keeping the BtR units as rented tenure (15 years offered, emerging policy says thirty years); [management and lettings of affordable housing](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!6Xs2JaFpJu%2bk1WP4RoXHyA%3d%3d!%7d%7d%7d) (Grosvenor makes no mention of using a registered provider, a Core Strategy requirement and is evidently reluctant to extend nominations to Southwark, stressing that while _'it will work with LBS to enable prospective tenants to be sourced from any such list'_(ie Southwark's intermediate housing)..._The lettings and nominations arrangements will need to recognise
 that Grosvenor will need ultimate control over the occupation and management of the Proposed Development_'.
 
