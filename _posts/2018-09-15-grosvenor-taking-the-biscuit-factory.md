@@ -11,15 +11,16 @@ published: false
 # 1200 new homes, no social rented#
 While most eyes have been on the plans for the redevelopment of the Elephant and Castle shopping centre, an equally large and very similiar proposal, with no social rented housing, out of over a thousand new homes, on the other side of Southwark has been stealthily making its way towards planning permission.
 
-The Biscuit Factory and campus site in Bermondsey combines the the former homes of biscuit manufacturer Peek Freans and a Lewisham and Southwark FE College campus.  Peek Freans closed in 1989, the college left in 2013 and the site is currently occupied by a variety of businesses and offices.
+The Biscuit Factory and campus site in Bermondsey combines the the former homes of biscuit manufacturer Peek Freans and the Bermondsey campus of Lewisham and Southwark FE College.  Peek Freans closed in 1989, the college left in 2013 and the site is currently occupied by a variety of businesses and offices.
 
 ![](http://35percent.org/img/biscuittown.jpg)
 
-The site, was bought by Grovesnor Estates in 2013.  Grosvenor proposes a mixed use development of 1217 new homes with 19000 sqm of other uses, and a new school.  The homes will all be Build to Rent (BtR), owned and mangaged by Grovesnor; none will be for sale.  Grovesnor are offering 27% affordable housing at 75% market rents.  There will be no social rented housing. 
+The site was bought by Grovesnor Estates in 2013.  Grosvenor proposes a mixed use development of 1217 new homes with 19000 sqm of other uses, and a new school 9link).  The homes will all be Build to Rent (BtR), owned and mangaged by Grovesnor; none will be for sale.  Grovesnor are offering 27% affordable housing at 75% market rents.  There will be no social rented housing. 
 
 Southwark adopted housing policy does not support BtR.  The housing policy and requires 35% affordable housing, three-quarters of which should be social rent, for developments in this area.  This would amount to around 420 affordable units in total, 360 of which should be social rent.  Policy also requires that the remainder of the affordable housing be part-buty/part-rent. 
 
-It is no surprise to see that the viability assessment had been drafted bt DS2, wo did the same job for Delancey's shopping centre development (link).  In  keeping with Southwark's viability and development policy (link) we won't get to see the full assessment until a week before it goes to planning committee, and have to rely on an executive summary for any idea of the scheme's finances. The executive summary is deficient, policy wise,  in several respects; the construction, acquisition and other development costs and professional fees are lumped into one figure, instead of given seperately. The developer profit is given as an obscure percentage (7% IRR- Internal Rate of Return), not as a readlily understandable cash figure.  A simple calculation,though, subtracting costs from the gross development value, does allow to estimate the profit at £99m.  This is not enough for Grovesnor though, who reckon the profit does not meet the industry standard (12% IRR) and so cannot provide the full quota of affordable housing.  Grovesnor claim  27% affordable is all there can be, right at the top end o indeed according to Grovesnor we are only getting 
+It is no surprise to see that the viability assessment had been drafted bt DS2, wo did the same job for Delancey's shopping centre development (link).  In  keeping with Southwark's viability and development policy (link) we won't get to see the full assessment until a week before it goes to planning committee, and have to rely on an executive summary for any idea of the scheme's finances. The executive summary is deficient, policy wise,  in several respects; the construction, acquisition and other development costs and professional fees are lumped into one figure, instead of given seperately. The developer profit is given as an obscure percentage (7% IRR- Internal Rate of Return), not as a readlily understandable cash figure.  A simple calculation,though, subtracting costs from the gross development value, does allow to estimate the profit at £99m.  This is not enough for Grovesnor though, who reckon the profit does not meet the industry standard (12% IRR) and so cannot provide the full quota of affordable housing.  Grovesnor claim  27% affordable is all there can be, and at 75% market rents, will be close to the maximum allowed for the egregious 'afforddable rent'
+
 
 Convenant 15 years
 
@@ -36,6 +37,8 @@ Viability £900m profit
 Tables
 School
 Newington Communications
+No affordable housing provider?
+No table of rents, affordable or otherwise.
 
 
 
