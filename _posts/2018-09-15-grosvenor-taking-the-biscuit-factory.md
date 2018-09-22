@@ -11,7 +11,7 @@ published: false
 # 1300 new homes, no social rented#
 While most eyes have been on [developer Delancey's plans](https://planning.southwark.gov.uk/online-applications/applicationDetails.do?activeTab=externalDocuments&keyVal=_STHWR_DCAPR_9569810) for the redevelopment of the Elephant and Castle shopping centre, on the other side of Southwark an equally large, but worse proposal, for over a thousand homes without any social housing, has been stealthily making its way towards planning permission.
 
-Grosvesnor Estates bought the Biscuit Factory and campus site in Bermondsey in 2013.  The site combines the the former homes of biscuit manufacturer Peek Freans and the Bermondsey campus of Lewisham and Southwark FE College.  Peek Freans closed in 1989, the college left in 2013 and the site is currently occupied by a variety of businesses and offices.
+Grosvesnor Estates bought the Biscuit Factory and campus site in Bermondsey in 2013.  The site combines the former homes of biscuit manufacturer Peek Freans and the Bermondsey campus of Lewisham and Southwark FE College.  Peek Freans closed in 1989, the college left in 2013 and the site is currently occupied by a variety of businesses and offices.
 
 ![](http://35percent.org/img/biscuittown.jpg)
 
