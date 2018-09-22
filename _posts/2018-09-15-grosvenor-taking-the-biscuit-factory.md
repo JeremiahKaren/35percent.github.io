@@ -34,7 +34,7 @@ As always the lack of affordable housing is justified by viability and it is no 
 
 ![](http://35percent.org/img/grosvenorfva.png)
 
-Grosvenor also claim that there can be no affordable housing, because of a list of other benefits the scheme provides, including 'the delivery of a new school'; why is not clear because elsewhere it states _'the construction of the new school is anticipated to be funded by the ESFA_ (Education and Skills Funding Agency)'
+Grosvenor also claim that there can be no affordable housinG because of a list of other benefits the scheme provides, including 'the delivery of a new school'; why is not clear because elsewhere it states _'the construction of the new school is anticipated to be funded by the ESFA_ (Education and Skills Funding Agency)'
 
 All is not lost though, because generous Grosvenor continue _'notwithstanding the overall scheme viability, it would be willing to offer 27.5% affordable housing, delivered as discount market rented (“DMR”) homes (“Grosvenor’s Offer”)_.'  The average discount would be 25% ie 75% market rents,  close to the maximum of 80% allowed for the egregious 'affordable rent'.  Exactly how much this will be we are left to guess - unlike Delancey's proposals for the shopping centre Grosvenor does not bother to provide any rent tables for either the market or affordable housing.  Currnet market rents  in the [SE16 postcode ](https://www.zoopla.co.uk/to-rent/flats/london/se16/rotherhithe-south-bermonsey-surrey-docks/) are upwards of £1600pcm.
 
