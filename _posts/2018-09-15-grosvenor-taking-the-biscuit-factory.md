@@ -34,7 +34,6 @@ Grosvenor also claim that there can be no affordable housing, because of a list 
 
 All is not lost though, because generous Grosvenor continue _'notwithstanding the overall scheme viability, it would be willing to offer 27.5% affordable housing, delivered as discount market rented (“DMR”) homes (“Grosvenor’s Offer”)_.'  The average discount would be 25% ie 75% market rents,  close to the maximum of 80% allowed for the egregious 'affordable rent'.  Exactly how much this will be we are left to guess - unlike Delancey's proposals for the shopping centre Grosvenor does not bother to provide any rent tables for either the market or affordable housing.  Currnet market rents  in the [SE16 postcode ](https://www.zoopla.co.uk/to-rent/flats/london/se16/rotherhithe-south-bermonsey-surrey-docks/) are upwards of £1600pcm.
 
-9.	The Applicant acknowledges that it will not be using a private registered provider to deliver or let the affordable housing.  (Affordable Housing Statement Addendum pg 4).  The application is therefore contrary to Southwark’s Core Strategy Policy 6, which requires that social rented housing be let by ‘a housing association (known as registered providers) or other affordable housing providers’. 
 
  
 
