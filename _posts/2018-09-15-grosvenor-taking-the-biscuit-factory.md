@@ -41,8 +41,7 @@ All is not lost though, because generous Grosvenor continue _'notwithstanding th
 
 
 
-Convenant 15 years
-150 studio units
+
 
 
 ![](http://35percent.org/img/biscuitfactory2.png)
@@ -53,12 +52,8 @@ No surprise to see DS2
 Grovesnor Estate His His Grace, the Duke of Westminster https://www.grosvenorestate.com/about-us.aspx
 The Grosvenor Estate represents all the business activities of the Grosvenor Family,
 headed by the Duke of Westminster. There are three key elements as shown above...
-Viability £900m profit
-Tables
-School
+
 Newington Communications
-No affordable housing provider?
-No table of rents, affordable or otherwise.
 Grovesnor 'voluntarily' proposes 'a post completion, fixed point viability review mechanism.
 
 
