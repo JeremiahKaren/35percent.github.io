@@ -19,7 +19,7 @@ The site was bought by Grovesnor Estates (?) in 2013.  Grosvenor proposes a mixe
 
 Southwark adopted housing policy does not support BtR.  The housing policy and requires 35% affordable housing, three-quarters of which should be social rent, for developments in this area.  This would amount to around 420 affordable units in total, 360 of which should be social rent.  Policy also requires that the remainder of the affordable housing be part-buty/part-rent. 
 
-It is no surprise to see that the viability assessment had been drafted bt DS2, wo did the same job for Delancey's shopping centre development (link).  In  keeping with Southwark's viability and viability policy (link) we won't get to see the full assessment until a week before it goes to planning committee, only an executive summary. This is deficient in several respects; it lumps in all 
+It is no surprise to see that the viability assessment had been drafted bt DS2, wo did the same job for Delancey's shopping centre development (link).  In  keeping with Southwark's viability and viability policy (link) we won't get to see the full assessment until a week before it goes to planning committee, only an executive summary. This is deficient, policy wise,  in several respects; the construction, acquisition and other development costs and professional fees are lumped into one figure, instead of given seperately. The developer profit is given as an obscure percentage (7% IRR- Internal Rate of Return), not as a readlily understandable cash figure.  However, a simple calculation, subtracting costs from the gross development value, allows an estimate of profit as £99m.  Not enough for Grovesnor, who reckon the profit does not meet the industry standard (12% IRR)  
 
 Convenant 15 years
 
