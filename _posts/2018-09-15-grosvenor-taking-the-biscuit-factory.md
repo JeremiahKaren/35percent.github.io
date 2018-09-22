@@ -47,16 +47,6 @@ The [Grosvenor Estate](https://www.grosvenorestate.com/about-us.aspx) _'represen
 This is not a planning application that 
 
 
-
- 
-
-
-
-
-
-
-
-
 ![](http://35percent.org/img/biscuitfactory2.png)
 
 
