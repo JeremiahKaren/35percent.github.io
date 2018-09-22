@@ -15,9 +15,9 @@ The Biscuit Factory in Bermondsey is the former site of Peek Freans, which emplo
 
 ![](http://35percent.org/img/biscuittown.jpg)
 
-The site was bought by Grovesnor Estates (?) in 2013.  Grosvenor proposes a mixed use development of 1217 new homes with 19000 sqm of other uses, and a new school.  The homes will all be Build to Rent, owned and mangaged by Grovesnor; none will be for sale.  Grovesnor are offering 27% affordable housing at 75% market rents.  There will be no social rented housing. 
+The site was bought by Grovesnor Estates (?) in 2013.  Grosvenor proposes a mixed use development of 1217 new homes with 19000 sqm of other uses, and a new school.  The homes will all be Build to Rent (BtR), owned and mangaged by Grovesnor; none will be for sale.  Grovesnor are offering 27% affordable housing at 75% market rents.  There will be no social rented housing. 
 
-The housing policy for the area requires 35% affordable housing, three-quarters of which social rent.  This would amount to around 420 affordable units in total, 360 of which social rent. Southwark has no current policy which allows BtR.  Grovesnor are relying on so-called 'emerging about 450 units, with the remainder .  Policy also requires that 
+Southwark adopted housing policy does not support BtRThe housing policy and requires 35% affordable housing, three-quarters of which should be social rent on the Peek Freans site.  This would amount to around 420 affordable units in total, 360 of which social rent. .  Grovesnor are relying on so-called 'emerging about 450 units, with the remainder .  Policy also requires that 
 
 Convenant 15 years
 
