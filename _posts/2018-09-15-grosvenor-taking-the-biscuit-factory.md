@@ -22,7 +22,7 @@ Southwark Council's adopted housing policy does not support BtR.  The housing po
 
 # Estimated profit of £99m not enough
 
-It is no surprise to see that the viability assessment had been drafted by DS2, who did the same job for Delancey's shopping centre development (link).  In  keeping with Southwark's development viability policy (link) we won't get to see the full assessment until a week before it goes to planning committee, and have to rely on an executive summary for any idea of the scheme's finances. The executive summary is deficient, policy wise in several respects; the construction, acquisition and other development costs and professional fees are lumped into one figure, instead of given seperately. The developer profit is given as an obscure percentage (7% IRR- Internal Rate of Return), not as a readlily understandable cash figure. Despite the obscurity, we can estimate the profit at 7% IRR as £99m, by subtracting costs from the gross development value. This is not  enough for Grovesnor, who reckon a _'reasonable benchmark'_ is 12% IRR and they _'therefore cannot afford to deliver any affordable housing'_.
+It is no surprise to see that the viability assessment had been drafted by DS2, who did the same job for Delancey's shopping centre development (link).  In  keeping with Southwark's [development viability polic](https://www.southwark.gov.uk/assets/attach/1807/Development_Viability_SPD_March_2016.pdf) we won't get to see the full assessment until a week before it goes to planning committee, and have to rely on an executive summary for any idea of the scheme's finances. The executive summary is deficient, policy wise in several respects; the construction, acquisition and other development costs and professional fees are lumped into one figure, instead of given seperately. The developer profit is given as an obscure percentage (7% IRR- Internal Rate of Return), not as a readlily understandable cash figure. Despite the obscurity, we can estimate the profit at 7% IRR as £99m, by subtracting costs from the gross development value. This is not  enough for Grovesnor, who reckon a _'reasonable benchmark'_ is 12% IRR and they _'therefore cannot afford to deliver any affordable housing'_.
 
 Grovenor also claim that there can be no affordable housing, because of a list of other benefits the scheme provides, including 'the delivery of a new school'; why is not clear because elsewhere it states _'the construction of the new school is anticipated to be funded by the ESFA_ (Education and Skills Funding Agency)'
 
@@ -35,6 +35,7 @@ All is not lost though, because generous Grovesnor continue _'notwithstanding th
 
 
 Convenant 15 years
+150 studio units
 
 
 ![](http://35percent.org/img/biscuitfactory2.png)
