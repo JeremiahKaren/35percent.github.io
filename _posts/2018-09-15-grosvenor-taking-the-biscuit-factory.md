@@ -17,7 +17,9 @@ The Biscuit Factory in Bermondsey is the former site of Peek Freans, which emplo
 
 The site was bought by Grovesnor Estates (?) in 2013.  Grosvenor proposes a mixed use development of 1217 new homes with 19000 sqm of other uses, and a new school.  The homes will all be Build to Rent (BtR), owned and mangaged by Grovesnor; none will be for sale.  Grovesnor are offering 27% affordable housing at 75% market rents.  There will be no social rented housing. 
 
-Southwark adopted housing policy does not support BtRThe housing policy and requires 35% affordable housing, three-quarters of which should be social rent on the Peek Freans site.  This would amount to around 420 affordable units in total, 360 of which social rent. .  Grovesnor are relying on so-called 'emerging about 450 units, with the remainder .  Policy also requires that 
+Southwark adopted housing policy does not support BtR.  The housing policy and requires 35% affordable housing, three-quarters of which should be social rent, for developments in this area.  This would amount to around 420 affordable units in total, 360 of which should be social rent.  Policy also requires that the remainder of the affordable housing be part-buty/part-rent. 
+
+It is no surprise to see that the viability assessment had been drafted bt DS2, wo did the same job for Delancey's shopping centre development (link).  In  keeping with Southwark's viability and viability policy (link) we won't get to see the full assessment until a week before it goes to planning committee, only an executive summary. This is deficient in several respects; it lumps in all 
 
 Convenant 15 years
 
@@ -28,6 +30,12 @@ Convenant 15 years
 Similarities with Delancey
 No surprise to see DS2
 Grovesnor Estate His His Grace, the Duke of Westminster https://www.grosvenorestate.com/about-us.aspx
+The Grosvenor Estate represents all the business activities of the Grosvenor Family,
+headed by the Duke of Westminster. There are three key elements as shown above...
+Viability £900m profit
+Tables
+School
+Newington Communications
 
 
 
