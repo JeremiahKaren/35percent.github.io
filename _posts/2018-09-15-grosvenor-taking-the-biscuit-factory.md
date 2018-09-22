@@ -30,9 +30,12 @@ that Grosvenor will need ultimate control over the occupation and management of 
 
 As always the lack of affordable housing is justified by viability and it is no surprise to see that the viability assessment had been drafted by DS2, who did the same job for Delancey's shopping centre development (link).  In  keeping with Southwark's [development viability policy](https://www.southwark.gov.uk/assets/attach/1807/Development_Viability_SPD_March_2016.pdf) we won't get to see the full assessment until a week before it goes to planning committee, and have to rely on an executive summary for any idea of the scheme's finances. The executive summary is deficient, policy wise in several respects; the construction, acquisition and other development costs and professional fees are lumped into one figure, instead of given seperately. The developer profit is given as an obscure percentage (7% IRR- Internal Rate of Return), not as a readlily understandable cash figure. Despite the obscurity, we can estimate the profit at 7% IRR as £99m, by subtracting costs from the gross development value. This is not  enough for Grovesnor, who reckon a _'reasonable benchmark'_ is 12% IRR and they _'therefore cannot afford to deliver any affordable housing'_.
 
+![](http://35percent.org/img/grosvenorfva.png)
+
 Grosvenor also claim that there can be no affordable housing, because of a list of other benefits the scheme provides, including 'the delivery of a new school'; why is not clear because elsewhere it states _'the construction of the new school is anticipated to be funded by the ESFA_ (Education and Skills Funding Agency)'
 
 All is not lost though, because generous Grosvenor continue _'notwithstanding the overall scheme viability, it would be willing to offer 27.5% affordable housing, delivered as discount market rented (“DMR”) homes (“Grosvenor’s Offer”)_.'  The average discount would be 25% ie 75% market rents,  close to the maximum of 80% allowed for the egregious 'affordable rent'.  Exactly how much this will be we are left to guess - unlike Delancey's proposals for the shopping centre Grosvenor does not bother to provide any rent tables for either the market or affordable housing.  Currnet market rents  in the [SE16 postcode ](https://www.zoopla.co.uk/to-rent/flats/london/se16/rotherhithe-south-bermonsey-surrey-docks/) are upwards of £1600pcm.
+
 
 
  
@@ -58,7 +61,7 @@ Grovesnor 'voluntarily' proposes 'a post completion, fixed point viability revie
 
 
 
-![](http://35percent.org/img/grosvenorfva.png)
+
 
 
 
