@@ -15,7 +15,7 @@ The Biscuit Factory and campus site in Bermondsey combines the the former homes 
 
 ![](http://35percent.org/img/biscuittown.jpg)
 
-The site was bought by Grovesnor Estates in 2013.  Grosvenor proposes a mixed use development of 1217 new homes with 19000 sqm of other uses, and a new school 9link).  The homes will all be Build to Rent (BtR), owned and mangaged by Grovesnor; none will be for sale.  Grovesnor are offering 27% affordable housing at 75% market rents.  There will be no social rented housing. 
+The site was bought by Grovesnor Estates in 2013.  Grosvenor proposes [a mixed use development](https://planning.southwark.gov.uk/online-applications/applicationDetails.do?activeTab=externalDocuments&keyVal=_STHWR_DCAPR_9575486) of 1217 new homes with 19000 sqm of other uses, and a new school (link).  The homes will all be Build to Rent (BtR), owned and mangaged by Grovesnor; none will be for sale.  Grovesnor are offering 27% affordable housing at 75% market rents.  There will be no social rented housing. 
 
 Southwark adopted housing policy does not support BtR.  The housing policy and requires 35% affordable housing, three-quarters of which should be social rent, for developments in this area.  This would amount to around 420 affordable units in total, 360 of which should be social rent.  Policy also requires that the remainder of the affordable housing be part-buty/part-rent. 
 
