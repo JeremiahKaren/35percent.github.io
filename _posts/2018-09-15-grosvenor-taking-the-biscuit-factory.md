@@ -52,11 +52,7 @@ Grosvenor's spin on the Biscuit Factory that it will bring life to a _'burgeonin
 
 This is not a planning application that deserves approval, by any stretch of the imagination. Southwark's planning committee came close to throwing out Delancey's shopping centre application; it should make no mistake this time and send Grovesnor and its dreadful planning application packing.
 
-You can help by objecting
-
-
-![](http://35percent.org/img/biscuitfactory2.png)
-
+You can help by objecting to the application.
 
 You can write to:
  
