@@ -60,13 +60,6 @@ Newington Communications
 Grovesnor 'voluntarily' proposes 'a post completion, fixed point viability review mechanism.
 
 
-
-
-
-
-
-
-
 This remains a dreadful planning application, but it's not too late to object! You can write to:
  
  * local MP - Neil Coyle (neil.coyle@southwark.gov.uk [@coyleneil](https://twitter.com/coyleneil))
