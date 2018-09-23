@@ -50,7 +50,7 @@ The present Duke of Westminster is reputed to be worth £9bn and the [world's ri
 
 Grosvenor's spin on the Biscuit Factory that it will bring life to a _'burgeoning new neighbourhood in London'_, artfully propogated by the usual [community engagement](http://www.belonginbermondsey.com/) soft-soap, but if Grosvenor had any genuine interest in the community it would simply build the affordable housing that the local plan requires and build social rented housing; the demands are not onerous.  As it is, one of the very richest families in the country will be getting richer at the expense of people in one of the poorest areas, by depriving them of the homes they need. 
 
-This is not a planning application that deserves approval, by any stretch of the imagination. Southwark's planning committee came close to throwing out Delancey's shopping centre application; it should make no mistake this time and send Grovesnor and its dreadful planning application packing.
+This is not a planning application that deserves approval, by any stretch of the imagination. Southwark's planning committee [came close to throwing out Delancey's shopping centre application](http://35percent.org/2018-07-09-delancey/); it should make no mistake this time and send Grovesnor and its dreadful planning application packing.
 
 You can help by objecting to the application.
 
