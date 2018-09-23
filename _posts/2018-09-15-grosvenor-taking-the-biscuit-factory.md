@@ -114,7 +114,7 @@ Affordable Housing:
 
 This application does not propose a policy compliant affordable housing mix. Southwark's policy for this site requires a minimum of 35% affordable housing, of which 70% must be social rented. This should provide around 470 affordable units in total, about 330 of which should be social rent.  Grovesnor is proposing 27.5% affordable housing with zero social rented housing.  The affordable housing will also be affordable rent at 75% market rent, near the maximum 80% market rent allowed.  Since 2011 Southwark have maintained that affordable rent does not meet the borough's housing needs.  
 
-The development will be on the border of one of the most deprived wards in the country and the borough has a desoerate need for social housing. There can be no justification for approving this application and it should not be considered until there is a policy compliant mix of afforddable housing.  
+The development will be on the doorstep of neighbourhoods that are amongst the most deprived in the country and the borough has a desperate need for social housing. There can be no justification for approving this application and it should not be considered until there is a policy compliant mix of afforddable housing.  
 
 
 Yours sincerely,
