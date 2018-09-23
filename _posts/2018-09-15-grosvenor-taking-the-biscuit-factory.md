@@ -42,19 +42,21 @@ All is not lost though, because [Grosvenor generously propose](http://planbuild.
 
 # the House of Westminster
 
-The [Grosvenor Estate](https://www.grosvenorestate.com/about-us.aspx) _'represents all the business activities of the Grosvenor Family, headed by the Duke of Westminster'_.  One of its three arms is [Grosvenor] which _'represents the majority of the Grosvenor Estate’s urban property activities and is its largest business'_.  This in turn comprises Grosvenor Americas, Grosvenor Asia Pacific, Grosvenor Europe and [Grosvenor Britain & Ireland](http://www.grosvenor.com/our-businesses/grosvenor-britain-ireland/investing-with-grosvenor-britain-and-ireland/), which has assets worth £5.1bn.   In other words the Grosvenor Estate, (ultimate beneficiary, the Grosvenor family) is very rich; the present Duke is reputed to be worth £9bn and the [world's richest man under 30](https://en.wikipedia.org/wiki/Hugh_Grosvenor,_7th_Duke_of_Westminster).  The Biscuit Factory on the other hand, is right on the border of South Bermondsey, which is one of eight Southwark wards classified as being in the [bottom 10% most deprived in the country](https://communitysouthwark.org/sites/default/files/images/1.%20Overview%20of%20Southwark_Final_1.pdf), so the need for social rented housing hardly needs demonstrating.  The Biscuit Factory is also the number one development listed in the [Grosvenor Britain & Ireland's summary of developements] http://www.grosvenor.com/downloads/grosvenor%20britain%20and%20ireland/grosvenor-britain-ireland-approach-(2017).pdf and the spin is that Grosvenor is bringing life to a 'burgeoning new neighbourhood in London', artfully propogated by the usual [community engagement](http://www.belonginbermondsey.com/)soft-soaping, If Grosvenor had any genuine interest in the community it would simply build the affordable housing that the local plan requires and build social rented housing; the demands are not onerous.  As it is, the very richest are getting richer at the expense of the poorest, by depriving them of the homes they need. 
+The [Grosvenor Estate](https://www.grosvenorestate.com/about-us.aspx) _'represents all the business activities of the Grosvenor Family, headed by the Duke of Westminster'_.  One of its three arms is [Grosvenor] which _'represents the majority of the Grosvenor Estate’s urban property activities and is its largest business'_.  This in turn comprises Grosvenor Americas, Grosvenor Asia Pacific, Grosvenor Europe and [Grosvenor Britain & Ireland](http://www.grosvenor.com/our-businesses/grosvenor-britain-ireland/investing-with-grosvenor-britain-and-ireland/), which has £5.1bn of assets and is the applicant for the Biscuit Factory.  The Biscuit Factory is also the number one development listed in the [Grosvenor Britain & Ireland's summary of developments] http://www.grosvenor.com/downloads/grosvenor%20britain%20and%20ireland/grosvenor-britain-ireland-approach-(2017).pdf.
 
-This is not a planning application that 
+The present Duke of Westminster is reputed to be worth £9bn and the [world's richest man under 30](https://en.wikipedia.org/wiki/Hugh_Grosvenor,_7th_Duke_of_Westminster).  The Biscuit Factory on the other hand, is right on the border of South Bermondsey, which is one of eight Southwark wards classified as being in the [bottom 10% most deprived in the country](https://communitysouthwark.org/sites/default/files/images/1.%20Overview%20of%20Southwark_Final_1.pdf), so the need for social rented housing hardly needs demonstrating.   
+
+Grosvenor's spin on the Biscuit Factory that it will bringing life to a _'burgeoning new neighbourhood in London'_, artfully propogated by the usual [community engagement](http://www.belonginbermondsey.com/)soft-soap, but if Grosvenor had any genuine interest in the community it would simply build the affordable housing that the local plan requires and build social rented housing; the demands are not onerous.  As it is, one of the very richest families in the country will be getting richer at the expense of people in one of the poorest areas, by depriving them of the homes they need. 
+
+This is not a planning application that deserves approval, by any stretch of the imagination. Southwark' planning committee came close to throwing out Delancey's shopping centre application; it should make no mistake this time and send Grovesnor and its dreadful planning application packing.
+
+You can help by objecting
 
 
 ![](http://35percent.org/img/biscuitfactory2.png)
 
 
-
-
-
-
-This remains a dreadful planning application, but it's not too late to object! You can write to:
+It's not too late to object! You can write to:
  
  * local MP - Neil Coyle (neil.coyle@southwark.gov.uk [@coyleneil](https://twitter.com/coyleneil))
  * Council leader - Peter John (peter.john@southwark.gov.uk [@peterjohn6](https://twitter.com/peterjohn6))
