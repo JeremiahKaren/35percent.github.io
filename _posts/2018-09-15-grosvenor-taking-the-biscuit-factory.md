@@ -42,7 +42,7 @@ All is not lost though, because [Grosvenor generously propose](http://planbuild.
 
 # the House of Westminster
 
-The [Grosvenor Estate](https://www.grosvenorestate.com/about-us.aspx) _'represents all the business activities of the Grosvenor Family, headed by the Duke of Westminster'_.  One of its three arms is [Grosvenor] which _'represents the majority of the Grosvenor Estate’s urban property activities and is its largest business'_.  This in turn comprises Grosvenor Americas, Grosvenor Asia Pacific, Grosvenor Europe and [Grosvenor Britain & Ireland](http://www.grosvenor.com/our-businesses/grosvenor-britain-ireland/investing-with-grosvenor-britain-and-ireland/), which has assets worth £5.1bn.   In other words the Grosvenor Estate, (ultimate beneficiary, the Grosvenor family) is very rich; the present Duke is reputed to be worth £9bn and the [world's richest man under 30](https://en.wikipedia.org/wiki/Hugh_Grosvenor,_7th_Duke_of_Westminster).  The Biscuit Factory on the other hand, is in South Bermondsey, which is one of eight Southwark wards classified as being in the [bottom 10% most deprived in the country](https://communitysouthwark.org/sites/default/files/images/1.%20Overview%20of%20Southwark_Final_1.pdf), so the need for social rented housing hardly needs demonstrating.  The Biscuit Factory is also the number one development listed in the [Grosvenor Britain & Ireland's summary of developements] http://www.grosvenor.com/downloads/grosvenor%20britain%20and%20ireland/grosvenor-britain-ireland-approach-(2017).pdf and the spin is that Grosvenor is bringing life to a 'burgeoning new neighbourhood in London', artfully propogated by the usual [community engagement](http://www.belonginbermondsey.com/)soft-soaping, If Grosvenor had any genuine interest in the community it would simply build the affordable housing that the local plan requires and build social rented housing; the demands are not onerous.  As it is, the very richest are getting richer at the expense of the poorest, by depriving them of the homes they need. 
+The [Grosvenor Estate](https://www.grosvenorestate.com/about-us.aspx) _'represents all the business activities of the Grosvenor Family, headed by the Duke of Westminster'_.  One of its three arms is [Grosvenor] which _'represents the majority of the Grosvenor Estate’s urban property activities and is its largest business'_.  This in turn comprises Grosvenor Americas, Grosvenor Asia Pacific, Grosvenor Europe and [Grosvenor Britain & Ireland](http://www.grosvenor.com/our-businesses/grosvenor-britain-ireland/investing-with-grosvenor-britain-and-ireland/), which has assets worth £5.1bn.   In other words the Grosvenor Estate, (ultimate beneficiary, the Grosvenor family) is very rich; the present Duke is reputed to be worth £9bn and the [world's richest man under 30](https://en.wikipedia.org/wiki/Hugh_Grosvenor,_7th_Duke_of_Westminster).  The Biscuit Factory on the other hand, is right on the border of South Bermondsey, which is one of eight Southwark wards classified as being in the [bottom 10% most deprived in the country](https://communitysouthwark.org/sites/default/files/images/1.%20Overview%20of%20Southwark_Final_1.pdf), so the need for social rented housing hardly needs demonstrating.  The Biscuit Factory is also the number one development listed in the [Grosvenor Britain & Ireland's summary of developements] http://www.grosvenor.com/downloads/grosvenor%20britain%20and%20ireland/grosvenor-britain-ireland-approach-(2017).pdf and the spin is that Grosvenor is bringing life to a 'burgeoning new neighbourhood in London', artfully propogated by the usual [community engagement](http://www.belonginbermondsey.com/)soft-soaping, If Grosvenor had any genuine interest in the community it would simply build the affordable housing that the local plan requires and build social rented housing; the demands are not onerous.  As it is, the very richest are getting richer at the expense of the poorest, by depriving them of the homes they need. 
 
 This is not a planning application that 
 
@@ -50,14 +50,8 @@ This is not a planning application that
 ![](http://35percent.org/img/biscuitfactory2.png)
 
 
-Similarities with Delancey
-No surprise to see DS2
-Grovesnor Estate His His Grace, the Duke of Westminster https://www.grosvenorestate.com/about-us.aspx
-The Grosvenor Estate represents all the business activities of the Grosvenor Family,
-headed by the Duke of Westminster. There are three key elements as shown above...
 
-Newington Communications
-Grovesnor 'voluntarily' proposes 'a post completion, fixed point viability review mechanism.
+
 
 
 This remains a dreadful planning application, but it's not too late to object! You can write to:
@@ -114,16 +108,14 @@ You can also use our automated objection form below to lodge an objection to the
         <label for="message">Comment:</label>
         <textarea name="message" id="message" cols="55" rows="10">Dear Southwark Planning,
 
-I am writing to object to the revised planning application for the redevelopment of the shopping centre and LCC campus at the Elephant & Castle (ref:16/AP/4458).
+I am writing to object to the planning application for the redevelopment of the TOWER BRIDGE BUSINESS COMPLEX, 100 CLEMENTS ROAD AKA THE BISCUIT FACTORY & BERMONDSEY CAMPUS SITE, KEETONS ROAD LONDON, SE16 4DG (ref:17/AP/4088).
 
 Affordable Housing:
-This application does not propose a policy compliant affordable housing mix. Southwark's policy for the Elephant & Castle requires a minimum of 35% affordable housing, of which 50% must be social rented. This should provide around 170 units but Delancey is proposing a different tenure and only 33 (3%) of the total units will be at social rent levels.
+This application does not propose a policy compliant affordable housing mix. Southwark's policy for this site requires a minimum of 35% affordable housing, of which 70% must be social rented. This should provide around 470 affordable units in total, about 330 of which should be social rent.  Grovesnor is proposing 27% affordable housing with zero social rented housing.  The affordable housing will also be affordable rent at 75% market rent, near the maximum 80% market rent allowed.  Since 2011 Southwark have maintained that affordable rent does not meet the borough's housing needs  
 
-Affordable retail & existing traders:
-The Council's strategic planning framework requires a minimum 10% affordable retail for new developments. Paragraph 5.1.7 of the Council's local planning policy (E&C SPD), further requires a number of "affordable retail units which are made available to existing occupiers displaced by development", in order to "ensure that development opportunities provide opportunities for existing and future SME businesses". The applicant's proposals fail to meet this and the Council's minimum 10% affordable retail requirement.
 
-Bingo Hall:
-Delancey is failing to make re-provision for the existing bingo hall. This is an importsnt social and community facility for 500 local pensioners every day. This important facility must be retained in any new development in order to ensure that community benefits are not lost without being replaced.
+
+
 
 This application should not be considered by the Council until the above shortcomings have been addressed. 
 
