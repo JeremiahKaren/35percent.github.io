@@ -60,7 +60,7 @@ You can write to:
  * Council leader - Peter John (peter.john@southwark.gov.uk [@peterjohn6](https://twitter.com/peterjohn6))
  * Cabinet member for Growth, Development & Planning - Johnson Situ (johnson.situ@southwark.gov.uk [@johnsonsitu](https://twitter.com/johnsonsitu)).
 
-You can also use our automated objection form below to lodge an objection to the revised planning application. 
+You can also use our automated objection form below to lodge an objection to the planning application. 
  
 ## Object Now!
  <form id="form5" action="http://commentform.herokuapp.com/" method="post">
