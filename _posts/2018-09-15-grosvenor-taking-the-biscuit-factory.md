@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Grosvenor takes the biscuit
+title: Grosvenor takes the biscuit factory
 subtitle: >-
   Bermondsey's Biscuit Factory redevelopment falls well short of policy
   requirements
