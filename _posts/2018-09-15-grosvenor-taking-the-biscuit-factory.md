@@ -111,13 +111,11 @@ You can also use our automated objection form below to lodge an objection to the
 I am writing to object to the planning application for the redevelopment of the TOWER BRIDGE BUSINESS COMPLEX, 100 CLEMENTS ROAD AKA THE BISCUIT FACTORY & BERMONDSEY CAMPUS SITE, KEETONS ROAD LONDON, SE16 4DG (ref:17/AP/4088).
 
 Affordable Housing:
-This application does not propose a policy compliant affordable housing mix. Southwark's policy for this site requires a minimum of 35% affordable housing, of which 70% must be social rented. This should provide around 470 affordable units in total, about 330 of which should be social rent.  Grovesnor is proposing 27% affordable housing with zero social rented housing.  The affordable housing will also be affordable rent at 75% market rent, near the maximum 80% market rent allowed.  Since 2011 Southwark have maintained that affordable rent does not meet the borough's housing needs  
 
+This application does not propose a policy compliant affordable housing mix. Southwark's policy for this site requires a minimum of 35% affordable housing, of which 70% must be social rented. This should provide around 470 affordable units in total, about 330 of which should be social rent.  Grovesnor is proposing 27% affordable housing with zero social rented housing.  The affordable housing will also be affordable rent at 75% market rent, near the maximum 80% market rent allowed.  Since 2011 Southwark have maintained that affordable rent does not meet the borough's housing needs.  
 
+The development will be on the border of one of the most deprived wards in the country and the borough has a desoerate need for social housing. There can be no justification for approving this application and it should not be considered until there is a policy compliant mix of afforddable housing.  
 
-
-
-This application should not be considered by the Council until the above shortcomings have been addressed. 
 
 Yours sincerely,
 </textarea>
