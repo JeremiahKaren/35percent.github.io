@@ -4,7 +4,7 @@ title: Grosvenor takes the biscuit factory
 subtitle: >-
   Bermondsey's Biscuit Factory redevelopment falls well short of policy
   requirements
-published: false
+published: true 
 ---
 ![](http://35percent.org/img/biscuitfactory1.png)
 

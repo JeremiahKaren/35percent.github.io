@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Delancey's Elephant & Castle"
-subtitle: "979 new homes but none social rented. No room for current shopkeepers"
+subtitle: "979 new homes, not enough social rented. No room for current shopkeepers"
 sharing: true
 ---
 ![]({{site.baseurl}}/img/delanceyaerial.png)
@@ -114,79 +114,9 @@ TFL also raises the issue of the mainline train station, for which - whilst havi
 ![](/img/transporthub.png)
 *Transport interchange envisaged by [original masterplan](https://www.scribd.com/doc/198503633/EandC-RegenMk1SLRplans){:target="_blank"}*
 
-Together with the shopping centre traders association, we have launched a dedicated campaign group [www.uptheelephant.com](http://www.uptheelephant.com) to tell Southwark that Delancey's plans are not acceptable. We are holding our next public [meeting on 21st March 2017](/img/march21flyer.pdf) to discuss how to proceed. The meeting is being held in the unit above the Tesco supermarket on the first floor of the shopping centre - it is open to all. Here you can view our [presentation slides](http://35percent.org/shoppingcentre_presentation.html){:target="_blank"} from the last meeting.
-
-## Object Now!
-<form id="form5" action="http://commentform.herokuapp.com/" method="post">
-<fieldset><legend>Fill in the details below to object to Delancey's planning application.
-Be sure to amend and add to the suggested wording.</legend>
-<div id="mc_embed_signup">
-<div class="indicates-required"><span class="asterisk">*</span> indicates required</div>
-
-<p class="first" style="margin:20px">
-        <label for="name">Title:</label>
-        <input type="text" name="title" id="title" size="5" placeholder="Mr" /><span class="asterisk">*</span>
-  </p>
-
-<p style="margin:20px">
-        <label for="email">First Name:</label>
-        <input type="text" name="firstname" id="firstname" size="15" placeholder="Joe"/><span class="asterisk">*</span>
-  </p>
-
-<p style="margin:20px">
-        <label for="email">Surname:</label>
-        <input type="text" name="surname" id="surname" size="21" placeholder="Bloggs"/><span class="asterisk">*</span>
-  </p>
-
-  <p style="margin:20px">
-        <label for="email">Email:</label>
-        <input type="text" name="email" id="email" size="23" placeholder="joebloggs@gmail.com"/><span class="asterisk">*</span>
-  </p>
-
-  <p style="margin:20px">
-        <label for="address">Address:</label>
-        <input type="text" name="address" id="address" size="27" placeholder="99 Chaplin Street"/><span class="asterisk">*</span>
-  </p>
-
-  <p style="margin:20px">
-        <label for="address">Town/City:</label>
-        <input type="text" name="city" id="city" size="12" placeholder="London"/><span class="asterisk">*</span>
-  </p>
-
-  <p style="margin:20px">
-        <label for="postcode">Postcode:</label>
-        <input type="text" name="postcode" id="postcode" size="10" placeholder="SE17 1RS"/><span class="asterisk">*</span>
-  </p>
 
 
-   <p style="margin:20px">
-        <label for="message">Comment:</label>
-        <textarea name="message" id="message" cols="55" rows="10">Dear Southwark Planning,
-
-I wish to object to updated planning application 16/AP/4458 for the redevelopment of the Elephant
-and Castle Shopping Centre.
-
-Affordable Housing:
-The developer Delancey has increased the amount of social rented housing to 74 units and allowed that they will be let on assured tenancies. This is an improvement on the original offer, but still does not meet the required number of units, which according to the local plan should be approximately 117 units.
-
-While the number of social rented units has been increased it has been at the expense of homes at London Living Rent mid-rent levels, which have been reduced. Homes for rent at 80% market rate have also been increased and would make up nearly half the affordable housing. Southwark Council’s local plan rightly rejects homes with rents at this level, because they do not meet the needs of local people.
-
-Affordable retail and existing traders:
-Delancey has promised to create a new Temporary Retail facility as an interim home to traders, but it is too small – only 300 sqm – and will not accommodate all the traders who wish to remain in the area. The shopping centre is home to many successful businesses, including those of the Latin American community as well as other ethnic minority backgrounds. The centre is also home to many market traders. The loss of all these businesses would be a loss to the whole community and Delancey’s relocation strategy must accommodate all those who wish to remain at the Elephant.
-
-The Bingo hall and bowling alley:
-Delancey has made a welcome commitment to providing a bingo facility in the new development and reports significant progress on discussions with Palatial Leisure, who run the present bingo hall and bowling alley. However, there is no final agreement yet on retaining the bingo hall and bowling alley and these must be part of any approved development. Please register my objection and keep me informed should any of the above shortcomings be addressed and the planning applications amended accordingly.
-
-Yours sincerely,
-</textarea>
-  </p>
-
-  <p class="submit" style="margin:20px"><button type="submit">Send Objection</button></p>
-
-
-</div>
-   </fieldset>
-  </form>
+ 
 
 
 
