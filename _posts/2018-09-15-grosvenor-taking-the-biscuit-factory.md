@@ -31,7 +31,7 @@ As always the lack of affordable housing is justified by viability and it is no 
 
 ![](http://35percent.org/img/grosvenorfva.png)
 
-In the viability assessment summary Grosvenor's total scheme costs are combined together as a lump sum of £755m. This is much more than the £500m stated in its [marketing material](http://www.belonginbermondsey.com/getattachment/f020ee39-984d-47c5-8cf6-1ea89eb937f5/introcopy), [press release](http://www.grosvenor.com/news-views-research/news/2017/grosvenor-publishes-its-%C2%A3500-million-bermondsey-ma/) and [media reports](https://www.ft.com/content/23228fd6-6201-3de8-b499-2483acc7dc2e).
+In the viability assessment summary Grosvenor's total scheme costs are combined together as a lump sum of £755m. This is significantly higher than the £500m estimate stated in its [marketing material](http://www.belonginbermondsey.com/getattachment/f020ee39-984d-47c5-8cf6-1ea89eb937f5/introcopy), [press release](http://www.grosvenor.com/news-views-research/news/2017/grosvenor-publishes-its-%C2%A3500-million-bermondsey-ma/) and [media reports](https://www.ft.com/content/23228fd6-6201-3de8-b499-2483acc7dc2e). We call on Grosvenor to explain why its total estimated costs of the scheme have suddenly increased by over £250m.. 
 
 ![](/img/fivehundredmil.png)
 
