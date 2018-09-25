@@ -5,7 +5,7 @@ subtitle: >-
   Bermondsey's Biscuit Factory redevelopment falls well short of policy
   requirements
 published: true
-date: 2018-09-25
+date: 'Tue Sep 25 2018 01:00:00 GMT+0100 (British Summer Time)'
 ---
 # 1300 new homes, no social rented
 While most eyes have been on [developer Delancey's plans](https://planning.southwark.gov.uk/online-applications/applicationDetails.do?activeTab=externalDocuments&keyVal=_STHWR_DCAPR_9569810) for the redevelopment of the Elephant and Castle shopping centre, on the other side of Southwark an equally large proposal to build over a thousand homes without any social rented housing has been stealthily making its way towards planning permission.
@@ -114,7 +114,7 @@ I am writing to object to the planning application for the redevelopment of the 
 
 Affordable Housing:
 
-This application does not propose a policy compliant affordable housing mix. Southwark's policy for this site requires a minimum of 35% affordable housing, of which 70% must be social rented. This should provide around 470 affordable units in total, about 330 of which should be social rent.  Grosvenor is proposing 27.5% affordable housing and no social rented housing.  The affordable housing will also be affordable rent at an average 75% market rent, near the maximum 80% market rent allowed.  Since 2011 Southwark Council has maintained that affordable rent does not meet the borough's housing needs.  
+This application does not propose a policy compliant affordable housing mix. Southwark's policy for this site requires a minimum of 35% affordable housing, of which 70% must be social rented. This should provide around 470 affordable units in total, about 330 of which should be social rent.  Grosvenor is proposing 27.5% affordable housing, but no social rented housing.  The affordable housing will also be affordable rent at an average 75% market rent, near the maximum 80% market rent allowed.  Since 2011 Southwark Council has maintained that affordable rent does not meet the borough's housing needs.  
 
 The development will be on the doorstep of neighbourhoods that are amongst the most deprived in the country and the borough has a desperate need for social housing. There can be no justification for approving this application and it should not be considered until there is a policy compliant mix of affordable housing.  
 
