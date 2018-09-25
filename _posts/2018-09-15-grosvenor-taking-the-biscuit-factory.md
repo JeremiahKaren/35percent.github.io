@@ -54,15 +54,7 @@ Grosvenor's spin on the Biscuit Factory that it will bring life to a [_'burgeoni
 
 This is not a planning application that deserves approval, by any measure. Southwark's planning committee [came close to throwing out Delancey's shopping centre application](http://35percent.org/2018-07-09-delancey/); it should make no mistake this time and send Grosvenor and its dreadful planning application packing.
 
-You can help by [objecting](https://planning.southwark.gov.uk/online-applications/applicationDetails.do?activeTab=makeComment&keyVal=_STHWR_DCAPR_9575486) to the application.
-
-You can write to:
- 
- * local MP - Neil Coyle (neil.coyle@southwark.gov.uk [@coyleneil](https://twitter.com/coyleneil))
- * Council leader - Peter John (peter.john@southwark.gov.uk [@peterjohn6](https://twitter.com/peterjohn6))
- * Cabinet member for Growth, Development & Planning - Johnson Situ (johnson.situ@southwark.gov.uk [@johnsonsitu](https://twitter.com/johnsonsitu)).
-
-You can also use our automated objection form below to lodge a formal objection to the planning application. 
+You can help by objecting to the application, either by following [this link](https://planning.southwark.gov.uk/online-applications/applicationDetails.do?activeTab=makeComment&keyVal=_STHWR_DCAPR_9575486) or by using the automated objection form below with our suggested wording. 
  
 ## Object Now!
  <form id="form5" action="https://thirtyfivepercent.herokuapp.com/" method="post">
