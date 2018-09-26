@@ -58,7 +58,7 @@ You can help by objecting to the application, either by following [this link](ht
  
 ## Object Now!
  <form id="form5" action="https://thirtyfivepercent.herokuapp.com/" method="post">
-<fieldset><legend>Fill in the details below to object to Delancey's revised planning application.</legend>
+<fieldset><legend>Fill in the details below to object to the planning application.</legend>
 <div id="mc_embed_signup">
 <div class="indicates-required"><span class="asterisk">*</span> indicates required</div>
 
