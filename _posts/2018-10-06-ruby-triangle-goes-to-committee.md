@@ -9,23 +9,16 @@ The first of the very large planning applications lining up to take advantage of
 
 Despite the affordble housing offer, the application has nonetheless excited much passionate opposition.  The site is a SIL - site of strategic industrial land and the loss will be contrary to the local plan.  T.  The proposed development has 3 towers, one of 48 storeys another of 40 storeys.  The Old Kent People, a coalition of residents, businesses and community groups and Vital OKR, a business group, have objected because of the loss of industrial land   Thirteen businesses and a church currently occupy the site, with about 130 employees.  Objectors also point out that, while 40% affordable housing appears generous, the treshold for affordable housing is 50% for SIL sites in the Mayor's draft New London Plan.  Local residents along Canal Grove Cottages fear a loss of light, and the detrimental impact on the local environment of a scheme that is nearly four times denser than the local plan allows (27013 habitable rooms per hectare against a maximum 700h hbr per hectare.  The Design Review Panel, which reviews all major developments on Southwark Council's behalf, also serious resevations about the architectural quality, and does not belive that it of the exemplary standard that would justify the greater density).
 
-Ojectors also believe that developers and Southwark are getting ahead of themselves.  The opportunity areea (and area action plan) has not completed its own progress through the planning system and a public inquiry that examinmerits competing development claims on the land is not due to be heard until the new year.
+Ojectors also believe that developers and Southwark are getting ahead of themselves.  The opportunity areea (and area action plan) has not completed its own progress through the planning system and a public inquiry that examines the Opportunity Area's merits and competing development claims on the land is not due to be heard until the new year.
 
 The 35% Camapign is always pleased to see a development that offers more afffordable and social rented housing than the local plan requires.  Closer inspection, though, raises some concerns.  Where more affordable housing is required, 50% under the emerging, draft London Plan, that should be delivered (the late review mechanism Southwark propose is an inadequate substitute).
 
-There is also an ambiguity over the social rented housing; thoughout the application and officer's report it is referred to as such, yet the GLA Stage 1 report refers to same units as 'affordable rent', which can be up to 80% market rent.  The affordable housing provider A2Dominiun also rings an alarm bell.  They featured in our successful complaint to the Ombudsman about tenure swutching, where affordable rent was substituted in developments where social rent had been approved, in this case the Colorama developemt in Blackfriars,  A2Dominium are also embroliedin a planning breach row with Southwark Council for another development at 66-178 Cmaberwell Rd, which stands half-finished in the meantime.
+There is also an ambiguity over the social rented housing; thoughout the application and officer's report it is referred to as such, yet the GLA Stage 1 report refers to same units as 'affordable rent', which can be up to 80% market rent.  The affordable housing provider A2Dominiun also rings an alarm bell.  They featured in our successful complaint to the Ombudsman about tenure swutching, where affordable rent was substituted in developments where social rent had been approved, in this case the Colorama development in Blackfriars,  A2Dominium, was also subject to a planning breach notification from Southwark Council for a development at 166-178 Cmaberwell Rd and the site has stood half-finished since 2015.
+
+Should the scheme get the go-ahead, developer xxx stands to make either £67m or £73m, according to Southwark or £101m, depending upon whichever figure you depend on in the viabilityon which viability apprais
 
 
 
-.
-As the site is located in with an Opportunity Area and Strategic Industrial
-Location, the threshold approach of 35% affordable housing is not appropriate for
-the site. Draft London Plan Policy H6 sets an affordable housing threshold of 50%
-for industrial land;
-.
-The proposals do not accord with current policy relating to tall buildings. The Old
-Kent Road is not identified in the Core Strategy as a location where tall buildings
-can be built and the design is not of the exemplary standard required.  Review panel
 
 
 Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
