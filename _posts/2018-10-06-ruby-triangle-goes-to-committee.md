@@ -1,11 +1,12 @@
 ---
 layout: post
 published: false
-title: Ruby Triangle goes to committee
+ title: Ruby Triangle goes to committee
 ---
 ## Ruby Tuesday
-
 The first of the very large planning applications lining up to take advantage of the proposed Old Kent Rd Opportunity Area goes to Southwark's planning committee on Tues 9 Oct.  It is for a mixed-use scheme that would include 1152 homes, with 40.5% affordable housing, two-thirds of which will be social rented.  A sports hall, gym and new park are also promised.)
+
+![](http://35percent.org/img/rubytriangle2.png)
 
 Despite the affordble housing offer, the application has nonetheless excited much passionate opposition.  The site is a SIL - site of strategic industrial land and the loss will be contrary to the local plan.  T.  The proposed development has 3 towers, one of 48 storeys another of 40 storeys.  The Old Kent People, a coalition of residents, businesses and community groups and Vital OKR, a business group, have objected because of the loss of industrial land   Thirteen businesses and a church currently occupy the site, with about 130 employees.  Objectors also point out that, while 40% affordable housing appears generous, the treshold for affordable housing is 50% for SIL sites in the Mayor's draft New London Plan.  Local residents along Canal Grove Cottages fear a loss of light, and the detrimental impact on the local environment of a scheme that is nearly four times denser than the local plan allows (27013 habitable rooms per hectare against a maximum 700h hbr per hectare.  The Design Review Panel, which reviews all major developments on Southwark Council's behalf, also serious resevations about the architectural quality, and does not belive that it of the exemplary standard that would justify the greater density).
 
@@ -18,7 +19,17 @@ There is also an ambiguity over the social rented housing; thoughout the applica
 Should the scheme get the go-ahead, developer stands to make either £67m or £73m, according to Southwark or £101m, depending upon whichever figure you depend on in the viabilityon which viability apprais
 
 
+There is an unresolved dispute about the reasonable level of profit to be assumed in the viability assessment. The developer is claiming a profit level of 20% while the Council's [independent assessors' report](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!7xk%2fKitlYCgrfYEbtqBRDA%3d%3d!%7d%7d%7d) argues that this is too high and that 17.5% is the reasonable profit margin. This is backed up by the Council's own [viability study](https://www.southwark.gov.uk/assets/attach/1937/Old%20Kent%20Road%20viability%20study%202016.pdf) commissioned for the OKR AAP, which assumes a developer profit margin of 18% (para 4.39). 
 
+![](http://35percent.org/img/gvadisputeprofit.png)
+*Extract from the [independent viability review](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!7xk%2fKitlYCgrfYEbtqBRDA%3d%3d!%7d%7d%7d)*
+
+The difference between 17.5% profit and the 20% claimed is approximately £20m. If the Council were to have held firm, this could have been £20m that the scheme could have contributed towards..
+
+
+Stage 2 GLA report - why is this going to committee before the GLA has issued its stage 2 report? especially given the concerns raised in the stage 1 report.
+
+No information on whether any of the 1,152 dwellings proposed comply with the BRE's minimum daylight requirements..
 
 
 Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
