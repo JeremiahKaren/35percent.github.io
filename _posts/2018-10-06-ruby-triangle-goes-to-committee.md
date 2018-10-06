@@ -15,7 +15,7 @@ In addition, objectors believe that developers and Southwark are getting ahead o
 
 The 35% Camapign is always pleased to see a development that offers more afffordable and social rented housing than the local plan requires.  Closer inspection, though, raises some concerns.  Where more affordable housing is required, 50% under the emerging, draft London Plan, that should be delivered (the late review mechanism Southwark propose is an inadequate substitute).
 
-The affordable housing provide
+There is also an ambiguity over the social rented housing; thoughout the application and officer's report it is referred to as such, yet the GLA Stage 1 report refers to affordable rent, which can be up to 80% market rent.  The affordable housing provider A2Dominiun also rings an alarm bell.  They were the RP for the 
 
 
 
