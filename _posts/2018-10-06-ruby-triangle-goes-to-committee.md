@@ -5,7 +5,7 @@ title: Ruby Triangle goes to committee
 ---
 ## Ruby Tuesday
 
-The first of the very large planning applications lining up to take advantage of the proposed Old Kent Rd Opportunity Area goes to Southwark's planning committee on Tues 9 Oct.  It is for a mixed-use scheme that would include 1165 homes, with 40.5% affordable housing. (Other bits - retail, business, leisure)
+The first of the very large planning applications lining up to take advantage of the proposed Old Kent Rd Opportunity Area goes to Southwark's planning committee on Tues 9 Oct.  It is for a mixed-use scheme that would include 1152 homes, with 40.5% affordable housing. (Other bits - retail, business, leisure)
 
 Despite the affordble housing offer, the application has nonetheless excited much passionate opposition.  The site is a SIL - site of strategic industrial land and the loss will be contrary to the local plan.  Thirteen businesses and a church currently occupy the site, with about 130 employees.  The proposed development has 3 towers, one of 48 storeys another of 40 storeys.  The Old Kent People, a coalition of residents, businesses and community groups and Vital OKR, a business group, have objected because of the loss of industrial land.  They also point out that the treshold for affordable housing, which allows applications to pass more easily through the system, is 50% for SIL sites in the Mayor's draft New London Plan. (review mechanism).
 
