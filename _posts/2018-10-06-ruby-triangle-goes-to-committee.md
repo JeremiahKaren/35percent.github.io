@@ -1,14 +1,18 @@
 ---
 layout: post
 published: false
- title: Ruby Triangle goes to committee
+title: Ruby Tuesday
+subtitle: First major Old Kent Road application goes to committee
 ---
-## Ruby Tuesday
-The first of the very large planning applications lining up to take advantage of the proposed Old Kent Rd Opportunity Area goes to Southwark's planning committee on Tues 9 Oct.  It is for a mixed-use scheme that would include 1152 homes, with 40.5% affordable housing, two-thirds of which will be social rented.  A sports hall, gym and new 'pocket park' are also promised. The scheme is being proposed by a [joint venture](https://beta.companieshouse.gov.uk/company/10733947/charges) between A2Dominion Housing association and newly-formed Avanton Ltd, [chaired by former defence secretary Sir Michael Fallon](https://www.thetimes.co.uk/article/michael-fallon-takes-on-property-job-with-avanton-nvgttjprt). 
+The first of the very large planning applications lining up to take advantage of the proposed Old Kent Rd Opportunity Area goes to Southwark's planning committee tomorrow (Tues 9 Oct).  It is for a mixed-use scheme that would include 1152 homes, with 40.5% affordable housing, two-thirds of which will be social rented.  A residents' gym and sports hall and new 'pocket park' are also promised. The scheme is proposed by a [joint venture](https://beta.companieshouse.gov.uk/company/10733947/charges) between A2Dominion Housing association and recently-formed developer Avanton Ltd, which is [chaired by former defence secretary Sir Michael Fallon](https://www.thetimes.co.uk/article/michael-fallon-takes-on-property-job-with-avanton-nvgttjprt). 
 
 ![](http://35percent.org/img/rubytriangle2.png)
 
-Despite the affordable housing offer, the application has nonetheless excited much passionate opposition.  The site is a SIL - site of strategic industrial land and the loss of industrial space will be contrary to the local plan. The proposed development has 3 towers, one of 48 storeys another of 40 storeys.  The [VitalOKR group](https://www.vitalokr.com/), a coalition of residents, businesses and community groups, have objected because of the loss of industrial land.  Thirteen businesses and a church currently occupy the site, with about 130 employees.  Objectors also point out that, while 40% affordable housing appears generous, the treshold for affordable housing is 50% for SIL sites in the Mayor's draft New London Plan.  Local residents along Canal Grove Cottages fear a loss of light, and the detrimental impact on the local environment of a scheme that is nearly four times denser than the local plan allows (2,701 habitable rooms per hectare against a maximum 700h hbr per hectare).  The Design Review Panel, which reviews all major developments on Southwark Council's behalf, also serious resevations about the architectural quality, and does not belive that it of the exemplary standard that would justify the greater density).
+Despite the affordable housing offer, the application has nonetheless excited much passionate opposition.  The site is a SIL - site of strategic industrial land and the loss of industrial workspace is contrary to the local plan. The proposed development has 3 towers, one of 48 storeys another of 40 storeys.  The [VitalOKR group](https://www.vitalokr.com/), a coalition of residents, businesses and community groups, have objected because of the loss of industrial land.  Thirteen businesses and a church currently occupy the site. 
+
+One of the businesses ['Constantine Ltd'](http://www.const.co.uk) employs 130 local people and provides logistics to clients such as the Natural History museum and the Tate. It has lodged a [formal objection](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!4ZMeZ3p9kp4Z69c9aEnicQ%3d%3d!%7d%7d%7d) to the planning application, claiming that the developer has made little effort to engage with them about alternative premises and surrender of their lease which runs for another 10 years.
+
+Objectors also point out that, while 40% affordable housing appears generous, the treshold for affordable housing is 50% for SIL sites in the Mayor's draft New London Plan.  Local residents along Canal Grove Cottages fear a loss of light, and the detrimental impact on the local environment of a scheme that is nearly four times denser than the local plan allows (2,701 habitable rooms per hectare against a maximum 700h hbr per hectare)[^1].  The Design Review Panel, which reviews all major developments on Southwark Council's behalf, also serious resevations about the architectural quality of the scheme, and does not belive that it of the exemplary standard that would justify the greater density).
 
 Ojectors also believe that developers and Southwark are getting ahead of themselves.  The opportunity areea (and area action plan) has not completed its own progress through the planning system and a public inquiry that examines the Opportunity Area's merits and competing development claims on the land is not due to be heard until the new year.
 
@@ -31,5 +35,4 @@ Stage 2 GLA report - why is this going to committee before the GLA has issued it
 
 No information on whether any of the 1,152 dwellings proposed comply with the BRE's minimum daylight requirements..
 
-
-Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
+[^1]: See paras 221 and 222 of the [planning committee report](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!S%2bIqqCm1W5sBBPLbS6aFWQ%3d%3d!%7d%7d%7d)
