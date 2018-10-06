@@ -15,7 +15,7 @@ The 35% Camapign is always pleased to see a development that offers more affford
 
 There is also an ambiguity over the social rented housing; thoughout the application and officer's report it is referred to as such, yet the GLA Stage 1 report refers to same units as 'affordable rent', which can be up to 80% market rent.  The affordable housing provider A2Dominiun also rings an alarm bell.  They featured in our successful complaint to the Ombudsman about tenure swutching, where affordable rent was substituted in developments where social rent had been approved, in this case the Colorama development in Blackfriars,  A2Dominium, was also subject to a planning breach notification from Southwark Council for a development at 166-178 Cmaberwell Rd and the site has stood half-finished since 2015.
 
-Should the scheme get the go-ahead, developer xxx stands to make either £67m or £73m, according to Southwark or £101m, depending upon whichever figure you depend on in the viabilityon which viability apprais
+Should the scheme get the go-ahead, developer stands to make either £67m or £73m, according to Southwark or £101m, depending upon whichever figure you depend on in the viabilityon which viability apprais
 
 
 
