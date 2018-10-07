@@ -24,11 +24,9 @@ There is an ambiguity over the social rented housing; the application and office
 
 # Profit vs affordable housing - what's reasonable?
 
-Should the scheme get the go-ahead, developer stands to make either £67m or £73m, according to Southwark or £101m, depending upon whichever figure you depend on in the viabilityon which viability apprais
+There is an unresolved dispute about the reasonable level of profit to be assumed in the viability assessment for the private housing, which could have a bearing on the final amount of affordable housing, to be calculated by a late viability review mechanism.  Crudely, the higher the profit the less left for affordable housing. The developer wants 20% GDV (Gross Development Value), while the Council's [independent assessors' report](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!7xk%2fKitlYCgrfYEbtqBRDA%3d%3d!%7d%7d%7d) argues that this is too high and that 17.5% GDV. This is backed up by the Council's own [viability study](https://www.southwark.gov.uk/assets/attach/1937/Old%20Kent%20Road%20viability%20study%202016.pdf) commissioned for the OKR AAP, which assumes a developer profit margin of 18% (para 4.39).
 
-There is an unresolved dispute about the reasonable level of profit to be assumed in the viability assessment for the private housing, which could have a bearing on the final amount of affordable housing, to be calculated by a late viability review mechanism.  Crudely, the higher the profit the less left for affordable housing. The developer wants 20% GDV (Gross Development Value) on the free market housing, while the Council's [independent assessors' report](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!7xk%2fKitlYCgrfYEbtqBRDA%3d%3d!%7d%7d%7d) argues that this is too high and that 17.5% GDV. This is backed up by the Council's own [viability study](https://www.southwark.gov.uk/assets/attach/1937/Old%20Kent%20Road%20viability%20study%202016.pdf) commissioned for the OKR AAP, which assumes a developer profit margin of 18% (para 4.39).
-
-According to their own viability assessment the developer has a profit target of 
+In cash terms Southwark's assessor gives £73.8m as a reasonbe profit.  According to their own viability assessment the developer has a profit target of 
 
 ![](http://35percent.org/img/gvadisputeprofit.png)
 *Extract from the [independent viability review](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!7xk%2fKitlYCgrfYEbtqBRDA%3d%3d!%7d%7d%7d)*
