@@ -38,21 +38,22 @@ The affordable housing provider A2Dominion also rings an alarm bell.  They featu
 ![](http://crappistmartin.github.io/images/wyndhamcamberwell.jpg)
 
 ## Profit vs affordable housing - what's reasonable?
-There is an unresolved dispute about the reasonable level of profit to be assumed in the viability assessment for the private housing.  This could have a bearing on the final amount of affordable housing, to be calculated by a late viability review mechanism.  Crudely, the higher the profit the less left for affordable housing. The developer wants 20% GDV (Gross Development Value), while the Council's [independent assessors' report](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!7xk%2fKitlYCgrfYEbtqBRDA%3d%3d!%7d%7d%7d) argues that this is too high and that 17.5% GDV is reasonable. This is backed up by the Council's own [viability study](https://www.southwark.gov.uk/assets/attach/1937/Old%20Kent%20Road%20viability%20study%202016.pdf) commissioned for the OKR AAP, which assumes a developer profit margin of 18% (para 4.39).
+There is an unresolved dispute about the reasonable level of profit to be assumed in the viability assessment for the private housing.  This could have a bearing on the final amount of affordable housing, to be calculated by a late viability review mechanism.  Crudely, the higher the profit the less that is left for affordable housing. The developer wants 20% profit on GDV (Gross Development Value), while the Council's [independent assessors' report](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!7xk%2fKitlYCgrfYEbtqBRDA%3d%3d!%7d%7d%7d) argues that this is too high and that 17.5% is reasonable. This is backed up by the Council's own [viability study](https://www.southwark.gov.uk/assets/attach/1937/Old%20Kent%20Road%20viability%20study%202016.pdf) commissioned for the OKR AAP, which assumes a developer profit of 18% (para 4.39).
 
 ![](http://35percent.org/img/gvadisputeprofit.png)
 *Extract from the [independent viability review](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!7xk%2fKitlYCgrfYEbtqBRDA%3d%3d!%7d%7d%7d)*
 
-In cash terms Southwark's assessor gives £73.8m as a reasonable profit for the private housing.  According to their [own viability assessment](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!oY11bGc7aC6RJOzPXGXlpQ%3d%3d!%7d%7d%7d), where the profits are listed as 'miscellaneous fees', the developer has a profit target of £92.21m for the private housing, and an overall profit assumption of £101.36m, when profits for affordable housing and commercial premises are added in.
+In cash terms Southwark's assessor gives £73.8m as a reasonable profit for the private housing.  According to their [own viability assessment](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!oY11bGc7aC6RJOzPXGXlpQ%3d%3d!%7d%7d%7d), where the profits are listed as 'miscellaneous fees', the developer's 20% profit target amounts to £92.21m for the private housing, providing an overall profit assumption of £101.36m, when profits for affordable housing and commercial premises are added in.
 
+![](http://35percent.org/img/rubytriangleprofit.png)
+*Extract from the [viability assessment](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!oY11bGc7aC6RJOzPXGXlpQ%3d%3d!%7d%7d%7d)*
 
 ## Viable or not viable?
+A peculiarity of the Southwark assessor's appraisal of the viability assessment is that it concludes _'that the proposed scheme would not be viable with a 35% affordable housing offer..., but that ‘stand back’ analysis (using evidence of local land sales with planning permission to ascertain a price per habitable room) indicates that it would be deliverable'._  This raises the question of how useful the viability assessment can be, if its conclusion can be discarded and an alternative (undisclosed) 'stand back' analysis, with a different conclusion, is depended on instead.
 
-A peculiarity of the Southwark assessor's appraisal of the viability assessment is that it concludes _'that the proposed scheme would not be viable with a 35% affordable housing offer..., but that ‘stand back’ analysis (using evidence of local land sales with planning permission to ascertain a price per habitable room) indicates that it would be deliverable'._  This raises the question of how useful the viability assessment can be, if its conclusion can be discarded and an alternative 'stand back' analysis, with a different conclusion, is depended on instead.
+Similarly, the caveat that an undisclosed '_sensitivity analysis applied in this review also shows that relatively small changes in key variables would result in a viable scheme_' illustrates the uncertainties surrounding the viability assessment for this scheme. [^3]
 
-Similarly, the caveat that '_the sensitivity analysis applied in this review also shows that relatively small changes in key variables would result in a viable scheme_' illustrates the uncertainties surrounding viability assessments [^3]
-
-The [planning committee](http://moderngov.southwark.gov.uk/ieListDocuments.aspx?CId=119&MId=6037&Ver=4) meets at Southwark Council's offices on Tooley St 6.30pm Tues 9 Oct
+We will be making representations to the Council's [planning committee](http://moderngov.southwark.gov.uk/ieListDocuments.aspx?CId=119&MId=6037&Ver=4), which meets at Southwark Council's offices on Tooley St 6.30pm Tues 9 Oct. 
 
 [^1]: See paras 221 and 222 of the [planning committee report](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!S%2bIqqCm1W5sBBPLbS6aFWQ%3d%3d!%7d%7d%7d)
 
