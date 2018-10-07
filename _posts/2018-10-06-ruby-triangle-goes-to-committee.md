@@ -26,12 +26,10 @@ There is an ambiguity over the social rented housing; the application and office
 
 There is an unresolved dispute about the reasonable level of profit to be assumed in the viability assessment for the private housing, which could have a bearing on the final amount of affordable housing, to be calculated by a late viability review mechanism.  Crudely, the higher the profit the less left for affordable housing. The developer wants 20% GDV (Gross Development Value), while the Council's [independent assessors' report](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!7xk%2fKitlYCgrfYEbtqBRDA%3d%3d!%7d%7d%7d) argues that this is too high and that 17.5% GDV. This is backed up by the Council's own [viability study](https://www.southwark.gov.uk/assets/attach/1937/Old%20Kent%20Road%20viability%20study%202016.pdf) commissioned for the OKR AAP, which assumes a developer profit margin of 18% (para 4.39).
 
-In cash terms Southwark's assessor gives £73.8m as a reasonbe profit.  According to their own viability assessment the developer has a profit target of 
+In cash terms Southwark's assessor gives £73.8m as a reasonable profit for the private housing.  According to their own viability assessment, where the profits are listed as 'miscellaneous fees' the developer has a profit target of £92.21m for the private housing, and an overall profit of £101.35m, when profits for affordable housing and commercial premises are added in. 
 
 ![](http://35percent.org/img/gvadisputeprofit.png)
 *Extract from the [independent viability review](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!7xk%2fKitlYCgrfYEbtqBRDA%3d%3d!%7d%7d%7d)*
-
-The difference between 17.5% profit and the 20% claimed is approximately £20m. If the Council were to have held firm, this could have been £20m that the scheme could have contributed towards..
 
 
 Stage 2 GLA report - why is this going to committee before the GLA has issued its stage 2 report? especially given the concerns raised in the stage 1 report.
