@@ -16,7 +16,7 @@ Objectors also point out that, while 40% affordable housing appears generous, th
 
 Ojectors also believe that developers and Southwark are getting ahead of themselves.  The opportunity areea (and accompanying area action plan) has not completed its own progress through the planning system; a public inquiry that examines the Opportunity Area's merits and competing development claims on the land is not due to be heard until the new year.
 
-The 35% Campaign is always pleased to see a development that offers more afffordable and social rented housing than the local plan requires.  Where more affordable housing is required, 50% under the emerging, draft London Plan, that should be delivered (the late review mechanism Southwark propose is an inadequate substitute).  
+The 35% Campaign is always pleased to see a development that offers more affordable and social rented housing than the local plan stipulates, but where more affordable housing is required, 50% under the emerging, draft London Plan, that should be delivered (the late review mechanism Southwark propose is an inadequate substitute).  
 
 Closer inspection raises some other concerns.
 
