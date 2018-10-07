@@ -60,9 +60,9 @@ Similarly, the caveat that an (undisclosed) '_sensitivity analysis applied in th
 Because of the capital's shortage of waste recycling facilities, the Mayor's London Plan stipulates that any waste recycling facilities lost through redevelopment must be reprovided. The [planning committee report](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!S%2bIqqCm1W5sBBPLbS6aFWQ%3d%3d!%7d%7d%7d) explains that Southwark Council has bought land in the vicinity in order to reprovide the existing waste recycling facilities (Southwark Metals), but doesn't say whether this will be at the Council's or the developer's expense.
 
 ![](http://35percent.org/img/rubytrianglewaste.png)
-*Extract from the [planning committee report](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!S%2bIqqCm1W5sBBPLbS6aFWQ%3d%3d!%7d%7d%7d)
+*Extract from the [planning committee report](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!S%2bIqqCm1W5sBBPLbS6aFWQ%3d%3d!%7d%7d%7d)*
 
-Along with representatives from VitalOKR, we will be making representations to and asking questions at the Council's [planning committee](http://moderngov.southwark.gov.uk/ieListDocuments.aspx?CId=119&MId=6037&Ver=4), which meets at Southwark Council's offices on Tooley St 6.30pm Tues 9 Oct. 
+Along with representatives from VitalOKR, we will be making representations to and asking questions at the Council's [planning committee](http://moderngov.southwark.gov.uk/ieListDocuments.aspx?CId=119&MId=6037&Ver=4), which meets at Southwark Council's offices at 160 Tooley St at 6.30pm Tues 9 Oct. 
 
 Among the questions we will be asking are the following:
 
