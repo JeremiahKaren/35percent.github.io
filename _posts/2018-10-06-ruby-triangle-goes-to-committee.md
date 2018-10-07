@@ -38,7 +38,7 @@ In cash terms Southwark's assessor gives £73.8m as a reasonable profit for the 
 
 A peculiarity of the Southwark assessor's appraisal of the viability assessment is that it concludes _'that the proposed scheme would not be viable with a 35% affordable housing offer..., but that ‘stand back’ analysis (using evidence of local land sales with planning permission to ascertain a price per habitable room) indicates that it would be deliverable'._  This raises the question of how useful the viability assessment can be, if its conclusion can be discarded and an alternative 'stand back' analysis, with a different conclusion, is depended on instead.
 
-Similarly, the caveat that _'the sensitivity analysis applied in this review also shows that relatively small changes in key variables would result in a viable scheme' illustrates the uncertainties surrounding viability conclusions'_ [^2]
+Similarly, the caveat that '_the sensitivity analysis applied in this review also shows that relatively small changes in key variables would result in a viable scheme_' illustrates the uncertainties surrrounding viability assessments [^2]
 
 The [planning committee](http://moderngov.southwark.gov.uk/ieListDocuments.aspx?CId=119&MId=6037&Ver=4) meets at Southwark Council's offices on Tooley St 6.30pm Tues 9 Oct
 
