@@ -12,7 +12,7 @@ Despite the affordable housing offer, the application has nonetheless excited mu
 
 One of the businesses ['Constantine Ltd'](http://www.const.co.uk) employs 130 local people and provides logistics to clients such as the Natural History museum and the Tate. It has lodged a [formal objection](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!4ZMeZ3p9kp4Z69c9aEnicQ%3d%3d!%7d%7d%7d) to the planning application, claiming that the developer has made little effort to engage with them about alternative premises and surrender of their lease which runs for another 10 years.
 
-Objectors also point out that, while 40% affordable housing appears generous, the treshold for affordable housing is 50% for SIL sites in the Mayor's draft New London Plan.  Local residents along Canal Grove Cottages fear a loss of light, and the detrimental impact on the local environment of a scheme that is nearly four times denser than the local plan allows (2,701 habitable rooms per hectare against a maximum 700h hbr per hectare)[^1].  The Design Review Panel, which reviews all major developments on Southwark Council's behalf, also has serious resevations about the architectural quality of the scheme, and does not believe that it is of the exemplary standard that would justify the greater density).
+Objectors also point out that, while 40% affordable housing appears generous, the treshold for affordable housing is 50% for SIL sites in the Mayor's draft New London Plan.  Local residents along Canal Grove Cottages fear a loss of light, and the detrimental impact on the local environment of a scheme that is nearly four times denser than the local plan allows (2,701 habitable rooms per hectare against a maximum 700h hbr per hectare)[^1].  The Design Review Panel, which reviews all major developments on Southwark Council's behalf, also has serious resevations about the architectural quality of the scheme, and does not believe that it is of the exemplary standard that would justify the greater density.
 
 Ojectors also believe that developers and Southwark are getting ahead of themselves.  The opportunity areea (and accompanying area action plan) has not completed its own progress through the planning system; a public inquiry that examines the Opportunity Area's merits and competing development claims on the land is not due to be heard until the new year.
 
@@ -20,19 +20,20 @@ The 35% Campaign is always pleased to see a development that offers more affford
 
 Closer inspection raises some other concerns.
 
-There is an ambiguity over the social rented housing; the application and officer's report refers to social rented housing, yet the [GLA Stage 1 report](https://www.london.gov.uk/sites/default/files/PAWS/media_id_414643/ruby_triangle_sandgate_street_report.pdf)refers to same units as 'affordable rent', which can be up to 80% market rent.  The affordable housing provider A2Dominiun also rings an alarm bell.  They featured in our successful complaint to the Ombudsman about tenure swutching, where affordable rent was substituted in developments where social rent had been approved, in this case the [Colorama development](http://35percent.org/2016-02-16-the-affordable-housing-mirage/) in Blackfriars. A2Dominium, was also subject to a planning breach notification from Southwark Council for a development at 166-178 Camberwell Rd and the site has stood half-finished since 2015.
+There is an ambiguity over the social rented housing; the application and officer's report refers to social rented housing, yet the [GLA Stage 1 report](https://www.london.gov.uk/sites/default/files/PAWS/media_id_414643/ruby_triangle_sandgate_street_report.pdf)refers to same units as 'affordable rent', which can be up to 80% market rent.  The usual GLA Stage 2 report is not available at the time of going to committee.
+The affordable housing provider A2Dominiun also rings an alarm bell.  They featured in our successful complaint to the Ombudsman about tenure swutching, where affordable rent was substituted in developments where social rent had been approved, in this case the [Colorama development](http://35percent.org/2016-02-16-the-affordable-housing-mirage/) in Blackfriars. A2Dominium, was also subject to a planning breach notification from Southwark Council for a development at 166-178 Camberwell Rd and the site has stood half-finished since 2015.
 
 # Profit vs affordable housing - what's reasonable?
 
 There is an unresolved dispute about the reasonable level of profit to be assumed in the viability assessment for the private housing, which could have a bearing on the final amount of affordable housing, to be calculated by a late viability review mechanism.  Crudely, the higher the profit the less left for affordable housing. The developer wants 20% GDV (Gross Development Value), while the Council's [independent assessors' report](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!7xk%2fKitlYCgrfYEbtqBRDA%3d%3d!%7d%7d%7d) argues that this is too high and that 17.5% GDV. This is backed up by the Council's own [viability study](https://www.southwark.gov.uk/assets/attach/1937/Old%20Kent%20Road%20viability%20study%202016.pdf) commissioned for the OKR AAP, which assumes a developer profit margin of 18% (para 4.39).
 
-In cash terms Southwark's assessor gives £73.8m as a reasonable profit for the private housing.  According to their own viability assessment, where the profits are listed as 'miscellaneous fees' the developer has a profit target of £92.21m for the private housing, and an overall profit of £101.35m, when profits for affordable housing and commercial premises are added in. 
+In cash terms Southwark's assessor gives £73.8m as a reasonable profit for the private housing.  According to their own viability assessment, where the profits are listed as 'miscellaneous fees', the developer has a profit target of £92.21m for the private housing, and an overall profit assumption of £101.35m, when profits for affordable housing and commercial premises are added in. 
 
 ![](http://35percent.org/img/gvadisputeprofit.png)
 *Extract from the [independent viability review](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!7xk%2fKitlYCgrfYEbtqBRDA%3d%3d!%7d%7d%7d)*
 
 
-Stage 2 GLA report - why is this going to committee before the GLA has issued its stage 2 report? especially given the concerns raised in the stage 1 report.
+
 
 No information on whether any of the 1,152 dwellings proposed comply with the BRE's minimum daylight requirements..
 
