@@ -16,11 +16,11 @@ Objectors also point out that, while 40% affordable housing appears generous, th
 
 Ojectors also believe that developers and Southwark are getting ahead of themselves.  The Opportunity Area (and accompanying area action plan) has not completed its own progress through the planning system; a public inquiry that examines the Opportunity Area's merits and the competing development claims on the land is not due to be heard until the new year.
 
-The 35% Campaign is always pleased to see a development that offers more affordable and social rented housing than the local plan stipulates, but where more affordable housing is required and it is 50% under the emerging, draft London Plan, that should be delivered.  
+The 35% Campaign is always pleased to see a development that offers more affordable and social rented housing than the local plan stipulates, but where more affordable housing is required, and it is 50% under the emerging, draft London Plan, that should be delivered.  
 
 Closer inspection raises some other concerns.
 
-There is an ambiguity over the social rented housing; the application and officer's report refers to social rented housing, yet the [GLA Stage 1 report](https://www.london.gov.uk/sites/default/files/PAWS/media_id_414643/ruby_triangle_sandgate_street_report.pdf)refers to same units as 'affordable rent', which can be up to 80% market rent.  The usual GLA Stage 2 report is not available at the time of going to committee.
+There is an ambiguity over the social rented housing; the application and officer's report refers to social rented housing, yet the [GLA Stage 1 report](https://www.london.gov.uk/sites/default/files/PAWS/media_id_414643/ruby_triangle_sandgate_street_report.pdf)   refers to same units as 'affordable rent', which can be up to 80% market rent.  The usual GLA Stage 2 report is not available at the time of going to committee.
 The affordable housing provider A2Dominiun also rings an alarm bell.  They featured in our successful complaint to the Ombudsman about tenure swutching, where affordable rent was substituted in developments where social rent had been approved, in this case the [Colorama development](http://35percent.org/2016-02-16-the-affordable-housing-mirage/) in Blackfriars. A2Dominium, was also subject to a planning breach notification from Southwark Council for a development at 166-178 Camberwell Rd and the site has stood half-finished since 2015.
 
 ## Profit vs affordable housing - what's reasonable?
