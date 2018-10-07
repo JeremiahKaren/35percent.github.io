@@ -33,16 +33,18 @@ There is an ambiguity over the social rented housing; the application and [offic
 
 The GLA Stage 2 report is not available at the time of going to committee. There is no explanation why this application is going to committee before this report is published, which is usual practice and a fairly major departure from due process.
 
-The affordable housing provider A2Dominion also rings an alarm bell.  They featured in our successful complaint to the Ombudsman about tenure switching, where affordable rent was substituted in developments where social rent had been approved, in this case the [Colorama development](http://35percent.org/2016-02-16-the-affordable-housing-mirage/) in Blackfriars. A2Dominium, was also subject to a planning breach notification from Southwark Council for a development at 166-178 Camberwell Rd and the site has stood half-finished since 2015.
+The affordable housing provider A2Dominion also rings an alarm bell.  They featured in our [successful complaint](http://35percent.org/2016-12-12-ombudsman-slams-southwark-for-no-s106-monitoring/) to the Ombudsman about [tenure switching](http://35percent.org/redefining-social-rent/), where affordable rent was substituted in developments where social rent had been approved, in this case the [Colorama development](http://35percent.org/2016-02-16-the-affordable-housing-mirage/#a2dominion-tenure-switch-example) in Blackfriars. A2Dominium, was also subject to a [planning breach investigation](https://planning.southwark.gov.uk/online-applications/enforcementDetails.do?previousCaseType=Property&keyVal=_STHWR_ECAPR_7108&previousCaseNumber=_STHWR_PROPLPI_116659_1&previousCaseUprn=200003453347&activeTab=summary&previousKeyVal=_STHWR_PROPLPI_116659_1) from Southwark Council for its development at 166-178 Camberwell Rd, which has stood half-finished since 2015.
+
+![](http://crappistmartin.github.io/images/wyndhamcamberwell.jpg)
 
 ## Profit vs affordable housing - what's reasonable?
-
 There is an unresolved dispute about the reasonable level of profit to be assumed in the viability assessment for the private housing.  This could have a bearing on the final amount of affordable housing, to be calculated by a late viability review mechanism.  Crudely, the higher the profit the less left for affordable housing. The developer wants 20% GDV (Gross Development Value), while the Council's [independent assessors' report](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!7xk%2fKitlYCgrfYEbtqBRDA%3d%3d!%7d%7d%7d) argues that this is too high and that 17.5% GDV is reasonable. This is backed up by the Council's own [viability study](https://www.southwark.gov.uk/assets/attach/1937/Old%20Kent%20Road%20viability%20study%202016.pdf) commissioned for the OKR AAP, which assumes a developer profit margin of 18% (para 4.39).
-
-In cash terms Southwark's assessor gives £73.8m as a reasonable profit for the private housing.  According to their [own viability assessment](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!oY11bGc7aC6RJOzPXGXlpQ%3d%3d!%7d%7d%7d), where the profits are listed as 'miscellaneous fees', the developer has a profit target of £92.21m for the private housing, and an overall profit assumption of £101.36m, when profits for affordable housing and commercial premises are added in.
 
 ![](http://35percent.org/img/gvadisputeprofit.png)
 *Extract from the [independent viability review](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!7xk%2fKitlYCgrfYEbtqBRDA%3d%3d!%7d%7d%7d)*
+
+In cash terms Southwark's assessor gives £73.8m as a reasonable profit for the private housing.  According to their [own viability assessment](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!oY11bGc7aC6RJOzPXGXlpQ%3d%3d!%7d%7d%7d), where the profits are listed as 'miscellaneous fees', the developer has a profit target of £92.21m for the private housing, and an overall profit assumption of £101.36m, when profits for affordable housing and commercial premises are added in.
+
 
 ## Viable or not viable?
 
