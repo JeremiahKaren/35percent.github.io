@@ -56,23 +56,23 @@ A peculiarity of the Southwark assessor's appraisal of the viability assessment 
 
 Similarly, the caveat that an (undisclosed) '_sensitivity analysis applied in this review also shows that relatively small changes in key variables would result in a viable scheme_' illustrates the uncertainties surrounding the viability assessment for this scheme. [^3]
  
-## Waste
+## Reprovision of recycling facilities - at whose cost? 
 Because of the capital's shortage of waste recycling facilities, the Mayor's London Plan stipulates that any waste recycling facilities lost through redevelopment must be reprovided. The [planning committee report](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!S%2bIqqCm1W5sBBPLbS6aFWQ%3d%3d!%7d%7d%7d) explains that Southwark Council has bought land in the vicinity in order to reprovide the existing waste recycling facilities (Southwark Metals), but doesn't say whether this will be at the Council's or the developer's expense.
 
 ![](http://35percent.org/img/rubytrianglewaste.png)
 *Extract from the [planning committee report](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!S%2bIqqCm1W5sBBPLbS6aFWQ%3d%3d!%7d%7d%7d)
 
-Along with VitalOKR representatives, we will be making representations and asking questions at the Council's [planning committee](http://moderngov.southwark.gov.uk/ieListDocuments.aspx?CId=119&MId=6037&Ver=4), which meets at Southwark Council's offices on Tooley St 6.30pm Tues 9 Oct. 
+Along with representatives from VitalOKR, we will be making representations to and asking questions at the Council's [planning committee](http://moderngov.southwark.gov.uk/ieListDocuments.aspx?CId=119&MId=6037&Ver=4), which meets at Southwark Council's offices on Tooley St 6.30pm Tues 9 Oct. 
 
 Among the questions we will be asking are the following:
 
  * Why is this proposal being recommended for approval before the Area Action Plan has been finalised/adopted?
  * why is there no detailed sunlight/daylight assessment for any of the 1,152 new dwellings?
- * Why are the concerns of the Design Review Panel being ignored?
- * Why is a new 'pocket park' being considered a material benefit to this application when the major part of it is outside the planning proposal and ownership boundaries? 
- * How can the scheme be implemented in a reasonable time frame while Industrial businesses on the site have leases extending 10 years and no relocation alternatives? 
- * How is Southwark going to ensure that A2Dominion provide social rent when it has failed to ensure A2Dominion provided social rent in previous schemes?
- * What land has Southwark purchased to enable the relocation of the metal waste recyling facilities and is the developer reimbursing the purchase costs - who will be funding/providing the replacement facilities?
+ * Why are the significant concerns raised by the Design Review Panel being ignored?
+ * Why is a new 'pocket park' being considered as a material benefit to this application when the majority of it is outside the planning proposal and site ownership boundaries? 
+ * How can the scheme be implemented in a reasonable time frame while Industrial businesses on the site still have leases extending 10 years and have been provided with no relocation alternatives? 
+ * How is Southwark going to ensure that A2Dominion provide social rent when it has failed to enforce the delivery of social rented tenure in previous schemes?
+ * What land has Southwark purchased to enable the relocation of the metal waste recyling facilities and will the developer be reimbursing the purchase costs? - who will be funding the reprovision of the replacement facilities?
 
 __Footnotes:__  
 
