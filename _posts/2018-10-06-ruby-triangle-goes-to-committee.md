@@ -43,4 +43,5 @@ Similarly, the caveat that '_the sensitivity analysis applied in this review als
 The [planning committee](http://moderngov.southwark.gov.uk/ieListDocuments.aspx?CId=119&MId=6037&Ver=4) meets at Southwark Council's offices on Tooley St 6.30pm Tues 9 Oct
 
 [^1]: See paras 221 and 222 of the [planning committee report](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!S%2bIqqCm1W5sBBPLbS6aFWQ%3d%3d!%7d%7d%7d)
+
 [^2]: See para 507 [planning committee report](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!S%2bIqqCm1W5sBBPLbS6aFWQ%3d%3d!%7d%7d%7d)
