@@ -1,8 +1,9 @@
 ---
 layout: post
-published: false
+published: true 
 title: Ruby Tuesday
 subtitle: First major Old Kent Road application goes to committee
+date: 2018-10-08
 ---
 The first of the very large planning applications lining up to take advantage of the proposed Old Kent Rd Opportunity Area goes to Southwark's planning committee tomorrow (Tues 9 Oct).  It is for a mixed-use scheme that would include 1152 homes, with 40.5% affordable housing, two-thirds of which will be social rented.  A residents' gym and sports hall and new 'pocket park' are also promised. The scheme is proposed by a [joint venture](https://beta.companieshouse.gov.uk/company/10733947/charges) between A2Dominion Housing association and recently-formed developer Avanton Ltd, which is [chaired by former defence secretary Sir Michael Fallon](https://www.thetimes.co.uk/article/michael-fallon-takes-on-property-job-with-avanton-nvgttjprt). 
 
