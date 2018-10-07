@@ -8,7 +8,7 @@ The first of the very large planning applications lining up to take advantage of
 
 ![](http://35percent.org/img/rubytriangle2.png)
 
-Despite the affordable housing offer, the application has nonetheless excited much passionate opposition.  The site is a SIL - site of strategic industrial land and the loss of industrial workspace is contrary to the local plan. The proposed development has 3 towers, one of 48 storeys another of 40 storeys.  The [VitalOKR group](https://www.vitalokr.com/), a coalition of residents, businesses and community groups, have objected because of the loss of industrial land.  Thirteen businesses and a church currently occupy the site. 
+Despite the affordable housing offer, the application has nonetheless excited much passionate opposition.  The site is a SIL - site of strategic industrial land and the loss of industrial workspace is contrary to the local plan. The proposed development has 3 towers, one of 48 storeys another of 40 storeys.  The [VitalOKR group](https://www.vitalokr.com/), a coalition of residents, businesses and community groups, have objected to the loss of industrial land and impact on jobs.  Thirteen businesses and a church currently occupy the site. 
 
 One of the businesses ['Constantine Ltd'](http://www.const.co.uk) employs 130 local people and provides logistics to clients such as the Natural History museum and the Tate. It has lodged a [formal objection](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!4ZMeZ3p9kp4Z69c9aEnicQ%3d%3d!%7d%7d%7d) to the planning application, claiming that the developer has made little effort to engage with them about alternative premises and surrender of their lease which runs for another 10 years.
 
