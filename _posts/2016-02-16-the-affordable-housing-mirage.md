@@ -26,7 +26,8 @@ The involvement of housing associations in these alleged breaches is a particula
 
 Southwark Council has an approved list of housing association partners. It should seriously consider whether any housing association in breach of a planning approval should continue as a partner.
 
-It goes without saying that these breaches are making a real difference to people who rely upon social rented housing, as the main example given in the Southwark News shows. This is in fact the [Colorama development](/colorama/) - a former photo film processing centre on Lancaster street, which was demolished in 2014 following planning permission granted for its replacement by the [Chroma buildings](http://www.fabrica.co.uk/The-Chroma-Buildings), a residential development comprising 39 flats.
+## A2Dominion tenure switch example
+It goes without saying that these breaches are making a real difference to people who rely upon social rented housing, as the main example given in the Southwark News shows. This is in fact the [Colorama development](/colorama/) - a former photo film processing centre on Lancaster street, which was demolished in 2014 following planning permission granted for its replacement by the [Chroma buildings](http://www.fabrica.co.uk/The-Chroma-Buildings), a residential development comprising 39 flats delivered by Housing association A2Dominion.
 
 ![](http://crappistmartin.github.io/images/colorama_chroma.jpg)
 
@@ -34,7 +35,7 @@ At the time, Southwark's planning committee justified the demolition of the peri
 
 ![](http://crappistmartin.github.io/images/colorama_or.png) 
 
-However, two years later when the Greater London Authority published its [affordable housing outturn data](http://data.london.gov.uk/dataset/gla-affordable-housing-programme-outturn/resource/0c87e5dc-f1e9-4edf-b246-bef6b40a9ba3), it showed that these were being provided as affordable rent not social rent. These range up to 59% market rent with prospective rent levels of £215pw for a 1-bed flat - more than twice the current average social rent currently charged in Southwark.
+However, two years later when the Greater London Authority published its [affordable housing outturn data](http://data.london.gov.uk/dataset/gla-affordable-housing-programme-outturn/resource/0c87e5dc-f1e9-4edf-b246-bef6b40a9ba3), it showed that these were being provided as affordable rent not social rent. These range up to 59% market rent with estimated rent levels of £215pw for a 1-bed flat - more than twice the current average social rent currently charged in Southwark.
 
 ![](http://crappistmartin.github.io/images/coloramagladata.png)
 
