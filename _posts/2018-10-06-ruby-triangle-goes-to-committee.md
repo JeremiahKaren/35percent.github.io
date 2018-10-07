@@ -32,9 +32,6 @@ In cash terms Southwark's assessor gives £73.8m as a reasonable profit for the 
 ![](http://35percent.org/img/gvadisputeprofit.png)
 *Extract from the [independent viability review](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!7xk%2fKitlYCgrfYEbtqBRDA%3d%3d!%7d%7d%7d)*
 
-
-
-
-No information on whether any of the 1,152 dwellings proposed comply with the BRE's minimum daylight requirements..
+The [planning committee](http://moderngov.southwark.gov.uk/ieListDocuments.aspx?CId=119&MId=6037&Ver=4) meets at Southwark Council's offices on Tooley St 6.30pm Tues 9 Oct
 
 [^1]: See paras 221 and 222 of the [planning committee report](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!S%2bIqqCm1W5sBBPLbS6aFWQ%3d%3d!%7d%7d%7d)
