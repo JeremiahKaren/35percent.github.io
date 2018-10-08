@@ -34,7 +34,7 @@ There is an ambiguity over the social rented housing; the application and [offic
 ![](http://35percent.org/img/rubytrianglegla.png)
 *Extract from the GLA's [stage 1 report](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!2AGS3H6reesxTcyamvOlcw%3d%3d!%7d%7d%7d)*
 
-The GLA Stage 2 report is not available at the time of going to committee. There is no explanation why this application is departing from due process and going to committee before the stage 2 report is published and issues with the GLA resolved, which is the usual practice.
+The GLA Stage 2 report is not available at the time of going to committee, a departure from usual practice.
 
 The fact housing association A2Dominion are a development partner in this scheme also rings an alarm bell.  They featured in our [successful complaint](http://35percent.org/2016-12-12-ombudsman-slams-southwark-for-no-s106-monitoring/) to the Ombudsman about [tenure switching](http://35percent.org/redefining-social-rent/), where affordable rent was substituted in developments where social rent had been approved, in this case the [Colorama development](http://35percent.org/2016-02-16-the-affordable-housing-mirage/#a2dominion-tenure-switch-example) in Blackfriars where A2Dominion acted as both developer and registered provider. A2Dominion, was also subject to a [planning breach investigation](https://planning.southwark.gov.uk/online-applications/enforcementDetails.do?previousCaseType=Property&keyVal=_STHWR_ECAPR_7108&previousCaseNumber=_STHWR_PROPLPI_116659_1&previousCaseUprn=200003453347&activeTab=summary&previousKeyVal=_STHWR_PROPLPI_116659_1) from Southwark Council for its development at 166-178 Camberwell Rd, which has stood half-finished since 2015.
 
