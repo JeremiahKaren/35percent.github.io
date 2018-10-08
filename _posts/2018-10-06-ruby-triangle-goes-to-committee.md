@@ -62,7 +62,7 @@ Because of the capital's shortage of waste recycling facilities, the Mayor's Lon
 ![](http://35percent.org/img/rubytrianglewaste.png)
 *Extract from the [planning committee report](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!S%2bIqqCm1W5sBBPLbS6aFWQ%3d%3d!%7d%7d%7d)*
 
-The  [planning committee](http://moderngov.southwark.gov.uk/ieListDocuments.aspx?CId=119&MId=6037&Ver=4), meets at Southwark Council's offices at 160 Tooley St at 6.30pm Tues 9 Oct.
+The  [planning committee](http://moderngov.southwark.gov.uk/ieListDocuments.aspx?CId=119&MId=6037&Ver=4) meets at Southwark Council's offices at 160 Tooley St at 6.30pm Tues 9 Oct.
 
 __Footnotes:__  
 
