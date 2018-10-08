@@ -1,9 +1,9 @@
 ---
 layout: post
-published: true 
+published: true
 title: Ruby Tuesday
 subtitle: First major Old Kent Road application goes to committee
-date: 2018-10-08
+date: 'Mon Oct 08 2018 01:00:00 GMT+0100 (British Summer Time)'
 ---
 The first of the very large planning applications lining up to take advantage of the proposed Old Kent Rd Opportunity Area goes to Southwark's planning committee tomorrow (Tues 9 Oct).  It is for a mixed-use scheme that would include 1152 homes, with 40.5% affordable housing, two-thirds of which would supposedly be social rented.  A residents' gym and sports hall and new 'pocket park' are also promised. The scheme is proposed by a [joint venture](https://beta.companieshouse.gov.uk/company/10733947/charges) between [A2Dominion Housing association](http://www.a2dominion.co.uk) and recently-formed developer [Avanton Ltd](http://www.avanton.co.uk), which is [chaired by former defence secretary Sir Michael Fallon](https://www.thetimes.co.uk/article/michael-fallon-takes-on-property-job-with-avanton-nvgttjprt). 
 
@@ -62,17 +62,7 @@ Because of the capital's shortage of waste recycling facilities, the Mayor's Lon
 ![](http://35percent.org/img/rubytrianglewaste.png)
 *Extract from the [planning committee report](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!S%2bIqqCm1W5sBBPLbS6aFWQ%3d%3d!%7d%7d%7d)*
 
-Along with representatives from VitalOKR, we will be making representations to and asking questions at the Council's [planning committee](http://moderngov.southwark.gov.uk/ieListDocuments.aspx?CId=119&MId=6037&Ver=4), which meets at Southwark Council's offices at 160 Tooley St at 6.30pm Tues 9 Oct. 
-
-Among the questions we will be asking are the following:
-
- * Why is this proposal being recommended for approval before the Area Action Plan has been finalised/adopted?
- * why is there no detailed sunlight/daylight assessment for any of the 1,152 new dwellings?
- * Why are the significant concerns raised by the Design Review Panel being ignored?
- * Why is a new 'pocket park' being considered as a material benefit to this application when the majority of it is outside the planning proposal and site ownership boundaries? 
- * How can the scheme be implemented in a reasonable time frame while Industrial businesses on the site still have leases extending 10 years and have been provided with no relocation alternatives? 
- * How is Southwark going to ensure that A2Dominion provide social rent when it has failed to enforce the delivery of social rented tenure in previous schemes?
- * What land has Southwark purchased to enable the relocation of the metal waste recyling facilities and will the developer be reimbursing the purchase costs? - who will be funding the reprovision of the replacement facilities?
+The  [planning committee](http://moderngov.southwark.gov.uk/ieListDocuments.aspx?CId=119&MId=6037&Ver=4), meets at Southwark Council's offices at 160 Tooley St at 6.30pm Tues 9 Oct.
 
 __Footnotes:__  
 
