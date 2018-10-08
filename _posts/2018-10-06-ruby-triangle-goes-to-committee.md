@@ -19,7 +19,7 @@ The Design Review Panel said that it was _"also concerned that part of the ‘gr
 
 ![](http://35percent.org/img/rubytriangleownership.png)
 
-The panel concludes that it cannot endorse the scheme in its current form and states that _"the panel fear that the AAP will be used to justify opportunistic and piecemeal over development of small sites, with each proposal leaving future developments to provide the public realm strategy and improvements that are required to support such high density schemes."_
+The Panel concludes that it cannot endorse the scheme in its current form and states that _"the panel fear that the AAP will be used to justify opportunistic and piecemeal over development of small sites, with each proposal leaving future developments to provide the public realm strategy and improvements that are required to support such high density schemes."_
 
 This echoes objectors' fears that developers and Southwark are getting ahead of themselves.  The Opportunity Area (and accompanying area action plan) has not completed its own progress through the planning system; a public inquiry (EiP) that examines the Opportunity Area's merits and makes recommendations for amendments is not due to be heard until the new year.
 
