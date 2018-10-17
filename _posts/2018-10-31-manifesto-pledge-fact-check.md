@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Fact-checking council leader Peter John on social housing"
-subtitle: "No, Southwark does not have the largest council house building programme in the country"
+title: "Fact-checking council leader Peter John on manifesto pledge"
+subtitle: "Instead of the promised net increase of 1500 council homes there is a net decrease of 476"
 published: false
 ---
 In 2014, as part of its manifesto pledge Southwark Council's administration [announced](http://www.southwarklabour.co.uk/latest-news/southwark/news.aspx?p=102262) an _"ambitious but realistic plan to build 11,000 new council homes"_ across the borough over the next 30 years. Concerns were [raised by us](http://35percent.org/the-southwark-clearances) and [by others](https://crappistmartin.github.io/images/SNHeygateOverage.pdf) that this would be insufficient to cover the number of council homes lost to ongoing estate regeneration, void disposal polices and Right to Buy applications over the next 30 years.
@@ -17,7 +17,7 @@ Council leader Peter John subsequently issued an [open letter](http://35percent.
 Councillor John went one step further to pledge that the first 1500 new council homes would be finished by 2018:
 
 ![](http://35percent.org/img/1500councilhomes.png)
-*Extract from 2014 Cabinet report](http://moderngov.southwark.gov.uk/documents/s47488/Report%20Long%20term%20plans%20for%20the%20delivery%20of%20new%20council%20homes.pdf)*
+*Extract from [2014 Cabinet report](http://moderngov.southwark.gov.uk/documents/s47488/Report%20Long%20term%20plans%20for%20the%20delivery%20of%20new%20council%20homes.pdf)*
 
 
 Now, having reached 2018, we took a look at whether Councillor John has delivered on his manifesto pledge. [Official statistics](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/674346/LT_116.xlsx) from the government's [live tables](https://www.gov.uk/government/statistical-data-sets/live-tables-on-dwelling-stock-including-vacants) on local authority dwelling stock show that since the manifesto pledge in 2014 there has been a net reduction in Southwark's council housing stock of 476 council homes.
@@ -30,12 +30,14 @@ The government's statistics don't yet include figures for 2018, but with [GLA ho
 ![](http://35percent.org/img/glacompletions.png)
 *Extract from the latest [GLA housing delivery dataset](https://www.london.gov.uk/sites/default/files/affordable_housing_starts_and_completions_-_end_of_june_2018.xls)*
 
+Faced with these facts some might suggest that Councillor John's manifesto pledge is nothing but meaningless PR spin..
+
 ![](https://southwarknotes.files.wordpress.com/2012/03/pj-strata.gif)
 
 ## A different ... .. 
-We are not saying that Southwark hasn't built any new council homes; it claims to have built 291 so far (without providing a full breakdown). It just clearly hasn't built enough to compete with the pace at which it is knocking its existing council homes down or selling them off.
+We are not saying that Southwark hasn't built any new council homes; it [claims](https://www.southwark.gov.uk/housing/major-works-and-new-homes/new-homes/new-homes-delivery?chapter=2) to have built 291 so far (without providing a full breakdown). It just clearly hasn't built enough to compete with the pace at which it is knocking its existing council homes down or selling them off.
 
-Conscious of its manifesto commitment and problems finding enough space to build all the new council homes it promised, Southwark is now turning to a different strategy - buying section 106 homes. These are the rented element of affordable homes in new developments that a developer is obliged to build in accordance with planning policy.
+Conscious of its manifesto commitment and problems finding enough space to build all the new council homes it has promised, Southwark is now turning to a different strategy - buying section 106 homes. These are the rented element of affordable homes in new developments that a developer is obliged to build in accordance with planning policy.
 
 One such example is 
 
