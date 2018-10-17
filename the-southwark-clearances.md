@@ -19,11 +19,11 @@ categories: [Estate regeneration, New council homes]
 
         $('#container').highcharts({
             title: {
-                text: 'Monthly Average Temperature',
+                text: 'Southwark Council Homes',
                 x: -20 //center
             },
             subtitle: {
-                text: 'Source: WorldClimate.com',
+                text: 'Source: https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/674346/LT_116.xlsx',
                 x: -20
             },
             xAxis: {
@@ -32,7 +32,7 @@ categories: [Estate regeneration, New council homes]
             },
             yAxis: {
                 title: {
-                    text: 'Council owned stock'
+                    text: 'Council-owned stock'
                 },
                 plotLines: [{
                     value: 0,
@@ -41,7 +41,7 @@ categories: [Estate regeneration, New council homes]
                 }]
             },
             tooltip: {
-                valueSuffix: 'Council homes'
+                valueSuffix: ' Council homes'
             },
             legend: {
                 layout: 'vertical',
@@ -50,7 +50,7 @@ categories: [Estate regeneration, New council homes]
                 borderWidth: 0
             },
             series: [{
-                name: 'Tokyo',
+                name: 'Southwark',
                 data: [55803, 55162, 54439, 53363, 52448, 51706, 50903, 49875, 48052, 46887, 45346, 43885, 42275, 41873, 41287, 40618, 40120, 39845, 39781, 38578, 39029, 38687, 38522, 38553]
             }]
         });
