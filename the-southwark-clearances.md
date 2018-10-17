@@ -4,15 +4,48 @@ title: "The Southwark Clearances"
 comments: true
 categories: [Estate regeneration, New council homes] 
 ---
-Council leader Peter John recently stood up at a Local Government Association conference and claimed that building new council housing is the answer to the housing crisis.
 
-![](/img/pjlgaconf.jpg)
+<canvas id="my-chart" width="400" height="400"></canvas>
+<script>
+var ctx = document.getElementById("myChart").getContext('2d');
+var myChart = new Chart(ctx, {
+    type: 'bar',
+    data: {
+        labels: ["Red", "Blue", "Yellow", "Green", "Purple", "Orange"],
+        datasets: [{
+            label: '# of Votes',
+            data: [12, 19, 3, 5, 2, 3],
+            backgroundColor: [
+                'rgba(255, 99, 132, 0.2)',
+                'rgba(54, 162, 235, 0.2)',
+                'rgba(255, 206, 86, 0.2)',
+                'rgba(75, 192, 192, 0.2)',
+                'rgba(153, 102, 255, 0.2)',
+                'rgba(255, 159, 64, 0.2)'
+            ],
+            borderColor: [
+                'rgba(255,99,132,1)',
+                'rgba(54, 162, 235, 1)',
+                'rgba(255, 206, 86, 1)',
+                'rgba(75, 192, 192, 1)',
+                'rgba(153, 102, 255, 1)',
+                'rgba(255, 159, 64, 1)'
+            ],
+            borderWidth: 1
+        }]
+    },
+    options: {
+        scales: {
+            yAxes: [{
+                ticks: {
+                    beginAtZero:true
+                }
+            }]
+        }
+    }
+});
+</script>
 
-Cllr John backed up his call by trumpeting Southwark's claim of having the largest council house building programme in the country - 11,000 new homes (over the next 30 years).
-
-However, what remains unsaid is that the 11,000 new 'council homes' will fail to replace those predicted to be lost through right-to-buy over that period and those being demolished on the Heygate and Aylesbury estates. 
-
-![](http://crappistmartin.github.io/images/SN1100homes.png)
 
 Neither does it account for the thousands of other council homes lost through other estate regeneration schemes over the last few years.
 
