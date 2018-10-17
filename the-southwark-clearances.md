@@ -4,7 +4,7 @@ title: "The Southwark Clearances"
 comments: true
 categories: [Estate regeneration, New council homes] 
 ---
-
+Southwark's stock of Council homes used to be one of the largest in the country. The graph below illustrates how the total number of Council homes in Southwark has seen a sharp decline over the past twenty years. This is partly due to Right to Buy sales but 
 <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js">
 </script>
 <script src="http://code.highcharts.com/highcharts.js">
@@ -19,7 +19,7 @@ categories: [Estate regeneration, New council homes]
 
         $('#container').highcharts({
             title: {
-                text: 'Southwark Council Homes',
+                text: "Southwark's Council Homes",
                 x: -20 //center
             },
             subtitle: {
