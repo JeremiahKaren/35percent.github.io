@@ -1,8 +1,36 @@
 ---
 layout: post
-title: "council buildings sold off by Southwark Labour"
+title: "Fact-checking council leader Peter John on social housing"
+subtitle: "No, Southwark does not have the largest council house building programme in the country"
 published: false
 ---
+In 2014, as part of its manifesto pledge Southwark Council's administration [announced](http://www.southwarklabour.co.uk/latest-news/southwark/news.aspx?p=102262) an _"ambitious but realistic plan to build 11,000 new council homes"_ across the borough over the next 30 years. In response to [concerns](http://35percent.org/the-southwark-clearances) that this would be insufficient to cover the number of council homes lost to ongoing estate regeneration, void disposal polices and Right to Buy applications over the next 30 years, Council leader Peter John issued an [open letter](http://35percent.org/img/pj11000councilhomesletter.pdf). In the letter, Councillor John asserted that the 11,000 council homes would be over and above the existing stock count - i.e. a net increase:
+
+![](http://35percent.org/img/pj11000councilhomesletter.png)
+*Extract from Council leader Peter John's [open letter](http://35percent.org/img/pj11000councilhomesletter.pdf)*
+
+[Official statistics](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/674346/LT_116.xlsx) from the government's [live tables](https://www.gov.uk/government/statistical-data-sets/live-tables-on-dwelling-stock-including-vacants) on local authority dwelling stock show that since the manifesto pledge in 2014 there has been a net reduction in Southwark's council housing stock of 476 council homes.
+
+![](http://35percent.org/img/livetableextract.png)
+*Extract from the government's [Live Table 116](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/674346/LT_116.xlsx)*
+
+The statistics don't yet include figures for 2018, but with [GLA housing delivery data](https://www.london.gov.uk/sites/default/files/affordable_housing_starts_and_completions_-_end_of_june_2018.xls) showing that just 12 social rented homes were completed in Southwark between April 2017 and March 2018.
+
+![](http://35percent.org/img/glacompletions.png)
+*Extract from the latest [GLA housing delivery dataset](https://www.london.gov.uk/sites/default/files/affordable_housing_starts_and_completions_-_end_of_june_2018.xls)*
+
+
+
+
+_"By buying up section 106 properties Southwark Council is not adding to the amount of social housing stock in the borough. It is simply buying homes that already exist and that housing associations would have otherwise bought and let as social housing.”_
+
+Meaningless PR waffle
+
+
+Southwark has also been selling off its [Town Halls](http://35percent.org/southwark-town-halls/) and street properties. In 2009, Southwark Council introduced a policy of selling off every council home that becomes void and is valued above £400,000. In 2011 this was [reviewed by the incoming Labour administration which reduced](http://moderngov.southwark.gov.uk/documents/s19458/Report%20Review%20of%20Void%20Disposal%20Strategy.pdf) the threshold to £300,000. Here are some of the properties [sold at auction](http://35percent.org/img/sold_by_southwark.pdf) by the current (Labour) administration under this policy:
+
+
+
 Check this 2008 list of assets
 [list of assets](/img/item9assetslist.pdf)
 

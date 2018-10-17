@@ -57,7 +57,7 @@ Southwark's stock of Council homes used to be one of the largest in the country.
         });
 
 </script>
-The reduction is a result partly of Right to Buy applications but also of other factors. In 2009, Southwark Council introduced a policy of selling off every council home that becomes void and is valued above £400,000. In 2011 this was [reviewed by the incoming Labour administration which reduced](http://moderngov.southwark.gov.uk/documents/s19458/Report%20Review%20of%20Void%20Disposal%20Strategy.pdf) the threshold to £300,000. [Here](http://35percent.org/img/sold_by_southwark.pdf) is a sample of some of the hundreds of properties sold at auction by the current administration.
+The reduction is partly a result of Right to Buy applications but also of several other factors. In 2009, Southwark Council introduced a policy of selling off every council home that becomes void and is valued above £400,000. In 2011 this was [reviewed by the incoming Labour administration which reduced](http://moderngov.southwark.gov.uk/documents/s19458/Report%20Review%20of%20Void%20Disposal%20Strategy.pdf) the threshold to £300,000. [Here](http://35percent.org/img/sold_by_southwark.pdf) is a sample of some of the hundreds of properties sold at auction by the current administration.
 
 Another significant factor behind the reduction lies in the borough's ongoing estate regeneration schemes, which have seen a sharp net decrease in council homes. 
 
@@ -98,31 +98,11 @@ In a [BBC interview](https://youtu.be/Emvo16iBxFE?t=6m16s) he claimed _"The Heyg
 
 On his [blog](http://cllrpeterjohn.blogspot.co.uk/2012/06/development-partner-for-aylesbury.html) he repeats the same criticisms of council estates touted by the Tories and their proposed replacement by traditional street patterns: _"The answers which the Aylesbury provided were soon overshadowed by the problems which were inherent in the design of the huge monolithic and brutalist blocks.  The previous street pattern was replaced by long corridors and above-ground walkways, which paid little regard to the human desire to travel at ground level and have neighbours and communities within easy reach."_
 
-Southwark's (Labour) Cabinet member for Regeneration also once said in an [interview](https://youtu.be/dmO66YRwQG8?t=5m59s) about the Heygate: _"council estates are full of people who aren't working and are on benefits"_.
+Southwark's (Labour) Cabinet member for Regeneration is also recorded to have said in an [interview](https://youtu.be/dmO66YRwQG8?t=5m59s) about the Heygate regeneration: _"council estates are full of people who aren't working and are on benefits"_.
 
 ![](/img/cllrcolleyquote.png)
 
-
-
-__Footnotes:__  
-
-[^1]: See paragraph 3.2.3 of the Council's [Housing Asset Management Strategy](https://consultations.southwark.gov.uk/housing-community-services-department-community-engagement-team/asset-management-consultation/supporting_documents/Asset%20Management%20Strategy.pdf)
-
-[^2]: See Paragraph 5.10 (page 22) of the Savills [Asset Performance Evaluation](http://moderngov.southwark.gov.uk/documents/s55626/Appendix%204%20Savills%20Evaluation.pdf)
-
-[^3]: See the [Council's response](https://www.whatdotheyknow.com/request/297570/response/725827/attach/2/Freedom%20of%20Information%20request%20response%20for%20570900.pdf) to [this FOI request](https://www.whatdotheyknow.com/request/temporary_housing_on_estates_for#incoming-725827), which confirms it is charging more than twice the average council rent on properties located within regeneration schemes. See also [this article](http://www.southwarknews.co.uk/news/southwark-council-to-set-up-own-housing-company/) confirming that the Council has set up a private company to manage its new 'council' homes.
-
-[^4]: See [Council Assembly Question 1, 26 Jan 2016](http://moderngov.southwark.gov.uk/documents/s59593/Members%20questions%20with%20responses.pdf). NB: only 21 of the 75 Willow Walk homes are social rented council homes.
-
-[^5]: The [London Tenants Federation](http://www.londontenants.org/) has published its [analysis](/img/LTF_delivery_of_housing_in_London_2014-15.pdf) of the latest [GLA housing data](http://data.london.gov.uk/dataset/gla-affordable-housing-programme-outturn/resource/0ff48fbb-5119-4af1-9692-d0fa57093371) published for 2014/15. The analysis found that Southwark demolished more social rented homes than it built – a net loss of 170 social rented homes in total.
-
-[^6]: See Southwark's in-house architect's [Witness evidence](http://crappistmartin.github.io/images/Catherine_Bates2.pdf) to the Aylesbury CPO public inquiry.
-
-[^7]: See Silwood estate [CPO Statement of Reasons.](/img/Silwood_Estate.pdf)
-
-[^8]: See Heygate [CPO Statement of Reasons](/img/SoR.pdf) Para 7.22
-
 <meta name="twitter:card" content="summary" />
-<meta name="twitter:title" content="Completing London's Clearances" />
-<meta name="twitter:description" content="Savills advises David Cameron and Peter John how to clear London's council estates." />
-<meta name="twitter:image" content="http://crappistmartin.github.io/images/david-cameron_peter-john.jpg" />
+<meta name="twitter:title" content="The Southwark Clearances" />
+<meta name="twitter:description" content="Sharp decline in Southwark's council-owned stock" />
+<meta name="twitter:image" content="http://35percent.org/img/councilstock.png" />
