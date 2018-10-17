@@ -113,10 +113,6 @@ exclude:
   - CNAME
   - Vagrantfile
 
-# Include Chart.js
-head_scripts:
-  - https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.7.2/Chart.min.js
-
 # prose.io config
 prose:
   rooturl: '_posts'
