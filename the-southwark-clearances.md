@@ -27,12 +27,12 @@ categories: [Estate regeneration, New council homes]
                 x: -20
             },
             xAxis: {
-                categories: ['Jan', 'Feb', 'Mar', 'Apr', 'May', 'Jun',
-                    'Jul', 'Aug', 'Sep', 'Oct', 'Nov', 'Dec']
+                categories: ['1994', '1995', '1996', '1997', '1998', '1999',
+                    '2000', '2001', '2002', '2003', '2004', '2005', '2006', '2007', '2008', '2009', '2010', '2011', '2012', '2013', '2014', '2015', '2016', '2017']
             },
             yAxis: {
                 title: {
-                    text: 'Temperature (°C)'
+                    text: 'Council owned stock'
                 },
                 plotLines: [{
                     value: 0,
@@ -41,7 +41,7 @@ categories: [Estate regeneration, New council homes]
                 }]
             },
             tooltip: {
-                valueSuffix: '°C'
+                valueSuffix: 'Council homes'
             },
             legend: {
                 layout: 'vertical',
@@ -51,16 +51,7 @@ categories: [Estate regeneration, New council homes]
             },
             series: [{
                 name: 'Tokyo',
-                data: [7.0, 6.9, 9.5, 14.5, 18.2, 21.5, 25.2, 26.5, 23.3, 18.3, 13.9, 9.6]
-            }, {
-                name: 'New York',
-                data: [-0.2, 0.8, 5.7, 11.3, 17.0, 22.0, 24.8, 24.1, 20.1, 14.1, 8.6, 2.5]
-            }, {
-                name: 'Berlin',
-                data: [-0.9, 0.6, 3.5, 8.4, 13.5, 17.0, 18.6, 17.9, 14.3, 9.0, 3.9, 1.0]
-            }, {
-                name: 'London',
-                data: [3.9, 4.2, 5.7, 8.5, 11.9, 15.2, 17.0, 16.6, 14.2, 10.3, 6.6, 4.8]
+                data: [55803, 55162, 54439, 53363, 52448, 51706, 50903, 49875, 48052, 46887, 45346, 43885, 42275, 41873, 41287, 40618, 40120, 39845, 39781, 38578, 39029, 38687, 38522, 38553]
             }]
         });
 
