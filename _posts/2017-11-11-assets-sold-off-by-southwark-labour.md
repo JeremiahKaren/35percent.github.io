@@ -4,12 +4,17 @@ title: "Fact-checking council leader Peter John on social housing"
 subtitle: "No, Southwark does not have the largest council house building programme in the country"
 published: false
 ---
-In 2014, as part of its manifesto pledge Southwark Council's administration [announced](http://www.southwarklabour.co.uk/latest-news/southwark/news.aspx?p=102262) an _"ambitious but realistic plan to build 11,000 new council homes"_ across the borough over the next 30 years. In response to [concerns](http://35percent.org/the-southwark-clearances) that this would be insufficient to cover the number of council homes lost to ongoing estate regeneration, void disposal polices and Right to Buy applications over the next 30 years, Council leader Peter John issued an [open letter](http://35percent.org/img/pj11000councilhomesletter.pdf). In the letter, Councillor John asserted that the 11,000 council homes would be over and above the existing stock count - i.e. a net increase:
+In 2014, as part of its manifesto pledge Southwark Council's administration [announced](http://www.southwarklabour.co.uk/latest-news/southwark/news.aspx?p=102262) an _"ambitious but realistic plan to build 11,000 new council homes"_ across the borough over the next 30 years. Concerns were [raised by us](http://35percent.org/the-southwark-clearances) and [by others](https://crappistmartin.github.io/images/SNHeygateOverage.pdf) that this would be insufficient to cover the number of council homes lost to ongoing estate regeneration, void disposal polices and Right to Buy applications over the next 30 years.
+
+![](https://crappistmartin.github.io/images/SN1100homes.png)
+*Extract from an [article in the local newspaper](https://crappistmartin.github.io/images/SNHeygateOverage.pdf)*
+
+Council leader Peter John subsequently issued an [open letter](http://35percent.org/img/pj11000councilhomesletter.pdf). In the letter, Councillor John asserted that the 11,000 council homes would be over and above the existing stock count - i.e. a net increase:
 
 ![](http://35percent.org/img/pj11000councilhomesletter.png)
 *Extract from Council leader Peter John's [open letter](http://35percent.org/img/pj11000councilhomesletter.pdf)*
 
-[Official statistics](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/674346/LT_116.xlsx) from the government's [live tables](https://www.gov.uk/government/statistical-data-sets/live-tables-on-dwelling-stock-including-vacants) on local authority dwelling stock show that since the manifesto pledge in 2014 there has been a net reduction in Southwark's council housing stock of 476 council homes.
+Five years on we decided to take a look at whether Councillor John is delivering on his manifesto pledge. [Official statistics](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/674346/LT_116.xlsx) from the government's [live tables](https://www.gov.uk/government/statistical-data-sets/live-tables-on-dwelling-stock-including-vacants) on local authority dwelling stock show that since the manifesto pledge in 2014 there has been a net reduction in Southwark's council housing stock of 476 council homes.
 
 ![](http://35percent.org/img/livetableextract.png)
 *Extract from the government's [Live Table 116](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/674346/LT_116.xlsx)*
