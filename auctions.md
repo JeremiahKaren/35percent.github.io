@@ -46,7 +46,7 @@ For example, the Council has [cut](http://moderngov.southwark.gov.uk/documents/s
 
 ![](/img/carehomesshutdown.jpg)
 
-Besides selling off its community and social services facilities, the Council has been busy [selling off its council estates](http://35percent.org/the-southwark-clearances/), its [Town Halls](http://35percent.org/southwark-town-halls/) and street properties. In 2009, Southwark Council introduced a policy of selling off every council home that becomes void and is valued above £400,000. In 2011 this was reviewed by the incoming Labour administration which reduced the threshold to £300,000. Here are some of the properties [sold at auction](http://35percent.org/img/sold_by_southwark.pdf) by the current (Labour) administration under this policy:
+Besides selling off its community and social services facilities, the Council has been busy [selling off its council estates](http://35percent.org/the-southwark-clearances/), its [Town Halls](http://35percent.org/southwark-town-halls/) and street properties. In 2009, Southwark Council introduced a policy of selling off every council home that becomes void and is valued above £400,000. In 2011 this was [reviewed by the incoming Labour administration which reduced](http://moderngov.southwark.gov.uk/documents/s19458/Report%20Review%20of%20Void%20Disposal%20Strategy.pdf) the threshold to £300,000. Here are some of the properties [sold at auction](http://35percent.org/img/sold_by_southwark.pdf) by the current (Labour) administration under this policy:
 
 | Council House  | Address  | Sold Price  | Date  |
 |---|---|---|---|
