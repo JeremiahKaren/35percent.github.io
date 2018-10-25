@@ -58,7 +58,7 @@ Southwark's stock of Council homes used to be one of the largest in the country.
 
 </script>
 
-One of the reasons behind the reduction in council homes are the ongoing Right to Buy sales, although another significant lies in the borough's ongoing estate regeneration schemes, which have seen a sharp net decrease in council homes. 
+One of the reasons behind the reduction in council homes are the ongoing Right to Buy sales, although another significant factor lies in the borough's ongoing estate regeneration schemes, which have seen a sharp net decrease in council homes over recent years. 
 
 |   | Estate  | Council homes demolished  | Total new homes  | of which social rented  |
 |---|---|---|---|---|
