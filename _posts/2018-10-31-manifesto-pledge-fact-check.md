@@ -1,15 +1,17 @@
 ---
 layout: post
-title: "Fact-checking council leader Peter John on manifesto pledge"
-subtitle: "Instead of the promised net increase of 1500 council homes there is a net decrease of 476"
+title: Fact-checking council leader Peter John on manifesto pledge
+subtitle: >-
+  Instead of the promised net increase of 1500 council homes there is a net
+  decrease of 476
 published: false
 ---
-In 2014, as part of its manifesto pledge Southwark Council's administration [announced](http://www.southwarklabour.co.uk/latest-news/southwark/news.aspx?p=102262) an _"ambitious but realistic plan to build 11,000 new council homes"_ across the borough over the next 30 years. Concerns were [raised by us](http://35percent.org/the-southwark-clearances) and [by others](https://crappistmartin.github.io/images/SNHeygateOverage.pdf) that this would be insufficient to cover the number of council homes lost to ongoing estate regeneration, void disposal polices and Right to Buy applications over the next 30 years.
+In 2014, as part of its manifesto pledge Southwark Council's administration [announced](http://www.southwarklabour.co.uk/latest-news/southwark/news.aspx?p=102262) an _"ambitious but realistic plan to build 11,000 new council homes"_ across the borough over the next 30 years. Concerns were [raised by us](http://35percent.org/the-southwark-clearances) and [by others](https://crappistmartin.github.io/images/SNHeygateOverage.pdf) that this would fail to make up for the thousands of council homes currently being lost ongoing estate regeneration, void disposal polices and Right to Buy applications over the next 30 years.
 
 ![](https://crappistmartin.github.io/images/SN1100homes.png)
 *Extract from an [article in the local newspaper](https://crappistmartin.github.io/images/SNHeygateOverage.pdf)*
 
-Council leader Peter John subsequently issued an [open letter](http://35percent.org/img/pj11000councilhomesletter.pdf). In the letter, Councillor John asserted that the 11,000 council homes would be over and above the existing stock count - i.e. a net increase:
+Council leader Peter John subsequently issued an [open letter](http://35percent.org/img/pj11000councilhomesletter.pdf) insisting that the 11,000 council homes would be over and above the existing stock count - i.e. a net increase:
 
 ![](http://35percent.org/img/pj11000councilhomesletter.png)
 *Extract from Council leader Peter John's [open letter](http://35percent.org/img/pj11000councilhomesletter.pdf)*
@@ -59,4 +61,3 @@ How many homeless hostels have been sold off?
 What else has been sold off?
 
 Link to /auctions page.
-
