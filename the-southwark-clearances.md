@@ -76,7 +76,8 @@ One of the reasons behind the reduction in council homes are the ongoing Right t
 
 That's a loss of 7,639 council homes and net loss of 4,424 social rented homes as a direct result of Southwark's regeneration schemes to date. GLA assembly member Sian Berry [has predicted](http://www.sianberry.london/news/housing/2018_09_03_net_loss-of-council-homes-regeneration/) that Southwark is set to lose 2,196 social rented homes as a result of estate redevelopment schemes in its current pipeline (far more than any other borough). In addition, we can't even be sure that the small number of social rented homes re-provided aren't actually let at affordable rent - an increasingly common phenomenon as reported [here](http://35percent.org/redefining-social-rent/). 
 
-![](/schematicpipeline.jpg)
+![](http://35percent.org/img/schematicpipeline.jpg)
+*Extract from GLA assembly member Sian Berry's research*
 
 Needless to say that Cllr John's council house building programme is [well behind](https://www.southwarknews.co.uk/news/council-admits-will-miss-target-build-1500-new-council-homes-2018/) on delivering its 11,000 target and the few new 'council homes' that have been delivered have not only been [bought from developers](http://35percent.org/2017-04-29-blackfriars-affordable-housing-circus/) but are [being let at affordable rather than social rent](http://35percent.org/2017-04-29-blackfriars-affordable-housing-circus/#10m-wasted-and-new-council-homes-not-even-social-rent). 
 
