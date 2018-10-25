@@ -34,10 +34,10 @@ The government's statistics don't yet include figures for 2018, but with [GLA ho
 
 Faced with these facts some might suggest that Councillor John's manifesto pledge is nothing but meaningless PR spin..
 
-![](https://southwarknotes.files.wordpress.com/2012/03/pj-strata.gif)
+We are not saying that Southwark hasn't built any new council homes, only the rate at which is building has not kept up with the rate at which it is knocking them down and selling them off. This [30th Oct 2018 Cabinet report](http://moderngov.southwark.gov.uk/documents/s78248/Report%20New%20Homes%20Programme%20Delivery%20Model%20Review%202018.pdf) confirms it has built 262 so far (para 12). Although it is not clare whether these have all been let at council rents. The [appendix](http://moderngov.southwark.gov.uk/documents/s78251/Appendix%202%20Map%20showing%20approved%20schemes.pdf) to the report lists the council homes simply as 'rented units' and we have [blogged previously] about new 'council homes' being let at a percentage of market rent (40%) rather than social rent (which is currently approx 20% of market rent). 
 
-## A different ... .. 
-We are not saying that Southwark hasn't built any new council homes; it [claims](https://www.southwark.gov.uk/housing/major-works-and-new-homes/new-homes/new-homes-delivery?chapter=2) to have built 291 so far (without providing a full breakdown). It just clearly hasn't built enough to compete with the pace at which it is knocking its existing council homes down or selling them off.
+In addition, 112 of these new 'council homes' is temporary accommodation in hostels (Willow walk - 75 units, Good Neighbours House - 37 units) which are let a [LHA rent levels](https://lha-direct.voa.gov.uk/SearchResults.aspx?LocalAuthorityId=28&LHACategory=999&Month=10&Year=2018&SearchPageParameters=true), which are more than twice current council rent levels.
+
 
 Conscious of its manifesto commitment and problems finding enough space to build all the new council homes it has promised, Southwark is now turning to a different strategy - buying section 106 homes. These are the rented element of affordable homes in new developments that a developer is obliged to build in accordance with planning policy.
 
