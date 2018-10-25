@@ -58,7 +58,7 @@ Southwark's stock of Council homes used to be one of the largest in the country.
 
 </script>
 
-Another significant factor behind the reduction lies in the borough's ongoing estate regeneration schemes, which have seen a sharp net decrease in council homes. 
+One of the reasons behind the reduction in council homes are the ongoing Right to Buy sales, although another significant lies in the borough's ongoing estate regeneration schemes, which have seen a sharp net decrease in council homes. 
 
 |   | Estate  | Council homes demolished  | Total new homes  | of which social rented  |
 |---|---|---|---|---|
@@ -74,9 +74,9 @@ Another significant factor behind the reduction lies in the borough's ongoing es
 
 ![](http://35percent.org/img/kthb1.jpg)
 
-That's a loss of 7,639 council homes and net loss of 4,424 social rented homes as a direct result of Southwark's regeneration schemes to date. The [GLA has predicted](https://www.london.gov.uk/press-releases/assembly/darren-johnson/loss-of-social-housing-through-estate-regeneration) that Southwark will lose 2,051 social rented homes as a result of schemes in its current pipeline (far more than any other borough) and GLA figures [show that](http://35percent.org/2016-05-07-southwark-in-bottom-3-boroughs-for-affordable-housing-delivery/) Southwark is in the bottom 3 boroughs for affordable housing delivery. In addition, we can't even be sure that the small number of social rented housing provided isn't actually affordable rent or won't morph into it - as reported [here](http://35percent.org/redefining-social-rent/). 
+That's a loss of 7,639 council homes and net loss of 4,424 social rented homes as a direct result of Southwark's regeneration schemes to date. GLA assembly member Sian Berry [has predicted](http://www.sianberry.london/news/housing/2018_09_03_net_loss-of-council-homes-regeneration/) that Southwark is set to lose 2,196 social rented homes as a result of estate redevelopment schemes in its current pipeline (far more than any other borough). In addition, we can't even be sure that the small number of social rented homes re-provided aren't actually let at affordable rent - an increasingly common phenomenon as reported [here](http://35percent.org/redefining-social-rent/). 
 
-![Mayor Johnson and council leader Peter John celebrating Heygate redevelopment](http://35percent.org/img/bojoandpj2.jpg)
+![](/schematicpipeline.jpg)
 
 Needless to say that Cllr John's council house building programme is [well behind](https://www.southwarknews.co.uk/news/council-admits-will-miss-target-build-1500-new-council-homes-2018/) on delivering its 11,000 target and the few new 'council homes' that have been delivered have not only been [bought from developers](http://35percent.org/2017-04-29-blackfriars-affordable-housing-circus/) but are [being let at affordable rather than social rent](http://35percent.org/2017-04-29-blackfriars-affordable-housing-circus/#10m-wasted-and-new-council-homes-not-even-social-rent). 
 
