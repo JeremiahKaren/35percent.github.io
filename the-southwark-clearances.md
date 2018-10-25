@@ -102,9 +102,6 @@ In a [BBC interview](https://youtu.be/Emvo16iBxFE?t=6m16s) he claimed _"The Heyg
 
 On his [blog](http://cllrpeterjohn.blogspot.co.uk/2012/06/development-partner-for-aylesbury.html) he repeats the same criticisms of council estates touted by the Tories and their proposed replacement by traditional street patterns: _"The answers which the Aylesbury provided were soon overshadowed by the problems which were inherent in the design of the huge monolithic and brutalist blocks.  The previous street pattern was replaced by long corridors and above-ground walkways, which paid little regard to the human desire to travel at ground level and have neighbours and communities within easy reach."_
 
-Southwark's (Labour) Cabinet member for Regeneration is also recorded to have said in an [interview](https://youtu.be/dmO66YRwQG8?t=5m59s) about the Heygate regeneration: _"council estates are full of people who aren't working and are on benefits"_.
-
-![](/img/cllrcolleyquote.png)
 
 <meta name="twitter:card" content="summary" />
 <meta name="twitter:title" content="The Southwark Clearances" />
