@@ -32,14 +32,15 @@ The government's statistics don't yet include figures for 2018, but with [GLA ho
 ![](http://35percent.org/img/glacompletions.png)
 *Extract from the latest [GLA housing delivery dataset](https://www.london.gov.uk/sites/default/files/affordable_housing_starts_and_completions_-_end_of_june_2018.xls)*
 
-Faced with these facts some might suggest that Councillor John's manifesto pledge is nothing but meaningless PR spin..
+The figures don't say that Southwark hasn't built any new council homes, only that the rate at which is building has not kept up with the rate at which it is knocking them down and selling them off. This [30th Oct 2018 Cabinet report](http://moderngov.southwark.gov.uk/documents/s78248/Report%20New%20Homes%20Programme%20Delivery%20Model%20Review%202018.pdf) confirms that the council has built 262 so far (para 12). 
 
-We are not saying that Southwark hasn't built any new council homes, only the rate at which is building has not kept up with the rate at which it is knocking them down and selling them off. This [30th Oct 2018 Cabinet report](http://moderngov.southwark.gov.uk/documents/s78248/Report%20New%20Homes%20Programme%20Delivery%20Model%20Review%202018.pdf) confirms it has built 262 so far (para 12). Although it is not clare whether these have all been let at council rents. The [appendix](http://moderngov.southwark.gov.uk/documents/s78251/Appendix%202%20Map%20showing%20approved%20schemes.pdf) to the report lists the council homes simply as 'rented units' and we have [blogged previously] about new 'council homes' being let at a percentage of market rent (40%) rather than social rent (which is currently approx 20% of market rent). 
+Although it is not clear whether these have all been let at council rents. The [appendix](http://moderngov.southwark.gov.uk/documents/s78251/Appendix%202%20Map%20showing%20approved%20schemes.pdf) to the report lists the council homes simply as 'rented units' and we have [blogged previously](http://35percent.org/2017-04-29-blackfriars-affordable-housing-circus/#10m-wasted-and-new-council-homes-not-even-social-rent) about new 'council homes' now being let at a percentage of market rent (40%) rather than social rent (which is currently approx 20% of market rent). 
 
 In addition, 112 of these new 'council homes' is temporary accommodation in hostels (Willow walk - 75 units, Good Neighbours House - 37 units) and is [let](http://moderngov.southwark.gov.uk/documents/s65880/Temporary%20Accommodation%20Report.pdf) at [LHA rent levels](https://lha-direct.voa.gov.uk/SearchResults.aspx?LocalAuthorityId=28&LHACategory=999&Month=10&Year=2018&SearchPageParameters=true), which are more than twice current council rent levels.
 
+![](http://35percent.org/img/lharates.png)
 
-Conscious of its manifesto commitment and problems finding enough space to build all the new council homes it has promised, Southwark is now turning to a different strategy - buying section 106 homes. These are the rented element of affordable homes in new developments that a developer is obliged to build in accordance with planning policy.
+Conscious of its manifesto commitment and failure to build the number of new homes promised, Southwark is now turning to a different strategy - buying section 106 homes from developers. These are the rented element of affordable homes in new developments that a developer is obliged to build in accordance with planning policy.
 
 One such example is 
 
