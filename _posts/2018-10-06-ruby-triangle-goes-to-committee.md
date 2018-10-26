@@ -68,7 +68,7 @@ The capital has a shortage of waste recycling facilities, so the Mayor's London 
 ![](http://35percent.org/img/rubytrianglewaste.png)
 *Extract from the [planning committee report](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!S%2bIqqCm1W5sBBPLbS6aFWQ%3d%3d!%7d%7d%7d)*
 
-The  [planning committee](http://moderngov.southwark.gov.uk/ieListDocuments.aspx?CId=119&MId=6037&Ver=4) meets at Southwark Council's offices at 160 Tooley St at 6.30pm Tues 9 Oct.
+We will be making representations to the Council's [planning committee](http://moderngov.southwark.gov.uk/ieListDocuments.aspx?CId=119&MId=6037&Ver=4) which will decide the application at Southwark Council's offices (160 Tooley St) at 6.30pm Mon 29th Oct. 
 
 __Footnotes:__  
 
