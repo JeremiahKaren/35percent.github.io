@@ -10,12 +10,15 @@ Shopping Centre traders and campaigners have taken the first step towards a lega
 
 The seven page letter gives two grounds for rescinding the permission. First, that the committee was misled about public funding for social housing. The report says that Mayoral funding, through the Greater London Authority, was secured for an increase of social rented housing from 74 to 116 units, when this was not the case.  Second, that Southwark had no properly fulfilled its publIc sector equality duty (PSED) properly, neglecting any measurement of the impact on Latin American natinals, such as Colombians.  The letter gives a deadline for reply of 24 Oct 2018 and this is still awaited.
 
-S106
+Aside from this the Mayor will be having his say once the draft legal agreement that would seal the planning approval is completed.  He has said he is ['keen to ensure that it delivers as much genuinely affordable housing as possible'](https://www.insidehousing.co.uk/news/news/khan-keen-for-elephant--castle-development-to-deliver-affordable-housing-58462)
+.” 
 Mayor call-in
 
 ## Castle Square objections
 
-Should the development survive any legal chaSeperately Latin Elephant and the [Elephant Traders have objected to](https://planning.southwark.gov.uk/online-applications/applicationDetails.do?activeTab=neighbourComments&keyVal=_STHWR_DCAPR_9578882) have objected to the [planning application]() for temporary retail accommodation for traders displaced from the shopping centre, for a period of 5 years, until the Elephant & Castle Shopping Centre development has been completed. Traders would then have the first right of refusal back into the shopping centre.
+Should the development survive any legal challenge or call-in from the Mayor, developers Delancey must provide a temporary facility for displaced independant traders as a condition of any planning approval.
+
+They have duly odged a planning application for this, but it is inadequate  proposals for this aLatin Elephant and the [Elephant Traders have objected to](https://planning.southwark.gov.uk/online-applications/applicationDetails.do?activeTab=neighbourComments&keyVal=_STHWR_DCAPR_9578882) have objected to the [planning application]() for temporary retail accommodation for traders displaced from the shopping centre, for a period of 5 years, until the Elephant & Castle Shopping Centre development has been completed. Traders would then have the first right of refusal back into the shopping centre.
 
 The facility is being provided by the developers of the shopping centre Delancey as a [condition](http://moderngov.southwark.gov.uk/mgAi.aspx?ID=49413) of the the shopping centre planning approval and would be on land owned by Southwark, but currently [leased to Delancy on a peppercorn rent](http://35percent.org/2016-06-26-restricted-access-elephant-park/) and a share of future revenue from the market.  The planning condition implies that Delancey will now be buying the land from Southwark.
 
@@ -41,7 +44,6 @@ and that the following should be agreed with the traders;
 -	hours of trade
 -	disability access
 - 	remit and format of a Traders Panel that truly represents their interests
-
 
    
 
