@@ -32,7 +32,7 @@ The Castle Square facility would last for 5 years, until the Elephant & Castle S
 
 The facility is a valuable gain for the traders, won by their campaign for a fair deal. Latin Elephant and the Elephant Traders welcome the concession, but have also [objected](https://planning.southwark.gov.uk/online-applications/applicationDetails.do?activeTab=neighbourComments&keyVal=_STHWR_DCAPR_9578882) that the proposed building is too small and would have trading restrictions that would make it an impractical premises for many of the displaced businesses. [Delancey's  proposals](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!hAV0cqN%2bsOq%2febuFpH0spQ%3d%3d!%7d%7d%7d) mention 33 independent traders, while the trader's own estimate is that there is a need to provide for over a 100 traders. There are also many other issues, including the level of rents and service charges, the security of tenacy arrangements, selection criteria and disability access.
 
-Delancey have agreed to the establishment of a Traders Panel and traders want these issues, and the size of the relocation fund, (currently at an insufficient £634,700) to be decided by the Panel, but trader representations on the remit and format of the Panel have gone unanswered.
+Delancey have agreed to the establishment of a Traders Panel and traders want these issues, and the size of the relocation fund (currently at an insufficient £634,700) to be decided by the Panel, but trader representations on the remit and format of the Panel have gone unanswered.
 
 ## Delancey is not there yet
 
