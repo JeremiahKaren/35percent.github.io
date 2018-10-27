@@ -10,7 +10,7 @@ Shopping Centre traders and campaigners have taken the first step towards a lega
 
 The seven page letter gives two grounds for rescinding the permission. First, that the committee was misled about public funding for social housing. The report says that Mayoral funding, through the Greater London Authority, was secured for an increase of social rented housing from 74 to 116 units, when this was not the case.  Second, that Southwark had no properly fulfilled its publIc sector equality duty (PSED) properly, neglecting any measurement of the impact on Latin American natinals, such as Colombians.  The letter gives a deadline for reply of 24 Oct 2018 and this is still awaited.
 
-Aside from this the Mayor will be having his say once the draft legal S106 agreement that would seal the planning approval is complete; campaigners have written an [open letter](https://twitter.com/UpTheElephant_) asking him to reject the approval as it stands.
+Aside from this the Mayor will be having his say once the draft legal S106 agreement that would seal the planning approval is complete; campaigners have written an [open letter](https://twitter.com/UpTheElephant_) asking him to reject the approval as it stands.  
 He has said he is ['keen to ensure that it delivers as much genuinely affordable housing as possible'](https://www.insidehousing.co.uk/news/news/khan-keen-for-elephant--castle-development-to-deliver-affordable-housing-58462).
 
 
@@ -18,13 +18,13 @@ He has said he is ['keen to ensure that it delivers as much genuinely affordable
 
 Should the development survive any legal challenge or call-in from the Mayor, developers Delancey must provide a temporary facility for displaced independant traders as a condition of any planning approval.
 
-They have duly odged a planning application for this, but it is inadequate  proposals for this aLatin Elephant and the [Elephant Traders have objected to](https://planning.southwark.gov.uk/online-applications/applicationDetails.do?activeTab=neighbourComments&keyVal=_STHWR_DCAPR_9578882) have objected to the [planning application]() for temporary retail accommodation for traders displaced from the shopping centre, for a period of 5 years, until the Elephant & Castle Shopping Centre development has been completed. Traders would then have the first right of refusal back into the shopping centre.
+They have duly lodged a planning application for this, but it is inadequate  proposals for this aLatin Elephant and the [Elephant Traders have objected to](https://planning.southwark.gov.uk/online-applications/applicationDetails.do?activeTab=neighbourComments&keyVal=_STHWR_DCAPR_9578882) have objected to the [planning application]() for temporary retail accommodation for traders displaced from the shopping centre, for a period of 5 years, until the Elephant & Castle Shopping Centre development has been completed. Traders would then have the first right of refusal back into the shopping centre.
 
 The facility is being provided by the developers of the shopping centre Delancey as a [condition](http://moderngov.southwark.gov.uk/mgAi.aspx?ID=49413) of the the shopping centre planning approval and would be on land owned by Southwark, but currently [leased to Delancy on a peppercorn rent](http://35percent.org/2016-06-26-restricted-access-elephant-park/) and a share of future revenue from the market.  The planning condition implies that Delancey will now be buying the land from Southwark.
 
 The temporary facility is valuable gain for the traders, won by their campaign for a fair deal, but the proposed building is too small and would have trading restrictions that would make it an impractical alternative for many businesses.  The building is designed for 24 traders, [Delancey's  proposals]() mention 33 independent traders, while the trader's own estimate is that there is a need to provide for over a 100 traders. There are many other issues, including the level of rents and service charges, the security of tenacy arrangements, restrictions on opening hours would be charge,  
 
-Delancey have agreed to the establishment of a Traders Panel and traders want these issues to be decided by the Panel, but trader representations on the remit and format of the Panel have gone unanswered.
+Delancey have agreed to the establishment of a Traders Panel and traders want these issues, and the size of the relocation fund, (currently at an insufficient £634,700) to be decided by the Panel, but trader representations on the remit and format of the Panel have gone unanswered.
 
 Should it survive any legal The development of th shopping centre cannot go ahead without the approval of the Castle Square temporary facility.  The 
 Objection
@@ -44,6 +44,7 @@ and that the following should be agreed with the traders;
 -	hours of trade
 -	disability access
 - 	remit and format of a Traders Panel that truly represents their interests
+-	a sufficient relocation
 
    
 
