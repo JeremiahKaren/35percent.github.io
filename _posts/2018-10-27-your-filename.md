@@ -15,13 +15,9 @@ Mayor call-in
 
 ## Castle Square objections
 
-Seperately Latin Elephant and the [Elephant Traders have objected to](https://planning.southwark.gov.uk/online-applications/applicationDetails.do?activeTab=neighbourComments&keyVal=_STHWR_DCAPR_9578882) the planning application for the proposed new temporary facility for displaced traders on Castle Square.  The facility is being provided by the developers of the shopping centre Delancey as a [condition](http://moderngov.southwark.gov.uk/mgAi.aspx?ID=49413) of the the shopping centre planning approval on land owned by Southwark and [leased to Delancy on a peppercorn rent] (http://35percent.org/2016-06-26-restricted-access-elephant-park/) plus a share of profits from the.
+Seperately Latin Elephant and the [Elephant Traders have objected to](https://planning.southwark.gov.uk/online-applications/applicationDetails.do?activeTab=neighbourComments&keyVal=_STHWR_DCAPR_9578882) the planning application for the proposed new temporary facility for displaced traders on Castle Square.  The facility is being provided by the developers of the shopping centre Delancey as a [condition](http://moderngov.southwark.gov.uk/mgAi.aspx?ID=49413) of the the shopping centre planning approval and would be on land owned by Southwark, but [leased to Delancy on a peppercorn rent](http://35percent.org/2016-06-26-restricted-access-elephant-park/) plus a share of revenue from the market.
 
-
-
-
-
-and is a valuable gain for the traders, won by their campaign for a fair deal, but the proposed building is too small and would have restrictions on trading that would make it an impractical alternative for many traders.  The market is designed for 24 traders, Delancey proposals mention 33 independent traders, while the trader's own estimate is tha over a 100 need to be provided forThere are many other issues, including the level of rents and service charges, the security of the trnacy arrangementswould be charge  
+The proposed facility is valuable gain for the traders, won by their campaign for a fair deal, but the proposed building is too small and would have restrictions on trading that would make it an impractical alternative for many traders.  The market is designed for 24 traders, Delancey proposals mention 33 independent traders, while the trader's own estimate is tha over a 100 need to be provided forThere are many other issues, including the level of rents and service charges, the security of the trnacy arrangementswould be charge  
 
 
 
