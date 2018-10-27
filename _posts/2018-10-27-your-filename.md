@@ -6,7 +6,7 @@ title: Elephant Shopping Centre -  traders and campaigners fight for a fair deal
 
 ## Up the Elephant
 
-Shopping Centre traders and campaigners have taken the first step towards a legal challenge to Southwark Council's approval of the shopping centre planning application.  The [Public Interest Unit](http://www.pilu.org.uk/paul-heron/) of Lambeth Law Centre, acting on behalf of the Up the Elephant campaign and Latin Elephant, sent a pre-action letter to Southwark, asking it to rescind the decision taken by the planning committee on xxxx, or return the application to the committee.  If the Council fails to do this campaigners and traders will apply to the High Court for an order to quash the decision.  The campaign is supported by Southwark Law Centre and barrister Sarah Sacksman, of Francis Taylor Building has agreed to represent the campaign.
+Shopping Centre traders and campaigners have taken the first step towards a legal challenge to Southwark Council's approval of the shopping centre planning application.  The [Public Interest Unit](http://www.pilu.org.uk/paul-heron/) of Lambeth Law Centre, acting on behalf of the Up the Elephant campaign and Latin Elephant, sent a pre-action letter to Southwark, asking it to rescind the decision taken by the planning committee on xxxx, or return the application to the committee.  If the Council fails to do this campaigners and traders will apply to the High Court for an order to quash the decision.  The campaign is supported by Southwark Law Centre and barrister [Sarah Sackman](https://www.ftbchambers.co.uk/barristers/sarah-sackman) of Francis Taylor Building has agreed to represent the campaign.
 
 The seven page letter gives two grounds for rescinding the permission. First, that the committee was misled about public funding for social housing. The report says that Mayoral funding, through the Greater London Authority, was secured for an increase of social rented housing from 74 to 116 units, when this was not the case.  Second, that Southwark had no properly fulfilled its publIc sector equality duty (PSED) properly, neglecting any measurement of the impact on Latin American natinals, such as Colombians.  The letter gives a deadline for reply of 24 Oct 2018 and this is still awaited.
 
@@ -15,7 +15,7 @@ Mayor call-in
 
 ## Castle Square objections
 
-Seperately Latin Elephant and the [Elephant Traders have objected to](https://planning.southwark.gov.uk/online-applications/applicationDetails.do?activeTab=neighbourComments&keyVal=_STHWR_DCAPR_9578882) the planning application for the proposed new temporary facility for displaced traders on Castle Square.  The facility is beiong provided by the developers of the shopping centre Delancey as a [condition](http://moderngov.southwark.gov.uk/mgAi.aspx?ID=49413) of the the shopping centre planning approval
+Seperately Latin Elephant and the [Elephant Traders have objected to](https://planning.southwark.gov.uk/online-applications/applicationDetails.do?activeTab=neighbourComments&keyVal=_STHWR_DCAPR_9578882) the planning application for the proposed new temporary facility for displaced traders on Castle Square.  The facility is being provided by the developers of the shopping centre Delancey as a [condition](http://moderngov.southwark.gov.uk/mgAi.aspx?ID=49413) of the the shopping centre planning approval on land owned by Southwark and [leased to Delancy on a peppercorn rent] (http://35percent.org/2016-06-26-restricted-access-elephant-park/) plus a share of profits from the.
 
 
 
