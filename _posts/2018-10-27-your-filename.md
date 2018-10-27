@@ -56,6 +56,6 @@ and that the following should be agreed with the traders;
 -	selection criteria, should they be needed 
 -	hours of trade
 -	disability access
-- 	remit and format of a Traders Panel that truly represents their interests
+- 	the remit and format of a Traders Panel that truly represents their interests
 -	a sufficient relocation fund
 
