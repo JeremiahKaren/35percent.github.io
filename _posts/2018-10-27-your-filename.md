@@ -1,7 +1,7 @@
 ---
 layout: post
 published: false
-title: Elephant Shopping Centre -  traders and campaigners fight for a fair deal
+title: Elephant Shopping Centre traders step-up the fight for a fair deal
 ---
 
 ## Up the Elephant
