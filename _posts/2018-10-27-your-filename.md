@@ -17,9 +17,13 @@ Mayor call-in
 
 Seperately Latin Elephant and the [Elephant Traders have objected to](https://planning.southwark.gov.uk/online-applications/applicationDetails.do?activeTab=neighbourComments&keyVal=_STHWR_DCAPR_9578882) have objected to the [planning application]() for temporary retail accommodation for traders displaced from the shopping centre, for a period of 5 years, until the Elephant & Castle Shopping Centre development has been completed. Traders would then have the first right of refusal back into the shopping centre.
 
-The facility is being provided by the developers of the shopping centre Delancey as a [condition](http://moderngov.southwark.gov.uk/mgAi.aspx?ID=49413) of the the shopping centre planning approval and would be on land owned by Southwark, but [leased to Delancy on a peppercorn rent](http://35percent.org/2016-06-26-restricted-access-elephant-park/) and a share of revenue from the market.
+The facility is being provided by the developers of the shopping centre Delancey as a [condition](http://moderngov.southwark.gov.uk/mgAi.aspx?ID=49413) of the the shopping centre planning approval and would be on land owned by Southwark, but currently [leased to Delancy on a peppercorn rent](http://35percent.org/2016-06-26-restricted-access-elephant-park/) and a share of future revenue from the market.  The planning condition implies that Delancey will now be buying the land from Southwark.
 
-The temporary facility is valuable gain for the traders, won by their campaign for a fair deal, but the proposed building is too small and would have trading restrictions that would make it an impractical alternative for many businesses.  The building is designed for 24 traders, [Delancey's  proposals]() mention 33 independent traders, while the trader's own estimate is that there is a need to provide for over a 100 traders. There are many other issues, including the level of rents and service charges, the security of tenacy arrangements, restrictions on opening hours would be charge  
+The temporary facility is valuable gain for the traders, won by their campaign for a fair deal, but the proposed building is too small and would have trading restrictions that would make it an impractical alternative for many businesses.  The building is designed for 24 traders, [Delancey's  proposals]() mention 33 independent traders, while the trader's own estimate is that there is a need to provide for over a 100 traders. There are many other issues, including the level of rents and service charges, the security of tenacy arrangements, restrictions on opening hours would be charge 
+
+
+
+   
 
 
 
