@@ -21,6 +21,21 @@ The facility is being provided by the developers of the shopping centre Delancey
 
 The temporary facility is valuable gain for the traders, won by their campaign for a fair deal, but the proposed building is too small and would have trading restrictions that would make it an impractical alternative for many businesses.  The building is designed for 24 traders, [Delancey's  proposals]() mention 33 independent traders, while the trader's own estimate is that there is a need to provide for over a 100 traders. There are many other issues, including the level of rents and service charges, the security of tenacy arrangements, restrictions on opening hours would be charge 
 
+Objection
+
+We welcome this proposed development as some mitigation to the detrimental impact of the redevelopment of the shopping centre on local independent traders.
+
+However, the proposals require changes if the development is to benefit the number of traders who need help.
+We therefore support the comments and suggestions made by the Elephant Traders Association and Latin Elephant for improvements to the proposals, and ask that before any planning permission is granted that
+
+-	the size of the facility be increased to accommodate all the displaced independent traders who require new premises
+
+and the following should be agreed with the traders;
+-	the rents and service charge levels
+-	secure tenancy arrangements
+-	selection criteria, should they be needed 
+-	hours of trade
+-	disability access
 
 
    
