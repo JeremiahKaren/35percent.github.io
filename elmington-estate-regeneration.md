@@ -23,7 +23,7 @@ We wonder how long it will be before these too are condemned for redevelopment..
 Phase 2 comprises sites A and B, which are being redeveloped By Notting Hill Housing Group, where [planning documents](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!XXOecz%2bOmRk2JFLLeX0iRw%3d%3d!%7d%7d%7d) confirm that it has [demolished](http://directobjective.blogspot.co.uk/2011/12/elmington-estate-revisited.html) 294 Council homes and is replacing them with 279 homes and 117 car parking spaces in a 'mixed tenure' development that it has branded [Camberwell Fields](http://www.camberwellfields.com/). 
 
 ![](http://crappistmartin.github.io/images/camberwellfieldslogo.png)
-*Notting Hill's marketing for redeveloped site A&B*
+*Notting Hill's redeveloped site A&B; note that the taller block overlooking the park is entirely private flats*
 
 ![](http://crappistmartin.github.io/images/elmingtonestate.jpg)
 *Elmington site A&B demolition*
