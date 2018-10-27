@@ -6,7 +6,7 @@ title: Elephant Shopping Centre - traders and campaigners step-up the fight
 
 ## Campaigners mount legal challenge and object to small temporary premises
 
-Elephant shopping Centre traders and local campaigners have taken the first step of a legal challenge to Southwark Council's [resolution to approve](http://moderngov.southwark.gov.uk/mgAi.aspx?ID=49413) the [shopping centre planning application](https://planning.southwark.gov.uk/online-applications/simpleSearchResults.do?action=firstPage), while also objecting to the small size of a proposed temporary facility for their relocation during the 5 years it would take to redevelope the centre.
+Elephant shopping Centre traders and local campaigners have taken the first step of a legal challenge to Southwark Council's [resolution to approve](http://moderngov.southwark.gov.uk/mgAi.aspx?ID=49413) the [shopping centre planning application](https://planning.southwark.gov.uk/online-applications/simpleSearchResults.do?action=firstPage), while also objecting to the small size of a [proposed temporary facility](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!hAV0cqN%2bsOq%2febuFpH0spQ%3d%3d!%7d%7d%7d) for their relocation during the 5 years it would take to redevelope the centre.
 
 The [Public Interest Unit](http://www.pilu.org.uk/paul-heron/) (PIU) of Lambeth Law Centre has written to Southwark, asking it to rescind the decision taken by the planning committee on 3 July 2018, or return the application to the committee.  If the Council fails to do this an application will be made to the [Planning Court](https://www.gov.uk/courts-tribunals/planning-court) to quash the decision. 
 
