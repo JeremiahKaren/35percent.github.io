@@ -66,10 +66,10 @@ Tenants and leaseholders are currently being 'decanted' i.e. [evicted](https://h
 *Sites C & D being demolished to make way for _Elmington Green_*
 
 ## Net loss
-Phases 1&2 (375 demolished) 136 replaced on phase 1; 22 on phase 2 (affordable rent) 
-Phase 3 (144 demolished) - 57 social rented replacements.
+Phases 1&2 (375 demolished) 136 council homes replaced on phase 1; 22 replacements on phase 2 (social/affordable rent) 
+Phase 3 (144 demolished) - 57 social/affordable rented replacements.
 
-Even if we were to count affordable rent as replacement 'social' housing - we have a net loss of 323 social rented units across the estate.
+In summary that's 519 council homes demolished on the Elmington estate, with just 136 replacement council homes - a net loss of 383 council homes.
 
 ## The costs vs the benefits
 In 2009, the Council [estimated](http://moderngov.southwark.gov.uk/documents/s9280/Executive%20report.pdf) that refurbishing the estate would cost a total of £10m. 
