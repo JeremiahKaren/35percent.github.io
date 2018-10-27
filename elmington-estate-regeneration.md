@@ -6,9 +6,9 @@ footer: true
 ---
 ![](/img/elmingtonsnotes.jpg)
 
-The decision to redevelop the Elmington estate was taken as part of the ['Southwark Estates Initiative'](http://embed.verite.co/timeline/?source=0Aprl6XcACewydEhRaWFOLVBfUjBSVW1HUGVZNEhGeFE&font=Bevan-PotanoSans&maptype=toner&lang=en&hash_bookmark=true&start_zoom_adjust=2&height=650#1), a regeneration strategy devised by Southwark's Labour administration as part of New Labour's 'Urban Task Force' urban renewal strategy. 
+The decision to redevelop the Elmington estate was taken as part of the ['Southwark Estates Initiative'](http://embed.verite.co/timeline/?source=0Aprl6XcACewydEhRaWFOLVBfUjBSVW1HUGVZNEhGeFE&font=Bevan-PotanoSans&maptype=toner&lang=en&hash_bookmark=true&start_zoom_adjust=2&height=650#1), a regeneration strategy devised by Southwark's Labour administration as part of New Labour's ['Urban Task Force'](http://en.wikipedia.org/wiki/Towards_an_Urban_Renaissance) urban renewal strategy. Despite being found structurally sound the estate was earmarked for demolition as part of this new renewal strategy, which sought to create more 'mixed communities'.
 
-The Elmington regeneration is split into 10 blocks (A-J), of which F, H, I and J will be refurbished and the remainder redeveloped.
+The regeneration plans split the Elmington estate into 10 blocks (A-J), of which it was decided that the (predominantly high-rise) blocks F, H, I and J would be refurbished and the remainder redeveloped.
 
 ![](/img/elmingtonphasingplan.jpg)
 
