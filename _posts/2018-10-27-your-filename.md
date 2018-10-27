@@ -22,7 +22,7 @@ Aside from the legal challange, the Mayor Sadiq Khan will also be having his say
 
 ## A temporary new home for traders...
 
-As well as contending with the consequences of any legal challenge or call-in from the Mayor, developers Delancey must also provide a temporary facility for displaced independant traders, as a [condition](http://moderngov.southwark.gov.uk/mgAi.aspx?ID=49413) of planning approval for the shopping centre redevelopment.
+As well as contending with the consequences of any legal challenge or a call-in from the Mayor, developers Delancey must also provide a temporary facility for displaced independant traders, as a [condition](http://moderngov.southwark.gov.uk/mgAi.aspx?ID=49413) of planning approval for the shopping centre redevelopment.
 
 Delancey have had to make another planning application to do  this and [propose a 2/3 storey building](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!hAV0cqN%2bsOq%2febuFpH0spQ%3d%3d!%7d%7d%7d) on the Castle Square market place, on their adjoining development [Elephant One](http://35percent.org/tribeca-square/).  Castle Square is on  land owned by Southwark Council, but currently [leased to Delancy on a peppercorn rent](http://35percent.org/2016-06-26-restricted-access-elephant-park/) and a share revenue from the Square's future street market.  The shopping centre planning condition implies that Delancey will now be buying that land from Southwark.
 
