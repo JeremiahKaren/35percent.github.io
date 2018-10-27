@@ -16,16 +16,17 @@ The seven page pre action letter gives two grounds for rescinding the permission
 
 Aside from the legal challange, the Mayor Sadique Khan Mayor will also be having his say, once the draft legal S106 agreement that would seal the planning approval is complete and campaigners have written an [open letter](https://twitter.com/UpTheElephant_) asking him to reject the approval as it stands. Local ward councillors [added their voice](https://www.southwarknews.co.uk/news/ward-councillors-call-on-sadiq-khan-to-fix-moral-and-policy-failings-in-approved-elephant-and-castle-regeneration-plans/) to the call as did assembley member[Sian Berry](www.southwarkgreenparty.org.uk/call_in_the_elephant_decision_says_sian).  Mayor Sadique Khan has himself said he is ['keen to ensure that it delivers as much genuinely affordable housing as possible'](https://www.insidehousing.co.uk/news/news/khan-keen-for-elephant--castle-development-to-deliver-affordable-housing-58462).
 
-
-## Castle Square objections
+## A temporary new home for traders...
 
 As well as contending with the consequences of any legal challenge or call-in from the Mayor, developers Delancey must also provide a temporary facility for displaced independant traders, as a [condition](http://moderngov.southwark.gov.uk/mgAi.aspx?ID=49413) of planning approval for the shopping centre redevelopment.
 
 Delancey have made another planning application to do  this, [proposing a 2/3 storey building](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!hAV0cqN%2bsOq%2febuFpH0spQ%3d%3d!%7d%7d%7d) on what is known as Castle Square, on Delancey's adjoining development [Elephant One](http://35percent.org/tribeca-square/).  Castle Square is on  land owned by Southwark Council, but currently [leased to Delancy on a peppercorn rent](http://35percent.org/2016-06-26-restricted-access-elephant-park/) and a share revenue from the Square's future street market.  The shopping centre planning condition implies that Delancey will now be buying that land from Southwark.
 
-The Castle Square facility would last for 5 years, until the Elephant & Castle Shopping Centre development has been completed. Traders would then have the first right of refusal back into the shopping centre. 
+The Castle Square facility would last for 5 years, until the Elephant & Castle Shopping Centre development has been completed. Traders would then have the first right of refusal back into the shopping centre.
 
-The facility is a valuable gain for the traders, won by their campaign for a fair deal. Latin Elephant and the Elephant Traders welcome the concession, but have also [objected](https://planning.southwark.gov.uk/online-applications/applicationDetails.do?activeTab=neighbourComments&keyVal=_STHWR_DCAPR_9578882) that the proposed building is too small and would have trading restrictions that would make it an impractical premises for many of the displaced businesses.[Delancey's  proposals](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!hAV0cqN%2bsOq%2febuFpH0spQ%3d%3d!%7d%7d%7d) mention 33 independent traders, while the trader's own estimate is that there is a need to provide for over a 100 traders. There are also many other issues, including the level of rents and service charges, the security of tenacy arrangements, selection criteria, disability access.
+## ..but better is needed...
+
+The facility is a valuable gain for the traders, won by their campaign for a fair deal. Latin Elephant and the Elephant Traders welcome the concession, but have also [objected](https://planning.southwark.gov.uk/online-applications/applicationDetails.do?activeTab=neighbourComments&keyVal=_STHWR_DCAPR_9578882) that the proposed building is too small and would have trading restrictions that would make it an impractical premises for many of the displaced businesses.[Delancey's  proposals](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!hAV0cqN%2bsOq%2febuFpH0spQ%3d%3d!%7d%7d%7d) mention 33 independent traders, while the trader's own estimate is that there is a need to provide for over a 100 traders. There are also many other issues, including the level of rents and service charges, the security of tenacy arrangements, selection criteria and disability access.
 
 Delancey have agreed to the establishment of a Traders Panel and traders want these issues, and the size of the relocation fund, (currently at an insufficient £634,700) to be decided by the Panel, but trader representations on the remit and format of the Panel have gone unanswered.
 
@@ -33,8 +34,7 @@ Delancey have agreed to the establishment of a Traders Panel and traders want th
 
 Delancey only secured a resolution to approve their shopping centre application after three planning committee meetings.  It must now get a further planning permission for the trader's temporary facility on Castle Square, before they can undertake any shopping centre redevelopment.  We must ensure that the traders get the best possible deal whatever happens; they need the temporary facility, but it must be better, so, if you would like to help achieve this,  please submit the following objection - just click here. 
 
-
-Objection
+## Object!
 
 We welcome this proposed development as some mitigation to the detrimental impact of the redevelopment of the Elephant shopping centre on local independent traders.
 
