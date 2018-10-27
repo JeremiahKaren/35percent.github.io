@@ -10,9 +10,9 @@ Shopping Centre traders and campaigners have taken the first step towards a lega
 
 The seven page letter gives two grounds for rescinding the permission. First, that the committee was misled about public funding for social housing. The report says that Mayoral funding, through the Greater London Authority, was secured for an increase of social rented housing from 74 to 116 units, when this was not the case.  Second, that Southwark had no properly fulfilled its publIc sector equality duty (PSED) properly, neglecting any measurement of the impact on Latin American natinals, such as Colombians.  The letter gives a deadline for reply of 24 Oct 2018 and this is still awaited.
 
-Aside from this the Mayor will be having his say once the draft legal agreement that would seal the planning approval is completed.  He has said he is ['keen to ensure that it delivers as much genuinely affordable housing as possible'](https://www.insidehousing.co.uk/news/news/khan-keen-for-elephant--castle-development-to-deliver-affordable-housing-58462)
-.” 
-Mayor call-in
+Aside from this the Mayor will be having his say once the draft legal S106 agreement that would seal the planning approval is complete; campaigners have written an [open letter](https://twitter.com/UpTheElephant_) asking him to reject the approval as it stands.
+He has said he is ['keen to ensure that it delivers as much genuinely affordable housing as possible'](https://www.insidehousing.co.uk/news/news/khan-keen-for-elephant--castle-development-to-deliver-affordable-housing-58462).
+
 
 ## Castle Square objections
 
