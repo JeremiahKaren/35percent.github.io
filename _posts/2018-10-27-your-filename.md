@@ -4,7 +4,7 @@ published: false
 title: Elephant Shopping Centre - traders and campaigners  step-up the fight
 ---
 
-## Campaigners set to mount legal challange
+## Campaigners set to mount legal challenge
 
 Shopping Centre traders and campaigners have taken the first step towards a legal challenge of Southwark Council's approval of the shopping centre planning application.  The [Public Interest Unit](http://www.pilu.org.uk/paul-heron/) of Lambeth Law Centre, acting on behalf of the Up the Elephant campaign and Latin Elephant, sent a pre-action letter to Southwark, asking it to rescind the decision taken by the planning committee on xxxx, or return the application to the committee.  If the Council fails to do this campaigners and traders will apply to the High Court for an order to quash the decision.  The campaign is supported by Southwark Law Centre and barrister [Sarah Sackman](https://www.ftbchambers.co.uk/barristers/sarah-sackman) of Francis Taylor Building has agreed to represent the campaign.
 
