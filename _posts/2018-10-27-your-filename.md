@@ -30,9 +30,9 @@ The facility is a valuable gain for the traders, won by their campaign for a fai
 
 Delancey have agreed to the establishment of a Traders Panel and traders want these issues, and the size of the relocation fund, (currently at an insufficient £634,700) to be decided by the Panel, but trader representations on the remit and format of the Panel have gone unanswered.
 
-## Delancey not there yet
+## Delancey is not there yet
 
-Delancey only secured a resolution to approve their shopping centre application after three planning committee meetings.  It must now get a further planning permission for the trader's temporary facility on Castle Square, before they can undertake any shopping centre redevelopment.  We must ensure that the traders get the best possible deal whatever happens; they need the temporary facility, but it must be better, so, if you would like to help achieve this,  please submit the following objection - just click here. 
+Delancey only secured a resolution to approve their shopping centre application after three planning committee meetings.  It must now get a further planning permission for the trader's temporary facility on Castle Square, before they can undertake any shopping centre redevelopment.  We must ensure that the traders get the best possible deal, whatever happens; they need the temporary facility, but it must be better; if you would like to help achieve this, please submit the following objection - just click here. 
 
 ## Object!
 
