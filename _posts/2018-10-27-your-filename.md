@@ -55,5 +55,3 @@ and that the following should be agreed with the traders;
 - 	remit and format of a Traders Panel that truly represents their interests
 -	a sufficient relocation fund
 
-
-Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
