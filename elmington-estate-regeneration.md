@@ -79,3 +79,8 @@ By 2016, the Council had [spent](https://www.whatdotheyknow.com/request/cost_to_
 Some [Land Registry deeds](/img/ElmingtonLR.pdf) show that the Council has sold off some parcels of land in sites A&B to Notting Hill for just £1.
 
 Other [Land registry deeds](http://crappistmartin.github.io/images/LRegisterElmingtonAandB.pdf) suggest that the Council has sold the largest parcel of land in sites A&B to Notting Hill for £11m.
+
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:title" content="Elmington Estate Regeneration" />
+<meta name="twitter:description" content="Net loss of 383 council homes" />
+<meta name="twitter:image" content="https://crappistmartin.github.io/images/elmingtonestate.jpg" />
