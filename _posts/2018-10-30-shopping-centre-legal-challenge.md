@@ -27,7 +27,7 @@ Aside from the legal challange, the Mayor Sadiq Khan will also be having his say
 
 ## A temporary new home for traders...
 
-As well as contending with the consequences of any legal challenge or a call-in from the Mayor, developers Delancey must also provide a temporary facility for displaced independant traders, as a [condition](http://moderngov.southwark.gov.uk/mgAi.aspx?ID=49413) of planning approval for the shopping centre redevelopment.
+As well as contending with the consequences of any legal challenge or a call-in from the Mayor, developers Delancey must also provide a temporary facility for displaced independent traders, as a [condition](http://moderngov.southwark.gov.uk/mgAi.aspx?ID=49413) of planning approval for the shopping centre redevelopment.
 
 Delancey have had to make another planning application to do this and [propose a 2/3 storey building](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!hAV0cqN%2bsOq%2febuFpH0spQ%3d%3d!%7d%7d%7d) on the Castle Square market place, on their adjoining development [Elephant One](http://35percent.org/tribeca-square/).  Castle Square is on  land owned by Southwark Council, but currently [leased to Delancy on a peppercorn rent](http://35percent.org/2016-06-26-restricted-access-elephant-park/#elephant-parks) and a share of the revenue from the Square's future street market.  The shopping centre planning condition implies that Delancey will now be buying that land from Southwark.
 
@@ -48,7 +48,7 @@ Delancey only secured a resolution to approve their shopping centre application 
 We must ensure that the traders get the best possible deal, whatever happens; they need the temporary facility, but it must be better; if you would like to help achieve this, please submit the following objection - just click here. 
 
 ## Object!
-<form id="form5" action="https://thirtyfivepercent.herokuapp.com/" method="post">
+<form id="form5" action="https://thirtyfivepercent.herokuapp.com/" method="post"> 
 <fieldset><legend>Fill in the details below to object to the planning application.</legend>
 <div id="mc_embed_signup">
 <div class="indicates-required"><span class="asterisk">*</span> indicates required</div>
@@ -93,11 +93,11 @@ We must ensure that the traders get the best possible deal, whatever happens; th
         <label for="message">Comment:</label>
         <textarea name="message" id="message" cols="55" rows="10">Dear Southwark Planning,
 
-We welcome this proposed development as some mitigation to the detrimental impact of the redevelopment of the Elephant shopping centre on local independent traders.
+I welcome this proposed development as an attempt at mitigation against the detrimental impact of the redevelopment of the Elephant and Castle shopping centre on local independent traders.
 
-However, the Applicant's proposals require changes if the development is to benefit the number of traders who need help.
+However, the applicant's proposals require changes if the development is to benefit the number of traders who need help.
 
-We therefore support the comments and suggestions made by the Elephant Traders Association and Latin Elephant for improvements to the Applicant's proposals, and ask that before any planning permission is granted that the size of the facility be increased to accommodate all the displaced independent traders who require new premises and that the following should first be agreed with the traders;
+I therefore support the comments and suggestions made by the Elephant Traders Association and Latin Elephant for improvements to the applicant's proposals, and ask that before any planning permission is granted that the size of the facility be increased to accommodate all the displaced independent traders who require new premises and that the following should first be agreed with the traders;
 
 -	the rents and service charge levels
 -	secure tenancy arrangements
@@ -105,7 +105,7 @@ We therefore support the comments and suggestions made by the Elephant Traders A
 -	hours of trade
 -	disability access
 - 	the remit and format of a Traders Panel that truly represents their interests
--	a sufficient relocation fund
+- 	a sufficient relocation fund
 
 
 Yours sincerely,
