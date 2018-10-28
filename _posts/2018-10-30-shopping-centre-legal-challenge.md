@@ -1,8 +1,8 @@
 ---
 layout: post
-published: true 
-title: "Elephant Shopping Centre - traders and campaigners step-up the fight"
-date: 2018-10-30
+published: true
+title: Elephant Shopping Centre - traders and campaigners step-up the fight
+date: 'Tue Oct 30 2018 00:00:00 GMT+0000 (Greenwich Mean Time)'
 ---
 
 ## Campaigners mount legal challenge and object to small temporary premises
@@ -23,7 +23,7 @@ The second ground is that Southwark had not fulfilled its publIc sector equality
 
 ## The Mayor to respond
 
-Aside from the legal challange, the Mayor Sadiq Khan will also be having his say, once the draft legal S106 agreement that would seal the planning approval is complete.  Campaigners have written an [open letter](https://twitter.com/UpTheElephant_), asking him to reject the approval as it stands. Local ward councillors [added their voice](https://www.southwarknews.co.uk/news/ward-councillors-call-on-sadiq-khan-to-fix-moral-and-policy-failings-in-approved-elephant-and-castle-regeneration-plans/) to the call, as did assembley member [Sian Berry](www.southwarkgreenparty.org.uk/call_in_the_elephant_decision_says_sian).  Inside Housing reports that Sadiq Khan is keen to ensure that the development ['delivers as much genuinely affordable housing as possible'](https://www.insidehousing.co.uk/news/news/khan-keen-for-elephant--castle-development-to-deliver-affordable-housing-58462) and on the question of traders [says](https://twitter.com/se1/status/1054823139421630464) _"we cannot have these cultural communities being displaced."_
+Aside from the legal challange, the Mayor Sadiq Khan will also be having his say, once the draft legal S106 agreement that would seal the planning approval is complete.  Campaigners have written an [open letter](https://twitter.com/UpTheElephant_), asking him to reject the approval as it stands. Local ward councillors [added their voice](https://www.southwarknews.co.uk/news/ward-councillors-call-on-sadiq-khan-to-fix-moral-and-policy-failings-in-approved-elephant-and-castle-regeneration-plans/) to the call, as did Assembly Member [Sian Berry](www.southwarkgreenparty.org.uk/call_in_the_elephant_decision_says_sian).  Local Assembly Member Florence Eshalomi on the question of traders [says](https://twitter.com/se1/status/1054823139421630464) _"we cannot have these cultural communities being displaced."_ Inside Housing reports that Sadiq Khan is keen to ensure that the development ['delivers as much genuinely affordable housing as possible'](https://www.insidehousing.co.uk/news/news/khan-keen-for-elephant--castle-development-to-deliver-affordable-housing-58462). 
 
 ## A temporary new home for traders...
 
@@ -118,12 +118,3 @@ Yours sincerely,
 </div>
    </fieldset>
   </form>
-
-
-
-
-
-
-
-
-
