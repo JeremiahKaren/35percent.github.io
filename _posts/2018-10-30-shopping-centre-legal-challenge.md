@@ -45,7 +45,7 @@ Delancey have agreed to the establishment of a Traders Panel and traders want th
 
 Delancey only secured a resolution to approve their shopping centre application after three planning committee meetings.  It must now get a further planning permission for the trader's temporary facility on Castle Square, before they can undertake any shopping centre redevelopment. 
 
-We must ensure that the traders get the best possible deal, whatever happens; they need the temporary facility, but it must be better; if you would like to help achieve this, please submit the following objection - just click here. 
+We must ensure that the traders get the best possible deal, whatever happens; they need the temporary facility, but it must be better; if you would like to help achieve this, please submit the following objection - just fill out fields below and click button. 
 
 ## Object!
 <form id="form5" action="https://thirtyfivepercent.herokuapp.com/" method="post"> 
