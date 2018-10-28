@@ -2,6 +2,7 @@
 layout: post
 published: false
 title: Elephant Shopping Centre - traders and campaigners step-up the fight
+date: 2018-10-30
 ---
 
 ## Campaigners mount legal challenge and object to small temporary premises
@@ -41,15 +42,56 @@ Delancey only secured a resolution to approve their shopping centre application 
 We must ensure that the traders get the best possible deal, whatever happens; they need the temporary facility, but it must be better; if you would like to help achieve this, please submit the following objection - just click here. 
 
 ## Object!
+<form id="form5" action="https://thirtyfivepercent.herokuapp.com/" method="post">
+<fieldset><legend>Fill in the details below to object to the planning application.</legend>
+<div id="mc_embed_signup">
+<div class="indicates-required"><span class="asterisk">*</span> indicates required</div>
+
+<p class="first" style="margin:20px">
+        <label for="name">Title:</label>
+        <input type="text" name="title" id="title" size="5" placeholder="Mr" /><span class="asterisk">*</span>
+  </p>
+
+<p style="margin:20px">
+        <label for="email">First Name:</label>
+        <input type="text" name="firstname" id="firstname" size="15" placeholder="Joe"/><span class="asterisk">*</span>
+  </p>
+
+<p style="margin:20px">
+        <label for="email">Surname:</label>
+        <input type="text" name="surname" id="surname" size="21" placeholder="Bloggs"/><span class="asterisk">*</span>
+  </p>
+
+  <p style="margin:20px">
+        <label for="email">Email:</label>
+        <input type="text" name="email" id="email" size="23" placeholder="joebloggs@gmail.com"/><span class="asterisk">*</span>
+  </p>
+
+  <p style="margin:20px">
+        <label for="address">Address:</label>
+        <input type="text" name="address" id="address" size="27" placeholder="99 Chaplin Street"/><span class="asterisk">*</span>
+  </p>
+
+  <p style="margin:20px">
+        <label for="address">Town/City:</label>
+        <input type="text" name="city" id="city" size="12" placeholder="London"/><span class="asterisk">*</span>
+  </p>
+
+  <p style="margin:20px">
+        <label for="postcode">Postcode:</label>
+        <input type="text" name="postcode" id="postcode" size="10" placeholder="SE17 1RS"/><span class="asterisk">*</span>
+  </p>
+
+
+   <p style="margin:20px">
+        <label for="message">Comment:</label>
+        <textarea name="message" id="message" cols="55" rows="10">Dear Southwark Planning,
 
 We welcome this proposed development as some mitigation to the detrimental impact of the redevelopment of the Elephant shopping centre on local independent traders.
 
 However, the Applicant's proposals require changes if the development is to benefit the number of traders who need help.
-We therefore support the comments and suggestions made by the Elephant Traders Association and Latin Elephant for improvements to the Applicant's proposals, and ask that before any planning permission is granted that
 
--	the size of the facility be increased to accommodate all the displaced independent traders who require new premises
-
-and that the following should be agreed with the traders;
+We therefore support the comments and suggestions made by the Elephant Traders Association and Latin Elephant for improvements to the Applicant's proposals, and ask that before any planning permission is granted that the size of the facility be increased to accommodate all the displaced independent traders who require new premises and that the following should first be agreed with the traders;
 
 -	the rents and service charge levels
 -	secure tenancy arrangements
@@ -58,4 +100,24 @@ and that the following should be agreed with the traders;
 -	disability access
 - 	the remit and format of a Traders Panel that truly represents their interests
 -	a sufficient relocation fund
+
+
+Yours sincerely,
+</textarea>
+  </p>
+
+  <p class="submit" style="margin:20px"><button type="submit">Send Objection</button></p>
+
+
+</div>
+   </fieldset>
+  </form>
+
+
+
+
+
+
+
+
 
