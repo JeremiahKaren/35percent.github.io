@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true 
 title: Elephant Shopping Centre - traders and campaigners step-up the fight
 date: 2018-10-30
 ---
