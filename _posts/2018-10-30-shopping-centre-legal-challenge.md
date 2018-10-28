@@ -9,7 +9,7 @@ date: 2018-10-30
 
 Elephant shopping Centre traders and local campaigners have taken the first step of a legal challenge to Southwark Council's [resolution to approve](http://moderngov.southwark.gov.uk/mgAi.aspx?ID=49413) the [shopping centre planning application](https://planning.southwark.gov.uk/online-applications/simpleSearchResults.do?action=firstPage), while also objecting to the small size of a [proposed temporary facility](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!hAV0cqN%2bsOq%2febuFpH0spQ%3d%3d!%7d%7d%7d) for the traders' relocation during the 5 years it would take to redevelop the centre.
 
-![](http://35percent.org/img/saveelephant.png)
+![](http://35percent.org/img/saveelephant.jpg)
 
 The [Public Interest Unit](http://www.pilu.org.uk/paul-heron/) (PIU) of Lambeth Law Centre has [written](http://35percent.org/img/letterbeforeaction.pdf) to Southwark, asking it to rescind the decision taken by the planning committee on 3 July 2018, or return the application to the committee.  If the Council fails to do this an application will be made to the [Planning Court](https://www.gov.uk/courts-tribunals/planning-court) to quash the decision. 
 
@@ -23,7 +23,7 @@ The second ground is that Southwark had not fulfilled its publIc sector equality
 
 ## The Mayor to respond
 
-Aside from the legal challange, the Mayor Sadiq Khan will also be having his say, once the draft legal S106 agreement that would seal the planning approval is complete.  Campaigners have written an [open letter](https://twitter.com/UpTheElephant_), asking him to reject the approval as it stands. Local ward councillors [added their voice](https://www.southwarknews.co.uk/news/ward-councillors-call-on-sadiq-khan-to-fix-moral-and-policy-failings-in-approved-elephant-and-castle-regeneration-plans/) to the call, as did assembley member [Sian Berry](www.southwarkgreenparty.org.uk/call_in_the_elephant_decision_says_sian).  Inside Housing reports that Sadiq Khan is keen to ensure that the development ['delivers as much genuinely affordable housing as possible'](https://www.insidehousing.co.uk/news/news/khan-keen-for-elephant--castle-development-to-deliver-affordable-housing-58462).
+Aside from the legal challange, the Mayor Sadiq Khan will also be having his say, once the draft legal S106 agreement that would seal the planning approval is complete.  Campaigners have written an [open letter](https://twitter.com/UpTheElephant_), asking him to reject the approval as it stands. Local ward councillors [added their voice](https://www.southwarknews.co.uk/news/ward-councillors-call-on-sadiq-khan-to-fix-moral-and-policy-failings-in-approved-elephant-and-castle-regeneration-plans/) to the call, as did assembley member [Sian Berry](www.southwarkgreenparty.org.uk/call_in_the_elephant_decision_says_sian).  Inside Housing reports that Sadiq Khan is keen to ensure that the development ['delivers as much genuinely affordable housing as possible'](https://www.insidehousing.co.uk/news/news/khan-keen-for-elephant--castle-development-to-deliver-affordable-housing-58462) and on the question of traders [says](https://twitter.com/se1/status/1054823139421630464) _"we cannot have these cultural communities being displaced."_
 
 ## A temporary new home for traders...
 
