@@ -37,40 +37,29 @@ Delancey's 'Build-to-Rent' homes will be privately managed by a Delancey subsidi
 ![Delancey's Elephant & Castle holdings registered in the BVI](/img/shoppingcentrelr.png)
 
 ## What about existing retailers?
-As expected the shopping centre is to be demolished and there will be [no room for most of the existing retailers](http://35percent.org/2015-07-12-shopping-centre-and-lcc-redevelopment-proposals/){:target="_blank"}. Delancey's [planning statement](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!LnbCaTCiMmUoN4H%2fUA2yyg%3d%3d!%7d%7d%7d){:target="_blank"} contends that _'it is recognised that some existing retailers in the area are benefitting from disproportionately low levels of rent...'_ and concludes that _'it may not be financially viable for them to survive in the area in the longer term'_. Delancey offers a 'relocation strategy', but says that it's only on condition of being awarded planning permission and fails to provide any details of what its 'relocation strategy' entails.
+As expected the shopping centre is to be demolished and there will be [no room for most of the existing retailers](http://35percent.org/2015-07-12-shopping-centre-and-lcc-redevelopment-proposals/){:target="_blank"}. Delancey's [planning statement](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!LnbCaTCiMmUoN4H%2fUA2yyg%3d%3d!%7d%7d%7d){:target="_blank"} contends that _'it is recognised that some existing retailers in the area are benefitting from disproportionately low levels of rent...'_ and concludes that _'it may not be financially viable for them to survive in the area in the longer term'_. 
 
-![](http://35percent.org/img/delanceyretailersrelocation.png)
+![](http://35percent.org/img/traderscomp.jpeg)
 
-This is a clear breach of paragraph 5.1.7 of the Council's [planning policy framework]("http://www.2.southwark.gov.uk/download/downloads/id/7894/elephant_and_castle_opportunity_area_spd"){:target="_blank"} for the Elephant & Castle, which requires a number of _'affordable retail units which are made available to existing occupiers displaced by development'_, in order to _'ensure that development opportunities provide opportunities for existing and future SME businesses'_.
+Delancey's neighbbouring development [Elephant One](/tribeca-square) was supposed to provide affordable retail space for some of the displaced traders. In 2015, we [revealed](http://35percent.org/2015-07-12-shopping-centre-and-lcc-redevelopment-proposals/#delancey---a-morality-tale){:target="_blank"} how Delancey had successfully lobbied the Council to change the conditions of its planning permission to replace some of these units for a Sainsburys.
 
-The framework policy says that a minimum of 10% of retail units in large developments must be affordable and makes the very specific requirement to provide such units at no more than 40% market rent for the first 5 years. Delancey proposes just over 5% affordable retail but doesn't say at what discount they will be made available.
+As a small consolation, Delancey have agreed to provide a temporary retail 'box park' using shipping containers at neighbouring Castle Square, which is on council-owned land but [leased to Delancy on a peppercorn rent](http://35percent.org/2016-06-26-restricted-access-elephant-park/#elephant-parks) and a share of the revenue from the Square's future street market. 
 
-![](/img/charterspd.png)
-*Extract from the Council's [planning policy framework for E&C](http://www.southwark.gov.uk/assets/attach/1817/1.0.5%20Elephant%20%26%20Castle%20SPD%20OAPF.pdf)*
+![](http://35percent.org/img/tempboxpark.png)
 
-in 2007 the Council's Executive [approved a 'Traders Charter'](http://moderngov.southwark.gov.uk/Data/Overview%20&%20Scrutiny%20Committee/20070709/Agenda/Traders%20proposedcharter.pdf) setting out detailed policies on how traders would be secured tapered rent subsidies not just on the retail in the new shopping centre but all new S106 retail and also Southwark's own commercial retail premises in the area.
+The Castle Square facility would last for 5 years, until the Elephant & Castle Shopping Centre development has been completed.
 
-![](/img/lbstraderscharterextract.png)
-*Extract from Southwark's ['Traders Charter'](http://moderngov.southwark.gov.uk/Data/Overview%20&%20Scrutiny%20Committee/20070709/Agenda/Traders%20proposedcharter.pdf)*
+The facility is small consolation for the traders, who have [objected](https://planning.southwark.gov.uk/online-applications/applicationDetails.do?activeTab=neighbourComments&keyVal=_STHWR_DCAPR_9578882) that the proposed building is too small and would have trading restrictions that would make it an impractical premises for many of the displaced businesses. [Delancey's  proposals](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!hAV0cqN%2bsOq%2febuFpH0spQ%3d%3d!%7d%7d%7d) mention 33 independent traders, while the trader's own estimate is that there is a need to provide for over a 100 traders. There are also many other issues, including the level of rents and service charges, the security of tenacy arrangements, selection criteria and disability access.
 
-In October 2015, Southwark [resolved]("http://moderngov.southwark.gov.uk/ieDecisionDetails.aspx?ID=5494"){:target="_blank"} to undertake an Equalities Impact Assessment, in order to fulfill its Public Sector Equality Duty to the shopping centre traders and explore how the impact of the redevelopment can be mitigated. This assessment was never undertaken, the Council is neglecting its duty and allowing Delancey to progress the scheme in total disregard for the existing traders. In 2005, Southwark was [slated by Lord Ouseley after an independent review](http://35percent.org/2015-11-04-southwark-resolves-to-use-cpo-powers-for-shopping-centre-retailers/){:target="_blank"} found that its regeneration policies failed retailers and traders from BME communities. These failings clearly continue.
+Delancey have agreed to the establishment of a 'Traders Panel' and traders want these issues, and the size of the relocation fund (currently at an insufficient £634,700) to be decided by the Panel, but trader representations on the remit and format of the Panel have gone unanswered, leaving them fearful about the make-up of the Panel and how it might deal with these issues.
 
-In 2015, we [revealed](http://35percent.org/2015-07-12-shopping-centre-and-lcc-redevelopment-proposals/#delancey---a-morality-tale){:target="_blank"} how Delancey had successfully lobbied the Council to change the conditions of its planning permission for its neighbouring [Elephant One](/tribeca-square){:target="_blank"} development. This was [supposed to provide](http://www.london-se1.co.uk/news/view/2298){:target="_blank"} a handful of small retail units specifically allocated to traders displaced from the shopping centre at reduced rents; instead these have been replaced by a Sainsburys.
+In 2005, Southwark was [slated by Lord Ouseley after an independent review](http://35percent.org/2015-11-04-southwark-resolves-to-use-cpo-powers-for-shopping-centre-retailers/){:target="_blank"} found that its regeneration policies failed retailers and traders from BME communities. These failings clearly continue.
+
 
 ![](http://www.social-life.co/media/cache/7c/d8/7cd88351c83035bea1af1a55ffe6d81a.jpg)
 
 Delancey's application is just another step down the gentrification road. The shopkeepers and small traders, many from ethnic minority backgrounds, who have worked hard to become an integral part of the community, are deemed to be _'not financially viable ...to survive'_. Southwark Council and the Mayor should be telling Delancey how unacceptable this application is. They should be promoting London's diverse economy - not letting developers like Delancey kill it. 
 
-Less than a year ago Southwark's Cabinet member for Regeneration promised to ensure that existing traders were included in the redevelopment plans. This can now be added to archive of regeneration promises that have been broken.
-
-![](/img/mwquote.png)
-*Quote from an [interview](www.southwarknews.co.uk/news/new-latin-quarter-elephant-castle-earns-councils-full-backing/) with Cabinet member for Regeneration, Mark Williams*
-
-Southwark claims that as a private developer it can't influence Delancey's plans, but we point out that in 2011 Southwark [signed](http://moderngov.southwark.gov.uk/documents/s24263/Report%20Elephant%20and%20Castle%20Regeneration%20-%20Shopping%20Centre.pdf){:target="_blank"} a development agreement with the then then shopping centre owners, which Delancey inherited when it purchased the site.
-
-![](/img/lbskpiagreement.png)
-
-Southwark also has a land interest in the site; it owns the pavement and public realm surrounding the shopping centre, which it has signed over to Delancey to enable the redevelopment.  
 
 ## History
 The Elephant & Castle shopping centre used to be owned by Godfrey Bradman, the property tycoon who redeveloped the City of London's [Broadgate estate](http://en.wikipedia.org/wiki/Broadgate){:target="_blank"} in the 1980s.
