@@ -6,7 +6,7 @@ sharing: true
 ---
 ![]({{site.baseurl}}/img/delanceyaerial.png)
 
-After its first application was [rejected](https://www.bbc.co.uk/news/uk-england-london-42719607) by Southwark's planning committee, Developer Delancey's [application](http://planbuild.southwark.gov.uk/documents/?casereference=16/AP/4458&system=DC){:target="_blank"} for the redevelopment of the [Elephant & Castle shopping centre](http://35percent.org/shopping-centre/){:target="_blank"} has been [narrowly approved](http://35percent.org/2018-07-09-delancey/) by Southwark's planning committee.
+After its first application was [rejected](https://www.bbc.co.uk/news/uk-england-london-42719607) by Southwark's planning committee, Developer Delancey's [application](http://planbuild.southwark.gov.uk/documents/?casereference=16/AP/4458&system=DC){:target="_blank"} for the redevelopment of the [Elephant & Castle shopping centre](http://35percent.org/shopping-centre/){:target="_blank"} has been [narrowly approved](http://35percent.org/2018-07-09-delancey/).
 
 ## Affordable housing
 According to the [affordable housing statement](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!i%2fH2BvEXXozMcypxg9AnYA%3d%3d!%7d%7d%7d){:target="_blank"} all of the proposed 979 residential units will be for rent, none for sale. There will be 35% affordable housing, but none of it will be social rented or part-buy/part-rent.  Instead the affordable housing will be something called 'Dicounted Market Rent' (DMR), let at up to 80% market rent. 
