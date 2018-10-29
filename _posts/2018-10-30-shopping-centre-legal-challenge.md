@@ -3,7 +3,7 @@ layout: post
 published: true
 title: "Elephant Shopping Centre - traders and campaigners step-up the fight"
 subtitle: "Campaigners mount legal challenge and object to insufficient temporary premises"
-date: 'Tue Oct 30 2018 00:00:00 GMT+0000 (Greenwich Mean Time)'
+date: 'Mon Oct 29 2018 00:00:00 GMT+0000 (Greenwich Mean Time)'
 ---
 Elephant shopping Centre traders and local campaigners have taken the first step of a legal challenge to Southwark Council's [resolution to approve](http://35percent.org/2018-07-09-delancey/) the [shopping centre planning application](http://35percent.org/shopping-centre), while also objecting to the small size of a [proposed temporary facility](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!hAV0cqN%2bsOq%2febuFpH0spQ%3d%3d!%7d%7d%7d) for the traders' relocation during the 5 years it would take to redevelop the centre.
 
@@ -43,5 +43,58 @@ Delancey have agreed to the establishment of a Traders Panel and traders want th
 
 Delancey only secured a resolution to approve their shopping centre application after three planning committee meetings.  It must now get a further planning permission for the trader's temporary facility on Castle Square, before they can undertake any shopping centre redevelopment. 
 
-We must ensure that the traders get the best possible deal, whatever happens; they need the temporary facility, but it must be better; if you would like to help achieve this, please submit an objection using our [online web form](http://35percent.org/2018-10-30-shopping-centre-legal-challenge/#object). 
+We must ensure that the traders get the best possible deal, whatever happens; they need the temporary facility, but it must be better; if you would like to help achieve this, please submit the following objection - just fill out fields below and click 'Send Objection' button. 
 
+## Object!
+<form id="form5" action="https://thirtyfivepercent.herokuapp.com/" method="post"> 
+<fieldset><legend>Fill in the details below to object to the planning application.</legend>
+<div id="mc_embed_signup">
+<div class="indicates-required"><span class="asterisk">*</span> indicates required</div>
+<p class="first" style="margin:20px">
+        <label for="name">Title:</label>
+        <input type="text" name="title" id="title" size="5" placeholder="Mr" /><span class="asterisk">*</span>
+  </p>
+<p style="margin:20px">
+        <label for="email">First Name:</label>
+        <input type="text" name="firstname" id="firstname" size="15" placeholder="Joe"/><span class="asterisk">*</span>
+  </p>
+<p style="margin:20px">
+        <label for="email">Surname:</label>
+        <input type="text" name="surname" id="surname" size="21" placeholder="Bloggs"/><span class="asterisk">*</span>
+  </p>
+  <p style="margin:20px">
+        <label for="email">Email:</label>
+        <input type="text" name="email" id="email" size="23" placeholder="joebloggs@gmail.com"/><span class="asterisk">*</span>
+  </p>
+  <p style="margin:20px">
+        <label for="address">Address:</label>
+        <input type="text" name="address" id="address" size="27" placeholder="99 Chaplin Street"/><span class="asterisk">*</span>
+  </p>
+  <p style="margin:20px">
+        <label for="address">Town/City:</label>
+        <input type="text" name="city" id="city" size="12" placeholder="London"/><span class="asterisk">*</span>
+  </p>
+  <p style="margin:20px">
+        <label for="postcode">Postcode:</label>
+        <input type="text" name="postcode" id="postcode" size="10" placeholder="SE17 1RS"/><span class="asterisk">*</span>
+  </p>
+   <p style="margin:20px">
+        <label for="message">Comment:</label>
+        <textarea name="message" id="message" cols="55" rows="10">Dear Southwark Planning,
+I welcome this proposed development as an attempt at mitigation against the detrimental impact of the redevelopment of the Elephant and Castle shopping centre on local independent traders.
+However, the applicant's proposals require changes if the development is to benefit the number of traders who need help.
+I therefore support the comments and suggestions made by the Elephant Traders Association and Latin Elephant for improvements to the applicant's proposals, and ask that before any planning permission is granted that the size of the facility be increased to accommodate all the displaced independent traders who require new premises and that the following should first be agreed with the traders;
+-	the rents and service charge levels
+-	secure tenancy arrangements
+-	selection criteria, should they be needed 
+-	hours of trade
+-	disability access
+- 	the remit and format of a Traders Panel that truly represents their interests
+- 	a sufficient relocation fund
+Yours sincerely,
+</textarea>
+  </p>
+  <p class="submit" style="margin:20px"><button type="submit">Send Objection</button></p>
+</div>
+   </fieldset>
+  </form>
