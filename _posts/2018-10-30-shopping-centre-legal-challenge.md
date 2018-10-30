@@ -98,3 +98,8 @@ Yours sincerely,
 </div>
    </fieldset>
   </form>
+
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:title" content="Elephant & Castle shopping centre" />
+<meta name="twitter:description" content="Traders and campaigners step up the fight with legal challenge" />
+<meta name="twitter:image" content="http://35percent.org/img/traderscomp.jpeg" />
