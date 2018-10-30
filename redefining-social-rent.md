@@ -175,3 +175,8 @@ With 17,500 new __London Affordable Rent__ homes proposed in just the first roun
 As if this wasn't enough, the Mayor has introduced a draft ['Good Practice Guide for Estate Regeneration'](https://www.london.gov.uk/sites/default/files/draftgoodpracticeestateregenerationguidedec16v2.pdf) which is due to be adopted as policy in early 2018. It says this:
 
 ![](/img/goodpracticear.png)
+
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:title" content="Redefining Social Rent" />
+<meta name="twitter:description" content="Southwark turns blind eye to HA's substituting social rent for other tenures" />
+<meta name="twitter:image" content="http://35percent.org/img/arstudy.png" />
