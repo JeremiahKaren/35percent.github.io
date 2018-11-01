@@ -31,7 +31,9 @@ Further, this is not council housing, if as Southwark says in its [press release
 ![](http://35percent.org/img/mtbfeb2017.png)
 *Extract from Southwark's [Market Trends Bulletin Feb 2017](http://www.2.southwark.gov.uk/downloads/download/4454/southwark_housing_market_trends_bulletin)*
 
-What we are seeing at Blackfriars Circus is the introduction of two-tier council housing.  Southwark has recently proposed [introducing](http://35percent.org/img/lbsprwaitinglist.pdf) an 'intermediate waiting list' with higher rents, specifically for the discounted market rented housing that developers are providing instead of social rent. The intermediate waiting list will also provide tenants for Southwark's own intermediate rent homes, homes that will no doubt join the pseudo-council homes of Blackfriars Circus as part of the 11000 council homes build programme.
+What we are seeing at Blackfriars Circus is a desperate attempt by Southwark to deliver on its [failing manifesto promise](/the-southwark-clearances) to deliver 11,000 new council homes.
+
+By buying up section 106 properties Southwark Council is not adding to the amount of social housing stock in the borough. It is simply buying homes that already exist and that housing associations would have otherwise bought and let as social housing.
 
 __Footnotes:__
 
