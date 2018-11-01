@@ -34,7 +34,7 @@ In July 2016 we finally received a [response](/img/complaintresponseMWilliams.pd
 The following are a few examples of the 43 breaches identified in our [list](http://35percent.org/img/section106_tenure_breaches.pdf) of tenure breaches. In most cases the rents are currently lower than 80% market rent, but still significantly higher than the [average £100pw council rents](http://www.southwark.gov.uk/news/article/1738/southwark_council_keeping_social_rent_affordable_for_londoners). 
 
 ## Colorama buildings
-This redevelopment of the former [Colorama film processing warehouse](http://35percent.org/colorama/) in SE1 was completed in April 2016. The [planning report](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!Zz6kQSuw9WcG1eGU1VRSAg%3d%3d!%7d%7d%7d) for the application said that the redevelopment would provide a total of 19 social rented habitable rooms.  
+This redevelopment of the former [Colorama film processing warehouse](http://35percent.org/colorama/) in SE1 was completed in April 2016 by housing association [A2Dominion](https://www.a2dominion.co.uk/). The [planning report](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!Zz6kQSuw9WcG1eGU1VRSAg%3d%3d!%7d%7d%7d) for the application said that the redevelopment would provide a total of 19 social rented habitable rooms.  
 
 ![](http://crappistmartin.github.io/images/colorama_or.png)
 
