@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "11000 new council homes: realistic target or meangingless PR waffle?"
-subtitle: "Southwark logs net decrease of council homes instead of 1500 promised by 2018"
+title: "11000 new council homes: figures show net loss rather than gain"
+subtitle: "Southwark demolishing and selling off council homes faster than it is building them"
 published: false
 ---
 In 2014, as part of its manifesto pledge Southwark Council's administration [announced](http://www.southwarklabour.co.uk/latest-news/southwark/news.aspx?p=102262) an _"ambitious but realistic plan to build 11,000 new council homes"_ across the borough over the next 30 years. Concerns were [raised by us](http://35percent.org/the-southwark-clearances) and in the [local press](https://crappistmartin.github.io/images/SNHeygateOverage.pdf) that this would fail to make up for the thousands of council homes currently being lost to ongoing estate regeneration, void disposal polices and Right to Buy applications over the next 30 years.
@@ -53,7 +53,6 @@ A [recent Cabinet report](http://moderngov.southwark.gov.uk/documents/s78248/Rep
 We say that by buying up section 106 properties Southwark Council is not adding to the amount of social housing stock in the borough. It is simply buying homes that already exist and that housing associations would have otherwise bought and let as social housing.
 
 ## Where's the money coming from?
- 
 Southwark has also been selling off its [Town Halls](http://35percent.org/southwark-town-halls/) and street properties. In 2009, Southwark Council introduced a policy of selling off every council home that becomes void and is valued above £400,000. In 2011 this was [reviewed by the incoming Labour administration which reduced](http://moderngov.southwark.gov.uk/documents/s19458/Report%20Review%20of%20Void%20Disposal%20Strategy.pdf) the threshold to £300,000. Here are some of the properties [sold at auction](http://35percent.org/img/sold_by_southwark.pdf) by the current (Labour) administration under this policy:
 
 
