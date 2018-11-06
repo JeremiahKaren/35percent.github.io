@@ -2,7 +2,7 @@
 layout: page
 published: true
 title: "E&C Shopping Centre redevelopment"
-subtitle: "Not enough space for traders in proposed temporary boxpark"
+subtitle: "Traders say too small and too many restrictions in proposed temporary boxpark"
 ---
 As a [condition](http://moderngov.southwark.gov.uk/mgAi.aspx?ID=49413) of the [granting of planning approval](http://35percent.org/2018-07-09-delancey/) for the [redevelopment of Elephant & Castle's shopping centre](http://35percent.org/shopping-centre), Developer Delancey is obliged to provide a temporary facility for displaced independent traders,
 
@@ -19,7 +19,7 @@ The Castle Square boxpark would last for 5 years, until the Elephant & Castle Sh
  
 Delancey only narrowly secured a resolution to approve their shopping centre application after three planning committee hearings.  It must now get a further planning permission for the trader's temporary facility on Castle Square, before it can undertake any shopping centre redevelopment. 
 
-We must ensure that the traders get the best possible deal, whatever happens; they need the temporary facility, but it must be better; if you would like to help achieve this, please submit the following objection - just fill out fields below and click 'Send Objection' button. 
+We must ensure that the traders get the best possible deal, whatever happens; they need the temporary facility, but it must be better; if you would like to help achieve this, please submit the following objection - just fill out the fields below and click the _'Send Objection'_ button at the bottom. 
 
 ## Object!
 <form id="form5" action="https://thirtyfivepercent.herokuapp.com/" method="post"> 
