@@ -4,14 +4,14 @@ published: true
 title: "E&C Shopping Centre redevelopment"
 subtitle: "Not enough space for traders in proposed temporary boxpark"
 ---
-As a [condition](http://moderngov.southwark.gov.uk/mgAi.aspx?ID=49413) of the [granting of planning approval](http://35percent.org/2018-07-09-delancey/) for the [shopping centre redevelopment](http://35percent.org/shopping-centre), Developer Delancey is obliged to provide a temporary facility for displaced independent traders,
+As a [condition](http://moderngov.southwark.gov.uk/mgAi.aspx?ID=49413) of the [granting of planning approval](http://35percent.org/2018-07-09-delancey/) for the [redevelopment of Elephant & Castle's shopping centre](http://35percent.org/shopping-centre), Developer Delancey is obliged to provide a temporary facility for displaced independent traders,
 
 
 Delancey have had to make another planning application to do this and [propose a 2/3 storey building](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!hAV0cqN%2bsOq%2febuFpH0spQ%3d%3d!%7d%7d%7d) on the recently completed _Castle Square_ market place near its adjoining development [Elephant One](http://35percent.org/tribeca-square/).  Castle Square is on land owned by Southwark Council, but currently [leased to Delancy on a peppercorn rent](http://35percent.org/2016-06-26-restricted-access-elephant-park/#elephant-parks). 
 
 ![](http://35percent.org/img/tempboxpark.png)
 
-The Castle Square facility would last for 5 years, until the Elephant & Castle Shopping Centre development has been completed, but traders have [objected](https://planning.southwark.gov.uk/online-applications/applicationDetails.do?activeTab=neighbourComments&keyVal=_STHWR_DCAPR_9578882) that the proposed boxpark is too small and would have trading restrictions that would make it an impractical premises for many of the displaced businesses. [Delancey's proposals](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!hAV0cqN%2bsOq%2febuFpH0spQ%3d%3d!%7d%7d%7d) state that there is capacity for 33 independent traders, while the trader's own estimate is that there is a need to provide for over 100 existing traders. There are also many other issues, including the level of rents and service charges, the security of tenancy arrangements, selection criteria and disability access.
+The Castle Square boxpark would last for 5 years, until the Elephant & Castle Shopping Centre development has been completed, but traders have [objected](https://planning.southwark.gov.uk/online-applications/applicationDetails.do?activeTab=neighbourComments&keyVal=_STHWR_DCAPR_9578882) that the proposed boxpark is too small and would have trading restrictions that would make it an impractical premises for many of the displaced businesses. [Delancey's proposals](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!hAV0cqN%2bsOq%2febuFpH0spQ%3d%3d!%7d%7d%7d) state that there is capacity for 33 independent traders, while the trader's own estimate is that there is a need to provide for over 100 existing traders. There are also many other issues, including the level of rents and service charges, the security of tenancy arrangements, selection criteria and disability access.
 
 
 ![](http://35percent.org/img/traderscomp.jpeg)
