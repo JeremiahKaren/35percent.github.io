@@ -19,7 +19,6 @@ Councillor John went one step further to pledge that the first 1500 net addition
 ![](http://35percent.org/img/1500councilhomes.png)
 *Extract from [2014 Cabinet report](http://moderngov.southwark.gov.uk/documents/s47488/Report%20Long%20term%20plans%20for%20the%20delivery%20of%20new%20council%20homes.pdf)*
 
-
 Four years on and we have taken a look at whether Councillor John has delivered on his manifesto pledge. [Official statistics](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/674346/LT_116.xlsx) from the government's [live tables](https://www.gov.uk/government/statistical-data-sets/live-tables-on-dwelling-stock-including-vacants) on local authority dwelling stock show that since the manifesto pledge in 2014 there has been a net reduction in Southwark's council housing stock of 476 council homes.
 
 ![](http://35percent.org/img/livetableextract.png)
@@ -50,20 +49,6 @@ One such example is Blackfriars Circus, where the Council has [bought](http://35
 
 A [recent Cabinet report](http://moderngov.southwark.gov.uk/documents/s78248/Report%20New%20Homes%20Programme%20Delivery%20Model%20Review%202018.pdf) confirms that the Council has bought 239 such properties from developers to date (paragraph 17), with 80 more purchases in the pipeline. 
 
-We say that by buying up section 106 properties Southwark Council is not adding to the amount of social housing stock in the borough. It is simply buying homes that already exist and that housing associations would have otherwise bought and let as social housing.
-
-## Where's the money coming from?
-Southwark has also been selling off its [Town Halls](http://35percent.org/southwark-town-halls/) and street properties. In 2009, Southwark Council introduced a policy of selling off every council home that becomes void and is valued above £400,000. In 2011 this was [reviewed by the incoming Labour administration which reduced](http://moderngov.southwark.gov.uk/documents/s19458/Report%20Review%20of%20Void%20Disposal%20Strategy.pdf) the threshold to £300,000. Here are some of the properties [sold at auction](http://35percent.org/img/sold_by_southwark.pdf) by the current (Labour) administration under this policy:
+We say that by buying up section 106 properties Southwark Council is not adding to the amount of social housing stock in the borough. It is simply buying homes that already exist and that housing associations would have otherwise bought and let as social housing. An added effect is that this is that more competition will drive up the price of S106 housing - developers will be rubbing their hands.. etc etc
 
 
-
-Check this 2008 list of assets
-[list of assets](/img/item9assetslist.pdf)
-
-against this [assets list](/img/assetslist.xls) from 2017.
-
-How many homeless hostels have been sold off?
-
-What else has been sold off?
-
-Link to /auctions page.
