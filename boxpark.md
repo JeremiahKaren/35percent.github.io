@@ -1,8 +1,8 @@
 ---
 layout: page
 published: true
-title: "E&C Shopping Centre redevelopment"
-subtitle: "Traders say too small and too many restrictions in proposed temporary boxpark"
+title: "Mitigation for Shopping Centre traders inadequate"
+subtitle: "Traders say Delancey's temporary boxpark too small and too many restrictions"
 ---
 As a [condition](http://moderngov.southwark.gov.uk/mgAi.aspx?ID=49413) of the [granting of planning approval](http://35percent.org/2018-07-09-delancey/) for the [redevelopment of Elephant & Castle's shopping centre](http://35percent.org/shopping-centre), Developer Delancey is obliged to provide a temporary facility for displaced independent traders,
 
