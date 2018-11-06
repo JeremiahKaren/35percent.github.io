@@ -1,7 +1,9 @@
 ---
 layout: post
-title: "11000 new council homes: figures show net loss rather than gain"
-subtitle: "Southwark demolishing and selling off council homes faster than it is building them"
+title: '11000 new council homes: figures show net loss rather than gain'
+subtitle: >-
+  Southwark demolishing and selling off council homes faster than it is building
+  them
 published: false
 ---
 In 2014, as part of its manifesto pledge Southwark Council's administration [announced](http://www.southwarklabour.co.uk/latest-news/southwark/news.aspx?p=102262) an _"ambitious but realistic plan to build 11,000 new council homes"_ across the borough over the next 30 years. Concerns were [raised by us](http://35percent.org/the-southwark-clearances) and in the [local press](https://crappistmartin.github.io/images/SNHeygateOverage.pdf) that this would fail to make up for the thousands of council homes currently being lost to ongoing estate regeneration, void disposal polices and Right to Buy applications over the next 30 years.
@@ -24,11 +26,6 @@ Four years on and we have taken a look at whether Councillor John has delivered 
 ![](http://35percent.org/img/livetableextract.png)
 *Extract from the government's [Live Table 116](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/674346/LT_116.xlsx)*
 
-The government's statistics don't yet include figures for 2018, but with [GLA housing delivery data](https://www.london.gov.uk/sites/default/files/affordable_housing_starts_and_completions_-_end_of_june_2018.xls) showing that just 12 social rented homes were completed in Southwark between April 2017 and March 2018.
-
-![](http://35percent.org/img/glacompletions.png)
-*Extract from the latest [GLA housing delivery dataset](https://www.london.gov.uk/sites/default/files/affordable_housing_starts_and_completions_-_end_of_june_2018.xls)*
-
 The figures aren't saying that Southwark hasn't built any new council homes, only that the rate at which is building has not kept up with the rate at which it is knocking them down and selling them off. The Council has demolished 1200 council homes in its [Heygate estate regeneration](http://35percent.org/heygate-regeneration-faq/) and is demolishing circa 2700 more as part of its [Aylesbury estate regeneration](http://35percent.org/aylesbury-estate/) scheme.
 
 In addition, it has [sold 1300 council homes under the Right to Buy since 2012](https://www.insidehousing.co.uk/comment/comment/how-we-will-attempt-to-restrict-high-rents-on-right-to-buy-re-lets-58865) and has an ongoing policy of selling every council home that becomes vacant which is valued at £300k or more.
@@ -41,6 +38,60 @@ In addition, 112 of these new 'council homes' are temporary accommodation units 
 
 ![](http://35percent.org/img/lharates.png)
 
+Even if we count all these new homes as council homes at council rents, the short and long term trend is clearly one of declining stock:
+
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js">
+</script>
+<script src="http://code.highcharts.com/highcharts.js">
+</script>
+<script src="http://code.highcharts.com/modules/exporting.js">
+</script>
+
+<div id="container" style="min-width: 310px; height: 400px; margin: 0 auto">
+</div>
+
+<script type="text/javascript">
+
+        $('#container').highcharts({
+            title: {
+                text: "Southwark's Council Homes",
+                x: -20 //center
+            },
+            subtitle: {
+                text: 'Source: https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/674346/LT_116.xlsx',
+                x: -20
+            },
+            xAxis: {
+                categories: ['1994', '1995', '1996', '1997', '1998', '1999',
+                    '2000', '2001', '2002', '2003', '2004', '2005', '2006', '2007', '2008', '2009', '2010', '2011', '2012', '2013', '2014', '2015', '2016', '2017']
+            },
+            yAxis: {
+                title: {
+                    text: 'Council-owned stock'
+                },
+                plotLines: [{
+                    value: 0,
+                    width: 1,
+                    color: '#808080'
+                }]
+            },
+            tooltip: {
+                valueSuffix: ' Council homes'
+            },
+            legend: {
+                layout: 'vertical',
+                align: 'right',
+                verticalAlign: 'middle',
+                borderWidth: 0
+            },
+            series: [{
+                name: 'Southwark',
+                data: [55803, 55162, 54439, 53363, 52448, 51706, 50903, 49875, 48052, 46887, 45346, 43885, 42275, 41873, 41287, 40618, 40120, 39845, 39781, 38578, 39029, 38687, 38522, 38553]
+            }]
+        });
+
+</script>
+
 Conscious of its manifesto commitment and failure to build the number of new homes promised, Southwark is now turning to a different strategy - buying section 106 homes from developers. These are the rented element of affordable homes in new developments that a developer is obliged to build in accordance with planning policy.
 
 One such example is Blackfriars Circus, where the Council has [bought](http://35percent.org/2017-04-29-blackfriars-affordable-housing-circus/) 56 homes for £10m from developer Barratt.
@@ -50,5 +101,3 @@ One such example is Blackfriars Circus, where the Council has [bought](http://35
 A [recent Cabinet report](http://moderngov.southwark.gov.uk/documents/s78248/Report%20New%20Homes%20Programme%20Delivery%20Model%20Review%202018.pdf) confirms that the Council has bought 239 such properties from developers to date (paragraph 17), with 80 more purchases in the pipeline. 
 
 We say that by buying up section 106 properties Southwark Council is not adding to the amount of social housing stock in the borough. It is simply buying homes that already exist and that housing associations would have otherwise bought and let as social housing. An added effect is that this is that more competition will drive up the price of S106 housing - developers will be rubbing their hands.. etc etc
-
-
