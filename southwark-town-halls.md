@@ -13,6 +13,8 @@ A week after the sale Southwark [granted planning permission](http://moderngov.s
 
 ![](http://35percent.org/img/peckhamtownhall.png)
 
+The building is now let as luxury student accommodation where a single room will [set you back](https://www.gold.ac.uk/accommodation/halls/town-hall-camberwell/) circa £200 per week and a studio £300 per week.
+
 ## From Peckham to London Bridge
 Meanwhile the Council [resolved](http://www.london-se1.co.uk/news/view/6493) to buy the London Bridge office block it had been renting in the interim (from a Guernsey-based developer) for the grand sum of £170m.
 
@@ -21,6 +23,3 @@ Meanwhile the Council [resolved](http://www.london-se1.co.uk/news/view/6493) to 
 Having funded the purchase by borrowing against its own reserves, the Council was then in a strong position to argue that it didn't have the funds to carry out Decent Homes works on the Heygate and Aylesbury estates. In 2015 it [announced](http://moderngov.southwark.gov.uk/documents/s59115/Policy%20and%20Resources%20Strategy%20201617%20to%20201819.pdf) that it was cutting £39m from its education and adult care services budget while [closing and selling off a number of care facilities](http://35percent.org/auctions/#selling-southwarks-adult-care-services).
 
 ![](http://35percent.org/img/carehomesshutdown.jpg)
-
-
-
