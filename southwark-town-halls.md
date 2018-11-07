@@ -15,6 +15,8 @@ A week after the sale Southwark [granted planning permission](http://moderngov.s
 
 The building is now let as luxury student accommodation where a single room will [set you back](https://www.gold.ac.uk/accommodation/halls/town-hall-camberwell/) circa £200 per week and a studio £300 per week.
 
+![](https://www.gold.ac.uk/media/images-by-section/life-on-campus/accommodation/new-halls-images-2018/camberwell/0C8A1029.jpg)
+
 ## From Peckham to London Bridge
 Meanwhile the Council [resolved](http://www.london-se1.co.uk/news/view/6493) to buy the London Bridge office block it had been renting in the interim (from a Guernsey-based developer) for the grand sum of £170m.
 
