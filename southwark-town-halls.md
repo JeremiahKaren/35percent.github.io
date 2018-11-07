@@ -5,7 +5,7 @@ sharing: true
 footer: true
 published: true
 ---
-Peckham Town Hall served as Southwark's civic centre for all its meetings and core administrative functions for nearly half a century. In December 2014, the Council [sold it](https://www.southwarknews.co.uk/news/town-halls-residence-students-move-former-southwark-town-hall-peckham/) [to a Jersey-based developer (Alumno Developments)](http://crappistmartin.github.io/images/LR_PeckhamTownHall.pdf). 
+Peckham Town Hall served as Southwark's civic centre for all its meetings and core administrative functions for nearly half a century. In December 2014, Southwark's Labour administration [sold it](https://www.southwarknews.co.uk/news/town-halls-residence-students-move-former-southwark-town-hall-peckham/) [to a Jersey-based developer (Alumno Developments)](http://crappistmartin.github.io/images/LR_PeckhamTownHall.pdf). 
 
 ![](http://crappistmartin.github.io/images/PeckhamTownHall.jpg)
 
@@ -17,7 +17,7 @@ The building is now let as luxury student accommodation where a single room will
 
 ![](https://www.gold.ac.uk/media/images-by-section/life-on-campus/accommodation/new-halls-images-2018/camberwell/0C8A1029.jpg)
 
-## From Peckham to London Bridge
+## Moving upmarket from Peckham to London Bridge
 Meanwhile the Council [resolved](http://www.london-se1.co.uk/news/view/6493) to buy the plush glass-roof office block near London Bridge, that it had been renting (from a Guernsey-based developer) for the grand sum of £170m.
 
 ![](http://crappistmartin.github.io/images/tooleystreet.jpg)
@@ -26,4 +26,4 @@ Having funded the purchase by borrowing against its own reserves, the Council le
 
 ![](http://35percent.org/img/carehomesshutdown.jpg)
 
-Such has been the nature of austerity under Southwark's Labour administration. 
+Such has been the nature of austerity under Southwark's post-2010 Labour administration. 
