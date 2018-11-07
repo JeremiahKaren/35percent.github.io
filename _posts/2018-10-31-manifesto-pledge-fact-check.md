@@ -9,7 +9,7 @@ published: false
 In 2014, as part of its manifesto pledge Southwark Council's administration [announced](http://www.southwarklabour.co.uk/latest-news/southwark/news.aspx?p=102262) an _"ambitious but realistic plan to build 11,000 new council homes"_ across the borough over the next 30 years. Concerns were [raised by us](http://35percent.org/the-southwark-clearances) and in the [local press](https://crappistmartin.github.io/images/SNHeygateOverage.pdf) that this would fail to make up for the thousands of council homes currently being lost to ongoing estate regeneration, void disposal polices and Right to Buy applications over the next 30 years.
 
 ![](https://crappistmartin.github.io/images/SN1100homes.png)
-*Extract from an [article in the local newspaper](https://crappistmartin.github.io/images/SNHeygateOverage.pdf)*
+*Extract from an [Oct 2014 article in the local newspaper](https://crappistmartin.github.io/images/SNHeygateOverage.pdf)*
 
 Council leader Peter John subsequently issued an [open letter](http://35percent.org/img/pj11000councilhomesletter.pdf) insisting that the 11,000 council homes would be over and above the existing stock count - i.e. a net increase:
 
@@ -28,17 +28,17 @@ Four years on and we have taken a look at whether Councillor John has delivered 
 
 The figures aren't saying that Southwark hasn't built any new council homes, only that the rate at which is building has not kept up with the rate at which it is knocking them down and selling them off. The Council has demolished 1200 council homes in its [Heygate estate regeneration](http://35percent.org/heygate-regeneration-faq/) and is demolishing circa 2700 more as part of its [Aylesbury estate regeneration](http://35percent.org/aylesbury-estate/) scheme.
 
-In addition, it has [sold 1300 council homes under the Right to Buy since 2012](https://www.insidehousing.co.uk/comment/comment/how-we-will-attempt-to-restrict-high-rents-on-right-to-buy-re-lets-58865) and has an ongoing policy of selling every council home that becomes vacant which is valued at £300k or more.
+In addition, it has [sold 1300 council homes under the Right to Buy since 2012](https://www.insidehousing.co.uk/comment/comment/how-we-will-attempt-to-restrict-high-rents-on-right-to-buy-re-lets-58865) and has an [ongoing policy](http://35percent.org/the-southwark-clearances/#void-disposal-policy) of selling every council home that becomes vacant which is valued at £300k or more.
 
-Meanwhile, this [30th Oct 2018 Cabinet report](http://moderngov.southwark.gov.uk/documents/s78248/Report%20New%20Homes%20Programme%20Delivery%20Model%20Review%202018.pdf) confirms that the council has built just 262 council homes so far (para 12). 
+Meanwhile, this [30th Oct 2018 Cabinet report](http://moderngov.southwark.gov.uk/documents/s78248/Report%20New%20Homes%20Programme%20Delivery%20Model%20Review%202018.pdf) confirms that the council has built just 262 council homes to date (para 12). 
 
-Although it is not clear whether these have all been let at council rents. The [appendix](http://moderngov.southwark.gov.uk/documents/s78251/Appendix%202%20Map%20showing%20approved%20schemes.pdf) to the report lists the council homes simply as 'rented units'. We have [blogged previously](http://35percent.org/2017-04-29-blackfriars-affordable-housing-circus/#10m-wasted-and-new-council-homes-not-even-social-rent) about new 'council homes' now being let at a percentage of market rent (40%) rather than social rent (which is currently approx 20% of market rent). 
+Although it is not clear whether these have all been let at council rents. The [appendix](http://moderngov.southwark.gov.uk/documents/s78251/Appendix%202%20Map%20showing%20approved%20schemes.pdf) to the Cabinet report lists the council homes simply as 'rented units'. We have [blogged previously](http://35percent.org/2017-04-29-blackfriars-affordable-housing-circus/#10m-wasted-and-new-council-homes-not-even-social-rent) about new 'council homes' now being let at a percentage of market rent (40%) rather than social rent (which is currently approx 20% of market rent). 
 
 In addition, 112 of these new 'council homes' are temporary accommodation units in hostels (_Willow Walk_ - 75 units, _Good Neighbours House_ - 37 units) and are [let](http://moderngov.southwark.gov.uk/documents/s65880/Temporary%20Accommodation%20Report.pdf) at [LHA rent levels](https://lha-direct.voa.gov.uk/SearchResults.aspx?LocalAuthorityId=28&LHACategory=999&Month=10&Year=2018&SearchPageParameters=true), which are more than twice current council rent levels.
 
 ![](http://35percent.org/img/lharates.png)
 
-Even if we count all these new homes as council homes at council rents, the short and long term trend is clearly one of declining stock:
+Even if we count all these new homes as council homes at council rents, the short and long term trend is clearly one of a ongoing decline in the number of council homes:
 
 <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js">
 </script>
@@ -100,4 +100,4 @@ One such example is Blackfriars Circus, where the Council has [bought](http://35
 
 A [recent Cabinet report](http://moderngov.southwark.gov.uk/documents/s78248/Report%20New%20Homes%20Programme%20Delivery%20Model%20Review%202018.pdf) confirms that the Council has bought 239 such properties from developers to date (paragraph 17), with 80 more purchases in the pipeline. 
 
-We say that by buying up section 106 properties Southwark Council is not adding to the amount of social housing stock in the borough. It is simply buying homes that already exist and that housing associations would have otherwise bought and let as social housing. An added effect is that this is that more competition will drive up the price of S106 housing - developers will be rubbing their hands.. etc etc
+We say that by buying up section 106 properties Southwark Council is not adding to the amount of social housing stock in the borough. It is simply buying homes that already exist and that housing associations would have otherwise bought and let as social housing. An added effect is that this increases the competition for S106 housing driving up the price - developers are rubbing their hands.. etc etc
