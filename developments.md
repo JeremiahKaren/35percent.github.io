@@ -9,7 +9,7 @@ subtitle: Summary of regeneration schemes
   
 <h1><a href="/heygate-regeneration-faq/">Heygate estate regeneration</a></h1>
 
-<img src="http://www.construction360.co.uk/wp-content/uploads/cantillon-balfour-014.jpg" width="100" align="left">
+<img src="https://southwarknotes.files.wordpress.com/2012/09/dsc_9608.jpg" width="100" align="left">
 </article>
 
 <article class="post-preview">
