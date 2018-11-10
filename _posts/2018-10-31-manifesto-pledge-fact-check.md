@@ -40,7 +40,7 @@ In any event, 112 of these new 'council homes' are temporary accommodation units
 
 ![](http://35percent.org/img/lharates.png)
 
-Even if we count all these new homes as council homes at council rents, the short and long term trend is clearly one of a ongoing decline in the number of council homes:
+Even if we do count all these new homes as council homes at council rents, the short and long term trend is clearly one of a ongoing decline in the number of council homes:
 
 <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js">
 </script>
