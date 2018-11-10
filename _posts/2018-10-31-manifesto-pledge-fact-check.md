@@ -36,7 +36,7 @@ An additional 239 units of developer-built (S106) affordable housing has been bo
 
 It is also not clear whether [all the new homes]((http://moderngov.southwark.gov.uk/documents/s78251/Appendix%202%20Map%20showing%20approved%20schemes.pdf)) have been let at council rents.  We have [blogged previously](http://35percent.org/2017-04-29-blackfriars-affordable-housing-circus/#10m-wasted-and-new-council-homes-not-even-social-rent) about new 'council homes' now being let at a percentage of market rent (40%) rather than social rent (which is currently approx 20% of market rent). 
 
-In addition, 112 of these new 'council homes' are temporary accommodation units in hostels (_Willow Walk_ - 75 units, _Good Neighbours House_ - 37 units) and are [let](http://moderngov.southwark.gov.uk/documents/s65880/Temporary%20Accommodation%20Report.pdf) at [LHA rent levels](https://lha-direct.voa.gov.uk/SearchResults.aspx?LocalAuthorityId=28&LHACategory=999&Month=10&Year=2018&SearchPageParameters=true), which are more than twice current council rent levels.
+In any event, 112 of these new 'council homes' are temporary accommodation units in hostels (_Willow Walk_ - 75 units, _Good Neighbours House_ - 37 units) and are [let](http://moderngov.southwark.gov.uk/documents/s65880/Temporary%20Accommodation%20Report.pdf) at [LHA rent levels](https://lha-direct.voa.gov.uk/SearchResults.aspx?LocalAuthorityId=28&LHACategory=999&Month=10&Year=2018&SearchPageParameters=true), which are more than twice current council rent levels.
 
 ![](http://35percent.org/img/lharates.png)
 
