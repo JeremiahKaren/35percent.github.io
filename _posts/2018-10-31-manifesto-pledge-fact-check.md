@@ -2,7 +2,7 @@
 layout: post
 title: '11000 new council homes: figures show loss rather than gain'
 subtitle: >-
-  Southwark demolishing and selling off council homes faster than it is building
+  Southwark is demolishing and selling off council homes faster than it's building
   them
 date: 'Sat Nov 10 2018 00:00:00 GMT+0000 (Greenwich Mean Time)'
 published: true
