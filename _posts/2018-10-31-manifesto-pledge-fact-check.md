@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '11000 new council homes: figures show net loss rather than gain'
+title: '11000 new council homes: figures show loss rather than gain'
 subtitle: >-
   Southwark demolishing and selling off council homes faster than it is building
   them
