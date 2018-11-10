@@ -33,9 +33,12 @@ In addition, it has [sold 1300 council homes under the Right to Buy since 2012](
 
 Meanwhile, this [30th Oct 2018 Cabinet report](http://moderngov.southwark.gov.uk/documents/s78248/Report%20New%20Homes%20Programme%20Delivery%20Model%20Review%202018.pdf) confirms that the council has built just 262 council homes over 5 years (para 12).  
 
-An additional 239 units of developer-built (S106) affordable housing have been bought by Southwark, to become council housing. A problem with this method of buying council housing is that it does not actually increase the net supply of social housing - the same units would otherwise have been bought and let by a housing association anyway.  Further, Southwark is denying itself the benefit of the S106 contribution, by paying for something a housing association would have paid for anyway - and, rather perversely, denying itself funds for building units that would actually increase the net supply.
+An additional 239 units of developer-built (S106) affordable housing have been bought by Southwark, to become council housing. One such example is Blackfriars Circus, where the Council has [bought](http://35percent.org/2017-04-29-blackfriars-affordable-housing-circus/) 56 homes for £10m from developer Barratt.
 
-It is also not clear whether [all the new homes]((http://moderngov.southwark.gov.uk/documents/s78251/Appendix%202%20Map%20showing%20approved%20schemes.pdf) have been let at council rents.  We have [blogged previously](http://35percent.org/2017-04-29-blackfriars-affordable-housing-circus/#10m-wasted-and-new-council-homes-not-even-social-rent) about new 'council homes' now being let at a percentage of market rent (40%) rather than social rent (which is currently approx 20% of market rent). 
+![](http://35percent.org/img/tweetmwilliamsblackfriars.png)
+A problem with this method of buying council housing is that it does not actually increase the net supply of social housing - the same units would otherwise have been bought and let by a housing association anyway.  Further, Southwark is denying itself the benefit of the S106 contribution, by paying for something a housing association would have paid for anyway - and, rather perversely, denying itself funds for building units that would actually increase the net supply.
+
+It is also not clear whether [all the new homes](http://moderngov.southwark.gov.uk/documents/s78251/Appendix%202%20Map%20showing%20approved%20schemes.pdf) have been let at council rents.  We have [blogged previously](http://35percent.org/2017-04-29-blackfriars-affordable-housing-circus/#10m-wasted-and-new-council-homes-not-even-social-rent) about new 'council homes' now being let at a percentage of market rent (40%) rather than social rent (which is currently approx 20% of market rent). 
 
 In any event, 112 of these new 'council homes' are temporary accommodation units in hostels (_Willow Walk_ - 75 units, _Good Neighbours House_ - 37 units) and are [let](http://moderngov.southwark.gov.uk/documents/s65880/Temporary%20Accommodation%20Report.pdf) at [LHA rent levels](https://lha-direct.voa.gov.uk/SearchResults.aspx?LocalAuthorityId=28&LHACategory=999&Month=10&Year=2018&SearchPageParameters=true), which are more than twice current council rent levels.
 
@@ -97,9 +100,7 @@ Even if we do count all these new homes as council homes at council rents, the s
 
 Conscious of its manifesto commitment and failure to build the number of new homes promised, Southwark is now turning to a different strategy - buying section 106 homes from developers. These are the rented element of affordable homes in new developments that a developer is obliged to build in accordance with planning policy.
 
-One such example is Blackfriars Circus, where the Council has [bought](http://35percent.org/2017-04-29-blackfriars-affordable-housing-circus/) 56 homes for £10m from developer Barratt.
 
-![](http://35percent.org/img/tweetmwilliamsblackfriars.png)
 
 A [recent Cabinet report](http://moderngov.southwark.gov.uk/documents/s78248/Report%20New%20Homes%20Programme%20Delivery%20Model%20Review%202018.pdf) confirms that the Council has bought 239 such properties from developers to date (paragraph 17), with 80 more purchases in the pipeline. 
 
