@@ -44,7 +44,7 @@ Former Cabinet member for Regeneration Fiona Colley was responsible for overseei
 
 
 ## Quebec Quarter
-['Quebec Quarter'](http://www.quebecquarter.co.uk/) is a scheme by [London & Quadrant](http://www.lqgroup.org.uk/) designed by [Alan Camp architects](http://www.alancamp.com/), which borders Quebec Way and overlooks Russia Dock Woodland.
+['Quebec Quarter' ](http://www.quebecquarter.co.uk/) is a scheme by [London & Quadrant](http://www.lqgroup.org.uk/) designed by [Alan Camp architects](http://www.alancamp.com/), which borders Quebec Way and overlooks Russia Dock Woodland.
 
 L&Q was granted permission in 2011 for the construction of 7 blocks comprising 366 residential units. Having submitted a viability assessment claiming it couldn't afford to provide the requisite 35% affordable housing, L&Q was permitted to provide just 25% affordable housing. 
 
@@ -75,7 +75,7 @@ However, according to the Council's planning portal there has been no such viabi
 
 [Land Registry docs for 2003 sale](/img/LRSitesCandE.pdf)
 
-Sites C&E are the footprint of the former Decathlon sports superstore and garden centre behind it. The site was purchased with extant planning permission by Shard developer Sellar in 2010 for £16m. 
+Sites C&E are the footprint of the former Decathlon sports superstore and garden centre behind it, which has now been rebranded as 'The Water Yards'. The site was purchased with extant planning permission by Shard developer Sellar in 2010 for £16m. 
 
 The [extant permission](http://planbuild.southwark.gov.uk/documents/?casereference=09/AP/1783&system=DC) was for 430 homes of which 74 would be social rented. Southwark council had stood firm on this original application by [insisting](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!CFyLnDePeJAeI7ElqRPpKA%3d%3d!%7d%7d%7d) that the site could support 28% affordable housing at the policy compliant tenure mix (shared ownership/social rented).
 
