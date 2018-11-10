@@ -4,7 +4,8 @@ title: '11000 new council homes: figures show net loss rather than gain'
 subtitle: >-
   Southwark demolishing and selling off council homes faster than it is building
   them
-published: false
+date: 2018-11-10
+published: true 
 ---
 In 2014, as part of its manifesto pledge Southwark Council's administration [announced](http://www.southwarklabour.co.uk/latest-news/southwark/news.aspx?p=102262) an _"ambitious but realistic plan to build 11,000 new council homes"_ across the borough over the next 30 years. Concerns were [raised by us](http://35percent.org/the-southwark-clearances) and in the [local press](https://crappistmartin.github.io/images/SNHeygateOverage.pdf) that this would fail to make up for the thousands of council homes currently being lost to ongoing estate regeneration, void disposal polices and Right to Buy applications over the next 30 years.
 
