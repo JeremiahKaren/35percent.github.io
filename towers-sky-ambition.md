@@ -8,7 +8,7 @@ The last ten years has seen a flurry of high-profile, high-density, high-rise de
 
 | [Neo Bankside](/neo-bankside) | [Sampson & Ludgate House](http://35percent.org/ludgate-and-sampson/) | [Elephant One](/tribeca-square) | [SouthBank Tower](http://www.london-se1.co.uk/news/view/8222) | [Heygate estate](http://35percent.org/affordable-housing/) | 
 | ------------ | ------------ |-------------|------------
-| <img src="http://www.e-architect.co.uk/images/jpgs/london/neo_bankside_n220912_n.jpg" width="210"> | <img src="/img/slhouse.jpg" width="210"> | <img src="http://35percent.org/img/elone.jpg" width="210"> | <img src="/img/sbanktower.jpg" width="200"> | <img src="/img/epark.jpg" width="150" height="250"> |
+| <img src="http://www.e-architect.co.uk/images/jpgs/london/neo_bankside_n220912_n.jpg" width="210"> | <img src="/img/slhouse.jpg" width="210"> | <img src="http://35percent.org/img/elone.jpg" width="210"> | <img src="/img/sbanktower.jpg" width="200"> | <img src="/img/epark.jpg" width="210"> |
 | 217 Homes<br>0 Social rent | 490 Homes<br>0 Social rent | 646 Homes<br> 0 Social rent | 193 Homes<br>0 Social rent | 2704 Homes<br>82 Social rent |
 
 
@@ -20,9 +20,13 @@ The last ten years has seen a flurry of high-profile, high-density, high-rise de
 
 | [E&C Shopping Centre](/shopping-centre) | [Wood Dene estate](/wood-dene-estate-regeneration/) | [Quebec Quarter (CW)](http://35percent.org/canada-water/#quebec-quarter) | [Water Yards (CW)](http://35percent.org/canada-water/#canada-water-sites-ce) | [Mulberry Business Park (CW)](http://35percent.org/canada-water/#former-mulberry-business-park) | 
 | ------------ | ------------ |-------------|------------
-| <img src="http://35percent.org/img/shopcentre.jpg" width="210"> | <img src="http://35percent.org/img/wooddene500.jpg" width="210"> | <img src="/img/quebecquarter.jpg" width="210"> | <img src="https://crappistmartin.github.io/images/canadawater.png" width="210"> | <img src="/Mulberry.jpg" width="210"> |
+| <img src="http://35percent.org/img/shopcentre.jpg" width="210"> | <img src="http://35percent.org/img/wooddene500.jpg" width="210"> | <img src="/img/quebecquarter.jpg" width="210"> | <img src="https://crappistmartin.github.io/images/canadawater.png" width="210"> | <img src="/img/Mulberry.jpg" width="210"> |
 | 979 Homes<br>116 Social rent | 333 Homes<br> 54 Social rent | 366 Homes<br>51 Social rent | 1046 Homes<br>34 Social rent | 770 Homes<br>23 Social rent |
 
+| [360 Tower](http://35percent.org/london-360-tower/) | [18 Blackfriars Rd](/20-blackfriars-road/) | [Quebec Quarter (CW)](http://35percent.org/canada-water/#quebec-quarter) | [Water Yards (CW)](http://35percent.org/canada-water/#canada-water-sites-ce) | [Mulberry Business Park (CW)](http://35percent.org/canada-water/#former-mulberry-business-park) | 
+| ------------ | ------------ |-------------|------------
+| <img src="http://35percent.org/img/london360.jpg" width="210"> | <img src="http://www.skyscrapernews.com/images/pics/521520BlackfriarsRoadResidentialTower_pic2.jpg" width="210"> | <img src="/img/quebecquarter.jpg" width="210"> | <img src="https://crappistmartin.github.io/images/canadawater.png" width="210"> | <img src="/img/Mulberry.jpg" width="210"> |
+| 457 Homes<br>0 Social rent | 288 Homes<br> 61 Social rent | 366 Homes<br>51 Social rent | 1046 Homes<br>34 Social rent | 770 Homes<br>23 Social rent |
 
 Southwark's planning policy says that 35% of all new homes should be affordable of which either half or two thirds should be social rented (depending on the area). Had these schemes complied with policy then Southwark would have had xxxx extra social rented homes available to those on its housing waiting list.
 
