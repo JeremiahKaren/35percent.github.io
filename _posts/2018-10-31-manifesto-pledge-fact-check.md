@@ -33,7 +33,7 @@ In addition, it has [sold 1300 council homes under the Right to Buy since 2012](
 
 Meanwhile, this [30th Oct 2018 Cabinet report](http://moderngov.southwark.gov.uk/documents/s78248/Report%20New%20Homes%20Programme%20Delivery%20Model%20Review%202018.pdf) confirms that the council has built just 262 council homes over 5 years (para 12).  
 
-An additional 239 units of developer-built (S106) affordable housing have been bought by Southwark, to become council housing. One such example is Blackfriars Circus, where the Council has [bought](http://35percent.org/2017-04-29-blackfriars-affordable-housing-circus/) 56 homes for £10m from developer Barratt.
+The [Cabinet report](http://moderngov.southwark.gov.uk/documents/s78248/Report%20New%20Homes%20Programme%20Delivery%20Model%20Review%202018.pdf) confirms that an additional 239 units of developer-built (S106) affordable housing have been bought by Southwark, to become council housing (para 17). One such example is Blackfriars Circus, where the Council has [bought](http://35percent.org/2017-04-29-blackfriars-affordable-housing-circus/) 56 homes for £10m from developer Barratt.
 
 ![](http://35percent.org/img/tweetmwilliamsblackfriars.png)
 
@@ -99,10 +99,3 @@ Even if we do count all these new homes as council homes at council rents, the s
 
 </script>
 
-Conscious of its manifesto commitment and failure to build the number of new homes promised, Southwark is now turning to a different strategy - buying section 106 homes from developers. These are the rented element of affordable homes in new developments that a developer is obliged to build in accordance with planning policy.
-
-
-
-A [recent Cabinet report](http://moderngov.southwark.gov.uk/documents/s78248/Report%20New%20Homes%20Programme%20Delivery%20Model%20Review%202018.pdf) confirms that the Council has bought 239 such properties from developers to date (paragraph 17), with 80 more purchases in the pipeline. 
-
-We say that by buying up section 106 properties Southwark Council is not adding to the amount of social housing stock in the borough. It is simply buying homes that already exist and that housing associations would have otherwise bought and let as social housing. An added effect is that this increases the competition for S106 housing driving up the price - developers are rubbing their hands.. etc etc
