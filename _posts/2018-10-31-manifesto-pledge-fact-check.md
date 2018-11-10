@@ -36,6 +36,7 @@ Meanwhile, this [30th Oct 2018 Cabinet report](http://moderngov.southwark.gov.uk
 An additional 239 units of developer-built (S106) affordable housing have been bought by Southwark, to become council housing. One such example is Blackfriars Circus, where the Council has [bought](http://35percent.org/2017-04-29-blackfriars-affordable-housing-circus/) 56 homes for £10m from developer Barratt.
 
 ![](http://35percent.org/img/tweetmwilliamsblackfriars.png)
+
 A problem with this method of buying council housing is that it does not actually increase the net supply of social housing - the same units would otherwise have been bought and let by a housing association anyway.  Further, Southwark is denying itself the benefit of the S106 contribution, by paying for something a housing association would have paid for anyway - and, rather perversely, denying itself funds for building units that would actually increase the net supply.
 
 It is also not clear whether [all the new homes](http://moderngov.southwark.gov.uk/documents/s78251/Appendix%202%20Map%20showing%20approved%20schemes.pdf) have been let at council rents.  We have [blogged previously](http://35percent.org/2017-04-29-blackfriars-affordable-housing-circus/#10m-wasted-and-new-council-homes-not-even-social-rent) about new 'council homes' now being let at a percentage of market rent (40%) rather than social rent (which is currently approx 20% of market rent). 
