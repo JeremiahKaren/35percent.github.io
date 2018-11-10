@@ -43,10 +43,7 @@ Every major planning application requires a Statement of Community Involvement
 (SCI) to demonstrate that the developer has consulted with the local community 
 and that its plans have public support. __Four__ has helped developers obtain 
 permission and produced SCIs for an impressive list of (social housing-free) 
-developments in Southwark. The table below provides links to the SCIs created 
-by __Four__ for each of the following developments which it helped obtain 
-permission:
-
+developments in Southwark. The table below shows a number of developments in the borough where _Four Communications_ have provided a Statement of Community Involvement:
 
 | [Neo Bankside](/neo-bankside) | [Sampson & Ludgate House](http://35percent.org/ludgate-and-sampson/) | [Elephant One](/tribeca-square) | [SouthBank Tower](http://www.london-se1.co.uk/news/view/8222) | The Shard | 
 | ------------ | ------------ |-------------|------------
@@ -55,10 +52,10 @@ permission:
 
 
 
-| St. George's Wharf | One Blackfriars | Eileen House | Strata Tower | The Quill | 
+| St. George's Wharf | [One Blackfriars](/one-blackfriars/ | ['251 London'](/eileen-house) | Strata Tower | The Quill | 
 | ------------ | ------------ |-------------|------------
-| <img src="http://www.skyscrapernews.com/images/pics/119TheTowerOneStGeorgeWharf_pic2.jpg" width="150" height="200"> | <img src="http://www.london-se1.co.uk/news/imageuploads/1349877683_80.177.117.97.jpg" width="125" height="200"> | <img src="http://www.london-se1.co.uk/news/imageuploads/1387461650_80.79.211.163.jpg" width="150" height="200"> | <img src="http://www.e-architect.co.uk/images/jpgs/london/strata_se1_bfls060410_wp.jpg" width="150" height="250"> | <img src="http://www.london-se1.co.uk/news/imageuploads/1291215503_80.177.117.97.jpg" width="150" height="250"> |
-| [http://fourcomm..](https://www.fourcommunications.com/work-gallery/media-and-marketing-st-george) | [http://planningonli..](http://planningonline.southwark.gov.uk/DocsOnline/Documents/230650_1.pdf)| [http://planningonl..](http://planningonline.southwark.gov.uk/DocsOnline/Documents/42382_1.pdf) | [http://planningon..](http://planningonline.southwark.gov.uk/DocsOnline/Documents/15810_1.pdf) | [http://planningonl..](http://planningonline.southwark.gov.uk/DocsOnline/Documents/75686_1.pdf) |
+| <img src="http://www.skyscrapernews.com/images/pics/119TheTowerOneStGeorgeWharf_pic2.jpg" width="150" height="200"> | <img src="http://www.london-se1.co.uk/news/imageuploads/1349877683_80.177.117.97.jpg" width="210"> | <img src="http://www.london-se1.co.uk/news/imageuploads/1387461650_80.79.211.163.jpg" width="150" height="200"> | <img src="http://www.e-architect.co.uk/images/jpgs/london/strata_se1_bfls060410_wp.jpg" width="150" height="250"> | <img src="http://www.london-se1.co.uk/news/imageuploads/1291215503_80.177.117.97.jpg" width="150" height="250"> |
+| [http://fourcomm..](https://www.fourcommunications.com/work-gallery/media-and-marketing-st-george) | 274 Homes<br> 0 Social rent | 270 Homes<br>0 Social rent | 408 Homes<br>0 Social rent | 119 Homes<br>0 Social rent |
 
 Another working example is [Strata Tower](/strata-tower/), which shows what a sham __Four__'s SCI consultation process is: its consultation showed that it had consulted just 13 people - hardly evidence of widespread public support. Unsurprisingly most of these agreed to the vague and narrowly-framed questions aimed at restricting any kind of meaningful consultation:
 
