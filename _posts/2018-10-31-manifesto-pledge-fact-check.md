@@ -7,7 +7,7 @@ subtitle: >-
 date: 'Sat Nov 10 2018 00:00:00 GMT+0000 (Greenwich Mean Time)'
 published: true
 ---
-In 2014, as part of its manifesto pledge Southwark Council's administration [announced](http://www.southwarklabour.co.uk/latest-news/southwark/news.aspx?p=102262) an _"ambitious but realistic plan to build 11,000 new council homes"_ across the borough over the next 30 years. Concerns were [raised by us](http://35percent.org/the-southwark-clearances) and in the [local press](https://crappistmartin.github.io/images/SNHeygateOverage.pdf) that this would fail to make up for the thousands of council homes currently being lost to ongoing estate regeneration, void disposal polices and Right to Buy applications over the next 30 years.
+In 2014, as part of its manifesto pledge Southwark Council's administration [announced](http://www.southwarklabour.co.uk/latest-news/southwark/news.aspx?p=102262) an _"ambitious but realistic plan to build 11,000 new council homes"_ across the borough over the next 30 years. Concerns were [raised by us](http://35percent.org/the-southwark-clearances) and in the [local press](https://crappistmartin.github.io/images/SNHeygateOverage.pdf) that this would fail to make up for the thousands of council homes currently being lost to ongoing estate regeneration, [void disposal policies](http://35percent.org/the-southwark-clearances/#void-disposal-policy) and Right to Buy applications over the next 30 years.
 
 ![](https://crappistmartin.github.io/images/SN1100homes.png)
 *Extract from an [Oct 2014 article in the local newspaper](https://crappistmartin.github.io/images/SNHeygateOverage.pdf)*
@@ -45,7 +45,7 @@ In any event, 112 of these new 'council homes' are temporary accommodation units
 
 ![](http://35percent.org/img/lharates.png)
 
-Even if we do count all these new homes as council homes at council rents, the short and long term trend is clearly one of a ongoing decline in the number of council homes:
+Even if we do count all these new homes as council homes at council rents, the short and long term trend is clearly one of an ongoing decline rather than net increase in the number of council homes:
 
 <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js">
 </script>
