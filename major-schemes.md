@@ -11,8 +11,6 @@ The last ten years has seen a flurry of high-profile, high-density, high-rise de
 | <img src="http://www.e-architect.co.uk/images/jpgs/london/neo_bankside_n220912_n.jpg" width="210"> | <img src="/img/slhouse.jpg" width="210"> | <img src="http://35percent.org/img/elone.jpg" width="210"> | <img src="/img/sbanktower.jpg" width="200"> | <img src="/img/epark.jpg" width="210"> |
 | 217 Homes<br>0 Social rent | 490 Homes<br>0 Social rent | 646 Homes<br> 0 Social rent | 193 Homes<br>0 Social rent | 2704 Homes<br>82 Social rent |
 
-
-
 | [One the Elephant](/one-the-elephant) | [One Blackfriars](/one-blackfriars/) | [251 London](/eileen-house) | [Strata Tower](/strata-tower) | [The Quill](/the-quill) | 
 | ------------ | ------------ |-------------|------------
 | <img src="http://35percent.org/img/otetrumptower.jpg" width="210"> | <img src="http://35percent.org/img/obcgi.jpg" width="210"> | <img src="/img/251london.jpg" width="210"> | <img src="http://www.e-architect.co.uk/images/jpgs/london/strata_se1_bfls060410_wp.jpg" width="210"> | <img src="http://www.london-se1.co.uk/news/imageuploads/1291215503_80.177.117.97.jpg" width="210"> |
@@ -33,14 +31,14 @@ The last ten years has seen a flurry of high-profile, high-density, high-rise de
 | <img src="http://35percent.org/img/wingofcamberwell.jpg" width="210"> | <img src="/img/cotg.jpg" width="210"> | <img src="/img/wroad.jpg" width="210"> | <img src="/img/otbridge.jpg" width="210"> | <img src="/img/bexchange.jpg" width="210"> |
 | 164 Homes<br>18 Social rent | 101 Homes<br> 0 Social rent | 122 Homes<br>6 Social rent | 356 Homes<br>0 Social rent | 205 Homes<br>0 Social rent |
 
-__Total: 11,863 New Homes__
-__456 Social rented (3.8%)__
+__Total: 11,863 New Homes__  
+__Social rented: 456 (3.8%)__
 
-Southwark's planning policy says that 35% of all new homes must be affordable of which 70% must be social rented, except for Elephant & Castle/Camberwell where the split is 50% social rented, 50% shared ownership. Just over half (6135) of the 11,863 homes in the schemes listed above are in areas with a 50/50 tenure split requirement, the remainder require a 70/30 split. On this basis it can be said that had Southwark stood firm and forced these schemes to comply with policy then it would have had secured approximately 2,500 social rented homes in total. In the event it secured just 456.
+Southwark's planning policy says that 35% of all new homes must be affordable of which 70% must be social rented, except for Elephant & Castle/Camberwell where the split is 50% social rented, 50% shared ownership. Just over half (6135) of the 11,863 homes in the schemes listed above are in areas with a 50/50 tenure split requirement, the remainder require a 70/30 split.
 
-This would have been 1,500 extra social rented homes available to those on its housing waiting list.
+On this basis it can be said that had Southwark stood firm and forced these schemes to comply with policy then it would have had secured approximately 2,500 social rented homes in total. In the event it secured just 456. Had it stood firm there would have been 1,500 extra social rented homes available to those on its housing waiting list.
 
-It is fair to say that in a small number of the schemes, developers have provided a 'commuted sum' in lieu of providing any affordable housing. However, as [pointed out by local news site SE1](http://www.london-se1.co.uk/news/view/8222) these sums are often equal to the price of just one penthouse apartment.
+It is fair to say that in a small number of the schemes, developers have provided a 'commuted sum' in lieu of providing any affordable housing. However, as [pointed out by local news site SE1](http://www.london-se1.co.uk/news/view/8222) these sums are often equal to the price of just one of the penthouse apartments.
 
 It is also fair to say that some of the schemes have provided 'affordable rent' instead of social rent, which is anything up to 80% of market rent (approx 500 in total). We have not included these because they are not affordable to the majority of Southwark residents, especially those on the housing waiting list.
 
