@@ -1,10 +1,10 @@
 ---
 layout: page
-title: "Towers, Sky & Ambition"
+title: "Major Schemes"
 subtitle: "Major developments approved in Southwark and their contribution to local housing need"
 published: true
 ---
-The last ten years has seen a flurry of high-profile, high-density, high-rise developments approved by Southwark - but how have they benefitted the local community? The following table shows a number of major schemes approved (almost exclusively by the current Labour administration) and the number of social rented homes in each development.
+The last ten years has seen a flurry of high-profile, high-density, high-rise developments approved by Southwark - but how have they benefitted the local community? The following table shows a number of major schemes approved (almost exclusively by the current Labour administration) and the number of social rented homes provided in each development.
 
 | [Neo Bankside](/neo-bankside) | [Sampson & Ludgate House](http://35percent.org/ludgate-and-sampson/) | [Elephant One](/tribeca-square) | [SouthBank Tower](http://www.london-se1.co.uk/news/view/8222) | [Heygate estate](http://35percent.org/affordable-housing/) | 
 | ------------ | ------------ |-------------|------------
@@ -33,11 +33,14 @@ The last ten years has seen a flurry of high-profile, high-density, high-rise de
 | <img src="http://35percent.org/img/wingofcamberwell.jpg" width="210"> | <img src="/img/cotg.jpg" width="210"> | <img src="/img/wroad.jpg" width="210"> | <img src="/img/otbridge.jpg" width="210"> | <img src="/img/bexchange.jpg" width="210"> |
 | 164 Homes<br>18 Social rent | 101 Homes<br> 0 Social rent | 122 Homes<br>6 Social rent | 356 Homes<br>0 Social rent | 205 Homes<br>0 Social rent |
 
-Southwark's planning policy says that 35% of all new homes should be affordable of which 70% should be social rented (50% at Elephant & Castle). Had these schemes complied with policy then Southwark would have had xxxx extra social rented homes available to those on its housing waiting list.
+__Total: 11,863 New Homes__
+__456 Social rented (3.8%)__
 
-It is fair to say that in some of the schemes, developers have provided a 'commuted sum' in lieu of providing any affordable housing. However, as [pointed out by local news site SE1](http://www.london-se1.co.uk/news/view/8222) these sums are often equal to the price of just one penthouse apartment.
+Southwark's planning policy says that 35% of all new homes must be affordable of which 70% must be social rented, except for Elephant & Castle/Camberwell where the split is 50% social rented, 50% shared ownership. Just over half (6135) of the 11,863 homes in the schemes listed above are in areas with a 50/50 tenure split requirement, the remainder require a 70/30 split. On this basis it can be said that had Southwark stood firm and forced these schemes to comply with policy then it would have had secured approximately 2,500 social rented homes in total. In the event it secured just 456.
 
-It is also fair to say that some of the schemes have provided 'affordable rent' instead of social rent, which is anything up to 80% of market rent (total xxxx). We have not included these because they are not affordable to the majority of Southwark residents, especially those on the housing waiting list.
+This would have been 1,500 extra social rented homes available to those on its housing waiting list.
 
-Towers, sky and ambition is all very well, but dreams and visions eventually become reality..
+It is fair to say that in a small number of the schemes, developers have provided a 'commuted sum' in lieu of providing any affordable housing. However, as [pointed out by local news site SE1](http://www.london-se1.co.uk/news/view/8222) these sums are often equal to the price of just one penthouse apartment.
+
+It is also fair to say that some of the schemes have provided 'affordable rent' instead of social rent, which is anything up to 80% of market rent (approx 500 in total). We have not included these because they are not affordable to the majority of Southwark residents, especially those on the housing waiting list.
 
