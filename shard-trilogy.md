@@ -15,15 +15,19 @@ says that it was decided that the Wood Dene estate was too far out and that site
 
 ![](http://crappistmartin.github.io/images/shardtrilogyaddendum.png)
 
-However, the [section 106 agreement](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!ZXy71ko3venf5X0XMQvpGg%3d%3d!%7d%7d%7d) identifies just 3 sites in the following order of preference:
+In 2016, the developer signed an agreement with Hyde Housing association to provide its affordable housing at Hyde's Sylvan Grove development off the Old Kent Road. 
 
-1. Canada Water Site C&E (Sellar's joint venture with NHHT)
+The [agreement with Hyde](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!VvZ41SmjA98046Wp6hyBTQ%3d%3d!%7d%7d%7d) shows that Sellar has paid for the conversion of private units in the development to affordable housing in the following tenure mix:
 
-2. NHHT's Manor Place development
+* 9 Shared ownership units
+* 5 Affordable rent units
+* 11 Social rent units
 
-3. NHHT's Wood Dene estate regeneration
+The affordable rent units are not compliant with Southwark's planning policy which requires social rented tenure.
 
-The question is then this: if Sellar is allowed to build its offsite affordable housing in its other development at Canada Water, will this count over and above the 35% affordable housing requirements of the Canada Water site? 
+In addition, the total number of units falls short of the 35% requirement. Southwark agreed to accept just a £2m in-lieu payment in respect of this shortfall.
+
+
 
 
 

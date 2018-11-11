@@ -12,3 +12,5 @@ But What Councillor Williams' press statement didn't say, was that the 89 of the
 
 ![](http://crappistmartin.github.io/images/chamberswharf.jpg)
 
+Chambers wharf comprises a total of 587 homes on the site of the former wharf.
+

@@ -23,10 +23,10 @@ The last ten years has seen a flurry of high-profile, high-density, high-rise de
 | <img src="http://35percent.org/img/shopcentre.jpg" width="210"> | <img src="http://35percent.org/img/wooddene500.jpg" width="210"> | <img src="/img/quebecquarter.jpg" width="210"> | <img src="https://crappistmartin.github.io/images/canadawater.png" width="210"> | <img src="/img/Mulberry.jpg" width="210"> |
 | 979 Homes<br>116 Social rent | 333 Homes<br> 54 Social rent | 366 Homes<br>51 Social rent | 1046 Homes<br>34 Social rent | 770 Homes<br>23 Social rent |
 
-| [360 Tower](http://35percent.org/london-360-tower/) | [18 Blackfriars Rd](/20-blackfriars-road/) | [Quebec Quarter (CW)](http://35percent.org/canada-water/#quebec-quarter) | [Water Yards (CW)](http://35percent.org/canada-water/#canada-water-sites-ce) | [Mulberry Business Park (CW)](http://35percent.org/canada-water/#former-mulberry-business-park) | 
+| [360 Tower](http://35percent.org/london-360-tower/) | [18 Blackfriars Rd](/20-blackfriars-road/) | [Shard Trilogy](http://35percent.org/shard-trilogy) | [Blackfriars Circus](http://35percent.org/blackfriars-circus) | [Chambers Wharf](http://35percent.org/chambers-wharf) | 
 | ------------ | ------------ |-------------|------------
-| <img src="http://35percent.org/img/london360.jpg" width="210"> | <img src="http://www.skyscrapernews.com/images/pics/521520BlackfriarsRoadResidentialTower_pic2.jpg" width="210"> | <img src="/img/quebecquarter.jpg" width="210"> | <img src="https://crappistmartin.github.io/images/canadawater.png" width="210"> | <img src="/img/Mulberry.jpg" width="210"> |
-| 457 Homes<br>0 Social rent | 288 Homes<br> 61 Social rent | 366 Homes<br>51 Social rent | 1046 Homes<br>34 Social rent | 770 Homes<br>23 Social rent |
+| <img src="http://35percent.org/img/london360.jpg" width="210"> | <img src="http://www.skyscrapernews.com/images/pics/521520BlackfriarsRoadResidentialTower_pic2.jpg" width="210"> | <img src="http://www.london-se1.co.uk/news/imageuploads/1415187088_46.233.112.163.jpg" width="210"> | <img src="/img/bcircus.jpg" width="210"> | <img src="/img/cwharf.jpg" width="210"> |
+| 457 Homes<br>0 Social rent | 288 Homes<br> 61 Social rent | 148 Homes<br>11 Social rent | 336 Homes<br>0 Social rent | 587 Homes<br>0 Social rent |
 
 Southwark's planning policy says that 35% of all new homes should be affordable of which either half or two thirds should be social rented (depending on the area). Had these schemes complied with policy then Southwark would have had xxxx extra social rented homes available to those on its housing waiting list.
 
