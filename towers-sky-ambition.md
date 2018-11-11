@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Towers, Sky & Ambition"
-subtitle: "Major development schemes approved in Southwark and their contribution to local housing need"
+subtitle: "Major developments approved in Southwark and their contribution to local housing need"
 published: true
 ---
 The last ten years has seen a flurry of high-profile, high-density, high-rise developments approved by Southwark - but how have they benefitted the local community? The following table shows a number of major schemes approved (almost exclusively by the current Labour administration) and the number of social rented homes in each development.
@@ -28,6 +28,11 @@ The last ten years has seen a flurry of high-profile, high-density, high-rise de
 | <img src="http://35percent.org/img/london360.jpg" width="210"> | <img src="http://www.skyscrapernews.com/images/pics/521520BlackfriarsRoadResidentialTower_pic2.jpg" width="210"> | <img src="http://www.london-se1.co.uk/news/imageuploads/1415187088_46.233.112.163.jpg" width="210"> | <img src="/img/bcircus.jpg" width="210"> | <img src="/img/cwharf.jpg" width="210"> |
 | 457 Homes<br>0 Social rent | 288 Homes<br> 61 Social rent | 148 Homes<br>11 Social rent | 336 Homes<br>0 Social rent | 587 Homes<br>0 Social rent |
 
+| [240 Camberwell Rd](http://35percent.org/camberwell-road/#240-camberwell-road) | [Camberwell Green](http://35percent.org/camberwell-road/#camberwell-on-the-green) | [Tuke St School](http://35percent.org/woods-road) | [One Tower Bridge](http://35percent.org/onetowerbridge) | [Chambers Wharf](http://35percent.org/chambers-wharf) | 
+| ------------ | ------------ |-------------|------------
+| <img src="http://35percent.org/img/wingofcamberwell.jpg" width="210"> | <img src="/img/cotg.jpg" width="210"> | <img src="/img/wroad.jpg" width="210"> | <img src="/img/otbridge.jpg" width="210"> | <img src="/img/cwharf.jpg" width="210"> |
+| 164 Homes<br>18 Social rent | 101 Homes<br> 0 Social rent | 122 Homes<br>6 Social rent | 356 Homes<br>0 Social rent | 587 Homes<br>0 Social rent |
+
 Southwark's planning policy says that 35% of all new homes should be affordable of which either half or two thirds should be social rented (depending on the area). Had these schemes complied with policy then Southwark would have had xxxx extra social rented homes available to those on its housing waiting list.
 
 It is fair to say that in some of the schemes, developers have provided a 'commuted sum' in lieu of providing any affordable housing. However, as [pointed out by local news site SE1](http://www.london-se1.co.uk/news/view/8222) these sums are often equal to the price of just one penthouse apartment.
@@ -36,4 +41,3 @@ It is also fair to say that some of the schemes have provided 'affordable rent' 
 
 Towers, sky and ambition is all very well, but dreams and visions eventually become reality..
 
-![](/towersskyambition.jpg) ![](/dreamsvisionsreality.jpg)
