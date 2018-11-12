@@ -95,3 +95,8 @@ Even if we do count all these new homes as council homes at council rents, the s
         });
 
 </script>
+
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:title" content="Southwark's Council home build programme" />
+<meta name="twitter:description" content="Sales and demolitions still outweighing new-builds" />
+<meta name="twitter:image" content="http://35percent.org/img/councilstock.png" />
