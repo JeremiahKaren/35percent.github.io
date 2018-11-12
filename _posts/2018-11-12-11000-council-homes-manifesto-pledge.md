@@ -24,7 +24,7 @@ Four years on and we have taken a look at whether Councillor John has delivered 
 ![](http://35percent.org/img/livetableextract.png)
 *Extract from the government's [Live Table 116](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/674346/LT_116.xlsx)*
 
-The figures aren't saying that Southwark hasn't built any new council homes, only that the rate at which is building has not kept up with the rate at which it is knocking them down and selling them off. The Council has or will demolish [over 7,500 council homes](http://35percent.org/the-southwark-clearances/) as part of regeneration schemes, including  1200 council homes in the [Heygate estate regeneration](http://35percent.org/heygate-regeneration-faq/) and circa 2400 on the  [Aylesbury estate](http://35percent.org/aylesbury-estate/).
+The figures aren't saying that Southwark hasn't built any new council homes, only that the rate at which it is building has not kept up with the rate at which it is knocking them down and selling them off. The Council has or will demolish [over 7,500 council homes](http://35percent.org/the-southwark-clearances/) as part of regeneration schemes, including  1200 council homes in the [Heygate estate regeneration](http://35percent.org/heygate-regeneration-faq/) and circa 2400 on the  [Aylesbury estate](http://35percent.org/aylesbury-estate/).
 
 In addition, it has [sold 1300 council homes under the Right to Buy since 2012](https://www.insidehousing.co.uk/comment/comment/how-we-will-attempt-to-restrict-high-rents-on-right-to-buy-re-lets-58865) and has an [ongoing policy](http://35percent.org/the-southwark-clearances/#void-disposal-policy) of selling every council home that becomes vacant which is valued at £300k or more.
 
