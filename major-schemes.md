@@ -8,12 +8,12 @@ The last ten years has seen a flurry of high-profile, high-density, high-rise de
 
 | [Neo Bankside](/neo-bankside) | [Sampson & Ludgate House](http://35percent.org/ludgate-and-sampson/) | [Elephant One](/tribeca-square) | [SouthBank Tower](http://www.london-se1.co.uk/news/view/8222) | [Heygate estate](http://35percent.org/affordable-housing/) | 
 | ------------ | ------------ |-------------|------------
-| <img src="http://www.e-architect.co.uk/images/jpgs/london/neo_bankside_n220912_n.jpg" width="210"> | <img src="/img/slhouse.jpg" width="210"> | <img src="http://35percent.org/img/elone.jpg" width="210"> | <img src="/img/sbanktower.jpg" width="200"> | <img src="/img/epark.jpg" width="210"> |
+| <img src="/img/nbankside.jpg" width="210"> | <img src="/img/slhouse.jpg" width="210"> | <img src="http://35percent.org/img/elone.jpg" width="210"> | <img src="/img/sbanktower.jpg" width="200"> | <img src="/img/epark.jpg" width="210"> |
 | 217 Homes<br>0 Social rent | 490 Homes<br>0 Social rent | 646 Homes<br> 0 Social rent | 193 Homes<br>0 Social rent | 2704 Homes<br>82 Social rent |
 
 | [One the Elephant](/one-the-elephant) | [One Blackfriars](/one-blackfriars/) | [251 London](/eileen-house) | [Strata Tower](/strata-tower) | [The Quill](/the-quill) | 
 | ------------ | ------------ |-------------|------------
-| <img src="http://35percent.org/img/otetrumptower.jpg" width="210"> | <img src="http://35percent.org/img/obcgi.jpg" width="210"> | <img src="/img/251london.jpg" width="210"> | <img src="http://www.e-architect.co.uk/images/jpgs/london/strata_se1_bfls060410_wp.jpg" width="210"> | <img src="http://www.london-se1.co.uk/news/imageuploads/1291215503_80.177.117.97.jpg" width="210"> |
+| <img src="http://35percent.org/img/otetrumptower.jpg" width="210"> | <img src="http://35percent.org/img/obcgi.jpg" width="210"> | <img src="/img/251london.jpg" width="210"> | <img src="/img/stower.jpg" width="210"> | <img src="/img/quill.jpg" width="210"> |
 | 284 Homes<br>0 Social rent | 274 Homes<br> 0 Social rent | 270 Homes<br>0 Social rent | 408 Homes<br>0 Social rent | 119 Homes<br>0 Social rent |
 
 | [E&C Shopping Centre](/shopping-centre) | [Wood Dene estate](/wood-dene-estate-regeneration/) | [Quebec Quarter (CW)](http://35percent.org/canada-water/#quebec-quarter) | [Water Yards (CW)](http://35percent.org/canada-water/#canada-water-sites-ce) | [Mulberry Business Park (CW)](http://35percent.org/canada-water/#former-mulberry-business-park) | 
@@ -23,7 +23,7 @@ The last ten years has seen a flurry of high-profile, high-density, high-rise de
 
 | [360 Tower](http://35percent.org/london-360-tower/) | [18 Blackfriars Rd](/20-blackfriars-road/) | [Shard Trilogy](http://35percent.org/shard-trilogy) | [Blackfriars Circus](http://35percent.org/blackfriars-circus) | [Chambers Wharf](http://35percent.org/chambers-wharf) | 
 | ------------ | ------------ |-------------|------------
-| <img src="http://35percent.org/img/london360.jpg" width="210"> | <img src="http://www.skyscrapernews.com/images/pics/521520BlackfriarsRoadResidentialTower_pic2.jpg" width="210"> | <img src="http://www.london-se1.co.uk/news/imageuploads/1415187088_46.233.112.163.jpg" width="210"> | <img src="/img/bcircus.jpg" width="210"> | <img src="/img/cwharf.jpg" width="210"> |
+| <img src="http://35percent.org/img/london360.jpg" width="210"> | <img src="/img/18blackfriars.jpg" width="210"> | <img src="/img/strilogy.jpg" width="210"> | <img src="/img/bcircus.jpg" width="210"> | <img src="/img/cwharf.jpg" width="210"> |
 | 457 Homes<br>0 Social rent | 288 Homes<br> 61 Social rent | 148 Homes<br>11 Social rent | 336 Homes<br>0 Social rent | 587 Homes<br>0 Social rent |
 
 | [240 Camberwell Rd](http://35percent.org/camberwell-road/#240-camberwell-road) | [Camberwell Green](http://35percent.org/camberwell-road/#camberwell-on-the-green) | [Tuke St School](http://35percent.org/woods-road) | [One Tower Bridge](http://35percent.org/onetowerbridge) | [Bermondsey Exchange](https://www.southwarknews.co.uk/news/council-takes-no-legal-action-over-44-missing-social-housing-units/) | 
