@@ -4,7 +4,7 @@ title: "Major Schemes"
 subtitle: "Major developments approved in Southwark and their contribution to local housing need"
 published: true
 ---
-The last ten years has seen a flurry of high-profile, high-density, high-rise developments approved in Southwark - but how have they benefitted the local community? The following table shows a number of major schemes approved (almost exclusively by the current Labour administration) and the number of social rented homes provided in each development.
+The last ten years has seen a flurry of high-profile, high-density, high-rise developments approved in Southwark - but how have they benefitted the local community? The following table shows a number of major schemes approved (all but one by the current Labour administration) and the number of social rented homes provided in each development.
 
 | [Neo Bankside](/neo-bankside) | [Sampson & Ludgate House](http://35percent.org/ludgate-and-sampson/) | [Elephant One](/tribeca-square) | [SouthBank Tower](http://www.london-se1.co.uk/news/view/8222) | [Heygate estate](http://35percent.org/affordable-housing/) | 
 | ------------ | ------------ |-------------|------------
@@ -34,7 +34,7 @@ The last ten years has seen a flurry of high-profile, high-density, high-rise de
 __Total: 11,863 New Homes__  
 __Social rented: 456 (3.8%)__
 
-Southwark's planning policy says that 35% of all new homes must be affordable of which 70% must be social rented, except for Elephant & Castle/Camberwell where the split is 50% social rented - 50% shared ownership. Just over half (6135) of the 11,863 homes in the schemes listed above are in areas with a 50/50 tenure split requirement, the remainder require a 70/30 split.
+Southwark's planning policy says that 35% of all new homes must be affordable of which 70% must be social rented, except for certain areas such as Elephant & Castle/Camberwell (where the split is 50% social rented/50% shared ownership). Just over half (6135) of the 11,863 homes in the schemes listed above are in areas with a 50/50 tenure split requirement, the remainder require a 70/30 split.
 
 On this basis it can be said that had Southwark stood firm and forced these schemes to comply with policy then it would have secured approximately 2,500 social rented homes in total. In the event it secured just 456. Had it stood firm there would have been 1,500 extra social rented homes available to those on its housing waiting list.
 
