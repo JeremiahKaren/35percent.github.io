@@ -36,7 +36,7 @@ __Social rented: 456 (3.8%)__
 
 Southwark's planning policy says that 35% of all new homes must be affordable of which 70% must be social rented, except for certain areas such as Elephant & Castle/Camberwell (where the split is 50% social rented/50% shared ownership). Just over half (6135) of the 11,863 homes in the schemes listed above are in areas with a 50/50 tenure split requirement, the remainder require a 70/30 split.
 
-On this basis it can be said that had Southwark stood firm and forced these schemes to comply with policy then it would have secured approximately 2,500 social rented homes in total. In the event it secured just 456. Had it stood firm there would have been 1,500 extra social rented homes available to those on its housing waiting list.
+On this basis it can be said that had Southwark stood firm and forced these schemes to comply with policy then it would have secured approximately 2,500 social rented homes in total. In the event it secured just 456. Had it stood firm there would have been 2,000 extra social rented homes available to those on its housing waiting list.
 
 It is fair to say that in a small number of the schemes, developers have provided a 'commuted sum' in lieu of providing any affordable housing. However, as [pointed out by local news site SE1](http://www.london-se1.co.uk/news/view/8222) these sums are often equal to the price of just one of the penthouse apartments.
 
