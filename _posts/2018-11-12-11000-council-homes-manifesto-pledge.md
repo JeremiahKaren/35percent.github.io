@@ -42,7 +42,7 @@ In any event, 54 of these new 'council homes' are temporary accommodation units 
 
 ![](http://35percent.org/img/lharates.png)
 
-Even if we were to count all the hostel units and purchased S106 units as council homes at council rents, the figures show an ongoing decline rather than any net increase in the number of council homes:
+Even if we were to count all the hostel units and purchased S106 units as council homes at council rents, the [overall figures](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/674346/LT_116.xlsx) still show an ongoing decline rather than any net increase in the number of council homes:
 
 <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js">
 </script>
@@ -98,5 +98,5 @@ Even if we were to count all the hostel units and purchased S106 units as counci
 
 <meta name="twitter:card" content="summary" />
 <meta name="twitter:title" content="Southwark's Council home build programme" />
-<meta name="twitter:description" content="Sales and demolitions still outweighing new-builds" />
+<meta name="twitter:description" content="Sales and demolitions still far outstripping new-builds" />
 <meta name="twitter:image" content="http://35percent.org/img/councilstock.png" />
