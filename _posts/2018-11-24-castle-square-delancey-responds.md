@@ -14,11 +14,11 @@ One clear improvement has been made - the facility will now have lift access -  
 
 There will still be no affordable retail units, but Delancey [claims](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!chJya7aQe7u2p4T5F1pEDA%3d%3d!%7d%7d%7d) that the proposed rents are _"discounted in excess of the requirements of the Elephant & Castle SPD"_. 
 
-Delancey also states that traders will be given first right of refusal to the temporary units at Castle Square and units will not be let to others until Delancey receive refusals in writing. 
+Delancey also states that traders will be given first right of refusal to the temporary units at Castle Square and units will not be let to others until Delancey receives refusals in writing. 
 
-However, the size of the facility is still only 492 square metres and there is no increase to the relocation fund of £634k.
+However, the overall size of the boxpark facility is still only 492 square metres and there is no increase to the relocation fund of £634k.
 
-There is also still no agreement with the traders on any of these and the other issues such as the trading hours,service charges and selection criteria.
+There is also still no agreement with the traders on any of these and the other issues such as the trading hours, service charges and selection criteria.
 
 Moreover, the Traders Panel has only just got off the ground, with no traders yet appointed to the Panel. 
 
@@ -29,12 +29,12 @@ Many of our readers have previously submitted objections. We have drafted a revi
 We must ensure that the traders get the best possible deal, whatever happens; they need the temporary facility, but it must be better; if you would like to help achieve this, please submit an objection using our [online objection form](http://35percent.org/boxpark#object).
 
 ## Join our party!
- 
+  
 The __Up the Elephant__ Campaign in support of the traders and for more social rented housing at the Elephant is also holding a Campaign Party on this coming **Friday 30 Nov** - a [night of of Latin beats](https://www.eventbrite.com/e/up-the-elephant-campaign-party-tickets-52191660662) with DJ Gloria (Exilio) to raise funds to pursue a legal challange to Southwark Council's granting of planning permission for the shopping centre scheme -
 further details and tickets available [here](https://www.eventbrite.com/e/up-the-elephant-campaign-party-tickets-52191660662).
 
 ![](http://35percent.org/img/latinasparty.jpg)
 
 Links:
-[https://www.facebook.com/pg/Up-the-Elephant-1117314135042279/events/](https://www.facebook.com/pg/Up-the-Elephant-1117314135042279/events/)
-[https://twitter.com/uptheelephant](https://twitter.com/uptheelephant)
+[https://www.facebook.com/pg/Up-the-Elephant-1117314135042279/events/](https://www.facebook.com/pg/Up-the-Elephant-1117314135042279/events/)  
+[https://twitter.com/uptheelephant_](https://twitter.com/uptheelephant_)
