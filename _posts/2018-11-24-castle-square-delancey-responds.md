@@ -12,7 +12,7 @@ In response, Delancey have submitted a two-page document covering rent levels, t
 
 One clear improvement has been made - the facility will now have lift access -  but otherwise Delancey does little more than restate its previous position.
 
-There will be no affordable retail units, but Delancey claims that the proposed rents are _"discounted in excess of the requirements of the Elephant & Castle SPD"_. (This is the policy that sets affordable retail rents). 
+There will still be no affordable retail units, but Delancey claims that the proposed rents are _"discounted in excess of the requirements of the Elephant & Castle SPD"_. (This is the policy that sets affordable retail rents). 
 
 Delancey also states that traders will be given first right of refusal to the temporary units at Castle Square and units will not be let to others until Delancey have this in writing. 
 
