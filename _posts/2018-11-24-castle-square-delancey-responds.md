@@ -16,7 +16,7 @@ There will still be no affordable retail units, but Delancey claims that the pro
 
 Delancey also states that traders will be given first right of refusal to the temporary units at Castle Square and units will not be let to others until Delancey have this in writing. 
 
-However, the size of the facility is still only around 500m2 and there is no increase to the relocation fund of £634k.
+However, the size of the facility is still only 534m2 and there is no increase to the relocation fund of £634k.
 
 There is also still no agreement with the traders on any of these and the other issues such as the trading hours,service charges and selection criteria.
 
