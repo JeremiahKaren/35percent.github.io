@@ -7,7 +7,7 @@ subtitle: "Traders say Delancey's temporary boxpark too small and too many restr
 As a [condition](http://moderngov.southwark.gov.uk/mgAi.aspx?ID=49413) of the [granting of planning approval](http://35percent.org/2018-07-09-delancey/) for the [redevelopment of Elephant & Castle's shopping centre](http://35percent.org/shopping-centre), Developer Delancey is obliged to provide a temporary facility for displaced independent traders,
 
 
-Delancey have had to make another planning application to do this and [propose a 2/3 storey boxpark](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!hAV0cqN%2bsOq%2febuFpH0spQ%3d%3d!%7d%7d%7d) on the recently completed _Castle Square_ market place near its adjoining development [Elephant One](http://35percent.org/tribeca-square/).  Castle Square is on land owned by Southwark Council, but currently [leased to Delancy on a peppercorn rent](http://35percent.org/2016-06-26-restricted-access-elephant-park/#elephant-parks). 
+Delancey have had to make another planning application to do this and [propose a 2/3 storey boxpark](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!hAV0cqN%2bsOq%2febuFpH0spQ%3d%3d!%7d%7d%7d) on the recently completed _Castle Square_ market place near its adjoining development [Elephant One](http://35percent.org/tribeca-square/).  Castle Square is on land owned by Southwark Council, but currently [leased to Delancey on a peppercorn rent](http://35percent.org/2016-06-26-restricted-access-elephant-park/#elephant-parks). 
 
 ![](http://35percent.org/img/tempboxpark.png)
 
