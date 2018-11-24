@@ -8,9 +8,9 @@ Since our [last blog](http://35percent.org/2018-10-30-shopping-centre-legal-chal
 
 ![](http://35percent.org/img/tempboxpark.png)
 
-In response, Delancey have submitted a two-page document covering rent levels, tenancy agreements, service charges, selection criteria, hours of operation, access and the relocation fund. There is now a reconsultation on Delancey's planning application.
+In response, Delancey have submitted a two-page document covering rent levels, tenancy agreements, service charges, selection criteria, hours of operation, access and the relocation fund. There is now a reconsultation on the planning application proposals.
 
-There has been one clear gain - the facility will now have lift access, but otherwise Delancey does little more than restate its previous position.
+One clear improvement has been made - the facility will now have lift access -  but otherwise Delancey does little more than restate its previous position.
 
 Delancey claims that while there will be no affordable retail, the proposed rents are _"discounted in excess of the requirements of the Elephant & Castle SPD"_. (This is the policy that sets affordable retail rents). 
 
