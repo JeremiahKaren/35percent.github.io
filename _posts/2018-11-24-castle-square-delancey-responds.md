@@ -26,7 +26,7 @@ Until this happens none of these issues can be said to be settled and the "robus
 
 Many of our readers have previously submitted objections. We have drafted a revised objection in light of the minor revisions submitted by Delancey.
 
-We must ensure that the traders get the best possible deal, whatever happens; they need the temporary facility, but it must be better; if you would like to help achieve this, please submit an objection using [online objection form](http://35percent.org/boxpark#object.
+We must ensure that the traders get the best possible deal, whatever happens; they need the temporary facility, but it must be better; if you would like to help achieve this, please submit an objection using [online objection form](http://35percent.org/boxpark#object).
 
 ## Join our party!
 
