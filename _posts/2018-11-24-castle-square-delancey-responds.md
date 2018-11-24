@@ -18,7 +18,7 @@ Delancey also states that traders will be given first right of refusal to the te
 
 However, the size of the facility is still less than 500m2 and there is no increase to the relocation fund of £634k.
 
-There is also still no agreement with the traders on any of these and the other issues such as the trading hours,service charges, selection criteria.
+There is also still no agreement with the traders on any of these and the other issues such as the trading hours,service charges and selection criteria.
 
 Moreover, the Traders Panel has only just got off the ground, with no traders yet appointed to the Panel. 
 
