@@ -25,3 +25,11 @@ Until this happens none of these issues can be said to be settled and the "robus
 Many of our readers have previously submitted objections. We have drafted a revised objection in light of the minor revisions submitted by Delancey.
 
 We must ensure that the traders get the best possible deal, whatever happens; they need the temporary facility, but it must be better; if you would like to help achieve this, please submit an objection using [online objection form](http://35percent.org/boxpark#object.
+
+## Join our party!
+
+The Up the Elephant Campaign in support of the traders and for more social rented housing at the Elephant is also holding an Up the Elephant Campaign Party  on this **Friday 30 Nov** - a [night of of Latin beats](https://www.eventbrite.com/e/up-the-elephant-campaign-party-tickets-52191660662) with DJ Gloria (Exilio) to raise funds to pursue a legal challange to Southwrk Council's planning permission for the shopping centre scheme.
+all details [here](https://www.eventbrite.com/e/up-the-elephant-campaign-party-tickets-52191660662)
+
+
+https://www.facebook.com/pg/Up-the-Elephant-1117314135042279/events/
