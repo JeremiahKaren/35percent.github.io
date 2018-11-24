@@ -57,7 +57,8 @@ We must ensure that the traders get the best possible deal, whatever happens; th
    <p style="margin:20px">
         <label for="message">Comment:</label>
         <textarea name="message" id="message" cols="55" rows="10">Dear Southwark Planning,
-Whilst this proposal is an attempt at mitigation against the detrimental impact of the redevelopment of the Elephant and Castle shopping centre on local independent traders, it requires amendment if it is to benefit the number of traders who need help.
+Delancey's response to previous objections to the Castle Square application does not make any progress towards a robust relocation strategy.
+The Traders Panel has not yet been firmly established and it has not resolved the key issues of the relocation strategy including tenancy arrangements, rents and hours of trade. Traders are also concerned about selection criteria and that the facility is still too small and the relocation fund inadequate. 
 
 I therefore support the comments and suggestions made by the Elephant Traders Association and Latin Elephant for improvements to the applicant's proposals, and ask that before any planning permission is granted the size of the facility be increased to accommodate all the displaced independent traders who require new premises.
 
@@ -66,7 +67,6 @@ In addition, the following should first be agreed with the traders before the ap
 -	secure tenancy arrangements
 -	selection criteria, should they be needed 
 -	hours of trade
--	disability access
 - 	a sufficient relocation fund
 
 Yours sincerely,

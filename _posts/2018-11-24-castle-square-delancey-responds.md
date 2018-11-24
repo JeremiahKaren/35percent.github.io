@@ -6,6 +6,8 @@ published: true
 ---
 Since our [last blog](http://35percent.org/2018-10-30-shopping-centre-legal-challenge/) on 30th October on the Elephant & Castle shopping centre, over 100 objections have been made to the proposals for a temporary facility for traders on Castle Square.
 
+![](http://35percent.org/img/tempboxpark.png)
+
 In response, Delancey have submitted a two-page document covering rent levels, tenancy agreements, service charges, selection criteria, hours of operation, access and the relocation fund. There is now a reconsultation on Delancey's planning application.
 
 There has been one clear gain - the facility will now have lift access, but otherwise Delancey does little more than restate its previous position.
@@ -31,5 +33,6 @@ We must ensure that the traders get the best possible deal, whatever happens; th
 The Up the Elephant Campaign in support of the traders and for more social rented housing at the Elephant is also holding an Up the Elephant Campaign Party  on this **Friday 30 Nov** - a [night of of Latin beats](https://www.eventbrite.com/e/up-the-elephant-campaign-party-tickets-52191660662) with DJ Gloria (Exilio) to raise funds to pursue a legal challange to Southwrk Council's planning permission for the shopping centre scheme.
 all details [here](https://www.eventbrite.com/e/up-the-elephant-campaign-party-tickets-52191660662)
 
+![](http://35percent.org/img/latinasparty.jpg)
 
 https://www.facebook.com/pg/Up-the-Elephant-1117314135042279/events/
