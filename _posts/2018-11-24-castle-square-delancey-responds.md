@@ -30,9 +30,10 @@ We must ensure that the traders get the best possible deal, whatever happens; th
 
 ## Join our party!
 
-The Up the Elephant Campaign in support of the traders and for more social rented housing at the Elephant is also holding an Up the Elephant Campaign Party  on this **Friday 30 Nov** - a [night of of Latin beats](https://www.eventbrite.com/e/up-the-elephant-campaign-party-tickets-52191660662) with DJ Gloria (Exilio) to raise funds to pursue a legal challange to Southwrk Council's planning permission for the shopping centre scheme.
+The Up the Elephant Campaign in support of the traders and for more social rented housing at the Elephant is also holding an Up the Elephant Campaign Party  on this **Friday 30 Nov** - a [night of of Latin beats](https://www.eventbrite.com/e/up-the-elephant-campaign-party-tickets-52191660662) with DJ Gloria (Exilio) to raise funds to pursue a legal challange to Southwrk Council's planning permission for the shopping centre scheme -
 all details [here](https://www.eventbrite.com/e/up-the-elephant-campaign-party-tickets-52191660662)
 
 ![](http://35percent.org/img/latinasparty.jpg)
 
-https://www.facebook.com/pg/Up-the-Elephant-1117314135042279/events/
+[https://www.facebook.com/pg/Up-the-Elephant-1117314135042279/events/](https://www.facebook.com/pg/Up-the-Elephant-1117314135042279/events/)
+[https://twitter.com/uptheelephant_?lang=en](https://twitter.com/uptheelephant_?lang=en)
