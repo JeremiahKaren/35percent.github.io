@@ -4,7 +4,7 @@ title: Castle Square - Delancey responds
 subtitle: Small progress but still not enough on traders' temporary premises
 published: true
 ---
-Since our [last blog](http://35percent.org/2018-10-30-shopping-centre-legal-challenge/) on the Elephant & Castle shopping centre saga, over 100 objections have been made to the temporary boxpark proposals for traders on Castle Square.
+Since our [last blog](http://35percent.org/2018-10-30-shopping-centre-legal-challenge/) on the Elephant & Castle shopping centre saga, over 100 objections have been made to the [temporary boxpark proposals](http://35percent.org/boxpark) for traders on Castle Square.
 
 ![](http://35percent.org/img/tempboxpark.png)
 
