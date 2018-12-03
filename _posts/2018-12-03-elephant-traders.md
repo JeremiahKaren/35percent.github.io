@@ -9,7 +9,7 @@ Elephant shopping centre owner and developer Delancey have presented Sadiq Khan 
 
 The snub comes in the [legal S106 agreement](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!cmd1tKmi8kCHCJ6ouDat0w%3d%3d!%7d%7d%7d) that seals the planning permission resolved by Southwark Council in July, for the centre's demolition and redevelopment.  The relocation strategy should have been included in the draft S106 sent to the Mayor last week, but the relevant appendix, Appendix 12, is blank (and mis-titled as 'Castle Square Site Plan) (screen-shot).  The bare-bones of a strategy are given elsewhere (Part 6 of Schedule 2), including plans for a database of relocation oppoortunites, proposals for a £634,700 relocation fund and a temporary relocation space, but nothing that amounts to a fully-fleshed out strategy.
 
-# There is no Trader Panel
+## There is no Trader Panel
 
 The S106 also claims that the Trader Panel has been established and its membership has been approved by the Council, when there are no traders yet confirmed as members.  
 
