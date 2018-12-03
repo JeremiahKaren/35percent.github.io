@@ -13,9 +13,9 @@ The bare-bones of a strategy are given elsewhere (Part 6 of Schedule 2), includi
 
 ## There is no Trader Panel
 
-The S106 also claims that the Trader Panel has been established and its membership has been approved by the Council, when no traders are yet confirmed as members.  
+The S106 also claims that the Trader Panel has been established and its membership has been approved by the Council (pg 85), when no traders are yet confirmed as members.  
 
-The S106 notes that Delancey has agreed to provide temporary retail provision in the shape of Castle Square.  While a clear gain for traders and campaigners, Castle Square is nowhere near big enough for all the traders who need accommodating.  The application has received over a [hundred objections](http://35percent.org/boxpark/#object) on this and other issues and is due to be decided by Southwark's planning sub-committee B on [12 December](http://moderngov.southwark.gov.uk/ieListDocuments.aspx?CId=353&MId=6147&Ver=4).
+The S106 notes that Delancey has agreed to provide temporary retail provision in the shape of Castle Square (pg 84).  While Castle Square is a clear gain for traders and campaigners, it is nowhere near big enough for all the traders who need accommodating.  The application has received over a [hundred objections](http://35percent.org/boxpark/#object) on this and other issues and is due to be decided by Southwark's planning sub-committee B on [12 December](http://moderngov.southwark.gov.uk/ieListDocuments.aspx?CId=353&MId=6147&Ver=4).
 
 Other notable aspects of the draft S106 include no mention of increasing the social housing offer above the 116 units Delancey has already committed to build, if it receives a GLA grant.  Delancey claimed to the planning committee that it had an ['_in-principle agreement_'](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!b5xBNaYRSleWlYx6oXVrEA%3d%3d!%7d%7d%7d) for the funding, but this has been [challenged by campaign groups](http://35percent.org/2018-10-30-shopping-centre-legal-challenge/).
 
