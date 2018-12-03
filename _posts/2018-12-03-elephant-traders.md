@@ -1,9 +1,9 @@
 ---
 layout: post
 published: false
-title: Elephant traders - where's the re-locoation strategy?
+title: "Elephant traders - where's the re-location strategy?"
 ---
-# Delancey blank Sadiq Khan's demand for a 'robust' shopping centre trader relocation strategy
+# Delancey blanks Sadiq Khan's demand for a 'robust' shopping centre trader relocation strategy
 
 Elephant shopping centre owner and developer Delancey have presented Sadiq Khan with a blank piece of paper in response to his demand for a ['robust relocation strategy'](https://www.change.org/p/sadiq-khan-sadiq-say-no-to-the-displacement-of-bame-communities-from-elephant-castle/responses/41627) for traders displaced by the centre's proposed demolition and redevelopment.
 
@@ -13,9 +13,9 @@ The bare-bones of a strategy are given elsewhere (Part 6 of Schedule 2), includi
 
 ## There is no Trader Panel
 
-The S106 also claims that the Trader Panel has been established and its membership has been approved by the Council (pg 85), when no traders are yet confirmed as members.  
+The S106 agreement also claims that the Trader Panel has been established and its membership has been approved by the Council (pg 85), when no traders have yet been confirmed as members.  
 
-The S106 notes that Delancey has agreed to provide temporary retail provision in the shape of Castle Square (pg 84).  While Castle Square is a clear gain for traders and campaigners, it is nowhere near big enough for all the traders who need accommodating.  The application has received over a [hundred objections](http://35percent.org/boxpark/#object) on this and other issues and is due to be decided by Southwark's planning sub-committee B on [12 December](http://moderngov.southwark.gov.uk/ieListDocuments.aspx?CId=353&MId=6147&Ver=4).
+It also asserts that Delancey has agreed to provide temporary retail provision in the shape of Castle Square (pg 84).  While Castle Square is a clear gain for traders and campaigners, it is nowhere near big enough for all the traders who need accommodating.  The application has received over a [hundred objections](http://35percent.org/boxpark/#object) on this and other issues and is due to be decided by Southwark's planning sub-committee B on [12 December](http://moderngov.southwark.gov.uk/ieListDocuments.aspx?CId=353&MId=6147&Ver=4).
 
 Other notable aspects of the draft S106 include no mention of increasing the social housing offer above the 116 units Delancey has already committed to build, if it receives a GLA grant.  Delancey claimed to the planning committee that it had an ['in-principle agreement'](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!b5xBNaYRSleWlYx6oXVrEA%3d%3d!%7d%7d%7d) for the funding, but this claim has been [challenged by campaign groups](http://35percent.org/2018-10-30-shopping-centre-legal-challenge/).
 
