@@ -3,7 +3,7 @@ layout: post
 published: false
 title: Elephant traders - 'what relocoation strategy?'
 ---
-## Delancey blank Sadiq Khan's demand for a 'robust' shopping centre trader relocation strategy
+# Delancey blank Sadiq Khan's demand for a 'robust' shopping centre trader relocation strategy
 
 Elephant shopping centre owner and developer Delancey have presented Sadiq Khan with a blank piece of paper in response to his demand for a ['robust relocation strategy'](https://www.change.org/p/sadiq-khan-sadiq-say-no-to-the-displacement-of-bame-communities-from-elephant-castle/responses/41627) for traders displaced by the centre's proposed demolition and redevelopment.
 
