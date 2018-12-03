@@ -17,10 +17,11 @@ Other notable aspects of the draft S106 include no mention of increasing the soc
 
 There are also several points on which Southwark and Delancey are not in agreement, including the target profit on the residential element of the scheme - Dleancey want 17.5% GDV, Southwark 12.5% GDV [(pg 39, footnote)](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!cmd1tKmi8kCHCJ6ouDat0w%3d%3d!%7d%7d%7d).  This could be significant; if the target is exceeded, half the extra profit should go to Southwark and more affordable housing.
 
+[The S106](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!cmd1tKmi8kCHCJ6ouDat0w%3d%3d!%7d%7d%7d)(pg 60 Eligibity Review) also details the complex arrangements for extending the London Living Rent and other so-called affordable, discounted market rent tenacies, beyond their 3-year terms.  Tenants who are fortunate enough to see their salary increase may also find much of it going to Delancey, if they jump into a higher band of rent payment - or maybe not, depending on what other affordable units are available at the time.  While Delancey is bound to maintain set affordable housing ratios, final decisions on how to do this are left in their hands Delancey, or its agents.
+
 # Sadiq Khan must call-in
 
-Mayor Sadiq Khan has until 13 December to decide whether to allow the scheme to be approved. He can direct that the application be refused or take over the application in order to determine the case himself.  He has said he will also be subjecting the affordable housing offer to 'rigourous scrutiny' and addressing unresolved transport issues.
- 
+Mayor Sadiq Khan has until 13 December to decide whether to allow the scheme to be approved. He can direct that the application be refused or take over the application in order to determine the case himself.  He has said he will also be subjecting the affordable housing offer to 'rigourous scrutiny' and addressing unresolved transport issues. 
 
 It's hard to see how what Delancey has submitted for trader relocation qualifies as 'robust'.  Above all else the traders have not had the opportunity to properly discuss Delancey's proposals, yet alone amend or improve them.  Delancey has held just one open meeting with traders, with a second scheduled for 13 December, just about the time the Mayor has to make his decision on the application.
 
