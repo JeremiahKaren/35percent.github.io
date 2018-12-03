@@ -21,7 +21,7 @@ There are also several points on which Southwark and Delancey are not in agreeme
 
 [The S106](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!cmd1tKmi8kCHCJ6ouDat0w%3d%3d!%7d%7d%7d)(pg 60 Eligibity Review) also details the complex arrangements for extending the London Living Rent and other so-called affordable, discounted market rent tenacies, beyond their 3-year terms.  Tenants who are fortunate enough to see their salary increase may also find much of it going to Delancey, if they jump into a higher band of rent payment - or maybe not, depending on what other affordable units are available at the time.  While Delancey is bound to maintain set affordable housing ratios, final decisions on how to do this are left in their hands Delancey, or its agents.
 
-# Sadiq Khan must call-in the scheme
+## Sadiq Khan must call-in the scheme
 
 Mayor Sadiq Khan has until 13 December to decide whether to allow the scheme to be approved. He can direct that the application be refused or take over the application in order to determine the case himself.  He has said he will also be subjecting the affordable housing offer to ['rigourous scrutiny'](https://www.change.org/p/sadiq-khan-sadiq-say-no-to-the-displacement-of-bame-communities-from-elephant-castle/responses/41627) and addressing unresolved transport issues. 
 
