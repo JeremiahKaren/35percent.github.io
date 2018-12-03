@@ -27,7 +27,9 @@ It's hard to see how what Delancey has submitted qualifies as 'robust'.  Above a
 
 There is also several unanswered questions over any GLA funding for social rented housing - have Delancey made an application for this?  Will they get it? Will it increase the amount of social rented housing or just subsidise the 116 units Delancey have already committed to building?
 
-The Mayor also needs to have a close look at the ridiculously complex arrangements for extending tenacies on the London Livng Rent and other so-called affordable, discounted market rent units.  Tenants who are fortunate enough to see their salary increase may also find much of it going to Delancey, if they jump into a higher band of rent payment - or maybe not, depending on what other affordable units are available at the time.  Final decisions are left in the hands of Delancey, or its agents, 'to consider' (check).  
+The Mayor also needs to have a close look at the ridiculously complex arrangements for extending the London Livng Rent and other so-called affordable, discounted market rent tenacies, beyond their 3-year terms.  Tenants who are fortunate enough to see their salary increase may also find much of it going to Delancey, if they jump into a higher band of rent payment - or maybe not, depending on what other affordable units are available at the time.  Final decisions are left in the hands of Delancey, or its agents, 'to consider' (check).
+
+The case for Sadiq Khan 'calling-in'this decision is strong and we urge him to do so, for the sake of  shopping Centre traders, the local community and all future residents.
 
 
 Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
