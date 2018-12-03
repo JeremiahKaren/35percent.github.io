@@ -7,7 +7,7 @@ title: "Elephant traders - where's the re-location strategy?"
 
 Elephant shopping centre owner and developer Delancey have presented Sadiq Khan with a blank piece of paper in response to his demand for a ['robust relocation strategy'](https://www.change.org/p/sadiq-khan-sadiq-say-no-to-the-displacement-of-bame-communities-from-elephant-castle/responses/41627) for traders displaced by the centre's proposed demolition and redevelopment.
 
-The snub comes in the [legal S106 agreement](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!cmd1tKmi8kCHCJ6ouDat0w%3d%3d!%7d%7d%7d) that seals the planning permission resolved by Southwark Council in July, for the centre's demolition and redevelopment.  The [relocation strategy](http://35percent.org/img/S106_Relocation_Strategy.pdf) should have been included in the draft S106 sent to the Mayor last week, but the relevant appendix, Appendix 12, is blank (and mis-titled as 'Castle Square Site Plan) (screen-shot).  
+The snub comes in the [legal S106 agreement](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!cmd1tKmi8kCHCJ6ouDat0w%3d%3d!%7d%7d%7d) that seals the planning permission resolved by Southwark Council in July, for the centre's demolition and redevelopment.  The relocation strategy [should have been included in the draft S106 agreement sent to the Mayor](http://35percent.org/img/S106_Relocation_Strategy.pdf) last week, but the relevant appendix, Appendix 12, is blank (and mis-titled as 'Castle Square Site Plan) (screen-shot).  
 
 ![](http://35percent.org/img/App12.png)
 
