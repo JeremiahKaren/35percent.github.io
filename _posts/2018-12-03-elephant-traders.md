@@ -11,7 +11,7 @@ The snub comes in the [legal S106 agreement](http://planbuild.southwark.gov.uk/d
 
 The S106 also claims that the Trader Panel has been established and its membership has been approved by the Council, when there are no traders yet confirmed as members.  
 
-The S106 notes that Delancey has agreed to provide temporary retail provision in the shape of Castle Square.  While a clear gain for traders and campaigners, Castle Square is nowhere near big enough for all the traders who need accommodating.  The application has received over a [hundred objections](http://35percent.org/boxpark/#object) on this and other issues and is due to be decided by Southwark's planning sub-committee B on 12 December (link).
+The S106 notes that Delancey has agreed to provide temporary retail provision in the shape of Castle Square.  While a clear gain for traders and campaigners, Castle Square is nowhere near big enough for all the traders who need accommodating.  The application has received over a [hundred objections](http://35percent.org/boxpark/#object) on this and other issues and is due to be decided by Southwark's planning sub-committee B on [12 December](http://moderngov.southwark.gov.uk/ieListDocuments.aspx?CId=353&MId=6147&Ver=4).
 
 Other notable aspects of the S106 agreement
 
