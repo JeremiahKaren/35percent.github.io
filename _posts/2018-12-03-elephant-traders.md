@@ -13,17 +13,15 @@ The S106 also claims that the Trader Panel has been established and its membersh
 
 The S106 notes that Delancey has agreed to provide temporary retail provision in the shape of Castle Square.  While a clear gain for traders and campaigners, Castle Square is nowhere near big enough for all the traders who need accommodating.  The application has received over a [hundred objections](http://35percent.org/boxpark/#object) on this and other issues and is due to be decided by Southwark's planning sub-committee B on [12 December](http://moderngov.southwark.gov.uk/ieListDocuments.aspx?CId=353&MId=6147&Ver=4).
 
-Other notable aspects of the S106 agreement
+Other notable aspects of the draft S106 include no mention of increasing the social housing offer above the 116 units Delancey have already committed to build, in the event of Delancey receiving a GLA grant.  Delancey climed that it had an ['_in-principle agreement_'](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!b5xBNaYRSleWlYx6oXVrEA%3d%3d!%7d%7d%7d) on this, but this has been [challanged by campaign groups](http://35percent.org/2018-10-30-shopping-centre-legal-challenge/).
 
-No mention of increasing the social housing offer above the 116 units Delancey have already committed to build, in the event of Delancey recieving a GLA grant.  Delancey has stated it will apply for this (check)and the planning committee was given the very clear impression that a bid would be a guaranteed success.
-
-Several points on which Southwark and Delancey arre not in agreement, including the target profit on the residential element of the scheme - Dleancey want 17.5%, Southwark 12%.  This could be significant, if the target is exceeded, when have the extra profit should go to Southwark and more affordable housing.
+Several points on which Southwark and Delancey are not in agreement, including the target profit on the residential element of the scheme - Dleancey want 17.5%, Southwark 12%.  This could be significant, if the target is exceeded, when have the extra profit should go to Southwark and more affordable housing.
 
 Mayor Sadiq Khan has until 13 December to decide whether to allow the scheme to be approved. He can direct that the application be refused or take over the application in order to determine the case himself.  He has said he will also be subjecting the affordable housing offer to 'rigourous scrutiny' and addressing unresolved transport issues.
 
-Sadiq Khan 
+# Sadiq Khan must call-in 
 
-It's hard to see how what Delancey has submitted qualifies as 'robust'.  Above all else the traders have not had the opportunity to properly discuss Delancey's proposals, yet alone amend or improve them.  Delancey has held just one open meeting with traders, with a second scheduled for 13 December, just about the time the Mayor has to make his decision on the application.
+It's hard to see how what Delancey has submitted for trader relocation qualifies as 'robust'.  Above all else the traders have not had the opportunity to properly discuss Delancey's proposals, yet alone amend or improve them.  Delancey has held just one open meeting with traders, with a second scheduled for 13 December, just about the time the Mayor has to make his decision on the application.
 
 There is also several unanswered questions over any GLA funding for social rented housing - have Delancey made an application for this?  Will they get it? Will it increase the amount of social rented housing or just subsidise the 116 units Delancey have already committed to building?
 
