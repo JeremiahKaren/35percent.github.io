@@ -1,7 +1,7 @@
 ---
 layout: post
 published: false
-title: Elephant traders - 'what relocoation strategy?'
+title: Elephant traders - where's the re-locoation strategy?
 ---
 # Delancey blank Sadiq Khan's demand for a 'robust' shopping centre trader relocation strategy
 
