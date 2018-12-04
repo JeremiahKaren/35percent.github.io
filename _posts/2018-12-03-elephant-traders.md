@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true 
 title: Elephant traders - where's the re-location strategy?
 ---
 # Delancey blanks Sadiq Khan's demand for a 'robust' shopping centre trader relocation strategy
