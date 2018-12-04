@@ -1,10 +1,10 @@
 ---
 layout: post
-published: true 
-title: Elephant traders - where's the re-location strategy?
----
+published: true
+title: "Elephant traders - where's the re-location strategy?"
+ ---
 # Delancey blanks Sadiq Khan's demand for a 'robust' shopping centre trader relocation strategy
-
+ 
 Elephant shopping centre owner and developer Delancey have presented Sadiq Khan with a blank piece of paper in response to his demand for a ['robust relocation strategy'](https://www.change.org/p/sadiq-khan-sadiq-say-no-to-the-displacement-of-bame-communities-from-elephant-castle/responses/41627) for traders displaced by the centre's proposed demolition and redevelopment.
 
 The snub comes in the [legal S106 agreement](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!cmd1tKmi8kCHCJ6ouDat0w%3d%3d!%7d%7d%7d) that seals the planning permission resolved by Southwark Council in July, for the centre's demolition and redevelopment.  The relocation strategy [should have been included in the draft S106 agreement sent to the Mayor](http://35percent.org/img/S106_Relocation_Strategy.pdf) last week, but the relevant appendix, Appendix 12, is blank (and mis-titled as 'Castle Square Site Plan').  
@@ -24,9 +24,9 @@ Other notable aspects of the draft S106 include no mention of increasing the soc
 There are also several points on which Southwark and Delancey are not in agreement, including the target profit on the residential element of the scheme - Delancey want 17.5% GDV, Southwark 12.5% GDV [(pg 39, footnote)](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!cmd1tKmi8kCHCJ6ouDat0w%3d%3d!%7d%7d%7d).  This could be significant for getting more affordable housing; if the target is exceeded, half the extra profit should go to Southwark, so it benefits from the lower figure.
 
 [The S106](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!cmd1tKmi8kCHCJ6ouDat0w%3d%3d!%7d%7d%7d) (pg 60 Eligibility Review) also details the complex arrangements for extending the London Living Rent and other so-called affordable, discounted market rent tenancies, beyond their 3-year terms.  Tenants who are fortunate enough to see their salary increase during their tenancies may also find much of it going to Delancey, if they jump into a higher band of rent payment - or maybe not, depending on what other affordable units are available at the time.  While Delancey is bound to maintain the affordable housing ratios, final decisions on how to do this are left in Delancey's hands.
-
+ 
 ## Sadiq Khan must reject this scheme
-
+ 
 Mayor Sadiq Khan has until 13 December to decide whether to allow the scheme to be approved. He can direct that the application be refused or take over the application in order to determine the case himself.  As well as demanding a robust relocation strategy, he has said he will also be subjecting the affordable housing offer to ['rigorous scrutiny'](https://www.change.org/p/sadiq-khan-sadiq-say-no-to-the-displacement-of-bame-communities-from-elephant-castle/responses/41627) and be addressing unresolved transport issues. 
 
 It's hard to see that Delancey's proposals for trader relocation qualify as 'robust'.  Above all else, the traders have not had the opportunity to properly discuss Delancey's proposals, yet alone amend or improve them.  Delancey has held just one open meeting with traders, with a second scheduled for 13 December, just about the time the Mayor has to deliver his decision.
@@ -44,3 +44,4 @@ Join us in a demonstration on the night, **6pm 12 December 2018, Southwark Counc
 [https://www.facebook.com/events/747582068976611/](https://www.facebook.com/events/747582068976611/)
 
 ![](http://35percent.org/img/tweet.gif)
+
