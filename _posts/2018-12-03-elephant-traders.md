@@ -11,11 +11,11 @@ The snub comes in the [legal S106 agreement](http://planbuild.southwark.gov.uk/d
 
 ![](http://35percent.org/img/App12.png)
 
-The bare-bones of a strategy are given elsewhere (Part 6 of Schedule 2), including proposals for a database of relocation opportunities, a £634,700 relocation fund and a temporary relocation space, but nothing that amounts to a fully-fleshed out strategy.
+The skeleton of a strategy is given elsewhere (Part 6 of Schedule 2), including proposals for a database of relocation opportunities, a £634,700 relocation fund and a temporary relocation space, but nothing that amounts to a fully-fleshed out strategy.
 
 ## There is no Trader Panel
 
-The S106 agreement also claims that the Trader Panel has been established and its membership has been approved by the Council (pg 85), when no traders have yet been confirmed as members.  
+The S106 agreement also claims that the Trader Panel has been established and its membership has been approved by the Council (pg 85), when no traders have yet been confirmed as members. There can be no robust relocation strategy without a fully-functioning Trader Panel. 
 
 It includes the obligation on Delancey to provide a temporary retail provision, in the shape of Castle Square (pg 84).  Delancey has made a seperate planning application for this, which must be approved before it can proceed with any development of the shopping centre.  While Castle Square is a clear gain for traders and campaigners, it is [nowhere near big enough](http://35percent.org/2018-11-24-castle-square-delancey-responds/) for all the traders who need accommodating and there have been over a [hundred objections](https://planning.southwark.gov.uk/online-applications/applicationDetails.do?activeTab=neighbourComments&keyVal=_STHWR_DCAPR_9578882) on this and other issues.  The Castle Square application is due to be decided by Southwark's planning sub-committee B on [12 December](http://moderngov.southwark.gov.uk/ieListDocuments.aspx?CId=353&MId=6147&Ver=4).  
 
