@@ -11,7 +11,7 @@ The snub comes in the [legal S106 agreement](http://planbuild.southwark.gov.uk/d
 
 ![](http://35percent.org/img/App12.png)
 
-The bare-bones of a strategy are given elsewhere (Part 6 of Schedule 2), including proposals for a database of relocation opportunites, a £634,700 relocation fund and a temporary relocation space, but nothing that amounts to a fully-fleshed out strategy.
+The bare-bones of a strategy are given elsewhere (Part 6 of Schedule 2), including proposals for a database of relocation opportunities, a £634,700 relocation fund and a temporary relocation space, but nothing that amounts to a fully-fleshed out strategy.
 
 ## There is no Trader Panel
 
