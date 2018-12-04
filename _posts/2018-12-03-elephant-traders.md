@@ -27,7 +27,7 @@ There are also several points on which Southwark and Delancey are not in agreeme
 
 ## Sadiq Khan must call-in the scheme
 
-Mayor Sadiq Khan has until 13 December to decide whether to allow the scheme to be approved. He can direct that the application be refused or take over the application in order to determine the case himself.  As well as demanding a robust relocation strategy, he has said he will also be subjecting the affordable housing offer to ['rigourous scrutiny'](https://www.change.org/p/sadiq-khan-sadiq-say-no-to-the-displacement-of-bame-communities-from-elephant-castle/responses/41627) and be addressing unresolved transport issues. 
+Mayor Sadiq Khan has until 13 December to decide whether to allow the scheme to be approved. He can direct that the application be refused or take over the application in order to determine the case himself.  As well as demanding a robust relocation strategy, he has said he will also be subjecting the affordable housing offer to ['rigorous scrutiny'](https://www.change.org/p/sadiq-khan-sadiq-say-no-to-the-displacement-of-bame-communities-from-elephant-castle/responses/41627) and be addressing unresolved transport issues. 
 
 It's hard to see that Delancey's proposals for trader relocation qualify as 'robust'.  Above all else, the traders have not had the opportunity to properly discuss Delancey's proposals, yet alone amend or improve them.  Delancey has held just one open meeting with traders, with a second scheduled for 13 December, just about the time the Mayor has to deliver his decision.
 
