@@ -31,7 +31,7 @@ Mayor Sadiq Khan has until 13 December to decide whether to allow the scheme to 
 
 It's hard to see that Delancey's proposals for trader relocation qualify as 'robust'.  Above all else, the traders have not had the opportunity to properly discuss Delancey's proposals, yet alone amend or improve them.  Delancey has held just one open meeting with traders, with a second scheduled for 13 December, just about the time the Mayor has to deliver his decision.
 
-There is also the unanswered questions over any GLA funding for social rented housing; will Delancey get the funding and if they do, will it increase the amount of social rented housing or just subsidise the 116 units Delancey have already committed to build?
+There are also unanswered questions over any GLA funding for social rented housing; will Delancey get the funding and if they do, will it increase the amount of social rented housing or just subsidise the 116 units Delancey have already committed to build?
 
 The Mayor also needs to take a close look at the head-scratching arrangements for extending so-called affordable rent tenancies, beyond their 3-year terms.  They are a recipe for confusion and mismanagement and will leave tenants vunerable and insecure. 
 
