@@ -25,7 +25,7 @@ There are also several points on which Southwark and Delancey are not in agreeme
 
 [The S106](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!cmd1tKmi8kCHCJ6ouDat0w%3d%3d!%7d%7d%7d) (pg 60 Eligibility Review) also details the complex arrangements for extending the London Living Rent and other so-called affordable, discounted market rent tenancies, beyond their 3-year terms.  Tenants who are fortunate enough to see their salary increase during their tenancies may also find much of it going to Delancey, if they jump into a higher band of rent payment - or maybe not, depending on what other affordable units are available at the time.  While Delancey is bound to maintain the affordable housing ratios, final decisions on how to do this are left in Delancey's hands.
 
-## Sadiq Khan must call-in this scheme
+## Sadiq Khan must reject this scheme
 
 Mayor Sadiq Khan has until 13 December to decide whether to allow the scheme to be approved. He can direct that the application be refused or take over the application in order to determine the case himself.  As well as demanding a robust relocation strategy, he has said he will also be subjecting the affordable housing offer to ['rigorous scrutiny'](https://www.change.org/p/sadiq-khan-sadiq-say-no-to-the-displacement-of-bame-communities-from-elephant-castle/responses/41627) and be addressing unresolved transport issues. 
 
@@ -35,7 +35,7 @@ There are also unanswered questions over any GLA funding for social rented housi
 
 The Mayor also needs to take a close look at the head-scratching arrangements for extending so-called affordable rent tenancies, beyond their 3-year terms.  They are a recipe for confusion and mismanagement and will leave tenants vulnerable and insecure. 
 
-The case for Sadiq Khan 'calling-in' this application is strong and we urge him to do so - for the sake of  shopping Centre traders, the local community and all future residents.  Delancey's scheme does not deserve to be approved and should be rejected. 
+The case for Sadiq Khan 'calling-in' this application is strong and we urge him to do so - for the sake of  shopping Centre traders, the local community and all future residents.  Delancey's scheme does not deserve to be approved and should be rejected.
 
 You can [object](http://35percent.org/boxpark/#object) to the Castle Sq application [here](http://35percent.org/boxpark/#object)
 
