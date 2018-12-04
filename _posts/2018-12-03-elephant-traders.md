@@ -41,6 +41,6 @@ You can [object](http://35percent.org/boxpark/#object) to the Castle Sq applicat
 
 Join us in a demonstration on the night, **6pm 12 December 2018, Southwark Council head office, 160 Tooley St SE1**  
 
-https://www.facebook.com/events/747582068976611/
+[https://www.facebook.com/events/747582068976611/](https://www.facebook.com/events/747582068976611/)
 
 ![](http://35percent.org/img/tweet.gif)
