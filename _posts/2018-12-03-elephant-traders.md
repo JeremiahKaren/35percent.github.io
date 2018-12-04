@@ -37,7 +37,7 @@ The Mayor also needs to take a close look at the head-scratching arrangements fo
 
 The case for Sadiq Khan 'calling-in' this application is strong and we urge him to do so - for the sake of  shopping Centre traders, the local community and all future residents.  Delancey's scheme does not deserve to be approved and should be rejected.
 
-You can [object](http://35percent.org/boxpark/#object) to the Castle Sq application [here](http://35percent.org/boxpark/#object)
+You can [object](http://35percent.org/boxpark/#object) to the Castle Sq application [here](http://35percent.org/boxpark/#object).
 
 Join us in a demonstration on the night, **6pm 12 December 2018, Southwark Council head office, 160 Tooley St SE1**  
 
