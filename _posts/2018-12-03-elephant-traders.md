@@ -1,7 +1,7 @@
 ---
 layout: post
 published: false
-title: "Elephant traders - where's the re-location strategy?"
+title: Elephant traders - where's the re-location strategy?
 ---
 # Delancey blanks Sadiq Khan's demand for a 'robust' shopping centre trader relocation strategy
 
@@ -39,7 +39,6 @@ The case for Sadiq Khan 'calling-in'this decision is strong and we urge him to d
 
 You can [object](http://35percent.org/boxpark/#object) to the Castle Sq application [here](http://35percent.org/boxpark/#object)
 
-Join us in a demonstration on the night, **6pm 12 December 2018, Southwark Council head office, 160 Tooley St SE1**
+Join us in a demonstration on the night, **6pm 12 December 2018, Southwark Council head office, 160 Tooley St SE1** https://www.facebook.com/events/747582068976611/
 
 ![](http://35percent.org/img/tweet.gif)
-
