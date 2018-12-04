@@ -35,7 +35,7 @@ There is also the unanswered questions over any GLA funding for social rented ho
 
 The Mayor also needs to take a close look at the head-scratching arrangements for extending so-called affordable rent tenancies, beyond their 3-year terms.  They are a recipe for confusion and mismanagement and will leave tenants vunerable and insecure. 
 
-The case for Sadiq Khan 'calling-in'this decision is strong and we urge him to do so -  for the sake of  shopping Centre traders, the local community and all future residents.
+The case for Sadiq Khan 'calling-in'this decision is strong and we urge him to do so -  for the sake of  shopping Centre traders, the local community and all future residents.  This is not an application that deserves approval.
 
 You can [object](http://35percent.org/boxpark/#object) to the Castle Sq application [here](http://35percent.org/boxpark/#object)
 
