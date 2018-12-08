@@ -25,7 +25,7 @@ Page 60 of [the S106 agreement](http://planbuild.southwark.gov.uk/documents/?Get
  
 ## Sadiq Khan must reject this scheme
 
-The shopping centre traders are the people to judge whether or not Delancey's proposals for trader relocation are 'robust', as the Mayor has demanded. However, the Trader Panel has not been set up and had no opportunity to discuss the relocation strategy, yet alone amend or improve it, so this test has not been passed. 
+The shopping centre traders are the people to judge whether or not Delancey's proposals for trader relocation are 'robust', as the Mayor has demanded; but the Trader Panel has not been set up and had no opportunity to discuss the relocation strategy, yet alone amend or improve it, so this test has not been passed. 
 
 There are also unanswered questions over any GLA funding for social rented housing; will Delancey get the funding and if it does, will it increase the amount of social rented housing or just subsidise the 116 units it has already committed to build?
 
