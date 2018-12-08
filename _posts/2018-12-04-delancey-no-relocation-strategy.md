@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 title: Elephant shopping centre - decision day
 ---
 ## Mayor's verdict due on Monday
