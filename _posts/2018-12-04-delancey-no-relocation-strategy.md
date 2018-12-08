@@ -24,17 +24,16 @@ There are also several points on which Southwark and Delancey are not in agreeme
 Page 60 of [the S106 agreement](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!cmd1tKmi8kCHCJ6ouDat0w%3d%3d!%7d%7d%7d) ('Eligibility Review') also details the complex arrangements for extending the London Living Rent and other so-called affordable, discounted market rent tenancies, beyond their 3-year terms.  Tenants who are fortunate enough to see their salary increase during their tenancies may also find much of it going to Delancey, if they jump into a higher band of rent payment - or maybe not, depending on what other affordable units are available at the time.  While Delancey is bound to maintain the affordable housing ratios, final decisions on how to do this are left in Delancey's hands.
  
 ## Sadiq Khan must reject this scheme
-Mayor Sadiq Khan has until 13 December to decide whether to allow the scheme to be approved. He can direct that the application be refused or take over the application in order to determine the case himself.  As well as demanding a robust relocation strategy, he has said he will also be subjecting the affordable housing offer to ['rigorous scrutiny'](https://www.change.org/p/sadiq-khan-sadiq-say-no-to-the-displacement-of-bame-communities-from-elephant-castle/responses/41627) and be addressing unresolved transport issues. 
 
-It's hard to see that Delancey's proposals for trader relocation qualify as 'robust'.  Above all else, the traders have not had the opportunity to properly discuss Delancey's proposals, yet alone amend or improve them.  Delancey has held just one open meeting with traders, with a second scheduled for 13 December, just about the time the Mayor has to deliver his decision.
+One of Sadiq Khan's test is that Delancey's proposals for trader relocation are 'robust'. The people to judge this arre the traders themselves, but the Trader Panel has not been set up and has had no opportunity to properly discuss Delancey's proposals, yet alone amend or improve them, so this test has not been passed. 
 
 There are also unanswered questions over any GLA funding for social rented housing; will Delancey get the funding and if it does, will it increase the amount of social rented housing or just subsidise the 116 units it has already committed to build?
 
 The Mayor also needs to take a close look at the head-scratching arrangements for extending so-called affordable rent tenancies, beyond their 3-year terms.  They are a recipe for confusion and mismanagement and will leave tenants vulnerable and insecure. 
 
-The case for Sadiq Khan 'calling-in' this application is strong and we urge him to do so - for the sake of shopping Centre traders, the local community and all future residents.  Delancey's scheme does not deserve to be approved by the Mayor and should be rejected.
+The case for Sadiq Khan 'calling-in' this application is strong - for the sake of shopping Centre traders, the local community and all future residents.  Delancey's scheme does not deserve to be approved by the Mayor and should be rejected.
 
-You can [object](http://35percent.org/boxpark/#object) to the Castle Sq application [here](http://35percent.org/boxpark/#object).
+You can still [object](http://35percent.org/boxpark/#object) to the Castle Sq application [here](http://35percent.org/boxpark/#object).
 
 Join us in a demonstration on the night, **6pm 12 December 2018, Southwark Council head office, 160 Tooley St SE1**  
 
