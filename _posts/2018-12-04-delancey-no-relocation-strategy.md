@@ -38,7 +38,7 @@ The case for Sadiq Khan 'calling-in' this application is strong, for the sake of
 
 You can still [object](http://35percent.org/boxpark/#object) to Delancey's inadequate boxpark application [here](http://35percent.org/boxpark/#object).
 
-You can also join us to make some noise at a demonstration on this coming Wednesday when the Council's planning committee will decide on the boxpark application: **6pm 12 December 2018, Southwark Council head office, 160 Tooley St SE1**  
+You can also join us to make some noise at a demonstration this coming Wednesday when the Council's planning committee decides on the boxpark application: **6pm 12 December 2018, Southwark Council head office, 160 Tooley St SE1**  
 
 [https://www.facebook.com/events/747582068976611/](https://www.facebook.com/events/747582068976611/)
 
