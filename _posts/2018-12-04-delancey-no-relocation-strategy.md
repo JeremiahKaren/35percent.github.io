@@ -5,7 +5,7 @@ title: Elephant shopping centre - decision day
 ---
 # Mayor's verdict due on Monday
 
-Mayor of London, Sadiq Khan is due to make a decision on the Elephant shopping centre planning application on Monday.  Southwark resolved to approve developer Delancey's proposals back in July, after fierce opposition andthree planning meetings.  Southwark referred the decision to the Mayor on 29 November, when they sent him the legal s106 ageement, that would seal the application for his consideration; he can either approve, direct refusal or take the decsion over himself.
+Mayor of London, Sadiq Khan is due to make a decision on the Elephant shopping centre planning application on Monday.  Southwark resolved to approve developer Delancey's proposals back in July, after fierce opposition andthree planning meetings.  Southwark referred the decision to the Mayor on 29 November, when they sent him the [legal s106 ageement](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!cmd1tKmi8kCHCJ6ouDat0w%3d%3d!%7d%7d%7d), that would seal the application for his consideration; he can either approve, direct refusal or take the decsion over himself.
 
 The Mayor has said that he will [demand a 'robust relocation strategy'](https://www.change.org/p/sadiq-khan-sadiq-say-no-to-the-displacement-of-bame-communities-from-elephant-castle/responses/41627) for traders displaced by the centre's proposed demolition and redevelopment.  He has also said he will also be subjecting the affordable housing offer to ['rigorous scrutiny'](https://www.change.org/p/sadiq-khan-sadiq-say-no-to-the-displacement-of-bame-communities-from-elephant-castle/responses/41627) and be addressing unresolved transport issues. 
 
