@@ -11,7 +11,7 @@ The Mayor has said that he will [demand a 'robust relocation strategy'](https://
 
 ## Relocation strategy and Castle Square
 
-The [relocation strategy](link) is listed as Appendix 10 to the s106 (although titled Appendix 9) and was only published on Friday, 7 December.  It outlines the respective roles of the developer, council and traders and how traders will be assisted, but traders would take issue with the document's claim that they have been consulted on its contents (9. Trader Consultation).  The Trader Panel has not yet been established and the temporary relocation facility at Castle Sq has [drawn many objections](http://35percent.org/2018-11-24-castle-square-delancey-responds/), for its small size, design, opening hours, leases and rents.  As the [Latin Elephant objection](link) points out much of this could have been resolved though the Trader Panel, had it been set up more promptly. 
+The [relocation strategy](link) is listed as Appendix 10 to the s106 (although titled Appendix 9) and was only published on Friday, 7 December.  It outlines the respective roles of the developer, council and traders and how traders will be assisted, but traders would take issue with the document's claim that they have been consulted on its contents (9. Trader Consultation).  The Trader Panel has not yet been established and the temporary relocation facility at Castle Sq has [drawn many objections](http://35percent.org/2018-11-24-castle-square-delancey-responds/), for its small size, design, opening hours, leases and rents.  As the [Latin Elephant objection](https://docdro.id/cJY7s28) points out much of this could have been resolved though the Trader Panel, had it been set up more promptly. 
 
 By he terms of the S106, Delancey must get planning permission for Castle Square before it can proceed with the redevelopment of the shopping centre and this will be decided by Southwark's planning sub-committee B on [12 December](http://moderngov.southwark.gov.uk/ieListDocuments.aspx?CId=353&MId=6147&Ver=4).
 
@@ -31,7 +31,7 @@ There are also unanswered questions over any GLA funding for social rented housi
 
 The Mayor also needs to take a close look at the head-scratching arrangements for extending so-called affordable rent tenancies, beyond their 3-year terms.  They are a recipe for confusion and mismanagement and will leave tenants vulnerable and insecure. 
 
-The case for Sadiq Khan 'calling-in' this application is strong, for the sake of shopping Centre traders, the local community and all future residents and is [supported by Sian Berry AM](link) amongst others.  Delancey's scheme does not deserve to be approved and should be rejected.
+The case for Sadiq Khan 'calling-in' this application is strong, for the sake of shopping Centre traders, the local community and all future residents and is [supported by Sian Berry AM](http://35percent.org/images/Sian_lett.pdf) amongst others.  Delancey's scheme does not deserve to be approved and should be rejected.
 
 You can still [object](http://35percent.org/boxpark/#object) to the Castle Sq application [here](http://35percent.org/boxpark/#object).
 
