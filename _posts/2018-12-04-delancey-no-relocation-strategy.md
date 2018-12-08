@@ -7,6 +7,8 @@ title: Elephant shopping centre - decision day
 
 Mayor of London, Sadiq Khan is due to make a decision on the Elephant shopping centre planning application on Monday, 10 December.  Southwark [resolved to approve](http://35percent.org/2018-07-09-delancey/) developer Delancey's proposals back in July, after fierce opposition and three planning committee meetings.  Southwark referred the decision to the Mayor on 29 November, when it sent him the [legal s106 agreement](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!cmd1tKmi8kCHCJ6ouDat0w%3d%3d!%7d%7d%7d), which seals the application; he can either approve, direct refusal or take the decision over himself.
 
+![]({{site.baseurl}}/http://35percent.org/img/sadiqkhansc.jpg)
+
 The Mayor has said that he will [demand a 'robust relocation strategy'](https://www.change.org/p/sadiq-khan-sadiq-say-no-to-the-displacement-of-bame-communities-from-elephant-castle/responses/41627) for traders displaced by the centre's proposed demolition and redevelopment.  He has also said that he will be subjecting the affordable housing offer to ['rigorous scrutiny'](https://www.change.org/p/sadiq-khan-sadiq-say-no-to-the-displacement-of-bame-communities-from-elephant-castle/responses/41627) and be addressing unresolved transport issues.
 
 ## Relocation strategy and Castle Square
