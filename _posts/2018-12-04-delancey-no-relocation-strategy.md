@@ -17,7 +17,7 @@ By he terms of the S106, Delancey must get planning permission for Castle Square
 
 ## The S106
 
-Aside from the relocation strategy other notable aspects of the draft S106 include no mention of increasing the social housing offer above the 116 units Delancey has already committed to build, if it receives a GLA grant.  Delancey claimed to the planning committee that it had an ['in-principle agreement'](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!b5xBNaYRSleWlYx6oXVrEA%3d%3d!%7d%7d%7d) for the funding, but this claim has been [challenged by campaign groups](http://35percent.org/2018-10-30-shopping-centre-legal-challenge/).
+Aside from the relocation strategy other notable aspects of the draft S106 include no mention of increasing the social housing offer, above the 116 units Delancey has already committed to build, if it receives a GLA grant.  Delancey claimed to the planning committee that it had an ['in-principle agreement'](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!b5xBNaYRSleWlYx6oXVrEA%3d%3d!%7d%7d%7d) for the funding, but this claim has been [challenged by campaign groups](http://35percent.org/2018-10-30-shopping-centre-legal-challenge/).
 
 There are also several points on which Southwark and Delancey are not in agreement, including the target profit on the residential element of the scheme - Delancey wants 17.5% GDV, Southwark says 12.5% GDV is a more appropriate profit level [(pg 39, footnote)](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!cmd1tKmi8kCHCJ6ouDat0w%3d%3d!%7d%7d%7d).  This could be significant for getting more affordable housing; if the target is exceeded, half the extra profit should go to Southwark, so it benefits from the lower figure.
 
