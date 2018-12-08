@@ -1,9 +1,11 @@
 ---
 layout: post
-published: false 
-title: "Elephant traders - where's the re-location strategy?"
+published: false
+title: Elephant shopping centre - decision day
 ---
-# Delancey blanks Mayor's demand for 'robust' relocation strategy for shopping centre traders
+# Mayor's verdict due on Monday
+
+Mayor of London, Sadiq Khan is due to make a decision on the Elephant shopping centre planning application on Monday.  Southwark resolved to approve developer Delancey's proposals back in July, after fierce opposition andthree planning meetings.  Southwark referred the decision to the Mayor on 29 November, when they sent him the legal s106 ageement 
 Elephant shopping centre developer Delancey has presented Sadiq Khan with a blank piece of paper in response to his [demand for a 'robust relocation strategy'](https://www.change.org/p/sadiq-khan-sadiq-say-no-to-the-displacement-of-bame-communities-from-elephant-castle/responses/41627) for traders displaced by the centre's proposed demolition and redevelopment.
 
 The snub comes in the [legal S106 agreement](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!cmd1tKmi8kCHCJ6ouDat0w%3d%3d!%7d%7d%7d) that seals the planning permission [granted by Southwark Council in July](http://35percent.org/2018-07-09-delancey/), for the centre's demolition and redevelopment.  The relocation strategy [should have been included in the draft S106 agreement sent to the Mayor](http://35percent.org/img/S106_Relocation_Strategy.pdf) last week, but the relevant appendix (Appendix 12) is blank (and mis-titled as 'Castle Square Site Plan').  
@@ -41,4 +43,3 @@ Join us in a demonstration on the night, **6pm 12 December 2018, Southwark Counc
 [https://www.facebook.com/events/747582068976611/](https://www.facebook.com/events/747582068976611/)
 
 ![](http://35percent.org/img/tweet.gif)
-
