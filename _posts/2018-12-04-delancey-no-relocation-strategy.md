@@ -25,7 +25,7 @@ Page 60 of [the S106 agreement](http://planbuild.southwark.gov.uk/documents/?Get
  
 ## Sadiq Khan must reject this scheme
 
-One of Sadiq Khan's test is that Delancey's proposals for trader relocation are 'robust'. The people to judge this arre the traders themselves, but the Trader Panel has not been set up and has had no opportunity to properly discuss Delancey's proposals, yet alone amend or improve them, so this test has not been passed. 
+Sadiq Khan's has demanded Delancey's proposals for trader relocation are 'robust'. The people to judge this arre the traders themselves, but the Trader Panel has not been set up and has had no opportunity to properly discuss Delancey's proposals, yet alone amend or improve them, so this test has not been passed. 
 
 There are also unanswered questions over any GLA funding for social rented housing; will Delancey get the funding and if it does, will it increase the amount of social rented housing or just subsidise the 116 units it has already committed to build?
 
