@@ -3,7 +3,7 @@ layout: post
 published: false
 title: Elephant shopping centre - decision day
 ---
-# Mayor's verdict due on Monday
+## Mayor's verdict due on Monday
 
 Mayor of London, Sadiq Khan is due to make a decision on the Elephant shopping centre planning application on Monday, 10 December.  Southwark [resolved to approve](http://35percent.org/2018-07-09-delancey/) developer Delancey's proposals back in July, after fierce opposition andthree planning meetings.  Southwark referred the decision to the Mayor on 29 November, when they sent him the [legal s106 ageement](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!cmd1tKmi8kCHCJ6ouDat0w%3d%3d!%7d%7d%7d), that would seal the application for his consideration; he can either approve, direct refusal or take the decsion over himself.
 
@@ -12,7 +12,6 @@ The Mayor has said that he will [demand a 'robust relocation strategy'](https://
 The [relocation strategy](link) is listed as Appendix 10 to the s106 (although titled Appendix 9) and was only published on Friday, 7 December.  It outlines the respective roles of the developer, council and traders and how traders will be assisted, but traders would take issue with the document's claim that they have been consulted on its contents (9. Trader Consultation).  The Trader Panel has not yet been established and the temporary relocation facility at Castle Sq has [drawn many objections](http://35percent.org/2018-11-24-castle-square-delancey-responds/), for its small size, design, opening hours, leases and rents.  As the [Latin Elephant objection](link) points out much of this could have been resolved though the Trader Panel, had it been set up more promptly. 
 
 ## Trader Panel
-The [S106 agreement](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!cmd1tKmi8kCHCJ6ouDat0w%3d%3d!%7d%7d%7d) also claims that the Trader Panel has been established and that its membership has been approved by the Council (pg 85), when no traders have yet been confirmed as members. There can be no robust relocation strategy without a fully-functioning Trader Panel. 
 
 It includes the obligation on Delancey to provide a temporary retail provision, in the shape of Castle Square (pg 84).  Delancey has made a seperate [planning application](http://35percent.org/boxpark) for this, which must be approved before it can proceed with any development of the shopping centre.  While Castle Square is a clear gain for traders and campaigners, it is [nowhere near big enough](http://35percent.org/2018-11-24-castle-square-delancey-responds/) for all the traders who need accommodating and there have been over a [hundred objections](https://planning.southwark.gov.uk/online-applications/applicationDetails.do?activeTab=neighbourComments&keyVal=_STHWR_DCAPR_9578882) on this and other issues.  The Castle Square application is due to be decided by Southwark's planning sub-committee B on [12 December](http://moderngov.southwark.gov.uk/ieListDocuments.aspx?CId=353&MId=6147&Ver=4).  
 
