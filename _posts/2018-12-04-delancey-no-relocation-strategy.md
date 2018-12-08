@@ -2,6 +2,7 @@
 layout: post
 published: true
 title: Elephant shopping centre - decision day
+date: '2018-12-08'
 ---
 ## Mayor's verdict due on Monday
 
