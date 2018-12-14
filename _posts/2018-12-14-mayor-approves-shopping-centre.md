@@ -18,5 +18,3 @@ __Footnotes:__
 [1]: The following parties wrote to the Mayor objecting to the scheme's failure to meet minimum affordable housing requirements and provide sufficient relocation measures for traders: Bermondsey & Old Southwark Labour Party; Borough & Bankside Labour Party; North Walworth Labour Party; Faraday Ward Labour Party; St George's Labour Party; Chaucer Ward Labour Party; Camberwell & Peckham Labour Party.
 
 [^ 2]: Southwark's [planning policy](https://www.southwark.gov.uk/planning-and-building-control/planning-policy-and-transport-policy/supplementary-planning-documents-spd/spd-by-area?chapter=6) requires at least 35% affordable homes of which half social rent which would have provided circa 165 social rented homes. Delancey's scheme is providing only 116.
-
-
