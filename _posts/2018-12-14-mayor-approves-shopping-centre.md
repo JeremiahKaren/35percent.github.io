@@ -5,7 +5,7 @@ title: 'E&C shopping centre - after Mayor''s ok, Delancey stumble '
 ---
 ## A week of mixed fortunes for developer
 
-Last Monday shopping centre owner and developer Delancey seemed to have finally secured full approval for the redevelopment of the Elephant shopping centre, when Mayor Sadiq Khan [declined to intervene](https://www.docdroid.net/njfeOJz/3654.pdf#page=23) in the decision.  In doing so he followed Southwark Council in defying written objections from seven local ward & constituency level Labour parties [^ 1], two London Assembly members and over a thousand formal objections submitted by local people against [Delancey's disastrous redevelopment of the Elephant & Castle shopping centre](http://35percent.org/shopping-centre).
+Last Monday, shopping centre owner and developer, Delancey, seemed to have finally secured full approval for the redevelopment of the Elephant shopping centre, when Mayor Sadiq Khan [declined to intervene](https://www.docdroid.net/njfeOJz/3654.pdf#page=23) in the decision.  In doing so he followed Southwark Council in defying written objections from seven local ward & constituency level Labour parties [^ 1], two London Assembly members and over a thousand formal objections submitted by local people against [Delancey's disastrous redevelopment of the Elephant & Castle shopping centre](http://35percent.org/shopping-centre).
 
 ![](http://35percent.org/img/traderscompsk.jpeg)
 
