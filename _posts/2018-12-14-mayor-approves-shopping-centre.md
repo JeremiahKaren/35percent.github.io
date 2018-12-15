@@ -17,11 +17,11 @@ Close questioning from sub-committee members revealed other shortcomings, includ
 
 It has been apparent that Delancey have also dragged their feet setting up the Trader Panel, which has meant that traders have had little influence over the design of Castle Square, prompting several practical objections, such as lack of window space to display goods.  The Traders Panel has also not been able to address fundamental issues, like leases that provide some certainty beyond the life time of Castle Square and the rents to be paid.  This proved to be the biggest problem for sub-committee members.  Delancey claimed that the rents to be paid would be on a par with what is being at the moment by shopping centre, with officer's citing an average rent of £64psf.  This was fiercely contested by the Elephant Traders Association and the sub-committee deferred a decision to allow officers to gather more information.
 
-The sub-committee si due to reconvene meeting
+The sub-committee is due to reconvene for a decision on Castle Square on 7 January 2018, other details to be announced.
 
 ## Mayor gives dire scheme his approval
 
-Hopes that the Mayor would have the courage to reject a scheme that enjoys negligible local support were sorely disappointed by his refusal to intervene.  It transpires that the [decision was passed on](http://www.london-se1.co.uk/news/view/9772) to deputy mayor for planning Jules Pipe, when the Mayor cited a conflict of interest, being chair of TfL, who are party to the schemes s106 agreemnt, includin a deal with TfL for Delancey to provide a new Northern lind tube entrance.  The decision remains the Mayor's, though, in a formal and legal sense.
+Hopes that the Mayor would have the courage to reject the main shopping centre scheme, were sorely disappointed by his refusal to intervene.  It transpires that the [decision was passed on](http://www.london-se1.co.uk/news/view/9772) to deputy mayor for planning Jules Pipe, when the Mayor cited a conflict of interest, being chair of TfL, who are party to the schemes s106 agreemnt, includin a deal with TfL for Delancey to provide a new Northern lind tube entrance.  The decision remains the Mayor's, though, in a formal and legal sense.
 
 ![](http://35percent.org/img/traderscompsk.jpeg)
 
@@ -43,6 +43,8 @@ We need a better entrance to the Northern Line, but the needs of traders and loc
 This is a chance for a refusal and it should be taken. All the big beasts - the Mayor, GLA, TfL, UAL, Southwark -  have been focussed on what they can get out of the development, in the shape of new tube stations and university campuses, and what are grandly known as 'strategic issues', at the expense of local traders and real affordable housing.  They all supported the scheme with little reservation when it first came forward and it took the local community to step forward to wrest a few small, but important concessions, from Delancey, through outright opposition.  The scheme though largely remains as it was, though.  
 
 Come the 19 December,Southwark can redeem itself by finally putting this scheme to a merciful end.  It must not be allowed to destroy the long-standing, vibrant mixed Elephant and Castle community low-income community, the Mayor
+
+that enjoys negligible local support
 
 __Footnotes:__
 [1]: The following parties wrote to the Mayor objecting to the scheme's failure to meet minimum affordable housing requirements and provide sufficient relocation measures for traders: Bermondsey & Old Southwark Labour Party; Borough & Bankside Labour Party; North Walworth Labour Party; Faraday Ward Labour Party; St George's Labour Party; Chaucer Ward Labour Party; Camberwell & Peckham Labour Party.
