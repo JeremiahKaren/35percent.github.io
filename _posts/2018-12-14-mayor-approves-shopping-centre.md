@@ -9,7 +9,7 @@ Last Monday shopping centre owner and developer Delancey seemed to have finally 
 
 ![](http://35percent.org/img/traderscompsk.jpeg)
 
-Come Tuesday, though, Delancey failed to secure planning approval for a vital condition of the shopping centre scheme.  [After a vibrant demonstration](https://twitter.com/uptheelephant_?lang=en&lang=en)outside Southwark's HQ in Tooley St, including impassioned speeches from the Latin American community,planning sub-committee B deferred a decision on Castle Square, the temporary relocation facility for displaced traders.  Delancey [must get this approval](http://moderngov.southwark.gov.uk/mgAi.aspx?ID=49413), before it can go any further with the shopping centre redevelopment.
+Come Tuesday, though and Delancey failed to secure planning approval for a vital condition of the shopping centre scheme.  [After a vibrant demonstration](https://twitter.com/uptheelephant_?lang=en&lang=en)outside Southwark's HQ in Tooley St, including impassioned speeches from the Latin American community,planning sub-committee B deferred a decision on Castle Square, the temporary relocation facility for displaced traders.  Delancey [must get this approval](http://moderngov.southwark.gov.uk/mgAi.aspx?ID=49413), before it can go any further with the shopping centre redevelopment.
 
 To make matters worse for Delancey it now looks certain that they will miss the [18 December deadline](http://moderngov.southwark.gov.uk/mgAi.aspx?ID=49413) for concluding the legal S106 agreement that sets the seal on the planning approval. This missed deadline [puts the power to refuse](http://moderngov.southwark.gov.uk/mgAi.aspx?ID=49413)the application into the hands of the Director of Planning.
 
