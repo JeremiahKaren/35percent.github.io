@@ -40,9 +40,7 @@ We need a better entrance to the Northern Line, but the needs of traders and loc
 
 This is a chance for a refusal and it should be taken. All the big beasts - the Mayor, GLA, TfL, UAL, Southwark -  have been focussed on what they can get out of the development, in the shape of new tube stations and university campuses, and what are grandly known as 'strategic issues', at the expense of local traders and real affordable housing.  They all supported the scheme with little reservation when it first came forward and it took the local community to step forward to wrest a few small, but important concessions, from Delancey, through outright opposition.  The scheme though largely remains as it was, though.  
 
-Come the 19 December,Southwark can redeem itself by finally putting this scheme to a merciful end.  It must not be allowed to destroy the long-standing, vibrant mixed Elephant and Castle community low-income community, the Mayor
-
-that enjoys negligible local support
+Come the 19 December, Southwark's Director of Planning can redeem the council by finally putting this scheme to a merciful end.  It must not be allowed to destroy the long-standing, vibrant, mixed Elephant and Castle community, a home to working people from around the world for decades.  If he does not do so, the local community and all itssupporters will be rallying at Southwark HQ once more on January 7 in support of the traders' demands for space at rents that allows all of them to continue earning a livlihood.
 
 __Footnotes:__
 [1]: The following parties wrote to the Mayor objecting to the scheme's failure to meet minimum affordable housing requirements and provide sufficient relocation measures for traders: Bermondsey & Old Southwark Labour Party; Borough & Bankside Labour Party; North Walworth Labour Party; Faraday Ward Labour Party; St George's Labour Party; Chaucer Ward Labour Party; Camberwell & Peckham Labour Party.
