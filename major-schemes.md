@@ -1,7 +1,9 @@
 ---
 layout: page
-title: "Major Schemes"
-subtitle: "Major developments approved in Southwark and their contribution to local housing need"
+title: Major Schemes
+subtitle: >-
+  Major developments approved in Southwark and their contribution to local
+  housing need
 published: true
 ---
 The last ten years has seen a flurry of high-profile, high-density, high-rise developments approved in Southwark - but how have they benefitted the local community? The following table shows a number of major schemes approved (all but one by the current Labour administration) and the number of social rented homes provided in each development.
@@ -38,7 +40,9 @@ Southwark's planning policy says that 35% of all new homes must be affordable of
 
 On this basis it can be said that had Southwark stood firm and forced these schemes to comply with policy then it would have secured approximately 2,500 social rented homes in total. In the event it secured just 456. Had it stood firm there would have been 2,000 extra social rented homes available to those on its housing waiting list.
 
-It is fair to say that in a small number of the schemes, developers have provided a 'commuted sum' in lieu of providing any affordable housing. However, as [pointed out by local news site SE1](http://www.london-se1.co.uk/news/view/8222) these sums are often equal to the price of just one of the penthouse apartments.
+In a small number of the schemes, developers have provided a 'commuted sum' in lieu of providing affordable housing. However, as [pointed out by local news site SE1](http://www.london-se1.co.uk/news/view/8222) these commuted sums are often equal to the price of just one of the penthouse apartments. The total amount received in commuted sums to date is £60m[^1].
 
 It is also fair to say that some of the schemes have provided 'affordable rent' instead of social rent, which is anything up to 80% of market rent (approx 500 in total). We have not included these because they are not affordable to the majority of Southwark residents, especially those on the housing waiting list. There also remains a question about whether the small number of social rented units secured at planning approval are actually being provided as such. Our [research](http://35percent.org/redefining-social-rent/) would suggest otherwise.
 
+__Footnotes:__
+[^ 1]: Confirmed in paragraph 73 of [this Oct 2018 Cabinet report](http://moderngov.southwark.gov.uk/documents/s78248/Report%20New%20Homes%20Programme%20Delivery%20Model%20Review%202018.pdf).
