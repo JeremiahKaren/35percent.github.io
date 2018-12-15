@@ -21,7 +21,9 @@ The sub-committee is due to reconvene for a decision on Castle Square on 7 Janua
 
 ## Mayor gives dire scheme his approval
 
-Hopes that the Mayor would have the courage to reject the main shopping centre scheme, were sorely disappointed by his refusal to intervene.  It transpires that the [decision was passed on](http://www.london-se1.co.uk/news/view/9772) to deputy mayor for planning Jules Pipe, when the Mayor cited a conflict of interest, being chair of TfL, who are party to the schemes s106 agreemnt, includin a deal with TfL for Delancey to provide a new Northern lind tube entrance.  The decision remains the Mayor's, though, in a formal and legal sense.
+Hopes that the Mayor would have the courage to reject the main shopping centre scheme, were sorely disappointed by his refusal to intervene.  It transpires that the [decision was passed on](http://www.london-se1.co.uk/news/view/9772) to deputy mayor for planning Jules Pipe, when the Mayor cited a conflict of interest, being chair of TfL, who are party to the schemes s106 agreemnt, includin a deal with TfL for Delancey to provide a new Northern line tube entrance.  The decision remains the Mayor's, though, in a formal and legal sense.
+
+The decision was announcedin a statement that claimed two improvements - an increase 
 
 ![](http://35percent.org/img/traderscompsk.jpeg)
 
