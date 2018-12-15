@@ -1,10 +1,11 @@
 ---
 layout: post
 published: false
-title: Mayor approves Delancey's dire E&C scheme
+title: 'E&C shopping centre - Delancey stumble '
 ---
-## A New Post
-On Monday Sadiq Khan defied written objections from seven local ward & constituency level Labour parties[^ 1], two London Assembly members and over a thousand formal objections submitted by local people to approve [Delancey's disastrous redevelopment of the Elephant & Castle shopping centre](http://35percent.org/shopping-centre). 
+## A week of mixed fortunes for developer
+
+Shopping centre owner and developer Delancey seemed to have finally secured approval of the redevelopment of the Elephant shoping centre, when last Monday Mayor Sadiq Khan [declined to intervene](https://www.docdroid.net/njfeOJz/3654.pdf#page=23) in the decision.  In doing so he joine Southwark Council in defying the written objections from seven local ward & constituency level Labour parties[^ 1], two London Assembly members and over a thousand formal objections submitted by local people against [Delancey's disastrous redevelopment of the Elephant & Castle shopping centre](http://35percent.org/shopping-centre).
 
 ![](http://35percent.org/img/traderscompsk.jpeg)
 
@@ -15,6 +16,8 @@ Despite the scheme's failure to meet the Council's own minimum affordable housin
 ![](http://35percent.org/img/glastatement.jpg)
 
 http://www.london-se1.co.uk/news/view/9772
+
+Mayor Khan approves dire E&C scheme
 
 __Footnotes:__
 [1]: The following parties wrote to the Mayor objecting to the scheme's failure to meet minimum affordable housing requirements and provide sufficient relocation measures for traders: Bermondsey & Old Southwark Labour Party; Borough & Bankside Labour Party; North Walworth Labour Party; Faraday Ward Labour Party; St George's Labour Party; Chaucer Ward Labour Party; Camberwell & Peckham Labour Party.
