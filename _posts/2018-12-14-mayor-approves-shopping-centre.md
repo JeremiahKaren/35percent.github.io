@@ -23,13 +23,12 @@ The sub-committee is due to reconvene for a decision on Castle Square on 7 Janua
 
 Hopes that the Mayor would have the courage to reject the main shopping centre scheme, were sorely disappointed by his refusal to intervene.  It transpires that the [decision was passed on](http://www.london-se1.co.uk/news/view/9772) to deputy mayor for planning Jules Pipe, when the Mayor cited a conflict of interest, being chair of TfL, who are party to the schemes s106 agreement, includin a deal with TfL for Delancey to provide a new Northern line tube entrance.  The decision remains the Mayor's, though, in a formal and legal sense.
 
-The decision was announced in a statement that claimed several advantages and improvements including an extension to the length of time traders would benefit from below-market rents to 15 years.  This is better than the current 5 years, but its benefit depnds on what the market rent is taken to be, and the Castle Square meeting shows there is no agreement on this.  The statement also says that there will be _'35% social rent... or other genuinely affordable rent'_.  The GLA Stage 2 report shows this to be 116 social rented units, which is neither more than there was when the decision was referred to the Mayor nor enough to meet 
+The decision was announced in a statement that claimed several advantages and improvements including an extension to the length of time traders would benefit from below-market rents to 15 years.  This is better than the current 5 years, but its benefit depnds on what the market rent is taken to be, and the Castle Square meeting shows there is no agreement on this.  The statement also says that there will be _'35% social rent... or other genuinely affordable rent'_.  The [GLA Stage 2 report](https://www.docdroid.net/njfeOJz/3654.pdf#page=22) shows this to be [116 social rented units](https://www.docdroid.net/S6CBtQA/stage2-excerpt.pdf), which is neither more than there was when the decision was referred to the Mayor nor enough to meet Southwark's [planning policy](https://www.southwark.gov.uk/planning-and-building-control/planning-policy-and-transport-policy/supplementary-planning-documents-spd/spd-by-area?chapter=6) which would require around 170 social rented homes.  The top end cap for discounted market rent aka affordable rent has been reduced from £90k to £60k, but this makes for a 'genuinely affordable rent' only in th Mayor's imagination.
 
 ![](http://35percent.org/img/traderscompsk.jpeg)
 
- issued a [report](https://docdro.id/njfeOJz) on Monday which..
+ 
 
-Despite the scheme's failure to meet the Council's own minimum affordable housing requirements for social rented housing  and a press release which
 
 ![](http://35percent.org/img/glastatement.jpg)
 
@@ -51,4 +50,3 @@ that enjoys negligible local support
 __Footnotes:__
 [1]: The following parties wrote to the Mayor objecting to the scheme's failure to meet minimum affordable housing requirements and provide sufficient relocation measures for traders: Bermondsey & Old Southwark Labour Party; Borough & Bankside Labour Party; North Walworth Labour Party; Faraday Ward Labour Party; St George's Labour Party; Chaucer Ward Labour Party; Camberwell & Peckham Labour Party.
 
-[^ 2]: Southwark's [planning policy](https://www.southwark.gov.uk/planning-and-building-control/planning-policy-and-transport-policy/supplementary-planning-documents-spd/spd-by-area?chapter=6) requires at least 35% affordable homes of which half social rent which would have provided circa 165 social rented homes. Delancey's scheme is providing only 116.
