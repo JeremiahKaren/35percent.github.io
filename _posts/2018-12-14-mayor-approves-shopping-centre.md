@@ -3,7 +3,7 @@ layout: post
 published: false
 title: 'E&C shopping centre - after Mayor''s ok, Delancey stumble '
 ---
-## A week of mixed fortunes for developer
+# A week of mixed fortunes for developer
 
 Last Monday, shopping centre owner and developer, Delancey, seemed to have finally secured full approval for the redevelopment of the Elephant shopping centre, when Mayor Sadiq Khan [declined to intervene](https://www.docdroid.net/njfeOJz/3654.pdf#page=23) in the decision-making.  In doing so he allowed  Southwark Council's [decision to approve](http://35percent.org/shopping-centre/) the application to stand and joined them in defying written objections from seven local ward & constituency level Labour parties [^ 1], two London Assembly members and over a thousand formal objections submitted by local people against [Delancey's disastrous redevelopment of the Elephant & Castle shopping centre](http://35percent.org/shopping-centre).
 
@@ -21,7 +21,7 @@ It has been apparent that Delancey have also dragged their feet setting up the T
 
 The sub-committee is due to reconvene for a decision on Castle Square on 7 January 2018, other details to be announced.
 
-## Mayor gives dire scheme his approval
+# Mayor gives dire scheme his approval
 
 Hopes that the Mayor would have the courage to reject the main shopping centre scheme, were sorely disappointed by his refusal to intervene.  It transpires that the [decision was passed on](http://www.london-se1.co.uk/news/view/9772) to deputy mayor for planning Jules Pipe, when the Mayor cited a conflict of interest, being chair of TfL, who are party to the schemes s106 agreement, includin a deal with TfL for Delancey to provide a new Northern line tube entrance.  The decision remains the Mayor's, though, in a formal and legal sense.
 
