@@ -9,11 +9,15 @@ Last Monday shopping centre owner and developer Delancey seemed to have finally 
 
 Come Tuesday, though, Delancey failed to secure planning approval for a vital condition of the shopping centre scheme, when planning sub-committee B deferred a decision on Castle Square, the temporary relocation facility for displaced traders.  Delancey [must get this approval](http://moderngov.southwark.gov.uk/mgAi.aspx?ID=49413), before it can go any further with the shopping centre redevelopment.
 
-To make matters worse for Delancey it now looks certain that they will miss the 18 December deadline for concluding the legal S106 agreement that sets the seal on the planning approval. This missed deadline [puts the power to refuse](http://moderngov.southwark.gov.uk/mgAi.aspx?ID=49413)the application into the hands of the Director of Planning.
+To make matters worse for Delancey it now looks certain that they will miss the [18 December deadline](http://moderngov.southwark.gov.uk/mgAi.aspx?ID=49413) for concluding the legal S106 agreement that sets the seal on the planning approval. This missed deadline [puts the power to refuse](http://moderngov.southwark.gov.uk/mgAi.aspx?ID=49413)the application into the hands of the Director of Planning.
 
-He has every reason to do this, judging by what was [heard Tues evening](https://www.pscp.tv/w/1nAJEywMqObJL).  Southwark's planning officer's acknowledged that Castle Square would not be suitable for every kind of trader, but that it was just one of the relocation options.  Traders point out, though, that it is the only purpose-built option and after all options are taken into account there is still a shortfall in floorspace (link Latin objection).
+He has every reason to do this, judging by what was [heard pn Tues evening](https://www.pscp.tv/w/1nAJEywMqObJL).  Southwark's planning officer's acknowledged that Castle Square would not be suitable for every kind of trader, but that it was just one of the relocation options. Traders point out, though, that it is the only purpose-built option and after all are taken into account there is still a shortfall in floorspace (link Latin objection).
 
-Delancey have also dragged their feet setting up the Trader Panel, which has meant that traders have had little influence over the design of Castle Square, prompting several practical objections, such as lack of window space to display goods.  The Traders Panel has also not been able to address fundamental issues, like leases that provide some certainty beyond the life time of Castle Square and the actual rents beibg paid decision back into Southwark Council's hands, witht the Direc
+Close questioning from sub-committee members revealed other shortcomings, including an obvious one, that should larger traders take units in a yet to be settled fleixble design, the Square would accommodate a lot fewer traders overall.
+
+Distriandina, one of the larger traders, currently occupying Arch 7, which is due for eventual demolition, testified that Castle Square was not a feasible alternative for them. 
+
+Delancey have also dragged their feet setting up the Trader Panel, which has meant that traders have had little influence over the design of Castle Square, prompting several practical objections, such as lack of window space to display goods.  The Traders Panel has also not been able to address fundamental issues, like leases that provide some certainty beyond the life time of Castle Square and the rents to be paid.  This proved to be the biggest problem for sub-committee members.  Delancey claimed that the rents to be paid would be on a par with what is being at the moment by shopping centre 
 
 ![](http://35percent.org/img/traderscompsk.jpeg)
 
