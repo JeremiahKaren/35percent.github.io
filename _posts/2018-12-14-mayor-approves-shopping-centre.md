@@ -5,11 +5,13 @@ title: 'E&C shopping centre - Delancey stumble '
 ---
 ## A week of mixed fortunes for developer
 
-Shopping centre owner and developer Delancey seemed to have finally secured approval of the redevelopment of the Elephant shoping centre, when last Monday Mayor Sadiq Khan [declined to intervene](https://www.docdroid.net/njfeOJz/3654.pdf#page=23) in the decision.  In doing so he followed Southwark Council in defying written objections from seven local ward & constituency level Labour parties[^ 1], two London Assembly members and over a thousand formal objections submitted by local people against [Delancey's disastrous redevelopment of the Elephant & Castle shopping centre](http://35percent.org/shopping-centre).
+Last Monday shopping centre owner and developer Delancey seemed to have finally secured approval of the redevelopment of the Elephant shoping centre, when Mayor Sadiq Khan [declined to intervene](https://www.docdroid.net/njfeOJz/3654.pdf#page=23) in the decision.  In doing so he followed Southwark Council in defying written objections from seven local ward & constituency level Labour parties[^ 1], two London Assembly members and over a thousand formal objections submitted by local people against [Delancey's disastrous redevelopment of the Elephant & Castle shopping centre](http://35percent.org/shopping-centre).
 
 Come Tuesday, though, Delancey failed to secure planning approval for a vital condition of the shopping centre scheme, when planning sub-committee B deferred a decision on Castle Square, the temporary relocation facility for displaced traders.  Delancey must get this approval, before it can go any further with the shopping centre redevelopment.
 
-To make matters worse for Delancey it now looks certain that Delancey 
+To make matters worse for Delancey it now looks certain that Delancey will miss the 18 December deadline for concluding the legal S106 agreement that sets the seal on the planning approval.  Missing this puts the power to refuse the application into the hands of teh Director of Planning.
+
+He has every reason to do this, judging by the events of Tues evening.  Delancey have dragged their feet setting up the Trader Panel, which meant that they have had little influence over the desiogn of Castle Square, prompting several practical objections, such as lack of window space to display goods.  decision back into Southwark Council's hands, witht the Direc
 
 ![](http://35percent.org/img/traderscompsk.jpeg)
 
