@@ -32,7 +32,7 @@ The decision was announced in a statement and detailed in [a report](https://www
 
 # Delancey, TfL and UAL win, local people lose?
 
-Delancey's grudging improvements to their [money spinning scheme](http://35percent.org/shopping-centre/) betrays their reluctance to do anything for local people.  The delay in bringing forward the Castle Square to the last minute has backfired and there is now a chance to refuse a scheme that is disastrous for traders and offers both much less social rented housing than we need and much less than we should be getting.
+Delancey's grudging improvements to their [money spinning scheme](http://35percent.org/shopping-centre/) betrays their reluctance to do anything for local people.  The delay in bringing forward Castle Square to the last minute has backfired and there is now a chance to refuse a scheme that is disastrous for traders and offers both much less social rented housing than we need and much less than we should be getting.
 
 This chance for a refusal should be taken. All the big beasts - the Mayor, TfL, [UAL](https://www.arts.ac.uk/colleges/london-college-of-communication/about-lcc/lcc-new-building), Southwark -  have been focussed on what they can get out of the development, in the shape of new tube stations and university campuses, all much needed no doubt, but all gained at the expense of local traders and real affordable housing.  They all supported the scheme with little reservation when it first came forward and it took the local community of  and to step forward, and by outright opposition wrest a few small, but important concessions, from Delancey. 
 
