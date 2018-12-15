@@ -1,7 +1,7 @@
 ---
 layout: post
 published: false
-title: 'E&C shopping centre - Delancey stumble '
+title: 'E&C shopping centre - after Mayor''s ok, Delancey stumble '
 ---
 ## A week of mixed fortunes for developer
 
@@ -9,9 +9,9 @@ Last Monday shopping centre owner and developer Delancey seemed to have finally 
 
 Come Tuesday, though, Delancey failed to secure planning approval for a vital condition of the shopping centre scheme, when planning sub-committee B deferred a decision on Castle Square, the temporary relocation facility for displaced traders.  Delancey must get this approval, before it can go any further with the shopping centre redevelopment.
 
-To make matters worse for Delancey it now looks certain that Delancey will miss the 18 December deadline for concluding the legal S106 agreement that sets the seal on the planning approval.  Missing this puts the power to refuse the application into the hands of teh Director of Planning.
+To make matters worse for Delancey it now looks certain that they will miss the 18 December deadline for concluding the legal S106 agreement that sets the seal on the planning approval. This missed deadline puts the power to refuse the application into the hands of the Director of Planning.
 
-He has every reason to do this, judging by the events of Tues evening.  Delancey have dragged their feet setting up the Trader Panel, which meant that they have had little influence over the desiogn of Castle Square, prompting several practical objections, such as lack of window space to display goods.  decision back into Southwark Council's hands, witht the Direc
+He has every reason to do this, judging by what was heard Tues evening.  Southwark's planning officer's acknowledged that Castle Square would not be suitable for all traders and Delancey have dragged their feet setting up the Trader Panel, which meant that trader's have had little influence over the design of Castle Square, prompting several practical objections, such as lack of window space to display goods.  The Traders Panel has also not been able to address fundamental issues, like leases that provide some certainty beyond the life time of Castle Square and the actual rents beibg paid decision back into Southwark Council's hands, witht the Direc
 
 ![](http://35percent.org/img/traderscompsk.jpeg)
 
