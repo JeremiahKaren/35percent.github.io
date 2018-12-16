@@ -11,6 +11,8 @@ Last Monday, shopping centre owner and developer, Delancey, seemed to have final
 
 Come Tuesday, though, and it was a different story when Delancey failed to secure another planning approval, for a vital condition of the shopping centre scheme.  [After a vibrant demonstration](https://twitter.com/uptheelephant_?lang=en&lang=en) outside Southwark's HQ in Tooley St, including impassioned speeches from the Latin American community, planning sub-committee B deferred a decision on Castle Square, the [temporary boxpark facility](http://35percent.org/boxpark) for displaced traders.  Delancey [is obliged to get this planning consent](http://moderngov.southwark.gov.uk/mgAi.aspx?ID=49413) before it can go any further with the shopping centre redevelopment.
 
+![](http://35percent.org/img/boxpar3.jpeg)
+
 To make matters worse for Delancey, it now looks certain that they will miss the [18 December deadline](http://moderngov.southwark.gov.uk/mgAi.aspx?ID=49413) for concluding the legal S106 agreement that sets the seal on the planning approval. This missed deadline [puts the power to refuse](http://moderngov.southwark.gov.uk/mgAi.aspx?ID=49413) the application into the hands of the Director of Planning.
 
 ![](http://35percent.org/img/scconditions.jpeg)
@@ -38,7 +40,7 @@ This chance for a refusal should be taken. All the big beasts - the Mayor, TfL, 
 
 Come the 19th December, Southwark's Director of Planning can redeem the council by finally putting this scheme to a merciful end.  It must not be allowed to destroy the long-standing, vibrant, mixed Elephant and Castle community, a home to working people from around the world for decades.  If he does not do so, the local community and all its supporters - traders, residents, local councillors, students, TRAs  and trade union branches - will be **rallying at Southwark HQ once more on January 7**, in support of the traders' demands for space at rents that allows all of them to continue their businesses and to earn a livelihood for themselves and their families.
 
-![](http://35percent.org/elephantdemo.jpeg)
+![](http://35percent.org/img/elephantdemo.jpeg)
 
 
 __Footnotes:__
