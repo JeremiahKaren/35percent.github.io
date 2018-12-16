@@ -40,8 +40,6 @@ This chance for a refusal should be taken. All the big beasts - the Mayor, TfL, 
 
 Come the 19th December, Southwark's Director of Planning can redeem the council by finally putting this scheme to a merciful end.  It must not be allowed to destroy the long-standing, vibrant, mixed Elephant and Castle community, a home to working people from around the world for decades.  If he does not do so, the local community and all its supporters - traders, residents, local councillors, students, TRAs  and trade union branches - will be **rallying at Southwark HQ once more on January 7**, in support of the traders' demands for space at rents that allows all of them to continue their businesses and to earn a livelihood for themselves and their families.
 
-![](http://35percent.org/img/elephantdemo.jpeg)
+![](http://35percent.org/img/elephantdemo.jpeg)  
 
-
-__Footnotes:__  
 [^1]: The following parties wrote to the Mayor objecting to the scheme's failure to meet minimum affordable housing requirements and provide sufficient relocation measures for traders: Bermondsey & Old Southwark Labour Party; Borough & Bankside Labour Party; North Walworth Labour Party; Faraday Ward Labour Party; St George's Labour Party; Chaucer Ward Labour Party; Camberwell & Peckham Labour Party.
