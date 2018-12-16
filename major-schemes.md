@@ -45,4 +45,4 @@ In a small number of the schemes, developers have provided a 'commuted sum' in l
 It is also fair to say that some of the schemes have provided 'affordable rent' instead of social rent, which is anything up to 80% of market rent (approx 500 in total). We have not included these because they are not affordable to the majority of Southwark residents, especially those on the housing waiting list. There also remains a question about whether the small number of social rented units secured at planning approval are actually being provided as such. Our [research](http://35percent.org/redefining-social-rent/) would suggest otherwise.
 
 __Footnotes:__
-[^ 1]: Confirmed in paragraph 73 of [this Oct 2018 Cabinet report](http://moderngov.southwark.gov.uk/documents/s78248/Report%20New%20Homes%20Programme%20Delivery%20Model%20Review%202018.pdf).
+[^1]: Confirmed in paragraph 73 of [this Oct 2018 Cabinet report](http://moderngov.southwark.gov.uk/documents/s78248/Report%20New%20Homes%20Programme%20Delivery%20Model%20Review%202018.pdf).
