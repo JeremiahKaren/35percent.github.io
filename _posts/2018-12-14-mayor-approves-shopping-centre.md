@@ -25,14 +25,14 @@ Delancey have also been dragging their feet setting up the Trader Panel, which h
 
 The sub-committee is due to reconvene for a decision on Castle Square on **7 January 2018**, other details to be announced.
 
-# Mayor gives dire scheme his approval
+## Mayor gives dire scheme his approval
 
 Hopes that the Mayor would have had the courage to reject the main shopping centre scheme were sorely disappointed by his refusal to intervene.  It transpires that the [decision was passed on](http://www.london-se1.co.uk/news/view/9772) to deputy mayor for planning, Jules Pipe, when the Mayor cited a conflict of interest, being chair of TfL, who are party to the scheme's s106 agreement, including a deal for Delancey to provide a new Northern line tube entrance.  The decision still remains the Mayor's, though, in a formal and legal sense.
 
 The decision was announced in [a report](https://www.docdroid.net/njfeOJz/3654.pdf#page=22) and [press statement](https://twitter.com/lukewbarratt/status/1072201103356411904) which claimed further improvements negotiated by the Mayor, including an extension to the length of time traders would benefit from below-market rents to 15 years.  This is better than the current 5 years, but its benefit depends on what the market rent is taken to be, and the Castle Square meeting shows there is no agreement on this.  The statement also says that there will be _'35 per cent...social rent... or other genuinely affordable levels'_.  The report shows this to be [116 social rented units](https://www.docdroid.net/S6CBtQA/stage2-excerpt.pdf), which is neither more than there was when the decision was referred to the Mayor, nor enough to meet Southwark's [planning policy](https://www.southwark.gov.uk/planning-and-building-control/planning-policy-and-transport-policy/supplementary-planning-documents-spd/spd-by-area?chapter=6), which would require around 170 social rented homes.  The top end cap for discounted market rent, aka affordable rent, has been reduced from £90k to £60k, but this makes for a 'genuinely affordable' rent only in the Mayor's imagination.
 
 
-# Delancey, TfL and UAL win, local people lose?
+## Delancey, TfL and UAL win, local people lose?
 
 Delancey's grudging improvements to their [money spinning scheme](http://35percent.org/shopping-centre/) betrays their reluctance to do anything for local people.  The delay in bringing forward Castle Square to the last minute has backfired and there is now a chance to refuse the shopping centre scheme, a scheme that is disastrous for traders, the [Latin American community in London](https://www.independent.co.uk/voices/sadiq-khan-housing-elephant-and-castle-development-delancey-social-affordable-a8684776.html), as well as offering both much less social rented housing than we need and less than we should be getting.
 
