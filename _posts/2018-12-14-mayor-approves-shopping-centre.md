@@ -42,4 +42,5 @@ Come the 19th December, Southwark's Director of Planning can redeem the council 
 
 ![](http://35percent.org/img/elephantdemo.jpeg)  
 
+__Footnote:__  
 [^1]: The following parties wrote to the Mayor objecting to the scheme's failure to meet minimum affordable housing requirements and provide sufficient relocation measures for traders: Bermondsey & Old Southwark Labour Party; Borough & Bankside Labour Party; North Walworth Labour Party; Faraday Ward Labour Party; St George's Labour Party; Chaucer Ward Labour Party; Camberwell & Peckham Labour Party.
