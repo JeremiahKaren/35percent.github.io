@@ -5,7 +5,7 @@ title: 'E&C shopping centre - Delancey stumbles after Mayor''s approval '
 date: '2018-12-16'
 subtitle: A week of mixed fortunes for developer
 ---
-Last Monday, shopping centre owner and developer, Delancey, seemed to have finally secured full approval for the redevelopment of the Elephant shopping centre, when Mayor Sadiq Khan [declined to intervene](https://www.docdroid.net/njfeOJz/3654.pdf#page=23) in the decision-making.  In doing so he allowed  Southwark Council's [decision to approve](http://35percent.org/shopping-centre/) the application to stand and joined them in defying written objections from seven local ward & constituency level Labour parties [^1], two London Assembly members and over a thousand formal objections submitted by local people, against [Delancey's disastrous redevelopment of the Elephant & Castle shopping centre](http://35percent.org/shopping-centre).
+Last Monday, shopping centre owner and developer, Delancey, seemed to have finally secured full approval for the redevelopment of the Elephant shopping centre, when Mayor Sadiq Khan [declined to intervene](https://www.docdroid.net/njfeOJz/3654.pdf#page=23) in the decision-making.  In doing so he allowed  Southwark Council's [decision to approve](http://35percent.org/shopping-centre/) the application to stand and joined them in defying written objections from nine local ward & constituency level Labour parties [^1], two London Assembly members and over a thousand formal objections submitted by local people, against [Delancey's disastrous redevelopment of the Elephant & Castle shopping centre](http://35percent.org/shopping-centre).
 
 ![](http://35percent.org/img/traderscompsk.jpeg)
 
@@ -41,4 +41,4 @@ Come the 19th December, Southwark's Director of Planning can redeem the council 
 ![](http://35percent.org/img/elephantdemo.jpeg)  
 
 __Footnote:__  
-[^1]: The following parties wrote to the Mayor objecting to the scheme's failure to meet minimum affordable housing requirements and provide sufficient relocation measures for traders: Bermondsey & Old Southwark Labour Party; Borough & Bankside Labour Party; North Walworth Labour Party; Faraday Ward Labour Party; St George's Labour Party; Chaucer Ward Labour Party; Camberwell & Peckham Labour Party.
+[^1]: The following parties wrote to the Mayor objecting to the scheme's failure to meet minimum affordable housing requirements and provide sufficient relocation measures for traders: Bermondsey & Old Southwark Labour Party; Borough & Bankside Labour Party; North Walworth Labour Party; Faraday Ward Labour Party; St George's Labour Party; Chaucer Ward Labour Party; Camberwell & Peckham Labour Party, Dulwich and West Norwood Constituency Labour Party and Herne Hill Branch Labour Party 
