@@ -15,7 +15,7 @@ Southwark have ignored both Delancey's failures, to conclude the S106 and secure
 
 Southwark further reassures Delancey that there will be an _‘officer recommendation for approval’_ of the application, which raises a question of how much weight any new data on rent will actually be given.
 
-Southwark's letter does not entertain the notion that the Castle Square application can be rejected, but rather says that  _'as and when planning permission is granted'_ , the shopping centre S106 agreement will be concluded.  In [a response](https://docdro.id/t6AVbTv) to [campaigners' objections](https://docdro.id/OAz3IlX) to its letter,  Southwark says that the phrase 'as and when' 'acknowledged the fact that permission might not be granted', an interpretation that is not easy to agree with, in the abscence of an 'if' in the phrase.
+Southwark's letter does not entertain the notion that the Castle Square application can be rejected, but rather says that  _'we will complete the section 106 agreement as and when planning permission is granted...'_  .  In [a response](https://docdro.id/t6AVbTv) to [campaigners' objections](https://docdro.id/OAz3IlX) to its letter,  Southwark says that the phrase _'"as and when"...acknowledged the fact that permission might not be granted'_ , an interpretation that is not easy to agree with, in the abscence of an _'if'_.
 
 # What Southwark should have said...
 
