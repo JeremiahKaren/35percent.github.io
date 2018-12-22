@@ -11,7 +11,7 @@ Missing the deadline put the power of refusing the redevelopment application bac
 
 Southwark have ignored both Delancey's failures, to conclude the S106 and secure Castle Square, and instead sent them a very comforting [letter](https://twitter.com/35percent_EAN/status/1074272767074291712), saying that it had no intention of refusing the shopping centre application, because _'all of the 'substantive requirements'_ of the S106 had been met.  Southwark generously tells Delancey that Castle Square  was _'now not in your control'_ , implying a failure on the part of the planning sub-committee, by not passing the application, rather than on Delancey's part for not submitting an application that the committee could pass with the confidence that it met the traders' needs. 
 
-Southwark further reassures Delancey that there will be an _‘officer recommendation for approval’_ of the application, which raises a question of how much weight any new data on rent will be given in the decision.
+Southwark further reassures Delancey that there will be an _‘officer recommendation for approval’_ of the application, which raises a question of how much weight any new data on rent will actually be given in the decision.
 
 In a revealing phrase Southwark's letter says that the shopping centre S106 agreement will be concluded _'as and when planning permission is granted for Castle Square'_ , the notion that it might be rejected not being entertained.  In [A response on this point](https://docdro.id/t6AVbTv) from Southwark to [campaigner's objection](https://docdro.id/OAz3IlX), says that the phrase 'acknowledged the fact that permission might not be granted', an interpretation that is not easy to agree with.
 
