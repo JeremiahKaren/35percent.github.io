@@ -11,7 +11,7 @@ Missing the deadline put the power of refusing the redevelopment application bac
 
 This ignores the requirement to secure planning approval for the temporary relocation facility for traders at Castle Square, deferred by the [planning sub-committee](http://35percent.org/2018-12-16-mayor-approves-shopping-centre/) on 12 December, until 7 January.  Southwark generously tells Delancey that this was _'now not in your control'_, which implies a failure on the part of the planning sub-committee, rather than Delancey's failure to submit an application that the committee could be confident met traders' needs. 
 
-The Castle Square application was deferred to allow officers time to ['corroborate rent levels](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!12dhIwvd2JFDUQgBXBnMXA%3d%3d!%7d%7d%7d) paid by some of the existing shopping centre traders' and check whether they would be paying more or less, if they moved to Castle Sq.  Nonetheless, Southwark reassures Delancey that there will be an ‘officer recommendation for approval’ of application, which raises a question of how much weight any new data will be given in deciding the application.
+The Castle Square application was deferred to allow officers time to ['corroborate rent levels](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!12dhIwvd2JFDUQgBXBnMXA%3d%3d!%7d%7d%7d) paid by some of the existing shopping centre traders' and check whether they would be paying more or less, if they moved to Castle Sq.  Nonetheless, Southwark reassures Delancey that there will be an ‘officer recommendation for approval’ of application, which raises a question of how much weight any new data will be given in the decision.
 
 In a revealing phrase 
 
