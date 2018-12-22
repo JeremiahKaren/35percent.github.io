@@ -23,6 +23,8 @@ When Delancey failed to meet the S106 deadline for the shopping centre, Southwar
 
 Instead Southwark has done the traders a great disservice, by the comforting message that it has sent Delancey. The [improvements to the shopping centre scheme](https://docdro.id/I8Egaq5), such as the increase in the social rented housing and the trader relocation strategy, were only won during a deferral of that application, but the incentive for Delancey to repeat this has now been undermined.  It is also arguable that the intention of both the main planning committee and sub-committee B of securing adequate mitigation for the traders has also been undermined.
 
+# Planning sub-committee B must step up
+
 The [reality of the loss of the shopping centre](https://london.eater.com/2018/12/13/18139283/elephant-and-castle-shopping-centre-demolition-sadiq-khan) has long been apparent, but is now beginning to [strike home](https://novaramedia.com/2018/12/19/latin-venues-forced-out-to-make-way-for-elephant-and-castle-redevelopment/). The traders' future livelihoods depend on a robust relocation strategy, including a satisfactory Castle Square facility, and Delancey are not providing this.  Planning sub-committee B will need to assert itself on Jan 7 and reject the Castle Square application.
 
 You can a help them reach the right decision by objecting to the application here and by joining us on January 7.
