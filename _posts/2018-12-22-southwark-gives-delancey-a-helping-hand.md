@@ -27,4 +27,4 @@ Instead Southwark has done the traders a great disservice, by the comforting mes
 
 The [reality of the loss of the shopping centre](https://london.eater.com/2018/12/13/18139283/elephant-and-castle-shopping-centre-demolition-sadiq-khan) has long been apparent, but is now beginning to [strike home](https://novaramedia.com/2018/12/19/latin-venues-forced-out-to-make-way-for-elephant-and-castle-redevelopment/). The traders' future livelihoods depend on a robust relocation strategy, including a satisfactory Castle Square facility, and Delancey are not providing this.  Planning sub-committee B will need to assert itself on Jan 7 and reject the Castle Square application.
 
-You can a help them reach the right decision by objecting to the application here and by joining us on January 7.
+You can a help them reach the right decision by objecting to the application here and by joining us on January 7 in support of the traders’ demands for space at rents that allows all of them to continue their businesses and to earn a living for themselves and their families.
