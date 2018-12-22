@@ -2,14 +2,16 @@
 layout: post
 published: false
 title: Southwark gives Delancey a helping hand
+subtitle: Council passes up chance of refusing Elephant Shopping Centre application
+date: '2018-12-22'
 ---
-# Council passes up chance of refusing Elephant Shopping Centre application
+# Delancey gets a very nice letter
 
 As we anticipated in our [last blogpost](http://35percent.org/2018-12-16-mayor-approves-shopping-centre/) Delancey missed the deadline for completing the legal S106 agreement that seals [the planning approval](http://35percent.org/2018-07-09-delancey/) for the shopping centre's demolition and redevelopment.
 
-Missing the deadline put the power of refusing the redevelopment application back into the Southwark Council's hands, a decision it had every reason to take, given, amongst other things, Delancey's [failure to secure planning approval of Castle Square](http://35percent.org/2018-12-16-mayor-approves-shopping-centre/), the temporary relocation facility for traders.  Planning sub-committee B [deferred a decision on the  application](http://35percent.org/2018-12-16-mayor-approves-shopping-centre/) to 7 January, to allow officers time to ['corroborate rent levels](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!12dhIwvd2JFDUQgBXBnMXA%3d%3d!%7d%7d%7d) paid by traders' and to check whether they would be paying more or less rent, if they moved to Castle Sq.
+Missing the deadline put the power of refusing the redevelopment application back into the Southwark Council's hands, a decision it had every reason to take, given, amongst other things, Delancey's [failure to secure planning approval of Castle Square](http://35percent.org/2018-12-16-mayor-approves-shopping-centre/), the temporary relocation facility for traders.  Planning sub-committee B [deferred a decision on the  application](http://35percent.org/2018-12-16-mayor-approves-shopping-centre/) to 7 January, to allow officers time to ['corroborate rent level paid by traders'](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!12dhIwvd2JFDUQgBXBnMXA%3d%3d!%7d%7d%7d) and to check whether they would be paying more or less rent, if they moved to Castle Sq.
 
-Southwark have ignored both Delancey's failures, to conclude the S106 and secure Castle Square, and instead sent them a very comforting [letter](https://twitter.com/35percent_EAN/status/1074272767074291712), saying that it had no intention of refusing the shopping centre application, because _'all of the 'substantive requirements'_ of the S106 had been met.  Southwark generously tells Delancey that Castle Square  was _'now not in your control'_ , implying a failure on the part of the planning sub-committee, by not passing the application, rather than on Delancey's part for not submitting an application that the committee could pass with the confidence that it met the traders' needs. 
+Southwark have ignored both Delancey's failures, to conclude the S106 and secure Castle Square, and instead sent them a comforting [letter](https://twitter.com/35percent_EAN/status/1074272767074291712), saying that it had no intention of refusing the shopping centre application, because _'all of the 'substantive requirements'_ of the S106 had been met.  Southwark generously tells Delancey that Castle Square  was _'now not in your control'_ , implying a failure on the part of the planning sub-committee, by not passing the application, rather than on Delancey's part, for not submitting an application that the committee could pass with the confidence that it met the traders' needs. 
 
 Southwark further reassures Delancey that there will be an _‘officer recommendation for approval’_ of the application, which raises a question of how much weight any new data on rent will actually be given.
 
