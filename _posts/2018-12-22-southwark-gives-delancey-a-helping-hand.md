@@ -15,7 +15,7 @@ Southwark have ignored both Delancey's failures, to conclude the S106 and secure
 
 Southwark further reassures Delancey that there will be an _‘officer recommendation for approval’_ of the application, which raises a question of how much weight any new data on rent will actually be given.
 
-Southwark's letter does not entertain the notion that the Castle Square application can be rejected, but rather says that  _'we will complete the section 106 agreement as and when planning permission is granted...'_  .  In [a response](https://docdro.id/t6AVbTv) to [campaigners' objections](https://docdro.id/OAz3IlX) to its letter,  Southwark says that the phrase _'"as and when"...acknowledged the fact that permission might not be granted'_ , an interpretation that is not easy to agree with, in the abscence of an _'if'_.
+Southwark's letter does not entertain the notion that the Castle Square application can be rejected, but rather says that  _'we will complete the section 106 agreement as and when planning permission is granted...'_  .  In [a response](https://docdro.id/t6AVbTv) to [campaigners' objections](https://docdro.id/OAz3IlX) to its letter,  Southwark says that the phrase _'"as and when"...acknowledged the fact that permission might not be granted'_ , an interpretation that is not easy to agree with, in the absence of an _'if'_.
 
 # What Southwark should have said...
 
@@ -28,6 +28,3 @@ Instead Southwark has done the traders a great disservice, by the comforting mes
 The [reality of the loss of the shopping centre](https://london.eater.com/2018/12/13/18139283/elephant-and-castle-shopping-centre-demolition-sadiq-khan) has long been apparent, but is now beginning to [strike home](https://novaramedia.com/2018/12/19/latin-venues-forced-out-to-make-way-for-elephant-and-castle-redevelopment/). The traders' future livelihoods depend on a robust relocation strategy, including a satisfactory Castle Square facility, and Delancey are not providing this.  Planning sub-committee B will need to assert itself on Jan 7 and reject the Castle Square application.
 
 You can a help them reach the right decision by objecting to the application here and by joining us on January 7.
-
- 
-
