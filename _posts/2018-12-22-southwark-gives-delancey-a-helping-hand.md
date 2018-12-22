@@ -31,4 +31,3 @@ You can a help them reach the right decision by objecting to the application her
 
  
 
-Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
