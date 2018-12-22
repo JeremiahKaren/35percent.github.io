@@ -15,17 +15,16 @@ The Castle Square application was deferred to allow officers time to ['corrobora
 
 In a revealing phrase Southwark's letter says that the shopping centre S106 agreement will be concluded _'as and when planning permission is granted for Castle Square'_ , the notion that it might be rejected not being entertained.  In [A response on this point](https://docdro.id/t6AVbTv) from Southwark to [campaigner's objection](https://docdro.id/OAz3IlX), says that the phrase 'acknowledged the fact that permission might not be granted', an interpretation that is not easy to agree with.
 
-In writing Delancey such a comforting letter Southwark has done the traders a great dis-service. The [improvements to the shopping centre scheme](https://docdro.id/I8Egaq5), such as the increase in the social rented housing and the trader relocation strategy, were only won during a similiar deferral of that application, but the incentive for Delancey to repeat this has now been undermined.  It is also arguable that the intention of both the main planning committee and sub-committee B of securing adequate mitigation for the traders has also been undermined.
+## What Southwark should have said...
 
-When Delancey failed to meet the S106 deadline, Southwark could have written a different kind of letter; even if it stopped short of refusing the shopping centre application, it could have reminded Delancey that they needed to secure the Castle Square approval and to do so must address the [objections of the traders](https://www.docdroid.net/cJY7s28/latin-obj.pdf).
+When Delancey failed to meet the S106 deadline for the shopping centre, Southwark should have refused the centre planning application. Short of this, it could still  have reminded Delancey that they needed to secure the Castle Square approval and to do so must address the [objections of the traders](https://www.docdroid.net/cJY7s28/latin-obj.pdf).
 
-The [reality of the loss of the shopping centre](https://london.eater.com/2018/12/13/18139283/elephant-and-castle-shopping-centre-demolition-sadiq-khan) has long been apparent, but is now beginning to [strike home](https://novaramedia.com/2018/12/19/latin-venues-forced-out-to-make-way-for-elephant-and-castle-redevelopment/). The traders' future livelihoods depend on a robust relocation strategy, including a satisfactory Castle Square facility and lcoal commBoth the planning committee and sub-committee have made their concerns on this point clear, hence condition 6 on the resolution to approve the shopping centre application and the deferral of the Castle Square application.  
+Instead Southwark has done the traders a great dis-service, by the comforting message that it has sent Delancey. The [improvements to the shopping centre scheme](https://docdro.id/I8Egaq5), such as the increase in the social rented housing and the trader relocation strategy, were only won during a deferral of that application, but the incentive for Delancey to repeat this has now been undermined.  It is also arguable that the intention of both the main planning committee and sub-committee B of securing adequate mitigation for the traders has also been undermined.
 
+The [reality of the loss of the shopping centre](https://london.eater.com/2018/12/13/18139283/elephant-and-castle-shopping-centre-demolition-sadiq-khan) has long been apparent, but is now beginning to [strike home](https://novaramedia.com/2018/12/19/latin-venues-forced-out-to-make-way-for-elephant-and-castle-redevelopment/). The traders' future livelihoods depend on a robust relocation strategy, including a satisfactory Castle Square facility, and Delancey are not providing this.  Planning sub-committee B will need to assert itself on Jan 7 and reject the Castle Square application.
 
+You can a help by objecting to the application here
 
-
-
-
-The letter also itimated tha the all-important 
+Join us on Jan 7 
 
 Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
