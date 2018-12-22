@@ -7,7 +7,7 @@ title: Southwark gives Delancey a helping hand
 
 As we anticipated in our [last blogpost](http://35percent.org/2018-12-16-mayor-approves-shopping-centre/) Delancey missed the deadline for completing the legal S106 agreement that seals [the planning approval](http://35percent.org/2018-07-09-delancey/) for the shopping centre redevelopment.
 
-Missing the deadline put the power of refusing the redevelopment application back into the Southwark Council's hands, but instead of a refusal, Southwark sent Delancey a [letter](https://twitter.com/35percent_EAN/status/1074272767074291712) saying that it had no intention of doing such a thing and that _'all of the 'substantive requirements'__ of the S106 had been met.  
+Missing the deadline put the power of refusing the redevelopment application back into the Southwark Council's hands, but instead of a refusal, Southwark sent Delancey a comforting [letter](https://twitter.com/35percent_EAN/status/1074272767074291712) saying that it had no intention of making a refusal, because _'all of the 'substantive requirements'__ of the S106 had been met.  
 
 This ignores the requirement to secure planning approval for the temporary relocation facility for traders at Castle Square, deferred by the [planning sub-committee](http://35percent.org/2018-12-16-mayor-approves-shopping-centre/) on 12 December, until 7 January.  Southwark generously tells Delancey that this was _'now not in your control'_ , which implies a failure on the part of the planning sub-committee, rather than on Delancey's part for not submitting an application that the committee could pass and be confident met traders' needs. 
 
