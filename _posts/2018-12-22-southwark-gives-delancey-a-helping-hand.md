@@ -11,9 +11,11 @@ Missing the deadline put the power of refusing the redevelopment application bac
 
 This ignores the requirement to secure planning approval for the temporary relocation facility for traders at Castle Square, deferred by the [planning sub-committee](http://35percent.org/2018-12-16-mayor-approves-shopping-centre/) on 12 December, until 7 January.  Southwark generously tells Delancey that this was _'now not in your control'_, which implies a failure on the part of the planning sub-committee, rather than Delancey's failure to submit an application that the committee could be confident met traders' needs. 
 
-The Castle Square application was deferred to allow officers time to ['corroborate rent levels](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!12dhIwvd2JFDUQgBXBnMXA%3d%3d!%7d%7d%7d) paid by some of the existing shopping centre traders' and check whether they would be paying more or less, if they moved to Castle Sq.  Nonetheless, Southwark reassures Delancey that there will be an ‘officer recommendation for approval’ of application, which raises a question of how much weight any new data will be given in the decision.
+The Castle Square application was deferred to allow officers time to ['corroborate rent levels](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!12dhIwvd2JFDUQgBXBnMXA%3d%3d!%7d%7d%7d) paid by some of the existing shopping centre traders' and check whether they would be paying more or less rent, if they moved to Castle Sq.  Nonetheless, Southwark reassures Delancey that there will be an _‘officer recommendation for approval’_ of the application, which raises a question of how much weight any new data will be given in the decision.
 
-In a revealing phrase 
+In a revealing phrase Southwark's letter says that the shopping centre S106 agreement will be concluded _'as and when planning permission is granted for Castle Square'_,the notion that it might be rejected not being entertained.  In [A response on this point](https://docdro.id/t6AVbTv) from Southwark to [campaigner's objection](https://docdro.id/OAz3IlX), says that the phrase 'acknowledged the fact that permission might not be granted', an interpretation that is not easy to agree with.
+
+
 
 
 Meantime members of planning sub-committee B may be wondering who the decision makers are in the Council, when Southwark's letter clearly intimates that the all-important Castle Sq application for a temporary relocation facility for traders would eventually be approved. They may or not be reassured that A further letter from Southwark says that the  Delancey cannot proceed with the shopping centre development 
