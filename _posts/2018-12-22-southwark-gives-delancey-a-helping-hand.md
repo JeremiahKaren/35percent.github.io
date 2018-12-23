@@ -2,11 +2,9 @@
 layout: post
 published: true
 title: Southwark gives Delancey a helping hand
-subtitle: Council passes up chance of refusing Elephant Shopping Centre application
+subtitle: Delancey gets comforting letter after missing legal agreement deadline
 date: '2018-12-23'
 ---
-# Delancey gets comforting letter after missing legal agreement deadline
-
 As we anticipated in our [last blogpost](http://35percent.org/2018-12-16-mayor-approves-shopping-centre/) Delancey missed the deadline for completing the legal S106 agreement that seals [the planning approval](http://35percent.org/2018-07-09-delancey/) for the shopping centre's demolition and redevelopment.
 
 Missing the deadline put the power of refusing the redevelopment application back into the Southwark Council's hands, a decision it had every reason to take, given, amongst other things, Delancey's [failure to secure planning approval of Castle Square](http://35percent.org/2018-12-16-mayor-approves-shopping-centre/), the temporary relocation facility for traders.  Planning sub-committee B [deferred a decision on the  application](http://35percent.org/2018-12-16-mayor-approves-shopping-centre/) to 7 January, to allow officers time to ['corroborate rent level paid by traders'](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!12dhIwvd2JFDUQgBXBnMXA%3d%3d!%7d%7d%7d) and to check whether they would be paying more or less rent, if they moved to Castle Sq.
