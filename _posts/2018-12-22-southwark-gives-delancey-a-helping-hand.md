@@ -38,4 +38,5 @@ https://m.facebook.com/events/2192172687721804?acontext=%7B%22ref%22%3A%223%22%2
 ) in support of the traders’ demands - for space at rents that allows all of them to continue their businesses and to earn a living for themselves and their families.
 
 
+
 ![](http://35percent.org/img/7jandemo.jpg)
