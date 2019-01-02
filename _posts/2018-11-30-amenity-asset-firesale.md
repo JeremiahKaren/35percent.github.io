@@ -21,7 +21,7 @@ What else has been sold off?
 Abbey Street Childrens Home, 70 Abbey Street SE1 3NJ
 Castle Day Centre, Hampton Street SE1 6SN
 Whitstable Day Nursery, Stevens Street SE1 3BX 
-Wansey St Homeless hostel, 30-38 Wansey Street SE17 1JP
+Wansey St Homeless hostel,  30-32, 36 and 38-40 Wansey Street SE17 1JP
 
 
 ![](http://crappistmartin.github.io/images/AbbeyStreet_ChildrensHome.png)
