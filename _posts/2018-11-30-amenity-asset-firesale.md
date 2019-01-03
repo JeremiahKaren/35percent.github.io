@@ -4,27 +4,18 @@ title: Amenity asset fire sale
 subtitle: Council sells off amenity assets
 published: false
 ---
-We [reported previously] on Southwark's ongoing sale and demolition of its council homes. This week we take a look at other assets that its (Labour) administration has sold off over the past 8 years. 
+MP1
+[13/AP/3581, 3582, 3583, 3584](http://moderngov.southwark.gov.uk/documents/s43900/Report%20Heygate%20estate.pdf) = 360 (17 SR)
 
-Besides flogging off its [Town Halls](http://35percent.org/southwark-town-halls/) and having a [policy](http://moderngov.southwark.gov.uk/documents/s19458/Report%20Review%20of%20Void%20Disposal%20Strategy.pdf) of [selling council homes at auction](http://35percent.org/img/sold_by_southwark.pdf) when they become vacant, Southwark has also been selling of its care homes and homeless hostels.
+MP2
+[14/AP/3438, 3439](http://moderngov.southwarksites.com/documents/s50289/Report.pdf) = 593 (26 SR)
 
+MP3 
+[17/AP/0693](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!i2RLygvpX9P53u8MAzawQw%3d%3d!%7d%7d%7d) (H4) = 445 (17 SR)
 
-Check this 2008 list of assets
-[list of assets](/img/item9assetslist.pdf)
+MP4
+[18/AP/1862, 1863](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!sXiQsUWbHm%2bPCMstICWiQw%3d%3d!%7d%7d%7d) 481 (8 SR)
 
-against this [assets list](/img/assetslist.xls) from 2017.
-
-How many homeless hostels have been sold off?
-
-What else has been sold off?
-
-Abbey Street Childrens Home, 70 Abbey Street SE1 3NJ
-Castle Day Centre, Hampton Street SE1 6SN
-Whitstable Day Nursery, Stevens Street SE1 3BX 
-Wansey St Homeless hostel,  30-32, 36 and 38-40 Wansey Street SE17 1JP
-
-
-![](http://crappistmartin.github.io/images/AbbeyStreet_ChildrensHome.png)
 
 
 
