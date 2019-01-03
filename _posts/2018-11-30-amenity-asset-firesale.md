@@ -3,6 +3,8 @@ layout: post
 title: Southwark still rolling over to Lendlease
 published: false
 ---
+Four of the five phases on the outline site have been granted permission to date:
+
 ## MP1
 [13/AP/3581, 3582, 3583, 3584](http://moderngov.southwark.gov.uk/documents/s43900/Report%20Heygate%20estate.pdf) = 360 (17 SR)
 
@@ -16,9 +18,9 @@ published: false
 ## MP4
 [18/AP/1862, 1863](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!sXiQsUWbHm%2bPCMstICWiQw%3d%3d!%7d%7d%7d) 481 (8 SR)
 
-__Total: 2263 of which 77 Social Rent__
+__Total: 2263 homes of which 77 Social Rent__
 
-Lendlease's schedule at outline stage shows that both MP3 and MP4 have provided nearly twice as many homes as envisaged:
+Lendlease's schedule at outline stage shows that both MP3 and MP4 have provided nearly twice as many homes as envisaged (ignore red circle):
 
 ![](http://crappistmartin.github.io/images/UpdatedAHStatement.png)
 
