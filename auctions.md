@@ -1,9 +1,10 @@
 ---
 layout: page
-title: "The price of regeneration"
-subtitle: Who pays for regeneration and who benefits? 
+title: The price of regeneration
+subtitle: Who pays for regeneration and who benefits?
 sharing: true
 footer: true
+published: true
 ---
 One of the undisputable upsides to regeneration is the number of 'new' community 
 facilities like the ['new' 
@@ -37,14 +38,13 @@ Likewise, the new Camberwell library is a replacement of the one that was closed
 The Council's budget for regeneration is one of its largest outgoings. This year it is [spending £23m](http://35percent.org/2016-09-26-council-appeals-aylesbury-cpo-decision/#the-business-case-for-a-moratorium) on the Aylesbury estate regeneration alone. Meanwhile, the Council is making drastic cuts to other services and frantically selling off premises used by them.
 
 
-For example, the Council has [cut](http://moderngov.southwark.gov.uk/documents/s59115/Policy%20and%20Resources%20Strategy%20201617%20to%20201819.pdf) a staggering £39m from the current year's budget for education and adult care services alone. Here is a map of some adult services buildings that have been, or are being sold off or closed down by the Council's current (Labour) administration:
-   
-<center>
-<iframe src="http://35percent.org/soldbysouthwark.html" width="800" height="600"></iframe> 
-<font size="2">Click <a href="http://35percent.org/soldbysouthwark.html">here</a> to view our map in a separate browser window</font> 
-</center>
+For example, the Council has [cut](http://moderngov.southwark.gov.uk/documents/s59115/Policy%20and%20Resources%20Strategy%20201617%20to%20201819.pdf) a staggering £39m from the current year's budget for education and adult care services alone. Here are some of the adult services buildings that have been, or are being sold off or closed down by the Council's current (Labour) administration:
 
 ![](/img/carehomesshutdown.jpg)
+   
+It is not just adult services that are being subject to 'modernisation'. Southwark has sold sold off both Bermondsey Town Hall and Peckham Town Hall; Harper Rd Social Services Centre; Castle Day Centre; Whitstable Day Nursery; Abbey St Children's Home; and Wansey St Homeless Hostel:
+
+![](http://35percent.org/img/selloff.png)
 
 Besides selling off its community and social services facilities, the Council has been busy [selling off its council estates](http://35percent.org/the-southwark-clearances/), its [Town Halls](http://35percent.org/southwark-town-halls/) and street properties. In 2009, Southwark Council introduced a policy of selling off every council home that becomes void and is valued above £400,000. In 2011 this was [reviewed by the incoming Labour administration which reduced](http://moderngov.southwark.gov.uk/documents/s19458/Report%20Review%20of%20Void%20Disposal%20Strategy.pdf) the threshold to £300,000. Here are some of the properties [sold at auction](http://35percent.org/img/sold_by_southwark.pdf) by the current (Labour) administration under this policy:
 
