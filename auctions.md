@@ -42,7 +42,7 @@ For example, the Council has [cut](http://moderngov.southwark.gov.uk/documents/s
 
 ![](/img/carehomesshutdown.jpg)
    
-It is not just adult services that are being subject to 'modernisation'. Southwark has sold sold off both Bermondsey Town Hall and Peckham Town Hall; Harper Rd Social Services Centre; Castle Day Centre; Whitstable Day Nursery; Abbey St Children's Home; and Wansey St Homeless Hostel:
+It is not just adult services that are being subject to 'modernisation'. Southwark has [sold off both Bermondsey and Peckham Town Halls](http://35percent.org/southwark-town-halls/); Harper Rd Social Services Centre; Castle Day Centre; Whitstable Day Nursery; Abbey St Children's Home; and Wansey St Homeless Hostel:
 
 ![](http://35percent.org/img/selloff.png)
 
