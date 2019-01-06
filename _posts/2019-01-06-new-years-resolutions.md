@@ -19,11 +19,15 @@ It is not just council homes that are being sold off. Southwark's 'modernisation
 
 ![](http://35percent.org/img/selloff2.png)
 
-Southwark has also been selling off land that it owns to developers, like [this plot of land near Milwall stadium](http://moderngov.southwark.gov.uk/ieDecisionDetails.aspx?Id=5885) and [its former car pound](http://moderngov.southwark.gov.uk/ieDecisionDetails.aspx?Id=6563) off the Old Kent Road, likewise [this plot of land](http://moderngov.southwark.gov.uk/ieIssueDetails.aspx?IId=50017404&PlanId=0&Opt=3#AI50577) at Devonshire Grove and [this plot of land](http://moderngov.southwark.gov.uk/ieDecisionDetails.aspx?Id=3755) that was part of the Beacon House estate and [this one at Woods Road in Peckham](http://moderngov.southwark.gov.uk/ieDecisionDetails.aspx?AIId=29450).
+Southwark has also been selling off land that it owns to developers, like [this plot of land near Milwall stadium](http://moderngov.southwark.gov.uk/ieDecisionDetails.aspx?Id=5885) and [its former car pound](http://moderngov.southwark.gov.uk/ieDecisionDetails.aspx?Id=6563) off the Old Kent Road, likewise [this plot of land](http://moderngov.southwark.gov.uk/ieIssueDetails.aspx?IId=50017404&PlanId=0&Opt=3#AI50577) at Devonshire Grove and [this plot of land](http://moderngov.southwark.gov.uk/ieDecisionDetails.aspx?Id=3755) on the Beacon House estate and [this one at Woods Road in Peckham](http://moderngov.southwark.gov.uk/ieDecisionDetails.aspx?AIId=29450).
 
-![](http://35percent.org/img/soldland.png){:target="_blank"}
+<a href="http://35percent.org/img/soldland.png"><img src="http://35percent.org/img/soldland.png"></a>
 
-Meanwhile there is more council land and buildings being redeveloped under the Council's SRPP partnership deal. Of the 33 new homes planned on this site, x will be private sale and x will be 'intermediate' tenure, not one will be social rent. Braganza St etc.
+Meanwhile the council is developing further sites it owns under its [SRPP partnership programme](https://www.southwark.gov.uk/regeneration/southwark-regeneration-in-partnership-programme) in conjunction with developers. The site of the [council's former enterprise workshops in Kennington](https://www.southwark.gov.uk/regeneration/southwark-regeneration-in-partnership-programme?chapter=7) is one of the 20 sites currently planned. The SRPP is supposedly going to provide 33% council homes in its schemes but despite this and despite the [consultation process for this site promising 55% council homes](https://consultations.southwark.gov.uk/planning-and-regeneration/2nd-round-consultation-braganza-street-workshops/supporting_documents/Braganza%20Online.pdf), planning permission was granted last year for 33 new homes, 28 of which private, 5 intermediate and none social rent.
+
+![](http://35percent.org/img/braganzascheme2.png)
+
+Land is a precious resource in Southwark as is council housing. If Southwark genuinely wants to deliver on its [failing manifesto promise](http://35percent.org/2018-11-12-11000-council-homes-manifesto-pledge/) to build 11,000 new council homes, then all of its surplus land should be ringfenced for building new council homes not for being sold off to developers.
 
 ## 3. 
 
@@ -36,7 +40,12 @@ LL [tried to sue Harringey](https://www.insidehousing.co.uk/news/lendlease-sues-
 ## Conduct audit, monitor and enforce S106 agreements
 
 ## Aylesbury break clause
+We have [shown previously](http://35percent.org/the-southwark-clearances/) how Southwark's estate regeneration programmes have devastated its social housing stock. The redevelopment of the Aylesbury estate will result in the net loss of between 778 and 1,166 social rented homes - that's presupposing that Notting Hill Genesis lets the new homes as social rent not affordable rent [as it has done in other schemes](https://www.southwarknews.co.uk/news/council-takes-no-legal-action-over-44-missing-social-housing-units/). Notting Hill Genesis has got track records in this regard, as documented [here]( http://35percent.org/2017-01-16-draft-more-on-notting-hill/#former-notting-hill-exec-spills-beans-on-ceo), [here](https://www.theguardian.com/housing-network/2015/aug/14/social-housing-britain-future-profit-purpose-genesis), [here](https://www.theguardian.com/society/2018/jun/13/fury-affordable-homes-redeveloped-sold-housing-associations), [here](https://www.theguardian.com/society/2018/jun/13/fury-affordable-homes-redeveloped-sold-housing-associations) and [here](https://www.theguardian.com/society/2018/mar/24/london-social-housing-sell-off-protest-luxury-hotel).
+
+![](http://35percent.org/img/aylesburynetloss.png)
+*Extract from the Council's Aylsebury estate redevelopment planning committee report(ref:14/AP/3843)*
+
+It has also been [revealed](https://www.theguardian.com/cities/2018/sep/12/london-council-aylesbury-estate-development-southwark-financial-risk) that Southwark could end up making a substantial loss on the sale of the 60 acre estate, while Notting Hill Genesis enjoys a ring-fenced profit.  
 
 ## Stop wasting money trying to gentrify Southwark
-Mountview Academy given plot of land behind Peckham library and a 24m interest free loan plus 2m grant to build new (private) drama school. Fees are xx per year for an undergrad and xx per year for postgraduate study at the school. Besides a few low-cost oversubscribed Saturday morning drama classes this is not a    
-
+Mountview Academy given plot of land behind Peckham library and a 24m interest free loan plus 2m grant to build new (private) drama school. Fees are xx per year for an undergrad and xx per year for postgraduate study at the school. Besides a few low-cost oversubscribed Saturday morning drama classes this is not a
