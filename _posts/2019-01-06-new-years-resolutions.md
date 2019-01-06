@@ -66,3 +66,5 @@ It has also been [revealed](https://www.theguardian.com/cities/2018/sep/12/londo
 Mountview Academy given plot of land behind Peckham library and a 24m interest free loan plus 2m grant to build new (private) drama school. Fees are xx per year for an undergrad and xx per year for postgraduate study at the school. Besides a few low-cost oversubscribed Saturday morning drama classes this is not a...
 
 At the same time as finding 26m for Mountview Southwark claims that it hasn't got any money to refurbish Walworth Town Hall.
+
+Mountview not even [Living Wage employer](https://www.livingwage.org.uk/accredited-living-wage-employers)
