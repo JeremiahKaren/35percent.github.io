@@ -17,7 +17,7 @@ In 2009, Southwark's Tory/Lib Dem administration introduced a policy of selling 
 ## 2. Stop selling off public land and buildings
 It is not just council homes that are being sold off. Southwark's 'modernisation' drive has seen it [sell off both Bermondsey and Peckham Town Halls](http://35percent.org/southwark-town-halls/); Harper Rd Social Services Centre; Castle Day Centre; Whitstable Day Nursery; Abbey St Children's Home; and Wansey St Homeless Hostel:
 
-![](http://35percent.org/img/selloff.png)
+![](http://35percent.org/img/selloff2.png)
 
 Southwark has also been selling off land that it owns like this plot of empty warehouses off Braganza St and this strip.
 
