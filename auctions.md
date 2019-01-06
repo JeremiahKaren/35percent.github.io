@@ -42,9 +42,9 @@ For example, the Council has [cut](http://moderngov.southwark.gov.uk/documents/s
 
 ![](/img/carehomesshutdown.jpg)
    
-It is not just adult services that are being subject to 'modernisation'. Southwark has [sold off both Bermondsey and Peckham Town Halls](http://35percent.org/southwark-town-halls/); Harper Rd Social Services Centre; Castle Day Centre; Whitstable Day Nursery; Abbey St Children's Home; and Wansey St Homeless Hostel:
+It is not just adult services that are being subject to 'modernisation'. Southwark has [sold off both Bermondsey and Peckham Town Halls](http://35percent.org/southwark-town-halls/); Harper Rd Social Services Centre; Castle Day Centre; Whitstable Day Nursery; Abbey St Children's Home; Willowbrook Community Centre and the Wansey St Homeless Hostel:
 
-![](http://35percent.org/img/selloff.png)
+![](http://35percent.org/img/selloff2.png)
 
 Besides selling off its community and social services facilities, the Council has been busy [selling off its council estates](http://35percent.org/the-southwark-clearances/), its [Town Halls](http://35percent.org/southwark-town-halls/) and street properties. In 2009, Southwark Council introduced a policy of selling off every council home that becomes void and is valued above £400,000. In 2011 this was [reviewed by the incoming Labour administration which reduced](http://moderngov.southwark.gov.uk/documents/s19458/Report%20Review%20of%20Void%20Disposal%20Strategy.pdf) the threshold to £300,000. Here are some of the properties [sold at auction](http://35percent.org/img/sold_by_southwark.pdf) by the current (Labour) administration under this policy:
 
