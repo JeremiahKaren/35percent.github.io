@@ -19,11 +19,11 @@ It is not just council homes that are being sold off. Southwark's 'modernisation
 
 ![](http://35percent.org/img/selloff2.png)
 
-Southwark has also been selling off land that it owns like this plot of empty warehouses off Braganza St and this strip.
+Southwark has also been selling off land that it owns to developers, like [this plot of land near Milwall stadium](http://moderngov.southwark.gov.uk/ieDecisionDetails.aspx?Id=5885) and [its former car pound](http://moderngov.southwark.gov.uk/ieDecisionDetails.aspx?Id=6563) off the Old Kent Road, likewise [this plot of land](http://moderngov.southwark.gov.uk/ieIssueDetails.aspx?IId=50017404&PlanId=0&Opt=3#AI50577) at Devonshire Grove and [this plot of land](http://moderngov.southwark.gov.uk/ieDecisionDetails.aspx?Id=3755) that was part of the Beacon House estate and [this one at Woods Road in Peckham](http://moderngov.southwark.gov.uk/ieDecisionDetails.aspx?AIId=29450).
 
-![](http://35percent.org/img/braganzailderton.png)
+![](http://35percent.org/img/soldland.png)
 
-The land at Ilderton Road was [sold outright](http://moderngov.southwark.gov.uk/ieDecisionDetails.aspx?Id=5885) to a developer, as was [this former car pound](http://moderngov.southwark.gov.uk/ieDecisionDetails.aspx?Id=6563) off the Old Kent Road, [this plot of land](http://moderngov.southwark.gov.uk/ieIssueDetails.aspx?IId=50017404&PlanId=0&Opt=3#AI50577) at Devonshire Grove, [this plot of land](http://moderngov.southwark.gov.uk/ieDecisionDetails.aspx?Id=3755) that was part of the Beacon House estate.  part of the  while the plot at Braganza Street is being developed in partnership with a developer as part of Southwark's SRPP partnership deal. Of the 33 new homes planned on this site, x will be private sale and x will be 'intermediate' tenure, not one will be social rent.
+Meanwhile there is more council land and buildings being redeveloped under the Council's SRPP partnership deal. Of the 33 new homes planned on this site, x will be private sale and x will be 'intermediate' tenure, not one will be social rent. Braganza St etc.
 
 ## 3. 
 
@@ -36,3 +36,7 @@ LL [tried to sue Harringey](https://www.insidehousing.co.uk/news/lendlease-sues-
 ## Conduct audit, monitor and enforce S106 agreements
 
 ## Aylesbury break clause
+
+## Stop wasting money trying to gentrify Southwark
+Mountview Academy given plot of land behind Peckham library and a 24m interest free loan plus 2m grant to build new (private) drama school. Fees are xx per year for an undergrad and xx per year for postgraduate study at the school. Besides a few low-cost oversubscribed Saturday morning drama classes this is not a    
+
