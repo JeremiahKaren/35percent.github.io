@@ -47,14 +47,14 @@ The Council initially [promised](https://www.southwarknews.co.uk/news/gov-report
 ![](http://35percent.org/img/snauditpromise2.png)
 
 ## 4. Enforce the tenure requirements of the Heygate regeneration agreement
-After Lendlease [tried to sue Harringey Council](https://www.insidehousing.co.uk/news/lendlease-sues-haringey-council-over-4bn-vehicle-59072) over its regeneration agreement for the redevelopment of a number of Council estates, we figured it's reasonable to ask Southwark to take legal action against Lendlease. It has passed many by that the [regeneration agreement](https://southwarknotes.files.wordpress.com/2013/02/ra.pdf) which was [accidentally leaked](https://www.newstatesman.com/news/2013/02/southwark-accidentally-leaks-confidential-information) in 2013, contains a provision requiring Lendlease to provide 50% of all affordable housing on site as social rent.
+After Lendlease [tried to sue Harringey Council](https://www.insidehousing.co.uk/news/lendlease-sues-haringey-council-over-4bn-vehicle-59072) over its regeneration agreement for the redevelopment of a number of Council estates, we figured it's reasonable to ask Southwark to take legal action against Lendlease. It has passed many by that the [regeneration agreement](https://southwarknotes.files.wordpress.com/2013/02/ra.pdf) which was [accidentally leaked](https://www.newstatesman.com/news/2013/02/southwark-accidentally-leaks-confidential-information) in 2013, contains a provision requiring Lendlease to provide 50% of all affordable housing on site to be provided as social rent.
 
 ![](http://35percent.org/img/ratenuresplit.png)
 *Extract from the Council's [regeneration agreement](https://southwarknotes.files.wordpress.com/2013/02/ra.pdf) with Lendlease*
 
-We say that Southwark should require Lendlease to 
+Southwark should take action requiring Lendlease to comply with the terms of its legal agreement. This would result in the provision of 432 social rented homes on the redeveloped estate, not the pitiful 74 that Lendlease [managed to get away with](https://www.theguardian.com/cities/2015/jun/25/london-developers-viability-planning-affordable-social-housing-regeneration-oliver-wainwright) through the planning process. It's important to remember that the planning process and the legal agreement are two entirely separate things. Just because Lendlease pulled the wool over the eyes of the planning committee doesn't stop the Council's regeneration department from enforcing the terms of its contractual agreement with Lendlease. 
 
-## Aylesbury break clause
+## 5. Aylesbury break clause
 We have [shown previously](http://35percent.org/the-southwark-clearances/) how Southwark's estate regeneration programmes have devastated its social housing stock. The redevelopment of the Aylesbury estate will result in the net loss of between 778 and 1,166 social rented homes - that's presupposing that Notting Hill Genesis lets the new homes as social rent not affordable rent [as it has done in other schemes](https://www.southwarknews.co.uk/news/council-takes-no-legal-action-over-44-missing-social-housing-units/). Notting Hill Genesis has got track records in this regard, as documented [here]( http://35percent.org/2017-01-16-draft-more-on-notting-hill/#former-notting-hill-exec-spills-beans-on-ceo), [here](https://www.theguardian.com/housing-network/2015/aug/14/social-housing-britain-future-profit-purpose-genesis), [here](https://www.theguardian.com/society/2018/jun/13/fury-affordable-homes-redeveloped-sold-housing-associations), [here](https://www.theguardian.com/society/2018/jun/13/fury-affordable-homes-redeveloped-sold-housing-associations) and [here](https://www.theguardian.com/society/2018/mar/24/london-social-housing-sell-off-protest-luxury-hotel).
 
 ![](http://35percent.org/img/aylesburynetloss.png)
@@ -62,7 +62,7 @@ We have [shown previously](http://35percent.org/the-southwark-clearances/) how S
 
 It has also been [revealed](https://www.theguardian.com/cities/2018/sep/12/london-council-aylesbury-estate-development-southwark-financial-risk) that Southwark could end up making a substantial loss on the sale of the 60 acre estate, while Notting Hill Genesis enjoys a ring-fenced profit.  
 
-## Stop wasting money trying to gentrify Southwark
+## 6. Stop wasting money trying to gentrify Southwark
 Mountview Academy given plot of land behind Peckham library and a 24m interest free loan plus 2m grant to build new (private) drama school. Fees are xx per year for an undergrad and xx per year for postgraduate study at the school. Besides a few low-cost oversubscribed Saturday morning drama classes this is not a...
 
 At the same time as finding 26m for Mountview Southwark claims that it hasn't got any money to refurbish Walworth Town Hall.
