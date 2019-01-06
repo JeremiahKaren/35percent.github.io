@@ -37,19 +37,16 @@ Our [research into major developments](http://35percent.org/img/major-schemes) a
 
 ![](http://35percent.org/img/majschemes.png)
 
-## Start monitoring and enforce tenure provisions of Section 106 agreements
-In May 2015 we 
+## 5. Start monitoring and enforce tenure provisions of Section 106 agreements
+In May 2015 we [discovered](https://www.southwarknews.co.uk/news/southwark-council-probes-44-missing-social-homes/) that Notting Hill Housing association had provided affordable rent (up to 80% market) as part of its Bermondsey Spa Regeneration scheme. Following this we discovered 43 further schemes where this tenure switch appears to have taken place. After the Council dismissed our complaint we referred it to the Ombudsman who, after a lengthy investigation concluded that the Council _"did not have a systematic supervision procedure to check compliance"_ with the tenure provision requirements of its section 106 agreements. Instead _"it relied on developers’ voluntary compliance."_ The Ombudsman ordered Southwark to conduct an audit of S106 tenure provision and introduce monitoring/compliance procedures. 
 
-Council [promised](https://www.southwarknews.co.uk/news/gov-report-finds-council-failed-years-monitor-developers-broken-promises-provide-social-housing/) that first 1 year audit would be published in 2017. It didn't happen.
+![](http://35percent.org/img/LGOFinalDecisionSOR.png)
 
-![](http://35percent.org/img/snauditpromise.png)
+The Council initially [promised](https://www.southwarknews.co.uk/news/gov-report-finds-council-failed-years-monitor-developers-broken-promises-provide-social-housing/) that first 1 year audit would be published in 2017. It didn't happen.
 
-It then further [promised](https://www.southwarknews.co.uk/news/council-will-clamp-housing-providers-flunk-affordable-housing-promises/) audit going back 7 years. Said it would be completed in Spring 2018 but we are still waiting.
+![](http://35percent.org/img/snauditpromise2.png)
 
-![](http://35percent.org/img/snaudit2.png)
-
-https://data.london.gov.uk/dataset/london-development-database-sql-extract
-
+It later [explained that the audit was taking time because it was going back to 2010 and promised](https://www.southwarknews.co.uk/news/council-will-clamp-housing-providers-flunk-affordable-housing-promises/) that it would be completed in Spring 2018. Nearly three years have now passed since the Ombudsman decision and despite the chair of the planning committee [promising](https://twitter.com/cllrmseaton/status/1058056214230253573) to look into it, we are yet to see or hear anything of the audit.
 
 ## 4. Enforce terms of Heygate regeneration agreement
 LL [tried to sue Harringey](https://www.insidehousing.co.uk/news/lendlease-sues-haringey-council-over-4bn-vehicle-59072)
