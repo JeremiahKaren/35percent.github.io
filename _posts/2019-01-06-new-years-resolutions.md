@@ -29,13 +29,13 @@ Meanwhile the council is developing further sites it owns under its [SRPP partne
 
 Land is a precious resource in Southwark as is council housing. If Southwark genuinely wants to deliver on its [failing manifesto promise](http://35percent.org/2018-11-12-11000-council-homes-manifesto-pledge/) to build 11,000 new council homes, then all of its surplus land should be ringfenced for building new council homes not for being sold off to developers.
 
-## 3. 
+## 3. Stop buying S106 homes from developers
 
 ## 4. Enforce terms of Heygate regeneration agreement
 LL [tried to sue Harringey](https://www.insidehousing.co.uk/news/lendlease-sues-haringey-council-over-4bn-vehicle-59072)
 
 
-## Stop buying S106 homes from developers
+## 
 
 ## Conduct audit, monitor and enforce S106 agreements
 
@@ -48,4 +48,6 @@ We have [shown previously](http://35percent.org/the-southwark-clearances/) how S
 It has also been [revealed](https://www.theguardian.com/cities/2018/sep/12/london-council-aylesbury-estate-development-southwark-financial-risk) that Southwark could end up making a substantial loss on the sale of the 60 acre estate, while Notting Hill Genesis enjoys a ring-fenced profit.  
 
 ## Stop wasting money trying to gentrify Southwark
-Mountview Academy given plot of land behind Peckham library and a 24m interest free loan plus 2m grant to build new (private) drama school. Fees are xx per year for an undergrad and xx per year for postgraduate study at the school. Besides a few low-cost oversubscribed Saturday morning drama classes this is not a
+Mountview Academy given plot of land behind Peckham library and a 24m interest free loan plus 2m grant to build new (private) drama school. Fees are xx per year for an undergrad and xx per year for postgraduate study at the school. Besides a few low-cost oversubscribed Saturday morning drama classes this is not a...
+
+At the same time as finding 26m for Mountview Southwark claims that it hasn't got any money to refurbish Walworth Town Hall. 
