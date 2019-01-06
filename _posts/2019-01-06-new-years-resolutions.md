@@ -30,14 +30,13 @@ Meanwhile the council is developing further sites it owns under its [SRPP partne
 Land is a precious resource in Southwark as is council housing. If Southwark genuinely wants to deliver on its [failing manifesto promise](http://35percent.org/2018-11-12-11000-council-homes-manifesto-pledge/) to build 11,000 new council homes, then all of its surplus land should be ringfenced for building new council homes not for being sold off to developers.
 
 ## 3. Stop buying S106 homes from developers
+We have [blogged] previously about the council buying affordable housing from developers to help deliver on its failing manifesto pledge. The problem with this method of buying council housing is that it does not actually increase the net supply of social housing - the same units would otherwise have been bought and let by a housing association anyway. Further, Southwark is denying itself the benefit of the S106 contribution, by paying for something a housing association would have paid for anyway - and, rather perversely, denying itself funds for building units that would actually increase the net supply.
+
+## Conduct audit, monitor and enforce S106 agreements
+
 
 ## 4. Enforce terms of Heygate regeneration agreement
 LL [tried to sue Harringey](https://www.insidehousing.co.uk/news/lendlease-sues-haringey-council-over-4bn-vehicle-59072)
-
-
-## 
-
-## Conduct audit, monitor and enforce S106 agreements
 
 ## Aylesbury break clause
 We have [shown previously](http://35percent.org/the-southwark-clearances/) how Southwark's estate regeneration programmes have devastated its social housing stock. The redevelopment of the Aylesbury estate will result in the net loss of between 778 and 1,166 social rented homes - that's presupposing that Notting Hill Genesis lets the new homes as social rent not affordable rent [as it has done in other schemes](https://www.southwarknews.co.uk/news/council-takes-no-legal-action-over-44-missing-social-housing-units/). Notting Hill Genesis has got track records in this regard, as documented [here]( http://35percent.org/2017-01-16-draft-more-on-notting-hill/#former-notting-hill-exec-spills-beans-on-ceo), [here](https://www.theguardian.com/housing-network/2015/aug/14/social-housing-britain-future-profit-purpose-genesis), [here](https://www.theguardian.com/society/2018/jun/13/fury-affordable-homes-redeveloped-sold-housing-associations), [here](https://www.theguardian.com/society/2018/jun/13/fury-affordable-homes-redeveloped-sold-housing-associations) and [here](https://www.theguardian.com/society/2018/mar/24/london-social-housing-sell-off-protest-luxury-hotel).
@@ -50,4 +49,4 @@ It has also been [revealed](https://www.theguardian.com/cities/2018/sep/12/londo
 ## Stop wasting money trying to gentrify Southwark
 Mountview Academy given plot of land behind Peckham library and a 24m interest free loan plus 2m grant to build new (private) drama school. Fees are xx per year for an undergrad and xx per year for postgraduate study at the school. Besides a few low-cost oversubscribed Saturday morning drama classes this is not a...
 
-At the same time as finding 26m for Mountview Southwark claims that it hasn't got any money to refurbish Walworth Town Hall. 
+At the same time as finding 26m for Mountview Southwark claims that it hasn't got any money to refurbish Walworth Town Hall.
