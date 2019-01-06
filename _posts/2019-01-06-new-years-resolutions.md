@@ -21,7 +21,7 @@ It is not just council homes that are being sold off. Southwark's 'modernisation
 
 Southwark has also been selling off land that it owns to developers, like [this plot of land near Milwall stadium](http://moderngov.southwark.gov.uk/ieDecisionDetails.aspx?Id=5885) and [its former car pound](http://moderngov.southwark.gov.uk/ieDecisionDetails.aspx?Id=6563) off the Old Kent Road, likewise [this plot of land](http://moderngov.southwark.gov.uk/ieIssueDetails.aspx?IId=50017404&PlanId=0&Opt=3#AI50577) at Devonshire Grove and [this plot of land](http://moderngov.southwark.gov.uk/ieDecisionDetails.aspx?Id=3755) that was part of the Beacon House estate and [this one at Woods Road in Peckham](http://moderngov.southwark.gov.uk/ieDecisionDetails.aspx?AIId=29450).
 
-![](http://35percent.org/img/soldland.png)
+![](http://35percent.org/img/soldland.png){:target="_blank"}
 
 Meanwhile there is more council land and buildings being redeveloped under the Council's SRPP partnership deal. Of the 33 new homes planned on this site, x will be private sale and x will be 'intermediate' tenure, not one will be social rent. Braganza St etc.
 
