@@ -47,7 +47,7 @@ The Council initially [promised](https://www.southwarknews.co.uk/news/gov-report
 ![](http://35percent.org/img/snauditpromise2.png)
 
 ## 4. Enforce the tenure requirements of the Heygate regeneration agreement
-After Lendlease [tried to sue Harringey Council](https://www.insidehousing.co.uk/news/lendlease-sues-haringey-council-over-4bn-vehicle-59072) over its regeneration agreement for the redevelopment of a number of Council estates, we figured it's reasonable to ask Southwark to take legal action against Lendlease. It has passed many by that the [regeneration agreement](https://southwarknotes.files.wordpress.com/2013/02/ra.pdf) which was [accidentally leaked](https://www.newstatesman.com/news/2013/02/southwark-accidentally-leaks-confidential-information) in 2013, contains a provision requiring Lendlease to provide 50% of all affordable housing on site to be provided as social rent.
+After Lendlease [tried to sue Harringey Council](https://www.insidehousing.co.uk/news/lendlease-sues-haringey-council-over-4bn-vehicle-59072) over its regeneration agreement for the redevelopment of a number of Council estates, we figured it's reasonable to ask Southwark to take legal action against Lendlease. It passed us by at the time that the [regeneration agreement](https://southwarknotes.files.wordpress.com/2013/02/ra.pdf) which was [accidentally leaked](https://www.newstatesman.com/news/2013/02/southwark-accidentally-leaks-confidential-information) in 2013, contains a provision requiring Lendlease to provide 50% of all affordable housing on site as social rent.
 
 ![](http://35percent.org/img/ratenuresplit.png)
 *Extract from the Council's [regeneration agreement](https://southwarknotes.files.wordpress.com/2013/02/ra.pdf) with Lendlease*
