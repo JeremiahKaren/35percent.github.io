@@ -32,7 +32,23 @@ Land is a precious resource in Southwark as is council housing. If Southwark gen
 ## 3. Stop buying S106 homes from developers
 We have [blogged] previously about the council buying affordable housing from developers to help deliver on its failing manifesto pledge. The problem with this method of buying council housing is that it does not actually increase the net supply of social housing - the same units would otherwise have been bought and let by a housing association anyway. Further, Southwark is denying itself the benefit of the S106 contribution, by paying for something a housing association would have paid for anyway - and, rather perversely, denying itself funds for building units that would actually increase the net supply.
 
-## Conduct audit, monitor and enforce S106 agreements
+## 4. Stop granting planning permission for schemes that don't comply with planning policy requirements
+Our [research into major developments](http://35percent.org/img/major-schemes) approved in Southwark over the past 10 years has shown that out of a total of 11,863 new homes given planning consent, just 456 (3.8%) were social rented tenure. Had Southwark stood firm and forced these schemes to comply with minimum policy requirements then 2,500 social rented homes would have been approved in total.
+
+![](http://35percent.org/img/majschemes.png)
+
+## Start monitoring and enforce tenure provisions of Section 106 agreements
+In May 2015 we 
+
+Council [promised](https://www.southwarknews.co.uk/news/gov-report-finds-council-failed-years-monitor-developers-broken-promises-provide-social-housing/) that first 1 year audit would be published in 2017. It didn't happen.
+
+![](http://35percent.org/img/snauditpromise.png)
+
+It then further [promised](https://www.southwarknews.co.uk/news/council-will-clamp-housing-providers-flunk-affordable-housing-promises/) audit going back 7 years. Said it would be completed in Spring 2018 but we are still waiting.
+
+![](http://35percent.org/img/snaudit2.png)
+
+https://data.london.gov.uk/dataset/london-development-database-sql-extract
 
 
 ## 4. Enforce terms of Heygate regeneration agreement
