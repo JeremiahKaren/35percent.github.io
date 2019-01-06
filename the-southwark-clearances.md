@@ -90,9 +90,9 @@ In 2009, Southwark's Tory/Lib Dem administration introduced a policy of selling 
 ![](http://35percent.org/img/samplecouncilhomessold.png)
 *A [sample](/sold_by_southwark.pdf) of hundreds of council homes sold by the current Labour administration under this policy*
 
-It is not just council homes that are being sold off. Southwark's 'modernisation' drive has seen it [sell off both Bermondsey and Peckham Town Halls](http://35percent.org/southwark-town-halls/); Harper Rd Social Services Centre; Castle Day Centre; Whitstable Day Nursery; Abbey St Children's Home; and Wansey St Homeless Hostel:
+It is not just council homes that are being sold off. Southwark's 'modernisation' drive has seen it [sell off both Bermondsey and Peckham Town Halls](http://35percent.org/southwark-town-halls/); Harper Rd Social Services Centre; Castle Day Centre; Whitstable Day Nursery; Abbey St Children's Home; Willowbrook Community Centre and the Wansey St Homeless Hostel:
 
-![](http://35percent.org/img/selloff.png)
+![](http://35percent.org/img/selloff2.png)
 
 ## Sink estate
 Council leader Peter John is the driving force behind the borough's 'regeneration' plans supported by a cross-party 'sink estate' rhetoric. He wrote an [article](http://www.progressonline.org.uk/2016/01/14/camerons-has-much-to-learn-on-housing/) in support of David Cameron's estate demolition proposals in Jan 2016, arguing only that Cameron's plans weren't ambitious enough and that more government funding should be allocated to the programme. In the article he describes the Heygate & Aylesbury estates as _"symbols of inner-city neglect, with crime, antisocial behaviour, health inequalities and unemployment the only things that flourished there"_. He added that _"both had become hard to let to council tenants, and reinforced poverty, crime and inequality"_ and concluded that in any case, _"most brutal estates do not make the best use of the land they occupy."_ 
