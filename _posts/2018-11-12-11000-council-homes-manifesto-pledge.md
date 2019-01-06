@@ -1,7 +1,9 @@
 ---
 layout: post
 title: '11000 new council homes: figures show loss rather than gain'
-subtitle: "Southwark demolishing and selling off council homes faster than it's building them"
+subtitle: >-
+  Southwark demolishing and selling off council homes faster than it's building
+  them
 published: true
 ---
 In 2014, as part of its manifesto pledge Southwark Council's administration [announced](http://www.southwarklabour.co.uk/latest-news/southwark/news.aspx?p=102262) an _"ambitious but realistic plan to build 11,000 new council homes"_ across the borough over the next 30 years. Concerns were [raised by us](http://35percent.org/the-southwark-clearances) and in the [local press](https://crappistmartin.github.io/images/SNHeygateOverage.pdf) that this would fail to make up for the thousands of council homes currently being lost to ongoing estate regeneration, [void disposal policies](http://35percent.org/the-southwark-clearances/#void-disposal-policy) and Right to Buy applications over the next 30 years.
@@ -30,6 +32,7 @@ In addition, it has [sold 1,300 council homes under the Right to Buy since 2012]
 
 Meanwhile, this [30th Oct 2018 Cabinet report](http://moderngov.southwark.gov.uk/documents/s78248/Report%20New%20Homes%20Programme%20Delivery%20Model%20Review%202018.pdf) confirms that the council has built just 262 council homes over 5 years (para 12).  
 
+## Buying affordable housing instead
 The [Cabinet report](http://moderngov.southwark.gov.uk/documents/s78248/Report%20New%20Homes%20Programme%20Delivery%20Model%20Review%202018.pdf) confirms that an additional 239 units of developer-built (S106) affordable housing have been bought by Southwark, to become council housing (para 17). One such example is Blackfriars Circus, where the Council has [bought](http://35percent.org/2017-04-29-blackfriars-affordable-housing-circus/) 56 homes for £10m from developer Barratt.
 
 ![](http://35percent.org/img/tweetmwilliamsblackfriars.png)
