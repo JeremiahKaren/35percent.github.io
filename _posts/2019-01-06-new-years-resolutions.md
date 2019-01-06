@@ -47,7 +47,12 @@ The Council initially [promised](https://www.southwarknews.co.uk/news/gov-report
 ![](http://35percent.org/img/snauditpromise2.png)
 
 ## 4. Enforce the tenure requirements of the Heygate regeneration agreement
-After Lendlease [tried to sue Harringey Council](https://www.insidehousing.co.uk/news/lendlease-sues-haringey-council-over-4bn-vehicle-59072) over its regeneration agreement for the redevelopment of a number of Council estates, we figured that its reasonable to 
+After Lendlease [tried to sue Harringey Council](https://www.insidehousing.co.uk/news/lendlease-sues-haringey-council-over-4bn-vehicle-59072) over its regeneration agreement for the redevelopment of a number of Council estates, we figured it's reasonable to ask Southwark to take legal action against Lendlease. It has passed many by that the [regeneration agreement](https://southwarknotes.files.wordpress.com/2013/02/ra.pdf) which was [accidentally leaked](https://www.newstatesman.com/news/2013/02/southwark-accidentally-leaks-confidential-information) in 2013, contains a provision requiring Lendlease to provide 50% of all affordable housing on site as social rent.
+
+![](http://35percent.org/img/ratenuresplit.png)
+*Extract from the Council's [regeneration agreement](https://southwarknotes.files.wordpress.com/2013/02/ra.pdf) with Lendlease*
+
+We say that Southwark should require Lendlease to 
 
 ## Aylesbury break clause
 We have [shown previously](http://35percent.org/the-southwark-clearances/) how Southwark's estate regeneration programmes have devastated its social housing stock. The redevelopment of the Aylesbury estate will result in the net loss of between 778 and 1,166 social rented homes - that's presupposing that Notting Hill Genesis lets the new homes as social rent not affordable rent [as it has done in other schemes](https://www.southwarknews.co.uk/news/council-takes-no-legal-action-over-44-missing-social-housing-units/). Notting Hill Genesis has got track records in this regard, as documented [here]( http://35percent.org/2017-01-16-draft-more-on-notting-hill/#former-notting-hill-exec-spills-beans-on-ceo), [here](https://www.theguardian.com/housing-network/2015/aug/14/social-housing-britain-future-profit-purpose-genesis), [here](https://www.theguardian.com/society/2018/jun/13/fury-affordable-homes-redeveloped-sold-housing-associations), [here](https://www.theguardian.com/society/2018/jun/13/fury-affordable-homes-redeveloped-sold-housing-associations) and [here](https://www.theguardian.com/society/2018/mar/24/london-social-housing-sell-off-protest-luxury-hotel).
