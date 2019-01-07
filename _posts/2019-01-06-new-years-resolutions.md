@@ -74,3 +74,5 @@ At the same time as finding 26m for Mountview Southwark claims that it hasn't go
 Mountview board includes Lady Susan Chinn, wife of [Labour donor Sir Trevor Chinn](https://www.totalpolitics.com/articles/news/sir-trevor-chinn-becomes-latest-labour-donor-fund-dan-jarvis-machine), Sir Brendan Barbour, Vikki Heywood (CBE) and [Eddie Marsan](https://twitter.com/eddiemarsan).
 
 Mountview not even [Living Wage employer](https://www.livingwage.org.uk/accredited-living-wage-employers)
+
+the establishment of a school focused on a let’s face it, very middle class and very white profession, raises questions of engagement with the mostly working class and minority ethnic communities of Peckham.
