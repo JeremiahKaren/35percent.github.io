@@ -65,6 +65,12 @@ It has also been [revealed](https://www.theguardian.com/cities/2018/sep/12/londo
 ## 6. Stop wasting money trying to gentrify Southwark
 Mountview Academy given plot of land behind Peckham library and a 24m interest free loan plus 2m grant to build new (private) drama school. Fees are xx per year for an undergrad and xx per year for postgraduate study at the school. Besides a few low-cost oversubscribed Saturday morning drama classes this is not a...
 
+![](http://35percent.org/img/mview.jpg)
+
+
+
 At the same time as finding 26m for Mountview Southwark claims that it hasn't got any money to refurbish Walworth Town Hall.
+
+Mountview board includes Lady Susan Chinn, wife of [Labour donor Sir Trevor Chinn](https://www.totalpolitics.com/articles/news/sir-trevor-chinn-becomes-latest-labour-donor-fund-dan-jarvis-machine), Sir Brendan Barbour, Vikki Heywood (CBE) and [Eddie Marsan](https://twitter.com/eddiemarsan).
 
 Mountview not even [Living Wage employer](https://www.livingwage.org.uk/accredited-living-wage-employers)
