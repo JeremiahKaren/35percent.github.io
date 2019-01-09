@@ -76,3 +76,9 @@ Mountview board includes Lady Susan Chinn, wife of [Labour donor Sir Trevor Chin
 Mountview not even [Living Wage employer](https://www.livingwage.org.uk/accredited-living-wage-employers)
 
 the establishment of a school focused on a let’s face it, very middle class and very white profession, raises questions of engagement with the mostly working class and minority ethnic communities of Peckham.
+
+## 7. Stop buying speculative developments from developers
+https://www.london-se1.co.uk/news/view/9791
+
+Where is Southwark getting the money from (borrowing it at 5%) is the £5m per year enough to cover this?
+It should be using this money to build new council homes or as the Walworth Society suggest, refurbishing Walworth Town Hall along with some commercial.
