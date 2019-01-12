@@ -20,7 +20,9 @@ We don't know how many council homes have been sold under this policy to date, b
 
 Southwark's justification for this is that the sales revenue allows more council housing to be built more cheaply elsewhere in the borough. However, the [Mayor's most recent annual monitoring report](https://www.london.gov.uk/sites/default/files/amr_14_final_20180927.pdf) shows a net gain of just 84 social rented homes in the three years to 2016/17.
 
-However, according to these sources the current actual cost of building a new social rented unit is higher than the threshold sale price. 
+The cost of building new social rented homes is surprisingly high and can [exceed the £300,000 threshold](). 
+
+
 
 Build
 
