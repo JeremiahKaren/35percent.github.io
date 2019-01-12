@@ -29,7 +29,7 @@ Southwark's 'modernisation' drive has also seen it sell off public buildings and
 
 ![](http://35percent.org/img/selloff2.png)
 
-Land has also been sold, like [this plot of land near Millwall stadium](http://moderngov.southwark.gov.uk/ieDecisionDetails.aspx?Id=5885) and [its former car pound](http://moderngov.southwark.gov.uk/ieDecisionDetails.aspx?Id=6563) off the Old Kent Road, likewise [this plot of land](http://moderngov.southwark.gov.uk/ieIssueDetails.aspx?IId=50017404&PlanId=0&Opt=3#AI50577) at Devonshire Grove and [this plot of land](http://moderngov.southwark.gov.uk/ieDecisionDetails.aspx?Id=3755) on the Beacon House estate and [this one at Woods Road in Peckham](http://moderngov.southwark.gov.uk/ieDecisionDetails.aspx?AIId=29450).
+Land sold includes like [a plot near Millwall stadium](http://moderngov.southwark.gov.uk/ieDecisionDetails.aspx?Id=5885) and Southwark's [former car pound](http://moderngov.southwark.gov.uk/ieDecisionDetails.aspx?Id=6563) off the Old Kent Road, likewise [this plot of land](http://moderngov.southwark.gov.uk/ieIssueDetails.aspx?IId=50017404&PlanId=0&Opt=3#AI50577) at Devonshire Grove and [this plot of land](http://moderngov.southwark.gov.uk/ieDecisionDetails.aspx?Id=3755) on the Beacon House estate and [this one at Woods Road in Peckham](http://moderngov.southwark.gov.uk/ieDecisionDetails.aspx?AIId=29450).
 
 <a href="http://35percent.org/img/soldland.png"><img src="http://35percent.org/img/soldland.png"></a>
 
