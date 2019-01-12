@@ -25,11 +25,11 @@ Southwark's justification for this is that the sales revenue allows more council
 [£335k per home](http://moderngov.southwark.gov.uk/documents/s75190/Report%20Gateway%202%20-%20Contract%20Award%20Construction%20of%20New%20Build%20Units%20at%20Pelier%20Street.pdf)
 
 ## 2. Stop selling off public land and buildings
-Southwark's 'modernisation' drive has also seen it sell off public buildings and land including [both Bermondsey and Peckham Town Halls](http://35percent.org/southwark-town-halls/); Harper Rd Social Services Centre; Castle Day Centre; Whitstable Day Nursery; Abbey St Children's Home; Willowbrook Community Centre and the Wansey St Homeless Hostel:
+Southwark's 'modernisation' drive has also seen it sell off public buildings and land including [both Bermondsey and Peckham Town Halls](http://35percent.org/southwark-town-halls/); Harper Rd Social Services Centre; Castle Day Centre; Whitstable Day Nursery; Abbey St Children's Home; Willowbrook Community Centre and the Wansey St Homeless Hostel.
 
 ![](http://35percent.org/img/selloff2.png)
 
-Land sold includes like [a plot near Millwall stadium](http://moderngov.southwark.gov.uk/ieDecisionDetails.aspx?Id=5885) and Southwark's [former car pound](http://moderngov.southwark.gov.uk/ieDecisionDetails.aspx?Id=6563) off the Old Kent Road, likewise [this plot of land](http://moderngov.southwark.gov.uk/ieIssueDetails.aspx?IId=50017404&PlanId=0&Opt=3#AI50577) at Devonshire Grove and [this plot of land](http://moderngov.southwark.gov.uk/ieDecisionDetails.aspx?Id=3755) on the Beacon House estate and [this one at Woods Road in Peckham](http://moderngov.southwark.gov.uk/ieDecisionDetails.aspx?AIId=29450).
+Land sold includes [a plot near Millwall stadium](http://moderngov.southwark.gov.uk/ieDecisionDetails.aspx?Id=5885) and Southwark's [former car pound](http://moderngov.southwark.gov.uk/ieDecisionDetails.aspx?Id=6563) off the Old Kent Road, likewise [a plot of land](http://moderngov.southwark.gov.uk/ieIssueDetails.aspx?IId=50017404&PlanId=0&Opt=3#AI50577) at Devonshire Grove and [a plot of land](http://moderngov.southwark.gov.uk/ieDecisionDetails.aspx?Id=3755) on the Beacon House estate and [ one at Woods Road in Peckham](http://moderngov.southwark.gov.uk/ieDecisionDetails.aspx?AIId=29450).
 
 <a href="http://35percent.org/img/soldland.png"><img src="http://35percent.org/img/soldland.png"></a>
 
