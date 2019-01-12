@@ -4,7 +4,7 @@ published: false
 title: New Years Resolutions
 subtitle: Ten things Southwark Council should do in 2019
 ---
-To welcome the New Year and in the spirit of cooperation and fraternity we have come up with ten things that Southwark Council could to do in order to ease the effects of the housing crisis and create a fairer future for the borough's residents.
+To welcome the New Year and in a spirit of fraternity we have come up with ten things that Southwark Council can consider in order to ease the effects of the housing crisis and create a fairer future for the borough's residents.
 
 ## 1. Stop selling off Council homes
 [Research](http://www.londontenants.org/publications/other/Boroughs%20SR%20loss%20or%20gain%202001-17%20(FF4).jpg) by the [London Tenants Federation](http://londontenants.org) shows that Southwark has lost more social housing than any other borough since 2001.
@@ -29,7 +29,7 @@ Build
  Selling off council homes for less than it [costs to build] new ones is not helping 
 
 ## 2. Stop selling off public land and buildings
-It is not just council homes that are being sold off. Southwark's 'modernisation' drive has seen it [sell off both Bermondsey and Peckham Town Halls](http://35percent.org/southwark-town-halls/); Harper Rd Social Services Centre; Castle Day Centre; Whitstable Day Nursery; Abbey St Children's Home; Willowbrook Community Centre and the Wansey St Homeless Hostel:
+It is not just council homes that are being sold off. Southwark's 'modernisation' drive has seen it [sell both Bermondsey and Peckham Town Halls](http://35percent.org/southwark-town-halls/); Harper Rd Social Services Centre; Castle Day Centre; Whitstable Day Nursery; Abbey St Children's Home; Willowbrook Community Centre and the Wansey St Homeless Hostel:
 
 ![](http://35percent.org/img/selloff2.png)
 
@@ -99,4 +99,4 @@ According to [this Council report](http://moderngov.southwark.gov.uk/documents/s
 The same report confirms that Southwark is currently £563m in debt (para 1) and is paying 4.6% on this debt (para 41). 
 
 Is Southwark not better of paying off or reducing its debt?
-Better still it could use the £89m to build new council homes in order to reduce the £10m per year it is spending on bed & breakfast accommodation, or as the Walworth Society suggest, refurbishing Walworth Town Hall along with some commercial, revenue producing activities. 
+Better still it could use the £89m to build new council homes in order to reduce the £10m per year it is spending on bed & breakfast accommodation, or as the Walworth Society suggest, refurbishing Walworth Town Hall along with some commercial, revenue producing activities.
