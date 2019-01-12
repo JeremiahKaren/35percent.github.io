@@ -37,7 +37,7 @@ The Mayor's [new draft London Plan](https://www.london.gov.uk/what-we-do/plannin
 
 ## 4. No more approvals like this...
 
-When Southwark does develope its own sites they must get at least the Mayor's 50% affordable requirement.  This means that [Southwark's Regeneration Partnership Programme (SRRP)]((https://www.southwark.gov.uk/regeneration/southwark-regeneration-in-partnership-programme)),its flagship council house delivery programme, needs revising; currently this requires only 33% of new homes to be council housing. 
+When Southwark does develope its own sites they must get at least the Mayor's 50% affordable requirement.  This means that [Southwark's Regeneration Partnership Programme (SRRP)](https://www.southwark.gov.uk/regeneration/southwark-regeneration-in-partnership-programme),its flagship council house delivery programme, needs revising; currently this requires only 33% of new homes to be council housing. 
 
 If Southwark is serious about fulfilling its [manifesto promise](http://35percent.org/2018-11-12-11000-council-homes-manifesto-pledge/) to build 11000 council homes there must be no more approvals of developments like Braganza St, on the site of the [council's former enterprise workshops in Kennington](https://www.southwark.gov.uk/regeneration/southwark-regeneration-in-partnership-programme?chapter=7) and one of 20 sites currently planned. Despite the [consultation process for this site promising 55% council homes](https://consultations.southwark.gov.uk/planning-and-regeneration/2nd-round-consultation-braganza-street-workshops/supporting_documents/Braganza%20Online.pdf), planning permission was granted last year for 33 new homes, 28 of which private, 5 intermediate and none social rent.
 
