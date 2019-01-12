@@ -4,15 +4,25 @@ published: false
 title: New Years Resolutions
 subtitle: Ten things Southwark Council should do in 2019
 ---
-Instead of [blaming the Tories](https://twitter.com/karleastham/status/1062088721535787008) or mocking local campaign groups, we have come up with 10 constructive things that Southwark Council could to do in order to ease the effects of the housing crisis and create a fairer future for the borough's residents.
+To welcome the New Year and in the spirit of cooperation and fraternity we have come up with ten things that Southwark Council could to do in order to ease the effects of the housing crisis and create a fairer future for the borough's residents.
 
 ## 1. Stop selling off Council homes
-In 2009, Southwark's Tory/Lib Dem administration introduced a policy of selling off every council home that becomes vacant and is valued above £400,000. In 2011 this was [reviewed by the incoming Labour administration which reduced](http://moderngov.southwark.gov.uk/documents/s19458/Report%20Review%20of%20Void%20Disposal%20Strategy.pdf) the threshold to £300,000. [This compilation](http://35percent.org/img/sold_by_southwark.pdf) taken from auction websites shows a sample of some of the hundreds of properties sold off by the current administration in this [ongoing policy of disposals](http://moderngov.southwark.gov.uk/ieDecisionDetails.aspx?AIId=48244).
+As we [blogged previously] Southwark's council housing stock is being depleted by both Right to Buy, demolitions. [Research](http://www.londontenants.org/publications/other/Boroughs%20SR%20loss%20or%20gain%202001-17%20(FF4).jpg) by the [London Tenants Federation](http://londontenants.org) shows that Southwark has lost more social housing than any other borough since 2001.
+
+As well as right to buy and demolitions, homes are also being lost through the sale of 'high value' properties. 
+
+In 2009, Southwark's Tory/Lib Dem administration introduced this policy for every council home valued above £400,000. In 2011 this was [reviewed and reduced to £300,000](http://moderngov.southwark.gov.uk/documents/s19458/Report%20Review%20of%20Void%20Disposal%20Strategy.pdf) by the incoming Labour administration.
+
+We don't know how many council homes have been sold under this policy to date, but [this compilation](http://35percent.org/img/sold_by_southwark.pdf) taken from auction websites shows a sample of over 50 properties sold off in this [ongoing policy of disposals](http://moderngov.southwark.gov.uk/ieDecisionDetails.aspx?AIId=48244).
 
 ![](http://35percent.org/img/samplecouncilhomessold.png)
 *A [sample](/sold_by_southwark.pdf) of hundreds of council homes sold by the current Labour administration under this policy*
 
-[Research](http://www.londontenants.org/publications/other/Boroughs%20SR%20loss%20or%20gain%202001-17%20(FF4).jpg) by the [London Tenants Federation](http://londontenants.org) shows that Southwark has lost more social housing than any other borough. Selling off council homes for less than it [costs to build] new ones is not helping 
+Southwark's justification for this is that the sales revenue allows more council housing to be built more cheaply elsewhere in the borough. R
+
+However, according to these sources the current actual cost of building a new social rented unit is higher than the threshold sale price. 
+
+ Selling off council homes for less than it [costs to build] new ones is not helping 
 
 ## 2. Stop selling off public land and buildings
 It is not just council homes that are being sold off. Southwark's 'modernisation' drive has seen it [sell off both Bermondsey and Peckham Town Halls](http://35percent.org/southwark-town-halls/); Harper Rd Social Services Centre; Castle Day Centre; Whitstable Day Nursery; Abbey St Children's Home; Willowbrook Community Centre and the Wansey St Homeless Hostel:
