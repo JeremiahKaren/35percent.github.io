@@ -18,9 +18,9 @@ We don't know how many council homes have been sold under this policy to date, b
 ![](http://35percent.org/img/samplecouncilhomessold.png)
 *A [sample](/sold_by_southwark.pdf) of hundreds of council homes sold by the current Labour administration under this policy*
 
-Southwark's justification for this is that the sales revenue allows more council housing to be built more cheaply elsewhere in the borough. However, the [Mayor's most recent annual monitoring report](https://www.london.gov.uk/sites/default/files/amr_14_final_20180927.pdf) shows a net gain of just 84 social rented homes in the three years to 2016/17.
+Southwark's justification for this is that the sales revenue allows more council housing to be built more cheaply elsewhere in the borough. The cost of building new social rented homes is surprisingly high and can [exceed the £300,000 threshold]().  However, the [Mayor's most recent annual monitoring report](https://www.london.gov.uk/sites/default/files/amr_14_final_20180927.pdf) shows a net gain of just 84 social rented homes in the three years to 2016/17.
 
-The cost of building new social rented homes is surprisingly high and can [exceed the £300,000 threshold]().
+.
 
 ![](http://35percent.org/img/buildcost.png)
 
