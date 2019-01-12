@@ -81,4 +81,4 @@ the establishment of a school focused on a let’s face it, very middle class an
 https://www.london-se1.co.uk/news/view/9791
 
 Where is Southwark getting the money from (borrowing it at 5%) is the £5m per year enough to cover this?
-It should be using this money to build new council homes or as the Walworth Society suggest, refurbishing Walworth Town Hall along with some commercial.
+It should be using this money to build new council homes or as the Walworth Society suggest, refurbishing Walworth Town Hall along with some commercial. [bed breakfast](https://www.southwarknews.co.uk/news/council-spend-temporary-housing-now-five-times-20112012/)
