@@ -31,7 +31,7 @@ Southwark's 'modernisation' drive has also seen it sell off public buildings and
 
 Land sold includes [a plot near Millwall stadium](http://moderngov.southwark.gov.uk/ieDecisionDetails.aspx?Id=5885) and Southwark's [former car pound](http://moderngov.southwark.gov.uk/ieDecisionDetails.aspx?Id=6563) off the Old Kent Road, likewise [a plot of land](http://moderngov.southwark.gov.uk/ieIssueDetails.aspx?IId=50017404&PlanId=0&Opt=3#AI50577) at Devonshire Grove and [a plot of land](http://moderngov.southwark.gov.uk/ieDecisionDetails.aspx?Id=3755) on the Beacon House estate and [ one at Woods Road in Peckham](http://moderngov.southwark.gov.uk/ieDecisionDetails.aspx?AIId=29450).
 
-The Mayor is introducing a requirement that 50% of new housing developments on public land [should be affordable](https://www.london.gov.uk/sites/default/files/draft_london_plan_chapter_4.pdf) so whatever immediate gains these sales bring, the imperative should be retaining as much land in public ownership as possible, to take full advantage of this change.
+The Mayor's [new draft London Plan](https://www.london.gov.uk/what-we-do/planning/london-plan/new-london-plan/what-new-london-plan) introduces a requirement that 50% of new housing developments on public land [should be affordable](https://www.london.gov.uk/sites/default/files/draft_london_plan_chapter_4.pdf) so whatever immediate gains these sales bring, the imperative should be retaining as much land in public ownership as possible, to take full advantage of this change.
 
 <a href="http://35percent.org/img/soldland.png"><img src="http://35percent.org/img/soldland.png"></a>
 
