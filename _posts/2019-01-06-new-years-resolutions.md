@@ -7,9 +7,9 @@ subtitle: Ten things Southwark Council should do in 2019
 To welcome the New Year and in the spirit of cooperation and fraternity we have come up with ten things that Southwark Council could to do in order to ease the effects of the housing crisis and create a fairer future for the borough's residents.
 
 ## 1. Stop selling off Council homes
-As we [blogged previously] Southwark's council housing stock is being depleted by both Right to Buy, demolitions. [Research](http://www.londontenants.org/publications/other/Boroughs%20SR%20loss%20or%20gain%202001-17%20(FF4).jpg) by the [London Tenants Federation](http://londontenants.org) shows that Southwark has lost more social housing than any other borough since 2001.
+[Research](http://www.londontenants.org/publications/other/Boroughs%20SR%20loss%20or%20gain%202001-17%20(FF4).jpg) by the [London Tenants Federation](http://londontenants.org) shows that Southwark has lost more social housing than any other borough since 2001.
 
-As well as right to buy and demolitions, homes are also being lost through the sale of 'high value' properties. 
+As well as [right to buy and estate demolitions](http://35percent.org/the-southwark-clearances/), homes are also being lost through the sale of 'high value' properties. 
 
 In 2009, Southwark's Tory/Lib Dem administration introduced this policy for every council home valued above £400,000. In 2011 this was [reviewed and reduced to £300,000](http://moderngov.southwark.gov.uk/documents/s19458/Report%20Review%20of%20Void%20Disposal%20Strategy.pdf) by the incoming Labour administration.
 
@@ -18,9 +18,13 @@ We don't know how many council homes have been sold under this policy to date, b
 ![](http://35percent.org/img/samplecouncilhomessold.png)
 *A [sample](/sold_by_southwark.pdf) of hundreds of council homes sold by the current Labour administration under this policy*
 
-Southwark's justification for this is that the sales revenue allows more council housing to be built more cheaply elsewhere in the borough. R
+Southwark's justification for this is that the sales revenue allows more council housing to be built more cheaply elsewhere in the borough. However, the [Mayor's most recent annual monitoring report](https://www.london.gov.uk/sites/default/files/amr_14_final_20180927.pdf) shows a net gain of just 84 social rented homes in the three years to 2016/17.
 
 However, according to these sources the current actual cost of building a new social rented unit is higher than the threshold sale price. 
+
+Build
+
+[£335k per home](http://moderngov.southwark.gov.uk/documents/s75190/Report%20Gateway%202%20-%20Contract%20Award%20Construction%20of%20New%20Build%20Units%20at%20Pelier%20Street.pdf)
 
  Selling off council homes for less than it [costs to build] new ones is not helping 
 
