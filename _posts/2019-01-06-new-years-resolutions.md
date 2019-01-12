@@ -77,8 +77,12 @@ Mountview not even [Living Wage employer](https://www.livingwage.org.uk/accredit
 
 the establishment of a school focused on a let’s face it, very middle class and very white profession, raises questions of engagement with the mostly working class and minority ethnic communities of Peckham.
 
-## 7. Stop buying speculative developments from developers
-https://www.london-se1.co.uk/news/view/9791
+## 7. Stop buying speculative commercial developments from developers
+Shortly before Christmas, Southwark's Cabinet agreed to the purchase of 'Courage Yard', a commercial development next door to Council leader Peter John's residence in Shad Thames. SE1 website [reports](https://www.london-se1.co.uk/news/view/9791) that the Council is paying £89m for the site - nearly twice what the current owner paid for it in 2015.
 
-Where is Southwark getting the money from (borrowing it at 5%) is the £5m per year enough to cover this?
-It should be using this money to build new council homes or as the Walworth Society suggest, refurbishing Walworth Town Hall along with some commercial. [bed breakfast](https://www.southwarknews.co.uk/news/council-spend-temporary-housing-now-five-times-20112012/)
+According to [this Council report](http://moderngov.southwark.gov.uk/documents/s76412/Report%20Treasury%20Management%20Outturn.pdf) (para 21) Southwark owns £232m worth of such commercial investments, which currently provide a total of £9.2m per year in revenue (3.9% return). 
+
+The same report confirms that Southwark is currently £563m in debt (para 1) and is paying 4.6% on this debt (para 41). 
+
+Is Southwark not better of paying off or reducing its debt?
+Better still it could use the £89m to build new council homes in order to reduce the £10m per year it is spending on bed & breakfast accommodation, or as the Walworth Society suggest, refurbishing Walworth Town Hall along with some commercial, revenue producing activities. 
