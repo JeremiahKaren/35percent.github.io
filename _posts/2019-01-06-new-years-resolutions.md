@@ -59,6 +59,18 @@ The Council initially [promised](https://www.southwarknews.co.uk/news/gov-report
 
 ![](http://35percent.org/img/snauditpromise2.png)
 
+## 6. Canada Water and transparency
+
+Southwark has made aa legendary committment on viability assessments. To be of any value this should extend to all development related documents, including development partnership agreements with private developers.  Released under FOI, heavily redacted - all financial and viability details, affordable housing provisions, pubic open space,, developer profit - screenshots 
+
+## 7. Keep Walworth Townhall
+
+Refer to Courage Yard £89m 
+
+## 8. Treat Elephant traders fairly
+
+Perronet House rents to be same as Castle Sq.
+
 ## 4. Enforce the tenure requirements of the Heygate regeneration agreement
 After Lendlease [tried to sue Harringey Council](https://www.insidehousing.co.uk/news/lendlease-sues-haringey-council-over-4bn-vehicle-59072) over its regeneration agreement for the redevelopment of a number of Council estates, we figured it's reasonable to ask Southwark to take legal action against Lendlease. It passed us by at the time that the [regeneration agreement](https://southwarknotes.files.wordpress.com/2013/02/ra.pdf) which was [accidentally leaked](https://www.newstatesman.com/news/2013/02/southwark-accidentally-leaks-confidential-information) in 2013, contains a provision requiring Lendlease to provide 50% of all affordable housing on site as social rent.
 
