@@ -18,19 +18,13 @@ We don't know how many council homes have been sold under this policy to date, b
 ![](http://35percent.org/img/samplecouncilhomessold.png)
 *A [sample](/sold_by_southwark.pdf) of hundreds of council homes sold by the current Labour administration under this policy*
 
-Southwark's justification for this is that the sales revenue allows more council housing to be built more cheaply elsewhere in the borough. The cost of building new social rented homes is surprisingly high and can [exceed the £300,000 threshold]().  However, the [Mayor's most recent annual monitoring report](https://www.london.gov.uk/sites/default/files/amr_14_final_20180927.pdf) shows a net gain of just 84 social rented homes in the three years to 2016/17.
+Southwark's justification for this is that the sales revenue allows more council housing to be built more cheaply elsewhere in the borough, but the cost of building new social rented homes is surprisingly high and can [exceed the £300,000 threshold]().  The [Mayor's most recent annual monitoring report](https://www.london.gov.uk/sites/default/files/amr_14_final_20180927.pdf) shows a net gain of just 84 social rented homes in the three years to 2016/17.
 
 .
 
 ![](http://35percent.org/img/buildcost.png)
 
-
-
-Build
-
 [£335k per home](http://moderngov.southwark.gov.uk/documents/s75190/Report%20Gateway%202%20-%20Contract%20Award%20Construction%20of%20New%20Build%20Units%20at%20Pelier%20Street.pdf)
-
- Selling off council homes for less than it [costs to build] new ones is not helping 
 
 ## 2. Stop selling off public land and buildings
 It is not just council homes that are being sold off. Southwark's 'modernisation' drive has seen it [sell both Bermondsey and Peckham Town Halls](http://35percent.org/southwark-town-halls/); Harper Rd Social Services Centre; Castle Day Centre; Whitstable Day Nursery; Abbey St Children's Home; Willowbrook Community Centre and the Wansey St Homeless Hostel:
