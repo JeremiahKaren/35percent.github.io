@@ -35,7 +35,7 @@ The Mayor's [new draft London Plan](https://www.london.gov.uk/what-we-do/plannin
 
 <a href="http://35percent.org/img/soldland.png"><img src="http://35percent.org/img/soldland.png"></a>
 
-## 4. No more approvals like this...
+## 3. No more approvals like this...
 
 If Southwark is serious about fulfilling its [manifesto promise](http://35percent.org/2018-11-12-11000-council-homes-manifesto-pledge/) to build 11000 council homes there must be no more approvals of developments like Braganza St, on the site of the [council's former enterprise workshops in Kennington](https://www.southwark.gov.uk/regeneration/southwark-regeneration-in-partnership-programme?chapter=7) and one of 20 sites in [Southwark's Regeneration Partnership Programme (SRRP)](https://www.southwark.gov.uk/regeneration/southwark-regeneration-in-partnership-programme),its flagship council house delivery programme. Despite the [consultation process for this site promising 55% council homes](https://consultations.southwark.gov.uk/planning-and-regeneration/2nd-round-consultation-braganza-street-workshops/supporting_documents/Braganza%20Online.pdf), planning permission was granted last year for 33 new homes, 28 of which private, 5 intermediate and none social rent.
 
