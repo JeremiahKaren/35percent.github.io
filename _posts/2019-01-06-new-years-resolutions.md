@@ -42,15 +42,15 @@ If Southwark is serious about fulfilling its [manifesto promise](http://35percen
 ![](http://35percent.org/img/braganzascheme2.png)
 
 
-## 3. Stop buying S106 homes from developers
+## 4. Stop buying S106 homes from developers
 We have [blogged](http://35percent.org/2018-11-12-11000-council-homes-manifesto-pledge/#buying-affordable-housing-instead) previously about the council buying affordable housing from developers to help deliver on its failing manifesto pledge. The problem with this method of buying council housing is that it does not actually increase the net supply of social housing - the same units would otherwise have been bought and let by a housing association anyway. Further, Southwark is denying itself the benefit of the S106 contribution, by paying for something a housing association would have paid for anyway - and, rather perversely, denying itself funds for building units that would actually increase the net supply.
 
-## 4. Stop granting planning permission for schemes that don't comply with planning policy requirements
+## 5. Stop granting planning permission for schemes that don't comply with planning policy requirements
 Our [research into major developments](http://35percent.org/img/major-schemes) approved in Southwark over the past 10 years has shown that out of a total of 11,863 new homes given planning consent, just 456 (3.8%) were social rented tenure. Had Southwark stood firm and forced these schemes to comply with minimum policy requirements then 2,500 social rented homes would have been approved in total.
 
 ![](http://35percent.org/img/majschemes.png)
 
-## 5. Start monitoring and enforcing tenure requirements of Section 106 agreements
+## 6. Start monitoring and enforcing tenure requirements of Section 106 agreements
 In May 2015 we [discovered](https://www.southwarknews.co.uk/news/southwark-council-probes-44-missing-social-homes/) that Notting Hill Housing association had provided affordable rent (up to 80% market) as part of its Bermondsey Spa Regeneration scheme. Following this we discovered 43 further schemes where this tenure switch appears to have taken place. After the Council dismissed our complaint we referred it to the Ombudsman who, after a lengthy investigation concluded that the Council _"did not have a systematic supervision procedure to check compliance"_ with the tenure provision requirements of its section 106 agreements. Instead _"it relied on developers’ voluntary compliance."_ The Ombudsman ordered Southwark to conduct an audit of S106 tenure provision and introduce monitoring/compliance procedures. 
 
 ![](http://35percent.org/img/LGOFinalDecisionSOR.png)
@@ -59,15 +59,15 @@ The Council initially [promised](https://www.southwarknews.co.uk/news/gov-report
 
 ![](http://35percent.org/img/snauditpromise2.png)
 
-## 6. Canada Water and transparency
+## 7. Canada Water and transparency
 
 Southwark has made aa legendary committment on viability assessments. To be of any value this should extend to all development related documents, including development partnership agreements with private developers.  Released under FOI, heavily redacted - all financial and viability details, affordable housing provisions, pubic open space,, developer profit - screenshots 
 
-## 7. Keep Walworth Townhall
+## 8. Keep Walworth Townhall
 
 Refer to Courage Yard £89m 
 
-## 8. Treat Elephant traders fairly
+## 9. Treat Elephant traders fairly
 
 Perronet House rents to be same as Castle Sq.
 
