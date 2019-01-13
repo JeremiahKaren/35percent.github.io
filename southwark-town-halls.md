@@ -5,6 +5,7 @@ sharing: true
 footer: true
 published: true
 ---
+## Peckham Town Hall
 Peckham Town Hall served as Southwark's civic centre for all its meetings and core administrative functions for nearly half a century. In December 2014, Southwark's Labour administration [sold it](https://www.southwarknews.co.uk/news/town-halls-residence-students-move-former-southwark-town-hall-peckham/) [to a Jersey-based developer (Alumno Developments)](http://crappistmartin.github.io/images/LR_PeckhamTownHall.pdf). 
 
 ![](http://crappistmartin.github.io/images/PeckhamTownHall.jpg)
@@ -29,5 +30,7 @@ By 2014, Hollybrook had carved out 41 luxury apartments from the building, each 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/CKo8KxiJSdI" frameborder="0" allowfullscreen></iframe>
 
-Southwark's Town Halls are a concrete record of proud civic administrations and a leagacy of the days of municipal borough councils, when Southwark once had three town halls, in Peckham and Bermondsey as well as Walworth.  It is a sad irony that Walworth Town Hall now looks destined to join its sisters as private commercial developments.
+Southwark's Town Halls are a concrete record of proud civic administrations and a leagacy of the days of municipal borough councils, when Southwark once had three town halls, in Peckham and Bermondsey as well as Walworth.  It is a sad irony that, despite promises to keep it in public use after being damaged in a fire, Walworth Town Hall now [looks destined](https://www.southwarknews.co.uk/news/town-hall-plans-unfit-for-purpose-says-heritage-society/) to join its sister Town Halls as private commercial developments.
+
+![](https://www.london-se1.co.uk/news/imageuploads/1364655642_91.125.225.38.jpg)
 
