@@ -66,7 +66,7 @@ Southwark has made a [legendary committment](https://www.southwarknews.co.uk/new
 
 Following the [controversy](https://www.newstatesman.com/news/2013/02/southwark-accidentally-leaks-confidential-information) caused by the [publication](https://southwarknotes.files.wordpress.com/2013/02/ra.pdf) of the Heygate and the [Aylsebury regeneration agreements](https://www.theguardian.com/cities/2018/sep/12/london-council-aylesbury-estate-development-southwark-financial-risk), the Council needs to be fully transparent about the development partnership agreements it signs with developers.
 
-## 8. Keep Walworth Townhall
+## 8. Keep Walworth Town Hall in public ownership
 Having [sold off](http://35percent.org/southwark-town-halls) all Bermondsey and Peckham Town Halls, it was a relief when Southwark made a [solemn promise](http://www.southwark.gov.uk/news/article/1307/southwark_council_commits_to_restoring_the_walworth_town_hall) to restore Walworth Town Hall & library to public use after it was badly damaged by a fire in 2013.
 
 ![](http://35percent.org/img/wth.jpg)
