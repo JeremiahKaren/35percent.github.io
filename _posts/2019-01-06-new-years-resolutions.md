@@ -21,6 +21,7 @@ Southwark's justification for this is that the sales revenue allows more council
 .
 
 ![](http://35percent.org/img/buildcost.png)
+*Extract from [Council report](http://moderngov.southwarksites.com/ieDecisionDetails.aspx?ID=5887) on Kipling estate new builds*
 
 [£335k per home](http://moderngov.southwark.gov.uk/documents/s75190/Report%20Gateway%202%20-%20Contract%20Award%20Construction%20of%20New%20Build%20Units%20at%20Pelier%20Street.pdf)
 
