@@ -60,7 +60,10 @@ The Council initially [promised](https://www.southwarknews.co.uk/news/gov-report
 
 ## 7. Canada Water and transparency
 
-Southwark has made aa legendary committment on viability assessments. To be of any value this should extend to all development related documents, including development partnership agreements with private developers.  Released under FOI, heavily redacted - all financial and viability details, affordable housing provisions, pubic open space,, developer profit - screenshots 
+Southwark has made a [legendary committment](https://www.southwarknews.co.uk/news/southwark-councils-new-policy-will-stop-developers-copping-out-of-affordable-housing-obligations/) on viability assessments. To be of any value this should extend to all development related documents, including development partnership agreements with private developers.  [Released under FOI](https://www.whatdotheyknow.com/request/partnership_agreement_for_redeve#incoming-1281908), heavily redacted - all financial and viability details, affordable housing provisions, pubic open space,, developer profit - screenshots 
+
+![](http://35percent.org/img/cwdpa.png)
+*Extract from redacted partnership agreement*
 
 ## 8. Keep Walworth Townhall
 
