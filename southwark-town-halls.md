@@ -17,13 +17,17 @@ The building is now let as luxury student accommodation where a single room will
 
 ![](https://www.gold.ac.uk/media/images-by-section/life-on-campus/accommodation/new-halls-images-2018/camberwell/0C8A1029.jpg)
 
-## Moving upmarket from Peckham to London Bridge
-Meanwhile the Council [resolved](http://www.london-se1.co.uk/news/view/6493) to buy the plush glass-roof office block near London Bridge, that it had been renting (from a Guernsey-based developer) for the grand sum of £170m.
+## Bermondsey Town Hall 
 
-![](http://crappistmartin.github.io/images/tooleystreet.jpg)
+![](https://media.onthemarket.com/properties/2337629/img_0_2_ls.jpg) 
 
-Having funded the purchase by borrowing against its own reserves, the Council legitimately argued that it didn't have the funds to carry out Decent Homes works on the Heygate and Aylesbury estates. In 2015 it [announced](http://moderngov.southwark.gov.uk/documents/s59115/Policy%20and%20Resources%20Strategy%20201617%20to%20201819.pdf) that it was cutting £39m from its education and adult care services budget while [closing and selling off a number of care facilities](http://35percent.org/auctions/#selling-southwarks-adult-care-services).
+Bermondsey Town Hall was [sold off](http://crappistmartin.github.io/images/LR_bermondseytownhall.pdf) in December 2012 to developers Hollybrook Ltd, for the knock-down price of £4 million. 
 
-![](http://35percent.org/img/carehomesshutdown.jpg)
+![](http://crappistmartin.github.io/images/LR_bermondseytownhall.png) 
 
-Such has been the nature of austerity under Southwark's post-2010 Labour administration. 
+By 2014, Hollybrook had carved out 41 luxury apartments from the building, each selling for over a million pounds; a promo video gives prospective buyers a guided tour:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/CKo8KxiJSdI" frameborder="0" allowfullscreen></iframe>
+
+Southwark's Town Halls are a concrete record of proud civic administrations and a leagacy of the days of municipal borough councils, when Southwark once had three town halls, in Peckham and Bermondsey as well as Walworth.  It is a sad irony that Walworth Town Hall now looks destined to join its sisters as private commercial developments.
+
