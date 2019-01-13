@@ -58,12 +58,13 @@ The Council initially [promised](https://www.southwarknews.co.uk/news/gov-report
 
 ![](http://35percent.org/img/snauditpromise2.png)
 
-## 7. Canada Water and transparency
-
+## 7. Be transparent about development partnership agreements
 Southwark has made a [legendary committment](https://www.southwarknews.co.uk/news/southwark-councils-new-policy-will-stop-developers-copping-out-of-affordable-housing-obligations/) on viability assessments. To be of any value this should extend to all development related documents, including development partnership agreements with private developers. In October last year we requested a copy of the Council's partnership agreement with British Land for the [gargantuan Canada Water redevelopment plans](http://35percent.org/canada-water/#british-land-masterplan-site) (46 acres of Council freehold land, more than 3000 new homes). After two and a half months it was [released](https://www.whatdotheyknow.com/request/partnership_agreement_for_redeve#incoming-1281908), in heavily redacted form - all financial and viability details, affordable housing provisions, pubic open space requirements and developer's protected profit levels were completely redacted. 
 
 ![](http://35percent.org/img/cwdpa.png)
 *Extract from redacted partnership agreement*
+
+Following the [controversy](https://www.newstatesman.com/news/2013/02/southwark-accidentally-leaks-confidential-information) caused by the [publication](https://southwarknotes.files.wordpress.com/2013/02/ra.pdf) of the Heygate and the [Aylsebury regeneration agreements](https://www.theguardian.com/cities/2018/sep/12/london-council-aylesbury-estate-development-southwark-financial-risk), the Council needs to be fully transparent about the development partnership agreements it signs with developers.
 
 ## 8. Keep Walworth Townhall
 Having [sold off](http://35percent.org/southwark-town-halls) all Bermondsey and Peckham Town Halls, it was a relief when Southwark made a [solemn promise](http://www.southwark.gov.uk/news/article/1307/southwark_council_commits_to_restoring_the_walworth_town_hall) to restore Walworth Town Hall & library to public use after it was badly damaged by a fire in 2013.
