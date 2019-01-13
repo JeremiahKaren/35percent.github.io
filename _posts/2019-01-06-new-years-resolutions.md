@@ -18,12 +18,11 @@ We don't know how many council homes have been sold under this policy to date, b
 
 Southwark's justification for this is that the sales revenue allows more council housing to be built more cheaply elsewhere in the borough, but the cost of building new social rented homes is surprisingly high and can [exceed the £300,000 threshold]().  The [Mayor's most recent annual monitoring report](https://www.london.gov.uk/sites/default/files/amr_14_final_20180927.pdf) shows a net gain of just 84 social rented homes in the three years to 2016/17.
 
-.
-
 ![](http://35percent.org/img/buildcost.png)
 *Extract from [Council report](http://moderngov.southwarksites.com/ieDecisionDetails.aspx?ID=5887) on Kipling estate new builds*
 
-[£335k per home](http://moderngov.southwark.gov.uk/documents/s75190/Report%20Gateway%202%20-%20Contract%20Award%20Construction%20of%20New%20Build%20Units%20at%20Pelier%20Street.pdf)
+![](http://35percent.org/img/pelierpsqm.png)
+*Extract from [Council report](http://moderngov.southwark.gov.uk/documents/s75190/Report%20Gateway%202%20-%20Contract%20Award%20Construction%20of%20New%20Build%20Units%20at%20Pelier%20Street.pdf) on Pelier estate new builds*
 
 ## 2. Stop selling off public land and buildings
 Southwark's 'modernisation' drive has also seen it sell off public buildings and land including [both Bermondsey and Peckham Town Halls](http://35percent.org/southwark-town-halls/); Harper Rd Social Services Centre; Castle Day Centre; Whitstable Day Nursery; Abbey St Children's Home; Willowbrook Community Centre and the Wansey St Homeless Hostel.
