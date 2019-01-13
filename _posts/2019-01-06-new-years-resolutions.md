@@ -41,12 +41,12 @@ If Southwark is serious about fulfilling its [manifesto promise](http://35percen
 
 ![](http://35percent.org/img/braganzascheme2.png)
 
-## 5. Stop granting planning permission for schemes that don't comply with planning policy requirements
+## 4. Stop granting planning permission for schemes that don't comply with planning policy requirements
 Our [research into major developments](http://35percent.org/img/major-schemes) approved in Southwark over the past 10 years has shown that out of a total of 11,863 new homes given planning consent, just 456 (3.8%) were social rented tenure. Had Southwark stood firm and forced these schemes to comply with minimum policy requirements then 2,500 social rented homes would have been approved in total.
 
 ![](http://35percent.org/img/majschemes.png)
 
-## 4. Stop buying S106 homes from developers
+## 5. Stop buying S106 homes from developers
 We have [blogged](http://35percent.org/2018-11-12-11000-council-homes-manifesto-pledge/#buying-affordable-housing-instead) previously about the council buying affordable housing from developers to help deliver on its failing manifesto pledge. The problem with this method of buying council housing is that it does not actually increase the net supply of social housing - the same units would otherwise have been bought and let by a housing association anyway. Further, Southwark is denying itself the benefit of the S106 contribution, by paying for something a housing association would have paid for anyway - and, rather perversely, denying itself funds for building units that would actually increase the net supply.
 
 ## 6. Start monitoring and enforcing tenure requirements of Section 106 agreements
@@ -60,7 +60,7 @@ The Council initially [promised](https://www.southwarknews.co.uk/news/gov-report
 
 ## 7. Canada Water and transparency
 
-Southwark has made a [legendary committment](https://www.southwarknews.co.uk/news/southwark-councils-new-policy-will-stop-developers-copping-out-of-affordable-housing-obligations/) on viability assessments. To be of any value this should extend to all development related documents, including development partnership agreements with private developers.  [Released under FOI](https://www.whatdotheyknow.com/request/partnership_agreement_for_redeve#incoming-1281908), heavily redacted - all financial and viability details, affordable housing provisions, pubic open space,, developer profit - screenshots 
+Southwark has made a [legendary committment](https://www.southwarknews.co.uk/news/southwark-councils-new-policy-will-stop-developers-copping-out-of-affordable-housing-obligations/) on viability assessments. To be of any value this should extend to all development related documents, including development partnership agreements with private developers. In October last year we requested a copy of the Council's partnership agreement with British Land for the [gargantuan Canada Water redevelopment plans](http://35percent.org/canada-water/#british-land-masterplan-site) (46 acres of Council freehold land, more than 3000 new homes). After two and a half months it was [released](https://www.whatdotheyknow.com/request/partnership_agreement_for_redeve#incoming-1281908), in heavily redacted form - all financial and viability details, affordable housing provisions, pubic open space requirements and developer's protected profit levels were completely redacted. 
 
 ![](http://35percent.org/img/cwdpa.png)
 *Extract from redacted partnership agreement*
@@ -76,19 +76,13 @@ Perronet House rents to be same as Castle Sq.
  
 
 ## 6. Stop wasting money trying to gentrify Southwark
-Mountview Academy given plot of land behind Peckham library and a 24m interest free loan plus 2m grant to build new (private) drama school. Fees are xx per year for an undergrad and xx per year for postgraduate study at the school. Besides a few low-cost oversubscribed Saturday morning drama classes this is not a...
+Mountview Academy given plot of land behind Peckham library and a 24m interest free loan plus 2m grant to build new (private) drama school. Fees are £13k per year for an undergrad and £17k per year for postgraduate study at the school. Besides a few low-cost oversubscribed Saturday morning drama classes this academy offers little for local people. £26m of Council money for the establishment of a school focused on let’s face it, a very middle class and very white profession, raises questions of engagement with the mostly working class and minority ethnic communities of Peckham.
 
 ![](http://35percent.org/img/mview.jpg)
 
-
-
 At the same time as finding 26m for Mountview Southwark claims that it hasn't got any money to refurbish Walworth Town Hall.
 
-Mountview board includes Lady Susan Chinn, wife of [Labour donor Sir Trevor Chinn](https://www.totalpolitics.com/articles/news/sir-trevor-chinn-becomes-latest-labour-donor-fund-dan-jarvis-machine), Sir Brendan Barbour, Vikki Heywood (CBE) and [Eddie Marsan](https://twitter.com/eddiemarsan).
-
-Mountview not even [Living Wage employer](https://www.livingwage.org.uk/accredited-living-wage-employers)
-
-the establishment of a school focused on a let’s face it, very middle class and very white profession, raises questions of engagement with the mostly working class and minority ethnic communities of Peckham.
+Mountview board includes some high-profile Labour party supporters including Lady Susan Chinn, wife of [Labour donor Sir Trevor Chinn](https://www.totalpolitics.com/articles/news/sir-trevor-chinn-becomes-latest-labour-donor-fund-dan-jarvis-machine), Sir Brendan Barbour, Vikki Heywood (CBE) and [Eddie Marsan](https://twitter.com/eddiemarsan).
 
 ## 7. Stop buying speculative commercial developments from developers
 Shortly before Christmas, Southwark's Cabinet agreed to the purchase of 'Courage Yard', a commercial development next door to Council leader Peter John's residence in Shad Thames. SE1 website [reports](https://www.london-se1.co.uk/news/view/9791) that the Council is paying £89m for the site - nearly twice what the current owner paid for it in 2015.
