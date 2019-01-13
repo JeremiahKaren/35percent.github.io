@@ -5,25 +5,27 @@ title: New Years Resolutions
 subtitle: Ten things Southwark Council should do in 2019
 date: '2019-01-14'
 ---
-To welcome the New Year and in a spirit of fraternity we have come up with ten things that Southwark Council can consider in order to ease the effects of the housing crisis and create a fairer future for the borough's residents.
+To welcome the New Year in a spirit of fraternity we have come up with ten things that Southwark Council can consider in order to ease the effects of the housing crisis and create a fairer future for the borough's residents.
 
 ## 1. Stop selling off Council homes
 [Research](http://www.londontenants.org/publications/other/Boroughs%20SR%20loss%20or%20gain%202001-17%20(FF4).jpg) by the [London Tenants Federation](http://londontenants.org) shows that Southwark has lost more social housing than any other borough since 2001.
 
 As well as [right to buy and estate demolitions](http://35percent.org/the-southwark-clearances/), homes are also being lost through the sale of 'high value' properties, introduced in 2009, Southwark's Tory/Lib Dem administration for vacant council homes valued above £400,000. In 2011 this was [reviewed and reduced to £300,000](http://moderngov.southwark.gov.uk/documents/s19458/Report%20Review%20of%20Void%20Disposal%20Strategy.pdf) by the incoming Labour administration.
 
-We don't know how many council homes have been sold under this policy to date, but [this compilation](http://35percent.org/img/sold_by_southwark.pdf) taken from auction websites shows a sample of over 50 properties sold off in this [ongoing policy of disposals](http://moderngov.southwark.gov.uk/ieDecisionDetails.aspx?AIId=48244).
+We don't know how many council homes have been sold under this policy to date, but [this compilation](http://35percent.org/img/sold_by_southwark.pdf) taken from an auction website shows a sample of over 50 properties sold off in this [ongoing policy of disposals](http://moderngov.southwark.gov.uk/ieDecisionDetails.aspx?AIId=48244).
 
 ![](http://35percent.org/img/samplecouncilhomessold.png)
-*A [sample](/sold_by_southwark.pdf) of hundreds of council homes sold by the current Labour administration under this policy*
+*Extracts from a [sample](/sold_by_southwark.pdf) of council homes sold by the current Labour administration under this policy*
 
-Southwark's justification for this is that the sales revenue allows more council housing to be built more cheaply elsewhere in the borough, but the cost of building new social rented homes is surprisingly high and can [exceed the £300,000 threshold]().  The [Mayor's most recent annual monitoring report](https://www.london.gov.uk/sites/default/files/amr_14_final_20180927.pdf) shows a net gain of just 84 social rented homes in the three years to 2016/17.
+Southwark's justification for this is that the sales revenue allows more council housing to be built more cheaply elsewhere in the borough, but the cost of building new social rented homes is surprisingly high and can exceed the £300,000 threshold:
 
 ![](http://35percent.org/img/buildcost.png)
 *Extract from [Council report](http://moderngov.southwarksites.com/ieDecisionDetails.aspx?ID=5887) on Kipling estate new builds*
 
 ![](http://35percent.org/img/pelierpsqm.png)
 *Extract from [Council report](http://moderngov.southwark.gov.uk/documents/s75190/Report%20Gateway%202%20-%20Contract%20Award%20Construction%20of%20New%20Build%20Units%20at%20Pelier%20Street.pdf) on Pelier estate new builds*
+
+As we [reported previously](http://35percent.org/2018-11-12-11000-council-homes-manifesto-pledge/) the Council is still selling off or knocking down Council homes faster than it is building them.
 
 ## 2. Stop selling off public land and buildings
 Southwark's 'modernisation' drive has also seen it sell off public buildings and land including [both Bermondsey and Peckham Town Halls](http://35percent.org/southwark-town-halls/); Harper Rd Social Services Centre; Castle Day Centre; Whitstable Day Nursery; Abbey St Children's Home; Willowbrook Community Centre and the Wansey St Homeless Hostel.
