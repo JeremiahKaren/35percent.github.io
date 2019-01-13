@@ -68,11 +68,13 @@ Southwark has made a [legendary committment](https://www.southwarknews.co.uk/new
 ## 8. Keep Walworth Townhall
 Having [sold off](http://35percent.org/southwark-town-halls) all Bermondsey and Peckham Town Halls, it was a relief when Southwark made a [solemn promise](http://www.southwark.gov.uk/news/article/1307/southwark_council_commits_to_restoring_the_walworth_town_hall) to restore Walworth Town Hall & library to public use after it was badly damaged by a fire in 2013.
 
+![](http://35percent.org/img/wth.jpg)
+
 It was disappointing but nonetheless unsurprising that Southwark has now gone back on that promise, claiming that it doesn't have the funds to restore the Town Hall back into public use.
 
 The Walworth Society is objecting to the Council's current plan to privatise it and [makes the very good point](https://walworthsociety.co.uk/index.php/2-uncategorised/262-walworth-town-hall-redevelopment) that if the two shortlisted developers _"are able to redevelop the Town Hall buildings for up to £20 million and then make a profit from them with a commercial development, why could not Southwark redevelop them for a similar amount and include a significant proportion of commercial usage."_
 
-## 9. Stop giving money away to 
+## 9. Stop giving money away
 While it argues that it doesn't have enough money to restore Walworth Town Hall, the Council has given plot of land behind Peckham library and a £24m interest-free (at cost) loan plus 2m grant to build a new headquarters for [Mountview Academy](http://mountview.org.uk) - a private drama academy. [Fees](https://www.mountview.org.uk/courses/) are £13k per year for an undergrad and £17k per year for postgraduate study at the school. Besides a few [low-cost Saturday morning drama classes](https://www.mountview.org.uk/whats-on/take-part/saturday-classes/) this academy offers little for local people. £26m of Council money for the establishment of a school focused on let’s face it, a very middle class and very white profession, raises questions of engagement with the mostly working class and minority ethnic communities of Peckham.
 
 ![](http://35percent.org/img/mview.jpg)
