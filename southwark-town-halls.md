@@ -28,7 +28,7 @@ Bermondsey Town Hall was [sold off](http://crappistmartin.github.io/images/LR_be
 
 By 2014, Hollybrook had carved out 41 luxury apartments from the building, each selling for over a million pounds; a promo video gives prospective buyers a guided tour:
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/CKo8KxiJSdI" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/CKo8KxiJSdI" align="center" frameborder="0" allowfullscreen></iframe>
 
 Southwark's Town Halls are a concrete record of proud civic administrations and a leagacy of the days of municipal borough councils, when Southwark once had three town halls, in Peckham and Bermondsey as well as Walworth.  It is a sad irony that, despite promises to keep it in public use after being damaged in a fire, Walworth Town Hall now [looks destined](https://www.southwarknews.co.uk/news/town-hall-plans-unfit-for-purpose-says-heritage-society/) to join its sister Town Halls as private commercial developments.
 
