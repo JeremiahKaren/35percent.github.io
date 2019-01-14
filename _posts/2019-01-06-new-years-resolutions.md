@@ -92,10 +92,10 @@ The Walworth Society is objecting to the Council's current plan to privatise it 
 
 
 ## 9. Reconsider its funding choices?
-While Southwark argues that it doesn't have enough money to restore Walworth Town Hall, shortly before Christmas, Southwark's Cabinet agreed to the purchase of 'Courage Yard', a commercial development in Shad Thames. SE1 website [reports](https://www.london-se1.co.uk/news/view/9791) that the Council is paying £89m for the site - nearly twice what the current owner paid for it in 2015.
+While Southwark argues that it doesn't have enough money to restore Walworth Town Hall, shortly before Christmas Southwark's Cabinet agreed to the purchase of 'Courage Yard', a commercial development in Shad Thames. SE1 website [reports](https://www.london-se1.co.uk/news/view/9791) that the Council is paying £89m for the site - nearly twice what the current owner paid for it in 2015.
 
 According to [this Council report](http://moderngov.southwark.gov.uk/documents/s76412/Report%20Treasury%20Management%20Outturn.pdf) (para 21) Southwark owns £232m worth of such commercial investments, which currently provides a net total of £9.2m per year in revenue (3.9% return), but this appears to be less than the amount it is paying in interest on its debt - 4.6% interest on £563m (para 41). 
 
-Southwark is also spending [£10m per year](https://www.southwarknews.co.uk/news/council-spend-temporary-housing-now-five-times-20112012/) on bed & breakfast accommodation for its homeless residents, so, refurbishing Walworth Town Hall, reducing debt, or reducing temporary accommodation costs, by building more quickly, more council houses all seem plausible alternatives for spending £89m.
+Southwark is also spending [£10m per year](https://www.southwarknews.co.uk/news/council-spend-temporary-housing-now-five-times-20112012/) on bed & breakfast accommodation for its homeless residents, so, refurbishing Walworth Town Hall, reducing debt, or reducing temporary accommodation costs, by building, more council houses, more quickly, all seem plausible alternatives for spending £89m.
 
 Southwark has a large and diverse number of assests, which need to managed in a prudent manner, but Southwark remains first and foremost a public local government authority, not a speculative commercial building developer. 
