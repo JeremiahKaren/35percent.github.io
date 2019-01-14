@@ -81,7 +81,7 @@ Having [sold off](http://35percent.org/southwark-town-halls) all Bermondsey and 
 
 ![](http://35percent.org/img/wth.jpg)
 
-It is therefor disappointing, but maybe unsurprising, that Southwark has now gone back on that promise, claiming that it doesn't have the funds to restore the Town Hall back into public use.
+It is therefore disappointing, but maybe unsurprising, that Southwark has now gone back on that promise, claiming that it doesn't have the funds to restore the Town Hall back into public use.
 
 The Walworth Society is objecting to the Council's current plan to privatise it and [makes the very good point](https://walworthsociety.co.uk/index.php/2-uncategorised/262-walworth-town-hall-redevelopment) that if the two shortlisted developers _"are able to redevelop the Town Hall buildings for up to £20 million and then make a profit from them with a commercial development, why could not Southwark redevelop them for a similar amount and include a significant proportion of commercial usage."_ [Consultation on this runs to 21 Jan](https://consultations.southwark.gov.uk/planning-and-regeneration/wthbids/); this is a link to the Walworth Society [objections](https://walworthsociety.co.uk/index.php/2-uncategorised/262-walworth-town-hall-redevelopment).
 
