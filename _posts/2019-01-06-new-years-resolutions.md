@@ -1,7 +1,7 @@
 ---
 layout: post
 published: true
-title: New Year's Resolutions
+title: 2019 - New Year's Resolutions
 subtitle: Ten things Southwark Council should do in 2019
 date: '2019-01-14'
 ---
