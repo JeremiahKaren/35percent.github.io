@@ -62,7 +62,7 @@ The Council initially [promised](https://www.southwarknews.co.uk/news/gov-report
 ![](http://35percent.org/img/snauditpromise2.png)
 
 ## 7. Make development partnership agreements public
-Southwark has made an often repeated [committment](https://www.southwarknews.co.uk/news/southwark-councils-new-policy-will-stop-developers-copping-out-of-affordable-housing-obligations/) to transparent viability assessments.  This transparency should be extended to all development related documents, including development partnership agreements with private developers.  These contain the same categories of information as viability assessments and determine the public benefits a scheme will deliver.
+Southwark has made an often repeated [committment](https://www.southwarknews.co.uk/news/southwark-councils-new-policy-will-stop-developers-copping-out-of-affordable-housing-obligations/) to transparent viability assessments.  This transparency should be extended to all development related documents, including development partnership agreements (DPAs) with private developers.  These contain the same categories of information as viability assessments and determine the public benefits a scheme will deliver.
 
 Last October we requested a copy of the Council's partnership agreement with British Land for the [gargantuan Canada Water redevelopment plans](http://35percent.org/canada-water/#british-land-masterplan-site) (46 acres of Council freehold land, more than 3000 new homes). After two and a half months it was [released](https://www.whatdotheyknow.com/request/partnership_agreement_for_redeve#incoming-1281908), in heavily redacted form - all financial and viability details, affordable housing provisions, pubic open space requirements and developer's protected profit levels are completely redacted. 
 
@@ -77,7 +77,11 @@ Amongst the unredacted information is a reference to _"Seymour Street Homes Ltd"
 *Extract from the [redacted partnership agreement](https://www.whatdotheyknow.com/request/partnership_agreement_for_redeve#incoming-1281908)*
 
 
-Following the [controversy](https://www.newstatesman.com/news/2013/02/southwark-accidentally-leaks-confidential-information) caused by the [publication](https://southwarknotes.files.wordpress.com/2013/02/ra.pdf) of the Heygate and the [Aylsebury regeneration agreements](https://www.theguardian.com/cities/2018/sep/12/london-council-aylesbury-estate-development-southwark-financial-risk), the Council needs to be fully open and transparent about the development partnership agreements it enters into with developers.
+DPAs such as that for Canada Water are invariably for big and controversial developements, as witnessed by the [publication](https://southwarknotes.files.wordpress.com/2013/02/ra.pdf) of the [Heygate](https://www.newstatesman.com/news/2013/02/southwark-accidentally-leaks-confidential-information) and the [Aylsebury regeneration agreements](https://www.theguardian.com/cities/2018/sep/12/london-council-aylesbury-estate-development-southwark-financial-risk).  If the Council and developers are to persuade the public of the benefit of such schems then they must be fully open and transparent about their development partnership agreements.
+
+DPAs such as that for Canada Water are invariably for big and controversial developements, as the [controversy](https://www.newstatesman.com/news/2013/02/southwark-accidentally-leaks-confidential-information) caused by the [publication](https://southwarknotes.files.wordpress.com/2013/02/ra.pdf) of the Heygate and the [Aylsebury regeneration agreements](https://www.theguardian.com/cities/2018/sep/12/london-council-aylesbury-estate-development-southwark-financial-risk), the Council needs to be fully open and transparent about the development partnership agreements it enters into with developers.
+
+
 
 ## 8. Keep Walworth Town Hall in public ownership
 Having [sold off](http://35percent.org/southwark-town-halls) all Bermondsey and Peckham Town Halls, it was a relief when Southwark made a [solemn promise](http://www.southwark.gov.uk/news/article/1307/southwark_council_commits_to_restoring_the_walworth_town_hall) to restore Walworth Town Hall & library to public use after it was badly damaged by a fire in 2013.
