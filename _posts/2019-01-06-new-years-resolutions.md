@@ -87,12 +87,12 @@ Having [sold off](http://35percent.org/southwark-town-halls) all Bermondsey and 
 
 ![](http://35percent.org/img/wth.jpg)
 
-It was disappointing but nonetheless unsurprising that Southwark has now gone back on that promise, claiming that it doesn't have the funds to restore the Town Hall back into public use.
+It is therefor disappointing but maybe unsurprising that Southwark has now gone back on that promise, claiming that it doesn't have the funds to restore the Town Hall back into public use.
 
 The Walworth Society is objecting to the Council's current plan to privatise it and [makes the very good point](https://walworthsociety.co.uk/index.php/2-uncategorised/262-walworth-town-hall-redevelopment) that if the two shortlisted developers _"are able to redevelop the Town Hall buildings for up to £20 million and then make a profit from them with a commercial development, why could not Southwark redevelop them for a similar amount and include a significant proportion of commercial usage."_
 
-## 9. Stop giving public land and funds to 
-While it argues that it doesn't have enough money to restore Walworth Town Hall, the Council has given a plot of land behind Peckham library and a £24m interest-free (at cost) loan plus 2m grant to [Mountview Academy](http://mountview.org.uk), in order for it to build a new (private) drama academy. [Fees](https://www.mountview.org.uk/courses/) are £13k per year for an undergraduate degree and £17k per year for postgraduate study at the school. Besides a few [low-cost Saturday morning drama classes](https://www.mountview.org.uk/whats-on/take-part/saturday-classes/) the deal offers little for local people. £26m of Council money for the establishment of a school focused on let’s face it, a very middle class and very white profession, raises questions of engagement with the mostly working class and minority ethnic communities of Peckham.
+## 9. Reconsider its funding choices.. 
+While Southwark argues that it doesn't have enough money to restore Walworth Town Hall, it was able to give a plot of land behind Peckham library and a £24m interest-free (at cost) loan, plus £2m grant to [Mountview Academy](http://mountview.org.uk), in order for it to build a new (private) drama academy. [Fees](https://www.mountview.org.uk/courses/) are £13k per year for an undergraduate degree and £17k per year for postgraduate study at the school. Besides a few [low-cost Saturday morning drama classes](https://www.mountview.org.uk/whats-on/take-part/saturday-classes/) the deal appears to offer little for local people.
 
 ![](http://35percent.org/img/mview.jpg)
 
