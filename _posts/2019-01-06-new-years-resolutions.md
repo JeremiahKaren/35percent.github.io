@@ -10,7 +10,7 @@ To welcome the New Year in a spirit of fraternity we have come up with ten thing
 ## 1. Stop selling off Council homes
 [Research](http://www.londontenants.org/publications/other/Boroughs%20SR%20loss%20or%20gain%202001-17%20(FF4).jpg) by the [London Tenants Federation](http://londontenants.org) shows that Southwark has lost more social housing than any other borough since 2001.
 
-As well as [right to buy and estate demolitions](http://35percent.org/the-southwark-clearances/), homes are also being lost through the sale of 'high value' coumcil homes, through a scheme that was introduced in 2009, by Southwark's Tory/Lib Dem administration for vacant council houses valued above £400,000 . In 2011 the value was [reviewed and reduced to £300,000](http://moderngov.southwark.gov.uk/documents/s19458/Report%20Review%20of%20Void%20Disposal%20Strategy.pdf) by the incoming Labour administration.
+As well as [right to buy and estate demolitions](http://35percent.org/the-southwark-clearances/), homes are also being lost through the sale of 'high value' coumcil homes, through a scheme that was introduced in 2009, by Southwark's Tory/Lib Dem administration, for vacant council houses valued above £400,000 . In 2011 the value was [reviewed and reduced to £300,000](http://moderngov.southwark.gov.uk/documents/s19458/Report%20Review%20of%20Void%20Disposal%20Strategy.pdf) by the incoming Labour administration.
 
 We don't know how many council homes have been sold under this policy to date, but [this compilation](http://35percent.org/img/sold_by_southwark.pdf) taken from an auction website shows a sample of over 50 properties sold off in this [ongoing policy of disposals](http://moderngov.southwark.gov.uk/ieDecisionDetails.aspx?AIId=48244).
 
