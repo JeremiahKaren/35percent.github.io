@@ -77,9 +77,8 @@ Amongst the unredacted information is a reference to _"Seymour Street Homes Ltd"
 *Extract from the [redacted partnership agreement](https://www.whatdotheyknow.com/request/partnership_agreement_for_redeve#incoming-1281908)*
 
 
-Development partnership agreements, such as that for Canada Water, are invariably for big and controversial schemes, as witnessed by the [publication](https://southwarknotes.files.wordpress.com/2013/02/ra.pdf) of the [Heygate](https://www.newstatesman.com/news/2013/02/southwark-accidentally-leaks-confidential-information) and the [Aylsebury regeneration agreements](https://www.theguardian.com/cities/2018/sep/12/london-council-aylesbury-estate-development-southwark-financial-risk).  If the Council and developers are to persuade the public of the benefit of such schems then they must be fully open and transparent about their development partnership agreements.
 
-DPAs such as that for Canada Water are invariably for big developements, and if the Southwark wants to avoid the [controversies](https://www.newstatesman.com/news/2013/02/southwark-accidentally-leaks-confidential-information) caused by the [publication](https://southwarknotes.files.wordpress.com/2013/02/ra.pdf) of the Heygate and the [Aylsebury regeneration agreements](https://www.theguardian.com/cities/2018/sep/12/london-council-aylesbury-estate-development-southwark-financial-risk), it should be fully open and transparent about the development partnership agreements it enters into with developers.
+Development partnership agreements like the one for Canada Water, are invariably for big developements, and if Southwark wants to avoid the [controversies](https://www.newstatesman.com/news/2013/02/southwark-accidentally-leaks-confidential-information) caused by the [publication](https://southwarknotes.files.wordpress.com/2013/02/ra.pdf) of the Heygate and the [Aylsebury regeneration agreements](https://www.theguardian.com/cities/2018/sep/12/london-council-aylesbury-estate-development-southwark-financial-risk), it should be fully open and transparent about the agreements it makes with developers.
 
 
 
