@@ -1,11 +1,11 @@
 ---
 layout: post
 published: true
-title: New Years Resolutions
+title: New Year's Resolutions
 subtitle: Ten things Southwark Council should do in 2019
 date: '2019-01-14'
 ---
-To welcome the New Year in a spirit of fraternity we have come up with ten things that Southwark Council can consider in order to ease the effects of the housing crisis and create a fairer future for the borough's residents.
+To welcome the New Year and in a spirit of fraternity we have come up with ten actions that Southwark Council can consider taking, in order to ease the effects of the housing crisis and create a fairer future for the borough's residents.
 
 ## 1. Stop selling off Council homes
 [Research](http://www.londontenants.org/publications/other/Boroughs%20SR%20loss%20or%20gain%202001-17%20(FF4).jpg) by the [London Tenants Federation](http://londontenants.org) shows that Southwark has lost more social housing than any other borough since 2001.
