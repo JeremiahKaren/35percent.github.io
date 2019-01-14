@@ -98,7 +98,7 @@ According to [this Council report](http://moderngov.southwark.gov.uk/documents/s
 
 Southwark is also spending [£10m per year](https://www.southwarknews.co.uk/news/council-spend-temporary-housing-now-five-times-20112012/) on bed & breakfast accommodation for its homeless residents, so, refurbishing Walworth Town Hall, reducing debt, or reducing temporary accommodation costs, by building more council houses, more quickly, all seem plausible alternatives for spending £89m.
 
-Southwark has a large and diverse number of assests, which need to managed in a prudent manner, but Southwark remains first and foremost a public local government authority, not a speculative commercial building developer.
+Southwark has a large and diverse number of assests, which need to managed in a prudent manner, but Southwark remains first and foremost a local government authority, not a speculative property developer.
 
 ## 10. Treat the traders at the Elephant shopping centre fairly
 Elephant shopping centre developer Delancey finally secured [approval of Castle Sq](https://twitter.com/LatinElephant?ref_src=twsrc%5Etfw%7Ctwcamp%5Eembeddedtimeline%7Ctwterm%5Eprofile%3ALatinElephant&ref_url=https%3A%2F%2Flatinelephant.org%2F), the temporary facility for displaced shopping centre traders last Monday, after making a [last minute concession](https://twitter.com/uptheelephant_?lang=en) reducing the rents to £18 and £24psf; a significant victory for traders and campaigners, to join at least two others - the provision of Castle Sq itself and the increase in social rented housing from 33 to 116 units.
