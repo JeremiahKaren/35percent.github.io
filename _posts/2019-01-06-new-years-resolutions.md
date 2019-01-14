@@ -94,7 +94,7 @@ The Walworth Society is objecting to the Council's current plan to privatise it 
 ## 9. Reconsider its funding choices - 1? 
 While Southwark argues that it doesn't have enough money to restore Walworth Town Hall, it was able to give a plot of land behind Peckham library and a £24m interest-free (at cost) loan, plus £2m grant to [Mountview Academy](http://mountview.org.uk), in order for it to build a new (private) drama academy. 
 
-While Mountview has good intentions and might open up otherwise unavailable [opportunities] (https://www.mountview.org.uk/whats-on/take-part/saturday-classes/) to local young people, [fees](https://www.mountview.org.uk/courses/) are £13k per year for an undergraduate degree and £17k per year for postgraduate study at the school. 
+While Mountview has good intentions and might open up otherwise unavailable [opportunities] (https://www.mountview.org.uk/whats-on/take-part/saturday-classes/) to local young people, we wonder whether this is the best way to do so, given [fees](https://www.mountview.org.uk/courses/) are £13k per year for an undergraduate degree and £17k per year for postgraduate study at the school. 
 
 ![](http://35percent.org/img/mview.jpg)
 
