@@ -103,6 +103,6 @@ Southwark has a large and diverse number of assests, which need to managed in a 
 ## 10. Treat the traders at the Elephant shopping centre fairly
 Elephant shopping centre developer Delancey finally secured approval of Castle Sq, the temporary facility for displaced shopping centre traders last Monday, after making a last minute concession reducing the rents to £18 and £24psf; a significant victory for traders and campaigners, to join at least two others - the provision of Castle Sq itself and the increase in social rented housing from 33 to 116 units.
 
-However Castle Sq is much too small and many traders will be looking alernative premises alternatives, such as new units at the bottom of Perronet House, over the road from the Bakerloo line tube station.  These are also not ideal, but as the landlord, Southwark could make traders lives a lot easier by charging rents no greater than those Delancey will be charging 
+However Castle Sq is much too small and many traders will be looking alternative premises, such as new units at the bottom of Perronet House, over the road from the Bakerloo line tube station.  These are also not ideal, but as the landlord, Southwark could make traders lives a lot easier by charging rents no greater than those Delancey will be charging 
 
 (We will be writing more on the whole shopping centre redevelopment shortly.) 
