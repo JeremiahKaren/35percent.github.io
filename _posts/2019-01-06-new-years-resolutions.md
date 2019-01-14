@@ -104,3 +104,9 @@ Elephant shopping centre developer Delancey has finally secured [approval of Cas
 However, Castle Sq is much too small and many traders will be looking at alternative premises, such as new units at the bottom of [Perronet House](https://www.southwark.gov.uk/assets/attach/4502/Perronet%20Garages%20Consultation%20Boards%20Low%20Res.pdf), over the road from the Bakerloo line tube station.  These are also [not ideal](https://www.london-se1.co.uk/news/view/9676), but as the landlord, Southwark could make traders lives a lot easier by charging rents no greater than those Delancey will be charging.
 
 (We will be writing more on the whole shopping centre redevelopment shortly.)
+
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:title" content="New Year Resolutions for 2019" />
+<meta name="twitter:description" content="Ten positive changes Southwark Council could make in 2019 " />
+<meta name="twitter:image" content="http://35percent.org/img/resolutions.png" />
+
