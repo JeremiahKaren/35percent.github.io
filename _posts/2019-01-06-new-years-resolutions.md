@@ -92,7 +92,7 @@ The Walworth Society is objecting to the Council's current plan to privatise it 
 
 
 ## 9. Reconsider its funding choices?
-Shortly before Christmas, Southwark's Cabinet agreed to the purchase of 'Courage Yard', a commercial development next door to Council leader Peter John's residence in Shad Thames. SE1 website [reports](https://www.london-se1.co.uk/news/view/9791) that the Council is paying £89m for the site - nearly twice what the current owner paid for it in 2015.
+While Southwark argues that it doesn't have enough money to restore Walworth Town Hall, shortly before Christmas, Southwark's Cabinet agreed to the purchase of 'Courage Yard', a commercial development in Shad Thames. SE1 website [reports](https://www.london-se1.co.uk/news/view/9791) that the Council is paying £89m for the site - nearly twice what the current owner paid for it in 2015.
 
 According to [this Council report](http://moderngov.southwark.gov.uk/documents/s76412/Report%20Treasury%20Management%20Outturn.pdf) (para 21) Southwark owns £232m worth of such commercial investments, which currently provide a total of £9.2m per year in revenue (3.9% return). 
 
