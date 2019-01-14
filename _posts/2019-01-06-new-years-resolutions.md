@@ -91,14 +91,16 @@ It is therefor disappointing but maybe unsurprising that Southwark has now gone 
 
 The Walworth Society is objecting to the Council's current plan to privatise it and [makes the very good point](https://walworthsociety.co.uk/index.php/2-uncategorised/262-walworth-town-hall-redevelopment) that if the two shortlisted developers _"are able to redevelop the Town Hall buildings for up to £20 million and then make a profit from them with a commercial development, why could not Southwark redevelop them for a similar amount and include a significant proportion of commercial usage."_
 
-## 9. Reconsider its funding choices.. 
-While Southwark argues that it doesn't have enough money to restore Walworth Town Hall, it was able to give a plot of land behind Peckham library and a £24m interest-free (at cost) loan, plus £2m grant to [Mountview Academy](http://mountview.org.uk), in order for it to build a new (private) drama academy. [Fees](https://www.mountview.org.uk/courses/) are £13k per year for an undergraduate degree and £17k per year for postgraduate study at the school. Besides a few [low-cost Saturday morning drama classes](https://www.mountview.org.uk/whats-on/take-part/saturday-classes/) the deal appears to offer little for local people.
+## 9. Reconsider its funding choices - 1? 
+While Southwark argues that it doesn't have enough money to restore Walworth Town Hall, it was able to give a plot of land behind Peckham library and a £24m interest-free (at cost) loan, plus £2m grant to [Mountview Academy](http://mountview.org.uk), in order for it to build a new (private) drama academy. 
+
+While Mountview has good intentions and might open up otherwise unavailable [opportunities] (https://www.mountview.org.uk/whats-on/take-part/saturday-classes/) to local young people, [fees](https://www.mountview.org.uk/courses/) are £13k per year for an undergraduate degree and £17k per year for postgraduate study at the school. 
 
 ![](http://35percent.org/img/mview.jpg)
 
 Mountview board includes some high-profile Labour party supporters including Lady Susan Chinn, wife of [Labour donor Sir Trevor Chinn](https://www.totalpolitics.com/articles/news/sir-trevor-chinn-becomes-latest-labour-donor-fund-dan-jarvis-machine), Sir Brendan Barbour, Vikki Heywood (CBE) and [Eddie Marsan](https://twitter.com/eddiemarsan).
 
-## 10. Stop buying speculative commercial developments from developers
+## 10. Reconsider its funding choices - 2?
 Shortly before Christmas, Southwark's Cabinet agreed to the purchase of 'Courage Yard', a commercial development next door to Council leader Peter John's residence in Shad Thames. SE1 website [reports](https://www.london-se1.co.uk/news/view/9791) that the Council is paying £89m for the site - nearly twice what the current owner paid for it in 2015.
 
 According to [this Council report](http://moderngov.southwark.gov.uk/documents/s76412/Report%20Treasury%20Management%20Outturn.pdf) (para 21) Southwark owns £232m worth of such commercial investments, which currently provide a total of £9.2m per year in revenue (3.9% return). 
