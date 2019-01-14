@@ -78,7 +78,7 @@ Amongst the unredacted information is a reference to _"Seymour Street Homes Ltd"
 
 
 
-Development partnership agreements like the one for Canada Water, are invariably for big developements, and if Southwark wants to avoid the [controversies](https://www.newstatesman.com/news/2013/02/southwark-accidentally-leaks-confidential-information) caused by the [publication](https://southwarknotes.files.wordpress.com/2013/02/ra.pdf) of the Heygate and the [Aylsebury regeneration agreements](https://www.theguardian.com/cities/2018/sep/12/london-council-aylesbury-estate-development-southwark-financial-risk), it should be fully open and transparent about the agreements it makes with developers.
+Development partnership agreements like the one for Canada Water, are invariably used for big developements, and if Southwark wants to avoid the [controversies](https://www.newstatesman.com/news/2013/02/southwark-accidentally-leaks-confidential-information) caused by the [publication](https://southwarknotes.files.wordpress.com/2013/02/ra.pdf) of the Heygate and the [Aylsebury regeneration agreements](https://www.theguardian.com/cities/2018/sep/12/london-council-aylesbury-estate-development-southwark-financial-risk), it should be fully open and transparent about the agreements it makes with developers.
 
 
 
