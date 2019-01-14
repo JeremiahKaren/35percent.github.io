@@ -69,17 +69,12 @@ Last October we requested a copy of the Council's partnership agreement with Bri
 ![](http://35percent.org/img/cwdpa.png)
 *Extract from the [redacted partnership agreement](https://www.whatdotheyknow.com/request/partnership_agreement_for_redeve#incoming-1281908)*
 
-Amongst the unredacted information is a reference to _"Seymour Street Homes Ltd"_ as the affordable housing provider. Companies house records show that this is a recently incorporated and wholly-owned subsidiary of the developer British Land, part of  a new trend in affordable housing provision that shifts it further from public control.
-
-
+Amongst the unredacted information is a reference to _"Seymour Street Homes Ltd"_ as the affordable housing provider. [Companies House records](https://beta.companieshouse.gov.uk/company/10044321/filing-history) show that this is a recently incorporated and wholly-owned subsidiary of the developer British Land, part of  a new trend in affordable housing provision that shifts it further from public control.
 
 ![](http://35percent.org/img/cw4.png)
 *Extract from the [redacted partnership agreement](https://www.whatdotheyknow.com/request/partnership_agreement_for_redeve#incoming-1281908)*
 
-
-
-Development partnership agreements, like the one for Canada Water, are invariably used for big developements, and if Southwark wants to avoid the [controversies](https://www.newstatesman.com/news/2013/02/southwark-accidentally-leaks-confidential-information) caused by the eventual [publication](https://southwarknotes.files.wordpress.com/2013/02/ra.pdf) of the Heygate and the [Aylsebury regeneration agreements](https://www.theguardian.com/cities/2018/sep/12/london-council-aylesbury-estate-development-southwark-financial-risk), it should be fully open and transparent about the agreements it makes with developers.
-
+Development partnership agreements, like the one for Canada Water, are invariably used for big developements, and if Southwark wants to avoid the [controversies](https://www.newstatesman.com/news/2013/02/southwark-accidentally-leaks-confidential-information) caused by the eventual [publication](https://southwarknotes.files.wordpress.com/2013/02/ra.pdf) of the Heygate and the [Aylesbury partnership agreements](https://www.theguardian.com/cities/2018/sep/12/london-council-aylesbury-estate-development-southwark-financial-risk), it should be fully open and transparent about the agreements it makes with developers.
 
 ## 8. Keep Walworth Town Hall in public ownership
 Having [sold off](http://35percent.org/southwark-town-halls) all Bermondsey and Peckham Town Halls, it was a relief when Southwark made a [solemn promise](http://www.southwark.gov.uk/news/article/1307/southwark_council_commits_to_restoring_the_walworth_town_hall) to restore Walworth Town Hall & library to public use after it was badly damaged by a fire in 2013.
@@ -90,19 +85,22 @@ It is therefor disappointing, but maybe unsurprising, that Southwark has now gon
 
 The Walworth Society is objecting to the Council's current plan to privatise it and [makes the very good point](https://walworthsociety.co.uk/index.php/2-uncategorised/262-walworth-town-hall-redevelopment) that if the two shortlisted developers _"are able to redevelop the Town Hall buildings for up to £20 million and then make a profit from them with a commercial development, why could not Southwark redevelop them for a similar amount and include a significant proportion of commercial usage."_ [Consultation on this runs to 21 Jan](https://consultations.southwark.gov.uk/planning-and-regeneration/wthbids/); this is a link to the Walworth Society [objections](https://walworthsociety.co.uk/index.php/2-uncategorised/262-walworth-town-hall-redevelopment).
 
+Southwark should stick to its original promise and restore the Town Hall to public use.
 
 ## 9. Reconsider its funding choices?
 While Southwark argues that it doesn't have enough money to restore Walworth Town Hall, shortly before Christmas Southwark's Cabinet agreed to the purchase of 'Courage Yard', a commercial development in Shad Thames. SE1 website [reports](https://www.london-se1.co.uk/news/view/9791) that the Council is paying £89m for the site - nearly twice what the current owner paid for it in 2015.
+
+![](https://www.london-se1.co.uk/news/imageuploads/1546965982_162.158.158.45.jpg)
 
 According to [this Council report](http://moderngov.southwark.gov.uk/documents/s76412/Report%20Treasury%20Management%20Outturn.pdf) (para 21) Southwark owns £232m worth of such commercial investments, which currently provides a net total of £9.2m per year in revenue (3.9% return), but this appears to be less than the amount it is paying in interest on its debt - 4.6% on £563m (para 41). 
 
 Southwark is also spending [£10m per year](https://www.southwarknews.co.uk/news/council-spend-temporary-housing-now-five-times-20112012/) on bed & breakfast accommodation for its homeless residents, so, refurbishing Walworth Town Hall, reducing debt, or reducing temporary accommodation costs, by building more council houses, more quickly, all seem plausible alternatives for spending £89m.
 
-Southwark has a large and diverse number of assests, which need to managed in a prudent manner, but it should remember that it remains, first and foremost, a local government authority, not a speculative property developer.
+Southwark has a large and diverse number of assests, which need to be managed in a prudent manner, but it should remember that it remains, first and foremost, a local government authority, [not a speculative property developer](https://www.theguardian.com/society/2017/nov/17/councils-commercial-property-spend-council-housing-housebuilding).
 
 ## 10. Treat the traders at the Elephant shopping centre fairly
 Elephant shopping centre developer Delancey has finally secured [approval of Castle Sq](https://twitter.com/LatinElephant?ref_src=twsrc%5Etfw%7Ctwcamp%5Eembeddedtimeline%7Ctwterm%5Eprofile%3ALatinElephant&ref_url=https%3A%2F%2Flatinelephant.org%2F), the temporary facility for displaced shopping centre traders, after making a [last minute concession](https://twitter.com/uptheelephant_?lang=en) reducing the rents to £18 per sq foot and £24psf; a significant victory for traders and campaigners, to join at least two others - the provision of Castle Sq itself and the increase in social rented housing from 33 to 116 units.
 
-However, Castle Sq is much too small and many traders will be looking at alternative premises, such as new units at the bottom of [Perronet House](https://www.southwark.gov.uk/assets/attach/4502/Perronet%20Garages%20Consultation%20Boards%20Low%20Res.pdf), over the road from the Bakerloo line tube station.  These are also [not ideal](https://www.london-se1.co.uk/news/view/9676), but, as the landlord, Southwark could make traders lives a lot easier by charging rents no greater than those Delancey will be charging.
+However, Castle Sq is much too small and many traders will be looking at alternative premises, such as new units at the bottom of [Perronet House](https://www.southwark.gov.uk/assets/attach/4502/Perronet%20Garages%20Consultation%20Boards%20Low%20Res.pdf), over the road from the Bakerloo line tube station.  These are also [not ideal](https://www.london-se1.co.uk/news/view/9676), but as the landlord, Southwark could make traders lives a lot easier by charging rents no greater than those Delancey will be charging.
 
-(We will be writing more on the whole shopping centre redevelopment shortly.) 
+(We will be writing more on the whole shopping centre redevelopment shortly.)
