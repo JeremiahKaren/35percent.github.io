@@ -69,7 +69,9 @@ Last October we requested a copy of the Council's partnership agreement with Bri
 ![](http://35percent.org/img/cwdpa.png)
 *Extract from the [redacted partnership agreement](https://www.whatdotheyknow.com/request/partnership_agreement_for_redeve#incoming-1281908)*
 
-Elsewhere in the agreement there is a reference to _"Seymour Street Homes Ltd"_ as the affordable housing provider. Companies house records show that this is a recently incorporated and wholly-owned subsidiary of the developer British Land.
+Amongst the unredacted information is a reference to _"Seymour Street Homes Ltd"_ as the affordable housing provider. Companies house records show that this is a recently incorporated and wholly-owned subsidiary of the developer British Land, part of  a new trend in affordable housing provision that shifts it further from public control.
+
+
 
 ![](http://35percent.org/img/cw4.png)
 *Extract from the [redacted partnership agreement](https://www.whatdotheyknow.com/request/partnership_agreement_for_redeve#incoming-1281908)*
