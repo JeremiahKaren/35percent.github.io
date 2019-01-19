@@ -7,7 +7,7 @@ On xxth December 2016, the developer applied for planning permission for the red
 
 Paragraph 352 of the planning committee report explains that _"The Mayor’s Affordable Housing and Viability SPG provides specific guidance on Build to Rent developments recognising that they differ from the traditional build for sale model. It supports Discount Market Rent (DMR) as the affordable housing offer with a preference for such homes to be let at London Living Rent levels.."_
 
-Planning policy governing BTR schemes is currently still 'emerging'. According to Southwark's draft NSP at the time of the planning application, the tenure mix requirement for a BTR scheme had a lower requirement for social rented accommodation 34%. This draft policy requirement of 34% has since been increased to 43% in the latest draft of the NSP. The draft NSP requires a significantly greater proportion of social rented tenure (70%) for BTS schemes. The existing 2012 E&C SPD requires 50%.
+Planning policy governing BTR schemes is currently still 'emerging'. According to Southwark's draft NSP at the time of the planning application, the tenure mix requirement for a BTR scheme had a lower requirement for social rented accommodation 12% (34% of 35%). This draft policy requirement of 34% has since been increased to 43% in the latest draft of the NSP (15% of total). The draft NSP requires a significantly greater proportion (25%) social rented tenure (70% of 35%) for BTS schemes. The existing 2012 E&C SPD requires 17.5% (50% of 35%).
 
 On xxth April 2018, nearly 18 months since the planning application was submitted and only eight? weeks before it went before the planning committee, the developer applied for a revision to the application enabling it the option to build a BTS instead of a BTR scheme on the West Site.
 
@@ -39,7 +39,7 @@ However the S106 agreement's review mechanism fails to secure this increase in s
 
 In summary, the Planning Committee was misled to believe that a robust review mechanism would ensure that any BTS option on the West Site would provide an additional proportion of social rented units in line with the different policy requirements of a BTS. The review mechanism in the S106 fails in this regard.
 
-The practical implications of this are that Delancey can now opt to deliver a more profitable BTS scheme on the West Site (14% IRR vs 11%) without providing the number of social rented homes required by policy for a BTS scheme. This will result in the failure to create the mixed community envisaged by and meet the housing need required by the local development plan. 
+The practical implications of this are that Delancey can now opt to deliver a more profitable BTS scheme on the West Site (14% IRR vs 11%) without providing the number of social rented homes required by policy for a BTS scheme. The floorspace calculations below show that this will result in the hybrid BTS/BTR scheme providing less than half the amount of social rented housing required by policy. This will result in the failure to create the mixed community envisaged by and meet the housing need required by the local development plan. 
 
 In addition, the viability review mechanism for the BTS scheme assumes different assumptions - a higher overall profit level (14% IRR) for which there is no agreement (the letter from GVA says that they haven't reviewed the BTS West Site scheme) and 17.5% profit on residential GDV which we know from the draft S106 that Southwark didn't want to agree (see draft S106 where LBS said 17.5% was not agreed and wanted 12.5% instead).
 
@@ -72,18 +72,15 @@ it is build to sell;"_
 Paragraph 900 of the planning committee report confirms that 92 separate representations have been received which include the objection that the _"Option for a build to sell scheme undermines the developer’s viability appraisal;"_ 
 
 
-
-
 ## Other notes/draft observations
 
-- Application Viability Appraisal relied upon by the FVA is based on 'with grant funding' -> so review mechanisms and prospect of reduced discounted market rents will be affected if grant funding is not allocated.
+Application Viability Appraisal relied upon by the FVA is based on 'with grant funding' -> so review mechanisms and prospect of reduced discounted market rents will be affected if grant funding is not allocated.
 
--S106 applies an 'Affordable Housing Cap' (pg 9) and maximum limit to the level of affordable housing provision (See definition 'Affordable Housing Provision' on page 8).
+S106 applies an 'Affordable Housing Cap' (pg 9) and maximum limit to the level of affordable housing provision (See definition 'Affordable Housing Provision' on page 8) and also para 2.1 page 132. This is not mentioned in the OR and is contrary to policy 3.12 of the LP which requires the maximum viable amount of affordable housing.
 
-- OR says nothing about an upper limit being applied to the review mechanism, it just says that any uplift identified by the review would have the 'aim of getting closer to a policy compliant level' (405). Elsewhere in the OR, it says that the review will be conducted in accordance with the Development Viability SPD, which itself applies no such upper limit. 
+Officer's Report says nothing about an upper limit being applied to the review mechanism, it just says that any uplift identified by the review would have the 'aim of getting closer to a policy compliant level' (405). Elsewhere in the OR, it says that the review will be conducted in accordance with the Development Viability SPD, which itself applies no such upper limit. 
 
-- This upper limit conflicts with Policy 3.12 of the London Plan which says that developments should provide the maximum amount of affordable housing deemed viable.
-
+This upper limit conflicts with Policy 3.12 of the London Plan which says that developments should provide the maximum amount of affordable housing deemed viable.
 
 ## Social rented units on West Site secured in event of stalled scheme
 Para 364 of the OR says _"The affordable housing proposed would also not be evenly distributed across both sites, with the social rented units all being delivered on the west site. The s106 agreement would therefore stipulate that if the development on the west site has not substantially commenced within 10 years of the east site commencing, the land and sum of money sufficient for construction and completion of the social rented units would be transferred to the Council, to deliver the social rented units."_ This implies that the land would be transferred at nil consideration.
@@ -93,14 +90,20 @@ However the S106 agreement fails to secure this - see paras 3.5.2 and 3.5.3 (pag
 Para 393 of the OR says that a policy compliant scheme is currently estimated to achieve an IRR of 6.5%, _"which will allow for 36% affordable housing but with a tenure mix that has just 50% in the lowest 4 income bands. To increase this affordability to 86% in these income bands, in accordance with emerging policy P4, the IRR would need to increase over time to 10 -12%. The applicant’s position is for this predicted uplift to be secured by a clawback review mechanism in the S106 agreement."_ Further saying that _"Such a review mechanism would need to be both sophisticated and robust to maximise the level of affordable units, in the lower rental bands, that is both reasonable and viable. "_
 
 ## Floorspace figures
-It is difficult to quote affordable housing statistics when calculated by habitable room as the applicant and Council have used. Using floorspace gives a more accurate overview as it takes into account different dwelling types and room sizes. It also also encouraged by policy (NSP & London Plan)
+It is difficult to quote affordable housing statistics when calculated by habitable room as the applicant and Council have used. Using floorspace gives a more accurate overview as it takes into account different dwelling types and room sizes. It also also encouraged by policy (NSP & London Plan):
+
+> "Applicants should present affordable housing figures as a percentage of total residential provision by habitable rooms, by units and by floorspace to enable comparison." (Policy 2.8)
  
 Page 16 of the planning statement confirms there will be 106,500 sqm of residential floorspace (GIA). Split evenly between the East and West sites.
 The [Accommodation Schedule](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!9e1lINlEHTmcLt5vZsm29g%3d%3d!%7d%7d%7d) shows that the 116 social rented units on the West Site comprise just 9,141 sqm - (8.6%) of the overall total residential floorspace. 
 
-Using 
+The [planning statement](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!LnbCaTCiMmUoN4H%2fUA2yyg%3d%3d!%7d%7d%7d) confirms that there will be 50,428 sqm of residential floorspace on the East Site and 56,043 sqm of residential on the West Site. 
 
+A hybrid BTS/BTR scheme would therefore have needed to provide 6,051 sqm (12%) Social Rented accommodation on the BTR East Site and 9,808 sqm (17.5%) on the BTS West Site. The overall scheme would then need to provide 18,856 sqm of Social Rented accommodation. Instead it is providing less than half this amount.
+
+Using the updated draft emerging policy figures (15% vs 12% on East Site) then this shortfall is much greater.
+
+## Misc
 - pg 74, para 7.1 => developer reserves right to retain any surplus resulting from injection of grant funding.
 
-- S106 agreement refers to an 'Affordable Housing Cap' (page 9) and also para 2.1 page 132 - which specifies an upper limit of affordable housing provision. This is not mentioned in the OR and is contrary to policy 3.12 of the LP which requires the maximum viable amount of affordable housing.
 
