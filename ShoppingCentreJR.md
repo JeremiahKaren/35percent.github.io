@@ -1,10 +1,39 @@
 ---
 layout: post
-title: Shopping Centre JR
-subtitle: Remarks and Observations on S106 agreement
+title: 'Shopping Centre JR'
+subtitle: 'Remarks and Observations on S106 agreement'
 published: false
 ---
-On [13th April 2018 letter](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!LXcCuPkZXfUd47qX5Tcdtg%3d%3d!%7d%7d%7d) the Council's independent advisor GVA wrote to the Council stating that it has been asked to comment on the 'fall-back' BTS scheme and says that whilst it hasn't _'modelled an option whereby the West Site is assessed for viability on a standalone basis on a build to sell route' .. 'at this stage we can only comment that, having reviewed the scheme as a whole, a 35% offer on a BTS option is the maximum, reasonable quantum of Affordable Housing as a fall back position if the BTR option does not proceed.'_ 
+
+Paragraph 352 of the planning committee report explains that _"The Mayor’s Affordable Housing and Viability SPG provides specific guidance on Build to Rent developments recognising that they differ from the traditional build for sale model. It supports Discount Market Rent (DMR) as the affordable housing offer with a preference for such homes to be let at London Living Rent levels.."_
+
+Paragraph 864 of the planning committee report summarises the objections submitted by the 35% Campaign:
+
+* _"Object to the developer being able to confirm the tenure of the west site dwellings after
+permission is granted;"_
+
+* _"Unreasonable to expect the Planning Committee to decide the merits of the scheme
+without knowing the precise tenure of over half of the homes;"_
+
+* _"The viability implications of a built to rent / build to sell scheme have not been
+addressed by the applicant;"_
+
+* _"The affordable housing offer uses arguments in support of build to rent, which would
+not be relevant if half the scheme were build to sell;"_
+
+* _"Object to the affordable housing offer being based on emerging policy P4 of the draft
+New Southwark Plan if half the units would be build to sell;"_
+
+* _"Introducing build to sell will confuse the affordable housing requirement. Saved policy
+4.4 should apply for the whole site, regardless of whether it is for sale or rent;"_
+
+* _"Applicant does not elaborate on what other changes may be required to the west site if
+it is build to sell;"_
+
+Paragraph 900 of the planning committee report confirms that 92 separate representations have been received which include the objection that the _"Option for a build to sell scheme undermines the developer’s viability appraisal;"_ 
+
+
+On [13th April 2018 letter](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!LXcCuPkZXfUd47qX5Tcdtg%3d%3d!%7d%7d%7d) the Council's independent advisor GVA wrote to the Council stating that it has been asked to comment on the 'fall-back' BTS scheme proposed by the developer and says that whilst it hasn't _'modelled an option whereby the West Site is assessed for viability on a standalone basis on a build to sell route' .. 'at this stage we can only comment that, having reviewed the scheme as a whole, a 35% offer on a BTS option is the maximum, reasonable quantum of Affordable Housing as a fall back position if the BTR option does not proceed.'_ 
 
 GVA adds that _'The BTS offer on the West Site would still offer 35% Affordable Quantum. We acknowledge that a BTS alternative falls into a different test in terms of tenure split with policy being 50:50 Social Rent and Shared Ownership.'_ 
 
@@ -12,15 +41,15 @@ GVA concludes that _'We are also advised by London Borough of Southwark that in 
 
 In summary, not only is there a higher social rented requirement in a BTS scheme on the West Site but it also encompasses the social rented requirement carried over from the East Site scheme.
 
-The [3 July 2018 planning committee report](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!HvOs1eG7BYgl0hYZ8SIm5w%3d%3d!%7d%7d%7d) appears to take into account these issues and assures the planning committee that this will be taken care of by the S106 agreement. Paragraph 365 of the report entitled __'Fall-back position'__ says:
+The [3 July 2018 planning committee report](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!HvOs1eG7BYgl0hYZ8SIm5w%3d%3d!%7d%7d%7d) appears to take into account these issues and assures the planning committee that this will be taking care of by the S106 agreement. Paragraph 365 of the report entitled __'Fall-back position'__ says:
 
-_"The applicant also wishes to retain a fall-back position whereby the west site could be delivered as traditional build-to-sell units. The exception to this would be the social rented units in the mansion blocks which would be delivered in any event. The developer would notify the Council, of the intention to develop the west site as build to sell, and the affordable housing requirement for this would be for 50% social rented and 50% intermediate. Some of the west site’s social rented units would already be secured in the mansion blocks, albeit 38% rather than the 50% requirement, therefore a review mechanism would be required."_
+> "The applicant also wishes to retain a fall-back position whereby the west site could be delivered as traditional build-to-sell units. The exception to this would be the social rented units in the mansion blocks which would be delivered in any event. The developer would notify the Council, of the intention to develop the west site as build to sell, and the affordable housing requirement for this would be for 50% social rented and 50% intermediate. Some of the west site’s social rented units would already be secured in the mansion blocks, albeit 38% rather than the 50% requirement, therefore a review mechanism would be required."
 
 This is repeated in paragraph 404 of the officer report:
 
-_"In the event that the West site is delivered as open market for sale the review will need to take into account the policy requirement for a different tenure split of 50:50 social rented and intermediate."_
+> "In the event that the West site is delivered as open market for sale the review will need to take into account the policy requirement for a different tenure split of 50:50 social rented and intermediate."
 
-However the S106 agreement's review mechanism fails in this respect. The review provisions for the West Site in pages 130-134 of the S106 agreement restrict any proceeds from uplift in viability to the provision of 'Additional Affordable Housing' defined on page 8 exclusively as the provision of London Living Rent not Social Rent:
+However the S106 agreement's review mechanism fails to take into account the different tenure requirement. The review provisions for the West Site (pages 130-134) restrict any proceeds from uplift in viability to the provision of 'Additional Affordable Housing' defined on page 8 strictly as the provision of London Living Rent not Social Rent:
 
 ![](http://35percent.org/img/scs106aah.png)
 
