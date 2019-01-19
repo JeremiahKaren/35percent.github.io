@@ -2,7 +2,15 @@
 title: 'Shopping Centre JR'
 subtitle: 'Remarks and Observations on S106 agreement'
 ---
-Paragraph 365 of the planning committee report says:
+On [13th April 2018 letter](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!LXcCuPkZXfUd47qX5Tcdtg%3d%3d!%7d%7d%7d) the Council's independent advisor GVA wrote to the Council stating that it has been asked to comment on the 'fall-back' BTS scheme and says that whilst it hasn't _'modelled an option whereby the West Site is assessed for viability on a standalone basis on a build to sell route' .. 'at this stage we can only comment that, having reviewed the scheme as a whole, a 35% offer on a BTS option is the maximum, reasonable quantum of Affordable Housing as a fall back position if the BTR option does not proceed.'_ 
+
+GVA adds that _'The BTS offer on the West Site would still offer 35% Affordable Quantum. We acknowledge that a BTS alternative falls into a different test in terms of tenure split with policy being 50:50 Social Rent and Shared Ownership.'_ 
+
+GVA concludes that _'We are also advised by London Borough of Southwark that in a BTS scenario for the West Site, the shortfall in social rented housing from the East Site, would need to be made up on the West Site. Whilst the overall quantum would remain at 35 %, the proportion of social rented housing on the West Site would have to reflect the West Site provision plus the East Site shortfall.'_
+
+In summary, not only is there a higher social rented requirement in a BTS scheme on the West Site but it also encompasses the social rented requirement carried over from the East Site scheme.
+
+The [3 July 2018 planning committee report](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!HvOs1eG7BYgl0hYZ8SIm5w%3d%3d!%7d%7d%7d) appears to take into account these issues and assures the planning committee that this will be taking care of by the S106 agreement. Paragraph 365 of the report entitled __'Fall-back position'__ says:
 
 > "The applicant also wishes to retain a fall-back position whereby the west site could be delivered as traditional build-to-sell units. The exception to this would be the social rented units in the mansion blocks which would be delivered in any event. The developer would notify the Council, of the intention to develop the west site as build to sell, and the affordable housing requirement for this would be for 50% social rented and 50% intermediate. Some of the west site’s social rented units would already be secured in the mansion blocks, albeit 38% rather than the 50% requirement, therefore a review mechanism would be required."
 
@@ -10,7 +18,12 @@ This is repeated in paragraph 404 of the officer report:
 
 > "In the event that the West site is delivered as open market for sale the review will need to take into account the policy requirement for a different tenure split of 50:50 social rented and intermediate."
 
-However the review mechanism in the event of a BTS scheme on the West Site fails to take into account the revised 50/50 split requirement.
+However the S106 agreement's review mechanism fails to take into account the different tenure requirement. The review provisions for the West Site (pages 130-134) restrict any proceeds from uplift in viability to the provision of 'Additional Affordable Housing' defined on page 8 strictly as the provision of London Living Rent not Social Rent:
+
+![](http://35percent.org/img/scs106aah.png)
+
+
+ in the event of a BTS scheme on the West Site fails to take into account the revised 50/50 split requirement. In fact, 
 Given that the East Site is heavily loaded with the more profitable DMR (80% market rent) tenure and.. 
 
 In addition, the viability review mechanism for the BTS scheme assumes different assumptions - a higher overall profit level (15% IRR) for which there is no agreement (the letter from GVA says that they haven't reviewed the BTS scheme) and 17.5% profit on residential GDV which we know that Southwark didn't want to agree (see draft S106 where LBS said 12.5%?).  Plus all of the other assumptions like professional costs set out in the review mechanism - do they accord with what is in the Argus model in appendix 10 or the requirements of the Viability SPD?
