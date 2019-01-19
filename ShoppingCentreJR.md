@@ -1,11 +1,54 @@
 ---
-layout: post
-title: 'Shopping Centre JR'
-subtitle: 'Remarks and Observations on S106 agreement'
-published: false
+title: '35% Campaign, E&C Shopping Centre Section 106 appeal (19th Jan 2019)'
 ---
+The planning consent granted for the redevelopment of the Elephant & Castle shopping centre & UAL campus is unlawful because the S106 agreement fails to secure the viability review mechanism for uplift in social rented housing relating to the Build-to-Sell (BTS) scheme option agreed by the planning committee.
+
+On xxth December 2016, the developer applied for planning permission for the redevelopment of E&C shopping centre and UAL campus to include 979 new residential units, all of which to be provided as 'Build to Rent' (BTR) accommodation. 
 
 Paragraph 352 of the planning committee report explains that _"The Mayor’s Affordable Housing and Viability SPG provides specific guidance on Build to Rent developments recognising that they differ from the traditional build for sale model. It supports Discount Market Rent (DMR) as the affordable housing offer with a preference for such homes to be let at London Living Rent levels.."_
+
+Planning policy governing BTR schemes is currently still 'emerging'. According to Southwark's draft NSP at the time of the planning application, the tenure mix requirement for a BTR scheme had a lower requirement for social rented accommodation 34%. This draft policy requirement of 34% has since been increased to 43% in the latest draft of the NSP. The draft NSP requires a significantly greater proportion of social rented tenure (70%) for BTS schemes. The existing 2012 E&C SPD requires 50%.
+
+On xxth April 2018, nearly 18 months since the planning application was submitted and only eight? weeks before it went before the planning committee, the developer applied for a revision to the application enabling it the option to build a BTS instead of a BTR scheme on the West Site.
+
+Whilst the Council's independent advisors GVA had scrutinised the proposed BTR scheme in its 153-page [June 2017 report](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!PHUQPPiesgvQWEZYj1nx%2fw%3d%3d!%7d%7d%7d) and had conducted a scenario analysis for a BTS scheme across both East and West sites, it had not considered or scrutinised this new hybrid proposal for a part BTS/part BTR scheme. 
+
+This is confirmed in GVA's [13th April 2018 letter](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!LXcCuPkZXfUd47qX5Tcdtg%3d%3d!%7d%7d%7d) to the Council, in which it says
+_'We have been asked by the Planning Department to provide our comments on the latest Affordable Housing offer from the Applicant.'_
+
+GVA says: _'We have not modelled an option whereby the West Site is assessed for viability on a standalone basis on a build to sell route. We will await your specific instructions in this regard before we look at this potential scenario.'_
+
+GVA adds observes that _'The BTS offer on the West Site would still offer 35% Affordable Quantum. We acknowledge that a BTS alternative falls into a different test in terms of tenure split with policy being 50:50 Social Rent and Shared Ownership.'_ 
+
+GVA concludes that _'We are also advised by London Borough of Southwark that in a BTS scenario for the West Site, the shortfall in social rented housing from the East Site, would need to be made up on the West Site. Whilst the overall quantum would remain at 35%, the proportion of social rented housing on the West Site would have to reflect the West Site provision plus the East Site shortfall.'_
+
+In summary, not only is there a higher social rented requirement in a BTS scheme on the West Site but it also encompasses the social rented requirement carried over from the East Site scheme, which is providing no social rented housing.
+
+The [3 July 2018 planning committee report](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!HvOs1eG7BYgl0hYZ8SIm5w%3d%3d!%7d%7d%7d) appears to take into account these issues and assures the planning committee that this will be taking care of by the S106 agreement. Paragraph 365 of the report entitled __'Fall-back position'__ says:
+
+> "The applicant also wishes to retain a fall-back position whereby the west site could be delivered as traditional build-to-sell units. The exception to this would be the social rented units in the mansion blocks which would be delivered in any event. The developer would notify the Council, of the intention to develop the west site as build to sell, and the affordable housing requirement for this would be for 50% social rented and 50% intermediate. Some of the west site’s social rented units would already be secured in the mansion blocks, albeit 38% rather than the 50% requirement, therefore a review mechanism would be required."
+
+This is repeated further in paragraph 404 of the officer report:
+
+> "In the event that the West site is delivered as open market for sale the review will need to take into account the policy requirement for a different tenure split of 50:50 social rented and intermediate."
+
+However the S106 agreement's review mechanism fails to secure this increase in social rented housing required by the BTS scheme. The review provisions for the West Site (pages 130-134) in the event of a BTS scheme are silent on the higher tenure split and restrict any proceeds from any uplift in viability to the provision of London Living Rent not Social Rent. See definition of 'Additional Affordable Housing' defined on page 8 of the S106 agreement and referred to by the review mechanism (pages 130-134):
+
+![](http://35percent.org/img/scs106aah.png)
+
+
+Given that the East Site is heavily loaded with the more profitable DMR (80% market rent) tenure and.. 
+
+Planning Committee (mis)led to believe that a robust review mechanism would ensure extra social rented units - the tenure that most responds to local housing need. The S106 in fact limits the social rented provision to 116 units.
+
+The practical implications of this are that Delancey can now opt to deliver a largely BTS scheme having been granted planning consent on a the reduced SR tenure split requirements of a BTR scheme.
+
+In addition, the viability review mechanism for the BTS scheme assumes different assumptions - a higher overall profit level (14% IRR) for which there is no agreement (the letter from GVA says that they haven't reviewed the BTS West Site scheme) and 17.5% profit on residential GDV which we know that Southwark didn't want to agree (see draft S106 where LBS said 12.5%?).  Plus all of the other assumptions like professional costs set out in the review mechanism - do they accord with what is in the Argus model in appendix 10 or the requirements of the Viability SPD?
+
+
+
+
+
 
 Paragraph 864 of the planning committee report summarises the objections submitted by the 35% Campaign:
 
@@ -31,36 +74,6 @@ New Southwark Plan if half the units would be build to sell;"_
 it is build to sell;"_
 
 Paragraph 900 of the planning committee report confirms that 92 separate representations have been received which include the objection that the _"Option for a build to sell scheme undermines the developer’s viability appraisal;"_ 
-
-
-On [13th April 2018 letter](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!LXcCuPkZXfUd47qX5Tcdtg%3d%3d!%7d%7d%7d) the Council's independent advisor GVA wrote to the Council stating that it has been asked to comment on the 'fall-back' BTS scheme proposed by the developer and says that whilst it hasn't _'modelled an option whereby the West Site is assessed for viability on a standalone basis on a build to sell route' .. 'at this stage we can only comment that, having reviewed the scheme as a whole, a 35% offer on a BTS option is the maximum, reasonable quantum of Affordable Housing as a fall back position if the BTR option does not proceed.'_ 
-
-GVA adds that _'The BTS offer on the West Site would still offer 35% Affordable Quantum. We acknowledge that a BTS alternative falls into a different test in terms of tenure split with policy being 50:50 Social Rent and Shared Ownership.'_ 
-
-GVA concludes that _'We are also advised by London Borough of Southwark that in a BTS scenario for the West Site, the shortfall in social rented housing from the East Site, would need to be made up on the West Site. Whilst the overall quantum would remain at 35 %, the proportion of social rented housing on the West Site would have to reflect the West Site provision plus the East Site shortfall.'_
-
-In summary, not only is there a higher social rented requirement in a BTS scheme on the West Site but it also encompasses the social rented requirement carried over from the East Site scheme.
-
-The [3 July 2018 planning committee report](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!HvOs1eG7BYgl0hYZ8SIm5w%3d%3d!%7d%7d%7d) appears to take into account these issues and assures the planning committee that this will be taking care of by the S106 agreement. Paragraph 365 of the report entitled __'Fall-back position'__ says:
-
-> "The applicant also wishes to retain a fall-back position whereby the west site could be delivered as traditional build-to-sell units. The exception to this would be the social rented units in the mansion blocks which would be delivered in any event. The developer would notify the Council, of the intention to develop the west site as build to sell, and the affordable housing requirement for this would be for 50% social rented and 50% intermediate. Some of the west site’s social rented units would already be secured in the mansion blocks, albeit 38% rather than the 50% requirement, therefore a review mechanism would be required."
-
-This is repeated in paragraph 404 of the officer report:
-
-> "In the event that the West site is delivered as open market for sale the review will need to take into account the policy requirement for a different tenure split of 50:50 social rented and intermediate."
-
-However the S106 agreement's review mechanism fails to take into account the different tenure requirement. The review provisions for the West Site (pages 130-134) restrict any proceeds from uplift in viability to the provision of 'Additional Affordable Housing' defined on page 8 strictly as the provision of London Living Rent not Social Rent:
-
-![](http://35percent.org/img/scs106aah.png)
-
-
-Given that the East Site is heavily loaded with the more profitable DMR (80% market rent) tenure and.. 
-
-Planning Committee (mis)led to believe that a robust review mechanism would ensure extra social rented units - the tenure that most responds to local housing need. The S106 in fact limits the social rented provision to 116 units.
-
-The practical implications of this are that Delancey can now opt to deliver a largely BTS scheme having been granted planning consent on a the reduced SR tenure split requirements of a BTR scheme.
-
-In addition, the viability review mechanism for the BTS scheme assumes different assumptions - a higher overall profit level (14% IRR) for which there is no agreement (the letter from GVA says that they haven't reviewed the BTS West Site scheme) and 17.5% profit on residential GDV which we know that Southwark didn't want to agree (see draft S106 where LBS said 12.5%?).  Plus all of the other assumptions like professional costs set out in the review mechanism - do they accord with what is in the Argus model in appendix 10 or the requirements of the Viability SPD?
 
 
 
