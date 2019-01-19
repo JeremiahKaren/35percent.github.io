@@ -2,6 +2,7 @@
 layout: post
 title: 'Shopping Centre JR'
 subtitle: 'Remarks and Observations on S106 agreement'
+published: false
 ---
 On [13th April 2018 letter](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!LXcCuPkZXfUd47qX5Tcdtg%3d%3d!%7d%7d%7d) the Council's independent advisor GVA wrote to the Council stating that it has been asked to comment on the 'fall-back' BTS scheme and says that whilst it hasn't _'modelled an option whereby the West Site is assessed for viability on a standalone basis on a build to sell route' .. 'at this stage we can only comment that, having reviewed the scheme as a whole, a 35% offer on a BTS option is the maximum, reasonable quantum of Affordable Housing as a fall back position if the BTR option does not proceed.'_ 
 
