@@ -1,4 +1,5 @@
 ---
+layout: post
 title: 'Shopping Centre JR'
 subtitle: 'Remarks and Observations on S106 agreement'
 ---
@@ -23,15 +24,18 @@ However the S106 agreement's review mechanism fails to take into account the dif
 ![](http://35percent.org/img/scs106aah.png)
 
 
- in the event of a BTS scheme on the West Site fails to take into account the revised 50/50 split requirement. In fact, 
 Given that the East Site is heavily loaded with the more profitable DMR (80% market rent) tenure and.. 
 
-In addition, the viability review mechanism for the BTS scheme assumes different assumptions - a higher overall profit level (15% IRR) for which there is no agreement (the letter from GVA says that they haven't reviewed the BTS scheme) and 17.5% profit on residential GDV which we know that Southwark didn't want to agree (see draft S106 where LBS said 12.5%?).  Plus all of the other assumptions like professional costs set out in the review mechanism - do they accord with what is in the Argus model in appendix 10 or the requirements of the Viability SPD?
+Planning Committee (mis)led to believe that a robust review mechanism would ensure extra social rented units - the tenure that most responds to local housing need. The S106 in fact limits the social rented provision to 116 units.
 
 The practical implications of this are that Delancey can now opt to deliver a largely BTS scheme having been granted planning consent on a the reduced SR tenure split requirements of a BTR scheme.
 
+In addition, the viability review mechanism for the BTS scheme assumes different assumptions - a higher overall profit level (14% IRR) for which there is no agreement (the letter from GVA says that they haven't reviewed the BTS West Site scheme) and 17.5% profit on residential GDV which we know that Southwark didn't want to agree (see draft S106 where LBS said 12.5%?).  Plus all of the other assumptions like professional costs set out in the review mechanism - do they accord with what is in the Argus model in appendix 10 or the requirements of the Viability SPD?
 
 
+
+
+## Other notes/draft observations
 
 1. Inputs/Assumptions not agreed
 
@@ -60,8 +64,6 @@ Para 393 of the OR says that a policy compliant scheme is currently estimated to
 
 
 
-
-## Affordable Housing
 Page 16 of the planning statement confirms there will be 106,500 sqm of residential floorspace (GIA). Split evenly between the East and West sites.
 The [Accommodation Schedule](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!9e1lINlEHTmcLt5vZsm29g%3d%3d!%7d%7d%7d) shows that just 9,141 (8.6%) of the overall total residential floorspace will be social rented - half of the policy requirement.
 
