@@ -1,5 +1,6 @@
 ---
 title: '35% Campaign, E&C Shopping Centre Section 106 appeal (19th Jan 2019)'
+published: true
 ---
 The S106 agreement for the scheme fails to secure the viability review mechanism for uplift in social rented housing relating to the Build-to-Sell (BTS) scheme option agreed by the planning committee.
 
@@ -35,7 +36,6 @@ This is repeated further in paragraph 404 of the officer report:
 However the S106 agreement's review mechanism fails to secure this increase in social rented housing required by a BTS scheme. The review provisions for the West Site (pages 130-134) in the event of a BTS scheme are silent on the higher tenure split requirement and restrict any proceeds from any uplift in viability to the provision of London Living Rent not Social Rent. See definition of 'Additional Affordable Housing' defined on page 8 of the S106 agreement and referred to by the review mechanism (pages 130-134):
 
 ![](http://35percent.org/img/scs106aah.png)
-
 
 In summary, the Planning Committee was misled to believe that a robust review mechanism would ensure that any BTS option on the West Site would provide an additional proportion of social rented units in line with the different policy requirements of a BTS. The review mechanism in the S106 fails in this regard.
 
@@ -73,14 +73,11 @@ Paragraph 900 of the planning committee report confirms that 92 separate represe
 
 
 ## Other notes/draft observations
-
-Application Viability Appraisal relied upon by the FVA is based on 'with grant funding' -> so review mechanisms and prospect of reduced discounted market rents will be affected if grant funding is not allocated.
+The 'Application Viability Appraisal' (appendix 10) relied upon by the S106 review mechanism is based on 'with grant funding' -> so review mechanisms and prospect of reduced discounted market rents will be severely compromised if grant funding is not allocated.
 
 The S106 agreement applies an 'Affordable Housing Cap' (pg 9) and maximum limit to the level of affordable housing provision (See definition 'Affordable Housing Provision' on page 8) and also para 2.1 page 132. This is not mentioned in the OR and is contrary to policy 3.12 of the LP which requires the maximum viable amount of affordable housing.
 
 Officer's Report says nothing about an upper limit being applied to the review mechanism, it just says that any uplift identified by the review would have the 'aim of getting closer to a policy compliant level' (405). Elsewhere in the OR, it says that the review will be conducted in accordance with the Development Viability SPD, which itself applies no such upper limit. 
-
-This upper limit conflicts with Policy 3.12 of the London Plan which says that developments should provide the maximum amount of affordable housing deemed viable.
 
 ## Social rented units on West Site secured in event of stalled scheme
 Para 364 of the OR says _"The affordable housing proposed would also not be evenly distributed across both sites, with the social rented units all being delivered on the west site. The s106 agreement would therefore stipulate that if the development on the west site has not substantially commenced within 10 years of the east site commencing, the land and sum of money sufficient for construction and completion of the social rented units would be transferred to the Council, to deliver the social rented units."_ This implies that the land would be transferred at nil consideration.
@@ -97,11 +94,18 @@ The [Accommodation Schedule](http://planbuild.southwark.gov.uk/documents/?GetDoc
 
 The [planning statement](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!LnbCaTCiMmUoN4H%2fUA2yyg%3d%3d!%7d%7d%7d) confirms that there will be 50,428 sqm of residential floorspace on the East Site and 56,043 sqm of residential on the West Site. 
 
-A hybrid BTS/BTR scheme would therefore have needed to provide 6,051 sqm (12%) Social Rented accommodation on the BTR East Site and 9,808 sqm (17.5%) on the BTS West Site. The overall scheme would then need to provide 18,856 sqm of Social Rented accommodation. Instead it is providing less than half this amount.
+A hybrid BTS/BTR scheme would therefore have needed to provide 6,051 sqm (12%) Social Rented accommodation on the BTR East Site and 9,808 sqm (17.5%) on the BTS West Site. 
 
-Using the updated draft emerging policy (NSP) figures (15% vs 12% on East Site) then this shortfall is much greater.
+Total residential on East Site = 50,428sqm (Social Rent@12% = 6,051sqm)
+Total residential on West Site (BTS) = 56,043 (Social Rent@17.5% = 9,808sqm)
+
+Total SR requirement under hybrid BTS/BTR scheme = 15,859sqm (6,051sqm+9,808sqm)
+
+A policy compliant BTR/BTS scheme would therefore need to provide 15,859 sqm of Social Rented accommodation. Instead it is providing just over half (57%) of this amount (9,141sqm).
+
+So, as a result of the S106 drafting failure if Delancey opts to exercise the BTS option, the scheme will provide just over half (57%) of the social rented housing that the planning committee was told it would provide. This is a loss of approximately 100 much-needed social rented homes. 
+
+If we were to use the updated draft emerging policy (NSP) figures (15% vs 12% on East Site) then this shortfall would be even greater.
 
 ## Misc
 - pg 74, para 7.1 => developer reserves right to retain any surplus resulting from injection of grant funding.
-
-
