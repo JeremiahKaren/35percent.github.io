@@ -1,7 +1,7 @@
 ---
 title: '35% Campaign, E&C Shopping Centre Section 106 appeal (19th Jan 2019)'
 ---
-The planning consent granted for the redevelopment of the Elephant & Castle shopping centre & UAL campus is unlawful because the S106 agreement fails to secure the viability review mechanism for uplift in social rented housing relating to the Build-to-Sell (BTS) scheme option agreed by the planning committee.
+The S106 agreement for the scheme fails to secure the viability review mechanism for uplift in social rented housing relating to the Build-to-Sell (BTS) scheme option agreed by the planning committee.
 
 On xxth December 2016, the developer applied for planning permission for the redevelopment of E&C shopping centre and UAL campus to include 979 new residential units, all of which to be provided as 'Build to Rent' (BTR) accommodation. 
 
@@ -76,7 +76,7 @@ Paragraph 900 of the planning committee report confirms that 92 separate represe
 
 Application Viability Appraisal relied upon by the FVA is based on 'with grant funding' -> so review mechanisms and prospect of reduced discounted market rents will be affected if grant funding is not allocated.
 
-S106 applies an 'Affordable Housing Cap' (pg 9) and maximum limit to the level of affordable housing provision (See definition 'Affordable Housing Provision' on page 8) and also para 2.1 page 132. This is not mentioned in the OR and is contrary to policy 3.12 of the LP which requires the maximum viable amount of affordable housing.
+The S106 agreement applies an 'Affordable Housing Cap' (pg 9) and maximum limit to the level of affordable housing provision (See definition 'Affordable Housing Provision' on page 8) and also para 2.1 page 132. This is not mentioned in the OR and is contrary to policy 3.12 of the LP which requires the maximum viable amount of affordable housing.
 
 Officer's Report says nothing about an upper limit being applied to the review mechanism, it just says that any uplift identified by the review would have the 'aim of getting closer to a policy compliant level' (405). Elsewhere in the OR, it says that the review will be conducted in accordance with the Development Viability SPD, which itself applies no such upper limit. 
 
@@ -86,8 +86,6 @@ This upper limit conflicts with Policy 3.12 of the London Plan which says that d
 Para 364 of the OR says _"The affordable housing proposed would also not be evenly distributed across both sites, with the social rented units all being delivered on the west site. The s106 agreement would therefore stipulate that if the development on the west site has not substantially commenced within 10 years of the east site commencing, the land and sum of money sufficient for construction and completion of the social rented units would be transferred to the Council, to deliver the social rented units."_ This implies that the land would be transferred at nil consideration.
 
 However the S106 agreement fails to secure this - see paras 3.5.2 and 3.5.3 (page 118). These give the option to the Council to either take up a 'long leasehold' agreement with the Council building the homes and the developer paying the construction costs or for the Council to be given the 'long leasehold' at 'nil consideration' with the Council paying the construction costs itself but the value of the non-residential space supposedly making up for the construction costs. 
-
-Para 393 of the OR says that a policy compliant scheme is currently estimated to achieve an IRR of 6.5%, _"which will allow for 36% affordable housing but with a tenure mix that has just 50% in the lowest 4 income bands. To increase this affordability to 86% in these income bands, in accordance with emerging policy P4, the IRR would need to increase over time to 10 -12%. The applicant’s position is for this predicted uplift to be secured by a clawback review mechanism in the S106 agreement."_ Further saying that _"Such a review mechanism would need to be both sophisticated and robust to maximise the level of affordable units, in the lower rental bands, that is both reasonable and viable. "_
 
 ## Floorspace figures
 It is difficult to quote affordable housing statistics when calculated by habitable room as the applicant and Council have used. Using floorspace gives a more accurate overview as it takes into account different dwelling types and room sizes. It also also encouraged by policy (NSP & London Plan):
@@ -101,7 +99,7 @@ The [planning statement](http://planbuild.southwark.gov.uk/documents/?GetDocumen
 
 A hybrid BTS/BTR scheme would therefore have needed to provide 6,051 sqm (12%) Social Rented accommodation on the BTR East Site and 9,808 sqm (17.5%) on the BTS West Site. The overall scheme would then need to provide 18,856 sqm of Social Rented accommodation. Instead it is providing less than half this amount.
 
-Using the updated draft emerging policy figures (15% vs 12% on East Site) then this shortfall is much greater.
+Using the updated draft emerging policy (NSP) figures (15% vs 12% on East Site) then this shortfall is much greater.
 
 ## Misc
 - pg 74, para 7.1 => developer reserves right to retain any surplus resulting from injection of grant funding.
