@@ -48,26 +48,19 @@ Indeed, because it was introduced at such late notice, there has been no indepen
 
 Paragraph 864 of the planning committee report summarises the objections submitted by the 35% Campaign:
 
-* _"Object to the developer being able to confirm the tenure of the west site dwellings after
-permission is granted;"_
+* _"Object to the developer being able to confirm the tenure of the west site dwellings after permission is granted;"_
 
-* _"Unreasonable to expect the Planning Committee to decide the merits of the scheme
-without knowing the precise tenure of over half of the homes;"_
+* _"Unreasonable to expect the Planning Committee to decide the merits of the scheme without knowing the precise tenure of over half of the homes;"_
 
-* _"The viability implications of a built to rent / build to sell scheme have not been
-addressed by the applicant;"_
+* _"The viability implications of a built to rent / build to sell scheme have not been addressed by the applicant;"_
 
-* _"The affordable housing offer uses arguments in support of build to rent, which would
-not be relevant if half the scheme were build to sell;"_
+* _"The affordable housing offer uses arguments in support of build to rent, which would not be relevant if half the scheme were build to sell;"_
 
-* _"Object to the affordable housing offer being based on emerging policy P4 of the draft
-New Southwark Plan if half the units would be build to sell;"_
+* _"Object to the affordable housing offer being based on emerging policy P4 of the draft New Southwark Plan if half the units would be build to sell;"_
 
-* _"Introducing build to sell will confuse the affordable housing requirement. Saved policy
-4.4 should apply for the whole site, regardless of whether it is for sale or rent;"_
+* _"Introducing build to sell will confuse the affordable housing requirement. Saved policy 4.4 should apply for the whole site, regardless of whether it is for sale or rent;"_
 
-* _"Applicant does not elaborate on what other changes may be required to the west site if
-it is build to sell;"_
+* _"Applicant does not elaborate on what other changes may be required to the west site if it is build to sell;"_
 
 Paragraph 900 of the planning committee report confirms that 92 separate representations have been received which include the objection that the _"Option for a build to sell scheme undermines the developer’s viability appraisal;"_ 
 
