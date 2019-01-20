@@ -57,7 +57,7 @@ In May 2015 we [discovered](https://www.southwarknews.co.uk/news/southwark-counc
 
 ![](http://35percent.org/img/LGOFinalDecisionSOR.png)
 
-The Council initially [promised](https://www.southwarknews.co.uk/news/gov-report-finds-council-failed-years-monitor-developers-broken-promises-provide-social-housing/) that first 1 year audit would be published in 2017. It didn't happen. It later [explained that the audit was taking time because it was going back to 2010 and promised](https://www.southwarknews.co.uk/news/council-will-clamp-housing-providers-flunk-affordable-housing-promises/) that it would be completed in Spring 2018. Nearly three years have now passed since the Ombudsman decision and while the chair of the planning committee has [promised](https://twitter.com/cllrmseaton/status/1058056214230253573) to look into it, we are yet to see or hear anything of the audit.
+The Council initially [promised](https://www.southwarknews.co.uk/news/gov-report-finds-council-failed-years-monitor-developers-broken-promises-provide-social-housing/) that the first 1-year audit would be published in 2017. It didn't happen. It later [explained that the audit was taking time because it was going back to 2010 and promised](https://www.southwarknews.co.uk/news/council-will-clamp-housing-providers-flunk-affordable-housing-promises/) that it would be completed in Spring 2018. Nearly three years have now passed since the Ombudsman decision and while the chair of the planning committee has [promised](https://twitter.com/cllrmseaton/status/1058056214230253573) to look into it, we are yet to see or hear anything of the audit.
 
 ![](http://35percent.org/img/snauditpromise2.png)
 
