@@ -87,18 +87,13 @@ The [Accommodation Schedule](http://planbuild.southwark.gov.uk/documents/?GetDoc
 
 The [planning statement](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!LnbCaTCiMmUoN4H%2fUA2yyg%3d%3d!%7d%7d%7d) confirms that there will be 50,428 sqm of residential floorspace on the East Site and 56,043 sqm of residential on the West Site. 
 
-A hybrid BTS/BTR scheme would therefore have needed to provide 6,051 sqm (12%) Social Rented accommodation on the BTR East Site and 9,808 sqm (17.5%) on the BTS West Site. 
+A policy-compliant hybrid BTS/BTR scheme would therefore need to provide 15,859 sqm of Social Rented accommodation (6,051 sqm (12%) on the BTR East Site and 9,808 sqm (17.5%) on the BTS West Site). Instead the S106 secures just over half of this amount (9,141sqm). So, as a result of the S106 drafting failure if Delancey opts to exercise the BTS option, the scheme will provide just over half (57%) of the social rented housing that the planning committee was told it would provide. This is a loss of approximately 100 much-needed social rented homes. 
 
-Total residential on East Site = 50,428sqm (Social Rent@12% = 6,051sqm)
-Total residential on West Site (BTS) = 56,043 (Social Rent@17.5% = 9,808sqm)
+* Total residential on East Site = 50,428sqm (Social Rent@12% = 6,051sqm)
 
-Total SR requirement under hybrid BTS/BTR scheme = 15,859sqm (6,051sqm+9,808sqm)
+* Total residential on West Site (BTS) = 56,043 (Social Rent@17.5% = 9,808sqm)
 
-A policy compliant BTR/BTS scheme would therefore need to provide 15,859 sqm of Social Rented accommodation. Instead it is providing just over half (57%) of this amount (9,141sqm).
-
-So, as a result of the S106 drafting failure if Delancey opts to exercise the BTS option, the scheme will provide just over half (57%) of the social rented housing that the planning committee was told it would provide. This is a loss of approximately 100 much-needed social rented homes. 
-
-If we were to use the updated draft emerging policy (NSP) figures (15% vs 12% on East Site) then this shortfall would be even greater.
+* Total SR requirement under hybrid BTS/BTR scheme = 15,859sqm (6,051sqm+9,808sqm)
 
 ## Misc
 - pg 74, para 7.1 => developer reserves right to retain any surplus resulting from injection of grant funding.
