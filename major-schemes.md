@@ -46,3 +46,8 @@ It is also fair to say that some of the schemes have provided 'affordable rent' 
 
 __Footnotes:__
 [^1]: Confirmed in paragraph 73 of [this Oct 2018 Cabinet report](http://moderngov.southwark.gov.uk/documents/s78248/Report%20New%20Homes%20Programme%20Delivery%20Model%20Review%202018.pdf).
+
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:title" content="Soft-touch Southwark" />
+<meta name="twitter:description" content="Developers flouting Southwark's affordable housing policies" />
+<meta name="twitter:image" content="http://35percent.org/img/majschemes.png" />
