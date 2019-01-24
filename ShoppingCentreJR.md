@@ -1,4 +1,5 @@
 ---
+layout: page
 title: '35% Campaign, E&C Shopping Centre Section 106 appeal (19th Jan 2019)'
 published: true
 ---
@@ -68,9 +69,9 @@ Paragraph 900 of the planning committee report confirms that 92 separate represe
 ## Other notes/draft observations
 The 'Application Viability Appraisal' (appendix 10) relied upon by the S106 review mechanism is based on 'with grant funding' -> so review mechanisms and prospect of reduced discounted market rents will be severely compromised if grant funding is not allocated.
 
-The S106 agreement applies an 'Affordable Housing Cap' (pg 9) and maximum limit to the level of affordable housing provision (See definition 'Affordable Housing Provision' on page 8) and also para 2.1 page 132. This is not mentioned in the OR and is contrary to policy 3.12 of the LP which requires the maximum viable amount of affordable housing.
+The FVA in appendix 10 lists grant funding as £8m for the West Site and £3.3m for the East Site. However, the Mayor's [current 2016-2021 Funding Programme](https://www.london.gov.uk/sites/default/files/homesforlondoners-affordablehomesprogrammefundingguidance.pdf) says that under the 'Developer-led route' there is only £28,000 available per affordable home above the nil-grant level (paras 47-52 on page 18). It doesn't specify the tenure, only 'affordable' so, given that the number of 'affordable' homes won't be increased by a 'with grant' scheme, then there is a question whether any grant funding is available at all. In any case it is hard to see where the £11m quoted in the FVA comes from..
 
-Officer's Report says nothing about an upper limit being applied to the review mechanism, it just says that any uplift identified by the review would have the 'aim of getting closer to a policy compliant level' (405). Elsewhere in the OR, it says that the review will be conducted in accordance with the Development Viability SPD, which itself applies no such upper limit. 
+The Mayors 2016-2021 AH Programme requires affordable homes funded by this programme [to have starts on site by March 2022](https://www.london.gov.uk/decisions/md2282-additional-funding-affordable-homes). This is clearly feasible for the East Site but not possible for the West Site because Delancey must first build UAL's campus (on the East site) before it can even take possession of the West site.  
 
 ## Social rented units on West Site secured in event of stalled scheme
 Para 364 of the OR says _"The affordable housing proposed would also not be evenly distributed across both sites, with the social rented units all being delivered on the west site. The s106 agreement would therefore stipulate that if the development on the west site has not substantially commenced within 10 years of the east site commencing, the land and sum of money sufficient for construction and completion of the social rented units would be transferred to the Council, to deliver the social rented units."_ This implies that the land would be transferred at nil consideration.
@@ -96,6 +97,12 @@ A policy-compliant hybrid BTS/BTR scheme would therefore need to provide 15,859 
 * Total SR requirement under hybrid BTS/BTR scheme = 15,859sqm (6,051sqm+9,808sqm)
 
 So, as a result of the S106 drafting failure if Delancey opts to exercise the BTS option, the scheme will provide just over half (57%) of the social rented housing that the planning committee was told it would provide. This is a loss of approximately 100 much-needed social rented homes.
+
+## FVA discrepancies
+The Council's independent advisors produced a report for the planning committee in which a cost was listed in every FVA saying that there was a £15m CPO cost. It says it was provided this assumption by Delancey and that it was in the process of verifying it:
+
+![](/img/sccpo.png)
+
 
 ## Misc
 - pg 74, para 7.1 => developer reserves right to retain any surplus resulting from injection of grant funding.
