@@ -1,8 +1,9 @@
 ---
 layout: page
-title: '35% Campaign, E&C Shopping Centre Section 106 appeal (19th Jan 2019)'
-published: true
+title: 'Shopping Centre S106 Notes'
+published: true 
 ---
+## Social rented housing review mechanism failure
 The S106 agreement for the scheme fails to secure the viability review mechanism for uplift in social rented housing relating to the Build-to-Sell (BTS) scheme option agreed by the planning committee.
 
 On xxth December 2016, the developer applied for planning permission for the redevelopment of E&C shopping centre and UAL campus to include 979 new residential units, all of which to be provided as 'Build to Rent' (BTR) accommodation. 
@@ -66,14 +67,14 @@ Paragraph 864 of the planning committee report summarises the objections submitt
 Paragraph 900 of the planning committee report confirms that 92 separate representations have been received which include the objection that the _"Option for a build to sell scheme undermines the developer’s viability appraisal;"_ 
 
 
-## Other notes/draft observations
+## Grant Funding
 The 'Application Viability Appraisal' (appendix 10) relied upon by the S106 review mechanism is based on 'with grant funding' -> so review mechanisms and prospect of reduced discounted market rents will be severely compromised if grant funding is not allocated.
 
 The FVA in appendix 10 lists grant funding as £8m for the West Site and £3.3m for the East Site. However, the Mayor's [current 2016-2021 Funding Programme](https://www.london.gov.uk/sites/default/files/homesforlondoners-affordablehomesprogrammefundingguidance.pdf) says that under the 'Developer-led route' there is only £28,000 available per affordable home above the nil-grant level (paras 47-52 on page 18). It doesn't specify the tenure, only 'affordable' so, given that the number of 'affordable' homes won't be increased by a 'with grant' scheme, then there is a question whether any grant funding is available at all. In any case it is hard to see where the £11m quoted in the FVA comes from..
 
 The Mayors 2016-2021 AH Programme requires affordable homes funded by this programme [to have starts on site by March 2022](https://www.london.gov.uk/decisions/md2282-additional-funding-affordable-homes). This is clearly feasible for the East Site but not possible for the West Site because Delancey must first build UAL's campus (on the East site) before it can even take possession of the West site.  
 
-## Social rented units on West Site secured in event of stalled scheme
+## Are Social rented units on West Site really secured in event of stalled scheme?
 Para 364 of the OR says _"The affordable housing proposed would also not be evenly distributed across both sites, with the social rented units all being delivered on the west site. The s106 agreement would therefore stipulate that if the development on the west site has not substantially commenced within 10 years of the east site commencing, the land and sum of money sufficient for construction and completion of the social rented units would be transferred to the Council, to deliver the social rented units."_ This implies that the land would be transferred at nil consideration.
 
 However the S106 agreement fails to secure this - see paras 3.5.2 and 3.5.3 (page 118). These give the option to the Council to either take up a 'long leasehold' agreement with the Council building the homes and the developer paying the construction costs or for the Council to be given the 'long leasehold' at 'nil consideration' with the Council paying the construction costs itself but the value of the non-residential space supposedly making up for the construction costs. 
