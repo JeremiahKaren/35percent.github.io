@@ -3,7 +3,7 @@ layout: page
 title: 'Shopping Centre S106 Notes'
 published: true 
 ---
-## Social rented housing review mechanism failure
+## BTS/BTR hybrid scheme review mechanism failure - Social rent
 The S106 agreement for the scheme fails to secure the viability review mechanism for uplift in social rented housing relating to the Build-to-Sell (BTS) scheme option agreed by the planning committee.
 
 On xxth December 2016, the developer applied for planning permission for the redevelopment of E&C shopping centre and UAL campus to include 979 new residential units, all of which to be provided as 'Build to Rent' (BTR) accommodation. 
@@ -100,10 +100,11 @@ A policy-compliant hybrid BTS/BTR scheme would therefore need to provide 15,859 
 So, as a result of the S106 drafting failure if Delancey opts to exercise the BTS option, the scheme will provide just over half (57%) of the social rented housing that the planning committee was told it would provide. This is a loss of approximately 100 much-needed social rented homes.
 
 ## FVA discrepancies
-The Council's independent advisors produced a report for the planning committee in which a cost was listed in every FVA saying that there was a £15m CPO cost. It says it was provided this assumption by Delancey and that it was in the process of verifying it:
+The Council's independent advisors produced a report for the pl anning committee in which a cost was listed in every FVA saying that there was a £15m CPO cost. It says it was provided this assumption by Delancey and that it was in the process of verifying it:
 
 ![](/img/sccpo.png)
 
+Planning Committee report said that Delancey's viability assessment had been reviewed by GVA and that assumptions had been agreed. But the draft S106 shows that there wasn't agreement (GDV of 17.5% vs 11% on BTS scheme). Also GVA hadn't reviewed the hybrid BTS/BTR scheme (see letter from GVA a couple of weeks before hearing).
 
 ## Misc
 - pg 74, para 7.1 => developer reserves right to retain any surplus resulting from injection of grant funding.
