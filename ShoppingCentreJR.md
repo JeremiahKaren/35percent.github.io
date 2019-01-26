@@ -4,11 +4,9 @@ title: 'Shopping Centre S106 Notes'
 published: true 
 ---
 ## BTS/BTR hybrid scheme review mechanism failure - Social rent
-The S106 agreement for the scheme fails to secure the viability review mechanism for uplift in social rented housing relating to the Build-to-Sell (BTS) scheme option agreed by the planning committee.
+The S106 agreement for the scheme fails to secure the viability review mechanism for uplift in social rented housing relating to the Build-to-Sell (BTS) scheme option agreed by the planning committee. 
 
 On xxth December 2016, the developer applied for planning permission for the redevelopment of E&C shopping centre and UAL campus to include 979 new residential units, all of which to be provided as 'Build to Rent' (BTR) accommodation. 
-
-Paragraph 352 of the planning committee report explains that _"The Mayor’s Affordable Housing and Viability SPG provides specific guidance on Build to Rent developments recognising that they differ from the traditional build for sale model. It supports Discount Market Rent (DMR) as the affordable housing offer with a preference for such homes to be let at London Living Rent levels.."_
 
 Planning policy governing BTR schemes is currently still 'emerging'. According to Southwark's draft NSP at the time of the planning application, the tenure mix requirement for a BTR scheme had a lower requirement for social rented accommodation 12% (34% of 35%). This draft policy requirement of 34% has since been increased to 43% in the latest draft of the NSP (15% of total). The draft NSP requires a significantly greater proportion (25%) social rented tenure (70% of 35%) for BTS schemes. The existing 2012 E&C SPD requires 17.5% (50% of 35%).
 
@@ -41,12 +39,17 @@ However the S106 agreement's review mechanism fails to secure this increase in s
 
 In summary, the Planning Committee was misled to believe that a robust review mechanism would ensure that any BTS option on the West Site would provide an additional proportion of social rented units in line with the different policy requirements of a BTS. The review mechanism in the S106 fails in this regard.
 
-The practical implications of this are that Delancey can now opt to deliver a more profitable BTS scheme on the West Site (14% IRR vs 11%) without providing the number of social rented homes required by policy for a BTS scheme. The floorspace calculations below show that this will result in the hybrid BTS/BTR scheme providing less than half the amount of social rented housing required by policy. This will result in the failure to create the mixed community envisaged by and meet the housing need required by the local development plan. 
+Delancey can now opt to deliver a more profitable BTS scheme on the West Site (14% IRR vs 11%) without providing the number of social rented homes required by policy for a BTS scheme. The floorspace calculations below show that this will result in the hybrid BTS/BTR scheme providing less than half the amount of social rented housing required by policy. This will result in the failure to create the mixed community envisaged by and meet the housing need required by the local development plan. 
+
+Further, paragraph 402 of the planning committee report says that _"in view of the fact that the affordable housing provides a compliant quantum of 35% but has a non-compliant tenure split, and in line with the Council's Development Viability SPD, a viability review (VR) would be required. This is to ensure that if the economic circumstances of the scheme change in the future an improved tenure split can be achieved in order to be more closely if not fully compliant with policy. The detailed requirements for the viability reviews will be secured within the S106 legal agreement."_
+
+Paragraph 405 says _"Any uplift above the agreed IRR of 11% as set out in the final FVA would be applied to increase the percentage of affordable units at the social rent equivalent and London Living Rent equivalent units with the aim of getting closer to a policy compliant level."_
+
+The practical implications of this are that the S106 agreement fails to ensure that any uplift in the viability of the scheme, regardless of which option is pursued, will provide any extra social rented housing.
 
 In addition, the viability review mechanism for the BTS scheme assumes different assumptions - a higher overall profit level (14% IRR) for which there is no agreement (the letter from GVA says that they haven't reviewed the BTS West Site scheme) and 17.5% profit on residential GDV which we know from the draft S106 that Southwark didn't want to agree (see draft S106 where LBS said 17.5% was not agreed and wanted 12.5% instead).
 
 Indeed, because it was introduced at such late notice, there has been no independent viability review of the hybrid BTS West Site/BTR East Site scheme. This is despite the planning committee report's assertions that the FVA has been appraised and agreed (paras 391,392). The 35% Campaign pointed this out in its representations to the Council prior to the planning committee hearing. 
-
 
 Paragraph 864 of the planning committee report summarises the objections submitted by the 35% Campaign:
 
@@ -68,16 +71,18 @@ Paragraph 900 of the planning committee report confirms that 92 separate represe
 
 
 ## Grant Funding
-The 'Application Viability Appraisal' (appendix 10) relied upon by the S106 review mechanism is based on 'with grant funding' -> so review mechanisms and prospect of reduced discounted market rents will be severely compromised if grant funding is not allocated.
-
-In addition, the FVA (relied upon for all review mechanisms) in appendix 10 lists grant funding as £8m for the West Site and £3.3m for the East Site. However, the Mayor's [current 2016-2021 Funding Programme](https://www.london.gov.uk/sites/default/files/homesforlondoners-affordablehomesprogrammefundingguidance.pdf) says that under the 'Developer-led route' there is only £28,000 available per affordable home above the nil-grant level (paras 47-52 on page 18). It doesn't specify the tenure, only 'affordable' so, given that the number of 'affordable' homes won't be increased by a 'with grant' scheme, then there is a question whether any grant funding is available at all. In any case it is hard to see where the £11m quoted in the FVA comes from..
+The 'Application Viability Appraisal' (appendix 10) relied upon by the S106 review mechanism is based on 'with grant funding' -> so review mechanisms and prospect of an improved affordable housing mix will be severely compromised if grant funding is not allocated. - it will leave an £11.3m black hole in the viability of the scheme.
 
 The Mayors 2016-2021 AH Programme requires affordable homes funded by this programme [to have starts on site by March 2022](https://www.london.gov.uk/decisions/md2282-additional-funding-affordable-homes). This is clearly feasible for the East Site but not possible for the West Site because Delancey must first build UAL's campus (on the East site) before it can even take possession of the West site.  
 
-## Are Social rented units on West Site really secured in event of stalled scheme?
-Para 364 of the OR says _"The affordable housing proposed would also not be evenly distributed across both sites, with the social rented units all being delivered on the west site. The s106 agreement would therefore stipulate that if the development on the west site has not substantially commenced within 10 years of the east site commencing, the land and sum of money sufficient for construction and completion of the social rented units would be transferred to the Council, to deliver the social rented units."_ This implies that the land would be transferred at nil consideration.
+The Mayor's stage 2 final report said that with grant funding he had been able to improve the affordable housing offer and ensure that all DMR rents will be reduced to the £60k affordability threshold. But the S106 doesn't reflect this - DMR rents are still listed as being in the £60k to £90k affordability bracket.
 
-However the S106 agreement fails to secure this - see paras 3.5.2 and 3.5.3 (page 118). These give the option to the Council to either take up a 'long leasehold' agreement with the Council building the homes and the developer paying the construction costs or for the Council to be given the 'long leasehold' at 'nil consideration' with the Council paying the construction costs itself but the value of the non-residential space supposedly making up for the construction costs. 
+## Are Social rented units on West Site really secured in event of stalled scheme?
+Para 364 of the OR says _"The affordable housing proposed would also not be evenly distributed across both sites, with the social rented units all being delivered on the west site. The s106 agreement would therefore stipulate that if the development on the west site has not substantially commenced within 10 years of the east site commencing, the land and sum of money sufficient for construction and completion of the social rented units would be transferred to the Council, to deliver the social rented units."_
+
+However the S106 agreement fails to secure this. The Council is given two options in the event of a stalled scheme - see options 2 and 3 in paras 3.5.2 and 3.5.3 (page 118). Option 2 enables the land to be transferred and Delancey pays 'Net SR Construction Costs', which is listed in the definitions section not as the estimated or actual constructions costs but the DIFFERENCE between the (agreed) estimated construction and demolitions costs (£37.8m plus £?? demolition) of the SR units and NR floorspace and the (agreed) estimated value (£26.6 for SR units - £23m for NR).
+
+Option 3 requires the Council to pay for both the social rented housing and non-residential floorspace.
 
 ## Floorspace figures
 It is difficult to quote affordable housing statistics when calculated by habitable room as the applicant and Council have used. Using floorspace gives a more accurate overview as it takes into account different dwelling types and room sizes. It also also encouraged by policy (NSP & London Plan):
