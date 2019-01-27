@@ -10,14 +10,14 @@ To welcome the New Year and in a spirit of fraternity we have come up with ten a
 ## 1. Stop selling off Council homes
 [Research](http://www.londontenants.org/publications/other/Boroughs%20SR%20loss%20or%20gain%202001-17%20(FF4).jpg) by the [London Tenants Federation](http://londontenants.org) shows that Southwark has lost more social housing than any other borough since 2001.
 
-As well as [right to buy and estate demolitions](http://35percent.org/the-southwark-clearances/), homes are also being lost through the sale of 'high value' coumcil homes, through a scheme that was introduced in 2009 by Southwark's Tory/Lib Dem administration, for vacant council houses valued above £400,000 . In 2011 the scheme was [reviewed and the value reduced to £300,000](http://moderngov.southwark.gov.uk/documents/s19458/Report%20Review%20of%20Void%20Disposal%20Strategy.pdf) by the incoming Labour administration.
+As well as [right to buy and estate demolitions](http://35percent.org/the-southwark-clearances/), homes are also being lost through the sale of 'high value' coumcil homes, through a scheme that was introduced in 2009 by Southwark's Tory/Lib Dem administration, for vacant council houses valued above £400,000 . In 2011 the scheme was [reviewed and the value reduced to £300,000](http://moderngov.southwark.gov.uk/documents/s19458/Report%20Review%20of%20Void%20Disposal%20Strategy.pdf) by the incoming Labour administration and then [increased to £500,000 in 2014](http://moderngov.southwark.gov.uk/documents/s47497/Report%20Review%20of%20voids%20disposal%20strategy.pdf).
 
 We don't know how many council homes have been sold under this policy to date, but [this compilation](http://35percent.org/img/sold_by_southwark.pdf) taken from an auction website shows a sample of over 50 properties sold off in this [ongoing policy of disposals](http://moderngov.southwark.gov.uk/ieDecisionDetails.aspx?AIId=48244).
 
 ![](http://35percent.org/img/samplecouncilhomessold.png)
 *Extracts from a [sample](/sold_by_southwark.pdf) of council homes sold by the current Labour administration under this policy*
 
-Southwark's justification for this is that the sales revenue allows more council housing to be built more cheaply elsewhere in the borough, but the cost of building new social rented homes is surprisingly high and can exceed the £300,000 threshold:
+Southwark's justification for this is that the sales revenue allows more council housing to be built more cheaply elsewhere in the borough, but the cost of building new social rented homes is surprisingly high and there is a severe shortage of available land.
 
 ![](http://35percent.org/img/buildcost.png)
 *Extract from [Council report](http://moderngov.southwarksites.com/ieDecisionDetails.aspx?ID=5887) on Kipling estate new builds*
@@ -26,7 +26,7 @@ Southwark's justification for this is that the sales revenue allows more council
 *Extract from [Council report](http://moderngov.southwark.gov.uk/documents/s75190/Report%20Gateway%202%20-%20Contract%20Award%20Construction%20of%20New%20Build%20Units%20at%20Pelier%20Street.pdf) on Pelier estate new builds*
 
 As we [reported previously](http://35percent.org/2018-11-12-11000-council-homes-manifesto-pledge/) the Council is still selling off or knocking down Council homes faster than it is building them.
-
+ 
 ## 2. Stop selling off public land and buildings
 Southwark's 'modernisation' drive has also seen it sell off public buildings and land including [both Bermondsey and Peckham Town Halls](http://35percent.org/southwark-town-halls/); Harper Rd Social Services Centre; Castle Day Centre; Whitstable Day Nursery; Abbey St Children's Home; Willowbrook Community Centre and the Wansey St Homeless Hostel.
 
@@ -38,7 +38,7 @@ These sales no doubt raise funds, but The Mayor's [new draft London Plan](https:
 
 <a href="http://35percent.org/img/soldland.png"><img src="http://35percent.org/img/soldland.png"></a>
 
-What brings this policy of selling land further into question is that the same time the Council is buying plots of land to fulfill its manifesto pledge of building 11,000 new council homes. [This recent Cabinet report](http://moderngov.southwark.gov.uk/documents/s79805/Report%201%20Ann%20Moss%20Way%20Rotherhithe%20London%20SE16%201TL.pdf) approving the purchase of a site in Rotherhithe, confirms that _"A key constraint we face is this great task is in the availability of land to build the next generation of new council homes, and to this end the council is committed to identifying and where possible acquiring new sites in the borough."_
+What brings these land sales further into question is that the Council is simultaneously buying plots of land to fulfill its manifesto pledge of building 11,000 new council homes. [This recent Cabinet report](http://moderngov.southwark.gov.uk/documents/s79805/Report%201%20Ann%20Moss%20Way%20Rotherhithe%20London%20SE16%201TL.pdf) approving the purchase of a site in Rotherhithe, confirms that _"A key constraint we face is this great task is in the availability of land to build the next generation of new council homes, and to this end the council is committed to identifying and where possible acquiring new sites in the borough."_
 
 ## 3. No more approvals like this...
 
