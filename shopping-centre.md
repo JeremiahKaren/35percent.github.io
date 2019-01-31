@@ -21,6 +21,15 @@ As is usual developer Delancey has submitted a viability assessment claiming tha
 
 ![](/img/delanceyfvaprofit.png)
 
+The Council's independent advisors (GVA) produced a [report](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!PHUQPPiesgvQWEZYj1nx%2fw%3d%3d!%7d%7d%7d) for the planning committee in which an input was listed in the FVA saying that there was a £15m CPO cost. It says it was provided this assumption by Delancey and that it was in the process of verifying it:
+
+![](/img/sccpo.png)
+
+However, Delancey has reached agreement with the bingo hall and handful of traders who had leases extending beyond 2019 as well as the freehold owners of the pub and two terraced properties adjacent to the Coronet so the CPO is no longer needed. Whether the settlements with each of these collectively amount to £15m has never been confirmed.
+
+Furthermore, shortly before the planning application was due to be heard, Delancey applied for an option to be able to build a hybrid BTR/BTS (Buy-to-Sell) scheme, for which it submitted a [separate viability assessment](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!08IPAajx1d%2flXs093xrSJA%3d%3d!%7d%7d%7d). This new FVA for a hybrid scheme was never reviewed by the Council's assessors GVA. Delancey's claim that this hybrid scheme couldn't viably provide a policy-compliant level of affordable housing was accepted by Southwark without any expert appraisal.
+
+## Offshore Elephant
 Delancey's 'Build-to-Rent' homes will be privately managed by a Delancey subsidiary __Get Living London__. Despite [managing over £1bn worth of PRS homes](http://www.propertyweek.com/news/get-living-to-double-assets-to-%C2%A32bn/5088136.article) __Get Living London__ has [never paid a penny of corporation tax](https://beta.companieshouse.gov.uk/company/07793925/filing-history). This is because its parent companies are [Qatari Diar](http://www.cityam.com/238088/elephant-castle-scheme-and-east-village-site-merged-to-create-14bn-private-rented-sector-venture){:target="_blank"} and Delancey's [tax-avoiding](http://crappistmartin.github.io/images/PrivateEyeNo1311.pdf){:target="_blank"} offshore investment fund DV4 registered in the British Virgin Islands. The Elephant and Castle shopping centre is currently owned by one of the fund's shell companies [registered in the BVI](http://crappistmartin.github.io/images/LRDeeds_ShoppingCentre.pdf){:target="_blank"} and whose directors are [registered](https://beta.companieshouse.gov.uk/company/04434716/officers){:target="_blank"} in Bermuda and Kuwait. We have shown before how Delancey uses a [complex network of offshore companies](http://35percent.org/2014-05-05-manx-connections-the-off-shore-home-of-the-elephants-developers/) to avoid paying tax.
 
 ![Delancey's Elephant & Castle holdings registered in the BVI](/img/shoppingcentrelr.png)
