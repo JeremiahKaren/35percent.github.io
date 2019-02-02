@@ -12,10 +12,14 @@ published: false
 ## NailHouses
 [Land Registry Records](http://35percent.org/lrdeeds/scnewsagents.pdf) show that the buildings comprising the newsagents and the [Dental Practice](http://35percent.org/lrdeeds/32NKR.pdf) and above flats are still in private freehold ownership.
 
-![](/img/nailhouses..)
+![](http://35percent.org/img/davish.png)
 
 ## Commercially confidential
-On 22nd January, the Council [approved](http://moderngov.southwark.gov.uk/documents/s79801/Report%20New%20Library%20and%20Heritage%20Centre%20for%20Walworth.pdf) the purchase of a shop from Lendlease on the latest phase to complete of 'Elephant Park' - aka Heygate estate. The Council's report said that the shop would be leased to the Council so that it could use it on a peppercorn lease in return for a 'premium' which was disclosed in the confidential closed report to Cabinet:
+On 22nd January, the Council [approved](http://moderngov.southwark.gov.uk/documents/s79801/Report%20New%20Library%20and%20Heritage%20Centre%20for%20Walworth.pdf) the purchase of a shop from Lendlease on the latest phase to complete of 'Elephant Park' - aka Heygate estate.
+
+![](http://35percent.org/img/wlibrary.jpg)
+
+The Council's report said that the shop would be leased to the Council so that it could use it on a peppercorn lease in return for a 'premium' which was disclosed in the confidential closed report to Cabinet:
 
 ![](http://35percent.org/img/librarylease.png)
 
