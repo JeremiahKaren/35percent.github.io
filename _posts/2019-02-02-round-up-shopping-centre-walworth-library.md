@@ -9,8 +9,6 @@ published: false
 
 ![](http://35percent.org/img/sccfl.png)
 
-![](http://35percent.org/img/lospropertydevelopersnopasaran.jpg)
-
 ## NailHouses
 [Land Registry Records](http://35percent.org/lrdeeds/scnewsagents.pdf) show that the buildings comprising the newsagents and the [Dental Practice](http://35percent.org/lrdeeds/32NKR.pdf) and above flats are still in private freehold ownership.
 
