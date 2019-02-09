@@ -93,8 +93,16 @@ TFL also raises the issue of the mainline train station, for which - whilst havi
 ![](/img/transporthub.png)
 *Transport interchange envisaged by [original masterplan](https://www.scribd.com/doc/198503633/EandC-RegenMk1SLRplans){:target="_blank"}*
 
+## Public Realm
+[Land Registry Records](http://35percent.org/lrdeeds/shoppingcentreCouncilFreeholdLand.pdf) show that the Council is handing over a considerable amount of public realm to Delancey for its disastrous and inqequitable redevelopment of the E&C shopping centre.
 
+The [S106 legal agreement](/img/ShoppingCentreS106.pdf) shows that the entire public realm in Delancey's redeveloped Elephant & Castle will be privately managed and the Delancey reserves the right to 'eject' anyone it considers an 'annoyance':
 
+![](/img/s106annoyance.png)
+*Extract from the [S106 legal agreement](/img/ShoppingCentreS106.pdf) showing public realm clause*
+
+![](/img/scpublicrealm.jpg)
+*Extract from the [S106 legal agreement](/img/ShoppingCentreS106.pdf) showing new public realm*
  
 
 
