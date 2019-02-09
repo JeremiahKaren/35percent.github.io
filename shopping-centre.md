@@ -39,7 +39,7 @@ Delancey's 'Build-to-Rent' homes will be privately managed by a Delancey subsidi
 ![Delancey's Elephant & Castle holdings registered in the BVI](/img/shoppingcentrelr.png)
 
 ## What about existing retailers?
-As expected the shopping centre is to be demolished and there will be [no room for most of the existing retailers](http://35percent.org/2015-07-12-shopping-centre-and-lcc-redevelopment-proposals/){:target="_blank"}. Delancey's [planning statement](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!LnbCaTCiMmUoN4H%2fUA2yyg%3d%3d!%7d%7d%7d){:target="_blank"} contends that _'it is recognised that some existing retailers in the area are benefitting from disproportionately low levels of rent...'_ and concludes that _'it may not be financially viable for them to survive in the area in the longer term'_. 
+As expected the shopping centre is to be demolished and just 10% of the redeveloped site will be 'affordable retail' with sub market rents for the first 15 years. Delancey's [planning statement](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!LnbCaTCiMmUoN4H%2fUA2yyg%3d%3d!%7d%7d%7d){:target="_blank"} contends that _'it is recognised that some existing retailers in the area are benefitting from disproportionately low levels of rent...'_ and concludes that _'it may not be financially viable for them to survive in the area in the longer term'_. 
 
 ![](http://35percent.org/img/traderscomp.jpeg)
 
