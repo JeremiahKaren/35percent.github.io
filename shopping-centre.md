@@ -27,6 +27,10 @@ The Council's independent advisors (GVA) produced a [report](http://planbuild.so
 
 However, Delancey has reached agreement with the bingo hall and handful of traders who had leases extending beyond 2019 as well as the freehold owners of the pub and two terraced properties adjacent to the Coronet so the CPO is no longer needed. Whether the settlements with each of these collectively amount to £15m has never been confirmed.
 
+In addition, Delancey's viability assessment claimed a £92m acquisition cost for the shopping centre site. This is £12m more than it [actually paid for the site](http://crappistmartin.github.io/images/LRDeeds_ShoppingCentre.pdf) making the scheme look less profitable than it actually is.
+
+![](/img/fvaeastsiteacq.png)
+
 Furthermore, shortly before the planning application was due to be heard, Delancey applied for an option to be able to build a hybrid BTR/BTS (Buy-to-Sell) scheme, for which it submitted a [separate viability assessment](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!08IPAajx1d%2flXs093xrSJA%3d%3d!%7d%7d%7d). This new FVA for a hybrid scheme was never reviewed by the Council's assessors GVA. Delancey's claim that this hybrid scheme couldn't viably provide a policy-compliant level of affordable housing was accepted by Southwark without any expert appraisal.
 
 ## Offshore Elephant
