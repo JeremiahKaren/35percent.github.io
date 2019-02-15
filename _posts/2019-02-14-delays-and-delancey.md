@@ -17,7 +17,13 @@ Delancey reinforced its sniffy view that affordable retail was _'inappropriate'_
 
 Alongside this, similiar delays plagued the affordable housing offer, which Delancey only slowly and reluctantly improved because of fierce campaigning opposition.  It took Delancey 21 months (Oct 2016 - July 2017) to progress from the initial offer to their final, approved proposal, which still fell short of the affordable housing requirement. 
 
-The entire absence of genuine social rented housing in the intial offer ( a meagre 33 'social rent equivalents' out of 979 total units were proposed ) provoked most anger.  This went up to 74 units in Feb 2018 (link 13 Feb letter) and then 116 units, five months latteer, in July 2018 (OR270618 link), with the promise they would be 'proper' social rent. These concesssions though, came with a _quid pro quo_, raising the income thresholds of 116 Discounted Market Rent units to £80,000- £90,000 pa (OR 270618 para 379 link); this was too much for Mayor Sadiq Kahn who insisted on their reduction to £60,000 pa.(link GLA Stage 2 para 30). on his favoured London Living Rent (equivalents). The complete affordable housing was made up of 53 London Living Rent units, but still fell short of the 170 or so social rented units the adopted local plan requires.   
+The entire absence of genuine social rented housing in the intial offer ( a meagre 33 'social rent equivalents' out of 979 total units were proposed ) provoked most anger.  This went up to 74 units in Feb 2018 (link 13 Feb letter) and then 116 units, five months latteer, in July 2018 (OR270618 link), with the promise they would be 'proper' social rent. These concesssions though, came with a _quid pro quo_, raising the income thresholds of 116 Discounted Market Rent units to £80,000- £90,000 pa (OR 270618 para 379 link); this was too much for Mayor Sadiq Kahn who insisted on their reduction to £60,000 pa.(link GLA Stage 2 para 30). on his favoured London Living Rent (equivalents). The complete affordable housing was made up of 53 London Living Rent units, but still fell short of the 170 or so social rented units the adopted local plan requires.
+
+The shilly-shallying was reflected in the applications progress through the planning committee. The application was deferred three times (on the 18 Dec 2017, 16 Jan 2018, 30 Jan 2018) until final approval on 3 July 2018.
+
+This entailed 4 versions of an expanding officer's report, which had to recap the reasons for each successive delay and recount the improvements wrenched from a reluctant Delancey, while simultaneously insisting that the planning committee should approve the application,  because it was the best that could be got (including the 'maximum amount of affordable housing'), despite having said exactly the same the last time at a previous meeting. 
+
+Worth noting that 
 
 
 
