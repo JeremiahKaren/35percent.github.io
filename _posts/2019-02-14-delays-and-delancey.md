@@ -21,9 +21,13 @@ The entire absence of genuine social rented housing in the intial offer ( a meag
 
 The shilly-shallying was reflected in the applications progress through the planning committee. The application was deferred three times (on the 18 Dec 2017, 16 Jan 2018, 30 Jan 2018) until final approval on 3 July 2018.
 
-This entailed 4 versions of an expanding officer's report, which had to recap the reasons for each successive delay and recount the improvements wrenched from a reluctant Delancey, while simultaneously insisting that the planning committee should approve the application,  because it was the best that could be got (including the 'maximum amount of affordable housing'), despite having said exactly the same the last time at a previous meeting. 
+This entailed 4 versions of an expanding officer's report, which had to recap the reasons for each successive delay and recount the improvements wrenched from a reluctant Delancey, while simultaneously insisting that the planning committee should approve the application,  because it was the best that could be got (including the 'maximum amount of affordable housing'), despite having said exactly the same the last time at a previous meeting.
 
-Worth noting that 
+Not the end of the saga - Castle Sa another 6 months, Jan 2019
+
+Another 10 years for social rented units delivery
+
+it might be argued that this was Delancey 'listening' and responding to the communities concerns, but this would only be true if it had met the local plan's requirements in the first instance; the truth is that it is a well-rehearsed cdeveloper tactic- offer as little as you gain get away with, and then make 'concessions'
 
 
 
