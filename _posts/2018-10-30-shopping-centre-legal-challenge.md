@@ -2,7 +2,7 @@
 layout: post
 published: true
 title: "Elephant Shopping Centre - traders and campaigners step-up the fight"
-subtitle: "Campaigners mount legal challenge and object to insufficient temporary premises"
+subtitle: "Planning approval set to face legal challenge, while traders object to insufficient temporary premises"
 date: 'Tue Oct 30 2018 00:00:00 GMT+0000 (Greenwich Mean Time)'
 ---
 Elephant shopping Centre traders and local campaigners have taken the first step of a legal challenge to Southwark Council's [resolution to approve](http://35percent.org/2018-07-09-delancey/) the [shopping centre planning application](http://35percent.org/shopping-centre), while also objecting to the small size of a [proposed temporary facility](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!hAV0cqN%2bsOq%2febuFpH0spQ%3d%3d!%7d%7d%7d) for the traders' relocation during the 5 years it would take to redevelop the centre.
