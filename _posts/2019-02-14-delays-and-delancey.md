@@ -19,41 +19,15 @@ The relocation of shopping centre traders was even further down the list of Dela
 
 Alongside this, similiar delays plagued the affordable housing offer, which Delancey only slowly and reluctantly improved because of fierce campaigning opposition.  It took Delancey over 2 years (Oct 2016 - Dec 2018) to progress from the initial offer to their final, approved proposal, which still fell short of the affordable housing requirement. 
 
-There was a complete absence of social rented housing, or solid figures for any kind of affordable housing, in [the intial offer](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!i%2fH2BvEXXozMcypxg9AnYA%3d%3d!%7d%7d%7d). Delancey would only say that 35% affordable housing would be between 15% and 80% market rent, with a _'blended percentage'_ of 57% (Para 6.3).  This turned out to include a only a meagre [33 'social rent equivalents'](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!SeVE7nVBcuVxpQARghoUbA%3d%3d!%7d%7d%7d), out of 979 total units.  This went up to 74 units in [Feb 2018](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!0iVzasdHCgb1eVmQCrssOg%3d%3d!%7d%7d%7d), with 95 London Living Rent units and 161 affordable rent at 80% market rent.  Five months later, in [June 2018](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!b5xBNaYRSleWlYx6oXVrEA%3d%3d!%7d%7d%7d), the social rent was increased to 116 units, (with the promise that they would be 'proper' social rent), but the London Living Rent was reduced to 53 units to compensate, with 161 units remaining at 80% market rent, for income thresholds of £80,000-£90,000 pa . This was too much for Mayor Sadiq Kahn who [insisted on] a (http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!TivFPuHnthygbiMWO4k6Tw%3d%3d!%7d%7d%7d)  top threshold of £60,000 pa.  This final approved offer still fell short of the 170 or so social rented units the adopted local plan requires.
+There was a complete absence of social rented housing, or solid figures for any kind of affordable housing, in [the intial offer](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!i%2fH2BvEXXozMcypxg9AnYA%3d%3d!%7d%7d%7d). Delancey would only say that 35% affordable housing would be between 15% and 80% market rent, with a _'blended percentage'_ of 57% (Para 6.3).  This turned out to include a only a meagre [33 'social rent equivalents'](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!SeVE7nVBcuVxpQARghoUbA%3d%3d!%7d%7d%7d), out of 979 total units.  This went up to 74 units in [Feb 2018](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!0iVzasdHCgb1eVmQCrssOg%3d%3d!%7d%7d%7d), with 95 London Living Rent units and 161 affordable rent at 80% market rent.  Five months later, in [June 2018](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!b5xBNaYRSleWlYx6oXVrEA%3d%3d!%7d%7d%7d), the social rent was increased to 116 units, (with the promise that they would be 'proper' social rent), but the London Living Rent was reduced to 53 units to compensate, with 161 units remaining at 80% market rent, for income thresholds of £80,000-£90,000 pa . This was too much for Mayor Sadiq Kahn who [insisted on] a (http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!TivFPuHnthygbiMWO4k6Tw%3d%3d!%7d%7d%7d)  top threshold of £60,000 pa.
 
-The shilly-shallying was reflected in the applications progress through the planning committee. The application was deferred three times (on the 18 Dec 2017, 16 Jan 2018, 30 Jan 2018) until final approval on 3 July 2018.
+Delancey's footdragging was reflected in the applications progress through the planning committee. The application was deferred three times (on the 18 Dec 2017, 16 Jan 2018, 30 Jan 2018), while the planning committee, under intense pressure from campaigners (link), wrestled concessions, until final approval on 3 July 2018.
 
-This entailed 4 versions of an expanding officer's report, which had to recap the reasons for each successive delay and recount the improvements wrenched from a reluctant Delancey, while simultaneously insisting that the planning committee should approve the application,  because it was the best that could be got (including the 'maximum amount of affordable housing'), despite having said exactly the same the last time at a previous meeting.
-
-
-Another 10 years for social rented units delivery
-
-it might be argued that this was Delancey 'listening' and responding to the communities concerns, but this would only be true if it had met the local plan's requirements in the first instance; the truth is that it is a well-rehearsed cdeveloper tactic- offer as little as you gain get away with, and then make 'concessions'
+This entailed 4 versions of an expanding officer's report, which recapped the reasons for each successive delay and recounted the improvements wrenched from a reluctant Delancey.  Each version recommended approval, on the basis that the deal offered, including affordable retail, trader relocation and the 'maximum reasonable amount of affordable housing' was the best that could be got, only for the next version to demostrate that this was not the case.
 
 
+It might be argued that through this whole tortuous saga that Delancey 'listening' and responding to the community's concerns.  An alternative explanation is that it is a well-rehearsed developer tactic- offer as little as you gain get away with, and then make only those improvements you are forced to concede. Delaying the delivery of the hard-one 116 social rented units for at least 9 years employs the same delaying tactic (OR link). That aside, there can be little doubt that Had Delancey offered a scheme that included all the proposals it ended up with on 3 July 2019, it would have been approved at the very first scheduled planning committee meeting, back in Dec 2017.
 
-The application was presented to the planning committee on the 16 January.  It had generated over a thousand objections and united local ward councillors, Labour and Liberal Democrat, traders, shopping centre users, local residents and housing campaigners against Delancey and its scheme.  Nonetheless Southwark's planning department recommneded it for approval 
-
-
-
-
-This is not just a succession of unrelated omissions, but a deliberate developer tactic, to wear down opposition to proposals that don't conform to the local plan and don't deliver the benefits required to loccal people.  The discredited viability appraisals supplies handy pretexts.
-
-So Delancey is not really in any position to accuse others of 'delay'.  The pace of th entire proces has been pretty much under their control since day one and there is little doubt that if they had come forward with the proposal as it now is - with affordable retail, Castle Sq, 116 social rented units, Traders Panel, arelocation fund - that, however inadequate this all still is, that the would have been easily passed at the very first planning meeting back on 18 Dec 2017.
-
-hows the real cause of the traders' plight and exposes Delancey's insincerity
-
-of  The real cause of 'delay' Delancey has been determined to give as little as possible to others, including traders, while taking as much as possible for themselves.  determination to resist every requirement put which  is rooted in D through the planning process exposes Delancey's insincerity
-
-on 4 Jan 2018, with a [letter to Southwark] saying _'The Applicant is revising the affordable retail element of the proposed scheme such that the full 10% floorspace requirement will be delivered on both the East and West Sites.....The revised on-site approach renders the planning application policy compliant in terms of affordable retail provision...'_.
-
-Such crocodile-tears are entirely self-serving - Delancey hope that by playing on the anxieties of the traders, it can distract from the legal scrutiny of Southwark Council's decision-making, as well as its own footdragging.
-
-Delancey initial position was that affordable retail was _'inappropriate'_, as well as unviable.
-
-Delancey stated that '_it is recognised that some existing retailers in the area are benefitting from  disproportionately low levels of rent for such a central London location...'_. Eventually Delancey condescended to a relocation strategy for traders - but only [after it secured planning permission](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!LnbCaTCiMmUoN4H%2fUA2yyg%3d%3d!%7d%7d%7d)(Para 8.7).  .  Apart from the insufficient amount of affordable retail, which Delancey were obliged to provide anywy,
-
-These concesssions though, came with the _quid pro quo_, that the income thresholds of the 161 Discounted Market Rent units were raised to £80,000- £90,000 pa (OR 270618 para 379 link); 
 
 
 Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
