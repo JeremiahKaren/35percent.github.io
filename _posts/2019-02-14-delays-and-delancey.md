@@ -3,19 +3,25 @@ layout: post
 published: false
 title: Delays and Delancey
 ---
-## A New Post
+## Delancey looks to escape blame for its own faults
 
 In the face of a judicial review of their planning approval for the shopping centre demolition and redevelopment, centre owners and developer Delancey are showing a touching concern for the welfare of the traders, making noises about how any 'delays' can have only a bad effect on them.
 
 Delancey has not previously been in any hurry to settle the centre's future, other than entirely on their own terms, amply demonstrated by the snail's pace progress of their planning application.  It is a story of constant deferrment, caused by Delancey's refusal to meet the minimum requirement's of the Council's own local plan.
 
-Delancey are culpable in 3 areas - the affordable retail offer, the relocation of the traders and the affordable housing offer. 
+Delancey are culpable in 3 areas - the affordable retail offer, the relocation of the traders and the affordable housing offer.
+
+## No affordable retail
 
 The [application](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!jyNktp6uoRKVofXMUvOmvA%3d%3d!%7d%7d%7d) was lodged on the 28 October 2016 but did not include any affordable retail units, contrary to Southwark's 10% requirement.  Instead Delancey submitted a [Retail Assessment]() which said _'The Proposals do not include 10% affordable retail for the reasons outlined later. This would be unviable and inappropriate given the intention to create a strong retail/leisure anchor at the heart of the town centre'_ (4.63).  
 
 By Dec 2017 the affordable retail offer had inched up to the [equivalent of 5.3%](link OR 181217 para 88), including an in lieu payment. The application was scheduled for a planning  meeting on 18 Dec 2017, when Delancey, no doubt fearing a refusal (despite a [recommendation to approve](link OR 181217 para 1) asked for [a deferral](link OR 160118 para 2) _'to allow time for further negotiations in relation to the affordable retail proposal'_ (para 2) .  A fully [policy compliant offer](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!k0%2f9zNPAdMf5Ya4yWjd0Bw%3d%3d!%7d%7d%7d) was not made until Jan 2018, fully 15 months after the application was first made.
 
-The relocation of shopping centre traders was even further down the list of Delancey's priorities.  A [draft strategy](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!CgEoZ4vEh0beAm1jRSlUrA%3d%3d!%7d%7d%7d), put together without any input from traders, appeared in August 2017, nearly a year after the planning application. The strategy did not include anywhere for the traders to move to during the building of the new development.  This would have to wait another 5 months, until [February 2018](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!0iVzasdHCgb1eVmQCrssOg%3d%3d!%7d%7d%7d), when the [Castle Square](http://35percent.org/2018-10-30-shopping-centre-legal-challenge/) temporary facility for traders was proposed.The planning application for this wholly inadequate temporary space was made in [June 2018](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!hAV0cqN%2bsOq%2febuFpH0spQ%3d%3d!%7d%7d%7d), with approval in [January 2019](https://planning.southwark.gov.uk/online-applications/applicationDetails.do?keyVal=_STHWR_DCAPR_9578882&activeTab=summary). 
+## No relocation strategy
+
+The relocation of shopping centre traders was even further down the list of Delancey's priorities.  A [draft strategy](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!CgEoZ4vEh0beAm1jRSlUrA%3d%3d!%7d%7d%7d), put together without any input from traders, appeared in August 2017, nearly a year after the planning application. The strategy did not include anywhere for the traders to move to during the building of the new development.  This would have to wait another 5 months, until [February 2018](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!0iVzasdHCgb1eVmQCrssOg%3d%3d!%7d%7d%7d), when the [Castle Square](http://35percent.org/2018-10-30-shopping-centre-legal-challenge/) temporary facility for traders was proposed.The planning application for this wholly inadequate temporary space was made in [June 2018](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!hAV0cqN%2bsOq%2febuFpH0spQ%3d%3d!%7d%7d%7d), with approval in [January 2019](https://planning.southwark.gov.uk/online-applications/applicationDetails.do?keyVal=_STHWR_DCAPR_9578882&activeTab=summary).
+
+## No social rented housing
 
 Alongside this, similiar delays plagued the affordable housing offer, which Delancey only slowly and reluctantly improved because of [fierce campaigning opposition](http://35percent.org/2018-06-26-delancey-tries-again/).  It took Delancey over 2 years (Oct 2016 - Dec 2018) to progress from their initial offer to the final, approved proposal, while still falling short of the social rented housing requirement. 
 
