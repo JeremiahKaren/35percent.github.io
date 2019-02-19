@@ -31,7 +31,7 @@ There was a complete absence of social rented housing, or quantities for any kin
 
 Delancey's foot-dragging caused the application to be deferred three times (18 Dec 2017, 16 Jan 2018, 30 Jan 2018), while the planning committee, under intense [pressure from campaigners](http://35percent.org/2018-06-26-delancey-tries-again/), wrestled improvements into Delancey's scheme, until final approval on [3 July 2018](http://moderngov.southwark.gov.uk/ieListDocuments.aspx?CId=119&MId=5723&Ver=4).
 
-This entailed 4 versions of an expanding [officer's report](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!HvOs1eG7BYgl0hYZ8SIm5w%3d%3d!%7d%7d%7d), which recapped the reasons for each successive delay and recounted the improvements wrenched from a reluctant Delancey.  Each version recommended approval, on the basis that the deal offered, including affordable retail, trader relocation and the 'maximum reasonable amount of affordable housing' was the best that could be got, only for the next version to demostrate that this was not the case.
+This entailed 4 versions of an expanding [officer's report](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!HvOs1eG7BYgl0hYZ8SIm5w%3d%3d!%7d%7d%7d), which recapped the reasons for each successive delay and recounted the improvements wrenched from a reluctant Delancey.  Each version recommended approval, on the basis that the deal offered, including affordable retail, trader relocation and the 'maximum reasonable amount of affordable housing' was the best that could be got, only for the next version to demonstrate that this was not the case.
 
 ## Castle Square
 
