@@ -25,8 +25,10 @@ Delancey's footdragging was reflected in the applications progress through the p
 
 This entailed 4 versions of an expanding officer's report, which recapped the reasons for each successive delay and recounted the improvements wrenched from a reluctant Delancey.  Each version recommended approval, on the basis that the deal offered, including affordable retail, trader relocation and the 'maximum reasonable amount of affordable housing' was the best that could be got, only for the next version to demostrate that this was not the case.
 
+The delays did not end with the planning committee approval.  Planning approval was also needed forThe Castle Square temprary facility, as a condition of the shopping centre development approval.  Delancey came forward with this application at the end of June  had to be 
 
-It might be argued that through this whole tortuous saga that Delancey 'listening' and responding to the community's concerns.  An alternative explanation is that it is a well-rehearsed developer tactic- offer as little as you gain get away with, and then make only those improvements you are forced to concede. Delaying the delivery of the hard-one 116 social rented units for at least 9 years employs the same delaying tactic (OR link). That aside, there can be little doubt that Had Delancey offered a scheme that included all the proposals it ended up with on 3 July 2019, it would have been approved at the very first scheduled planning committee meeting, back in Dec 2017.
+
+It might be argued that through this whole tortuous saga that Delancey 'listening' and responding to the community's concerns.  An alternative explanation is that it is a well-rehearsed developer tactic- offer as little as you gain get away with, and then make only those improvements you are forced to concede. Delaying the delivery of the hard-one 116 social rented units for at least 9 years employs the same delaying tactic (OR link). That aside, we have little doubt that had Delancey presented the scheme that it presented to the planning committee on 3 July 2019 (including the 116 social rented units and Castle Sq) to the very first scheduled planning committee meeting, back on 18 Dec 2017, it would have been approved and Delamcey could have saved the crocodile tears it is currently shedding on behalf of traders.
 
 
 
