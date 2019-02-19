@@ -7,7 +7,7 @@ title: Delays and Delancey
 
 In the face of a judicial review of their planning approval for the shopping centre demolition and redevelopment, centre owners and developer Delancey are showing a touching concern for the welfare of the traders, making noises about how any 'delays' can have only a bad effect on them.
 
-Delancey has not previously been in any hurry to settle the centre's future, other than entirely on their own terms, amply demonstrated by the snail's pace progress of their planning application.  It is a story of constant deferrment, caused by Delancey's refusal to meet the minimum requirement's of the Council's own local plan.
+Delancey has not previously been in any hurry to settle the centre's future, other than entirely on their own terms, amply demonstrated by the snail's pace progress of their planning application.  It is a story of constant deferment, caused by Delancey's refusal to meet the minimum requirement's of the Council's own local plan.
 
 Delancey are culpable in 3 areas - the affordable retail offer, the relocation of the traders and the affordable housing offer.
 
