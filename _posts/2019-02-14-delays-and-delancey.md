@@ -17,17 +17,14 @@ By 18 Dec 2017 the affordable retail offer inched up to the equivalent of 5.3%, 
 
 The relocation of shopping centre traders was even further down the list of Delancey's priorities.  A [draft strategy](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!CgEoZ4vEh0beAm1jRSlUrA%3d%3d!%7d%7d%7d), put together without any input from traders, appeared in August 2017, nearly a year after the planning application. The strategy did not include anywhere for the traders to move to during the building of the new development.  This would have to wait another 5 months, until Feb 2018, when the Castle Square (13 Feb 2018 lett link) temporary facility for traders was proposed (link 35% blog, OR 030718).The planning application for this wholly inadequate temporary space on was made in [June 2018](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!hAV0cqN%2bsOq%2febuFpH0spQ%3d%3d!%7d%7d%7d), with approval in [January 2019](https://planning.southwark.gov.uk/online-applications/applicationDetails.do?keyVal=_STHWR_DCAPR_9578882&activeTab=summary). 
 
-Delancey stated that '_it is recognised that some existing retailers in the area are benefitting from  disproportionately low levels of rent for such a central London location...'_. Eventually Delancey condescended to a relocation strategy for traders - but only [after it secured planning permission](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!LnbCaTCiMmUoN4H%2fUA2yyg%3d%3d!%7d%7d%7d)(Para 8.7).  .  Apart from the insufficient amount of affordable retail, which Delancey were obliged to provide anywy, 
-
 Alongside this, similiar delays plagued the affordable housing offer, which Delancey only slowly and reluctantly improved because of fierce campaigning opposition.  It took Delancey 21 months (Oct 2016 - July 2017) to progress from the initial offer to their final, approved proposal, which still fell short of the affordable housing requirement. 
 
-The entire absence of genuine social rented housing in the intial offer ( a meagre 33 'social rent equivalents' out of 979 total units were proposed ) provoked most anger.  This went up to 74 units in Feb 2018 (link 13 Feb letter) and then 116 units, five months latteer, in July 2018 (OR270618 link), with the promise they would be 'proper' social rent. These concesssions though, came with a _quid pro quo_, raising the income thresholds of 116 Discounted Market Rent units to £80,000- £90,000 pa (OR 270618 para 379 link); this was too much for Mayor Sadiq Kahn who insisted on their reduction to £60,000 pa.(link GLA Stage 2 para 30). on his favoured London Living Rent (equivalents). The complete affordable housing was made up of 53 London Living Rent units, but still fell short of the 170 or so social rented units the adopted local plan requires.
+The entire absence of genuine social rented housing in the intial offer ( a meagre 33 'social rent equivalents' out of 979 total units were proposed) provoked most anger.  This went up to 74 units in Feb 2018 (link 13 Feb letter), with 95 London Living Rent units and 161 affordable rent at 80% market rent.  Five months later, in July 2018 (OR270618 link), the social rent was increased to 116 units, , with the promise they would be 'proper' social rent. this was too much for Mayor Sadiq Kahn who insisted on their reduction to £60,000 pa.(link GLA Stage 2 para 30) to his favoured London Living Rent levels. The complete affordable housing was made up of 53 London Living Rent units, but still fell short of the 170 or so social rented units the adopted local plan requires.
 
 The shilly-shallying was reflected in the applications progress through the planning committee. The application was deferred three times (on the 18 Dec 2017, 16 Jan 2018, 30 Jan 2018) until final approval on 3 July 2018.
 
 This entailed 4 versions of an expanding officer's report, which had to recap the reasons for each successive delay and recount the improvements wrenched from a reluctant Delancey, while simultaneously insisting that the planning committee should approve the application,  because it was the best that could be got (including the 'maximum amount of affordable housing'), despite having said exactly the same the last time at a previous meeting.
 
-Not the end of the saga - Castle Sa another 6 months, Jan 2019
 
 Another 10 years for social rented units delivery
 
@@ -53,6 +50,10 @@ on 4 Jan 2018, with a [letter to Southwark] saying _'The Applicant is revising t
 Such crocodile-tears are entirely self-serving - Delancey hope that by playing on the anxieties of the traders, it can distract from the legal scrutiny of Southwark Council's decision-making, as well as its own footdragging.
 
 Delancey initial position was that affordable retail was _'inappropriate'_, as well as unviable.
+
+Delancey stated that '_it is recognised that some existing retailers in the area are benefitting from  disproportionately low levels of rent for such a central London location...'_. Eventually Delancey condescended to a relocation strategy for traders - but only [after it secured planning permission](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!LnbCaTCiMmUoN4H%2fUA2yyg%3d%3d!%7d%7d%7d)(Para 8.7).  .  Apart from the insufficient amount of affordable retail, which Delancey were obliged to provide anywy,
+
+These concesssions though, came with the _quid pro quo_, that the income thresholds of the 161 Discounted Market Rent units were raised to £80,000- £90,000 pa (OR 270618 para 379 link); 
 
 
 Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
