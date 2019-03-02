@@ -11,7 +11,7 @@ The legal challenge argues that Southwark were misled by shopping centre owner a
 
 A crowdfunding appeal has been launched to help fund the challenge https://www.crowdjustice.com/case/stop-the-elephant-shopping-centre-destruction.  This follows two successful fundraisers, at Distriandina The Colombian Restaurant and Night Club Café and a film-night at Draper TRA hall.
 
-The action is being mounted because while Delancey will be making a projected profit of £137m - £153m, their scheme will destroy and displace the local community – 
+The action is being mounted because while Delancey have a required profit of at least £137m, their scheme will destroy and displace the local community – 
 
 •	Most traders won’t get a place in the new development
 •	There is no certainty over the future of the bingo 
