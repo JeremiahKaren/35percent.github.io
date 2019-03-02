@@ -1,7 +1,7 @@
 ---
 layout: page
-title: 'Shopping Centre S106 Notes'
-published: true 
+title: Shopping Centre S106 Notes
+published: false
 ---
 ## BTS/BTR hybrid scheme review mechanism failure - Social rent
 The S106 agreement for the scheme fails to secure the viability review mechanism for uplift in social rented housing relating to the Build-to-Sell (BTS) scheme option agreed by the planning committee. 
