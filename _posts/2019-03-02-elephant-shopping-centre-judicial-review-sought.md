@@ -31,6 +31,8 @@ We want the planning approval quashed and then we want a development scheme that
 
 Our legal challenge is supported by the [Public Interest Law Centre](http://www.pilu.org.uk/paul-heron/) and [Southwark Law Centre](http://www.pilu.org.uk/paul-heron/).  We will be represented by barristers [Sarah Sackman](https://www.ftbchambers.co.uk/barristers/sarah-sackman) of Francis Taylor Building and [David Wolfe QC](https://www.matrixlaw.co.uk/member/david-wolfe/) of Matrix Chambers.
 
+![](http://35percent.org/img/lovetheelephant.png)
+
 ## Please [donate](https://www.crowdjustice.com/case/stop-the-elephant-shopping-centre-destruction/)!
 
 But we must raise at least **£5000** to be able to mount this vital challenge and for that we need your help. All funds will go towards the legal costs of the case. If we lose the case we will have to pay the other side's costs. If we win, we will be able to pay our own lawyers!
