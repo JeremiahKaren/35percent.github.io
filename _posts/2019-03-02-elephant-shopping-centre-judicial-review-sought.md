@@ -13,7 +13,7 @@ A crowdfunding appeal has been launched to [help fund the challenge]( https://ww
 
 ## A destructive scheme
 
-The action is being mounted because Delancey's scheme will destroy and displace the local community, while making them a profit of at least £137m – 
+The action is being mounted because Delancey's scheme will destroy and displace the local community, while allowing Delancey a required profit of £137m – 
 
 1. Most traders won’t get a place in the new development
 1. There is no certainty over the future of the bingo 
