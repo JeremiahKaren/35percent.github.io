@@ -48,7 +48,7 @@ As expected the shopping centre is to be demolished and just 10% of the redevelo
 
 Delancey's neighbouring development [Elephant One](/tribeca-square) was supposed to provide affordable retail space for some of the displaced traders. In 2015, we [revealed](http://35percent.org/2015-07-12-shopping-centre-and-lcc-redevelopment-proposals/#delancey---a-morality-tale){:target="_blank"} how Delancey had successfully lobbied the Council to change the conditions of its planning permission to switch some of these units for a Sainsburys.
 
-As a small consolation, Delancey have agreed to provide a temporary retail ['box park'](/boxpark) at discounted rents, using shipping containers at neighbouring Castle Square, which is on council-owned land but [leased to Delancy on a peppercorn rent](http://35percent.org/2016-06-26-restricted-access-elephant-park/#elephant-parks) and a share of the revenue from the Square's future street market. 
+Ater their [failure](https://www.bbc.co.uk/news/uk-england-london-42719607) to get their plans approved in Jan 2018, Delancey [agreed to provide](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!0iVzasdHCgb1eVmQCrssOg%3d%3d!%7d%7d%7d) a temporary retail ['box park'](/boxpark) at discounted rents, using shipping containers at neighbouring Castle Square, which is on council-owned land but [leased to Delancy on a peppercorn rent](http://35percent.org/2016-06-26-restricted-access-elephant-park/#elephant-parks) and a share of the revenue from the Square's future street market. 
 
 ![](http://35percent.org/img/tempboxpark.png)
 
