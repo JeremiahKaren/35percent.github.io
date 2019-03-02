@@ -39,4 +39,4 @@ Please share this page with you friends and contacts!
 
 Any [donation](https://www.crowdjustice.com/case/stop-the-elephant-shopping-centre-destruction/) you can make will help in this crucial fight to make London a city where the needs of our diverse communities come before the profits of offshore property developers.
 
-You can read more about Delancey's plans [here](http://35percent.org/uptheelephant)
+You can read more about Delancey's desructive plans [here](http://35percent.org/uptheelephant)
