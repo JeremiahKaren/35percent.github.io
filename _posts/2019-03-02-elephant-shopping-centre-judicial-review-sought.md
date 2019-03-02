@@ -27,7 +27,7 @@ Even the 116 social rented homes promised could be at risk; the devil is in the 
 
 We want the planning approval quashed and then we want a development scheme that provides homes and shops that are truly affordable for local people.
 
-Our legal challenge is supported by the Public Interest Law Centre and Southwark Law Centre.  We will be represented by barristers [Sarah Sackman](https://www.ftbchambers.co.uk/barristers/sarah-sackman) of Francis Taylor Building and [David Wolfe QC](https://www.matrixlaw.co.uk/member/david-wolfe/) of Matrix Chambers.
+Our legal challenge is supported by the [Public Interest Law Centre](http://www.pilu.org.uk/paul-heron/) and [Southwark Law Centre](http://www.pilu.org.uk/paul-heron/).  We will be represented by barristers [Sarah Sackman](https://www.ftbchambers.co.uk/barristers/sarah-sackman) of Francis Taylor Building and [David Wolfe QC](https://www.matrixlaw.co.uk/member/david-wolfe/) of Matrix Chambers.
 
 ## Please [donate](https://www.crowdjustice.com/case/stop-the-elephant-shopping-centre-destruction/)!
 
