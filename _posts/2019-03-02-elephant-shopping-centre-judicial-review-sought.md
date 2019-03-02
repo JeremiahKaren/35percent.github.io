@@ -9,7 +9,7 @@ A coalition of local people and groups fighting for a fairer regeneration at the
 
 The legal challenge argues that Southwark were misled by shopping centre owner and developer Delancey about the amount of the social rented housing that could be provided.  If the challenge is successful it would mean that the approval awarded to Delancey by Southwark Council would be quashed, stopping the demolition and redevelopment of the centre.
 
-A crowdfunding appeal has been launched to help fund the challenge https://www.crowdjustice.com/case/stop-the-elephant-shopping-centre-destruction.  This follows two successful fundraisers, at Distriandina The Colombian Restaurant and Night Club Café and a film-night at Draper TRA hall.
+A crowdfunding appeal has been launched to [help fund the challenge]( https://www.crowdjustice.com/case/stop-the-elephant-shopping-centre-destruction).
 
 ## A destructive scheme
 
@@ -29,7 +29,7 @@ We want the planning approval quashed and then we want a development scheme that
 
 Our legal challenge is supported by the Public Interest Law Centre and Southwark Law Centre.  We will be represented by barristers Sarah Sackman of Francis Taylor Building and David Wolfe QC of Matrix Chambers.
 
-## Please donate!
+## Please [donate](https://www.crowdjustice.com/case/stop-the-elephant-shopping-centre-destruction/)!
 
 But we must raise at least £5000 to be able to mount this vital challenge and for that we need your help. All funds will go towards the legal costs of the case. If we lose the case we will have to pay the other side's costs. If we win, we will be able to pay our own lawyers!
 
