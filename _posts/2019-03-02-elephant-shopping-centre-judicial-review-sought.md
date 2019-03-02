@@ -17,9 +17,9 @@ A crowdfunding appeal [has been launched]( https://www.crowdjustice.com/case/sto
 
 The action is being mounted because Delancey's scheme will destroy and displace the local community, while allowing Delancey a required profit of £137m – 
 
-* Most traders won’t get a place in the new development
-* There is no certainty over the future of the bingo 
-* Delancey is not providing enough social rented housing – and even that could be lost			
+1. Most traders won’t get a place in the new development
+2. There is no certainty over the future of the bingo 
+3. Delancey is not providing enough social rented housing – and even that could be lost			
 
 The case for quashing the planning approval is that Southwark Council’s planning committee was misled about the maximum amount of affordable housing that the scheme could viably provide.  Delancey said it could only afford to provide 116 social rented units, but we now know that with Mayor’s funding they could give us another 42. This would still only amount to a fraction of the total 979 units of new homes in the development, but social rented housing is the most vital kind of affordable housing and desperately needed throughout Southwark - 42 families should not be deprived of somewhere decent and affordable to live.
 
@@ -31,7 +31,7 @@ We want the planning approval quashed and then we want a development scheme that
 
 Our legal challenge is supported by the [Public Interest Law Centre](http://www.pilu.org.uk/paul-heron/) and [Southwark Law Centre](http://www.pilu.org.uk/paul-heron/).  We will be represented by barristers [Sarah Sackman](https://www.ftbchambers.co.uk/barristers/sarah-sackman) of Francis Taylor Building and [David Wolfe QC](https://www.matrixlaw.co.uk/member/david-wolfe/) of Matrix Chambers.
 
-![](http://35percent.org/img/lovetheelephant.png)
+![](http://35percent.org/img/lovetheelephant.jpg)
 
 ## Please [donate](https://www.crowdjustice.com/case/stop-the-elephant-shopping-centre-destruction/)!
 
@@ -45,4 +45,4 @@ Any [donation](https://www.crowdjustice.com/case/stop-the-elephant-shopping-cent
 
 You can read more about Delancey's desructive plans [here.](http://35percent.org/uptheelephant)
 
-![](http://35percent.org/img/lospropertydevelopersnopasaran2.png)
+![](http://35percent.org/img/lospropertydevelopersnopasaran2.jpg)
