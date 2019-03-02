@@ -29,6 +29,8 @@ We want the planning approval quashed and then we want a development scheme that
 
 Our legal challenge is supported by the Public Interest Law Centre and Southwark Law Centre.  We will be represented by barristers Sarah Sackman of Francis Taylor Building and David Wolfe QC of Matrix Chambers.
 
+## Please donate!
+
 But we must raise at least £5000 to be able to mount this vital challenge and for that we need your help. All funds will go towards the legal costs of the case. If we lose the case we will have to pay the other side's costs. If we win, we will be able to pay our own lawyers!
 
 Please donate to our appeal, any amount big or small!
