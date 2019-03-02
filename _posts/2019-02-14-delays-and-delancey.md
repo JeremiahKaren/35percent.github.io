@@ -7,7 +7,7 @@ title: Delays and Delancey
 
 In the face of a judicial review of their planning approval for the shopping centre demolition and redevelopment, centre owners and developer Delancey are showing a touching concern for the welfare of the traders, making noises about how any 'delays' can have only a bad effect on them.
 
-Delancey has not previously been in any hurry to settle the centre's future, other than entirely on their own terms, amply demonstrated by the snail's pace progress of their planning application.  It is a story of constant deferment, caused by Delancey's refusal to meet the minimum requirements of the Council's own local plan.
+Delancey has not previously been in any hurry to settle the centre's future, other than entirely on their own terms.  This is amply demonstrated by the snail's pace progress of their planning application.  It is a story of constant deferment, caused by Delancey's refusal to meet the minimum requirements of the Council's own local plan.
 
 Delancey are culpable in 3 areas - the affordable retail offer, the relocation of the traders and the affordable housing offer.
 
@@ -43,6 +43,3 @@ The delays did not end with the planning committee approval.  Planning approval 
 It might be argued that through this whole tortuous saga that Delancey 'listening' and responding to the community's concerns.  An alternative explanation is that it is a well-rehearsed developer tactic- offer as little as you gain get away with, and then make only those improvements you are forced to concede. Delaying the delivery of the hard-one 116 social rented units for at least 9 years employs the same delaying tactic (OR link). 
 
 To sum up, we have little doubt that had Delancey presented the improved scheme that it presented to the planning committee on 3 July 2019 at the very first scheduled planning committee meeting, back on 18 December 2017, it would have been approved and any legal challenge long resolved.  Delancey could then have saved the crocodile tears it is currently shedding on behalf of the traders.
-
-
-
