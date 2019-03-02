@@ -33,10 +33,10 @@ Our legal challenge is supported by the Public Interest Law Centre and Southwark
 
 But we must raise at least £5000 to be able to mount this vital challenge and for that we need your help. All funds will go towards the legal costs of the case. If we lose the case we will have to pay the other side's costs. If we win, we will be able to pay our own lawyers!
 
-Please donate to our appeal, any amount big or small!
+Please [donate to our appeal](https://www.crowdjustice.com/case/stop-the-elephant-shopping-centre-destruction/), any amount big or small!
 
 Please share this page with you friends and contacts!
 
-Any donation you can make will help in this crucial fight to make London a city where the needs of our diverse communities come before the profits of offshore property developers.
+Any [donation](https://www.crowdjustice.com/case/stop-the-elephant-shopping-centre-destruction/) you can make will help in this crucial fight to make London a city where the needs of our diverse communities come before the profits of offshore property developers.
 
-http://35percent.org/uptheelephant
+You can read more about Delancey's plans [here](http://35percent.org/uptheelephant)
