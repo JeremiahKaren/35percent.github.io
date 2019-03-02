@@ -17,11 +17,11 @@ The action is being mounted because while Delancey have a required profit of at 
 •	There is no certainty over the future of the bingo 
 •	Delancey is not providing enough social rented housing – and even that could be lost			
 
-The case against the approval is that Southwark Council’s planning committee was misled about the maximum amount of affordable housing the scheme could viably provide. While Delancey said it could only afford to provide 116 social rented units we now know that with Mayor’s funding they could give us another 42. This would still only amount to a fraction of the total 979 units of new homes in the development, but social rented housing is the most vital kind of affordable housing and desperately needed throughout Southwark - 42 families should not be deprived of somewhere decent and affordable to live.
+The case against the approval is that Southwark Council’s planning committee was misled about the maximum amount of affordable housing the scheme could viably provide.  Delancey said it could only afford to provide 116 social rented units, but we now know that with Mayor’s funding they could give us another 42. This would still only amount to a fraction of the total 979 units of new homes in the development, but social rented housing is the most vital kind of affordable housing and desperately needed throughout Southwark - 42 families should not be deprived of somewhere decent and affordable to live.
 
 Even the 116 social rented homes promised could be at risk; the devil is in the detail and Delancey has managed to pull the wool over the Council's eyes with a deal which could leave us with little or no social rented housing if Delancey doesn’t deliver the “West site”, not due to be built for another 10 years.
 
-We are challenging Delancey’s planning permission through the Planning Court.  We want the permission quashed and then we want a development scheme that provides homes and shops that are truly affordable for local people.
+We want the permission quashed and then we want a development scheme that provides homes and shops that are truly affordable for local people.
 
 Our legal challenge is supported by the Public Interest Law Centre and Southwark Law Centre.  We will be represented by barristers Sarah Sackman of Francis Taylor Building and David Wolfe QC of Matrix Chambers.
 
@@ -34,8 +34,3 @@ Please share this page with you friends and contacts!
 Any donation you can make will help in this crucial fight to make London a city where the needs of our diverse communities come before the profits of offshore property developers.
 
 http://35percent.org/uptheelephant
-
-
-
-
-
