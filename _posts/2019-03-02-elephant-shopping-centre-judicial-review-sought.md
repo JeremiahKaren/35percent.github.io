@@ -13,9 +13,9 @@ A crowdfunding appeal has been launched to help fund the challenge https://www.c
 
 The action is being mounted because Delancey's scheme will destroy and displace the local community, while making them a profit of at least £137m – 
 
-•	Most traders won’t get a place in the new development
-•	There is no certainty over the future of the bingo 
-•	Delancey is not providing enough social rented housing – and even that could be lost			
+1. Most traders won’t get a place in the new development
+1. There is no certainty over the future of the bingo 
+1. Delancey is not providing enough social rented housing – and even that could be lost			
 
 The case for quashing the planning approval is that Southwark Council’s planning committee was misled about the maximum amount of affordable housing that the scheme could viably provide.  Delancey said it could only afford to provide 116 social rented units, but we now know that with Mayor’s funding they could give us another 42. This would still only amount to a fraction of the total 979 units of new homes in the development, but social rented housing is the most vital kind of affordable housing and desperately needed throughout Southwark - 42 families should not be deprived of somewhere decent and affordable to live.
 
