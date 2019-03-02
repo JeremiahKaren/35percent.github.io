@@ -26,7 +26,7 @@ The Council's independent advisors (GVA) produced a [report](http://planbuild.so
 
 ![](/img/sccpo.png)
 
-Delancey has reached agreement with the bingo hall and handful of traders who had leases extending beyond 2019 as well as the freehold owners of the pub.  The two terraced properties adjacent to the Coronet remian in the hands of the shopowners. Whether any settlements collectively amount to £15m or whether a CPO will be  needed remains to be seen.
+Delancey has reached agreement with the bingo hall and the handful of traders who had leases extending beyond 2019 as well as the freehold owners of the pub.  The two terraced properties adjacent to the Coronet remian in the hands of the shopowners. Whether any settlements collectively amount to £15m or whether a CPO will be  needed remains to be seen.
 
 In addition, Delancey's viability assessment claimed a £92m acquisition cost for the shopping centre site. This is £12m more than it [actually paid for the site](http://crappistmartin.github.io/images/LRDeeds_ShoppingCentre.pdf) and is yet another way of making the scheme look less profitable than it actually is.
 
@@ -44,7 +44,7 @@ As expected the shopping centre is to be demolished and just 10% of the redevelo
 
 ![](http://35percent.org/img/traderscomp.jpeg)
 
-Delancey's neighbbouring development [Elephant One](/tribeca-square) was supposed to provide affordable retail space for some of the displaced traders. In 2015, we [revealed](http://35percent.org/2015-07-12-shopping-centre-and-lcc-redevelopment-proposals/#delancey---a-morality-tale){:target="_blank"} how Delancey had successfully lobbied the Council to change the conditions of its planning permission to replace some of these units for a Sainsburys.
+Delancey's neighbouring development [Elephant One](/tribeca-square) was supposed to provide affordable retail space for some of the displaced traders. In 2015, we [revealed](http://35percent.org/2015-07-12-shopping-centre-and-lcc-redevelopment-proposals/#delancey---a-morality-tale){:target="_blank"} how Delancey had successfully lobbied the Council to change the conditions of its planning permission to replace some of these units for a Sainsburys.
 
 As a small consolation, Delancey have agreed to provide a temporary retail ['box park'](/boxpark) at discounted rents, using shipping containers at neighbouring Castle Square, which is on council-owned land but [leased to Delancy on a peppercorn rent](http://35percent.org/2016-06-26-restricted-access-elephant-park/#elephant-parks) and a share of the revenue from the Square's future street market. 
 
