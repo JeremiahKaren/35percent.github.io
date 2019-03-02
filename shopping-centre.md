@@ -7,7 +7,7 @@ published: true
 ---
 ![]({{site.baseurl}}/img/delanceyaerial.png)
 
-After its first application was [rejected](https://www.bbc.co.uk/news/uk-england-london-42719607) by Southwark's planning committee, Developer Delancey's [application](http://planbuild.southwark.gov.uk/documents/?casereference=16/AP/4458&system=DC){:target="_blank"} for the redevelopment of the [Elephant & Castle shopping centre](http://35percent.org/shopping-centre/){:target="_blank"} has been [narrowly approved](http://35percent.org/2018-07-09-delancey/).
+After its first application was [failed to get approval](https://www.bbc.co.uk/news/uk-england-london-42719607) from Southwark's planning committee, Developer Delancey's [application](http://planbuild.southwark.gov.uk/documents/?casereference=16/AP/4458&system=DC){:target="_blank"} for the redevelopment of the [Elephant & Castle shopping centre](http://35percent.org/shopping-centre/){:target="_blank"} has been [narrowly approved](http://35percent.org/2018-07-09-delancey/).
 
 ## Affordable housing
 Delancey has been granted permission to build 979 new homes totalling 106,471sqm of residential floorspace and while 35% will be 'affordable' only 9,141sqm (8.6% - 116 homes) will be social rent. 
