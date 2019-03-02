@@ -22,11 +22,11 @@ As is usual developer Delancey has submitted a viability assessment claiming tha
 
 ![](/img/delanceyfvaprofit.png)
 
-The Council's independent advisors (GVA) produced a [report](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!PHUQPPiesgvQWEZYj1nx%2fw%3d%3d!%7d%7d%7d) for the planning committee in which an input was listed in the FVA saying that there was a £15m CPO cost. It says it was provided this assumption by Delancey and that it was in the process of verifying it:
+The Council's independent advisors (GVA) produced a [report](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!PHUQPPiesgvQWEZYj1nx%2fw%3d%3d!%7d%7d%7d) for the planning committee in which an input was listed in the FVA saying that there was a £15m CPO cost. It says it was provided this cost assumption by Delancey and that it was in the process of verifying it:
 
 ![](/img/sccpo.png)
 
-However, Delancey has reached agreement with the bingo hall and handful of traders who had leases extending beyond 2019 as well as the freehold owners of the pub and two terraced properties adjacent to the Coronet so the CPO is no longer needed. Whether the settlements with each of these collectively amount to £15m has never been confirmed.
+Delancey has reached agreement with the bingo hall and handful of traders who had leases extending beyond 2019 as well as the freehold owners of the pub.  The two terraced properties adjacent to the Coronet remian in the hands of the shopowners. Whether any settlements collectively amount to £15m or whether a CPO will be  needed remains to be seen.
 
 In addition, Delancey's viability assessment claimed a £92m acquisition cost for the shopping centre site. This is £12m more than it [actually paid for the site](http://crappistmartin.github.io/images/LRDeeds_ShoppingCentre.pdf) and is yet another way of making the scheme look less profitable than it actually is.
 
