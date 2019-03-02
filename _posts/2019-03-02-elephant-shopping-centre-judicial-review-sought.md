@@ -14,10 +14,10 @@ A crowdfunding appeal has been launched to help fund the challenge https://www.c
 The action is being mounted because while Delancey will be making a projected profit of £137m - £153m, their scheme will destroy and displace the local community – 
 
 •	Most traders won’t get a place in the new development
-•	There is no certainty over the future of the bingo
-•	Delancey may not provide any social rented housing in this new luxury development – and there still is 		not enough of it.
+•	There is no certainty over the future of the bingo 
+•	Delancey is not providing enough social rented housing – and even that could be lost			
 
-Southwark's Council’s planning committee was misled as to the maximum amount of affordable housing the scheme could viably provide. While Delancey said it could only afford to provide 116 social rented units we now know that with Mayor’s funding they could give us another 42. That’s 42 families deprived of somewhere decent and affordable to live.
+The case against the approval is that Southwark Council’s planning committee was misled about the maximum amount of affordable housing the scheme could viably provide. While Delancey said it could only afford to provide 116 social rented units we now know that with Mayor’s funding they could give us another 42. This would still only amount to a fraction of the total 979 units of new homes in the development, but social rented housing is the most vital kind of affordable housing and desperately needed throughout Southwark - 42 families should not be deprived of somewhere decent and affordable to live.
 
 Even the 116 social rented homes promised could be at risk; the devil is in the detail and Delancey has managed to pull the wool over the Council's eyes with a deal which could leave us with little or no social rented housing if Delancey doesn’t deliver the “West site”, not due to be built for another 10 years.
 
