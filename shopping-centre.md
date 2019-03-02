@@ -28,7 +28,9 @@ The Council's independent advisors (GVA) produced a [report](http://planbuild.so
 
 ![](/img/sccpo.png)
 
-Delancey has reached agreement with the bingo hall and the handful of traders who had leases extending beyond 2019, as well as the freehold owners of the pub.  The two terraced properties adjacent to the Coronet remian in the hands of the shopowners. Whether any settlements collectively amount to £15m or whether a CPO will be  needed remains to be seen.
+Delancey has reached agreement with the bingo hall and the handful of traders who had leases extending beyond 2019, as well as the freehold owners of the pub.  The two terraced properties adjacent to the Coronet [remain in the hands of the shopowners](/img/30and32NewKentRoad.pdf). Whether any settlements collectively amount to £15m or whether a CPO will be needed remains to be seen.
+
+![](/img/davishcropped.png)
 
 In addition, Delancey's viability assessment claimed a £92m acquisition cost for the shopping centre site. This is £12m more than it [actually paid for the site](http://crappistmartin.github.io/images/LRDeeds_ShoppingCentre.pdf) and is yet another way of making the scheme look less profitable than it actually is.
 
