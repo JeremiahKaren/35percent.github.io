@@ -11,6 +11,8 @@ The legal challenge argues that Southwark were misled by shopping centre owner a
 
 A crowdfunding appeal has been launched to help fund the challenge https://www.crowdjustice.com/case/stop-the-elephant-shopping-centre-destruction.  This follows two successful fundraisers, at Distriandina The Colombian Restaurant and Night Club Café and a film-night at Draper TRA hall.
 
+## A destructive scheme
+
 The action is being mounted because Delancey's scheme will destroy and displace the local community, while making them a profit of at least £137m – 
 
 1. Most traders won’t get a place in the new development
