@@ -52,7 +52,7 @@ As a small consolation, Delancey have agreed to provide a temporary retail ['box
 
 ![](http://35percent.org/img/tempboxpark.png)
 
-The Castle Square facility would last for 5 years, until the Elephant & Castle Shopping Centre development has been completed.
+The Castle Square facility would last for 5 years, or until the Elephant & Castle Shopping Centre development has been completed.
 
 The facility is small consolation for the traders, who have [objected](https://planning.southwark.gov.uk/online-applications/applicationDetails.do?activeTab=neighbourComments&keyVal=_STHWR_DCAPR_9578882) that the proposed building is too small and would have trading restrictions that would make it an impractical premises for many of the displaced businesses. [Delancey's  proposals](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!hAV0cqN%2bsOq%2febuFpH0spQ%3d%3d!%7d%7d%7d) mention 33 independent traders, while the trader's own estimate is that there is a need to provide for over 100 traders. There are also many other issues, including the level of rents and service charges, the security of tenacy arrangements, selection criteria and disability access.
 
