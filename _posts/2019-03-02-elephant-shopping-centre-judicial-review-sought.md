@@ -1,7 +1,7 @@
 ---
 layout: post
 published: false
-title: Elephant shopping centre - judicial review sought
+title: Elephant shopping centre decision - judicial review sought
 ---
 ## Crowdfunding appeal launched
 
@@ -11,17 +11,17 @@ The legal challenge argues that Southwark were misled by shopping centre owner a
 
 A crowdfunding appeal has been launched to help fund the challenge https://www.crowdjustice.com/case/stop-the-elephant-shopping-centre-destruction.  This follows two successful fundraisers, at Distriandina The Colombian Restaurant and Night Club Café and a film-night at Draper TRA hall.
 
-The action is being mounted because while Delancey have a required profit of at least £137m, their scheme will destroy and displace the local community – 
+The action is being mounted because Delancey's scheme will destroy and displace the local community, while making them a profit of at least £137m – 
 
 •	Most traders won’t get a place in the new development
 •	There is no certainty over the future of the bingo 
 •	Delancey is not providing enough social rented housing – and even that could be lost			
 
-The case against the approval is that Southwark Council’s planning committee was misled about the maximum amount of affordable housing the scheme could viably provide.  Delancey said it could only afford to provide 116 social rented units, but we now know that with Mayor’s funding they could give us another 42. This would still only amount to a fraction of the total 979 units of new homes in the development, but social rented housing is the most vital kind of affordable housing and desperately needed throughout Southwark - 42 families should not be deprived of somewhere decent and affordable to live.
+The case for quashing the planning approval is that Southwark Council’s planning committee was misled about the maximum amount of affordable housing that the scheme could viably provide.  Delancey said it could only afford to provide 116 social rented units, but we now know that with Mayor’s funding they could give us another 42. This would still only amount to a fraction of the total 979 units of new homes in the development, but social rented housing is the most vital kind of affordable housing and desperately needed throughout Southwark - 42 families should not be deprived of somewhere decent and affordable to live.
 
 Even the 116 social rented homes promised could be at risk; the devil is in the detail and Delancey has managed to pull the wool over the Council's eyes with a deal which could leave us with little or no social rented housing if Delancey doesn’t deliver the “West site”, not due to be built for another 10 years.
 
-We want the permission quashed and then we want a development scheme that provides homes and shops that are truly affordable for local people.
+We want the planning approval quashed and then we want a development scheme that provides homes and shops that are truly affordable for local people.
 
 Our legal challenge is supported by the Public Interest Law Centre and Southwark Law Centre.  We will be represented by barristers Sarah Sackman of Francis Taylor Building and David Wolfe QC of Matrix Chambers.
 
