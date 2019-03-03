@@ -12,7 +12,7 @@ After [failing to get approval](https://www.bbc.co.uk/news/uk-england-london-427
 ## Affordable housing
 Delancey has been granted permission to build 979 Build to Rent (BtR) homes totalling 106,471sqm of residential floorspace and while 35% will be 'affordable' only 9,141sqm (8.6% - 116 homes) will be social rent. 
 
-None of this is in line with the [Elephant's current affordable housing policy](http://www.southwark.gov.uk/assets/attach/1817/1.0.5%20Elephant%20%26%20Castle%20SPD%20OAPF.pdf), which requires half of the minimum 35% affordable housing to be social rented.  This shold be nearly 170 social rented units, with the same amount of intermediate.  Instead we are getting only 116 social rent, 53 'London Living Rent equivalent' (£205 - £308pw) and 161 affordable rent at 80% market rent, for household incomes up to £90,000pa.
+None of this is in line with the [Elephant's current affordable housing policy](http://www.southwark.gov.uk/assets/attach/1817/1.0.5%20Elephant%20%26%20Castle%20SPD%20OAPF.pdf), which requires half (17.5%) of the minimum 35% affordable housing to be social rented. Instead we are getting only 8.6% social rent, with the remainder provided as 'London Living Rent equivalent' (£205 - £308pw) or affordable rent at up to 80% market rent, for household incomes up to £90,000pa.
 
 <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js">
 </script>
