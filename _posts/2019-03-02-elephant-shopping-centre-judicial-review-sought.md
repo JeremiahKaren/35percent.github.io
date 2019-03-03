@@ -9,9 +9,9 @@ A coalition of local people and groups fighting for a fairer regeneration at the
 
 ![](http://35percent.org/img/stoptheelephant.jpg)
 
-The legal challenge argues that Southwark were misled by shopping centre owner and developer Delancey about the amount of the social rented housing that could be provided.  If the challenge is successful it would mean that the approval awarded to Delancey by Southwark Council would be quashed, stopping the demolition and redevelopment of the centre.
+The legal challenge argues that Southwark were misled by shopping centre owner and developer Delancey about the amount of the social rented housing that could be provided.  If the challenge is successful it would mean that the planning approval awarded to Delancey by Southwark Council would be quashed, stopping the demolition and redevelopment of the centre.
 
-A CrowdJustice appeal [has been launched]( https://www.crowdjustice.com/case/stop-the-elephant-shopping-centre-destruction) to help fund the challenge and donations can be made [here](https://www.crowdjustice.com/case/stop-the-elephant-shopping-centre-destruction).  
+A CrowdJustice appeal [has been launched](http://35percent.org/uptheelephant) to help fund the challenge and donations can be made [here](https://www.crowdjustice.com/case/stop-the-elephant-shopping-centre-destruction).  
 
 ## A destructive scheme
 
@@ -35,7 +35,7 @@ Our legal challenge is supported by the [Public Interest Law Centre](http://www.
 
 ## Please [donate](https://www.crowdjustice.com/case/stop-the-elephant-shopping-centre-destruction/)!
 
-But we must raise at least **£5000** to be able to mount this vital challenge and for that we need your help. All funds will go towards the legal costs of the case. If we lose the case we will have to pay the other side's costs. If we win, we will be able to pay our own lawyers!
+We must raise at least **£5000** to be able to mount this vital challenge and for that we need your help. All funds will go towards the legal costs of the case. If we lose the case we will have to pay the other side's costs. If we win, we will be able to pay our own lawyers!
 
 Please [donate to our appeal](https://www.crowdjustice.com/case/stop-the-elephant-shopping-centre-destruction/), any amount big or small!
 
