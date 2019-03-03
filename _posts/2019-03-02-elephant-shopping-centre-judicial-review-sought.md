@@ -7,7 +7,7 @@ title: Elephant shopping centre decision - judicial review sought
 
 A coalition of local people and groups fighting for a fairer regeneration at the Elephant and Castle,including the 35% Campaign, are supporting a legal application to overturn the planning approval for the redevelopment of the Elephant and Castle shopping centre.
 
-![](http://35percent.org/img/stoptheelephant.png)
+![](http://35percent.org/img/stoptheelephant.jpg)
 
 The legal challenge argues that Southwark were misled by shopping centre owner and developer Delancey about the amount of the social rented housing that could be provided.  If the challenge is successful it would mean that the approval awarded to Delancey by Southwark Council would be quashed, stopping the demolition and redevelopment of the centre.
 
