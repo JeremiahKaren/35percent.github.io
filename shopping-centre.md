@@ -245,10 +245,10 @@ Highcharts.chart('container', {
     type: 'pie'
   },
   title: {
-    text: 'Browser market share, January, 2018'
+    text: 'Tenure mix breakdown'
   },
   subtitle: {
-    text: 'Source: <a href="http://statcounter.com" target="_blank">statcounter.com</a>'
+    text: 'Source: <a href="http://planbuild.southwark.gov.uk/documents/?casereference=16/AP/4458&system=DC" target="_blank">Southwark Council planning ref:16/AP/4458</a>'
   },
   plotOptions: {
     pie: {
@@ -260,7 +260,7 @@ Highcharts.chart('container', {
     valueSuffix: '%'
   },
   series: [{
-    name: 'Browsers',
+    name: 'Policy Requirement',
     data: browserData,
     size: '60%',
     dataLabels: {
@@ -271,7 +271,7 @@ Highcharts.chart('container', {
       distance: -30
     }
   }, {
-    name: 'Versions',
+    name: 'Approved percentage',
     data: versionsData,
     size: '80%',
     innerSize: '60%',
