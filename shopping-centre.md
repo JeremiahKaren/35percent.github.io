@@ -55,30 +55,14 @@ var colors = Highcharts.getOptions().colors,
       y: 10.57,
       color: colors[1],
       drilldown: {
-        name: 'Firefox',
+        name: 'Social Rent',
         categories: [
-          'Firefox v58.0',
-          'Firefox v57.0',
-          'Firefox v56.0',
-          'Firefox v55.0',
-          'Firefox v54.0',
-          'Firefox v52.0',
-          'Firefox v51.0',
-          'Firefox v50.0',
-          'Firefox v48.0',
-          'Firefox v47.0'
+          'Actual Social Rent',
+          'Intermediate Rent'
         ],
         data: [
-          1.02,
-          7.36,
-          0.35,
-          0.11,
-          0.1,
-          0.95,
-          0.15,
-          0.1,
-          0.31,
-          0.12
+          8.60,
+          8.90
         ]
       }
     },
