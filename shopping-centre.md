@@ -29,9 +29,9 @@ None of this is in line with the [Elephant's current affordable housing policy](
 <script type="text/javascript">
 var colors = Highcharts.getOptions().colors,
   categories = [
-    'Private Housing',
-    'Social Rent',
-    'Intermediate Housing'
+    'Private: 65%',
+    'Social Rent: 17.5%',
+    'Intermediate: 17.5%'
   ],
   data = [
     {
