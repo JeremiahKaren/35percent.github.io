@@ -58,7 +58,7 @@ var colors = Highcharts.getOptions().colors,
         ],
         data: [
           8.6,
-          8.9
+          0.0
         ]
       }
     },
@@ -71,7 +71,7 @@ var colors = Highcharts.getOptions().colors,
               'Intermediate Rent'
         ],
         data: [
-          17.5
+          26.4
         ]
       }
     }
