@@ -24,15 +24,15 @@ Delancey claims to have a £11.25m social housing grant from the Greater London 
 
 ![](/img/delanceyfvaprofit.png)
 
-Southwark argues that it has secured a 'viability review' mechanism in the [section 106 agreement](/img/ShoppingCentreS106.pdf) ensuring that any surplus profit above its agreed profit levels will go towards providing additional affordable housing. However, the agreement only makes provision for half of any surplus to go towards this, the other half goes to Delancey. Futhermore, Delancey has inserted a clause ensuring that gets to retain any surplus profit resulting from any grant funding:
+Southwark argues that it has secured a 'viability review' mechanism in the [section 106 agreement](/img/ShoppingCentreS106.pdf) ensuring that any surplus profit above its agreed profit will go towards providing additional affordable housing. However, the agreement only makes provision for half of any surplus to go towards this, the other half goes to Delancey. Delancey has also inserted a clause ensuring that gets to retain any surplus profit resulting from any grant funding:
 
 ![](/img/pubsubsidy.png)
 
-The Council's independent advisors (GVA) produced a [report](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!PHUQPPiesgvQWEZYj1nx%2fw%3d%3d!%7d%7d%7d) for the planning committee in which an input was listed in the FVA saying that there was a £15m CPO cost. It says it was provided this cost assumption by Delancey and that it was in the process of verifying it:
+The Council's independent advisors (GVA) produced a [report](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!PHUQPPiesgvQWEZYj1nx%2fw%3d%3d!%7d%7d%7d) for the planning committee in which an input was listed in the FVA saying that there was a £15m CPO cost. It says Delancey provided this figure without justifying it with any background information.
 
 ![](/img/sccpo.png)
 
-Delancey has reached agreement with the bingo hall and the handful of traders who had leases extending beyond 2019, as well as the freehold owners of the pub.  The two terraced properties adjacent to the Coronet [remain in the hands of the shopowners](/img/30and32NewKentRoad.pdf). Whether any settlements collectively amount to £15m or whether a CPO will be needed remains to be seen.
+Delancey has reached agreement with the bingo hall and the handful of traders who had leases extending beyond 2019, as well as the freehold owners of the pub.  The two terraced properties adjacent to the Coronet [remain in the hands of the shopowners](/img/30and32NewKentRoad.pdf). Whether any settlements collectively amount to £15m or whether a CPO will be needed still remains to be seen.
 
 ![](/img/davishcropped.png)
 
