@@ -11,7 +11,7 @@ A coalition of local people and groups fighting for a fairer regeneration at the
 
 The legal challenge argues that Southwark were misled by shopping centre owner and developer Delancey about the amount of the social rented housing that could be provided.  If the challenge is successful it would mean that the approval awarded to Delancey by Southwark Council would be quashed, stopping the demolition and redevelopment of the centre.
 
-A crowdfunding appeal [has been launched]( https://www.crowdjustice.com/case/stop-the-elephant-shopping-centre-destruction) to help fund the challenge.
+A CrowdJustice appeal [has been launched]( https://www.crowdjustice.com/case/stop-the-elephant-shopping-centre-destruction) to help fund the challenge and donations can be made [here](https://www.crowdjustice.com/case/stop-the-elephant-shopping-centre-destruction).  
 
 ## A destructive scheme
 
