@@ -30,12 +30,8 @@ None of this is in line with the [Elephant's current affordable housing policy](
 var colors = Highcharts.getOptions().colors,
   categories = [
     'Private',
-    'Firefox',
-    'Internet Explorer',
-    'Safari',
-    'Edge',
-    'Opera',
-    'Other'
+    'Social Rent',
+    'Intermediate Housing'
   ],
   data = [
     {
@@ -52,7 +48,7 @@ var colors = Highcharts.getOptions().colors,
       }
     },
     {
-      y: 10.57,
+      y: 17.50,
       color: colors[1],
       drilldown: {
         name: 'Social Rent',
@@ -67,93 +63,15 @@ var colors = Highcharts.getOptions().colors,
       }
     },
     {
-      y: 7.23,
+      y: 17.50,
       color: colors[0],
       drilldown: {
-        name: 'Internet Explorer',
+        name: 'Intermediate Housing',
         categories: [
-          'Internet Explorer v11.0',
-          'Internet Explorer v10.0',
-          'Internet Explorer v9.0',
-          'Internet Explorer v8.0'
+              'Intermediate Rent'
         ],
         data: [
-          6.2,
-          0.29,
-          0.27,
-          0.47
-        ]
-      }
-    },
-    {
-      y: 5.58,
-      color: colors[3],
-      drilldown: {
-        name: 'Safari',
-        categories: [
-          'Safari v11.0',
-          'Safari v10.1',
-          'Safari v10.0',
-          'Safari v9.1',
-          'Safari v9.0',
-          'Safari v5.1'
-        ],
-        data: [
-          3.39,
-          0.96,
-          0.36,
-          0.54,
-          0.13,
-          0.2
-        ]
-      }
-    },
-    {
-      y: 4.02,
-      color: colors[5],
-      drilldown: {
-        name: 'Edge',
-        categories: [
-          'Edge v16',
-          'Edge v15',
-          'Edge v14',
-          'Edge v13'
-        ],
-        data: [
-          2.6,
-          0.92,
-          0.4,
-          0.1
-        ]
-      }
-    },
-    {
-      y: 1.92,
-      color: colors[4],
-      drilldown: {
-        name: 'Opera',
-        categories: [
-          'Opera v50.0',
-          'Opera v49.0',
-          'Opera v12.1'
-        ],
-        data: [
-          0.96,
-          0.82,
-          0.14
-        ]
-      }
-    },
-    {
-      y: 7.62,
-      color: colors[6],
-      drilldown: {
-        name: 'Other',
-        categories: [
-          'Other'
-        ],
-        data: [
-          7.62
+          17.50
         ]
       }
     }
