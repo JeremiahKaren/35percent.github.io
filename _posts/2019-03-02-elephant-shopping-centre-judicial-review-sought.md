@@ -5,7 +5,7 @@ title: Elephant shopping centre decision - judicial review sought
 ---
 ## Crowdfunding appeal launched
 
-A coalition of local people and groups fighting for a fairer regeneration at the Elephant and Castle,including the 35% Campaign, are supporting a legal application that has been made to overturn the planning approval for the redevelopment of the Elephant and Castle shopping centre.
+A coalition of local people and groups fighting for a fairer regeneration at the Elephant and Castle,including the 35% Campaign, are supporting a legal application to overturn the planning approval for the redevelopment of the Elephant and Castle shopping centre.
 
 ![](http://35percent.org/img/stoptheelephant.png)
 
