@@ -29,13 +29,13 @@ None of this is in line with the [Elephant's current affordable housing policy](
 <script type="text/javascript">
 var colors = Highcharts.getOptions().colors,
   categories = [
-    'Private',
+    'Private Housing',
     'Social Rent',
     'Intermediate Housing'
   ],
   data = [
     {
-      y: 65.00,
+      y: 65.0,
       color: colors[2],
       drilldown: {
         name: 'Market Rent',
@@ -43,27 +43,27 @@ var colors = Highcharts.getOptions().colors,
          'Market Rent'
         ],
         data: [
-          65.00
+          65.0
         ]
       }
     },
     {
-      y: 17.50,
+      y: 17.5,
       color: colors[1],
       drilldown: {
         name: 'Social Rent',
         categories: [
-          'Actual Social Rent',
+          'Social Rent approved',
           'Intermediate Rent'
         ],
         data: [
-          8.60,
-          8.90
+          8.6,
+          8.9
         ]
       }
     },
     {
-      y: 17.50,
+      y: 17.5,
       color: colors[0],
       drilldown: {
         name: 'Intermediate Housing',
@@ -71,7 +71,7 @@ var colors = Highcharts.getOptions().colors,
               'Intermediate Rent'
         ],
         data: [
-          17.50
+          17.5
         ]
       }
     }
