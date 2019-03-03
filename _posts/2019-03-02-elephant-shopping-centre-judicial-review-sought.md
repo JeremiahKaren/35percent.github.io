@@ -3,7 +3,7 @@ layout: post
 published: false
 title: Elephant shopping centre decision - judicial review sought
 ---
-## Crowdfunding appeal launched
+## Crowdfunding appeal launched - please [donate](https://www.crowdjustice.com/case/stop-the-elephant-shopping-centre-destruction)!
 
 A coalition of local people and groups fighting for a fairer regeneration at the Elephant and Castle,including the 35% Campaign, are supporting a legal application to overturn the planning approval for the redevelopment of the Elephant and Castle shopping centre.
 
