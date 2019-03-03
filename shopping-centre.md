@@ -24,6 +24,10 @@ Delancey claims to have a £11.25m social housing grant from the Greater London 
 
 ![](/img/delanceyfvaprofit.png)
 
+Southwark argues that it has secured a 'viability review' mechanism in the [section 106 agreement](/img/ShoppingCentreS106.pdf) ensuring that any surplus profit above its agreed profit levels will go towards providing additional affordable housing. However, the agreement only makes provision for half of any surplus to go towards this, the other half goes to Delancey. Futhermore, Delancey has inserted a clause ensuring that gets to retain any surplus profit resulting from any grant funding:
+
+![](/img/pubsubsidy.png)
+
 The Council's independent advisors (GVA) produced a [report](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!PHUQPPiesgvQWEZYj1nx%2fw%3d%3d!%7d%7d%7d) for the planning committee in which an input was listed in the FVA saying that there was a £15m CPO cost. It says it was provided this cost assumption by Delancey and that it was in the process of verifying it:
 
 ![](/img/sccpo.png)
