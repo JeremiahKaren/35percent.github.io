@@ -29,7 +29,7 @@ None of this is in line with the [Elephant's current affordable housing policy](
 <script type="text/javascript">
 var colors = Highcharts.getOptions().colors,
   categories = [
-    'Chrome',
+    'Private',
     'Firefox',
     'Internet Explorer',
     'Safari',
@@ -39,49 +39,15 @@ var colors = Highcharts.getOptions().colors,
   ],
   data = [
     {
-      y: 62.74,
+      y: 65.00,
       color: colors[2],
       drilldown: {
-        name: 'Chrome',
+        name: 'Market Rent',
         categories: [
-          'Chrome v65.0',
-          'Chrome v64.0',
-          'Chrome v63.0',
-          'Chrome v62.0',
-          'Chrome v61.0',
-          'Chrome v60.0',
-          'Chrome v59.0',
-          'Chrome v58.0',
-          'Chrome v57.0',
-          'Chrome v56.0',
-          'Chrome v55.0',
-          'Chrome v54.0',
-          'Chrome v51.0',
-          'Chrome v49.0',
-          'Chrome v48.0',
-          'Chrome v47.0',
-          'Chrome v43.0',
-          'Chrome v29.0'
+         'Market Rent'
         ],
         data: [
-          0.1,
-          1.3,
-          53.02,
-          1.4,
-          0.88,
-          0.56,
-          0.45,
-          0.49,
-          0.32,
-          0.29,
-          0.79,
-          0.18,
-          0.13,
-          2.16,
-          0.13,
-          0.11,
-          0.17,
-          0.26
+          65.00
         ]
       }
     },
