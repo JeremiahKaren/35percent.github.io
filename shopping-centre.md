@@ -7,10 +7,10 @@ published: true
 ---
 ![]({{site.baseurl}}/img/delanceyaerial.png)
 
-After [failing to get approval](https://www.bbc.co.uk/news/uk-england-london-42719607) from Southwark's planning committee on 16 Jan 2018, developer Delancey's [application](http://planbuild.southwark.gov.uk/documents/?casereference=16/AP/4458&system=DC){:target="_blank"} for the redevelopment of the [Elephant & Castle shopping centre](http://35percent.org/shopping-centre/){:target="_blank"}, was [narrowly approved](http://35percent.org/2018-07-09-delancey/) on 3 July 2018, after a total of three deferments.
+Despite attracting over [a thousand formal objections](https://planning.southwark.gov.uk/online-applications/applicationDetails.do?activeTab=makeComment&keyVal=_STHWR_DCAPR_9569810) and after [failing to get approval](https://www.bbc.co.uk/news/uk-england-london-42719607) from Southwark's planning committee on 16 Jan 2018, developer Delancey's [application](http://planbuild.southwark.gov.uk/documents/?casereference=16/AP/4458&system=DC){:target="_blank"} for the redevelopment of the [Elephant & Castle shopping centre](http://35percent.org/shopping-centre/){:target="_blank"}, was [narrowly approved](http://35percent.org/2018-07-09-delancey/) on 3 July 2018, after a total of three deferments.
 
 ## Affordable housing
-Delancey has been granted permission to build 979 Build to Rent (BtR) homes totalling 106,471sqm of residential floorspace and while 35% will be 'affordable' only 9,141sqm (8.6% - 116 homes) will be social rent. 
+Delancey has been granted permission to build 979 Build to Rent homes totalling 106,471sqm of residential floorspace and while 35% will be 'affordable' only 9,141sqm (8.6% - 116 homes) will be social rent. 
 
 None of this is in line with the [Elephant's current affordable housing policy](http://www.southwark.gov.uk/assets/attach/1817/1.0.5%20Elephant%20%26%20Castle%20SPD%20OAPF.pdf), which requires half (17.5%) of the minimum 35% affordable housing to be social rented. Instead we are getting only 8.6% social rent, with the remainder provided as 'London Living Rent equivalent' (£205 - £308pw) or affordable rent at up to 80% market rent, for household incomes up to £90,000pa.
 
@@ -53,7 +53,7 @@ var colors = Highcharts.getOptions().colors,
       drilldown: {
         name: 'Social Rent',
         categories: [
-          'Social Rent approved',
+          'Social Rent',
           'Intermediate Rent'
         ],
         data: [
@@ -173,19 +173,19 @@ Highcharts.chart('container', {
 
 Nor does the affordable housing offer meet the required amounts in the [new, 'emerging' policy](https://www.southwark.gov.uk/planning-and-building-control/planning-policy-and-transport-policy/development-plan/local-plan?chapter=4) Southwark is trying to sneak through the backdoor, to help the likes of Delancey reduce their affordable housing obligations.  Southwark has previously vehemently [argued against including affordable rent in local housing policy](http://35percent.org/redefining-social-rent/). Delancey's offer will do nothing to offset the poor balance of social housing provision in the regenerated Elephant & Castle's new developments.
 
-As is usual, Delancey has submitted a viability assessment claiming that its affordable housing offer is the most than can be viably provided, but this falls some way short of what Southwark's planning policy requires, as is also usual. Since its initial offer of 33 homes at 'social rent equivalent', Delancey has upped the number, first to 74 and then to 116, but this is still some way short of the amount needed for policy compliance. 
+As is usual, Delancey has submitted a viability assessment claiming that its affordable housing offer is the most than can be viably provided, but this falls way short of what Southwark's planning policy requires, as is also usual. Since its initial offer of 33 homes at 'social rent equivalent', Delancey has upped the number, first to 74 and then to 116, but this is still short of the amount needed for policy compliance. 
 
 Delancey claims to have a £11.25m social housing grant from the Greater London Authority (GLA), but if this is so, it has found its way straight to Delancey's bottom line, increasing its profit by the same amount.  We can see this by comparing two development appraisals of the scheme.  [The first](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!eW5y4yYs725p%2bJMli9Cf8g%3d%3d!%7d%7d%7d), dated 13 June 2018, is for a scheme with 116 social rented units, but without grant funding, and has a profit of £137.1m.  [The second](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!rcfVT8LTb%2bOXBtPlyVeyXg%3d%3d!%7d%7d%7d), dated 22 June 2018, is also for a scheme with 116 social rented units, but includes the £11.25m GLA grant, and, by a miracle of development finance, a profit of £148.4m. [Delancey have responded](https://twitter.com/ShapingElephant/status/1012006789997580294?s=19the) to justified [cries of 'subsidise homes, not profit'](https://twitter.com/occupyelephant?lang=en) pretty much confirming that this is what has happened, but referring to the difference in the profit levels as a 'viability gap' and pleading that it 'maintains' the profit, not 'enhances' it.  Most people will struggle to see the difference and would think the money better spent on the social housing Delancey claims it cannot afford to build.
 
 ![](/img/delanceyfvaprofit.png)
 
-Southwark argues that it has secured a 'viability review' mechanism in the [legal agreement](/img/ShoppingCentreS106.pdf) ensuring that any surplus above Delancey's agreed profit will go towards providing additional affordable housing. But the agreement only makes provision for half of any surplus to go towards this, the other half is to be retained by Delancey.
+Southwark argues that it has secured a 'viability review' mechanism in the [legal agreement](/img/ShoppingCentreS106.pdf) ensuring that any surplus above Delancey's anticipated profit will go towards providing additional affordable housing. But the agreement only makes provision for half of any surplus to go towards this, the other half is to be retained by Delancey.
 
-Further doubt about Delancey's viability assessment is raised by the Council's independent advisors (GVA) who produced a [report](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!PHUQPPiesgvQWEZYj1nx%2fw%3d%3d!%7d%7d%7d)  explaining that Delancey had listed a £15m CPO liability as a cost to the scheme. GVA says Delancey provided this £15m figure without providing any underlying information to justify it.
+Further doubt about Delancey's viability assessment is raised by the Council's independent advisors [(GVA)](http://www.gva.co.uk) who produced a [report](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!PHUQPPiesgvQWEZYj1nx%2fw%3d%3d!%7d%7d%7d)  explaining that Delancey had listed a £14.5m CPO liability as a cost to the scheme. GVA says Delancey provided this £14.5m figure without providing sufficient information to justify it.
 
 ![](/img/sccpo.png)
 
-While Delancey has reached agreement with the bingo hall and the handful of traders who had leases extending beyond 2019, as well as the freehold owners of the pub.  The two terraced properties adjacent to the Coronet [remain in the hands of the shopowners](/img/30and32NewKentRoad.pdf). Whether any settlements collectively amount to £15m or whether a CPO will be needed still remains to be seen.
+While Delancey has reached agreement with the bingo hall and the handful of traders who had leases extending beyond 2019, as well as the freehold owners of the pub.  The two terraced properties adjacent to the Coronet [remain in the hands of the shopowners](/img/30and32NewKentRoad.pdf). Whether any settlements collectively amount to £14.5m or whether a CPO will be needed still remains to be seen.
 
 ![](/img/davishcropped.png)
 
@@ -246,7 +246,7 @@ Delancey dismissed the [campaign](http://coronettheatre.co.uk/home/save-the-coro
 ![](http://crappistmartin.github.io/images/coronet_cinema.jpg)
 
 ## Transport
-Transport for London [wrote to the Council](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!eFbtnvDjhOiqL4IpxHg%2f%2fw%3d%3d!%7d%7d%7d){:target="_blank"} outlining a number of significant transport issues that need to be resolved. One of these is the access route for service vehicles to the new shopping centre, which was originally going to be provided by an underground tunnel from Delancey's neighbouring [Elephant One](/tribeca-square) (formerly Tribeca Square) development. Indeed, Delancey's [viability assessment](http://crappistmartin.github.io/images/Delancey_Tribeca_ViabilityAssessment.pdf) for Elephant One argued that the ramp for the underground tunnel would cost £12.5m and the development could therefore not viably provide ANY affordable housing. The council accepted the argument and even [signed over land](/img/DelanceyEadon_MarketSquare_Agreement.pdf) to Delancey's shell company (Eadon Ltd), in order to build the underground access tunnel. However, Delancey's planning application now says that it wants to use a different, direct access route off New Kent Road instead. TFL says that this will cause congestion for buses and affect safe passage across the new pedestrian routes.
+Transport for London's [initial response to the scheme](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!eFbtnvDjhOiqL4IpxHg%2f%2fw%3d%3d!%7d%7d%7d){:target="_blank"} outlined a number of significant transport issues that needed to be resolved. One of these was the access route for service vehicles to the new shopping centre, which was originally going to be provided by an underground tunnel from Delancey's neighbouring [Elephant One](/tribeca-square) (formerly Tribeca Square) development. Indeed, Delancey's [viability assessment](http://crappistmartin.github.io/images/Delancey_Tribeca_ViabilityAssessment.pdf) for Elephant One argued that the ramp for the underground tunnel would cost £12.5m and the development could therefore not viably provide ANY affordable housing. The council accepted the argument and even [signed over land](/img/DelanceyEadon_MarketSquare_Agreement.pdf) to Delancey's shell company (Eadon Ltd), in order to build the underground access tunnel. However, Delancey's planning application now says that it wants to use a different, direct access route off New Kent Road instead. TFL says that this will cause congestion for buses and affect safe passage across the new pedestrian routes.
 
 ![](/img/shoppingcentreaccess.png)
 
