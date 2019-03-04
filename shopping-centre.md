@@ -274,7 +274,9 @@ The [S106 legal agreement](/img/ShoppingCentreS106.pdf) shows that the entire pu
 ![](/img/scpublicrealm.jpg)
 *Extract from the [S106 legal agreement](/img/ShoppingCentreS106.pdf) showing new public realm*
 
-<meta name="twitter:card" content="summary" />
-<meta name="twitter:title" content="Delancey's Elephant and Castle" />
-<meta name="twitter:description" content="1000 new homes but only 8.6% social rented. Only 10% of retail earmarked for current shopkeepers" />
-<meta name="twitter:image" content="http://35percent.org/img/shoppingcentrecomp.png" />
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:site" content="@35percent_EAN">
+<meta name="twitter:title" content="Delancey's Elephant and Castle">
+<meta name="twitter:description" content="1000 new homes but only 8.6% social rent; only 10% of new retail earmarked for current traders">
+<meta name="twitter:image" content="http://35percent.org/img/shoppingcentrecomp.png">
+
