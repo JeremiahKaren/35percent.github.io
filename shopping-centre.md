@@ -113,7 +113,7 @@ Highcharts.chart('container', {
     type: 'pie'
   },
   title: {
-    text: 'Tenure mix breakdown'
+    text: 'Approved Tenure Mix'
   },
   subtitle: {
     text: 'Source: <a href="http://planbuild.southwark.gov.uk/documents/?casereference=16/AP/4458&system=DC" target="_blank">Southwark Council planning ref:16/AP/4458</a>'
@@ -264,7 +264,7 @@ The panel raises significant concerns about the new Northern line entrance, whic
 It also criticises Delancey's public realm proposals; _"In respect of the public realm, the Panel felt the current proposals lacked generosity. They noted that other significant schemes provided appropriate civic spaces and public realm on their sites and felt that the current proposal did not strike the right balance between pubic realm and built form to mitigate against the enormous scale of the proposal."_
 
 ## Public Realm
-[Land Registry Records](http://35percent.org/lrdeeds/shoppingcentreCouncilFreeholdLand.pdf) show that the Council is handing over a considerable amount of public realm to Delancey for its disastrous and inqequitable redevelopment of the E&C shopping centre.
+ [Land Registry Records](http://35percent.org/lrdeeds/shoppingcentreCouncilFreeholdLand.pdf) show that the Council is handing over a considerable amount of public realm to Delancey for its disastrous and inqequitable redevelopment of the E&C shopping centre.
 
 The [S106 legal agreement](/img/ShoppingCentreS106.pdf) shows that the entire public realm in Delancey's redeveloped Elephant & Castle will be privately managed and the Delancey reserves the right to 'eject' anyone it considers an 'annoyance':
 
@@ -277,6 +277,6 @@ The [S106 legal agreement](/img/ShoppingCentreS106.pdf) shows that the entire pu
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:site" content="@35percent_EAN">
 <meta name="twitter:title" content="Delancey's Elephant and Castle">
-<meta name="twitter:description" content="1000 new homes but only 8.6% social rent; only 10% of new retail earmarked for current traders">
+<meta name="twitter:description" content="1000 new homes but only 8.6% social rent - only 10% of new retail earmarked for current traders.">
 <meta name="twitter:image" content="http://35percent.org/img/shoppingcentrecomp.png">
 
