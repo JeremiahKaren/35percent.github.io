@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Delancey's Elephant & Castle
-subtitle: '979 new homes, not enough social rented. No room for current shopkeepers'
+subtitle: '979 new homes, not enough social rented. Little room for current shopkeepers'
 sharing: true
 published: true
 ---
@@ -12,7 +12,7 @@ Despite attracting over [a thousand formal objections](https://planning.southwar
 ## Affordable housing
 Delancey has been granted permission to build 979 Build to Rent homes totalling 106,471sqm of residential floorspace and while 35% will be 'affordable' only 9,141sqm (8.6% - 116 homes) will be social rent. 
 
-None of this is in line with the [Elephant's current affordable housing policy](http://www.southwark.gov.uk/assets/attach/1817/1.0.5%20Elephant%20%26%20Castle%20SPD%20OAPF.pdf), which requires half (17.5%) of the minimum 35% affordable housing to be social rented. This should give us nearly 170 social rented units. Instead we are getting only 116 social rented units with 53 'London Living Rent equivalent' units (£205 - £308pw) and 161 affordable rent at up to 80% market rent, for household incomes up to £90,000pa. Interestingly, when measured by floorspace the social rent element is even smaller - only 8.6% of the total floorspace.
+None of this is in line with the [Elephant's current affordable housing policy](http://www.southwark.gov.uk/assets/attach/1817/1.0.5%20Elephant%20%26%20Castle%20SPD%20OAPF.pdf), which requires half (17.5%) of the minimum 35% affordable housing to be social rented. This should give us nearly 170 social rented units. Instead we are getting only 116 social rented units with 53 'London Living Rent equivalent' units (£205 - £308pw) and 161 affordable rent at up to 80% market rent, for household incomes up to £90,000pa. Measured by floorspace the social rent element is only 8.6% of the total residential floorspace.
 
 <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js">
 </script>
@@ -192,7 +192,7 @@ While Delancey has reached agreement with the bingo hall and the handful of trad
 In addition, Delancey's viability assessment claimed a £92m acquisition cost for the shopping centre site. This is £12m more than it [actually paid for the site](http://crappistmartin.github.io/images/LRDeeds_ShoppingCentre.pdf) and is yet another way of making the scheme look less profitable than it actually is.
 
 ![](/img/fvaeastsiteacq.png)
-
+ 
 ## Offshore Elephant
 Delancey's 'Build-to-Rent' homes will be privately managed by its subsidiary __Get Living London__. Despite [managing over £1bn worth of PRS homes](http://www.propertyweek.com/news/get-living-to-double-assets-to-%C2%A32bn/5088136.article) __Get Living London__ has [never paid a penny of corporation tax](https://beta.companieshouse.gov.uk/company/07793925/filing-history). This is because its parent companies are [Qatari Diar](http://www.cityam.com/238088/elephant-castle-scheme-and-east-village-site-merged-to-create-14bn-private-rented-sector-venture){:target="_blank"} and Delancey's [tax-avoiding](http://crappistmartin.github.io/images/PrivateEyeNo1311.pdf){:target="_blank"} offshore investment fund DV4 registered in the British Virgin Islands. The Elephant and Castle shopping centre is currently owned by one of the fund's shell companies [registered in the BVI](http://crappistmartin.github.io/images/LRDeeds_ShoppingCentre.pdf){:target="_blank"} and whose directors are [registered](https://beta.companieshouse.gov.uk/company/04434716/officers){:target="_blank"} in Bermuda and Kuwait. We have shown before how Delancey uses a [complex network of offshore companies](http://35percent.org/2014-05-05-manx-connections-the-off-shore-home-of-the-elephants-developers/) to avoid paying tax.
 
