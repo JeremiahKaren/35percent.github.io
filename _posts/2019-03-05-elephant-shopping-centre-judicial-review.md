@@ -5,6 +5,7 @@ title: "Elephant shopping centre decision - judicial review sought"
 ---
 
 ## Crowdfunding appeal launched - please donate!
+
 (https://www.crowdjustice.com/case/stop-the-elephant-shopping-centre-destruction)
 
 A coalition of local people and groups fighting for a fairer regeneration at the Elephant and Castle,including the 35% Campaign, are supporting a legal application to overturn the planning approval for the redevelopment of the Elephant and Castle shopping centre.
@@ -36,6 +37,7 @@ Our legal challenge is supported by the [Public Interest Law Centre](http://www.
 ![](http://35percent.org/img/lovetheelephant.jpg)
 
 ## Please donate!
+
 (https://www.crowdjustice.com/case/stop-the-elephant-shopping-centre-destruction/)
 
 We must raise at least **£5000** to be able to mount this vital challenge and for that we need your help. All funds will go towards the legal costs of the case. If we lose the case we will have to pay the other side's costs. If we win, we will be able to pay our own lawyers!
