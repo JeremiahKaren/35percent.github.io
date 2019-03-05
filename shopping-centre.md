@@ -179,7 +179,7 @@ Delancey claims to have a £11.25m social housing grant from the Greater London 
 
 ![](/img/delanceyfvaprofit.png)
 
-Southwark argues that it has secured a 'viability review' mechanism in the [legal agreement](/img/ShoppingCentreS106.pdf) ensuring that any surplus above Delancey's anticipated profit will go towards providing additional affordable housing. But the agreement only makes provision for half of any surplus to go towards this, the other half is to be retained by Delancey.
+Southwark argues that it has secured a 'viability review' mechanism in the [legal agreement](https://docdro.id/wIuSC8m) ensuring that any surplus above Delancey's anticipated profit will go towards providing additional affordable housing. But the agreement only makes provision for half of any surplus to go towards this, the other half is to be retained by Delancey.
 
 Further doubt about Delancey's viability assessment is raised by the Council's independent advisors [(GVA)](http://www.gva.co.uk) who produced a [report](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!PHUQPPiesgvQWEZYj1nx%2fw%3d%3d!%7d%7d%7d)  explaining that Delancey had listed a £14.5m CPO liability as a cost to the scheme. GVA says Delancey provided this £14.5m figure without providing sufficient information to justify it.
 
