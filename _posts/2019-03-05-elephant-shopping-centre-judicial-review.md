@@ -44,3 +44,10 @@ Any [donation](https://www.crowdjustice.com/case/stop-the-elephant-shopping-cent
 You can read more about Delancey's desructive plans [here.](http://35percent.org/shopping-centre)
 
 ![](http://35percent.org/img/lospropertydevelopersnopasaran2.jpg)
+
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:site" content="@35percent_EAN">
+<meta name="twitter:title" content="Elephant and Castle plans - Judicial Review sought">
+<meta name="twitter:description" content="Crowdfunding launched to support legal challenge to the planning approval for redevelopment of Elephant and Castle shopping centre.">
+<meta name="twitter:image" content="http://35percent.org/img/shoppingcentreappealcomp.png">
+
