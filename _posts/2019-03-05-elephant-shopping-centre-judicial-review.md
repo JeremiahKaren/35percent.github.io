@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true 
 title: Elephant shopping centre decision - judicial review sought
 ---
 ## Crowdfunding appeal launched - please [donate](https://www.crowdjustice.com/case/stop-the-elephant-shopping-centre-destruction)!
