@@ -3,7 +3,7 @@ layout: post
 title: "Why we're challenging the Elephant & Castle redevelopment plans in court"
 author: Jerry F 
 ---
-Twenty years ago today Fred Manson, Southwark's Director of Regeneration laid out the Council's new regeneration strategy: _"We need to have a wider range of people living in the borough"_ because _"Social housing generates people on low incomes coming in and that generates poor school performances, middle-class people stay away."_ He went on to point out that 60% of housing in Southwark is social housing and that the Council's new policy was aimed at reversing some of the problems caused by past social engineering[^1].
+Twenty years ago today Fred Manson, Southwark's Director of Regeneration laid out the Council's new regeneration strategy: _"We need to have a wider range of people living in the borough"_ because _"social housing generates people on low incomes coming in and that generates poor school performances, middle-class people stay away."_ He went on to point out that 60% of housing in Southwark is social housing and that the Council's new policy was aimed at reversing some of the problems caused by past social engineering[^1].
 
 Twenty years on and Southwark's reverse social engineering has been a resounding success. More than 13,000 Council homes have been [lost through Right to Buy, void sales and estate regenerations](http://35percent.org/the-southwark-clearances) while tens of thousands of new homes have been built [with an average social rent component of under 4%](http://35percent.org/major-schemes) - well below the Council's [policy requirement of 25%](LINKTONSP). While Southwark does now have an ambitious council house building scheme, it is [still knocking down and selling off council homes faster than it is building them](http://35percent.org/2018-11-12-11000-council-homes-manifesto-pledge/).
 
@@ -59,7 +59,7 @@ Twenty years on and Southwark's reverse social engineering has been a resounding
 
 </script>
 
-The Elephant and Castle scheme is no exception to this trend with only 116 of nearly a thousand new homes offered as social rent (8.6% by floorspace).  
+The [Elephant and Castle shopping centre redevelopment](http://35percent.org/shopping-centre) is no exception to this trend with only 116 of nearly a thousand new homes offered as social rent (8.6% by floorspace).  
 
 <script type="text/javascript">
 var colors = Highcharts.getOptions().colors,
@@ -206,9 +206,9 @@ Highcharts.chart('container', {
 
 </script>
 
-It has since emerged that developer Delancey was not upfront with councillors about the viable number of social rented homes in the scheme, its grant funding application or how they would be delivered. We have decided to take the matter to court and seek to have the planning consent quashed on this basis. (Maybe say more here about the grounds - i.e. the fact that Delancey promised 'sufficient funds' to construct the 116 units but the S106 fails to secure this; the fact that the S106's viability review promised to councillors is restricted from providing any further uplift in SR units).
+Since the plans were approved, it has emerged that developer Delancey was not upfront with councillors about the viable number of social rented homes in the scheme, its grant funding application or how they would be delivered. In additioin, Delancey promised that if it hadn't built any social rented housing by 10 years from the start of construction then it would hand over some land and 'sufficient funds' for Southwark to build it, but the recently-signed legal agreement fails to secure this. The legal agreement also fails to provide an effective 'viability review mechanism' which was promised to councillors - the small print prevents an increase in social rented units in the event the development turns out to be more profitable than currently forecast.
 
-The planning decision was controversial from the outset; it attracted over [a thousand formal objections](https://planning.southwark.gov.uk/online-applications/applicationDetails.do?activeTab=makeComment&keyVal=_STHWR_DCAPR_9569810) and after [failing to get approval](https://www.bbc.co.uk/news/uk-england-london-42719607) from Southwark's planning committee on 16 Jan 2018, developer Delancey's [application](http://planbuild.southwark.gov.uk/documents/?casereference=16/AP/4458&system=DC){:target="_blank"} for the redevelopment of the [Elephant & Castle shopping centre](http://35percent.org/shopping-centre/){:target="_blank"}, was [narrowly approved](http://35percent.org/2018-07-09-delancey/) by just one vote on 3 July 2018, after a total of three deferments. We believe that had the planning committee known what we now know then the scheme would not have been approved.
+The planning decision was controversial from the outset; it attracted over [a thousand formal objections](https://planning.southwark.gov.uk/online-applications/applicationDetails.do?activeTab=makeComment&keyVal=_STHWR_DCAPR_9569810) from local residents and after [failing to get approval](https://www.bbc.co.uk/news/uk-england-london-42719607) from Southwark's planning committee in Jan 2018, was [narrowly approved](http://35percent.org/2018-07-09-delancey/) by just one vote on 3 July 2018, after a total of three deferments. We believe that had the planning committee known what we now know then the scheme would not have been approved and this is why we are applying to challenge the scheme via judicial review.
 
 Delancey's consented scheme is largely a residential development - it proposes nearly six times as much residential space as it does retail (106k and 18k sqm respectively)[^2]. 
 
