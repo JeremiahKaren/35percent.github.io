@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Why we're challenging the Elephant & Castle redevelopment plans in court"
-author: Jerry F 
+author: "Jerry F" 
 ---
 Twenty years ago today Fred Manson, Southwark's Director of Regeneration laid out the Council's new regeneration strategy: _"We need to have a wider range of people living in the borough"_ because _"social housing generates people on low incomes coming in and that generates poor school performances, middle-class people stay away."_ He went on to point out that 60% of housing in Southwark is social housing and that the Council's new policy was aimed at reversing some of the problems caused by past social engineering[^1].
 
@@ -29,8 +29,7 @@ Twenty years on and Southwark's reverse social engineering has been a resounding
                 x: -20
             },
             xAxis: {
-                categories: ['1994', '1995', '1996', '1997', '1998', '1999',
-                    '2000', '2001', '2002', '2003', '2004', '2005', '2006', '2007', '2008', '2009', '2010', '2011', '2012', '2013', '2014', '2015', '2016', '2017']
+                categories: ['1999', '2000', '2001', '2002', '2003', '2004', '2005', '2006', '2007', '2008', '2009', '2010', '2011', '2012', '2013', '2014', '2015', '2016', '2017']
             },
             yAxis: {
                 title: {
@@ -53,7 +52,7 @@ Twenty years on and Southwark's reverse social engineering has been a resounding
             },
             series: [{
                 name: 'Southwark',
-                data: [55803, 55162, 54439, 53363, 52448, 51706, 50903, 49875, 48052, 46887, 45346, 43885, 42275, 41873, 41287, 40618, 40120, 39845, 39781, 38578, 39029, 38687, 38522, 38553]
+                data: [51706, 50903, 49875, 48052, 46887, 45346, 43885, 42275, 41873, 41287, 40618, 40120, 39845, 39781, 38578, 39029, 38687, 38522, 38553]
             }]
         });
 
