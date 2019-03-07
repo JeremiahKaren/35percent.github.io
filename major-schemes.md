@@ -6,7 +6,7 @@ subtitle: >-
   housing need
 published: true
 ---
-The last ten years has seen a flurry of high-profile, high-density, high-rise developments approved in Southwark - but how have they benefitted the local community? The following table shows a number of major schemes approved (all but one by the current Labour administration) and the number of social rented homes provided in each development.
+The last ten years has seen a flurry of high-profile, high-density, high-rise developments approved in Southwark - but how have they benefitted the local community? The following table shows the major schemes approved over approximately the last ten years and the number of social rented homes provided in each development.
 
 | [Neo Bankside](/neo-bankside) | [Sampson & Ludgate House](http://35percent.org/ludgate-and-sampson/) | [Elephant One](/tribeca-square) | [SouthBank Tower](http://www.london-se1.co.uk/news/view/8222) | [Heygate estate](http://35percent.org/affordable-housing/) | 
 | ------------ | ------------ |-------------|------------
