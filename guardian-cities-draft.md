@@ -220,9 +220,9 @@ In any event it is still not enough - the Elephant's diverse community of indepe
 
 ![](http://35percent.org/img/traderscomp.jpeg)
 
-Nice concluding paragraph here with link to crowdjustice page.
+Nice concluding paragraph here with link to crowdjustice page - we could either say something like 'this is why we want to send Delancey's plans back to the drawing board' or 'this is why we want to halt the plans and keep the Elephant the way it is'.
 
-Footnotes:
+__Footnotes:__
 
 [^1]: Estates Gazzette article [published 13 March 1999](http://heygate.github.io/img/EstatesGazette.pdf)
 
