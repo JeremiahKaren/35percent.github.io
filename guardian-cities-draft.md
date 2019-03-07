@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Why we are challenging the redevelopment plans for Elephant & Castle shopping centre"
-author: Jerry F
+title: "Why we're challenging the Elephant & Castle redevelopment plans in court"
+author: Jerry F 
 ---
 Twenty years ago today Fred Manson, Southwark's Director of Regeneration laid out the Council's new regeneration strategy: _"We need to have a wider range of people living in the borough"_ because _"Social housing generates people on low incomes coming in and that generates poor school performances, middle-class people stay away."_ He went on to point out that 60% of housing in Southwark is social housing and that the Council's new policy was aimed at reversing some of the problems caused by past social engineering[^1].
 
@@ -19,7 +19,7 @@ Twenty years on and Southwark's reverse social engineering has been a resounding
 
 <script type="text/javascript">
 
-        $('#container').highcharts({
+        $('#container1').highcharts({
             title: {
                 text: "Southwark's Council Homes",
                 x: -20 //center
