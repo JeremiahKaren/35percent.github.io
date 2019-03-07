@@ -14,7 +14,7 @@ Twenty years on and Southwark's reverse social engineering has been a resounding
 <script src="http://code.highcharts.com/modules/exporting.js">
 </script>
 
-<div id="container" style="min-width: 310px; height: 400px; margin: 0 auto">
+<div id="container1" style="min-width: 310px; height: 400px; margin: 0 auto">
 </div>
 
 <script type="text/javascript">
@@ -210,16 +210,15 @@ It has since emerged that developer Delancey was not upfront with councillors ab
 
 The planning decision was controversial from the outset; it attracted over [a thousand formal objections](https://planning.southwark.gov.uk/online-applications/applicationDetails.do?activeTab=makeComment&keyVal=_STHWR_DCAPR_9569810) and after [failing to get approval](https://www.bbc.co.uk/news/uk-england-london-42719607) from Southwark's planning committee on 16 Jan 2018, developer Delancey's [application](http://planbuild.southwark.gov.uk/documents/?casereference=16/AP/4458&system=DC){:target="_blank"} for the redevelopment of the [Elephant & Castle shopping centre](http://35percent.org/shopping-centre/){:target="_blank"}, was [narrowly approved](http://35percent.org/2018-07-09-delancey/) by just one vote on 3 July 2018, after a total of three deferments. We believe that had the planning committee known what we now know then the scheme would not have been approved.
 
-## Traders only 10%
-Delancey's consented scheme is largely a residential development - it proposes nearly six times as much residential space as it does replacement retail (18k sqm & 106k sqm respectively)[^2]. 
+Delancey's consented scheme is largely a residential development - it proposes nearly six times as much residential space as it does retail (106k and 18k sqm respectively)[^2]. 
 
 ![](http://35percent.org/img/delanceyshoppingcentrecgi.jpg)
 
-Only 10% of the new retail space will be provided at affordable rates to accommodate existing independent traders who will pay 40 per cent of local market rates for a five year period and 75 per cent for the subsequent ten. This concession was only won from Delancey after a bitter campaign struggle. Delancey was originally offering only x%?? affordable retail and only discounted for the first 5 years. 
+Only 10% of the new retail space will be provided at affordable rates to accommodate existing independent traders, who will pay a discounted rent of 40 per cent market rate for a five year period and 75 per cent for the subsequent ten. This concession was only won from Delancey after a bitter campaign struggle. Delancey was originally offering only x%?? affordable retail and only discounted for the first 5 years. 
 
-In any event it is clearly not enough - the Elephant's diverse community of independent traders make the place what it is and there will be no place for 90% of them if Delancey's plan is allowed to proceed.
+In any event it is still not enough - the Elephant's diverse community of independent traders make the place what it is and there will be no place for 90% of them if Delancey's plan is allowed to proceed.
 
-![](http://35percent.org/img/traderscomp.png)
+![](http://35percent.org/img/traderscomp.jpeg)
 
 Nice concluding paragraph here with link to crowdjustice page.
 
