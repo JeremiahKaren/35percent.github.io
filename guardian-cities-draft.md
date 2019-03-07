@@ -210,7 +210,7 @@ Since the plans were approved, it has emerged that developer Delancey was not up
 
 The planning decision was controversial from the outset; it attracted over [a thousand formal objections](https://planning.southwark.gov.uk/online-applications/applicationDetails.do?activeTab=makeComment&keyVal=_STHWR_DCAPR_9569810) from local residents and after [failing to get approval](https://www.bbc.co.uk/news/uk-england-london-42719607) from Southwark's planning committee in Jan 2018, was [narrowly approved](http://35percent.org/2018-07-09-delancey/) by just one vote on 3 July 2018, after a total of three deferments. We believe that had the planning committee known what we now know then the scheme would not have been approved and this is why we are applying to challenge the scheme via judicial review.
 
-Delancey's consented scheme is largely a residential development - it proposes nearly six times as much residential space as it does retail (106k and 18k sqm respectively)[^2]. 
+Delancey claims it is building a 'new town centre' for Elephant and Castle but there will be nearly six times more residential than retail floorspace in the new scheme (106,471sqm residential vs 18,234sqm retail). [^2]. 
 
 ![](http://35percent.org/img/delanceyshoppingcentrecgi.jpg)
 
