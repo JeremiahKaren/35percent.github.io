@@ -60,6 +60,8 @@ Twenty years on and Southwark's reverse social engineering has been a resounding
 
 The [Elephant and Castle shopping centre redevelopment](http://35percent.org/shopping-centre) is no exception to this trend with only 116 of nearly a thousand new homes offered as social rent (8.6% by floorspace).  
 
+<div id="container2" style="min-width: 310px; height: 400px; margin: 0 auto"></div>
+
 <script type="text/javascript">
 var colors = Highcharts.getOptions().colors,
   categories = [
@@ -142,7 +144,7 @@ for (i = 0; i < dataLen; i += 1) {
 }
 
 // Create the chart
-Highcharts.chart('container', {
+Highcharts.chart('container2', {
   chart: {
     type: 'pie'
   },
