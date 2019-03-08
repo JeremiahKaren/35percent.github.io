@@ -245,6 +245,14 @@ Delancey dismissed the [campaign](http://coronettheatre.co.uk/home/save-the-coro
 
 ![](http://crappistmartin.github.io/images/coronet_cinema.jpg)
 
+## Bingo
+Palace Bingo hall on the first floor of the shopping centre is an integral part of local community facilties. It accommodates up to 500 people daily. Southwark's [planning committee report](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!HvOs1eG7BYgl0hYZ8SIm5w%3d%3d!%7d%7d%7d) acknowledges that the bingo hall is _"clearly a popular and well-used facility" and _"that a high proportion of elderly people and people from Black, Asian and Minority
+Ethnic (BAME) backgrounds use the facility, and its loss could result in adverse equality implications."_ It then goes on to explain that this is 'mitigated' by Delancey's offer to give 'first right of refusal' to a bingo operator for use of some of the new leisure space in its scheme (para 125).  
+
+![](/img/palacebingo.jpg)
+
+In Palace Bingo's [response to this](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!mlQECLDoZucrky0D%2fJLzhw%3d%3d!%7d%7d%7d) it said that _"At the time of publishing the report and your Cabinet meeting there had been no dialogue[with Delancey], and subsequent discussions have not been meaningful or substantive thus far."_ It is understood that there is still no agreement between Delancey and Palace Bingo to incorporate it into the redeveloped scheme.
+
 ## Transport
 Transport for London's [initial response to the scheme](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!eFbtnvDjhOiqL4IpxHg%2f%2fw%3d%3d!%7d%7d%7d){:target="_blank"} outlined a number of significant transport issues that needed to be resolved. One of these was the access route for service vehicles to the new shopping centre, which was originally going to be provided by an underground tunnel from Delancey's neighbouring [Elephant One](/tribeca-square) (formerly Tribeca Square) development. Indeed, Delancey's [viability assessment](http://crappistmartin.github.io/images/Delancey_Tribeca_ViabilityAssessment.pdf) for Elephant One argued that the ramp for the underground tunnel would cost £12.5m and the development could therefore not viably provide ANY affordable housing. The council accepted the argument and even [signed over land](/img/DelanceyEadon_MarketSquare_Agreement.pdf) to Delancey's shell company (Eadon Ltd), in order to build the underground access tunnel. However, Delancey's planning application now says that it wants to use a different, direct access route off New Kent Road instead. TFL says that this will cause congestion for buses and affect safe passage across the new pedestrian routes.
 
