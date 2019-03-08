@@ -246,7 +246,7 @@ Delancey dismissed the [campaign](http://coronettheatre.co.uk/home/save-the-coro
 ![](http://crappistmartin.github.io/images/coronet_cinema.jpg)
 
 ## Bingo
-Palace Bingo hall on the first floor of the shopping centre is an integral part of local community facilties. It accommodates up to 500 people daily. Southwark's [planning committee report](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!HvOs1eG7BYgl0hYZ8SIm5w%3d%3d!%7d%7d%7d) acknowledges that the bingo hall is _"clearly a popular and well-used facility" and _"that a high proportion of elderly people and people from Black, Asian and Minority
+Palace Bingo hall on the first floor of the shopping centre is an important local community facilty, accommodating around 500 pensioners daily. Southwark's [planning committee report](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!HvOs1eG7BYgl0hYZ8SIm5w%3d%3d!%7d%7d%7d) acknowledges that the bingo hall is _"clearly a popular and well-used facility"_ and _"that a high proportion of elderly people and people from Black, Asian and Minority
 Ethnic (BAME) backgrounds use the facility, and its loss could result in adverse equality implications."_ It then goes on to explain that this is 'mitigated' by Delancey's offer to give 'first right of refusal' to a bingo operator for use of some of the new leisure space in its scheme (para 125).  
 
 ![](/img/palacebingo.jpg)
