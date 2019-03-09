@@ -4,7 +4,7 @@ title: "Borough Triangle"
 sharing: true
 footer: true
 ---
-For nearly two decades, Peabody Housing Association has sat on a 2.5-acre site at Elephant & Castle known as _Borough Triangle_. This large triangle of land sits between Southbank University, Borough road and the Crown Court on Newington Causeway and is earmarked for providing 700 new homes and new retail space.  
+For the past 5 years, Peabody Housing Association has sat on a 2.5-acre site at Elephant & Castle known as _Borough Triangle_. This large triangle of land sits between Southbank University, Borough road and the Crown Court on Newington Causeway and is earmarked for providing 700 new homes and new retail space.  
 
 ![](http://crappistmartin.github.io/images/BoroughTriangle.png)
 
@@ -22,3 +22,8 @@ Elsewhere in Southwark Peabody has assisted in the ongoing project of [taking th
 
 ![](/img/peabodysocialrent.jpg)
 
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:site" content="@35percent_EAN">
+<meta name="twitter:title" content="Peabody's Borough Triangle scheme">
+<meta name="twitter:description" content="Peabody continues to delay building 700 new homes on 2.5-acre Elephant & Castle site.">
+<meta name="twitter:image" content="http://35percent.org/img/BoroughTriangle.png">
