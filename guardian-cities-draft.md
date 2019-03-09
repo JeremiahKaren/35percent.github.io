@@ -5,15 +5,15 @@ author: Jerry F
 published: true
 ---
 
-## Regeneration 
+## Southwark Council - demolishing council homes, generating better people 
 
 Twenty years ago this month, Fred Manson, Southwark Council's Director of Regeneration laid out the aims of the Labour council's new regeneration strategy in the Estates Gazette: _"We need to have a wider range of people living in the borough"_ because _"social housing generates people on low incomes coming in and that generates poor school performances, middle-class people stay away."_ As the Gazette reported it, this was _'part of a deliberate process of gentrification that will result in social housing being replaced by owner occupied dwellings and developers being given free reign to build luxury flats'_[^1].
 
 Since Mr Manson's anti-council housing manifesto in 1999, Southwark has lost more than 13,000 council homes and the proportion of council housing in the borough has fallen from 60% to 28% of housing stock.  This is mainly the consequence of [Right to Buy](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/759390/LT_685.xlsx) and [void sales](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/561232/LT_648.xlsx). 
 
-But estate regeneration is also playing its part. The Gazette article mentions three estates south of Tower Bridge earmarked for demolition. At [least eight others](http://35percent.org/the-southwark-clearances) can be added, totalling 7,639 council homes when originally built.  The developments replacing these will provide over 11,000 new homes, but only 3,200 of them will be social rented.  
+But council estate regeneration is also playing its part. The Gazette article mentions three estates south of Tower Bridge earmarked for demolition. At [least eight others](http://35percent.org/the-southwark-clearances) can be added, totalling 7,639 council homes when originally built.  The developments replacing these will provide over 11,000 new homes, but only 3,200 of them will be social rented and while Southwark does now have an council house building programme, it is [still knocking down and selling off council homes faster than it is building them](http://35percent.org/2018-11-12-11000-council-homes-manifesto-pledge/).  
 
-Other major schemes are worse.  A sample of 25 developments, including some estate regenerations, gives [an average social rent component of under 4%](http://35percent.org/major-schemes) out of about twelve thosand homes- well below the Council's [policy requirement of 25%](LINKTONSP) and while Southwark does now have an council house building programme, it is [still knocking down and selling off council homes faster than it is building them](http://35percent.org/2018-11-12-11000-council-homes-manifesto-pledge/).
+Other major schemes are worse.  A sample of 25 developments, including some estate regenerations, gives [an average social rent component of under 4%](http://35percent.org/major-schemes) out of about twelve thosand homes- well below the Council's [policy requirement of 25%](LINKTONSP) .
 
 <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js">
 </script>
