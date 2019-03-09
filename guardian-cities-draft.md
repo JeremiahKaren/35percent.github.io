@@ -6,9 +6,8 @@ published: true
 ---
 
 ## Regeneration 
-We are a coalition of local people and groups fighting for fairer regeneration at the Elephant and Castle and we are taking our local council to court to try to overturn a planning permission to demolish and redevelope the Elephant shopping centre, awarded to property developer Delancey. It is the latest of a long line of developments in Southwark's working class areas that provide little benefit to local people, while displacing them from their homes, jobs and businesses.
 
-Twenty years ago, this month, Fred Manson, Southwark Council's Director of Regeneration laid out the aims of the Labour council's new regeneration strategy in the Estates Gazette: _"We need to have a wider range of people living in the borough"_ because _"social housing generates people on low incomes coming in and that generates poor school performances, middle-class people stay away."_ As the Gazette reported it, this was _'part of a deliberate process of gentrification that will result in social housing being replaced by owner occupied dwellings and developers being given free reign to build luxury flats'_[^1].
+Twenty years ago this month, Fred Manson, Southwark Council's Director of Regeneration laid out the aims of the Labour council's new regeneration strategy in the Estates Gazette: _"We need to have a wider range of people living in the borough"_ because _"social housing generates people on low incomes coming in and that generates poor school performances, middle-class people stay away."_ As the Gazette reported it, this was _'part of a deliberate process of gentrification that will result in social housing being replaced by owner occupied dwellings and developers being given free reign to build luxury flats'_[^1].
 
 Since Mr Manson's anti-council housing manifesto in 1999, Southwark has lost more than 13,000 council homes and the proportion of council housing in the borough has fallen from 60% to 28% of housing stock.  This is mainly the consequence of [Right to Buy](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/759390/LT_685.xlsx) and [void sales](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/561232/LT_648.xlsx). 
 
@@ -230,7 +229,9 @@ Delancey and Southwark argue that other elements of the scheme - a new Northern 
 
 Local campaigners, with the support of thier local councillors have fought hard over the past two years to squeeze housing concessions and a better deal for shopping centre traders.  Southwark Council, on the other hand has been content to take whatever it was offered, in pursuit of its wretched gentrification agenda.  Fourty two extra social rented homes may not be many, but it is what Southwark's own local plan requires, the London Mayor has the money to pay for it and we are determined that it should be built.
 
-That is why We are challenging Delancey’s planning permission through the Planning Court.  We want the permission quashed and then we want a development scheme at the Elephant and Castle that can have a new that provides homes and shops that are truly affordable for local people.  
+That is why We are challenging Delancey’s planning permission through the Planning Court.  We want the permission quashed and then we want a development scheme at the Elephant and Castle that can have a new that provides homes and shops that are truly affordable for local people.
+
+We are a coalition of local people and groups fighting for fairer regeneration at the Elephant and Castle and we are taking our local council to court to try to overturn a planning permission to demolish and redevelope the Elephant shopping centre, awarded to property developer Delancey. It is the latest of a long line of developments in Southwark's working class areas that provide little benefit to local people, while displacing them from their homes, jobs and businesses.
 
 
 
