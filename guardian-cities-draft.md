@@ -4,6 +4,10 @@ title: Why we're challenging the Elephant & Castle redevelopment plans in court
 author: Jerry F
 published: true
 ---
+
+
+We are a coalition of local people and groups fighting for fairer regeneration at the Elephant and Castle and we are taking our local council to court to try to overturn a planning permission awarded to property developer Delancey to demolish and redevelope the Elephant shoping centre. We are doing this because we were promied a regeneration that was supposed to deliver jobs and homes for local people, but is doing the exact opposite.
+
 Twenty years ago, almost to the day, Fred Manson, Southwark Council's Director of Regeneration laid out the aims of the Labour council's new regeneration strategy in the Estates Gazette: _"We need to have a wider range of people living in the borough"_ because _"social housing generates people on low incomes coming in and that generates poor school performances, middle-class people stay away."_ As the Gazette reported it, this was _'part of a deliberate process of gentrification that will result in social housing being replaced by owner occupied dwellings and developers being given free reign to build luxury flats'_[^1].
 
 
