@@ -8,9 +8,9 @@ For the past 5 years, Peabody Housing Association has sat on a 2.5-acre site at 
 
 ![](http://crappistmartin.github.io/images/BoroughTriangle.png)
 
-Whilst most of the site is emhttp://crappistmartin.github.io/images/BoroughTriangle.pnghttp://crappistmartin.github.io/images/BoroughTriangle.png and ready for redevelopment, the [IPSOS MORI](https://www.ipsos-mori.com/) buildings, Baptist church on Borough road and London School of Musical Theatre will be retained. The Georgian-built [Institute of Optometry](http://www.ioo.org.uk/) and Court Cafe will both be demolished under Peabody's plans. 
+Whilst most of the site is empty and listed for redevelopment, the [IPSOS MORI](https://www.ipsos-mori.com/) buildings, Baptist church on Borough road and London School of Musical Theatre will be retained. The Georgian-built [Institute of Optometry](http://www.ioo.org.uk/) and Court Cafe will both be demolished under Peabody's plans. 
 
-![](http://crappistmartin.github.io/images/boroughtriangle.jpg)
+![](/img/boroughtriangle.jpg)
 
 The shops and warehouse spaces on the remainder of the site will also be demolished. These are currently being used as a temporary Pop-up food hall ['Mercato Metropolitano'](http://www.mercatometropolitano.co.uk/).
 
