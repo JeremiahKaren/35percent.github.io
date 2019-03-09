@@ -221,8 +221,13 @@ We are challenging Delancey’s planning permission through the Planning Court. 
 
 The planning decision was controversial from the outset; it attracted over [a thousand formal objections](https://planning.southwark.gov.uk/online-applications/applicationDetails.do?activeTab=makeComment&keyVal=_STHWR_DCAPR_9569810) from local residents and after [failing to get approval](https://www.bbc.co.uk/news/uk-england-london-42719607) from Southwark's planning committee in Jan 2018, was [narrowly approved](http://35percent.org/2018-07-09-delancey/) by just one vote on 3 July 2018, after a total of three deferments. We believe that had the planning committee known what we now know then the scheme would not have been approved and this is why we are applying to challenge the scheme via judicial review.
 
-Delancey and Southwark would no doubt argue, and do, that other elements of the scheme - a new Northern Line tube entrance and a campus for the London College of Communication provide positives - outweigh any negatives.  Southwark's housing record since 1999 But the negatives are being borne by those at the entirely in the spirit of Mr Manson This just serves to reinforce the 
+Delancey and Southwark would no doubt argue, and do, that other elements of the scheme - a new Northern Line tube entrance and a campus for the London College of Communication provide positives - outweigh any negatives.  This is entirely in keeping with their regeneration rationale, as articulated by Mr Manson back in 1999, so successfully implemented since and making a healthy contribution to London's disastrous housing situation - thousands of new homes that many, not just of the poorest, can afford to neither rent not nor buy; housing costs for those poorest the 'worst in Europe' and a record number of rough sleepers
 
+
+with disastrous results - ; but with reasonablethe ine and Southwark's housing record since 1999 But the negatives are being borne by those at the entirely in the spirit of Mr Manson This just serves to reinforce the 
+
+Southwark Council, with the honorable exception of some of its councillor, has been content to accept what ever Delancey over the past two years, concessions 
+Local campaigners have fought hard over the past two years to squeeze housing concessions and a better deal for shopping centre trader.  We have done so 
 
 
 Only 10% of the new retail space will be provided at affordable rates to accommodate existing independent traders, who will pay a discounted rent of 40 per cent market rate for a five year period and 75 per cent for the subsequent ten. This concession was only won from Delancey after a bitter campaign struggle. Delancey was originally offering only x%?? affordable retail and only discounted for the first 5 years. 
