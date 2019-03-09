@@ -66,7 +66,7 @@ While Southwark does now have an ambitious council house building scheme, it is 
 
 </script>
 
-The [Elephant and Castle shopping centre redevelopment](http://35percent.org/shopping-centre) is no exception to this trend with only 116 of nearly a thousand new homes offered as social rent (8.6% by floorspace).  
+The [Elephant and Castle shopping centre redevelopment](http://35percent.org/shopping-centre) is no exception to this trend. proposing only 116 of nearly a thousand new homes offered as social rent (8.6% by floorspace), to built nearly tens years hence.  
 
 <div id="container2" style="min-width: 310px; height: 400px; margin: 0 auto"></div>
 
@@ -215,7 +215,7 @@ Highcharts.chart('container2', {
 
 </script>
 
-Since the plans were approved, it has emerged that developer Delancey was not upfront with councillors about the viable number of social rented homes in the scheme, its grant funding application or how they would be delivered. In additioin, Delancey promised that if it hadn't built any social rented housing by 10 years from the start of construction then it would hand over some land and 'sufficient funds' for Southwark to build it, but the recently-signed legal agreement fails to secure this. The legal agreement also fails to provide an effective 'viability review mechanism' which was promised to councillors - the small print prevents an increase in social rented units in the event the development turns out to be more profitable than currently forecast.
+Since the plans were approved in July 2018, it has emerged that developer Delancey was not upfront with councillors about the viable number of social rented homes in the scheme, its grant funding application or how they would be delivered. In additioin, Delancey promised that if it hadn't built any social rented housing by 10 years from the start of construction then it would hand over some land and 'sufficient funds' for Southwark to build it, but the recently-signed legal agreement fails to secure this. The legal agreement also fails to provide an effective 'viability review mechanism' which was promised to councillors - the small print prevents an increase in social rented units in the event the development turns out to be more profitable than currently forecast.
 
 The planning decision was controversial from the outset; it attracted over [a thousand formal objections](https://planning.southwark.gov.uk/online-applications/applicationDetails.do?activeTab=makeComment&keyVal=_STHWR_DCAPR_9569810) from local residents and after [failing to get approval](https://www.bbc.co.uk/news/uk-england-london-42719607) from Southwark's planning committee in Jan 2018, was [narrowly approved](http://35percent.org/2018-07-09-delancey/) by just one vote on 3 July 2018, after a total of three deferments. We believe that had the planning committee known what we now know then the scheme would not have been approved and this is why we are applying to challenge the scheme via judicial review.
 
