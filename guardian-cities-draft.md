@@ -4,7 +4,7 @@ title: Why we're challenging the Elephant & Castle redevelopment plans in court
 author: Jerry F
 published: true
 ---
-Twenty years ago, almost to the day, Fred Manson, Southwark Council's Director of Regeneration laid out the aims of the Labour council's new regeneration strategy in the Estates Gazette: _"We need to have a wider range of people living in the borough"_ because _"social housing generates people on low incomes coming in and that generates poor school performances, middle-class people stay away."_ As the Gazette reported it, this was _'part of a deliberate process of gentrification that will result in social housing being replaced by owner occupied dwellings and developers being given free reign to build luxury flats'_.
+Twenty years ago, almost to the day, Fred Manson, Southwark Council's Director of Regeneration laid out the aims of the Labour council's new regeneration strategy in the Estates Gazette: _"We need to have a wider range of people living in the borough"_ because _"social housing generates people on low incomes coming in and that generates poor school performances, middle-class people stay away."_ As the Gazette reported it, this was _'part of a deliberate process of gentrification that will result in social housing being replaced by owner occupied dwellings and developers being given free reign to build luxury flats'_[^1].
 
 
 Since Mr Manson's anti-council housing manifesto in 1999, Southwark has lost more than 13,000 council homes and the proportion of council housing in the borough has fallen from 60% to 28% of housing stock.  This is mainly the consequence of [Right to Buy](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/759390/LT_685.xlsx) and [void sales](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/561232/LT_648.xlsx). 
@@ -66,7 +66,7 @@ While Southwark does now have an ambitious council house building scheme, it is 
 
 </script>
 
-The [Elephant and Castle shopping centre redevelopment](http://35percent.org/shopping-centre) is no exception to this trend.  A stone's throw from the demolished Heygate estate, only 116 of nearly a thousand new homes are offered as social rent (8.6% by floorspace), all to built nearly tens years hence.  Shopping centrre owner and developer Delancey said that this was is could afford to provide, but we now know that with Mayor’s funding they could give us another 42 homes, still a modest amount, but enough to reach Southwark's local plan requirement. 
+The [Elephant and Castle shopping centre redevelopment](http://35percent.org/shopping-centre) is no exception to this trend.  A stone's throw from the demolished Heygate estate, only 116 of nearly a thousand new homes are offered as social rent (8.6% by floorspace), all to built nearly tens years hence.  Shopping centrre owner and developer Delancey said that this was as much as it could afford to provide, but we now know that with Mayor’s funding they could give us another 42 homes - still a modest amount, but enough to reach Southwark's local plan requirement. 
 
 <div id="container2" style="min-width: 310px; height: 400px; margin: 0 auto"></div>
 
@@ -215,7 +215,7 @@ Highcharts.chart('container2', {
 
 </script>
 
-Since the plans were approved in July 2018, doubt has emerged that developer Delancey was not upfront with councillors about the viable number of social rented homes in the scheme, its grant funding application or how they would be delivered. In additioin, Delancey promised that if it hadn't built any social rented housing by 10 years from the start of construction then it would hand over some land and 'sufficient funds' for Southwark to build it, but the recently-signed legal agreement fails to secure this. The legal agreement also fails to provide an effective 'viability review mechanism' which was promised to councillors - the small print prevents an increase in social rented units in the event the development turns out to be more profitable than currently forecast.
+There is also doubt about how well any of the social housing has been secured.   In additioin, Delancey promised that if it hadn't built any social rented housing by 10 years from the start of construction then it would hand over some land and 'sufficient funds' for Southwark to build it, but the recently-signed legal agreement fails to secure this. The legal agreement also fails to provide an effective 'viability review mechanism' which was promised to councillors - the small print prevents an increase in social rented units in the event the development turns out to be more profitable than currently forecast.
 
 
 
