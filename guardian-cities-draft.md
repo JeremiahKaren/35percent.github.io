@@ -64,7 +64,7 @@ Other major schemes are worse.  A sample of 25 developments, including some esta
 
 </script>
 
-The [Elephant and Castle shopping centre redevelopment](http://35percent.org/shopping-centre) is no exception to this trend.  A stone's throw from the demolished Heygate estate, only 116 of nearly a thousand new homes are offered as social rent (8.6% by floorspace), all to built nearly tens years hence.  Shopping centrre owner and developer Delancey said that this was as much as it could afford to provide, but we now know that with Mayor’s funding they could give us another 42 homes - still a modest amount, but enough to reach Southwark's local plan requirement. 
+The [Elephant and Castle shopping centre redevelopment](http://35percent.org/shopping-centre) is no exception to this trend.  A stone's throw from the demolished Heygate estate, only 116 of nearly a thousand new homes will be offered as social rent (8.6% by floorspace), all to built nearly tens years hence.  Shopping centrre owner and developer Delancey said that this was as much as it could afford to build, but we now know that with Mayor’s funding they could give us another 42 homes - still a modest amount, but enough to reach Southwark's local plan requirement. 
 
 <div id="container2" style="min-width: 310px; height: 400px; margin: 0 auto"></div>
 
@@ -213,21 +213,17 @@ Highcharts.chart('container2', {
 
 </script>
 
-There is also doubt about how well any of the social housing has been secured.   In additioin, Delancey promised that if it hadn't built any social rented housing by 10 years from the start of construction then it would hand over some land and 'sufficient funds' for Southwark to build it, but the recently-signed legal agreement fails to secure this. The legal agreement also fails to provide an effective 'viability review mechanism' which was promised to councillors - the small print prevents an increase in social rented units in the event the development turns out to be more profitable than currently forecast.
+There is also doubt about how well any of the social housing has been secured.  Leaving aside the fact it won't be built for ten years, a long time by any measure, Delancey has the option of passing the obligation to build the homes back to Southwark to fufil, along with land and 'sufficient funds' to do so.  We fear the development's legal agreement fails to properly guarantee this will happen. We also believe the legal agreement fails to provide an effective 'viability review mechanism' - a way to get greater affordable and social rent housing, should the develpment prove more profitable than expected.
 
-
-
-Southwark's Council’s planning committee was misled as to the maximum amount of affordable housing the scheme could viably provide.. That’s 42 families deprived of somewhere decent and affordable to live.
-
-Even the 116 social rented homes promised could be at risk; the devil is in the detail and Delancey has managed to pull the wool over the Council's eyes with a deal which could leave us with little or no social rented housing if Delancey doesn’t deliver the “West site”, not due to be built for another 10 years.
+Housing is only one part of the development.  The demolition 
 
 We are challenging Delancey’s planning permission through the Planning Court.  We want the permission quashed and then we want a development scheme that provides homes and shops that are truly affordable for local people
 
 The planning decision was controversial from the outset; it attracted over [a thousand formal objections](https://planning.southwark.gov.uk/online-applications/applicationDetails.do?activeTab=makeComment&keyVal=_STHWR_DCAPR_9569810) from local residents and after [failing to get approval](https://www.bbc.co.uk/news/uk-england-london-42719607) from Southwark's planning committee in Jan 2018, was [narrowly approved](http://35percent.org/2018-07-09-delancey/) by just one vote on 3 July 2018, after a total of three deferments. We believe that had the planning committee known what we now know then the scheme would not have been approved and this is why we are applying to challenge the scheme via judicial review.
 
-Delancey claims it is building a 'new town centre' for Elephant and Castle but there will be nearly six times more residential than retail floorspace in the new scheme (106,471sqm residential vs 18,234sqm retail). [^2]. 
+Delancey and Southwark would no doubt argue, and do, that other elements of the scheme - a new Northern Line tube entrance and a campus for the London College of Communication provide positives - outweigh any negatives.  Southwark's housing record since 1999 But the negatives are being borne by those at the entirely in the spirit of Mr Manson This just serves to reinforce the 
 
-![](http://35percent.org/img/delanceyshoppingcentrecgi.jpg)
+
 
 Only 10% of the new retail space will be provided at affordable rates to accommodate existing independent traders, who will pay a discounted rent of 40 per cent market rate for a five year period and 75 per cent for the subsequent ten. This concession was only won from Delancey after a bitter campaign struggle. Delancey was originally offering only x%?? affordable retail and only discounted for the first 5 years. 
 
@@ -240,6 +236,10 @@ Nice concluding paragraph here with link to crowdjustice page - we could either 
 ----------------------------------------------------------------------------------------------------
 
 'He went on to point out that 60% of housing in Southwark is social housing and that the Council's new policy was aimed at reversing some of the problems caused by past social engineering[^1].
+
+Delancey claims it is building a 'new town centre' for Elephant and Castle but there will be nearly six times more residential than retail floorspace in the new scheme (106,471sqm residential vs 18,234sqm retail). [^2]. 
+
+![](http://35percent.org/img/delanceyshoppingcentrecgi.jpg)
 
 __Footnotes:__
 
