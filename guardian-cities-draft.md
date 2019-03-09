@@ -11,7 +11,7 @@ Since Mr Manson's anti-council housing manifesto in 1999, Southwark has lost mor
 
 But estate regeneration is also playing its part. The Gazette article mentions three estates south of Tower Bridge earmarked for demolition. At [least eight others](http://35percent.org/the-southwark-clearances) can be added, totalling 7,639 council homes when originally built.  The developments replacing these will provide over 11,000 new homes, but only 3,200 of them will be social rented.  
 
-Other major schemes are worse.  A sample of 25 developments, including some estate regenerations, gives [an average social rent component of under 4%](http://35percent.org/major-schemes) out of about twelve thosand homes- well below the Council's [policy requirement of 25%](LINKTONSP) and while Southwark does now have an ambitious council house building scheme, it is [still knocking down and selling off council homes faster than it is building them](http://35percent.org/2018-11-12-11000-council-homes-manifesto-pledge/).
+Other major schemes are worse.  A sample of 25 developments, including some estate regenerations, gives [an average social rent component of under 4%](http://35percent.org/major-schemes) out of about twelve thosand homes- well below the Council's [policy requirement of 25%](LINKTONSP) and while Southwark does now have an council house building programme, it is [still knocking down and selling off council homes faster than it is building them](http://35percent.org/2018-11-12-11000-council-homes-manifesto-pledge/).
 
 <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js">
 </script>
