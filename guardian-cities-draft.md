@@ -68,7 +68,7 @@ The picture gets worse when other major schemes are considered.  A sample of 25 
 
 ## Nearly a thousand new homes, 116 social rented - maybe
 
-The [Elephant and Castle shopping centre redevelopment](http://35percent.org/shopping-centre) is no exception to this trend.  A stone's throw from the demolished Heygate estate, only 116 of nearly a thousand new homes will be offered as social rent (8.6% by floorspace), all to built nearly tens years hence.  Shopping centrre owner and developer Delancey (link) said that this was as much as it could afford to build, but we now know that with Mayor’s funding they could give us another 42 homes - still a modest amount, but enough to reach Southwark's local plan requirement. 
+The [Elephant and Castle shopping centre redevelopment](http://35percent.org/shopping-centre) is no exception to this trend.  A stone's throw from the demolished Heygate estate, only 116 of nearly a thousand new homes will be offered as social rent (8.6% by floorspace), all to built nearly tens years hence.  Shopping centre owner and developer Delancey (link) said that this was as much as it could afford to build, but we now know that with Mayor’s funding they could give us another 42 homes - still a modest amount, but enough to reach Southwark's local plan requirement. 
 
 <div id="container2" style="min-width: 310px; height: 400px; margin: 0 auto"></div>
 
@@ -229,11 +229,11 @@ Delancey's anticipated profit from all of this is £137m, according to the schem
 
 Delancey and Southwark argue that other elements of the scheme - a new Northern Line tube entrance and a campus for the London College of Communication provide positives that outweigh any negatives.  This is entirely in keeping with the regeneration rationale, as articulated by Mr Manson back in 1999, so successfully implemented by Southwark since and now making a healthy contribution to London's disastrous housing situation - thousands of new homes that many, not just of the poorest, cannot afford to either rent nor buy; housing costs for those poorest [the 'worst in Europe'](https://www.theguardian.com/society/2018/mar/21/uk-europe-housing-cost-rise-lowest-earners-report) and a [record number of rough sleepers](https://www.theguardian.com/society/2018/oct/31/record-number-of-people-are-sleeping-rough-in-london)
 
-Local campaigners, with the support of some local councillors, have fought hard over the past two years to squeeze housing concessions and a better deal for shopping centre traders.  Southwark Council, on the other hand has been content to take whatever it was offered, in pursuit of its wretched gentrification agenda.  Fourty-two extra social rented homes may not be many, but it is what Southwark's own local plan requires, the London Mayor has the money to pay for it and we are determined that it should be built.
+Local campaigners, with the support of some local councillors, have fought hard over the past two years to squeeze housing concessions and a better deal for shopping centre traders.  Southwark Council, on the other hand has been content to take whatever it was offered, in pursuit of its wretched gentrification agenda. 42 extra social rented homes may not be many, but it is what Southwark's own local plan requires, the London Mayor has the money to pay for it and we are determined that it should be built.  We also want a better deal for traders - more space and more money for relocating.
 
-That is why We are challenging Delancey’s planning permission through the Planning Court.  We want the permission quashed and then we want a development scheme at the Elephant and Castle that can have a new that provides homes and shops that are truly affordable for local people.
+That is why we are challenging Delancey’s planning permission through the Planning Court.  We want the permission quashed and then we want a development scheme at the Elephant and Castle that provides homes and shops that are truly affordable for local people.
 
-We are a coalition of local people and groups fighting for fairer regeneration at the Elephant and Castle and we are taking our local council to court to try to overturn a planning permission to demolish and redevelope the Elephant shopping centre, awarded to property developer Delancey. It is the latest of a long line of developments in Southwark's working class areas that provide little benefit to local people, while displacing them from their homes, jobs and businesses.
+If you argee with us you help in this fight by donating [here](https://www.crowdjustice.com/case/stop-the-elephant-shopping-centre-destruction/)
 
 
 
@@ -252,6 +252,8 @@ Only 10% of the new retail space will be provided at affordable rates to accommo
 
 
 In any event it is still not enough - the Elephant's diverse community of independent traders make the place what it is and there will be no place for 90% of them if Delancey's plan is allowed to proceed.
+
+We are a coalition of local people and groups fighting for fairer regeneration at the Elephant and Castle and we are taking our local council to court to try to overturn a planning permission to demolish and redevelope the Elephant shopping centre, awarded to property developer Delancey. It is the latest of a long line of developments in Southwark's working class areas that provide little benefit to local people, while displacing them from their homes, jobs and businesses.
 
 
 ![](http://35percent.org/img/delanceyshoppingcentrecgi.jpg)
