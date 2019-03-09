@@ -1,11 +1,12 @@
 ---
 layout: post
-title: "Why we're challenging the Elephant & Castle redevelopment plans in court"
-author: "Jerry F" 
+title: Why we're challenging the Elephant & Castle redevelopment plans in court
+author: Jerry F
+published: true
 ---
 Twenty years ago today Fred Manson, Southwark's Director of Regeneration laid out the Council's new regeneration strategy: _"We need to have a wider range of people living in the borough"_ because _"social housing generates people on low incomes coming in and that generates poor school performances, middle-class people stay away."_ He went on to point out that 60% of housing in Southwark is social housing and that the Council's new policy was aimed at reversing some of the problems caused by past social engineering[^1].
 
-Twenty years on and Southwark's reverse social engineering has been a resounding success. More than 13,000 Council homes have been [lost through Right to Buy, void sales and estate regenerations](http://35percent.org/the-southwark-clearances) while tens of thousands of new homes have been built [with an average social rent component of under 4%](http://35percent.org/major-schemes) - well below the Council's [policy requirement of 25%](LINKTONSP). While Southwark does now have an ambitious council house building scheme, it is [still knocking down and selling off council homes faster than it is building them](http://35percent.org/2018-11-12-11000-council-homes-manifesto-pledge/).
+Twenty years on  llll and Southwark's reverse social engineering has been a resounding success. More than 13,000 Council homes have been [lost through Right to Buy, void sales and estate regenerations](http://35percent.org/the-southwark-clearances) while tens of thousands of new homes have been built [with an average social rent component of under 4%](http://35percent.org/major-schemes) - well below the Council's [policy requirement of 25%](LINKTONSP). While Southwark does now have an ambitious council house building scheme, it is [still knocking down and selling off council homes faster than it is building them](http://35percent.org/2018-11-12-11000-council-homes-manifesto-pledge/).
 
 <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js">
 </script>
@@ -228,5 +229,3 @@ __Footnotes:__
 [^1]: Estates Gazzette article [published 13 March 1999](http://heygate.github.io/img/EstatesGazette.pdf)
 
 [^2]: See paragraph 19 of the Officers report [insert link].
-
-
