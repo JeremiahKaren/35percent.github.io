@@ -4,9 +4,10 @@ title: Why we're challenging the Elephant & Castle redevelopment plans in court
 author: Jerry F
 published: true
 ---
-Twenty years ago almost to the day Fred Manson, Southwark's Director of Regeneration laid out the Council's new regeneration strategy: _"We need to have a wider range of people living in the borough"_ because _"social housing generates people on low incomes coming in and that generates poor school performances, middle-class people stay away."_ He went on to point out that 60% of housing in Southwark is social housing and that the Council's new policy was aimed at reversing some of the problems caused by past social engineering[^1].
+Twenty years ago, almost to the day, Fred Manson, Southwark Council's Director of Regeneration laid out the aims of the Labour council's new regeneration strategy in the Estates Gazette: _"We need to have a wider range of people living in the borough"_ because _"social housing generates people on low incomes coming in and that generates poor school performances, middle-class people stay away."_ As the Gazette reported it, this was _'part of a deliberate process of gentrification that will result in social housing being replaced by owner occupied dwellings and developers being given free reign to build luxury flats'_.
 
-Since Mr Manson's anti-council housing manifesto in 1999 twenty years on  llll and Southwark's reverse social engineering has been a resounding success. More than 13,000 Council homes have been [lost through Right to Buy, void sales and estate regenerations](http://35percent.org/the-southwark-clearances) while tens of thousands of new homes have been built [with an average social rent component of under 4%](http://35percent.org/major-schemes) - well below the Council's [policy requirement of 25%](LINKTONSP). While Southwark does now have an ambitious council house building scheme, it is [still knocking down and selling off council homes faster than it is building them](http://35percent.org/2018-11-12-11000-council-homes-manifesto-pledge/).
+
+Since Mr Manson's anti-council housing manifesto in 1999, Southwark has lost more than 13,000 council homes and the proportion of council housing in the borough has fallen from 60% to 28% of housing stock.  This mainly through mainly through [Right to Buy](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/759390/LT_685.xlsx) and [void sales](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/561232/LT_648.xlsx). Estate regenerations is also p](http://35percent.org/the-southwark-clearances) while tens of thousands of new homes have been built [with an average social rent component of under 4%](http://35percent.org/major-schemes) - well below the Council's [policy requirement of 25%](LINKTONSP). While Southwark does now have an ambitious council house building scheme, it is [still knocking down and selling off council homes faster than it is building them](http://35percent.org/2018-11-12-11000-council-homes-manifesto-pledge/).
 
 <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js">
 </script>
@@ -223,6 +224,10 @@ In any event it is still not enough - the Elephant's diverse community of indepe
 ![](http://35percent.org/img/traderscomp.jpeg)
 
 Nice concluding paragraph here with link to crowdjustice page - we could either say something like 'this is why we want to send Delancey's plans back to the drawing board' or 'this is why we want to halt the plans and keep the Elephant the way it is'.
+
+----------------------------------------------------------------------------------------------------
+
+'He went on to point out that 60% of housing in Southwark is social housing and that the Council's new policy was aimed at reversing some of the problems caused by past social engineering[^1].
 
 __Footnotes:__
 
