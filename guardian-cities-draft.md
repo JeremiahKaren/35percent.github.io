@@ -66,6 +66,8 @@ The picture gets worse when other major schemes are considered.  A sample of 25 
 
 </script>
 
+## Nearly a thousand new homes, 116 social rented - maybe
+
 The [Elephant and Castle shopping centre redevelopment](http://35percent.org/shopping-centre) is no exception to this trend.  A stone's throw from the demolished Heygate estate, only 116 of nearly a thousand new homes will be offered as social rent (8.6% by floorspace), all to built nearly tens years hence.  Shopping centrre owner and developer Delancey (link) said that this was as much as it could afford to build, but we now know that with Mayor’s funding they could give us another 42 homes - still a modest amount, but enough to reach Southwark's local plan requirement. 
 
 <div id="container2" style="min-width: 310px; height: 400px; margin: 0 auto"></div>
