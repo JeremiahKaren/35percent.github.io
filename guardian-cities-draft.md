@@ -225,7 +225,7 @@ Concerted campaigning has gained some space for these traders in this and other 
 
 Delancey's anticipated profit from all of this is £137m, according to the scheme's viability assessment (link).  Delancey is Britain's largest private development company and, not unusually is based off-shore, althoough it insists this is not for tax-reasons. 
 
-## Homelessness by 
+## We must have homes that meet local need 
 
 Delancey and Southwark argue that other elements of the scheme - a new Northern Line tube entrance and a campus for the London College of Communication - provide positives that outweigh any negatives.  This is entirely in keeping with the regeneration rationale, as articulated by Mr Manson back in 1999, so successfully implemented by Southwark since and now making a sizeable contribution to London's disastrous housing situation - thousands of new homes that many, not just of the poorest, cannot afford to either rent or buy; housing costs for those poorest [the 'worst in Europe'](https://www.theguardian.com/society/2018/mar/21/uk-europe-housing-cost-rise-lowest-earners-report) and a [record number of rough sleepers](https://www.theguardian.com/society/2018/oct/31/record-number-of-people-are-sleeping-rough-in-london)
 
