@@ -237,16 +237,7 @@ That is why we are challenging Delancey’s planning permission through the Plan
 
 If you agree with us you help in this fight by donating [here](https://www.crowdjustice.com/case/stop-the-elephant-shopping-centre-destruction/).
 
-
-
-
 ![](http://35percent.org/img/traderscomp.jpeg)
-
-
-
-
-
-![](http://35percent.org/img/delanceyshoppingcentrecgi.jpg)
 
 __Footnotes:__
 
