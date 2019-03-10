@@ -68,7 +68,7 @@ The proportion of social rented housing is even lower when other major schemes a
 
 ## Nearly a thousand new homes, 116 social rented - maybe
 
-The [Elephant and Castle shopping centre redevelopment](http://35percent.org/shopping-centre) is no exception to this trend.  A stone's throw from the demolished Heygate estate, only 116 of nearly a thousand new homes will be offered as social rent (8.6% by floorspace), all to built nearly tens years hence.  Shopping centre owner and developer Delancey (link) said that this was [as much as it could afford](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!b5xBNaYRSleWlYx6oXVrEA%3d%3d!%7d%7d%7d) to build, but we now know that with Mayor’s funding they could give us another 42 homes - still a modest amount, but almost enough to reach Southwark's local plan requirement. 
+The [Elephant and Castle shopping centre redevelopment](http://35percent.org/shopping-centre) is no exception to this trend.  A stone's throw from the demolished Heygate estate, only 116 of nearly a thousand new homes will be offered as social rent (8.6% by floorspace), all to built nearly tens years hence.  Shopping centre owner and _'specialist real estate investment and advisory company developer'_ [Delancey](https://www.delancey.com/welcome.html) said that this was [as much as it could afford](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!b5xBNaYRSleWlYx6oXVrEA%3d%3d!%7d%7d%7d) to build, but we now know that with Mayor’s funding they could give us another 42 homes - still a modest amount, but almost enough to reach Southwark's local plan requirement. 
 
 <div id="container2" style="min-width: 310px; height: 400px; margin: 0 auto"></div>
 
