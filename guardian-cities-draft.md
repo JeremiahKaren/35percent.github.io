@@ -223,7 +223,7 @@ Housing is one part of the development.  There will also be about the same amoun
 
 Concerted campaigning has gained some space for these traders in the shopping centre and other new developments, as well as a [temporary relocation facility](http://35percent.org/2018-11-24-castle-square-delancey-responds/), but there is not enough space for every trader who wants it.  [Latin Elephant](https://latinelephant.org/), a local charity and advocate for all ethnic traders in the area, reckons there are nearly a hundred independent traders in the area and, given the practicalities of moving a business and a limited relocation fund of [£634,700](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!0iVzasdHCgb1eVmQCrssOg%3d%3d!%7d%7d%7d) only a minority of traders are likely to benefit.
 
-Delancey's anticipated profit from all of this is £137m or £148m, according to the last available [viability assessments](http://35percent.org/2018-07-02-viability-and-delancey/) and depending on the grant funding situation.  Delancey, not unusually, bases its developments including at those at the Elephant [off-shore](http://35percent.org/2014-05-05-manx-connections-the-off-shore-home-of-the-elephants-developers/).
+Delancey's anticipated profit from all of this is £137m or £148m, according to the last available [viability assessments](http://35percent.org/2018-07-02-viability-and-delancey/) and depending on the grant funding situation.  Delancey, not unusually, bases its developments, including at those at the Elephant, [off-shore](http://35percent.org/2014-05-05-manx-connections-the-off-shore-home-of-the-elephants-developers/).
 
 ![](http://35percent.org/img/delanceyshoppingcentrecgi.jpg)
 
