@@ -235,7 +235,7 @@ From the moment the shopping centre planning application was made [over two year
 
 That is why we are challenging Delancey’s planning permission through the Planning Court.  We want the permission quashed and then we want a development scheme at the Elephant and Castle that provides homes and shops that are truly affordable for local people.
 
-If you agree with us you help in this fight by donating [here](https://www.crowdjustice.com/case/stop-the-elephant-shopping-centre-destruction/).
+If you agree with us, you can help in this fight by donating [here](https://www.crowdjustice.com/case/stop-the-elephant-shopping-centre-destruction/).
 
 ![](http://35percent.org/img/traderscomp.jpeg)
 
