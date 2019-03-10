@@ -225,6 +225,8 @@ Concerted campaigning has gained some space for these traders in the shopping ce
 
 Delancey's anticipated profit from all of this is £137m or £148m, according to the last available [viability assessments](http://35percent.org/2018-07-02-viability-and-delancey/) and depending on the grant funding situation.  Delancey, not unusually, bases its developments including at those at the Elephant [off-shore](http://35percent.org/2014-05-05-manx-connections-the-off-shore-home-of-the-elephants-developers/).
 
+![](http://35percent.org/img/delanceyshoppingcentrecgi.jpg)
+
 ## We must have homes that meet local need 
 
 Delancey and Southwark argue that other elements of the scheme - a new Northern Line tube entrance and a campus for the University of the Art's London College of Communication - provide positives that [outweigh any negatives](http://35percent.org/2018-07-09-delancey/) in the housing and retail offer.  This is entirely in keeping with the regeneration rationale, as articulated by Mr Manson back in 1999, so successfully implemented by Southwark since and now making a sizeable contribution to London's disastrous housing situation - thousands of new homes that many, not just of the poorest, cannot afford to either rent or buy; housing costs for those poorest [the 'worst in Europe'](https://www.theguardian.com/society/2018/mar/21/uk-europe-housing-cost-rise-lowest-earners-report) and a [record number of rough sleepers](https://www.theguardian.com/society/2018/oct/31/record-number-of-people-are-sleeping-rough-in-london).
