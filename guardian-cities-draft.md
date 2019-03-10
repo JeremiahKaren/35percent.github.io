@@ -242,18 +242,6 @@ If you agree with us you help in this fight by donating [here](https://www.crowd
 
 
 
-----------------------------------------------------------------------------------------------------
-
-'He went on to point out that 60% of housing in Southwark is social housing and that the Council's new policy was aimed at reversing some of the problems caused by past social engineering[^1].
-
-Delancey claims it is building a 'new town centre' for Elephant and Castle but there will be nearly six times more residential than retail floorspace in the new scheme (106,471sqm residential vs 18,234sqm retail). [^2].
-
-Only 10% of the new retail space will be provided at affordable rates to accommodate existing independent traders, who will pay a discounted rent of 40 per cent market rate for a five year period and 75 per cent for the subsequent ten. This concession was only won from Delancey after a bitter campaign struggle. Delancey was originally offering only x%?? affordable retail and only discounted for the first 5 years. 
-
-
-In any event it is still not enough - the Elephant's diverse community of independent traders make the place what it is and there will be no place for 90% of them if Delancey's plan is allowed to proceed.
-
-We are a coalition of local people and groups fighting for fairer regeneration at the Elephant and Castle and we are taking our local council to court to try to overturn a planning permission to demolish and redevelope the Elephant shopping centre, awarded to property developer Delancey. It is the latest of a long line of developments in Southwark's working class areas that provide little benefit to local people, while displacing them from their homes, jobs and businesses.
 
 
 ![](http://35percent.org/img/delanceyshoppingcentrecgi.jpg)
@@ -262,4 +250,4 @@ __Footnotes:__
 
 [^1]: Estates Gazzette article [published 13 March 1999](http://heygate.github.io/img/EstatesGazette.pdf)
 
-[^2]: See paragraph 19 of the Officers report [insert link].
+
