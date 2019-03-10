@@ -13,7 +13,7 @@ Since Mr Manson's 1999 anti-council housing manifesto, the borough has lost more
 
 But council estate regeneration, Manson style, is also playing its part. The Gazette article mentions three estates south of Tower Bridge earmarked for demolition. At [least eight others](http://35percent.org/the-southwark-clearances) can be added, totalling 7,639 council homes and leasehold properties lost.  The developments replacing these will provide over 11,000 new homes, but only 3,200 of them will be social rented and while Southwark does now have an council house building programme, it is [still knocking down and selling off council homes faster than it is building them](http://35percent.org/2018-11-12-11000-council-homes-manifesto-pledge/).  
 
-The proportion of social rented housing is even lower, when other major schemes are considered.  A sample of 25 developments in Southwark, including two estate regenerations, gives [an average social rent component of under 4%](http://35percent.org/major-schemes) out of about twelve thosand homes - well below the Council's [policy requirement of 25%](LINKTONSP) .
+The proportion of social rented housing is even lower when other major schemes are considered.  A sample of 25 developments in Southwark, including two estate regenerations, gives [an average social rent component of under 4%](http://35percent.org/major-schemes) out of about twelve thosand homes - well below the Council's [policy requirement of 25%](LINKTONSP) .
 
 <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js">
 </script>
@@ -68,7 +68,7 @@ The proportion of social rented housing is even lower, when other major schemes 
 
 ## Nearly a thousand new homes, 116 social rented - maybe
 
-The [Elephant and Castle shopping centre redevelopment](http://35percent.org/shopping-centre) is no exception to this trend.  A stone's throw from the demolished Heygate estate, only 116 of nearly a thousand new homes will be offered as social rent (8.6% by floorspace), all to built nearly tens years hence.  Shopping centre owner and developer Delancey (link) said that this was [as much as it could afford](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!b5xBNaYRSleWlYx6oXVrEA%3d%3d!%7d%7d%7d) to build, but we now know that with Mayor’s funding they could give us another 42 homes - still a modest amount, but enough to reach Southwark's local plan requirement. 
+The [Elephant and Castle shopping centre redevelopment](http://35percent.org/shopping-centre) is no exception to this trend.  A stone's throw from the demolished Heygate estate, only 116 of nearly a thousand new homes will be offered as social rent (8.6% by floorspace), all to built nearly tens years hence.  Shopping centre owner and developer Delancey (link) said that this was [as much as it could afford](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!b5xBNaYRSleWlYx6oXVrEA%3d%3d!%7d%7d%7d) to build, but we now know that with Mayor’s funding they could give us another 42 homes - still a modest amount, but almost enough to reach Southwark's local plan requirement. 
 
 <div id="container2" style="min-width: 310px; height: 400px; margin: 0 auto"></div>
 
