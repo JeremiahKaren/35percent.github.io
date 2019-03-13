@@ -33,8 +33,7 @@ Twenty years later and it is clear to see that this policy has been a resounding
                 x: -20
             },
             xAxis: {
-                categories: ['1994', '1995', '1996', '1997', '1998', '1999',
-                    '2000', '2001', '2002', '2003', '2004', '2005', '2006', '2007', '2008', '2009', '2010', '2011', '2012', '2013', '2014', '2015', '2016', '2017']
+                categories: ['1999', '2000', '2001', '2002', '2003', '2004', '2005', '2006', '2007', '2008', '2009', '2010', '2011', '2012', '2013', '2014', '2015', '2016', '2017']
             },
             yAxis: {
                 title: {
@@ -57,7 +56,7 @@ Twenty years later and it is clear to see that this policy has been a resounding
             },
             series: [{
                 name: 'Southwark',
-                data: [55803, 55162, 54439, 53363, 52448, 51706, 50903, 49875, 48052, 46887, 45346, 43885, 42275, 41873, 41287, 40618, 40120, 39845, 39781, 38578, 39029, 38687, 38522, 38553]
+                data: [51706, 50903, 49875, 48052, 46887, 45346, 43885, 42275, 41873, 41287, 40618, 40120, 39845, 39781, 38578, 39029, 38687, 38522, 38553]
             }]
         });
 
@@ -103,5 +102,5 @@ It is not just council homes that are being sold off. Southwark's 'modernisation
 
 <meta name="twitter:card" content="summary" />
 <meta name="twitter:title" content="The Southwark Clearances" />
-<meta name="twitter:description" content="Southwark's regeneration strategy is openly aimed at 'reverse social engineering'" />
+<meta name="twitter:description" content="The success of Southwark's regeneration strategy aimed at 'reversing some of the problems caused by past social engineering'" />
 <meta name="twitter:image" content="http://35percent.org/img/councilstock.png" />
