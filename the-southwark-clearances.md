@@ -99,6 +99,11 @@ It is not just council homes that are being sold off. Southwark's 'modernisation
 
 ![](http://35percent.org/img/selloff2.png)
 
+The Council is also selling off land; recent sales include [a plot near Millwall stadium](http://moderngov.southwark.gov.uk/ieDecisionDetails.aspx?Id=5885) and Southwark's [former car pound](http://moderngov.southwark.gov.uk/ieDecisionDetails.aspx?Id=6563) off the Old Kent Road, likewise [a plot of land](http://moderngov.southwark.gov.uk/ieIssueDetails.aspx?IId=50017404&PlanId=0&Opt=3#AI50577) at Devonshire Grove and [a plot of land](http://moderngov.southwark.gov.uk/ieDecisionDetails.aspx?Id=3755) on the Beacon House estate and [ one at Woods Road in Peckham](http://moderngov.southwark.gov.uk/ieDecisionDetails.aspx?AIId=29450).
+
+<a href="http://35percent.org/img/soldland.png"><img src="http://35percent.org/img/soldland.png"></a>
+
+All in all, the Council's ongoing fire sale of council homes, community assets and public land is helping its reverse social engineering strategy become a resounding success - all under the banner of municipal socialism..
 
 <meta name="twitter:card" content="summary" />
 <meta name="twitter:title" content="The Southwark Clearances" />
