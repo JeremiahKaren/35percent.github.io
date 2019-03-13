@@ -7,7 +7,9 @@ categories:
   - New council homes
 published: true
 ---
-Southwark's stock of Council homes used to be one of the largest in the country. The graph below illustrates how the total number of Council homes in Southwark has seen a sharp decline over the past twenty years.
+Twenty years ago, Fred Manson, Southwark Council's Director of Regeneration [laid out](http://heygate.github.io/img/EstatesGazette.pdf) the aims of the Labour council's new regeneration strategy in the Estates Gazette: _"We need to have a wider range of people living in the borough"_ because _"social housing generates people on low incomes coming in and that generates poor school performances, middle-class people stay away."_ He explained that the Council's new _'policy is aimed at reversing some of the problems caused by past social engineering.'_
+
+Twenty years later and it is clear to see that this policy has been a resounding success.
 
 <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js">
 </script>
@@ -61,7 +63,7 @@ Southwark's stock of Council homes used to be one of the largest in the country.
 
 </script>
 
-One of the reasons behind the reduction in council homes are the ongoing Right to Buy sales, although another significant factor lies in the borough's ongoing estate regeneration schemes, which have seen a sharp net decrease in council homes over recent years. 
+Southwark has lost over 13,000 council homes since 1999. Whilst Right to Buy was responsible for many of these, the Council's ongoing estate regeneration schemes contributed to a significant proportion.
 
 |   | Estate  | Council homes demolished  | Total new homes  | of which social rented  |
 |---|---|---|---|---|
@@ -82,10 +84,14 @@ That's a loss of 7,639 council homes and net loss of 4,424 social rented homes a
 ![](http://35percent.org/img/schematicpipeline.jpg)
 *Extract from GLA assembly member Sian Berry's research*
 
-Needless to say that Cllr John's council house building programme is [well behind](https://www.southwarknews.co.uk/news/council-admits-will-miss-target-build-1500-new-council-homes-2018/) on delivering its 11,000 target and the few new 'council homes' that have been delivered have not only been [bought from developers](http://35percent.org/2017-04-29-blackfriars-affordable-housing-circus/) but are [being let at affordable rather than social rent](http://35percent.org/2017-04-29-blackfriars-affordable-housing-circus/#10m-wasted-and-new-council-homes-not-even-social-rent). 
+Council leader Peter John is the driving force behind the borough's 'regeneration' plans supported by a cross-party 'sink estate' rhetoric. He wrote an [article](http://www.progressonline.org.uk/2016/01/14/camerons-has-much-to-learn-on-housing/) in support of David Cameron's estate demolition proposals in Jan 2016, arguing only that Cameron's plans weren't ambitious enough and that more government funding should be allocated to the programme. In the article he describes the Heygate & Aylesbury estates as _"symbols of inner-city neglect, with crime, antisocial behaviour, health inequalities and unemployment the only things that flourished there"_. He added that _"both had become hard to let to council tenants, and reinforced poverty, crime and inequality"_ and concluded that in any case, _"most brutal estates do not make the best use of the land they occupy."_ 
+
+In a local [news interview](http://www.southwarknews.co.uk/news/my-conscience-is-clear-council-leader-peter-john-comes-out-fighting-as-heygate-deal-scrutinised/) he claimed that _"brutalist architecture wasn’t conducive to building a successful economic community"._ He evidenced this claim with an anecdote, in which he described local MP Harriet Harman's visit to the Aylesbury estate: _"Harriet and a councillor were in a lift with a man injecting drugs in his penis. That’s not the sign of a successful community"._
+
+Councillor John's justification for estate demolitions is his claim that Southwark has an ambitious programme to build 11,000 new council homes (over 30 years). But this programme is well behind schedule and the Council [continues to knock down and sell off council homes faster than it is building them](http://35percent.org/2018-11-12-11000-council-homes-manifesto-pledge/).
 
 ## Void disposal policy
-In 2009, Southwark's Tory/Lib Dem administration introduced a policy of selling off every council home that becomes vacant and is valued above £400,000. In 2011 this was [reviewed by the incoming Labour administration which reduced](http://moderngov.southwark.gov.uk/documents/s19458/Report%20Review%20of%20Void%20Disposal%20Strategy.pdf) the threshold to £300,000. [This compilation](http://35percent.org/img/sold_by_southwark.pdf) taken from auction websites shows a sample of some of the hundreds of properties sold off by the current administration.
+In 2009, Southwark's Tory/Lib Dem administration introduced a policy of selling off every council home that becomes vacant and is valued above £400,000. In 2011 this was [reviewed by the incoming Labour administration which reduced](http://moderngov.southwark.gov.uk/documents/s19458/Report%20Review%20of%20Void%20Disposal%20Strategy.pdf) the threshold to £300,000. [Government statistics](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/561232/LT_648.xlsx) show that Southwark has sold off over a thousand council homes under this policy in the five years from 2010 to 2015. [This compilation](http://35percent.org/img/sold_by_southwark.pdf) taken from auction websites shows a sample of some of these.
 
 ![](http://35percent.org/img/samplecouncilhomessold.png)
 *A [sample](/sold_by_southwark.pdf) of hundreds of council homes sold by the current Labour administration under this policy*
@@ -94,24 +100,8 @@ It is not just council homes that are being sold off. Southwark's 'modernisation
 
 ![](http://35percent.org/img/selloff2.png)
 
-## Sink estate
-Council leader Peter John is the driving force behind the borough's 'regeneration' plans supported by a cross-party 'sink estate' rhetoric. He wrote an [article](http://www.progressonline.org.uk/2016/01/14/camerons-has-much-to-learn-on-housing/) in support of David Cameron's estate demolition proposals in Jan 2016, arguing only that Cameron's plans weren't ambitious enough and that more government funding should be allocated to the programme. In the article he describes the Heygate & Aylesbury estates as _"symbols of inner-city neglect, with crime, antisocial behaviour, health inequalities and unemployment the only things that flourished there"_. He added that _"both had become hard to let to council tenants, and reinforced poverty, crime and inequality"_ and concluded that in any case, _"most brutal estates do not make the best use of the land they occupy."_ 
-
-We [blogged last year](http://35percent.org/2015-03-28-manifesto-for-destruction-of-council-estates/) about Labour Lord Andrew Adonis's 'City Villages' and how they constituted a manifesto for the destruction of council estates. We also showed how he received support from Southwark Council leader Peter John, who wrote a [whole chapter](http://ippr.org/read/city-villages-more-homes-better-communities#regenerating-elephant-and-castle) of the paper, holding the Heygate regeneration up as a successful model and blueprint for the manifesto.
-
-
-![Cllr Peter John Quote](http://35percent.org/img/peterjohnquote_1and2.png)
-
-Councillor John has long been echoing these stereotyped opinions of council estates which seek to justify the demolitions. In a [radio interview](https://youtu.be/87Yg_SJoPjw?t=1m18s) he described the Heygate & Aylesbury estates as a _"byword for social failure, crime and anti-social behaviour - with all the sorts of problems that people are talking about being the problem with massive council estates."_
-
-In a local [news interview](http://www.southwarknews.co.uk/news/my-conscience-is-clear-council-leader-peter-john-comes-out-fighting-as-heygate-deal-scrutinised/) he claimed that _"brutalist architecture wasn’t conducive to building a successful economic community"._ He evidenced this claim with an anecdote, in which he described local MP Harriet Harman's visit to the Aylesbury estate: _"Harriet and a councillor were in a lift with a man injecting drugs in his penis. That’s not the sign of a successful community"._
-
-In a [BBC interview](https://youtu.be/Emvo16iBxFE?t=6m16s) he claimed _"The Heygate was not a great place to live; there's a reason why zombie and vigilante films were filmed on the Heygate estate, because it was a failing part of Southwark."_
-
-On his [blog](http://cllrpeterjohn.blogspot.co.uk/2012/06/development-partner-for-aylesbury.html) he repeats the same criticisms of council estates touted by the Tories and their proposed replacement by traditional street patterns: _"The answers which the Aylesbury provided were soon overshadowed by the problems which were inherent in the design of the huge monolithic and brutalist blocks.  The previous street pattern was replaced by long corridors and above-ground walkways, which paid little regard to the human desire to travel at ground level and have neighbours and communities within easy reach."_
-
 
 <meta name="twitter:card" content="summary" />
 <meta name="twitter:title" content="The Southwark Clearances" />
-<meta name="twitter:description" content="Sharp decline in Southwark's council-owned stock" />
+<meta name="twitter:description" content="Southwark's regeneration strategy is openly aimed at 'reverse social engineering'" />
 <meta name="twitter:image" content="http://35percent.org/img/councilstock.png" />
