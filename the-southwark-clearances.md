@@ -62,7 +62,7 @@ Twenty years later and it is clear to see that this policy has been a resounding
 
 </script>
 
-Southwark has lost over 13,000 council homes since 1999. Whilst Right to Buy was responsible for many of these, the Council's ongoing estate regeneration schemes contributed to a significant proportion.
+Southwark has lost over 13,000 council homes since the strategy was announced in 1999. Whilst Right to Buy sales have played a part in the overall decline in stock, the Council's ongoing estate regeneration schemes have contributed to a significant proportion of the loss.
 
 |   | Estate  | Council homes demolished  | Total new homes  | of which social rented  |
 |---|---|---|---|---|
