@@ -125,4 +125,4 @@ The old Town Hall was then split into 41 private apartments by developers Hollyb
 <iframe width="560" height="315" src="https://www.youtube.com/embed/CKo8KxiJSdI" frameborder="0" allowfullscreen></iframe>
 
 ## The baseline figures (or lack of)
-We [made an FOI request](https://www.whatdotheyknow.com/request/current_tenure_mix_bermondsey_sp) to the Council in November 2015, asking how many of the 2000 new homes at Bermondsey Spa regeneration were being let at social rents. They responded by saying that they hadn't monitored the scheme so they didn't know. 
+We [made an FOI request](https://www.whatdotheyknow.com/request/current_tenure_mix_bermondsey_sp) to the Council in November 2015, asking how many of the 2000 new homes at Bermondsey Spa regeneration were being let at social rents. They responded by saying that they hadn't monitored the scheme so they didn't know. We later [discovered](http://35percent.org/2016-12-12-ombudsman-slams-southwark-for-no-s106-monitoring/) that Southwark Council doesn't monitor whether affordable housing is actually delivered in schemes approved by its planning committee or what type of tenures are delivered. 
