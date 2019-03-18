@@ -130,5 +130,5 @@ The above examples show that until such time as there has been a borough-wide s1
 
 <meta name="twitter:card" content="summary" />
 <meta name="twitter:title" content="Redefining Social Rent" />
-<meta name="twitter:description" content="Southwark turns blind eye to HA's substituting social rent for other tenures" />
+<meta name="twitter:description" content="Southwark turns blind eye to HA's substituting social rent for 80% market rent" />
 <meta name="twitter:image" content="http://35percent.org/img/snauditpromise2.png" />
