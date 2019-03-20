@@ -105,7 +105,7 @@ The entirety of site C5 was [sold](http://moderngov.southwark.gov.uk/documents/s
 ![](/img/theexchange.jpg)
 *Notting Hill's 'The Exchange' development*
 
-However, we [discovered](http://crappistmartin.github.io/blog/2015/09/24/southwark-backs-down-over-bermondsey-spa-dispute/) that these 44 social rented units had been delivered at 'affordable rents' of up to 63% of market rent.
+However, we [discovered](http://35percent.org/2015-03-18-stand-up-for-more-social-housing/) that these 44 social rented units had been delivered at 'affordable rents' of up to 63% of market rent.
 
 [http://www.southwarknews.co.uk/news/southwark-council-probes-44-missing-social-homes/](http://www.southwarknews.co.uk/news/southwark-council-probes-44-missing-social-homes/)
 

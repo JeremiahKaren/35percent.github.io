@@ -85,3 +85,10 @@ Our current Labour Council leader Peter John, is a [property lawyer](http://five
 __Footnotes:__
 
  [^1]: Fiona Colley -> On 6th Jan 1999 she bought flat 8, Yew House, 2 Woodlands Crescent SE16 6YH (Canada Water regeneration) off-plan for £159,000 and then sold it post-construction on 31st July 2003 for £271,000; on Sept 3rd 2003, she bought flat 8, Rowan House, 3 Woodlands Crescent SE16 6YF (Canada Water regeneration) for £390,000 and then sold it in May 20th 2011 for £610,000. </p>
+
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:site" content="@35percent_EAN">
+<meta name="twitter:title" content="Southwark's revolving doors">
+<meta name="twitter:description" content="The murky link between Southwark's public servants and property developers.">
+<meta name="twitter:image" content="http://35percent.org/img/8637497136_d25afc426a.jpg">
+
