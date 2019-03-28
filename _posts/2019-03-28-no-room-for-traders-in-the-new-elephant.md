@@ -29,11 +29,11 @@ By Jan 2019, Perronet House had been approved and Castle Square itself went to p
 
 ## Wishful thinking and indifference
 
-While Southwark's approach to relocating centre traders can be characterised as wishfull thinking, Delancey's approach has been indifference.  It's starting position was that providing afforddable retail _['would be unviable and inapproriate'](https://docdro.id/tpVc90A)_(para 4.63) and that a relocation strategy would [only be forthcoming](http://35percent.org/2016-12-19-delancey-submits-shopping-centre-application/), once it had secured planning approval (an aim it acheived).  Only the concerted efforts of local campaigners and councillors has dragged concessions from Delancey, including Castle Square, a relocation fund, as well as affordable retail units, but more is needed.  Traders must be given more space for relocation and securer leases; the centre itself needs urgent maintenance and promotion, so that businesses remain viable.  The relocation fund of £634,700 is not enough to for the number of traders who need its help.
+While Southwark's approach to relocating centre traders can be characterised as wishfull thinking, Delancey's approach has been indifference.  It's starting position was that providing afforddable retail _['would be unviable and inapproriate'](https://docdro.id/tpVc90A)_(para 4.63) and that a relocation strategy would [only be forthcoming](http://35percent.org/2016-12-19-delancey-submits-shopping-centre-application/), once it had secured planning approval (an aim it acheived).  Only the concerted [efforts of local campaigners](http://35percent.org/2018-10-30-shopping-centre-legal-challenge/) and councillors has dragged concessions from Delancey, including Castle Square, a relocation fund, as well as affordable retail units, but more is needed.  Traders must be given more space for relocation and securer leases; the centre itself needs urgent maintenance and promotion, so that businesses remain viable.  The relocation fund of £634,700 is not enough to for the number of traders who need its help.
 
 ## Meantime...
 
-The application for a judicial review of the shopping centre plannin permission continues to progress.  We want the permission quashed, for a scheme with more social rented housing and a better deal for traders.
+The application for a judicial review of the shopping centre plannin permission continues its legal progress.  We want the permission quashed, for a scheme with more social rented housing and a better deal for traders.
 
 You can find out more about this [here](http://35percent.org/uptheelephant/) and you can help fund our fight [here](https://www.crowdjustice.com/case/stop-the-elephant-shopping-centre-destruction/).
 
