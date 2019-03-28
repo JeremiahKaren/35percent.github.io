@@ -19,17 +19,15 @@ Unlike the other 3 sites, Elephant Park is under Lendlease control, not Delancey
 
 ##Predictable debacle
 
-This was an entirely predictable debacle.  Objectors have consistently pointed out that Delancey's evolving relocation strategy simply did not provide enough space to accommodate all the traders who wish to stay at the Elephant.  
+This was an entirely predictable debacle.  Objectors, pre-eminently Latin Elephant, have consistently pointed out that Delancey's evolving relocation strategy simply did not provide enough space to accommodate all the traders who wish to stay at the Elephant and this has remainded the case, even as,inevitably, the number of traders has declined.  
 
-In the summer of 2017 Southwark estimated that there were about 130 independent businesses, occupying 4005sqm within the 'red-line' of the develoment (excluding the Hannibal House office space), as [cited by Latin Elephant](https://twitter.com/LatinElephant/status/1081169626590048258).  Latin Elephant calculated that all available space, including Elephant Park (and throwing in pitches in East St market, nearly a mile down the road), could accommodate 84 businesses on 2,263 sqm -  and not much more than half the floorspace required and leaving at least 38 eligible buinesses in the cold.
+In the summer of 2017 Southwark estimated that there were about 130 independent businesses, occupying 4005sqm within the 'red-line' of the development (excluding the Hannibal House office space), as [cited by Latin Elephant](https://twitter.com/LatinElephant/status/1081169626590048258).  Latin Elephant calculated that all available space, including Elephant Park (and throwing in pitches in East St market, nearly a mile down the road), could accommodate 84 businesses on 2,263 sqm - not much more than half the floorspace required and leaving at least 38 eligible buinesses out in the cold.
 
+In March 2018, Latin Elephant used its research as the basis of its objection that the amount of affordable retail space available [fell far short of the 4000 sqm needed](https://latinelephant.org/wp-content/uploads/2015/03/2018-03-09-LE-Objection-Deferred-Appl.pdf).  Nonetheless, when Delancey's application was finally considered by the planning committeew, the officer's report, (while ignoring the affordable retail in Perronet House and Castle Square on the legitimate grounds that they did not then have planning approval), lumped the affordable retail proposed for the new shopping centre (completion date 2029), in with the affordable retail in Elephant One and Elphant Park, to reach the comforting conclusion that this amounted to 3866sqm and was _'only marginally short...of the 4,005sqm of space currently occupied by independent retailers on the east site'_ (para 221).
 
+By December 2018, Perronet House had been approved and Castle Square itself went to planning committee, so the  the officer's report for this wisely drops any reference to the shopping centre, to reach a another affordable retail total of 2,859sqm.  The report acknowledges that _'whilst this would be less than the
+4,005sqm currently understood to be occupied by independent businesses on the east site'_ but hopes that, '_some businesses may be able to operate from smaller premises_'.  Southwark now identifies 80 businesses in the redline and gives [verbal assurances](https://twitter.com/elephant_petit/status/1081278395504197633) that there _'should be sufficient'_ units to accommodate everyone.
 
-
-Wishful thinking - officer's report 
-As Latin Elephant objected back in March 2018 the amount of affordable retail space available falls far short of the 4000 sqm  https://latinelephant.org/wp-content/uploads/2015/03/2018-03-09-LE-Objection-Deferred-Appl.pdf
-
-Officer assurances 12 Dec 2018 https://twitter.com/elephant_petit/status/1081278395504197633.  identifies 80 businesses,
 
 99 eligible traders (email LE Vikki 5 jan 2019)
 Soutwark FOI response 21 Mar 2019 https://www.whatdotheyknow.com/request/independently_owned_retail_busin?nocache=incoming-1334948#incoming-1334948
