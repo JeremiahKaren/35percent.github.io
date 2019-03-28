@@ -25,13 +25,17 @@ In the summer of 2017 Southwark estimated that there were about 130 independent 
 
 In March 2018, Latin Elephant used its research as the basis of its objection that the amount of affordable retail space available [fell far short of the 4000 sqm needed](https://latinelephant.org/wp-content/uploads/2015/03/2018-03-09-LE-Objection-Deferred-Appl.pdf).  Nonetheless, when Delancey's application was finally considered by the planning committeew, the [officer's report](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!HvOs1eG7BYgl0hYZ8SIm5w%3d%3d!%7d%7d%7d), (while legitimately ignoring the affordable retail in Perronet House and Castle Square on the grounds that they did not then have planning approval), lumped the affordable retail proposed for the new shopping centre (completion date 2029), in with the affordable retail in Elephant One and Elphant Park, to reach the comforting conclusion that this amounted to 3866sqm and was _'only marginally short...of the 4,005sqm of space currently occupied by independent retailers on the east site'_ (para 221).
 
-By December 2018, Perronet House had been approved and Castle Square itself went to planning committee, so the officer's report for this wisely drops any reference to the shopping centre, to reach an affordable retail total of 2,859sqm.  The [report](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!12dhIwvd2JFDUQgBXBnMXA%3d%3d!%7d%7d%7d) acknowledges that _'whilst this would be less than the
-4,005sqm currently understood to be occupied by independent businesses on the east site, some businesses may be able to operate from smaller premises_'(para 57).  Southwark now identifies 80 businesses in the redline and gives [verbal assurances](https://twitter.com/elephant_petit/status/1081278395504197633) that there _'should be sufficient'_ units to accommodate everyone.
+By Jan 2019, Perronet House had been approved and Castle Square itself went to planning committee, so the officer's report for this wisely drops any reference to the shopping centre, to reach an affordable retail total of 2,859sqm.  The [report](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!12dhIwvd2JFDUQgBXBnMXA%3d%3d!%7d%7d%7d) acknowledges that _'whilst this would be less than the 4,005sqm currently understood to be occupied by independent businesses on the east site, some businesses may be able to operate from smaller premises_'(para 57).  Southwark now identifies 80 businesses  in the redline and gives [verbal assurances](https://twitter.com/elephant_petit/status/1081278395504197633) that there _'should be sufficient'_ units to accommodate everyone (In March 2019 Soutwark gave the number of traders as 79 in an [FOI response](https://www.whatdotheyknow.com/request/independently_owned_retail_busin?nocache=incoming-1334948#incoming-1334948).
+
+## Wishful thinking and indifference
+
+While Southwark's approach to relocating centre traders can be characterised as wishfull thinking, Delancey's approach has been indifference.  It's starting position was that providing afforddable retail _'would be unviable and inapproriate'_ and that a relocation strategy would only be forthcoming, once it had secured planning approval (an aim it acheived).  Only the concerted efforts of local campaigners and councillors has dragged concessions from Delancey, including Castle Square, a relocation fund, as well as affordable retail units, but more is needed.  Traders must be given more space for relocation and securer leases; the centre itself needs urgent maintenance and promotion, so that businesses remain viable.  The relocation fund of £634,700 is not enough to for the number of traders who need its help.
+
+## Meantime...
+
+The application for a judicial review of the shopping centre plannin permission continues to progress.  We want the permission quashed, for a scheme with more social rented housing and a better deal for traders.
+
+You can find out more about this here and you can help fund our fight here.
 
 
-99 eligible traders (email LE Vikki 5 jan 2019)
-Soutwark FOI response 21 Mar 2019 https://www.whatdotheyknow.com/request/independently_owned_retail_busin?nocache=incoming-1334948#incoming-1334948
 
-Southwark and Delancey have responded by underestimating the number of traders and with wishful thinking. 
-
-Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
