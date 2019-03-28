@@ -282,6 +282,11 @@ The [S106 legal agreement](/img/ShoppingCentreS106.pdf) shows that the entire pu
 ![](/img/scpublicrealm.jpg)
 *Extract from the [S106 legal agreement](/img/ShoppingCentreS106.pdf) showing new public realm*
 
+## Legal Challenge
+We are helping to [crowdfund a legal challenge](https://www.crowdjustice.com/case/stop-the-elephant-shopping-centre-destruction/) to Delancey's plans, which seeks to quash the planning consent and send these inequitable plans back to the drawing board until a scheme comes forward that provides new homes and shops that are truly affordable for local people.
+
+![](http://35percent.org/img/cjustice.png)
+
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:site" content="@35percent_EAN">
 <meta name="twitter:title" content="Delancey's Elephant and Castle">
