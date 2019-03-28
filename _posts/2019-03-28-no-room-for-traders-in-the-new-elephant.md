@@ -35,7 +35,7 @@ While Southwark's approach to relocating centre traders can be characterised as 
 
 The application for a judicial review of the shopping centre plannin permission continues to progress.  We want the permission quashed, for a scheme with more social rented housing and a better deal for traders.
 
-You can find out more about this here and you can help fund our fight here.
+You can find out more about this [here](http://35percent.org/uptheelephant/) and you can help fund our fight [here](https://www.crowdjustice.com/case/stop-the-elephant-shopping-centre-destruction/).
 
 
 
