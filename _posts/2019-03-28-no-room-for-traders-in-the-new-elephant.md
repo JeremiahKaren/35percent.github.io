@@ -9,7 +9,7 @@ Just thirty -six independent traders from the Elephant  & Castle shopping centre
 
 The new spaces are a mixture of permanent affordable units, at the base of the [Elephant One Tower](http://35percent.org/tribeca-square/) and on the ground floor of [Perronet House](https://www.london-se1.co.uk/news/view/9676) (the 'Elephant Arcade'), and temporary affordable units in [Castle Square](http://35percent.org/2018-11-24-castle-square-delancey-responds/).
 
-## The Elephant Effect
+## No room on the Park
 
 Noticeably absent from the relocation sites are the affordable retail units on [Elephant Park](https://www.elephantpark.co.uk/about-elephant-park/), formerly the Heygate estate.  At over 1300 sqm, with 800sqm available in 2019, this is by far the largest of the four sites [presented to Southwark's planning committee](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!HvOs1eG7BYgl0hYZ8SIm5w%3d%3d!%7d%7d%7d) as alternatives for displaced traders.  It was also specifically referred to as able to [supply 38 affordable units](https://twitter.com/elephant_petit/status/1081278395504197633) when the Castle Square facility was appoved back in January.
 
@@ -17,7 +17,7 @@ Unlike the other 3 sites, Elephant Park is under Lendlease control, not Delancey
 
 ## So it came to pass...
 
-This was an entirely predictable debacle.  Objectors, pre-eminently Latin Elephant, have consistently pointed out that Delancey's evolving relocation strategy simply did not provide enough space to accommodate all the traders who wish to stay at the Elephant and this has remainded the case, even as the number of traders has inevitably changed over time.  
+A relocation strategy that only to relocates half of those who need it satisfactorily is a failure by any measure, more so when that failure is entirely predictable.  Objectors, pre-eminently Latin Elephant, have consistently pointed out that Delancey's evolving relocation strategy simply did not provide enough space to accommodate all the traders who wish to stay at the Elephant and this has remainded the case, even as the number of traders has inevitably changed over time.  
 
 In the summer of 2017 Southwark estimated that there were about 130 independent businesses, occupying 4005sqm within the 'red-line' of the development (excluding the Hannibal House office space), as [cited by Latin Elephant](https://twitter.com/LatinElephant/status/1081169626590048258).  Latin Elephant calculated that all available space, including Elephant Park (and throwing in pitches in East St market, nearly a mile down the road), could accommodate 84 businesses on 2,263 sqm - not much more than half the floorspace required and leaving at least 38 eligible buinesses out in the cold.
 
