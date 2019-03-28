@@ -11,11 +11,11 @@ The new spaces are a mixture of permanent affordable units, at the base of the [
 
 ## The Elephant Effect
 
-Noticeably absent from the relocation sites are the affordable retail units on Elephant Park, formerly the Heygate estate.  At over 1300 sqm, with 800sqm available in 2019, this is by far the largest of the four sites [presented to Southwark's planning committee](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!HvOs1eG7BYgl0hYZ8SIm5w%3d%3d!%7d%7d%7d) as alternatives for displaced traders.  It was also specifically referred to as able to [supply 38 affordable units](https://twitter.com/elephant_petit/status/1081278395504197633) when the Castle Square facility was appoved back in January.
+Noticeably absent from the relocation sites are the affordable retail units on [Elephant Park](https://www.elephantpark.co.uk/about-elephant-park/), formerly the Heygate estate.  At over 1300 sqm, with 800sqm available in 2019, this is by far the largest of the four sites [presented to Southwark's planning committee](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!HvOs1eG7BYgl0hYZ8SIm5w%3d%3d!%7d%7d%7d) as alternatives for displaced traders.  It was also specifically referred to as able to [supply 38 affordable units](https://twitter.com/elephant_petit/status/1081278395504197633) when the Castle Square facility was appoved back in January.
 
 Unlike the other 3 sites, Elephant Park is under Lendlease control, not Delancey or Southwark, so the suspicion is that it has no desire to help its competitor, or Southwark, relocate traders, notwithstanding the [_'imagination, empathy and dedication'_](https://www.lendlease.com/uk/projects/elephant-park/?id=3c8e138c-140a-4268-8cba-199afaec168d) it claims to be bringing to the Elephant & Castle.
 
-## So it cam to pass...
+## So it came to pass...
 
 This was an entirely predictable debacle.  Objectors, pre-eminently Latin Elephant, have consistently pointed out that Delancey's evolving relocation strategy simply did not provide enough space to accommodate all the traders who wish to stay at the Elephant and this has remainded the case, even as the number of traders has inevitably changed over time.  
 
