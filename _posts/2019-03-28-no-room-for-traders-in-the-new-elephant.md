@@ -7,7 +7,7 @@ title: 'No room for traders in the new Elephant '
 
 Just thirty -six independent traders from the Elephant  & Castle shopping centre have been allocated new space in which to trade, in the event of the centre's demolition and redevelopment.  The figure was given at a testy meeting of the Trader Panel on 19 March and leave at least [40 traders out in the cold](https://twitter.com/LatinElephant?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor), according to [Latin Elephant](https://latinelephant.org/), who champion the cause of all independant ethnic minority traders, with [28 applications for space rejected](https://www.southwarknews.co.uk/news/nearly-30-elephant-and-castle-traders-rejected-for-delancey-relocation-units/).
 
-The new spaces are a mixture of permanent affordable units, at the base of the Elephant One Tower and on the ground floor of Perronet House (the 'Elephant Arcade'), and temporary affordable units in Castle Square.
+The new spaces are a mixture of permanent affordable units, at the base of the [Elephant One Tower](http://35percent.org/tribeca-square/) and on the ground floor of [Perronet House](https://www.london-se1.co.uk/news/view/9676) (the 'Elephant Arcade'), and temporary affordable units in [Castle Square](http://35percent.org/2018-11-24-castle-square-delancey-responds/).
 
 ## The Elephant Effect
 
