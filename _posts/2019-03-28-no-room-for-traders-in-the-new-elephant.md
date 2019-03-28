@@ -17,7 +17,7 @@ Unlike the other 3 sites, Elephant Park is under Lendlease control, not Delancey
 
 ## So it came to pass...
 
-A relocation strategy that only to relocates half of those who need relocation is a failure by any measure, more so when that failure is entirely predictable.  Objectors, pre-eminently Latin Elephant, have consistently pointed out that Delancey's evolving relocation strategy simply did not provide enough space to accommodate all the traders who wish to stay at the Elephant and this has remainded the case, even as the number of traders has inevitably changed over time.  
+A relocation strategy that only to relocates half of those who need relocation is a failure by any measure, more so when that failure is entirely predictable.  Objectors, pre-eminently [Latin Elephant](https://latinelephant.org/), have consistently pointed out that Delancey's half-hearted and dilatory 'strategy' simply did not provide enough space to accommodate all the traders who wish to stay at the Elephant and this has remainded the case, even as the number of traders has inevitably changed over time.  
 
 In the summer of 2017 Southwark estimated that there were about 130 independent businesses, occupying 4005sqm within the 'red-line' of the development (excluding the Hannibal House office space), as [cited by Latin Elephant](https://twitter.com/LatinElephant/status/1081169626590048258).  Latin Elephant calculated that all available space, including Elephant Park (and throwing in pitches in East St market, nearly a mile down the road), could accommodate 84 businesses on 2,263 sqm - not much more than half the floorspace required and leaving at least 38 eligible buinesses out in the cold.
 
