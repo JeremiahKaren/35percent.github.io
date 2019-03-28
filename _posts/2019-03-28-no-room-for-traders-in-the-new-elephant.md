@@ -7,10 +7,15 @@ title: 'No room for traders in the new Elephant '
 
 Just 36 independent traders from the Elephant  & Castle shopping centre have been allocated new space to trade, in the event of the centre's demolition and redevelopment.
 
-The figures were given at a testy meeting of the Trader Panel on 19 March and leave at least as many traders out in the cold.  It's been reported 28 applications for space were rejected.
+The figures were given at a testy meeting of the Trader Panel on 19 March and leave at least [40 traders out in the cold](https://twitter.com/LatinElephant?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor), according to [Latin Elephant](https://latinelephant.org/), who champion the cause of all independant ethnic minirity traders.  It's been reported [28 applications for space were actually rejected](https://www.southwarknews.co.uk/news/nearly-30-elephant-and-castle-traders-rejected-for-delancey-relocation-units/).
 
-for space were
-with some offered spaces in the planned retail hub at Castle Square, some moving into the affordable units reserved for shopping centre traders at the base of the Elephant One building next door, and others opting for space in the 'Elephant Arcade' being created on the ground floor of Perronet House.
+The new spaces are a mixture of permanent affordable units, at the base of the Elephant One Tower and the 'Elephant Arcade', on the ground floor of Perronet House, and temporary affordable units in the planned retail facility at Castle Square.
+
+## Eelphant Park gone missing
+
+Noticably absent from the relocation sites are the affordable retail units on Elephant Park, formerly the Heygate estate.  At over 1300 sqm, this is by far the largest of the four sites [presented to Southwark's planning committee](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!HvOs1eG7BYgl0hYZ8SIm5w%3d%3d!%7d%7d%7d) as alternatives for displaced traders.  It was also specifically referred to as able to [supply 38 affordable units](https://twitter.com/elephant_petit/status/1081278395504197633) when the Castle Square facility was appoved back in January. 
+
+This debacle was entirely predictable.
 
 130 businesses occupying 4005sqm (Summer 2017) https://twitter.com/LatinElephant?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor; 122 eligible
 
