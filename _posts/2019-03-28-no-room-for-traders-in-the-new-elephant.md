@@ -13,12 +13,12 @@ The new spaces are a mixture of permanent affordable units, at the base of the [
 
 ## No room on the Park
 
-Noticeably absent from the relocation sites are the affordable retail units on [Elephant Park](https://www.elephantpark.co.uk/about-elephant-park/), formerly the [Heygate estate](http://35percent.org/heygate-regeneration-faq/).  At over 1300 sqm, with 800sqm available in 2019, this is by far the largest of the four sites [presented to Southwark's planning committee](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!HvOs1eG7BYgl0hYZ8SIm5w%3d%3d!%7d%7d%7d) as alternatives for displaced traders.  It was also specifically referred to as able to [supply 38 affordable units](https://twitter.com/elephant_petit/status/1081278395504197633) when the Castle Square facility was appoved back in January.
-
-Unlike the other 3 sites, Elephant Park is under Lendlease control, not Delancey or Southwark, so the suspicion is that they have no desire to help Delancey, or Southwark, relocate traders, notwithstanding the [_'imagination, empathy and dedication'_](https://www.lendlease.com/uk/projects/elephant-park/?id=3c8e138c-140a-4268-8cba-199afaec168d) it claims to be bringing to the Elephant & Castle.
+Noticeably absent from the relocation sites are the affordable retail units on [Elephant Park](https://www.elephantpark.co.uk/about-elephant-park/), formerly the [Heygate estate](http://35percent.org/heygate-regeneration-faq/).  At over 1300 sqm, with circa 800sqm available in 2019, this is by far the largest of the four sites [presented to Southwark's planning committee](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!HvOs1eG7BYgl0hYZ8SIm5w%3d%3d!%7d%7d%7d) as alternatives for displaced traders. This 800sqm of affordable retail [comprises 8 units](https://twitter.com/elephant_petit/status/1076037101509140480) all located on one street (Sayer St) and pictured in Lendlease's CGI below. 
 
 ![](http://35percent.org/img/ep-sayer-cgi.jpg)
-*Lendlease's CGI of [proposed new retail](https://www.elephantpark.co.uk/files/ElephantPark_retail_V11-website-optimised.pdf) at Elephant Park*
+*Lendlease's CGI of [proposed new affordable retail](https://www.elephantpark.co.uk/files/ElephantPark_retail_V11-website-optimised.pdf) on Sayer street at Elephant Park*
+
+But, unlike the other 3 sites, Elephant Park is under Lendlease control, not Delancey or Southwark, so the suspicion is that they have no desire to help Delancey, or Southwark, relocate traders, notwithstanding the [_'imagination, empathy and dedication'_](https://www.lendlease.com/uk/projects/elephant-park/?id=3c8e138c-140a-4268-8cba-199afaec168d) it claims to be bringing to the Elephant & Castle. The CGI image suggests that Lendlease's vision doesn't aim to include the likes of Jenny's Burgers or the Sundial Cafe.
 
 ## A predictable debacle
 
@@ -38,8 +38,9 @@ In an [FOI response](https://www.whatdotheyknow.com/request/independently_owned_
 
 While Southwark's approach to relocating centre traders can be characterised as wishful thinking, Delancey's can be characterised as indifference.  It's starting position was that providing affordable retail [_'would be unviable and inapproriate'_](https://docdro.id/tpVc90A) (para 4.63) and that a relocation strategy would [only be forthcoming](http://35percent.org/2016-12-19-delancey-submits-shopping-centre-application/), once Delancey had secured planning approval (an aim it acheived).  Only the concerted [efforts of local campaigners](http://35percent.org/2018-10-30-shopping-centre-legal-challenge/) and councillors has dragged concessions from Delancey, including Castle Square, a relocation fund, as well as the affordable retail units, but more is needed.  Traders must be given more space for relocation and securer leases; the centre itself needs urgent maintenance and promotion, so that businesses remain viable.  The relocation fund of £634,700 is not enough to for the number of traders who need its help.
 
-## Meantime...
+## It's not too late
+In the meantime, it's not too late to put a stop to this disastrous and inequitable scheme. The application for a judicial review of the shopping centre planning permission continues its legal progress.  We want the permission quashed, for a scheme with more social rented housing and a better deal for traders.
 
-The application for a judicial review of the shopping centre planning permission continues its legal progress.  We want the permission quashed, for a scheme with more social rented housing and a better deal for traders.
+You can find out more about the legal challenge [here](http://35percent.org/uptheelephant/) and you can help fund our fight by donating [here](https://www.crowdjustice.com/case/stop-the-elephant-shopping-centre-destruction/).
 
-You can find out more about this [here](http://35percent.org/uptheelephant/) and you can help fund our fight [here](https://www.crowdjustice.com/case/stop-the-elephant-shopping-centre-destruction/).
+![](http://35percent.org/img/cj6990.png)
