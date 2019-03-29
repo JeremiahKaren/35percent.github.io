@@ -7,6 +7,8 @@ title: 'No room for traders in the new Elephant '
 
 Just thirty-six independent traders from the Elephant  & Castle shopping centre have been allocated new space in which to trade, in the event of the centre's demolition and redevelopment.  The figure is given in a [self-congratulatory press-release](https://www.southwark.gov.uk/news/2019/mar/thirty-six-local-businesses-secure-new-home-in-the-heart-of-elephant-castle) from Southwark Council and belies the true situation which is that at least [40 traders have been left out in the cold](https://twitter.com/LatinElephant?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor), according to [Latin Elephant](https://latinelephant.org/), who champion the cause of all independant ethnic minority traders.  Southwark News reported that [28 applications for space were rejected](https://www.southwarknews.co.uk/news/nearly-30-elephant-and-castle-traders-rejected-for-delancey-relocation-units/).
 
+![](http://35percent.org/img/traderscomp.jpeg)
+
 The new spaces are a mixture of permanent affordable units, at the base of the [Elephant One Tower](http://35percent.org/tribeca-square/) and on the ground floor of [Perronet House](https://www.london-se1.co.uk/news/view/9676) (the 'Elephant Arcade'), and temporary affordable units in [Castle Square](http://35percent.org/2018-11-24-castle-square-delancey-responds/).
 
 ## No room on the Park
@@ -14,6 +16,9 @@ The new spaces are a mixture of permanent affordable units, at the base of the [
 Noticeably absent from the relocation sites are the affordable retail units on [Elephant Park](https://www.elephantpark.co.uk/about-elephant-park/), formerly the Heygate estate.  At over 1300 sqm, with 800sqm available in 2019, this is by far the largest of the four sites [presented to Southwark's planning committee](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!HvOs1eG7BYgl0hYZ8SIm5w%3d%3d!%7d%7d%7d) as alternatives for displaced traders.  It was also specifically referred to as able to [supply 38 affordable units](https://twitter.com/elephant_petit/status/1081278395504197633) when the Castle Square facility was appoved back in January.
 
 Unlike the other 3 sites, Elephant Park is under Lendlease control, not Delancey or Southwark, so the suspicion is that they have no desire to help Delancey, or Southwark, relocate traders, notwithstanding the [_'imagination, empathy and dedication'_](https://www.lendlease.com/uk/projects/elephant-park/?id=3c8e138c-140a-4268-8cba-199afaec168d) it claims to be bringing to the Elephant & Castle.
+
+![](35percent.org/img/ep-sayer-cgi.jpg)
+*Lendlease's CGI of [proposed new retail](https://www.elephantpark.co.uk/files/ElephantPark_retail_V11-website-optimised.pdf) at Elephant Park*
 
 ## A predictable debacle
 
@@ -36,6 +41,3 @@ While Southwark's approach to relocating centre traders can be characterised as 
 The application for a judicial review of the shopping centre planning permission continues its legal progress.  We want the permission quashed, for a scheme with more social rented housing and a better deal for traders.
 
 You can find out more about this [here](http://35percent.org/uptheelephant/) and you can help fund our fight [here](https://www.crowdjustice.com/case/stop-the-elephant-shopping-centre-destruction/).
-
-
-
