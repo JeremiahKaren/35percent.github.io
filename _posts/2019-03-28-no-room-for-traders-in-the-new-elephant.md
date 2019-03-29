@@ -25,7 +25,7 @@ In March 2018, Latin Elephant objected to Delancey's planning application, on th
 
 By January 2019, Perronet House had been approved and Castle Square itself went to planning committee, so the officer's report for this wisely drops any reference to the shopping centre, to reach an affordable retail total of 2,859sqm.  The [report](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!12dhIwvd2JFDUQgBXBnMXA%3d%3d!%7d%7d%7d) acknowledges that _'whilst this would be less than the 4,005sqm currently understood to be occupied by independent businesses on the east site, some businesses may be able to operate from smaller premises'_ (para 57).  Southwark now identified 80 businesses  in the redline and gave [verbal assurances](https://twitter.com/elephant_petit/status/1081278395504197633) that there _'should be sufficient'_ units to accommodate everyone.
 
-In March 2019 Soutwark gave the number of traders as 79 in an [FOI response](https://www.whatdotheyknow.com/request/independently_owned_retail_busin?nocache=incoming-1334948#incoming-1334948).
+In an [FOI response](https://www.whatdotheyknow.com/request/independently_owned_retail_busin?nocache=incoming-1334948#incoming-1334948) in March 2019 Soutwark gave the number of traders as 79 (an underestimate that treats the several businesses in Arch 7 as one). 
 
 ## Wishful thinking and indifference
 
