@@ -18,7 +18,7 @@ Noticeably absent from the relocation sites are the affordable retail units on [
 ![](http://35percent.org/img/ep-sayer-cgi.jpg)
 *Lendlease's CGI of [proposed new affordable retail](https://www.elephantpark.co.uk/files/ElephantPark_retail_V11-website-optimised.pdf) on Sayer street at Elephant Park*
 
-But, unlike the other 3 sites, Elephant Park is under Lendlease control, not Delancey or Southwark, so the suspicion is that they have no desire to help Delancey, or Southwark, relocate traders, notwithstanding the [_'imagination, empathy and dedication'_](https://www.lendlease.com/uk/projects/elephant-park/?id=3c8e138c-140a-4268-8cba-199afaec168d) it claims to be bringing to the Elephant & Castle. The CGI image suggests that Lendlease's vision doesn't aim to include the likes of Jenny's Burgers or the Sundial Cafe.
+Unlike the other 3 sites, Elephant Park is under Lendlease control, not Delancey or Southwark, so the suspicion is that they have no desire to help Delancey, or Southwark, relocate traders, notwithstanding the [_'imagination, empathy and dedication'_](https://www.lendlease.com/uk/projects/elephant-park/?id=3c8e138c-140a-4268-8cba-199afaec168d) it claims to be bringing to the Elephant & Castle. The CGI image suggests that Lendlease's vision doesn't aim to include the likes of Jenny's Burgers or the Sundial Cafe.
 
 ## A predictable debacle
 
