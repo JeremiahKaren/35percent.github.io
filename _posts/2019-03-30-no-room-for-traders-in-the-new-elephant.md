@@ -48,4 +48,4 @@ You can find out more about the legal challenge [here](http://35percent.org/upth
 <meta property="og:url" content="http://35percent.org/2019-03-30-no-room-for-traders-in-the-new-elephant/" />
 <meta property="og:title" content="No room for traders in the new Elephant" />
 <meta property="og:description" content="Shopping Centre traders left out in the cold" />
-<meta property="og:image" content="http://35percent.org/img/36edited.png" />
+<meta property="og:image" content="http://35percent.org/img/36edited2.png" />
