@@ -2,10 +2,9 @@
 layout: post
 published: true
 title: 'No room for traders in the new Elephant'
+subtitle: 'Shopping centre traders left out in the cold'
 ---
-## Shopping centre traders left out in the cold
-
-Just thirty-six independent traders from the Elephant  & Castle shopping centre have been allocated new space in which to trade, in the event of the centre's demolition and redevelopment.  The figure is given in a [self-congratulatory press-release](https://www.southwark.gov.uk/news/2019/mar/thirty-six-local-businesses-secure-new-home-in-the-heart-of-elephant-castle) from Southwark Council and belies the true situation which is that at least [40 traders have been left out in the cold](https://twitter.com/LatinElephant?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor), according to [Latin Elephant](https://latinelephant.org/), who champion the cause of all independant ethnic minority traders.  Southwark News reported that [28 applications for space were rejected](https://www.southwarknews.co.uk/news/nearly-30-elephant-and-castle-traders-rejected-for-delancey-relocation-units/).
+Just thirty-six independent traders from the Elephant & Castle shopping centre have been allocated new space in which to trade, in the event of the centre's demolition and redevelopment.  The figure is given in a [self-congratulatory press-release](https://www.southwark.gov.uk/news/2019/mar/thirty-six-local-businesses-secure-new-home-in-the-heart-of-elephant-castle) from Southwark Council and belies the true situation which is that at least [40 traders have been left out in the cold](https://twitter.com/LatinElephant?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor), according to [Latin Elephant](https://latinelephant.org/), who champion the cause of all independant ethnic minority traders.  Southwark News reported that [28 applications for space were rejected](https://www.southwarknews.co.uk/news/nearly-30-elephant-and-castle-traders-rejected-for-delancey-relocation-units/).
 
 ![](http://35percent.org/img/36.png)
 
