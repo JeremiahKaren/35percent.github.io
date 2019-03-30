@@ -42,3 +42,10 @@ In the meantime, it's not too late to put a stop to this disastrous and inequita
 You can find out more about the legal challenge [here](http://35percent.org/uptheelephant/) and you can help fund our fight by donating [here](https://www.crowdjustice.com/case/stop-the-elephant-shopping-centre-destruction/).
 
 ![](http://35percent.org/img/cj6990.png)
+
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:site" content="@35percent_EAN" />
+<meta property="og:url" content="http://35percent.org/2019-03-30-no-room-for-traders-in-the-new-elephant/" />
+<meta property="og:title" content="No room for traders in the new Elephant" />
+<meta property="og:description" content="Shopping Centre traders left out in the cold" />
+<meta property="og:image" content="http://35percent.org/img/36edited.png" />
