@@ -18,6 +18,9 @@ Noticeably absent from the relocation sites are the affordable retail units on [
 
 Unlike the other 3 sites, Elephant Park is under Lendlease control, not Delancey or Southwark, so the suspicion is that they have no desire to help Delancey, or Southwark, relocate traders, notwithstanding the [_'imagination, empathy and dedication'_](https://www.lendlease.com/uk/projects/elephant-park/?id=3c8e138c-140a-4268-8cba-199afaec168d) it claims to be bringing to the Elephant & Castle. The CGI image suggests that Lendlease's vision doesn't aim to include the likes of Jenny's Burgers or the Sundial Cafe.
 
+![](http://35percent.org/img/spiritofelephant.jpg)
+*Lendlease's new affordable retail units on Sayer Street nearing completion*
+
 ## A predictable debacle
 
 A relocation strategy that only to relocates half of those who need relocation is a failure by any measure, more so when that failure is entirely predictable.  Objectors, led by [Latin Elephant](https://latinelephant.org/), have consistently pointed out that Delancey's half-hearted and dilatory 'strategy' simply did not provide enough space to accommodate all the traders who wish to stay at the Elephant and this has remainded the case, even as the number of traders has inevitably changed over time.  
