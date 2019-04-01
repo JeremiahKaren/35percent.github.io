@@ -44,7 +44,7 @@ In the meantime, it's not too late to put a stop to this disastrous and inequita
 
 You can find out more about the legal challenge [here](http://35percent.org/uptheelephant/) and you can help fund our fight by donating [here](https://www.crowdjustice.com/case/stop-the-elephant-shopping-centre-destruction/).
 
-![](http://35percent.org/img/cj6990.png)
+![](http://35percent.org/img/cj7020.png)
 
 <meta name="twitter:card" content="summary" />
 <meta name="twitter:site" content="@35percent_EAN" />
