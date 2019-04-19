@@ -3,9 +3,7 @@ layout: post
 published: false
 title: Delancey deal double blow to shopping centre traders
 ---
-## Mice 
-
-Delancey deal double blow to shopping centre traders
+## Tesco leaves, bingo hall boarded
 
 Traders at the Elephant and Castle shopping centre were dealt a double blow last week, by the closure of Tesco’s and the erection of a large unsightly hoarding, isolating shops on the second floor.
 
