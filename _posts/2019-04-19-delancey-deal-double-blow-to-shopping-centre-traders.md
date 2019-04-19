@@ -25,8 +25,4 @@ Delancey are obliged by the terms of its legal s106 agreement to give 6-month no
 
 Southwark Council have [taken no action](https://www.london-se1.co.uk/news/view/9879), either to deal with the rodent problem or to force Delancey to abide faithfully by its s106 agreement .
 
-Local campaign Up the Elephant is seeking a judicial review of the planning approval for the redevelopment of the centre, for failing to provide enough social rented housing .
-
-
-
-Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
+35% Campaign is part of the Up the Elephant legal challange to the planning approval for the redevelopment of the centre, on the grounds that it fails to provide enough social rented housing.  If you would like to help us in our fight, you can [donate](https://www.crowdjustice.com/case/stop-the-elephant-shopping-centre-destruction/) to our funding appeal [here](https://www.crowdjustice.com/case/stop-the-elephant-shopping-centre-destruction/).
