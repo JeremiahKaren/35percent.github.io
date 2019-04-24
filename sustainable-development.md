@@ -88,7 +88,7 @@ Looking back we can see that the current proposals have departed significantly f
 
 
 ## 'Carbon Positive' Homes?
-The original regeneration plans proposed a [Multi-Utility Services Co.](http://www.london-se1.co.uk/news/view/2270) (MUSCo) renewable energy plant, which according to page 19 of the [Master Regeneration Plan](http://www.southwark.gov.uk/download/downloads/id/4889/elephant_and_castle_regeneration_agreement_appendix_6) would provide _"the generation of renewable energy"_ in a _"sustainable network of heat, water and telecoms"_ for all new developments at the Elephant. The MUSCo was going to generate 100% renewable energy from a biomass energy centre making the Elephant & Castle regeneration a 'zero carbon' development with 'carbon positive' homes.
+The original regeneration plans proposed a [Multi-Utility Services Co.](http://www.london-se1.co.uk/news/view/2270) (MUSCo) renewable energy plant, which according to page 19 of the [Master Regeneration Plan](https://www.southwark.gov.uk/assets/attach/1814/Elephant_and_Castle_Regeneration_Agreement_Appendix_6.pdf) would provide _"the generation of renewable energy"_ in a _"sustainable network of heat, water and telecoms"_ for all new developments at the Elephant. The MUSCo was going to generate 100% renewable energy from a biomass energy centre making the Elephant & Castle regeneration a 'zero carbon' development with 'carbon positive' homes.
 
 ![](http://crappistmartin.github.io/images/MuscoNetwork.png)
 

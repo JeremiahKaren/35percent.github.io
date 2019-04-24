@@ -251,7 +251,7 @@ Ethnic (BAME) backgrounds use the facility, and its loss could result in adverse
 
 ![](/img/palacebingo.jpg)
 
-In Palace Bingo's [response to this](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!mlQECLDoZucrky0D%2fJLzhw%3d%3d!%7d%7d%7d) it said: _"At the time of publishing the report and your Cabinet meeting there had been no dialogue[with Delancey], and subsequent discussions have not been meaningful or substantive thus far."_ It is understood that there is still no agreement between Delancey and Palace Bingo to incorporate it into the redeveloped scheme.
+In Palace Bingo's [response to this](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!mlQECLDoZucrky0D%2fJLzhw%3d%3d!%7d%7d%7d) it said: _"At the time of publishing the report and your Cabinet meeting there had been no dialogue[with Delancey], and subsequent discussions have not been meaningful or substantive thus far."_ In March 2019 the Bingo Hall closed and the operator has no plans to return to the redeveloped centre.
 
 ## Transport
 Transport for London's [initial response to the scheme](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!eFbtnvDjhOiqL4IpxHg%2f%2fw%3d%3d!%7d%7d%7d){:target="_blank"} outlined a number of significant transport issues that needed to be resolved. One of these was the access route for service vehicles to the new shopping centre, which was originally going to be provided by an underground tunnel from Delancey's neighbouring [Elephant One](/tribeca-square) (formerly Tribeca Square) development. Indeed, Delancey's [viability assessment](http://crappistmartin.github.io/images/Delancey_Tribeca_ViabilityAssessment.pdf) for Elephant One argued that the ramp for the underground tunnel would cost £12.5m and the development could therefore not viably provide ANY affordable housing. The council accepted the argument and even [signed over land](/img/DelanceyEadon_MarketSquare_Agreement.pdf) to Delancey's shell company (Eadon Ltd), in order to build the underground access tunnel. However, Delancey's planning application now says that it wants to use a different, direct access route off New Kent Road instead. TFL says that this will cause congestion for buses and affect safe passage across the new pedestrian routes.
@@ -281,6 +281,16 @@ The [S106 legal agreement](/img/ShoppingCentreS106.pdf) shows that the entire pu
 
 ![](/img/scpublicrealm.jpg)
 *Extract from the [S106 legal agreement](/img/ShoppingCentreS106.pdf) showing new public realm*
+
+
+## Renewable Energy
+The original regeneration plans proposed a [Multi-Utility Services Co.](http://www.london-se1.co.uk/news/view/2270) (MUSCo) renewable energy plant, which was [supposed](https://www.southwark.gov.uk/assets/attach/1814/Elephant_and_Castle_Regeneration_Agreement_Appendix_6.pdf) to provide _"the generation of renewable energy"_ in a _"sustainable network of heat, water and telecoms"_ for all new developments at the Elephant. The MUSCo was going to generate 100% renewable energy from a biomass energy centre making the Elephant & Castle regeneration a 'zero carbon' development with 'carbon positive' homes.
+
+![](http://crappistmartin.github.io/images/MuscoNetwork.png)
+
+The MUSCo was also [going to supply](http://moderngov.southwark.gov.uk/mgConvert2PDF.aspx?ID=16241) the new Aylesbury estate development and the existing Salisbury and Newington housing estates, making it the [largest biomass-fuelled district heating network](/images/muscoarea.png) in London. The plans were so cutting edge that they were [praised](http://news.bbc.co.uk/1/hi/england/london/8056859.stm) by Bill Clinton and [included](http://www.london-se1.co.uk/news/view/6032) in the [C40 Climate Positive Development Programme](https://en.wikipedia.org/wiki/Climate_Positive_Development_Program)._ However, the plans have been dropped because the costs were too high. The scheme had become a _'fairy tale fantasy'_ [according](http://www.london-se1.co.uk/news/view/5052) to the Council's own cabinet member for regeneration. Now, instead the Elephant & Castle shopping centre/UAL development will [provide just 35 solar panels](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!ocfCH8IZNlNKf8lwnyuxDQ%3d%3d!%7d%7d%7d) representing a measly 1% renewable energy. This falls well short, not just of the Council's zero carbon policy for the Elephant & Castle but also its borough-wide policy requiring a minimum 20% renewable energy for all new major schemes. 
+
+![](/img/scpv.png)
 
 ## Legal Challenge
 We are helping to [crowdfund a legal challenge](https://www.crowdjustice.com/case/stop-the-elephant-shopping-centre-destruction/) to Delancey's plans, which seeks to quash the planning consent and send these inequitable plans back to the drawing board until a scheme comes forward that provides new homes and shops that are truly affordable for local people.
