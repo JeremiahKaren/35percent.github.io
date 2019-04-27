@@ -14,7 +14,6 @@ The 8-foot high boards surround the bottom of the escalator to the Palaces Bingo
 
 Traders were also rocked by Tesco’s announcement that it was permanently closing the Metro supermarket in the centre.  This follows four weeks of closure, to deal with a mice problem. 
 
-![](http://35percent.org/img/tescoclosed.jpg)
 
 Local news website, SE1, [reported Tesco](https://www.london-se1.co.uk/news/view/9903) as saying _"We have today announced to colleagues that we have taken the difficult decision to close our Elephant & Castle Metro store”_.  An [earlier announcement](https://www.london-se1.co.uk/news/view/9879) had said that the store was only _“temporarily closed"_ while Tesco worked with Delancey and _“a specialist pest control company to take urgent steps to deal with this problem”_. 
 
@@ -29,5 +28,3 @@ Delancey are obliged by the terms of its legal s106 agreement to give 6-month no
 Southwark Council have [taken no action](https://www.london-se1.co.uk/news/view/9879), either to deal with the rodent problem or to force Delancey to abide faithfully by its s106 agreement .
 
 35% Campaign is part of the [Up the Elephant](http://35percent.org/uptheelephant/) legal challange to the planning approval for the redevelopment of the centre, on the grounds that it fails to provide enough social rented housing.  If you would like to help us in our fight, you can [donate](https://www.crowdjustice.com/case/stop-the-elephant-shopping-centre-destruction/) to our funding appeal [here](https://www.crowdjustice.com/case/stop-the-elephant-shopping-centre-destruction/).
-
-
