@@ -7,7 +7,7 @@ published: false
 
 ## Heygate estate - the endgame
 
-the submission of detailed planning application for last phase of Elephant Park has been submitted and the [planning documents](http://35percent.org/img/epupdatedahstrategy.pdf) show that of the 424 homes proposed in this phase (220 more than were originally approved), just 15 will be social rent.
+the submission of detailed planning application for last phase of Elephant Park has been [submitted](http://planbuild.southwark.gov.uk/documents/?casereference=19/AP/1166&system=DC) and the [planning documents](http://35percent.org/img/epupdatedahstrategy.pdf) show that of the 424 homes proposed in this phase (220 more than were originally approved), just 15 will be social rent.
 
 MP5 fifth and final phase.
  
