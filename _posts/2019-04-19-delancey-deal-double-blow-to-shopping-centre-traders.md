@@ -5,7 +5,7 @@ title: Delancey deal double blow to shopping centre traders
 ---
 Back in 2013 when the controversial Heygate redevelopment was approved, a promise was made to the planning committee that the redeveloped estate (now 'Elephant Park') would provide affordable retail space for traders displaced from the demolition of the shopping centre. This promise was enshrined in the S106 legal agreement signed with developer Lendlease:
 
-![](http://35percent.org/img/eparks106ar.jpg)
+![](http://35percent.org/img/eparks106ar.png)
 
 Last week we revealed that no shopping centre traders have been allocated any of the 8 completed units at Elephant Park. Now we can reveal that at least 3 shopping centre traders have applied and been rejected - Miko's restaurant, JZ Mobile and Pricebusters.
 
@@ -14,12 +14,16 @@ Last week we revealed that no shopping centre traders have been allocated any of
 No doubt Lendlease doesn't want the likes of these low-brow shops sullying its posh new development. 
 
 ## Tesco leaves, bingo hall boarded
-
+ 
 Traders at the Elephant and Castle shopping centre were dealt a double blow last week, by the closure of Tesco’s and the erection of a large unsightly hoarding, isolating shops on the second floor.
+
+![](http://35percent.org/img/schoarding.jpg)
 
 The 8-foot high boards surround the bottom of the escalator to the Palaces Bingo and Bowling Hall, which has now closed.  Delancey claim it is necessary to prevent children getting onto the escalator and becoming a site for anti-social behaviour.  Traders, however, have demanded its removal, saying it is blighting their trade and customers will assume that the centre is closing.
 
 Traders were also rocked by Tesco’s announcement that it was permanently closing the Metro supermarket in the centre.  This follows four weeks of closure, to deal with a mice problem. 
+
+![](http://35percent.org/img/tescoclosed.jpg)
 
 Local news website, SE1, [reported Tesco](https://www.london-se1.co.uk/news/view/9903) as saying _"We have today announced to colleagues that we have taken the difficult decision to close our Elephant & Castle Metro store”_.  An [earlier announcement](https://www.london-se1.co.uk/news/view/9879) had said that the store was only _“temporarily closed"_ while Tesco worked with Delancey and _“a specialist pest control company to take urgent steps to deal with this problem”_. 
 
