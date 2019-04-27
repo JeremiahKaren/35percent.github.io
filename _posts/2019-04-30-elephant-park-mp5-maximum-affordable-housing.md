@@ -1,10 +1,19 @@
 ---
 layout: post
-title: "Last phase of Heyate redevelopment proposes just 15 social rented homes"
-subtitle: "Lendlease exceeds number of homes approved"
+title: Last phase of Heyate redevelopment proposes just 15 social rented homes
+subtitle: Lendlease exceeds number of homes approved
 published: false
 ---
-Last and final phase of Elephant Park has been submitted and the [planning documents](http://35percent.org/img/epupdatedahstrategy.pdf) show that of the 424 homes proposed in this phase (220 more than were originally approved), just 15 will be social rent.
+
+## Heygate estate - the endgame
+
+the submission of detailed planning application for last phase of Elephant Park has been submitted and the [planning documents](http://35percent.org/img/epupdatedahstrategy.pdf) show that of the 424 homes proposed in this phase (220 more than were originally approved), just 15 will be social rent.
+
+MP5 fifth and final phase.
+ 
+ The redevelopment of the Heygate estate is entering the its final stages, with
+
+
 
 ![](http://35percent.org/img/epark92socialrent.jpg)
 
