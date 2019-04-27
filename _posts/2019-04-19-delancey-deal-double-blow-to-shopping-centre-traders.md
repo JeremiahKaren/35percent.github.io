@@ -14,7 +14,6 @@ The 8-foot high boards surround the bottom of the escalator to the Palaces Bingo
 
 Traders were also rocked by Tesco’s announcement that it was permanently closing the Metro supermarket in the centre.  This follows four weeks of closure, to deal with a mice problem. 
 
-
 Local news website, SE1, [reported Tesco](https://www.london-se1.co.uk/news/view/9903) as saying _"We have today announced to colleagues that we have taken the difficult decision to close our Elephant & Castle Metro store”_.  An [earlier announcement](https://www.london-se1.co.uk/news/view/9879) had said that the store was only _“temporarily closed"_ while Tesco worked with Delancey and _“a specialist pest control company to take urgent steps to deal with this problem”_. 
 
 Both these events will reduce the ‘footfall’ in the centre, which smaller traders rely on for their custom and the responsibility lies squarely with shopping centre owner and developer Delancey.
