@@ -4,8 +4,6 @@ published: false
 title: Delancey deal double blow to shopping centre traders
 ---
 
-
-
 ## Tesco leaves, bingo hall boarded
  
 Traders at the Elephant and Castle shopping centre were dealt a double blow last week, by the closure of Tesco’s and the erection of a large unsightly hoarding, isolating shops on the second floor.
@@ -32,13 +30,4 @@ Southwark Council have [taken no action](https://www.london-se1.co.uk/news/view/
 
 35% Campaign is part of the [Up the Elephant](http://35percent.org/uptheelephant/) legal challange to the planning approval for the redevelopment of the centre, on the grounds that it fails to provide enough social rented housing.  If you would like to help us in our fight, you can [donate](https://www.crowdjustice.com/case/stop-the-elephant-shopping-centre-destruction/) to our funding appeal [here](https://www.crowdjustice.com/case/stop-the-elephant-shopping-centre-destruction/).
 
-Back in 2013 when the controversial Heygate redevelopment was approved, a promise was made to the planning committee that the redeveloped estate (now 'Elephant Park') would provide affordable retail space for traders displaced from the demolition of the shopping centre. This promise was enshrined in the S106 legal agreement signed with developer Lendlease:
-
-![](http://35percent.org/img/eparks106ar.png)
-
-Last week we revealed that no shopping centre traders have been allocated any of the 8 completed units at Elephant Park. Now we can reveal that at least 3 shopping centre traders have applied and been rejected - Miko's restaurant, JZ Mobile and Pricebusters.
-
-![](http://35percent.org/img/mikojzpricebusters.jpg)
-
-No doubt Lendlease doesn't want the likes of these low-brow shops sullying its posh new development. 
 
