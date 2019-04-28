@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true 
 title: Delancey deal double blow to shopping centre traders
 ---
 
