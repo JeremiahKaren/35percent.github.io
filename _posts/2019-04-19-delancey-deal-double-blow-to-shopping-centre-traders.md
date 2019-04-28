@@ -35,9 +35,7 @@ We think that it cannot be beyond Tesco's resources to solve this problem and So
 
 
 
-![Tescos Tweet Image (003).png]({{site.baseurl}}/img/Tescos Tweet Image (003).png)
-
-
+![]({{site.baseurl}}/img/Tescos%20Tweet%20Image%20(003).png)
 
 
 
