@@ -39,4 +39,4 @@ We think that it cannot be beyond Tesco's resources to solve this problem and So
 
 35% Campaign is part of the [Up the Elephant](http://35percent.org/uptheelephant/) legal challange to the planning approval for the redevelopment of the centre, on the grounds that it fails to provide enough social rented housing.  If you would like to help us in our fight, you can [donate](https://www.crowdjustice.com/case/stop-the-elephant-shopping-centre-destruction/) to our funding appeal [here](https://www.crowdjustice.com/case/stop-the-elephant-shopping-centre-destruction/).
 
-
+![](http://35percent.org/img/cj7500.png)
