@@ -1,6 +1,6 @@
 ---
 layout: post
-published: true 
+published: true
 title: Delancey deal double blow to shopping centre traders
 ---
 
@@ -31,7 +31,7 @@ Southwark Council have [taken no action](https://www.london-se1.co.uk/news/view/
 
 ## Petition - Keep Tesco at the Elephant!
 
-We think that it cannot be beyond Tesco's resources to solve this problem and Southwark Council should be insisting that it does so, not standing idly by.  The Up the Elephant Campaign has started a petition, 'Keep Tesco at the Elephant!- please sign it and share! 
+We think that it cannot be beyond Tesco's resources to solve this problem and Southwark Council should be insisting that it does so, not standing idly by.  The Up the Elephant Campaign has started [a petition, 'Keep Tesco at the Elephant!](http://chng.it/hj5r6BmNwL)- please sign it and share! 
 
 ![Tescos_Tweet_Image_(003).png]({{site.baseurl}}/img/Tescos_Tweet_Image_(003).png)
 
