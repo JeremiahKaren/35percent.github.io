@@ -6,7 +6,7 @@ title: Delancey deal double blow to shopping centre traders
 
 ## Tesco leaves, bingo hall boarded
  
-Traders at the Elephant and Castle shopping centre were dealt a double blow last week, by the closure of Tesco’s and the erection of a large unsightly hoarding, isolating shops on the second floor.
+Traders at the Elephant and Castle shopping centre were dealt a double blow last week, by the closure of Tesco and the erection of a large unsightly hoarding, isolating shops on the second floor.
 
 ![](http://35percent.org/img/schoarding.jpg)
 
@@ -33,12 +33,10 @@ Southwark Council have [taken no action](https://www.london-se1.co.uk/news/view/
 
 We think that it cannot be beyond Tesco's resources to solve this problem and Southwark Council should be insisting that it does so, not standing idly by.  The Up the Elephant Campaign has started a petition, 'Keep Tesco at the Elephant!- please sign it and share! 
 
-![Tescos Tweet Image.png]({{site.baseurl}}/img/Tescos Tweet Image.png)
-
+![Tescos_Tweet_Image_(003).png]({{site.baseurl}}/img/Tescos_Tweet_Image_(003).png)
 
 ## Save the Elephant's Diverse Community!
 
 35% Campaign is part of the [Up the Elephant](http://35percent.org/uptheelephant/) legal challange to the planning approval for the redevelopment of the centre, on the grounds that it fails to provide enough social rented housing.  If you would like to help us in our fight, you can [donate](https://www.crowdjustice.com/case/stop-the-elephant-shopping-centre-destruction/) to our funding appeal [here](https://www.crowdjustice.com/case/stop-the-elephant-shopping-centre-destruction/).
 
-![Tescos_Tweet_Image_(003).png]({{site.baseurl}}/img/Tescos_Tweet_Image_(003).png)
 
