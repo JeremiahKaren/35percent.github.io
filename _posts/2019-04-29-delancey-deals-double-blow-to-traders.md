@@ -33,7 +33,7 @@ Southwark Council have [taken no action](https://www.london-se1.co.uk/news/view/
 
 We think that it cannot be beyond Tesco's resources to solve this problem and Southwark Council should be insisting that it does so, not standing idly by.  The Up the Elephant Campaign has started [a petition, 'Keep Tesco at the Elephant!](http://chng.it/hj5r6BmNwL) - please [sign it and share!](http://chng.it/hj5r6BmNwL) 
 
-![Tescos_Tweet_Image_(003).png]({{site.baseurl}}/img/Tescos_Tweet_Image_(003).png)
+![Tescos_Tweet_Image](http://35percent.org/img/Tescos_Tweet_Image003.png)
 
 ## Save the Elephant's Diverse Community!
 
