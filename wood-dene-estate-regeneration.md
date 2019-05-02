@@ -50,6 +50,10 @@ Paragraph 1.16.6 of the Regneneration Agreement also caps any CIL charges payabl
 
 The Regeneration agreement also enables the counting of kitchens over 11m2 as habitable rooms.
 
+As of April 2019, the scheme is finally reaching completion after a long delay. The hoarding notice on the site says that the measly 54 replacement 'social' homes will be 'affordable rent'. This is unsurprising given that Notting Hill Housing Association [pulled the same tenure switch](http://35percent.org/2015-03-18-stand-up-for-more-social-housing/) at the Bermondsey Spa regeneration. This substitution of social rent for 'affordable rent' of up to 80% market rent is an ongoing problem in Southwark, which the Council is [turning a blind eye to](/redefining-social-rent).
+
+![](/img/wooddenehoarding.jpg)
+
 ![](/img/wood_dene.jpg)
 
 ![](/img/wooddenephoto.jpg)
