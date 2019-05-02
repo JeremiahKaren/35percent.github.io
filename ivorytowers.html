@@ -6,7 +6,8 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
 
-  <title>The Southwark Clearances</title>
+  <title>Elephant & Castle Regeneration</title>
+  <subtitle>Tenure mix breakdown</subtitle>
 
   <meta name="author" content="Elephant Amenity Network" />
 
@@ -36,9 +37,9 @@
     
       <link rel="stylesheet" href="//fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800" />
   <!-- Facebook OpenGraph tags -->
-  <meta property="og:title" content="The Southwark Clearances" />
+  <meta property="og:title" content="E&C regeneration" />
   <meta property="og:type" content="website" />
-  <meta property="og:url" content="http://35percent.org/the-southwark-clearances/" />
+  <meta property="og:url" content="http://35percent.org/ivorytowers.html/" />
   <meta property="og:image" content="http://35percent.org/img/epicregeneration3.png" />
 </head>
 
@@ -164,7 +165,7 @@
 
 	<script src="https://unpkg.com/leaflet@1.3.4/dist/leaflet.js"></script>
 	<script>
-		var map = L.map('map').setView([51.494848, -0.096676], 15);
+		var map = L.map('map').setView([51.494848, -0.096676], 17);
 
 		L.tileLayer(CM_URL, {attribution: CM_ATTR, styleId: 22677}).addTo(map);
 
@@ -179,23 +180,24 @@
 			}
 		});
 
-		var greenIcon = new LeafIcon({iconUrl: '/images/tribeca.png'}),
-			redIcon = new LeafIcon({iconUrl: '/images/heygate.png'}),
-			strataIcon = new LeafIcon({iconUrl: '/images/strata.png'}),
-			towerIcon = new LeafIcon({iconUrl: '/images/360tower.png'}),
-			eileenIcon = new LeafIcon({iconUrl: '/images/eileen.png'}),
-			orangeIcon = new LeafIcon({iconUrl: '/images/onetheelephant.png'});
+		var greenIcon = new LeafIcon({iconUrl: 'http://crappistmartin.github.io/images/tribeca.png'}),
+			redIcon = new LeafIcon({iconUrl: 'http://crappistmartin.github.io/images/heygate.png'}),
+			strataIcon = new LeafIcon({iconUrl: 'http://crappistmartin.github.io/images/strata.png'}),
+			towerIcon = new LeafIcon({iconUrl: 'http://crappistmartin.github.io/images/360tower.png'}),
+			eileenIcon = new LeafIcon({iconUrl: 'http://crappistmartin.github.io/images/eileen.png'}),
+			orangeIcon = new LeafIcon({iconUrl: 'http://crappistmartin.github.io/images/onetheelephant.png'});
        
-	    L.marker([51.492069, -0.100023], {icon: strataIcon}).bindPopup('<strong><i>Strata Tower</strong></i></br>Private__________408</br>Intermediate______98</br>Social rented______0</br><a href="http://www.24dash.com/news/housing/2010-10-14-strata-inside-the-marmite-tower#.U0hLWV5RTLQ">Read more..</a>').addTo(map);
-		L.marker([51.497199, -0.100002], {icon: eileenIcon}).bindPopup('<strong><i>Eileen House</strong></i></br>Private________335</br>Intermediate____65</br>Social rented____0</br><a href="http://www.london-se1.co.uk/news/view/6553">Read more..</a>').addTo(map);
+	    L.marker([51.492069, -0.100023], {icon: strataIcon}).bindPopup('<strong><i>Strata Tower</strong></i></br>Private__________408</br>Intermediate______98</br>Social rented______0</br><a href="http://35percent.org/strata-tower">Read more..</a>').addTo(map);
+
+		L.marker([51.497199, -0.100002], {icon: eileenIcon}).bindPopup('<strong><i>Eileen House</strong></i></br>Private________335</br>Intermediate____65</br>Social rented____0</br><a href="http://35percent.org/eileen-house">Read more..</a>').addTo(map);
 		
-		L.marker([51.492724, -0.103564], {icon: towerIcon}).bindPopup('<strong><i>360 Tower</strong></i></br>Private_________462</br>Intermediate____188</br>Social rented_____0</br><a href="http://www.35percent.org/blog/2013/08/10/towering-disgrace">Read more..</a>').addTo(map);  
+		L.marker([51.492724, -0.103564], {icon: towerIcon}).bindPopup('<strong><i>360 Tower</strong></i></br>Private_________462</br>Intermediate____188</br>Social rented_____0</br><a href="http://www.35percent.org/london-360-tower">Read more..</a>').addTo(map);  
 		  
-		L.marker([51.494260, -0.097148], {icon: greenIcon}).bindPopup('<strong><i>Tribeca Square</strong></i></br>Private_________534</br>Intermediate_____0</br>Social rented____0</br><a href="http://www.35percent.org/blog/2013/12/07/kim-humphreys-exit-stage-left">Read more..</a>').addTo(map);
+		L.marker([51.494260, -0.097148], {icon: greenIcon}).bindPopup('<strong><i>Tribeca Square</strong></i></br>Private_________534</br>Intermediate_____0</br>Social rented____0</br><a href="http://www.35percent.org/tribeca-square">Read more..</a>').addTo(map);
 		
-		L.marker([51.493479, -0.098264], {icon: redIcon}).bindPopup('<strong><i>Heygate Development</strong></i></br>Private___________2535</br>Intermediate_______508</br>Social rented_______79</br><a href="http://www.newstatesman.com/politics/2013/11/look-heygate-estate-whats-wrong-londons-housing">Read more..</a>').addTo(map);
+		L.marker([51.493479, -0.098264], {icon: redIcon}).bindPopup('<strong><i>Heygate Development</strong></i></br>Private___________2689</br>Intermediate_______508</br>Social rented_______92</br><a href="http://35percent.org/heygate-regeneration-faq">Read more..</a>').addTo(map);
 		
-		L.marker([51.493579, -0.101321], {icon: orangeIcon}).bindPopup('<strong><i>One the Elephant</strong></i></br>Private________487</br>Intermediate_____0</br>Social rented____0</br><a href="http://www.35percent.org/blog/2014/01/11/flogging-the-elephant">Read more..</a>').addTo(map);
+		L.marker([51.493579, -0.101321], {icon: orangeIcon}).bindPopup('<strong><i>One the Elephant</strong></i></br>Private________487</br>Intermediate_____0</br>Social rented____0</br><a href="http://www.35percent.org/one-the-elephant">Read more..</a>').addTo(map);
 
 	</script>
 </body>
