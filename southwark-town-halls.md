@@ -5,8 +5,8 @@ sharing: true
 footer: true
 published: true
 ---
-## Peckham Town Hall
-Peckham Town Hall served as Southwark's civic centre for all its meetings and core administrative functions for nearly half a century. In December 2014, Southwark's Labour administration [sold it](https://www.southwarknews.co.uk/news/town-halls-residence-students-move-former-southwark-town-hall-peckham/) [to a Jersey-based developer (Alumno Developments)](http://crappistmartin.github.io/images/LR_PeckhamTownHall.pdf). 
+## Camberwell Town Hall
+Camberwell Town Hall served as Southwark's civic centre for all its meetings and core administrative functions for nearly half a century. In December 2014, Southwark's Labour administration [sold it](https://www.southwarknews.co.uk/news/town-halls-residence-students-move-former-southwark-town-hall-peckham/) [to a Jersey-based developer (Alumno Developments)](http://crappistmartin.github.io/images/LR_PeckhamTownHall.pdf). 
 
 ![](http://crappistmartin.github.io/images/PeckhamTownHall.jpg)
 
