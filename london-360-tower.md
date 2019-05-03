@@ -28,6 +28,8 @@ In summary, £63m in public funds is being spent to build 278 private rented apa
 
 The base of the tower will also include a small performance space for [Southwark Playhouse](http://southwarkplayhouse.co.uk/).
 
+In October 2017, Southwark Council [resolved](http://moderngov.southwark.gov.uk/documents/s71644/Report%20Acquisition%20of%20Affordable%20Housing%20at%20Longville%20Road%20SE11.pdf) to purchase 115 of the 'affordable' units in the block at the base of the tower to convert into new 'council homes' as part of its [failing manifesto pledge](http://35percent.org/2018-11-12-11000-council-homes-manifesto-pledge/). This [Cabinet report](http://moderngov.southwark.gov.uk/documents/s71644/Report%20Acquisition%20of%20Affordable%20Housing%20at%20Longville%20Road%20SE11.pdf) confirms that two thirds of the 115 homes don't meet the Council's minimum internal space standards and that the sum paid for the 115 units remains confidential.
+
 __Footnotes:__
 
 [^1]: See paragraph 8.4 on [pages 93 & 94](/images/Nov2003SPD_CPO_Powers.pdf) of the council's [2004 Elephant & Castle Supplementary Planning Guidance](http://www.scribd.com/doc/82420796/Southwark-Council-2004-Development-Framework)
