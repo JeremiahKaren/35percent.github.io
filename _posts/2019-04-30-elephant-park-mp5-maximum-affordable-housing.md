@@ -27,6 +27,20 @@ But it did say that that should it become available then there would be a revise
 
 ![](http://35percent.org/img/gfunding2.png)
 
+## How planning works - nearly 400 more homes, but less affordable.
+
+When the planning committee approved the Heygate estate's redevelopment back in 2013 it thought it was approving a scheme of _'between 2,300(min) and 2,469(max)residential units_'.  It also thought it was approving a minimum of 570 affordable homes, the 'indicative figure', given in an [addendum report](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!Q7K%2bVQ5GwV3kVWHHRXBCqg%3d%3d!%7d%7d%7d) (footnote; corrected from 574, para 163 [Officer's report](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!swSywGCW3zgzV1miHXgXSg%3d%3d!%7d%7d%7d).
+
+In fact, nearly 400 **more** homes will be built, taking the total to 2,689, but with **fewer** affordable homes, according to planning documents, submitted by developer Lendlease for the last phase of the Heygate redevelopment (now known as Elephant Park). 
+
+The new figures are in the [updated affordable housing strategy](http://planbuild.southwark.gov.uk/documents/?casereference=19/AP/1166&system=DC) for the [detailed planning application](https://planning.southwark.gov.uk/online-applications/applicationDetails.do?activeTab=externalDocuments&keyVal=_STHWR_DCAPR_9582742) for plot H7, phase MP5.  This gives an anticipated total of 2,689 residential units for the whole development, with 2,148 of these private, leaving 541 as affordable.  The affordable is broken down into 92 social rented, 167 affordable rent and 282 shared ownership. Table 7 to the 689 homes will now be built and while that is 389 more homes in total, only 541 will be affordable - thirty nine fewer than the planning committee was led to believe be eight more affordable homes rented according to the 
+
+In terms of units this just exceeds the amount of affordable housing due on the minimum delivery of 2,300 units
+
+This in ancrease of 389 units overt he minimum amount initially approved and by this measure 
+
+An [amendment](https://planning.southwark.gov.uk/online-applications/applicationDetails.do?activeTab=externalDocuments&keyVal=_STHWR_DCAPR_9580199) made back in Oct 2018 facilitated an increase of 220 more homes, over the maxiumum approved by the planning committee, 389 over the minimum approved.  When measured against the estimated amounts of affordable housing for the minimum approved 2300 homes  (including an estimated 19 more social rented units, but 27 fewer affordable rent at 50% market rent). [Documents 18AP3225](http://planbuild.southwark.gov.uk/documents/?casereference=18/AP/3225&system=DC)
+
 
 ## Viability Review
 The planning committee report also said that there would be viability reviews:
