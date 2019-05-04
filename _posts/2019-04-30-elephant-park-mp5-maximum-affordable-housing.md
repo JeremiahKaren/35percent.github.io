@@ -9,7 +9,7 @@ published: false
 
 the submission of detailed planning application for last phase of Elephant Park has been [submitted](http://planbuild.southwark.gov.uk/documents/?casereference=19/AP/1166&system=DC) and the [planning documents](http://35percent.org/img/epupdatedahstrategy.pdf) show that of the 424 homes proposed in this phase (220 more than were originally approved), just 15 will be social rent.
 
-MP5 fifth and final phase.
+MP5 fifth and final phase. It has two plots H1 and H7; application is being made to develope H7 with 424 units.  This is all the units for MP5 (Reserved matters affordable housing statement 19/AP/0025, Table 7); what's happening to H1?
  
  The redevelopment of the Heygate estate is entering the its final stages, with
 
