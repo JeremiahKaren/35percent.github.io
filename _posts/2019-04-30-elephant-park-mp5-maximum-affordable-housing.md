@@ -1,11 +1,11 @@
 ---
 layout: post
-title: Last phase of Heyate redevelopment reduces affordable housing
+title: Last phase of Heyate redevelopment reduces number of affordable homes
 subtitle: Lendlease exceeds number of homes approved
 published: false
 ---
 
-## At least 220 more homes, but less affordable.
+## At least 220 more homes, but fewer affordable.
 
 When the planning committee approved the Heygate estate's redevelopment back in 2013 it thought it was approving a scheme of _'between 2,300(min) and 2,469(max) residential units_'.  It also thought it was approving a minimum of 570 affordable homes, the 'indicative figure', given in an [addendum report](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!Q7K%2bVQ5GwV3kVWHHRXBCqg%3d%3d!%7d%7d%7d) (footnote; corrected from 574, para 163 [Officer's report](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!swSywGCW3zgzV1miHXgXSg%3d%3d!%7d%7d%7d).
 
@@ -18,7 +18,11 @@ The new figures are in the [updated affordable housing strategy](http://planbuil
 
 An [amendment](https://planning.southwark.gov.uk/online-applications/applicationDetails.do?activeTab=externalDocuments&keyVal=_STHWR_DCAPR_9580199) made back in Nov 2018 facilitated these changes.  This changed the way the amount of residential space was calculated by [replacing the minimum and maximum figures for residential units](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!s8fyBoziHiy%2fr1TPdwL8eQ%3d%3d!%7d%7d%7d) with floorspace figures. The floorspae figures, remained the same as those [approved by the planning committee](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!hgyBVuEH%2b8BxXry2bGRAtA%3d%3d!%7d%7d%7d)(para 81- 160,579sqm GEA (min) and 254,400sqm GEA (max)), but removing the unit figures allowed Lendlease to build more homes within the maximum space allowed.  
 
-The amount of affordable housing itself is measured by habitable room, not units, and by using this method Lendlease is able to achieve the percentages [Documents 18AP3225](http://planbuild.southwark.gov.uk/documents/?casereference=18/AP/3225&system=DC)
+Notwithstanding Lendlease's failure to deliver the number of of affordable homes the planning committee approved it is nonetheless able to say it is meeting the planning approval requirement of 25% affordable housing, half rented, half shared-ownership.  This is because the the amount of affordable housing itself is measured by habitable room, not units and there is a relatively greater number of larger affordable housing rented units (OR para 166) and on this basis Lendlease is able to [claim it is delivering 25.8% affordable housing](http://planbuild.southwark.gov.uk/documents/?casereference=19/AP/1166&system=DC), in almost the correct proportions, between rent and shared ownership (footnote - Table 8).
+
+
+
+[Documents 18AP3225] (http://planbuild.southwark.gov.uk/documents/?casereference=18/AP/3225&system=DC)
 
 ---------------------------------------------------------------------------------------------------------
 
