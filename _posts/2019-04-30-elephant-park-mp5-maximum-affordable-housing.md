@@ -13,7 +13,7 @@ In fact, at least 220 more homes will be built over the maximum, but with fewer 
 
 The new figures are in the [updated affordable housing strategy](http://planbuild.southwark.gov.uk/documents/?casereference=19/AP/1166&system=DC) for the [detailed planning application](https://planning.southwark.gov.uk/online-applications/applicationDetails.do?activeTab=externalDocuments&keyVal=_STHWR_DCAPR_9582742) for plot H7, phase MP5.  This new strategy gives an anticipated total of 2,689 residential units for the whole development, with 2,148 of these private, leaving 541 as affordable, thirty nine fewer than the committee was led to believe would be provided, if there was a maximum build-out.  The affordable housing is broken down into 92 social rented, 167 affordable rent and 282 shared ownership. (Table 7) 
 
-## How planning works in Southwark
+## How planning works
 
 
 An [amendment](https://planning.southwark.gov.uk/online-applications/applicationDetails.do?activeTab=externalDocuments&keyVal=_STHWR_DCAPR_9580199) made back in Nov 2018 facilitated the increase in the total number of homes.  This changed the way the amount of residential space was calculated by [replacing the minimum and maximum figures for residential units](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!s8fyBoziHiy%2fr1TPdwL8eQ%3d%3d!%7d%7d%7d) with floorspace figures. The floorspace figures remained the same as those [approved by the planning committee](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!hgyBVuEH%2b8BxXry2bGRAtA%3d%3d!%7d%7d%7d)(para 81- 160,579sqm GEA (min) and 254,400sqm GEA (max)), but by removing the unit figures the amendment enabled Lendlease to build more homes within the allowed floorspace.
