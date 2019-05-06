@@ -9,7 +9,7 @@ published: false
 
 The completion of the Heygate redevelopment is set to deliver more homes than were approved by Southwark's planning committee, but with fewer affordable homes.
 
-The figures are revealed in a [planning document](https://planning.southwark.gov.uk/online-applications/applicationDetails.do?activeTab=externalDocuments&keyVal=_STHWR_DCAPR_9582742) for the last phase of the redevelopment of what is now known as Elephant Park -  MP7. This phase is for 424 new homes, taking the total for the whole development to 2,689 homes. This is at least 220 more homes than the numbers agreed at the planning committee in November 2013, when Lendlease recieved planning permission for between 2,300 and 2,469 homes.
+The figures are revealed in a [planning document](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!Mz5nzvZX38X%2fWRNbT2Vd6A%3d%3d!%7d%7d%7d) for the last phase of the redevelopment of what is now known as Elephant Park -  MP7. This phase is for 424 new homes, taking the total for the whole development to 2,689 homes. This is at least 220 more homes than the numbers agreed at the planning committee in November 2013, when Lendlease recieved planning permission for between 2,300 and 2,469 homes.
 
 Despite this increase in the total planning documents show that despite the increase in the total, only 541 of these homes will be affordable - 29 fewer than the 570 promised.
 
