@@ -15,7 +15,7 @@ Despite this increase in the total number, only 541 of these homes will be affor
 
 The 'anticipated' figures for the total and affordable units are given in Table 7 of a [Reserved Matters Affordable Housing Strategy](http://35percent.org/img/epupdatedahstrategy.pdf) for the [Elephant Park - MP5 H7 Reserved Matters Application](https://planning.southwark.gov.uk/online-applications/applicationDetails.do?activeTab=externalDocuments&keyVal=_STHWR_DCAPR_9582742).  The figure for the 570 approved affordable homes was given on page 9 of the planning committee's [addendum report](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!Q7K%2bVQ5GwV3kVWHHRXBCqg%3d%3d!%7d%7d%7d), (which corrected a previous figure of [574](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!swSywGCW3zgzV1miHXgXSg%3d%3d!%7d%7d%7d)).  The addendum report said that 570 affordable homes would be delivered if the maximum number of new homes were built (screen shot).
 
-The proposed total units for MP5 itself for 424 new homes, with 352 private, leaving 102 as affordable, with 15 of these social rent.
+The proposed total units for MP5 will be on the final residential plot, H7, and is for 424 new homes, with 352 private, leaving 102 as affordable, with 15 of these social rent.
 
 
 ## How planning works
