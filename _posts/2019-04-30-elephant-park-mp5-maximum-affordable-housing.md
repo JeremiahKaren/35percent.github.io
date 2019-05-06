@@ -5,13 +5,13 @@ subtitle: Lendlease exceeds number of homes approved
 published: false
 ---
 
-## At least 220 more homes, but fewer affordable than agreed.
+## At least 220 more homes, but only .
 
-The completion of the Heygate redevelopment is set to deliver more homes than were approved by Southwark's planning committee, but fewer of them will be affordable homes.
+The completion of the Heygate redevelopment is set to deliver more homes than were approved by Southwark's planning committee, but only 92 will be social rented.
 
 Developer Lendlease 'anticipates' that the completed development, now known as Elephant Park, will total 2,689 homes.  This is at least 220 more homes than the numbers agreed at the planning committee in November 2013, when permission was given for between 2,300 and 2,469 homes.
 
-Despite this increase in the total number, only 541 of these homes will be affordable - 29 fewer than the 570 promised to the same planning committee.  The affordable housing is broken down into 92 social rented, 167 affordable rent and 282 shared ownership.
+Despite this increase in the total number, only  of these homes will be affordable - .  The affordable housing is broken down into 92 social rented, 167 affordable rent and 282 shared ownership.
 
 The 'anticipated' figures for the total and affordable units are given in Table 7 of a [Reserved Matters Affordable Housing Strategy](http://35percent.org/img/epupdatedahstrategy.pdf) for the [Elephant Park - MP5 H7 Reserved Matters Application](https://planning.southwark.gov.uk/online-applications/applicationDetails.do?activeTab=externalDocuments&keyVal=_STHWR_DCAPR_9582742).  The figure for the 570 approved affordable homes was given on page 9 of the planning committee's [addendum report](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!Q7K%2bVQ5GwV3kVWHHRXBCqg%3d%3d!%7d%7d%7d), (which corrected a previous figure of [574](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!swSywGCW3zgzV1miHXgXSg%3d%3d!%7d%7d%7d)).  The addendum report said that 570 affordable homes would be delivered if the maximum number of new homes were built (screen shot).
 
