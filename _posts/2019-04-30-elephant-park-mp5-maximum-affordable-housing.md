@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Last phase of Heyate redevelopment reduces number of affordable homes
+title: Heyate redevelopment fails to deliver affordable homes
 subtitle: Lendlease exceeds number of homes approved
 published: false
 ---
