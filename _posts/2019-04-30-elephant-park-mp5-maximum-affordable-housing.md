@@ -9,11 +9,10 @@ published: false
 
 The completion of the Heygate redevelopment is set to deliver more homes than were approved by Southwark's planning committee, but with fewer affordable homes.
 
-The figures are revealed in a planning application for the last phase of the redevelopment of what is now known as Elephant Park -  MP7. This is for 424 new homes, taking the total for the whole development to 2,689 homes. This is at least 220 more homes than the numbers agreed at the planning committee in November 2013, when Lendlease recieved planning permission for between 2,300 and 2,469 homes.
+The figures are revealed in a [planning document](https://planning.southwark.gov.uk/online-applications/applicationDetails.do?activeTab=externalDocuments&keyVal=_STHWR_DCAPR_9582742) for the last phase of the redevelopment of what is now known as Elephant Park -  MP7. This phase is for 424 new homes, taking the total for the whole development to 2,689 homes. This is at least 220 more homes than the numbers agreed at the planning committee in November 2013, when Lendlease recieved planning permission for between 2,300 and 2,469 homes.
 
-Planning documents show that despite the increase only 541 of these homes will be affordable - 29 fewer than the 570 promised.
+Despite this increase in the total planning documents show that despite the increase in the total, only 541 of these homes will be affordable - 29 fewer than the 570 promised.
 
-MP7's new homes will include 102 affordable units, taking the total for the whole development to 541 - 29 less than that promised to the planning committee Developer Lendlease received plannni
 
 When the planning committee approved the Heygate estate's redevelopment back in 2013 it thought it was approving a scheme of _'between 2,300(min) and 2,469(max) residential units'_.  It also thought it was approving a minimum of 570 affordable homes, the 'indicative figure' given in an [addendum report](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!Q7K%2bVQ5GwV3kVWHHRXBCqg%3d%3d!%7d%7d%7d) (footnote; corrected from 574, para 163 [Officer's report](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!swSywGCW3zgzV1miHXgXSg%3d%3d!%7d%7d%7d).
 
@@ -75,3 +74,7 @@ Meanwhile, Southwark has had to purchase 600sqm of retail space from Lendlease (
 Any opportunity for shopping centre traders to object?
 
  ( an increase of 220 more homes, over the maxiumum approved by the planning committee, 389 over the minimum approved.  When measured against the estimated amounts of affordable housing for the minimum approved 2300 homes  (including an estimated 19 more social rented units, but 27 fewer affordable rent at 50% market rent)
+ 
+MP7's new homes will include 102 affordable units,
+
+Objection button
