@@ -116,7 +116,11 @@ __Footnotes:__
 [^3]: Elephant Park was designated as Public Open Space (ref:A20) in the borough's [Unitary Development Plan](http://crappistmartin.github.io/images/SouthwarkPlan_OpenSpaces.pdf)
 [^4]: See paragraph 52 of [this planning officer report](http://crappistmartin.github.io/images/CastleIndustrialEstateOR.pdf)
 
-
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:site" content="@35percent_EAN">
+<meta name="twitter:title" content="London's greenest new regeneration scheme">
+<meta name="twitter:description" content="The truth and facts hidden behind Lendlease's corporate PR spin.">
+<meta name="twitter:image" content="http://35percent.org/img/elephantparkcomparison.png">
 
 
 
