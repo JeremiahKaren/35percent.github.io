@@ -5,7 +5,6 @@ title: Southernwood Retail Park
 ---
 ![](http://35percent.org/img/southernwoodretailpark.jpg)
 
-## Public sector land requires 50% affordable housing
 [Land Registry deeds](35percent.org/lrdeeds/SouthernwoodRetailPark.pdf) show that Glasgow City Council as the owner behind the gigantic Southernwood Retail Park up for approval on xxxx.
 
 ![](http://35percent.org/img/SouthernwoodRetailParkdeeds.png)
@@ -15,6 +14,10 @@ This clearly invokes [Paragraph A(4) of Policy of H5 of the London Plan](https:/
 The planning committee report fudges the question of the higher threshold for public sector land:
 
 ![](http://35percent.org/img/southernwoodor.png)
+
+Grant funding hasn't been applied for. Bizzarely the viability assessment for the scheme claims that grant funding would make it less viable... 
+
+[](link)
 
 Former deputy Council leader turned development consultant has assisted by ['providing public affairs and stakeholder engagement services and arranging meetings with key stakeholders'](http://carvil-ventures.co.uk/southernwood-retail-park-old-kent-road). 
 
