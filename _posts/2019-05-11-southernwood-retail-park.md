@@ -6,7 +6,7 @@ title: Southernwood Retail Park
 ![](http://35percent.org/img/southernwoodretailpark.jpg)
 
 ## Public sector land requires 50% affordable housing
-Land Registry deeds](35percent.org/lrdeeds/SouthernwoodRetailPark.pdf) show that Glasgow City Council as the owner behind the gigantic Southernwood Retail Park up for approval on xxxx.
+[Land Registry deeds](35percent.org/lrdeeds/SouthernwoodRetailPark.pdf) show that Glasgow City Council as the owner behind the gigantic Southernwood Retail Park up for approval on xxxx.
 
 ![](http://35percent.org/img/SouthernwoodRetailParkdeeds.png)
 
