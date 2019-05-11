@@ -12,7 +12,7 @@ title: Southernwood Retail Park
 
 This clearly invokes [Paragraph A(4) of Policy of H5 of the London Plan](https://www.london.gov.uk/what-we-do/planning/london-plan/new-london-plan/draft-new-london-plan/chapter-4-housing/policy-h5-delivering-affordable-housing) which requires 'public sector land delivering at least 50 per cent affordable housing'.
 
-The planning committee report fudges this..
+The planning committee report fudges the question of the higher threshold for public sector land:
 
 ![](http://35percent.org/img/southernwoodor.png)
 
