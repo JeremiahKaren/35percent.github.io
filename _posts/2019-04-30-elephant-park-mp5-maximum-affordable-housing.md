@@ -20,6 +20,7 @@ The proposed total units for MP5 will be on the final residential plot, H7, and 
 
 ## How planning works
 
+Lendlease can claim that it is fulfilling its affordable housing obligations, despite not delivering the number of affordable homes promised at committee.  This is because of changes made since then to the planning approval.
 
 An [amendment](https://planning.southwark.gov.uk/online-applications/applicationDetails.do?activeTab=externalDocuments&keyVal=_STHWR_DCAPR_9580199) made back in Nov 2018 facilitated the increase in the total number of homes.  This changed the way the amount of residential space was calculated by [replacing the minimum and maximum figures for residential units](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!s8fyBoziHiy%2fr1TPdwL8eQ%3d%3d!%7d%7d%7d) with floorspace figures. The floorspace figures remained the same as those [approved by the planning committee](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!hgyBVuEH%2b8BxXry2bGRAtA%3d%3d!%7d%7d%7d)   (para 81- 160,579sqm GEA (min) and 254,400sqm GEA (max)), but by removing the unit figures the amendment enabled Lendlease to build more homes within the allowed floorspace.
 
