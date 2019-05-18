@@ -70,12 +70,7 @@ This is an application which must be decided by the planning committee.  It must
 
 The planning committee must refuse planning permission, unless Lendlease increases the total number of affordable homes, back to the indicative 570 the planning committee approved, plus 25% of the additional 220 units it has gained over the original maximum build.  This would give us a much-needed 84 affordable homes and half of these must be social rented, as Southwark's housing policy requires.
 
-Help You can OBJECT HERE 
-
-
-
-
-[Documents 18AP3225] (http://planbuild.southwark.gov.uk/documents/?casereference=18/AP/3225&system=DC)
+You can OBJECT HERE 
 
 ---------------------------------------------------------------------------------------------------------
 
