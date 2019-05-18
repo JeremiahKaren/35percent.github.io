@@ -64,7 +64,7 @@ Lendlease's detailed MP5 H7 application is almost the final chapter in the [rede
 
 It is now apparent that while Lendlease has fulfilled its reduced affordable housing obligation it has done so by delivering fewer affordable homes. Lendlease has also been granted a change in the permission that has allowed them to build many more units.  The upshot is that  Lendlease has nearly 250 more free-market homes to sell.
 
-Southwark, on the other hand, neglected to secure the number homes to be built and gave Lendlease the opportunity to build more, without getting amy improvement in the affordable housing situation. the to protect  to get tany benefit fron 
+Southwark, on the other hand, neglected to secure the number homes to be built and gave Lendlease the opportunity to build more, without getting amy improvement in the affordable housing situation. There also appears to have been no effort to take adantage of any public funding. 
 
 
 This has been achieved by clever variation of the original approval that allow the scheme to remain 'compliant' and without any referral back to the planning committee.
