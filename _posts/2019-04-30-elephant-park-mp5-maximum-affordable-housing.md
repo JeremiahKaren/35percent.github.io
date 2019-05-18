@@ -61,10 +61,6 @@ This came with the reassurance that should public funding become available, it c
 
 
 
-
-
-
-
 ## Overage
 
 ## Object to MP5
@@ -103,8 +99,6 @@ MP7's new homes will include 102 affordable units,
  But though this may explains the difference in percentage terms, it does not explain why the number of units is less than the planning committee expected.  The [officers report](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!swSywGCW3zgzV1miHXgXSg%3d%3d!%7d%7d%7d)) to the committee was aware that larger units meant a lower number would be affordable, but still gave a figure of 570
 
 the number of units can be below 25% this was taken into account (OR para 166).
-
-We can now see that by adding the increased maximum to fewer affordable units than expected  to the gained 249 more freemarket homes than the planning committee was led to believe would be built.  At a rough estimate, the value of these homes is £125m, a figure that obviously cannot have featured in the 2012 [viability assessment](http://crappistmartin.github.io/images/HeygateViabilityAssessment_MainReport.pdf).  This was conducted on the basis of 2,462 units, not the amended increase to 2,689 units (screenshot development description) and determined that the scheme could not provide a policy compliant 35% affordable housing and that only a very small fraction of this could be social rented.  No new viability assessment taking this into account was submitted when Lendlease applied to [change how the amount of affordable housing was calculated](http://planbuild.southwark.gov.uk/documents/?casereference=18/AP/3225&system=DC).
 
 
 
