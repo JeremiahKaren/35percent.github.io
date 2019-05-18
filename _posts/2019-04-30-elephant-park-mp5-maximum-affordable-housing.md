@@ -25,13 +25,6 @@ Only 541 of these homes will be affordable, twenty-nine fewer than the indicativ
 
 The figures for the total and affordable units are given in planning documents for MP5, the final phase of the development - Table 7 of the [Reserved Matters Affordable Housing Strategy](http://35percent.org/img/epupdatedahstrategy.pdf) and Table 8.1 of the [Reconciliation Statement](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!ODWxL4QoZvkgXXbACxb5vg%3d%3d!%7d%7d%7d) for the [Elephant Park - MP5 H7 Reserved Matters Application](https://planning.southwark.gov.uk/online-applications/applicationDetails.do?activeTab=externalDocuments&keyVal=_STHWR_DCAPR_9582742).  The figure for the 570 approved affordable homes was given on page 9 of the planning committee's [addendum report](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!Q7K%2bVQ5GwV3kVWHHRXBCqg%3d%3d!%7d%7d%7d)   (correcting a previous figure of [574](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!swSywGCW3zgzV1miHXgXSg%3d%3d!%7d%7d%7d)) (screen shot).
 
-
-
-
-
-
-
-
 ## Southwark fail to secure housing numbers
 
 The increase in the total number of units on Elephant Park has been facilitated by an [amendment](https://planning.southwark.gov.uk/online-applications/applicationDetails.do?activeTab=externalDocuments&keyVal=_STHWR_DCAPR_9580199) to the original planning permission, made back in Nov 2018.  This changed the way the amount of residential space was calculated by [replacing the minimum and maximum figures for residential units](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!s8fyBoziHiy%2fr1TPdwL8eQ%3d%3d!%7d%7d%7d) with floorspace figures. The floorspace figures remained the same as those [approved by the planning committee](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!hgyBVuEH%2b8BxXry2bGRAtA%3d%3d!%7d%7d%7d)   (160,579sqm GEA (min) and 254,400sqm GEA (max)), but by removing the unit figures the amendment enabled Lendlease to build more homes within the allowed floorspace.
@@ -77,20 +70,3 @@ The planning committee must refuse planning permission, unless Lendlease increas
 
 You can OBJECT HERE. 
 
----------------------------------------------------------------------------------------------------------
-
-
-## Community Space
- Lendlease was required to build 1,000sqm of community space - this has been provided in the new 'energy centre' as a private creche.
-Meanwhile, Southwark has had to purchase 600sqm of retail space from Lendlease (for £6m) to use as a library.
-
-## Affordable retail strategy
-
-Any opportunity for shopping centre traders to object?
-
-
-
- 
-
-
-Objection button
