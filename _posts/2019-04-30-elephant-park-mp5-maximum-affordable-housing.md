@@ -64,7 +64,7 @@ It is now apparent that while Lendlease will fulfill its reduced affordable hous
 
 Southwark, on the other hand, neglected to secure the number of homes to be built and gave Lendlease the opportunity to build more, without getting any improvement in the affordable housing situation. There also appears to have been no effort to take advantage of any public funding. 
 
-This final Heygate application must be decided by the planning committee.  It must ask why we are getting fewer affordable housing units, while Lendlease are building more units in total.  It must also ask why there have been no viablity assessements or reviews since 2012 and what has been done to improve the affordable housing.
+This final Heygate application must be decided by the planning committee.  It must ask why we are getting fewer affordable housing units than it was told tp expect, while Lendlease are building more units in total.  It must also ask why there have been no viablity assessements or reviews since 2012 and what has been done to improve the affordable housing.
 
 The planning committee must refuse planning permission, unless Lendlease increases the total number of affordable homes, back to the indicative 570 the planning committee approved, plus 25% of the additional 220 units it has gained over the original maximum build.  This would give us a much-needed 84 affordable homes and half of these must be social rented, as Southwark's housing policy requires.
 
