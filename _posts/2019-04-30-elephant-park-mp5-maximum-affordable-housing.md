@@ -28,6 +28,10 @@ This significant change was deemed 'non-material' (explain) and so was not refer
 
 Notwithstanding Lendlease's failure to deliver the number of affordable homes approved by the planning, it is nonetheless able to say it is meeting the planning approval requirement of 25% affordable housing, half rented, half shared-ownership.  This is because the the amount of affordable housing is measured by habitable room, not units and there is a relatively greater number of larger affordable housing rented units (OR para 166). On this basis Lendlease is able to [claim it is delivering 25.8% affordable housing](http://planbuild.southwark.gov.uk/documents/?casereference=19/AP/1166&system=DC), in almost the correct proportions, between rent and shared ownership (footnote - Table 8).
 
+## Conclusion
+
+When we add the increase of free market homes to the reduction in affordable homes we can see that Lendlease has gained 249 more freemarket homes than the planning committee was led to believe would be built. This has been achieved by clever variations of the original approval that allow the scheme to remain 'compliant' and without any referral back to the planning committee. At a rough estimate, the value of these homes is £125m, a figure that obviously cannot have featured in the 2012 [viability assessment](http://crappistmartin.github.io/images/HeygateViabilityAssessment_MainReport.pdf).  This was conducted on the basis of 2,462 units, not 2,689 and determined that the scheme could not provide a policy compliant 35% affordable housing and that only a very small fraction of this could be social rented.  No new viability assessment taking this into account was submitted when Lendlease applied to [change how the amount of affordable housing was calculated](http://planbuild.southwark.gov.uk/documents/?casereference=18/AP/3225&system=DC)
+
 
 
 [Documents 18AP3225] (http://planbuild.southwark.gov.uk/documents/?casereference=18/AP/3225&system=DC)
@@ -71,6 +75,8 @@ Meanwhile, Southwark has had to purchase 600sqm of retail space from Lendlease (
 ## Affordable retail strategy
 
 Any opportunity for shopping centre traders to object?
+
+
 
  ( an increase of 220 more homes, over the maxiumum approved by the planning committee, 389 over the minimum approved.  When measured against the estimated amounts of affordable housing for the minimum approved 2300 homes  (including an estimated 19 more social rented units, but 27 fewer affordable rent at 50% market rent)
  
