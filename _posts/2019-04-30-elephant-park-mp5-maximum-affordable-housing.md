@@ -40,11 +40,13 @@ These are undoubtedly welcome, but do mean that there is just 20% affordable hou
 
 ## Viability questions
 
-When we add the increase of free market homes to the reduction in affordable homes we can see that Lendlease has gained 249 more freemarket homes than the planning committee was led to believe would be built. This has been achieved by clever variation of the original approval that allow the scheme to remain 'compliant' and without any referral back to the planning committee. At a rough estimate, the value of these homes is £125m, a figure that obviously cannot have featured in the 2012 [viability assessment](http://crappistmartin.github.io/images/HeygateViabilityAssessment_MainReport.pdf).  This was conducted on the basis of 2,462 units, not 2,689, (screenshot) and determined that the scheme could not provide a policy compliant 35% affordable housing and that only a very small fraction of this could be social rented.  No new viability assessment taking this into account was submitted when Lendlease applied to [change how the amount of affordable housing was calculated](http://planbuild.southwark.gov.uk/documents/?casereference=18/AP/3225&system=DC).
+When we add the increase of free market homes to the reduction in affordable homes we can see that Lendlease has gained 249 more freemarket homes than the planning committee was led to believe would be built.  At a rough estimate, the value of these homes is £125m, a figure that obviously cannot have featured in the 2012 [viability assessment](http://crappistmartin.github.io/images/HeygateViabilityAssessment_MainReport.pdf).  This was conducted on the basis of 2,462 units, not 2,689, (screenshot) and determined that the scheme could not provide a policy compliant 35% affordable housing and that only a very small fraction of this could be social rented.  No new viability assessment taking this into account was submitted when Lendlease applied to [change how the amount of affordable housing was calculated](http://planbuild.southwark.gov.uk/documents/?casereference=18/AP/3225&system=DC).
 
 ## Overage
 
 ## Object to MP5
+
+This has been achieved by clever variation of the original approval that allow the scheme to remain 'compliant' and without any referral back to the planning committee.
 
 The application for MP5 has yet to be approved, but without objections will not go to planning committee.  This is an application which must be decided by the planning committee.  It must ask why we are getting fewer affordable housing units than promised, while Lendlease are building more units in total.  It must also ask why there have been no viablity assessements or reviews since 2012have been c
 
