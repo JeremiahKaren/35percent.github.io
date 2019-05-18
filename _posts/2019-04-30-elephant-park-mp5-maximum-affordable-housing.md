@@ -58,18 +58,20 @@ This came with the reassurance that should public funding become available, it c
 ![](http://35percent.org/img/gfunding2.png)
 
 
-## Object to MP5
+## Object to MP5 - fight for 84 more affordable homes
 
 Lendlease's detailed MP5 H7 application is almost the final chapter in the [redevelopment of the Heygate estate](http://35percent.org/heygate-regeneration-faq/) and it allows us to evaluate what is being delivered, against what was said and what was approved by Southwark Council, back in 2012.
 
-It is now apparent that while Lendlease has fulfilled its reduced affordable housing obligation it has done so by delivering fewer affordable homes. Lendlease has also been granted a change in the permission that has allowed them to build many more units.  The upshot is that  Lendlease has nearly 250 more free-market homes to sell.
+It is now apparent that while Lendlease will fulfill its reduced affordable housing obligation they intend to do so by delivering fewer affordable homes. Lendlease has also been granted a change in the permission that has allowed them to build many more units.  The upshot is that Lendlease has nearly 250 more free-market homes to sell.
 
 Southwark, on the other hand, neglected to secure the number homes to be built and gave Lendlease the opportunity to build more, without getting amy improvement in the affordable housing situation. There also appears to have been no effort to take adantage of any public funding. 
 
+This is an application which must be decided by the planning committee.  It must ask why we are getting fewer affordable housing units, while Lendlease are building more units in total.  It must also ask why there have been no viablity assessements or reviews since 2012 and what has been done to improve the affordable housing.
 
-This has been achieved by clever variation of the original approval that allow the scheme to remain 'compliant' and without any referral back to the planning committee.
+The planning committee must refuse planning permission, unless Lendlease increases the total number of affordable homes, back to the indicative 570 the planning committee approved, plus 25% of the additional 220 units it has gained over the original maximum build.  This would give us a much-needed 84 affordable homes and half of these must be social rented, as Southwark's housing policy requires.
 
-The application for MP5 has yet to be approved, but without objections will not go to planning committee.  This is an application which must be decided by the planning committee.  It must ask why we are getting fewer affordable housing units than promised, while Lendlease are building more units in total.  It must also ask why there have been no viablity assessements or reviews since 2012have been c
+Help You can OBJECT HERE 
+
 
 
 
