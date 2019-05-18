@@ -72,20 +72,6 @@ The application for MP5 has yet to be approved, but without objections will not 
 
 ---------------------------------------------------------------------------------------------------------
 
-
-
-
- 
-The officer's report for the outline planning application said that there was currently no grant funding available and that this is one of the reasons why the affordable housing offer is not compliant.
-
-
-
-
-But it did say that that should it become available then there would be a revised affordable housing offer.
-
-
-
-
 ## Viability Review
 The planning committee report also said that there would be viability reviews:
 
