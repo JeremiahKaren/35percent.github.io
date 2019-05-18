@@ -17,7 +17,7 @@ The 'anticipated' figures for the total and affordable units are given in planni
 
 ## MP5 - 15 social rent
 
-The proposed total units for MP5 will be on the final residential plot, H7, and is for 424 new homes, with 352 private and 72 affordable units - 20 affordable rent, 37 shared-ownership and 15 social rent.
+For just MP5 itself Lendlease proposes 424 new homes, with 72 affordable units, made up of 20 affordable rent, 37 shared-ownership and 15 social rent.
 
 This will take the total number of social rented units in the development to just 92, a figure that has crept up from [71 units](http://35percent.org/2013-01-13-will-the-planning-committee-see-sense/) since 2013 (plus a further [eight on Trafalgar Place](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!DcDunvLF2MOAcCag9FShbg%3d%3d!%7d%7d%7d) (Heygate Phase 1)).
 
