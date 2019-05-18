@@ -38,12 +38,11 @@ It transpires that the [number of units to be built were not secured](http://pla
 While Lendlease has not delivered the number of affordable homes approved by the planning committee, it is nonetheless able to say it is [fulfilling the affordable housing obligation of 25% affordable housing](http://35percent.org/img/epupdatedahstrategy.pdf).  This is because the amount of affordable housing is measured as a percentage of habitable rooms, not units (footnote - Table 8). The [officers report](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!swSywGCW3zgzV1miHXgXSg%3d%3d!%7d%7d%7d) to the planning committee noted that there were a relatively high proportion of larger affordable units.
 These are undoubtedly welcome, but do mean that there is just 20% affordable housing when measured by unit. 
 
-
-## Overage
-
-## Conclusion
+## Viability questions
 
 When we add the increase of free market homes to the reduction in affordable homes we can see that Lendlease has gained 249 more freemarket homes than the planning committee was led to believe would be built. This has been achieved by clever variation of the original approval that allow the scheme to remain 'compliant' and without any referral back to the planning committee. At a rough estimate, the value of these homes is £125m, a figure that obviously cannot have featured in the 2012 [viability assessment](http://crappistmartin.github.io/images/HeygateViabilityAssessment_MainReport.pdf).  This was conducted on the basis of 2,462 units, not 2,689, (screenshot) and determined that the scheme could not provide a policy compliant 35% affordable housing and that only a very small fraction of this could be social rented.  No new viability assessment taking this into account was submitted when Lendlease applied to [change how the amount of affordable housing was calculated](http://planbuild.southwark.gov.uk/documents/?casereference=18/AP/3225&system=DC).
+
+## Overage
 
 ## Object to MP5
 
