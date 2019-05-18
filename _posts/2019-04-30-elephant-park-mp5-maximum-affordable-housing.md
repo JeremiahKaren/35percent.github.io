@@ -51,7 +51,7 @@ The lack of available public funding was cited in the [officers report](http://p
 
 ![](http://35percent.org/img/gfunding1.png)
 
-This came with the reassurance that should public funding become available, it could be used to improve the afforsable housing position.  There is no indication that this has happened through the duration of Elephant Park's development, despite the [Mayor Sadiq Khan having £4.6bn in his kitty](https://www.london.gov.uk/what-we-do/housing-and-land/homes-londoners-affordable-homes-programme-2016-21).
+This came with the reassurance that should public funding become available, it could be used to improve the affordable housing position.  There is no indication that this has happened through the duration of Elephant Park's development, despite the [Mayor Sadiq Khan having £4.6bn in his kitty](https://www.london.gov.uk/what-we-do/housing-and-land/homes-londoners-affordable-homes-programme-2016-21).
 
 ![](http://35percent.org/img/gfunding2.png)
 
