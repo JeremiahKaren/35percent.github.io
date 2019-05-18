@@ -9,7 +9,7 @@ published: false
 
 The completion of the Heygate redevelopment is set to deliver more homes than were approved by Southwark's planning committee, but there will be 29 fewer affordable homes than promised.
 
-Developer Lendlease 'anticipates' that the completed development, now known as Elephant Park, will total 2,689 homes.  This is 220 more homes than the numbers agreed at the planning committee in November 2013, when permission was given for between 2,300 and 2,469 homes.
+Developer Lendlease _'anticipates'_ that the completed development, now known as Elephant Park, will total 2,689 homes.  This is 220 more homes than the numbers agreed at the planning committee in November 2013, when permission was given for between 2,300 and 2,469 homes.
 
 Despite this increase in the total number, only 541 of these homes will be affordable; 570 was the figure given to the planning committee.  The affordable housing is broken down into 92 social rented, 167 affordable rent and 282 shared ownership.
 
