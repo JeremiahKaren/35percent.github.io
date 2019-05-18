@@ -15,11 +15,16 @@ Despite this increase in the total number, only 541 of these homes will be affor
 
 The 'anticipated' figures for the total and affordable units are given in planning documents for MP5, the final phase of the development - Table 7 of the [Reserved Matters Affordable Housing Strategy](http://35percent.org/img/epupdatedahstrategy.pdf) and Table 8.1 of the [Reconciliation Statement](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!ODWxL4QoZvkgXXbACxb5vg%3d%3d!%7d%7d%7d) for the [Elephant Park - MP5 H7 Reserved Matters Application](https://planning.southwark.gov.uk/online-applications/applicationDetails.do?activeTab=externalDocuments&keyVal=_STHWR_DCAPR_9582742).  The figure for the 570 approved affordable homes was given on page 9 of the planning committee's [addendum report](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!Q7K%2bVQ5GwV3kVWHHRXBCqg%3d%3d!%7d%7d%7d), (which corrected a previous figure of [574](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!swSywGCW3zgzV1miHXgXSg%3d%3d!%7d%7d%7d)).  The addendum report said that 570 affordable homes would be delivered if the maximum number of new homes were built (screen shot).
 
-## MP5, 15 social rent
+## MP5 - 15 social rent
 
 The proposed total units for MP5 will be on the final residential plot, H7, and is for 424 new homes, with 352 private and 72 affordable units - 20 affordable rent, 37 shared-ownership and 15 social rent.
 
-This will take the total number of social rented units in the development to 93, a figure that has crept up from [71 units](http://35percent.org/2013-01-13-will-the-planning-committee-see-sense/) (plus a further [eight on Trafalgar Place](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!DcDunvLF2MOAcCag9FShbg%3d%3d!%7d%7d%7d) (Heygate Phase 1)).
+This will take the total number of social rented units in the development to 92, a figure that has crept up from [71 units](http://35percent.org/2013-01-13-will-the-planning-committee-see-sense/) since 2013 (plus a further [eight on Trafalgar Place](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!DcDunvLF2MOAcCag9FShbg%3d%3d!%7d%7d%7d) (Heygate Phase 1)).
+
+
+![](http://35percent.org/img/epark92socialrent.jpg)
+
+
 
 
 ## How planning works
