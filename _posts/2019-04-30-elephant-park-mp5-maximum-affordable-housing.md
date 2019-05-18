@@ -28,9 +28,15 @@ This significant change was deemed 'non-material' (explain) and so was not refer
 
 Notwithstanding Lendlease's failure to deliver the number of affordable homes approved by the planning, it is nonetheless able to say it is meeting the planning approval requirement of 25% affordable housing, half rented, half shared-ownership.  This is because the the amount of affordable housing is measured by habitable room, not units and there is a relatively greater number of larger affordable housing rented units (OR para 166). On this basis Lendlease is able to [claim it is delivering 25.8% affordable housing](http://planbuild.southwark.gov.uk/documents/?casereference=19/AP/1166&system=DC), in almost the correct proportions, between rent and shared ownership (footnote - Table 8).
 
+## Overage
+
 ## Conclusion
 
-When we add the increase of free market homes to the reduction in affordable homes we can see that Lendlease has gained 249 more freemarket homes than the planning committee was led to believe would be built. This has been achieved by clever variations of the original approval that allow the scheme to remain 'compliant' and without any referral back to the planning committee. At a rough estimate, the value of these homes is £125m, a figure that obviously cannot have featured in the 2012 [viability assessment](http://crappistmartin.github.io/images/HeygateViabilityAssessment_MainReport.pdf).  This was conducted on the basis of 2,462 units, not 2,689, (screenshot) and determined that the scheme could not provide a policy compliant 35% affordable housing and that only a very small fraction of this could be social rented.  No new viability assessment taking this into account was submitted when Lendlease applied to [change how the amount of affordable housing was calculated](http://planbuild.southwark.gov.uk/documents/?casereference=18/AP/3225&system=DC)
+When we add the increase of free market homes to the reduction in affordable homes we can see that Lendlease has gained 249 more freemarket homes than the planning committee was led to believe would be built. This has been achieved by clever variations of the original approval that allow the scheme to remain 'compliant' and without any referral back to the planning committee. At a rough estimate, the value of these homes is £125m, a figure that obviously cannot have featured in the 2012 [viability assessment](http://crappistmartin.github.io/images/HeygateViabilityAssessment_MainReport.pdf).  This was conducted on the basis of 2,462 units, not 2,689, (screenshot) and determined that the scheme could not provide a policy compliant 35% affordable housing and that only a very small fraction of this could be social rented.  No new viability assessment taking this into account was submitted when Lendlease applied to [change how the amount of affordable housing was calculated](http://planbuild.southwark.gov.uk/documents/?casereference=18/AP/3225&system=DC).
+
+## Object to MP7
+
+The application for MP7 has yet to be approved, but without objections will not go to planning committee.  This is an application which must be decided by the planning committee.  It must ask why we are getting fewer affordable housing units than promised, while Lendlease are building more units in total.  It must also ask why there have been no viablity assessements or reviews since 2012have been c
 
 
 
@@ -47,7 +53,6 @@ the submission of detailed planning application for (one of the plots) in the la
 MP5 fifth and final phase. It has two plots H1 and H7; application is being made to develope H7 with 424 units.  This is all the units for MP5 (Reserved matters affordable housing statement 19/AP/0025, Table 7); what's happening to H1?
  
  
-The redevelopment of the Heygate estate is entering the its final stages, with
 
 
 
