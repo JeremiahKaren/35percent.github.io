@@ -5,9 +5,19 @@ subtitle: Lendlease exceeds number of homes approved
 published: false
 ---
 
-## 220 more homes than agreed, but 29 fewer affordable.
+## Only 15 social rent on MP5 phase
 
-The [detailed planning application]((http://planbuild.southwark.gov.uk/documents/?casereference=19/AP/1166&system=DC)) for in the last residential plot in the redeveloped Heygate estate has been submitted to Southwark Council by developer Lendlease.  The application shows that the completed development, now known as Elephant Park, is set to deliver more homes than were approved by Southwark's planning committee, but with 29 fewer affordable homes than anticipated.
+The [detailed planning application]((http://planbuild.southwark.gov.uk/documents/?casereference=19/AP/1166&system=DC)) for in the last residential plot in the redeveloped Heygate estate has been submitted to Southwark Council by developer Lendlease.
+
+Lendlease proposes building 424 new homes on the MP5 H7 plot, with 72 affordable units, made up of 37 shared-ownership, 20 affordable rent and 15 social rent.
+
+This will take the total number of social rented units in the development to just 92, a figure that has crept up from [71 units](http://35percent.org/2013-01-13-will-the-planning-committee-see-sense/) since 2013 (plus a further [eight on Trafalgar Place](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!DcDunvLF2MOAcCag9FShbg%3d%3d!%7d%7d%7d) (Heygate Phase 1)).
+
+![](http://35percent.org/img/epark92socialrent.jpg)
+
+# 220 more homes than agreed, but 29 fewer affordable.
+
+The application also shows that the completed development, now known as Elephant Park, is set to deliver more homes than were approved by Southwark's planning committee, but with 29 fewer affordable homes than anticipated.
 
 Lendlease _'anticipates'_ that the completed development, now known as Elephant Park, will total 2,689 homes.  This is 220 more homes than the numbers agreed at the planning committee in November 2013, when permission was given for between 2,300 and 2,469 homes.
 
@@ -15,14 +25,9 @@ Only 541 of these homes will be affordable, twenty-nine fewer than the indicativ
 
 The figures for the total and affordable units are given in planning documents for MP5, the final phase of the development - Table 7 of the [Reserved Matters Affordable Housing Strategy](http://35percent.org/img/epupdatedahstrategy.pdf) and Table 8.1 of the [Reconciliation Statement](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!ODWxL4QoZvkgXXbACxb5vg%3d%3d!%7d%7d%7d) for the [Elephant Park - MP5 H7 Reserved Matters Application](https://planning.southwark.gov.uk/online-applications/applicationDetails.do?activeTab=externalDocuments&keyVal=_STHWR_DCAPR_9582742).  The figure for the 570 approved affordable homes was given on page 9 of the planning committee's [addendum report](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!Q7K%2bVQ5GwV3kVWHHRXBCqg%3d%3d!%7d%7d%7d)   (correcting a previous figure of [574](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!swSywGCW3zgzV1miHXgXSg%3d%3d!%7d%7d%7d)) (screen shot).
 
-## Only 15 social rent on MP5 phase
-
-MP5 is the fifth phase of the development and Lendlease proposes building 424 new homes there, with 72 affordable units, made up of 37 shared-ownership, 20 affordable rent and 15 social rent.
-
-This will take the total number of social rented units in the development to just 92, a figure that has crept up from [71 units](http://35percent.org/2013-01-13-will-the-planning-committee-see-sense/) since 2013 (plus a further [eight on Trafalgar Place](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!DcDunvLF2MOAcCag9FShbg%3d%3d!%7d%7d%7d) (Heygate Phase 1)).
 
 
-![](http://35percent.org/img/epark92socialrent.jpg)
+
 
 
 
