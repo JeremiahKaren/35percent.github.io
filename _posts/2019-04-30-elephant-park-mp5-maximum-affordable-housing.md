@@ -27,7 +27,7 @@ This will take the total number of social rented units in the development to jus
 
 
 
-## How planning works
+## Southwark fail to secure housing numbers
 
 The increase in the total number of units on Elephant Park has been facilitated by an [amendment](https://planning.southwark.gov.uk/online-applications/applicationDetails.do?activeTab=externalDocuments&keyVal=_STHWR_DCAPR_9580199) to the original planning permission, made back in Nov 2018.  This changed the way the amount of residential space was calculated by [replacing the minimum and maximum figures for residential units](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!s8fyBoziHiy%2fr1TPdwL8eQ%3d%3d!%7d%7d%7d) with floorspace figures. The floorspace figures remained the same as those [approved by the planning committee](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!hgyBVuEH%2b8BxXry2bGRAtA%3d%3d!%7d%7d%7d)   (160,579sqm GEA (min) and 254,400sqm GEA (max)), but by removing the unit figures the amendment enabled Lendlease to build more homes within the allowed floorspace.
 
@@ -58,11 +58,13 @@ This came with the reassurance that should public funding become available, it c
 ![](http://35percent.org/img/gfunding2.png)
 
 
-
-
-
 ## Object to MP5
 
+Lendlease's detailed MP5 H7 application is almost the final chapter in the [redevelopment of the Heygate estate](http://35percent.org/heygate-regeneration-faq/) and it allows us to evaluate what is being delivered, against what was said and what was approved by Southwark Council, back in 2012.
+
+It is now apparent that while Lendlease has fulfilled its reduced affordable housing obligation it has done so by delivering fewer affordable homes. Lendlease has also been granted a change in the permission that has allowed them to build many more units.  The upshot is that  Lendlease has nearly 250 more free-market homes to sell.
+
+Southwark, on the other hand, neglected to secure the number homes to be built and gave Lendlease the opportunity to build more, without getting amy improvement in the affordable housing situation. the to protect  to get tany benefit fron 
 
 
 This has been achieved by clever variation of the original approval that allow the scheme to remain 'compliant' and without any referral back to the planning committee.
