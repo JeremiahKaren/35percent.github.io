@@ -7,7 +7,9 @@ published: false
 
 ## 220 more homes than agreed, but 29 fewer affordable.
 
-The completion of the Heygate redevelopment is set to deliver more homes than were approved by Southwark's planning committee, but there will be 29 fewer affordable homes than anticipated.
+The detailed planning application for in the last residential plot in redeveloped Heygate estate (now known as Elephant Park) has been [submitted](http://planbuild.southwark.gov.uk/documents/?casereference=19/AP/1166&system=DC).
+
+The application shows that the completion of the Heygate redevelopment is set to deliver more homes than were approved by Southwark's planning committee, but there will be 29 fewer affordable homes than anticipated.
 
 Developer Lendlease _'anticipates'_ that the completed development, now known as Elephant Park, will total 2,689 homes.  This is 220 more homes than the numbers agreed at the planning committee in November 2013, when permission was given for between 2,300 and 2,469 homes.
 
@@ -56,18 +58,8 @@ The application for MP5 has yet to be approved, but without objections will not 
 
 
 
-## Heygate estate - the endgame
 
-the submission of detailed planning application for (one of the plots) in the last phase of Elephant Park has been [submitted](http://planbuild.southwark.gov.uk/documents/?casereference=19/AP/1166&system=DC) and the [planning documents](http://35percent.org/img/epupdatedahstrategy.pdf) show that of the 424 homes proposed in this phase (220 more than were originally approved), just 15 will be social rent.
-
-MP5 fifth and final phase. It has two plots H1 and H7; application is being made to develope H7 with 424 units.  This is all the units for MP5 (Reserved matters affordable housing statement 19/AP/0025, Table 7); what's happening to H1?
  
- 
-
-
-
-![](http://35percent.org/img/epark92socialrent.jpg)
-
 The officer's report for the outline planning application said that there was currently no grant funding available and that this is one of the reasons why the affordable housing offer is not compliant.
 
 
