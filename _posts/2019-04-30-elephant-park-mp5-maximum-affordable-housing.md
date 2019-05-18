@@ -40,7 +40,7 @@ It transpires that the [number of units to be built were not secured](http://pla
 
 ## Policy compliance
 
-While Lendlease has not delivered the number of affordable homes approved by the planning committee, it is nonetheless able to say it is [fulfilling the affordable housing obligation of 25% affordable housing](http://35percent.org/img/epupdatedahstrategy.pdf).  This is because the amount of affordable housing is measured as a percentage of habitable rooms, not units (footnote - Table 8). The [officers report](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!swSywGCW3zgzV1miHXgXSg%3d%3d!%7d%7d%7d) to the planning committee noted that there were a relatively high proportion of larger affordable units.
+While Lendlease has not delivered the number of affordable homes expected by the planning committee, it is nonetheless able to say it is [fulfilling the affordable housing obligation of 25% affordable housing](http://35percent.org/img/epupdatedahstrategy.pdf).  This is because the amount of affordable housing is measured as a percentage of habitable rooms, not units (footnote - Table 8). The [officers report](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!swSywGCW3zgzV1miHXgXSg%3d%3d!%7d%7d%7d) to the planning committee noted that there were a relatively high proportion of larger affordable units.
 These are undoubtedly welcome, but do mean that there is just 20% affordable housing when measured by unit. 
 
 ## Viability questions
@@ -75,7 +75,7 @@ This is an application which must be decided by the planning committee.  It must
 
 The planning committee must refuse planning permission, unless Lendlease increases the total number of affordable homes, back to the indicative 570 the planning committee approved, plus 25% of the additional 220 units it has gained over the original maximum build.  This would give us a much-needed 84 affordable homes and half of these must be social rented, as Southwark's housing policy requires.
 
-You can OBJECT HERE 
+You can OBJECT HERE. 
 
 ---------------------------------------------------------------------------------------------------------
 
