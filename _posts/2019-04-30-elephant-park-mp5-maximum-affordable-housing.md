@@ -40,8 +40,8 @@ These are undoubtedly welcome, but do mean that there is just 20% affordable hou
 
 ## Viability questions
 
-Officers at the time of the application's determination proposed only an early viability review in the limited circumstances that the development was delayed and no new viability assessment has been presented to take into account the increased number of total units or the fewer affordable units that will actually be delivered.  Combining these figures gives Lendlease 249 more freemarket homes, at a rough estimated value of £125m.
-
+Officers at the time of the application's determination proposed only an early viability review in the limited circumstances that the development was delayed and no new viability assessment has been presented to take into account the increased number of total units or the fewer affordable units that will actually be delivered.  
+  
 ![](http://35percent.org/img/vrev.png)
 
 
@@ -64,6 +64,8 @@ This came with the reassurance that should public funding become available, it c
 ## Overage
 
 ## Object to MP5
+
+combining these figures gives Lendlease 249 more freemarket homes, at a rough estimated value of £125m.
 
 This has been achieved by clever variation of the original approval that allow the scheme to remain 'compliant' and without any referral back to the planning committee.
 
