@@ -40,7 +40,23 @@ These are undoubtedly welcome, but do mean that there is just 20% affordable hou
 
 ## Viability questions
 
-When we add the increase of free market homes to the reduction in affordable homes we can see that Lendlease has gained 249 more freemarket homes than the planning committee was led to believe would be built.  At a rough estimate, the value of these homes is £125m, a figure that obviously cannot have featured in the 2012 [viability assessment](http://crappistmartin.github.io/images/HeygateViabilityAssessment_MainReport.pdf).  This was conducted on the basis of 2,462 units, not 2,689, (screenshot) and determined that the scheme could not provide a policy compliant 35% affordable housing and that only a very small fraction of this could be social rented.  No new viability assessment taking this into account was submitted when Lendlease applied to [change how the amount of affordable housing was calculated](http://planbuild.southwark.gov.uk/documents/?casereference=18/AP/3225&system=DC).
+When we add the increase of free market homes to the reduction in affordable homes we can see that Lendlease has gained 249 more freemarket homes than the planning committee was led to believe would be built.  At a rough estimate, the value of these homes is £125m, a figure that obviously cannot have featured in the 2012 [viability assessment](http://crappistmartin.github.io/images/HeygateViabilityAssessment_MainReport.pdf).  This was conducted on the basis of 2,462 units, not the amended increase to 2,689 units (screenshot development description) and determined that the scheme could not provide a policy compliant 35% affordable housing and that only a very small fraction of this could be social rented.  No new viability assessment taking this into account was submitted when Lendlease applied to [change how the amount of affordable housing was calculated](http://planbuild.southwark.gov.uk/documents/?casereference=18/AP/3225&system=DC).
+
+## No public funding?
+
+The lack of available public funding was cited as a factor that diminished the chances of a viable scheme, delivering the 35% affordable housing, when the application was originally considered.
+
+![](http://35percent.org/img/gfunding1.png)
+
+This came with the reassurance that should public funding become available, it could be used to improve the afforsable housing position.  There is no indication that this has happened through the duration of Elephant Park's development, despite the [Mayor Sadiq Khan having £4.6bn in his kitty](https://www.london.gov.uk/what-we-do/housing-and-land/homes-londoners-affordable-homes-programme-2016-21).
+
+![](http://35percent.org/img/gfunding2.png)
+
+
+
+
+
+
 
 ## Overage
 
