@@ -17,7 +17,7 @@ This will take the total number of social rented units in the development to jus
 
 ## 220 more homes than agreed, but 29 fewer affordable.
 
-The application also shows that the completed development, now known as Elephant Park, is set to deliver more homes than were approved by Southwark's planning committee, but with 29 fewer affordable homes than anticipated.
+The application also shows that the completed development, now known as Elephant Park, is set to deliver more homes in total than were approved by Southwark's planning committee, but with 29 fewer affordable homes than anticipated.
 
 Lendlease _'anticipates'_ that the completed development, now known as Elephant Park, will total 2,689 homes.  This is 220 more homes than the numbers agreed at the planning committee in November 2013, when permission was given for between 2,300 and 2,469 homes.
 
