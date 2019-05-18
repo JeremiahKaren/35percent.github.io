@@ -15,7 +15,7 @@ This will take the total number of social rented units in the development to jus
 
 ![](http://35percent.org/img/epark92socialrent.jpg)
 
-# 220 more homes than agreed, but 29 fewer affordable.
+## 220 more homes than agreed, but 29 fewer affordable.
 
 The application also shows that the completed development, now known as Elephant Park, is set to deliver more homes than were approved by Southwark's planning committee, but with 29 fewer affordable homes than anticipated.
 
