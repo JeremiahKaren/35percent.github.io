@@ -49,7 +49,7 @@ Combining the increase in maxiumum units to 2,689 units with the 29 unit drop in
 
 ## No public funding?
 
-The lack of available public funding was cited in the [officers report](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!swSywGCW3zgzV1miHXgXSg%3d%3d!%7d%7d%7d) as a factor that diminished the chances of a viable scheme delivering the 35% affordable housing, when the application was originally considered.
+The lack of available public funding was cited in the [officers report](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!swSywGCW3zgzV1miHXgXSg%3d%3d!%7d%7d%7d) as a factor that diminished the chances of a viable scheme delivering 35% affordable housing, when the application was originally considered.
 
 ![](http://35percent.org/img/gfunding1.png)
 
