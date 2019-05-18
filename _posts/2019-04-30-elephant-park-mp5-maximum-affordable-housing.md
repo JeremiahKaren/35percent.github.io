@@ -7,7 +7,7 @@ published: false
 
 ## 220 more homes than agreed, but 29 fewer affordable.
 
-The detailed planning application for in the last residential plot in redeveloped Heygate estate has been [submitted](http://planbuild.southwark.gov.uk/documents/?casereference=19/AP/1166&system=DC).
+The [detailed planning application]((http://planbuild.southwark.gov.uk/documents/?casereference=19/AP/1166&system=DC)) for in the last residential plot in redeveloped Heygate estate has been submitted.
 
 The application shows that the completed development, now known as Elephant Park, is set to deliver more homes than were approved by Southwark's planning committee, but there will be 29 fewer affordable homes than anticipated.
 
