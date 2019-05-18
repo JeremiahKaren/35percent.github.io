@@ -15,12 +15,12 @@ Despite this increase in the total number, only 541 of these homes will be affor
 
 The 'anticipated' figures for the total and affordable units are given in planning documents for the final phase of the development, MP5.  Table 7 of the [Reserved Matters Affordable Housing Strategy](http://35percent.org/img/epupdatedahstrategy.pdf) for the [Elephant Park - MP5 H7 Reserved Matters Application](https://planning.southwark.gov.uk/online-applications/applicationDetails.do?activeTab=externalDocuments&keyVal=_STHWR_DCAPR_9582742).  The figure for the 570 approved affordable homes was given on page 9 of the planning committee's [addendum report](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!Q7K%2bVQ5GwV3kVWHHRXBCqg%3d%3d!%7d%7d%7d), (which corrected a previous figure of [574](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!swSywGCW3zgzV1miHXgXSg%3d%3d!%7d%7d%7d)).  The addendum report said that 570 affordable homes would be delivered if the maximum number of new homes were built (screen shot).
 
-The proposed total units for MP5 will be on the final residential plot, H7, and is for 424 new homes, with 352 private, with 72 affordable units - 20 affordable rent, 15 social rent, 37 shared-ownership.
+The proposed total units for MP5 will be on the final residential plot, H7, and is for 424 new homes, with 352 private and 72 affordable units - 20 affordable rent, 15 social rent, 37 shared-ownership.
 
 
 ## How planning works
 
-Lendlease can claim that it is fulfilling its affordable housing obligations, despite not delivering the number of affordable homes promised at committee.  This is because of changes made since then to the planning approval.
+Regardless of the number of affordable housing homes, Lendlease can claim that it is fulfilling its affordable housing obligations, despite not delivering the number of affordable homes promised at committee.  This is because of changes made since then to the planning approval.
 
 An [amendment](https://planning.southwark.gov.uk/online-applications/applicationDetails.do?activeTab=externalDocuments&keyVal=_STHWR_DCAPR_9580199) made back in Nov 2018 facilitated the increase in the total number of homes.  This changed the way the amount of residential space was calculated by [replacing the minimum and maximum figures for residential units](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!s8fyBoziHiy%2fr1TPdwL8eQ%3d%3d!%7d%7d%7d) with floorspace figures. The floorspace figures remained the same as those [approved by the planning committee](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!hgyBVuEH%2b8BxXry2bGRAtA%3d%3d!%7d%7d%7d)   (para 81- 160,579sqm GEA (min) and 254,400sqm GEA (max)), but by removing the unit figures the amendment enabled Lendlease to build more homes within the allowed floorspace.
 
