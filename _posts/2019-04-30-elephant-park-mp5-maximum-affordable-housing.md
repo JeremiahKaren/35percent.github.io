@@ -45,8 +45,6 @@ Officers at the time of the application's determination proposed only an early v
 ![](http://35percent.org/img/vrev.png)
 
 Combining the increase in maxiumum units to 2,689 units with the 29 unit drop in affordable housing gives Lendlease 249 more freemarket homes than the planning committee was led to believe would be built.  These have a rough estimated value of £125m, a figure that obviously cannot have featured in the 2012 [viability assessment](http://crappistmartin.github.io/images/HeygateViabilityAssessment_MainReport.pdf).  This assessment was made on the basis of 2,462 units (screenshot development description) and concluded that the scheme could not provide 35% affordable housing and that only a very small fraction could be social rented.
-  
-
 
 
 ## No public funding?
@@ -61,7 +59,7 @@ This came with the reassurance that should public funding become available, it c
 
 
 
-## Overage
+
 
 ## Object to MP5
 
@@ -77,10 +75,6 @@ The application for MP5 has yet to be approved, but without objections will not 
 
 ---------------------------------------------------------------------------------------------------------
 
-## Viability Review
-The planning committee report also said that there would be viability reviews:
-
-![](http://35percent.org/img/vrev.png)
 
 ## Community Space
  Lendlease was required to build 1,000sqm of community space - this has been provided in the new 'energy centre' as a private creche.
@@ -92,14 +86,7 @@ Any opportunity for shopping centre traders to object?
 
 
 
- ( an increase of 220 more homes, over the maxiumum approved by the planning committee, 389 over the minimum approved.  When measured against the estimated amounts of affordable housing for the minimum approved 2300 homes  (including an estimated 19 more social rented units, but 27 fewer affordable rent at 50% market rent)
  
-MP7's new homes will include 102 affordable units,
-
- But though this may explains the difference in percentage terms, it does not explain why the number of units is less than the planning committee expected.  The [officers report](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!swSywGCW3zgzV1miHXgXSg%3d%3d!%7d%7d%7d)) to the committee was aware that larger units meant a lower number would be affordable, but still gave a figure of 570
-
-the number of units can be below 25% this was taken into account (OR para 166).
-
 
 
 Objection button
