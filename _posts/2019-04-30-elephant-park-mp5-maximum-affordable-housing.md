@@ -40,7 +40,10 @@ These are undoubtedly welcome, but do mean that there is just 20% affordable hou
 
 ## Viability questions
 
-When we add the increase of free market homes to the reduction in affordable homes we can see that Lendlease has gained 249 more freemarket homes than the planning committee was led to believe would be built.  At a rough estimate, the value of these homes is £125m, a figure that obviously cannot have featured in the 2012 [viability assessment](http://crappistmartin.github.io/images/HeygateViabilityAssessment_MainReport.pdf).  This was conducted on the basis of 2,462 units, not the amended increase to 2,689 units (screenshot development description) and determined that the scheme could not provide a policy compliant 35% affordable housing and that only a very small fraction of this could be social rented.  No new viability assessment taking this into account was submitted when Lendlease applied to [change how the amount of affordable housing was calculated](http://planbuild.southwark.gov.uk/documents/?casereference=18/AP/3225&system=DC).
+Officers at the time of the application's determination proposed only an early viability review in the limited circumstances that the development was delayed and no new viability assessment has been presented to take into account the increased number of total units or the fewer affordable units that will actually be delivered.  Combining these figures gives Lendlease 249 more freemarket homes, at a rough estimated value of £125m.
+
+![](http://35percent.org/img/vrev.png)
+
 
 ## No public funding?
 
@@ -94,6 +97,9 @@ MP7's new homes will include 102 affordable units,
  But though this may explains the difference in percentage terms, it does not explain why the number of units is less than the planning committee expected.  The [officers report](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!swSywGCW3zgzV1miHXgXSg%3d%3d!%7d%7d%7d)) to the committee was aware that larger units meant a lower number would be affordable, but still gave a figure of 570
 
 the number of units can be below 25% this was taken into account (OR para 166).
+
+We can now see that by adding the increased maximum to fewer affordable units than expected  to the gained 249 more freemarket homes than the planning committee was led to believe would be built.  At a rough estimate, the value of these homes is £125m, a figure that obviously cannot have featured in the 2012 [viability assessment](http://crappistmartin.github.io/images/HeygateViabilityAssessment_MainReport.pdf).  This was conducted on the basis of 2,462 units, not the amended increase to 2,689 units (screenshot development description) and determined that the scheme could not provide a policy compliant 35% affordable housing and that only a very small fraction of this could be social rented.  No new viability assessment taking this into account was submitted when Lendlease applied to [change how the amount of affordable housing was calculated](http://planbuild.southwark.gov.uk/documents/?casereference=18/AP/3225&system=DC).
+
 
 
 Objection button
