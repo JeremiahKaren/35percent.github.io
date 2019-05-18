@@ -44,7 +44,7 @@ When we add the increase of free market homes to the reduction in affordable hom
 
 ## No public funding?
 
-The lack of available public funding was cited as a factor that diminished the chances of a viable scheme, delivering the 35% affordable housing, when the application was originally considered.
+The lack of available public funding was cited in the [officers report](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!swSywGCW3zgzV1miHXgXSg%3d%3d!%7d%7d%7d) as a factor that diminished the chances of a viable scheme, delivering the 35% affordable housing, when the application was originally considered.
 
 ![](http://35percent.org/img/gfunding1.png)
 
@@ -79,11 +79,11 @@ The application for MP5 has yet to be approved, but without objections will not 
 The officer's report for the outline planning application said that there was currently no grant funding available and that this is one of the reasons why the affordable housing offer is not compliant.
 
 
-![](http://35percent.org/img/gfunding1.png)
+
 
 But it did say that that should it become available then there would be a revised affordable housing offer.
 
-![](http://35percent.org/img/gfunding2.png)
+
 
 
 ## Viability Review
