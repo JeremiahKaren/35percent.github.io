@@ -15,7 +15,11 @@ Despite this increase in the total number, only 541 of these homes will be affor
 
 The 'anticipated' figures for the total and affordable units are given in planning documents for MP5, the final phase of the development - Table 7 of the [Reserved Matters Affordable Housing Strategy](http://35percent.org/img/epupdatedahstrategy.pdf) and Table 8.1 of the [Reconciliation Statement](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!ODWxL4QoZvkgXXbACxb5vg%3d%3d!%7d%7d%7d) for the [Elephant Park - MP5 H7 Reserved Matters Application](https://planning.southwark.gov.uk/online-applications/applicationDetails.do?activeTab=externalDocuments&keyVal=_STHWR_DCAPR_9582742).  The figure for the 570 approved affordable homes was given on page 9 of the planning committee's [addendum report](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!Q7K%2bVQ5GwV3kVWHHRXBCqg%3d%3d!%7d%7d%7d), (which corrected a previous figure of [574](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!swSywGCW3zgzV1miHXgXSg%3d%3d!%7d%7d%7d)).  The addendum report said that 570 affordable homes would be delivered if the maximum number of new homes were built (screen shot).
 
-The proposed total units for MP5 will be on the final residential plot, H7, and is for 424 new homes, with 352 private and 72 affordable units - 20 affordable rent, 15 social rent, 37 shared-ownership.
+## MP5, 15 social rent
+
+The proposed total units for MP5 will be on the final residential plot, H7, and is for 424 new homes, with 352 private and 72 affordable units - 20 affordable rent, 37 shared-ownership and 15 social rent.
+
+This will take the total number of social rented units in the development to 93, a figure that has crept up from [71 units](http://35percent.org/2013-01-13-will-the-planning-committee-see-sense/) (plus a further [8 on Trafalgar Place](Trafalgar Place) (Heygate Phase 1)).
 
 
 ## How planning works
@@ -26,9 +30,7 @@ This significant change was deemed 'non-material' (explain) and so was not refer
 
 ## Policy compliance
 
-While Lendlease has not delivered the number of affordable homes approved by the planning committee, it is nonetheless able to say it is [fulfilling the affordable housing obligation of 25% affordable housing](http://35percent.org/img/epupdatedahstrategy.pdf).  This is because the the amount of affordable housing is measured as a percentage of what is built, measured by habitable rooms (footnote - Table 8).
-
-The larger affordable housing rented homes means that there is just 20% affordable housing when measured by unit. 
+While Lendlease has not delivered the number of affordable homes approved by the planning committee, it is nonetheless able to say it is [fulfilling the affordable housing obligation of 25% affordable housing](http://35percent.org/img/epupdatedahstrategy.pdf).  This is because the the amount of affordable housing is measured as a percentage of what is built, measured by habitable rooms (footnote - Table 8).  The larger affordable housing rented homes are undoubtedly welcome, but do mean that there is just 20% affordable housing when measured by unit. 
 
 
 ## Overage
@@ -37,9 +39,9 @@ The larger affordable housing rented homes means that there is just 20% affordab
 
 When we add the increase of free market homes to the reduction in affordable homes we can see that Lendlease has gained 249 more freemarket homes than the planning committee was led to believe would be built. This has been achieved by clever variation of the original approval that allow the scheme to remain 'compliant' and without any referral back to the planning committee. At a rough estimate, the value of these homes is £125m, a figure that obviously cannot have featured in the 2012 [viability assessment](http://crappistmartin.github.io/images/HeygateViabilityAssessment_MainReport.pdf).  This was conducted on the basis of 2,462 units, not 2,689, (screenshot) and determined that the scheme could not provide a policy compliant 35% affordable housing and that only a very small fraction of this could be social rented.  No new viability assessment taking this into account was submitted when Lendlease applied to [change how the amount of affordable housing was calculated](http://planbuild.southwark.gov.uk/documents/?casereference=18/AP/3225&system=DC).
 
-## Object to MP7
+## Object to MP5
 
-The application for MP7 has yet to be approved, but without objections will not go to planning committee.  This is an application which must be decided by the planning committee.  It must ask why we are getting fewer affordable housing units than promised, while Lendlease are building more units in total.  It must also ask why there have been no viablity assessements or reviews since 2012have been c
+The application for MP5 has yet to be approved, but without objections will not go to planning committee.  This is an application which must be decided by the planning committee.  It must ask why we are getting fewer affordable housing units than promised, while Lendlease are building more units in total.  It must also ask why there have been no viablity assessements or reviews since 2012have been c
 
 
 
