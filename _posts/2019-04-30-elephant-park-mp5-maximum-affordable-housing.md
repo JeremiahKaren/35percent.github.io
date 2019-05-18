@@ -28,10 +28,7 @@ This significant change was deemed 'non-material' (explain) and so was not refer
 
 While Lendlease has not delivered the number of affordable homes approved by the planning committee, it is nonetheless able to say it is [fulfilling the affordable housing obligation of 25% affordable housing](http://35percent.org/img/epupdatedahstrategy.pdf).  This is because the the amount of affordable housing is measured as a percentage of what is built, measured by habitable rooms (footnote - Table 8).
 
-The larger affordable housing rented homes means that there is just 20% affordable housing when measured by unit.  But though this may explains the difference in percentage terms, it does not explain why the number of units is less than the planning committee expected.  The [officers report](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!swSywGCW3zgzV1miHXgXSg%3d%3d!%7d%7d%7d)) to the committee was fully aware that larger units meant a lower number would be affordable, but still gave a figure of 570
-
-the number of units can be below 25% this was taken into account (OR para 166).
-
+The larger affordable housing rented homes means that there is just 20% affordable housing when measured by unit. 
 
 
 ## Overage
@@ -92,5 +89,10 @@ Any opportunity for shopping centre traders to object?
  ( an increase of 220 more homes, over the maxiumum approved by the planning committee, 389 over the minimum approved.  When measured against the estimated amounts of affordable housing for the minimum approved 2300 homes  (including an estimated 19 more social rented units, but 27 fewer affordable rent at 50% market rent)
  
 MP7's new homes will include 102 affordable units,
+
+ But though this may explains the difference in percentage terms, it does not explain why the number of units is less than the planning committee expected.  The [officers report](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!swSywGCW3zgzV1miHXgXSg%3d%3d!%7d%7d%7d)) to the committee was aware that larger units meant a lower number would be affordable, but still gave a figure of 570
+
+the number of units can be below 25% this was taken into account (OR para 166).
+
 
 Objection button
