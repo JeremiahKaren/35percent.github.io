@@ -28,7 +28,7 @@ This significant change was deemed 'non-material' (explain) and so was not refer
 
 While Lendlease has not delivered the number of affordable homes approved by the planning committee, it is nonetheless able to say it is [fulfilling the affordable housing obligation of 25% affordable housing](http://35percent.org/img/epupdatedahstrategy.pdf).  This is because the the amount of affordable housing is measured as a percentage of what is built, measured by habitable rooms (footnote - Table 8).
 
-A greater number of larger affordable housing rented homes means that there is just 20% affordable housing when measured by unit.  But though this may explains the difference in percentage terms, it does not explain why the number of units is less than the planning committee approved.  The officers report to the committee was fully aware that larger units meant a lower number would be affordable, but still gave a figure of 570
+The larger affordable housing rented homes means that there is just 20% affordable housing when measured by unit.  But though this may explains the difference in percentage terms, it does not explain why the number of units is less than the planning committee expected.  The [officers report](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!swSywGCW3zgzV1miHXgXSg%3d%3d!%7d%7d%7d)) to the committee was fully aware that larger units meant a lower number would be affordable, but still gave a figure of 570
 
 the number of units can be below 25% this was taken into account (OR para 166).
 
