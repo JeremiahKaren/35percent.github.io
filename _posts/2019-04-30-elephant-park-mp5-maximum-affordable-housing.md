@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Heyate redevelopment fails to deliver promised affordable housing
+title: Heyate redevelopment fails to deliver expected affordable housing
 subtitle: Lendlease exceeds number of homes approved
 published: false
 ---
