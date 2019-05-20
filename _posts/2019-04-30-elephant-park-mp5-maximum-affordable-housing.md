@@ -42,7 +42,7 @@ Officers at the time of the application's determination proposed only an early v
 
 ![](http://35percent.org/img/vrev.png)
 
-Combining the increase in maxiumum units to 2,689 units with the 29 unit drop in affordable housing gives Lendlease 249 more free-market homes than the planning committee was led to believe would be built.  These have a rough estimated value of £125m, a figure that obviously cannot have featured in the 2012 [viability assessment](http://crappistmartin.github.io/images/HeygateViabilityAssessment_MainReport.pdf).  This assessment was made on the basis of 2,462 units (screenshot development description) and concluded that the scheme could not provide 35% affordable housing and that only a very small fraction could be social rented.
+The increase in maxiumum units to 2,689 units with the 29 unit drop in affordable housing gives Lendlease about 190 more free-market homes than the planning committee was led to believe would be built.  These have a rough estimated value of £80m, a figure that obviously cannot have featured in the 2012 [viability assessment](http://crappistmartin.github.io/images/HeygateViabilityAssessment_MainReport.pdf).  This assessment was made on the basis of 2,462 units (screenshot development description) and concluded that the scheme could not provide 35% affordable housing and that only a very small fraction could be social rented.
 
 
 ## No public funding?
