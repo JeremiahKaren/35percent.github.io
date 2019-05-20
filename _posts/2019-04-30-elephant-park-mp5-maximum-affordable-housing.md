@@ -68,5 +68,4 @@ This final Heygate application must be decided by the planning committee, not of
 
 The planning committee must refuse planning permission, unless Lendlease increases the total number of affordable homes, back to the indicative 570 the planning committee approved, plus 25% of the additional 220 units it has gained over the original maximum build.  This would give us a much-needed 84 affordable homes and half of these must be social rented, as Southwark's housing policy requires.
 
-You can OBJECT HERE. 
-
+You can OBJECT HERE.
