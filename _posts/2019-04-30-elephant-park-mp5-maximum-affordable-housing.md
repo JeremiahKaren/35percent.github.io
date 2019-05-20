@@ -33,7 +33,7 @@ It also transpires that the [number of units to be built were not secured](http:
 
 ## Policy compliance
 
-While Lendlease has not delivered the number of affordable homes expected by the planning committee, they are nonetheless able to say they are [fulfilling the affordable housing obligation of 25% affordable housing](http://35percent.org/img/epupdatedahstrategy.pdf).  This is because the amount of affordable housing is measured as a percentage of habitable rooms, not units. The [officers report](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!swSywGCW3zgzV1miHXgXSg%3d%3d!%7d%7d%7d) to the planning committee noted that there were a relatively high proportion of larger affordable units.
+While Lendlease has not delivered the number of affordable homes expected by the planning committee, they are nonetheless able to say they are [fulfilling the affordable housing obligation of 25% affordable housing](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!ODWxL4QoZvkgXXbACxb5vg%3d%3d!%7d%7d%7d).  This is because the amount of affordable housing is measured as a percentage of habitable rooms, not units. The [officers report](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!swSywGCW3zgzV1miHXgXSg%3d%3d!%7d%7d%7d) to the planning committee noted that there were a relatively high proportion of larger affordable units.
 These are undoubtedly welcome, but do mean that there is just 20% affordable housing when measured by units. 
 
 ## Viability questions
