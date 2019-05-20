@@ -60,7 +60,7 @@ This came with the reassurance that should public funding become available the a
 
 Lendlease's detailed MP5 H7 application is almost the final chapter in the [redevelopment of the Heygate estate](http://35percent.org/heygate-regeneration-faq/) and it allows us to evaluate what is being delivered, against what was said and what was approved by Southwark Council, back in 2013.
 
-It is now apparent that while Lendlease will fulfill its reduced affordable housing obligation they intend to do so by delivering fewer affordable homes. Lendlease has also been granted a change in the permission that has allowed them to build many more units.  The upshot is that Lendlease has about 190 more free-market homes to sell.
+It is now apparent that while Lendlease will fulfil its reduced affordable housing obligation they intend to do so by delivering fewer affordable homes. Lendlease has also been granted a change in the permission that has allowed them to build many more units.  The upshot is that Lendlease has about 190 more free-market homes to sell.
 
 Southwark, on the other hand, neglected to secure the number of homes to be built and gave Lendlease the opportunity to build more, without getting any improvement in the affordable housing situation. There also appears to have been no effort to take advantage of any public funding. 
 
