@@ -5,7 +5,7 @@ subtitle: Lendlease exceeds number of homes approved
 published: false
 ---
 
-## Only 15 social rent on MP5 phase
+## Only 15 social rent on final MP5 phase
 
 The [detailed planning application]((http://planbuild.southwark.gov.uk/documents/?casereference=19/AP/1166&system=DC)) for in the last residential plot in the redeveloped Heygate estate has been submitted to Southwark Council by developer Lendlease.
 
