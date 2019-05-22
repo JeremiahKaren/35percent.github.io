@@ -112,10 +112,10 @@ You can __OBJECT HERE__:
         <label for="message">Comment:</label>
         <textarea name="message" id="message" cols="55" rows="10">Dear Southwark Planning,
 This application is pursuant to the outline planning permission granted to developer Lendlease for the redevelopment of the Heygate estate (ref 12/AP/1092). This entailed an obligation to build 25% affordable housing.
-          
+ 
 It is now apparent that while Lendlease will fulfil its affordable housing obligation they intend to do so by delivering fewer affordable homes than the planning committee were told would be delivered, when they gave approval for the redevelopment. The
 committee was told there would be 570 affordable homes, while Lendlease will be delivering only 541.
-          
+
 Since permission was given Lendlease has also been granted a change to that permission that will allow them to build 220 more units than the original maximum.
 Southwark, on the other hand, has neglected to secure the number of homes to be built and gave Lendlease the opportunity to build more, without getting any improvement in the affordable housing situation. There also appears to have been no effort to take advantage of any public funding.
 
@@ -134,6 +134,6 @@ Yours sincerely,
   </form>
 
 <meta name="twitter:card" content="summary" />
-<meta name="twitter:title" content="Elephant & Castle shopping centre" />
-<meta name="twitter:description" content="Traders and campaigners step up the fight with legal challenge" />
-<meta name="twitter:image" content="http://35percent.org/img/traderscomp.jpeg" />
+<meta name="twitter:title" content="Elephant Park - the final chapter" />
+<meta name="twitter:description" content="Final phase of Heygate scheme breaches consented housing numbers" />
+<meta name="twitter:image" content="http://35percent.org/img/epark92socialrent.jpg" />
