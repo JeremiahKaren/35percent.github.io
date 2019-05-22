@@ -75,4 +75,65 @@ This final Heygate application must be decided by the planning committee, not of
 
 The planning committee must refuse planning permission, unless Lendlease increases the total number of affordable homes, back to the indicative 570 the planning committee approved, plus 25% of the additional 220 units it has gained over the original maximum build.  This would give us a much-needed 84 affordable homes and half of these must be social rented, as Southwark's housing policy requires.
 
-You can OBJECT HERE.
+You can __OBJECT HERE__:
+<form id="form5" action="https://thirtyfivepercent.herokuapp.com/" method="post"> 
+<fieldset><legend>Fill in the details below to object to the planning application.</legend>
+<div id="mc_embed_signup">
+<div class="indicates-required"><span class="asterisk">*</span> indicates required</div>
+<p class="first" style="margin:20px">
+        <label for="name">Title:</label>
+        <input type="text" name="title" id="title" size="5" placeholder="Mr" /><span class="asterisk">*</span>
+  </p>
+<p style="margin:20px">
+        <label for="email">First Name:</label>
+        <input type="text" name="firstname" id="firstname" size="15" placeholder="Joe"/><span class="asterisk">*</span>
+  </p>
+<p style="margin:20px">
+        <label for="email">Surname:</label>
+        <input type="text" name="surname" id="surname" size="21" placeholder="Bloggs"/><span class="asterisk">*</span>
+  </p>
+  <p style="margin:20px">
+        <label for="email">Email:</label>
+        <input type="text" name="email" id="email" size="23" placeholder="joebloggs@gmail.com"/><span class="asterisk">*</span>
+  </p>
+  <p style="margin:20px">
+        <label for="address">Address:</label>
+        <input type="text" name="address" id="address" size="27" placeholder="99 Chaplin Street"/><span class="asterisk">*</span>
+  </p>
+  <p style="margin:20px">
+        <label for="address">Town/City:</label>
+        <input type="text" name="city" id="city" size="12" placeholder="London"/><span class="asterisk">*</span>
+  </p>
+  <p style="margin:20px">
+        <label for="postcode">Postcode:</label>
+        <input type="text" name="postcode" id="postcode" size="10" placeholder="SE17 1RS"/><span class="asterisk">*</span>
+  </p>
+   <p style="margin:20px">
+        <label for="message">Comment:</label>
+        <textarea name="message" id="message" cols="55" rows="10">Dear Southwark Planning,
+This application is pursuant to the outline planning permission granted to developer Lendlease for the redevelopment of the Heygate estate (ref 12/AP/1092). This entailed an obligation to build 25% affordable housing.
+          
+It is now apparent that while Lendlease will fulfil its affordable housing obligation they intend to do so by delivering fewer affordable homes than the planning committee were told would be delivered, when they gave approval for the redevelopment. The
+committee was told there would be 570 affordable homes, while Lendlease will be delivering only 541.
+          
+Since permission was given Lendlease has also been granted a change to that permission that will allow them to build 220 more units than the original maximum.
+Southwark, on the other hand, has neglected to secure the number of homes to be built and gave Lendlease the opportunity to build more, without getting any improvement in the affordable housing situation. There also appears to have been no effort to take advantage of any public funding.
+
+This final Heygate application must be decided by the planning committee, not officers alone. It must ask why we are getting fewer affordable housing units than it was told to expect, while Lendlease were allowed to build more units in total. The
+committee must also ask why there have been no viability assessments or reviews since 2013 and what has been done to improve the affordable housing.
+
+The planning committee must refuse planning permission, unless Lendlease increases the total number of affordable homes, back to the indicative 570 the planning committee approved, plus 25% of the additional 220 units it has gained over the original maximum build. This would give us a much-needed 84 affordable
+homes and half of these must be social rented, as Southwark's planning policy requires.
+
+Yours sincerely,
+</textarea>
+  </p>
+  <p class="submit" style="margin:20px"><button type="submit">Send Objection</button></p>
+</div>
+   </fieldset>
+  </form>
+
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:title" content="Elephant & Castle shopping centre" />
+<meta name="twitter:description" content="Traders and campaigners step up the fight with legal challenge" />
+<meta name="twitter:image" content="http://35percent.org/img/traderscomp.jpeg" />
