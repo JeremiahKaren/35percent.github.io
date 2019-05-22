@@ -25,11 +25,17 @@ Only 541 of these homes will be affordable, twenty-nine fewer than the indicativ
 
 The figures for the total and affordable units are given in planning documents for MP5, the final phase of the development - Table 7 of the [Reserved Matters Affordable Housing Strategy](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!Mz5nzvZX38X%2fWRNbT2Vd6A%3d%3d!%7d%7d%7d) and Table 8.1 of the [Reconciliation Statement](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!ODWxL4QoZvkgXXbACxb5vg%3d%3d!%7d%7d%7d) for the [Elephant Park - MP5 H7 Reserved Matters Application](https://planning.southwark.gov.uk/online-applications/applicationDetails.do?activeTab=externalDocuments&keyVal=_STHWR_DCAPR_9582742).  The figure for the 570 approved affordable homes was given on page 9 of the planning committee's [addendum report](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!Q7K%2bVQ5GwV3kVWHHRXBCqg%3d%3d!%7d%7d%7d)   (correcting a previous figure of [574](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!swSywGCW3zgzV1miHXgXSg%3d%3d!%7d%7d%7d)).
 
+![](http://35percent.org/img/para163.png)
+
+![](http://35percent.org/img/reconc.png)
+
 ## Southwark fail to secure housing numbers
 
   The increase from 2,469 to 2,689 total units on Elephant Park  has been facilitated by an [amendment](https://planning.southwark.gov.uk/online-applications/applicationDetails.do?activeTab=externalDocuments&keyVal=_STHWR_DCAPR_9580199) to the original planning permission.  This was made in November 2018 and changed the way the amount of residential space was calculated by [replacing the minimum and maximum figures for residential units](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!s8fyBoziHiy%2fr1TPdwL8eQ%3d%3d!%7d%7d%7d) with floorspace figures. The floorspace figures remained the same as those [approved by the planning committee](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!hgyBVuEH%2b8BxXry2bGRAtA%3d%3d!%7d%7d%7d)   (160,579sqm GEA {min} and 254,400sqm GEA {max}), but by removing the unit figures the amendment enables Lendlease to build more homes within the allowed floorspace.
 
 It also transpires that the [number of units to be built were not secured](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!RmPsohICrz2DqmiiC%2fGX%2fQ%3d%3d!%7d%7d%7d) in the original planning permission, thus opening the door to the amendment, which was deemed 'non-material' and so was approved by officers and not referred back to the planning committee.
+ 
+![](http://35percent.org/img/orpara8.png)
 
 ## Policy compliance
 
@@ -44,6 +50,7 @@ Officers at the time of the application's determination proposed only an early v
 
 The increase in maximum units to 2,689 units with the 29 unit drop in affordable housing gives Lendlease about 190 more free-market homes than the planning committee was led to believe would be built.  These have a rough estimated value of £80m, a figure that obviously cannot have featured in the 2012 [viability assessment](http://crappistmartin.github.io/images/HeygateViabilityAssessment_MainReport.pdf).  This assessment was made on the basis of 2,462 units and concluded that the scheme could not provide 35% affordable housing and that only a very small fraction could be social rented.
 
+![](http://35percent.org/img/orfigs.png)
 
 ## No public funding?
 
