@@ -22,3 +22,12 @@ Grant funding hasn't been applied for. Bizzarely the viability assessment for th
 Former deputy Council leader turned development consultant has assisted by ['providing public affairs and stakeholder engagement services and arranging meetings with key stakeholders'](http://carvil-ventures.co.uk/southernwood-retail-park-old-kent-road). 
 
 [Objections](https://www.architectsjournal.co.uk/news/historic-england-raises-concern-over-pilbrow-and-partners-southwark-tower/10038794.article) have been made by Historic England.
+
+
+
+http://planbuild.southwark.gov.uk/documents/?casereference=18/AP/3551&system=DC
+
+4.19
+Additional cost
+GE’s appraisal incorporates £4.7 million of additional costs which are identified as confidential for
+commercial reasons.
