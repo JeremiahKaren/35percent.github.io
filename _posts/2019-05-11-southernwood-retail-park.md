@@ -44,9 +44,9 @@ The planning committee report fudges the question of the higher threshold for pu
 
 ![](http://35percent.org/img/southernwoodor.png)
 
-Grant funding hasn't been applied for. Bizzarely the viability assessment for the scheme claims that grant funding would make it less viable... 
+It refers the question to the GLA's Guidance Note - [Threshold Approach to Affordable Housing on Public Land](https://www.london.gov.uk/sites/default/files/practice_note_on_threshold_approach_to_affordable_housing_on_public_land_july_2018.pdf) which defines 'public land' as _"Land that is owned or in use by a public sector organisation, or company or organisation in public ownership." (para 9) and goes on to say that any question of what constitutes public land _"will be determined with reference to the [Public Sector Classifications Guide (PSCG) published by the Office for National Statistics](https://www.ons.gov.uk/economy/nationalaccounts/uksectoraccounts/datasets/publicsectorclassificationguide)"_ which says that:  
 
-[](link)
+> "ONS concluded that a Local Government Pension Scheme was the pension administrator in the public pension fund subsector (S.12901) and (ii) Local Authorities in England, Wales, Scotland and Northern Ireland were the scheme’s pension manager in the local government subsector (S.1313). This means any difference between the pension entitlements and the assets held by the Scheme will be attributed to the local government subsector as an asset/liability."
 
 Former deputy Council leader turned development consultant has assisted by ['providing public affairs and stakeholder engagement services and arranging meetings with key stakeholders'](http://carvil-ventures.co.uk/southernwood-retail-park-old-kent-road). 
 
