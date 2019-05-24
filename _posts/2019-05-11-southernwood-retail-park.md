@@ -31,3 +31,5 @@ http://planbuild.southwark.gov.uk/documents/?casereference=18/AP/3551&system=DC
 Additional cost
 GE’s appraisal incorporates £4.7 million of additional costs which are identified as confidential for
 commercial reasons.
+
+£785 per square foot sales estimate - current day values and as BNP Paribas points out based on sales on ex-local authority flats on surrounding estates. No consideration that it will be next to a zone 1 Bakerloo line tube station. Scheme will pay just £2m in Mayoral CIL, presumably towards cost of tube station.
