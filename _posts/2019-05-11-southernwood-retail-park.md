@@ -10,7 +10,7 @@ Viability assessments have become notorious as a means used by developers to [av
 
 Over the past few years housing [campaigners](viability-assessments)and several [high profile](olly wainwright article) cases have managed to shed some light on this dark art how, leading to [changes in policy](Mayors SPD, Southwark SPD) and greater scrutiny of developer's viability claims.
 
-In Southwark this had meant we are now getting affordable housin that is compliant 
+In Southwark this had meant we are starting [to get 35% affordable housing](examples) that we have been denied until now.  But while developers are offering 35% affordable housing, they continue to insist that their scemes are unviable.  Southernwood Retail Park is a case in point.  Here the developer (Glasgow City Council) claims that they will only make 2.24% profit on Gross Development Value (GDV); Southwark's consultants beg to differ and say 16.37% can be made.  Both figures fall short of the developer's profit target (set by themselves) of 18.84%, so the development is officially 'unviable',  Nonetheless the developer says that they will deliver 35% affordable housing, 25% social rent, 10% intermediate, in line with local housing policy.
 
 
 
