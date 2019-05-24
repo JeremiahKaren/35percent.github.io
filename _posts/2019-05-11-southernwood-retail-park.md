@@ -6,16 +6,15 @@ title: Southernwood Retail Park
 
 Viability
 
-Viability has become notorious as a means used by developers to avoid meeting their affordable housing obligations (Shelter).  Developers produce viability assessments that show that the requirements laid down by local authorities, cannot be met without rendering the scheme financilly unviable and thus undeliverable.  
+Viability assessments have become notorious as a means used by developers to [avoid meeting](Shelter report) their affordable housing obligations. The assessments purport to show that the requirements laid down by local authorities cannot be met without rendering the scheme financially unviable and thus undeliverable, leading to the affordable housing requirement being reduced  
 
-chemeSeveral high profile case have managed to drag it someway into the 
+Over the past few years housing [campaigners](viability-assessments)and several [high profile](olly wainwright article) cases have managed to shed some light on this dark art how, leading to [changes in policy](Mayors SPD, Southwark SPD) and greater scrutiny of developer's viability claims.
 
-While the local p
-
-
+In Southwark this had meant we are now getting affordable housin that is compliant 
 
 
-Viability has become a thing in planning since several [high profile](olly wainwright article) cases of developers using viability assessments to avoid affordable housing led to [campaigning](/viability-assessments) and [changes in policy].   
+
+Viability has become a thing in planning since several [high profile](olly wainwright article) cases of developers using viability assessments to avoid affordable housing led to  and [changes in policy].   
 
 One of the things that Developers hate most about the new policy requirements is something called a 'late stage review mechanism'. 
 
