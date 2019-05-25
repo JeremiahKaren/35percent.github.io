@@ -14,7 +14,7 @@ Southernwood offers 35% affordable housing; 25% of the total housing will be soc
 
 ## Viability conundrum
 
-Southernwood joins [Ruby Triangle](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!oY11bGc7aC6RJOzPXGXlpQ%3d%3d!%7d%7d%7d) and [Cantium Retail Park](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!4ZdM8nfyvjj19tOftU%2fPPQ%3d%3d!%7d%7d%7d) as a scheme where the developer offers 35% affordable housing, while at the same time insisting it is unviable scheme. Southwark's consultants agree, but estimate that Southernwood can generate a much higher level of profit than Glasgow CC claim.  The Officer's report accepts the 35% affordable offer, but without addressing this difference in the profit estimates.
+Southernwood joins [Ruby Triangle](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!oY11bGc7aC6RJOzPXGXlpQ%3d%3d!%7d%7d%7d) and [Cantium Retail Park](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!4ZdM8nfyvjj19tOftU%2fPPQ%3d%3d!%7d%7d%7d) as a scheme where the developer offers 35% affordable housing, while at the same time insisting it is unviable. Southwark's consultants agree, but estimate that Southernwood can generate a much higher level of profit than developer Glasgow CC claim.  The Officer's report accepts the 35% affordable offer, but without addressing this difference in the profit estimates.
 
 After so many major developments [at the Elephant & Castle](link) and elsewhere in Southwark have been allowed to flout affordable housing requirements on viability grounds, this can be counted as progress, but it leaves the true viability of the Southernwood scheme unresolved.  This is important, because as well as all the quantitative affordable housing requirements, there is also a general requirement to produce [the maximum reasonable amount of affordable housing](link).
 
@@ -23,9 +23,7 @@ Unlike Ruby Triangle, but like Cantium Retail Park, no 'late stage review' of vi
 
 ## Affordable housing - 35%, 40% or 50%?
 
-
-
-Two features in Southernwood application stand out, though - the first is that the applicant, Glasgow City Council, is reluctant to take advantage of public funding, [available from the Mayor of London](link), which could raise the affordable housing to at least 40%, giving another 30 or so affordable homes.  All schemes are expected to consider this, to maximise affordable housing, or this grant funding, under the [Mayor's Housing policy](https://www.london.gov.uk/sites/default/files/ah_viability_spg_20170816.pdf).
+Two other features in Southernwood application stand out - the first is that the applicant, Glasgow City Council, is reluctant to take advantage of public funding, [available from the Mayor of London](link), which could raise the affordable housing to at least 40%, giving another 30 or so affordable homes.  All schemes are expected to consider this, to maximise affordable housing, or this grant funding, under the [Mayor's Housing policy](https://www.london.gov.uk/sites/default/files/ah_viability_spg_20170816.pdf).
 
 The second feature is that the site is owned by a local authority and as public land should deliver[50% affordable](link), under the [draft New London Plan](link), raising the number to about 360. Another reason it should be getting 50% affordable housing is that it is in Strategic Industrial Location links. 
 
