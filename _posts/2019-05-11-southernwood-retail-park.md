@@ -12,11 +12,9 @@ The site is currently occupied by Argos and Sports Direct, just opposite Tesco a
 
 Southernwood offers 35% affordable housing; 25% of the total housing will be social rent, 10% intermediate )(rounded up figures), in line with the [emerging New Southwark Plan](https://www.southwark.gov.uk/planning-and-building-control/planning-policy-and-transport-policy/development-plan/local-plan?chapter=4), giving 219 units.
 
-It joins Ruby Triangle, Cantium Retail Park and Malt St as [one of four major developments](https://www.homesandproperty.co.uk/property-news/old-kent-road-set-for-major-highrise-transformation-with-20000-new-homes-if-bakerloo-line-extension-a125611.html),delivering xxxx homes in total, that have or will be determined in advance of the adoption of the [Old Kent Rd Area Action Plan]  (https://www.southwark.gov.uk/planning-and-building-control/planning-policy-and-transport-policy/development-plan/area-action-plans?chapter=2). Numerous smaller developments are also [in the pipeline](link).
-
 ## Viability conundrum
 
-Southernwood follows [Ruby Triangle](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!oY11bGc7aC6RJOzPXGXlpQ%3d%3d!%7d%7d%7d) and [Cantium Retail Park](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!4ZdM8nfyvjj19tOftU%2fPPQ%3d%3d!%7d%7d%7d), as a scheme where the developer offers 35% affordable housing, while at the same time insisting it is unviable scheme. Southwark's consultants agree, but estimate that Southernwood can generate a much higher level of profit than Glasgow CC claim.  The Officer's report accepts the 35% affordable offer, but without addressing this difference in the profit estimates.
+Southernwood joins [Ruby Triangle](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!oY11bGc7aC6RJOzPXGXlpQ%3d%3d!%7d%7d%7d) and [Cantium Retail Park](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!4ZdM8nfyvjj19tOftU%2fPPQ%3d%3d!%7d%7d%7d) as a scheme where the developer offers 35% affordable housing, while at the same time insisting it is unviable scheme. Southwark's consultants agree, but estimate that Southernwood can generate a much higher level of profit than Glasgow CC claim.  The Officer's report accepts the 35% affordable offer, but without addressing this difference in the profit estimates.
 
 After so many major developments [at the Elephant & Castle](link) and elsewhere in Southwark have been allowed to flout affordable housing requirements on viability grounds, this can be counted as progress, but it leaves the true viability of the Southernwood scheme unresolved.  This is important, because as well as all the quantitative affordable housing requirements, there is also a general requirement to produce [the maximum reasonable amount of affordable housing](link).
 
@@ -94,5 +92,8 @@ Southwark's [independent review](http://planbuild.southwark.gov.uk/documents/?Ge
 There's little point in forcing developers to disclose viability assessments if major components of these can't be interrogated because of 'commercial confidentiality'.
 
 Hence the recent flurry of schemes offering the 35%  at the same time as pleading viability poverty such that the viability baseline used in the event of an early stage review is kept very low.
+
+It joins Ruby Triangle, Cantium Retail Park and Malt St as [one of four major developments](https://www.homesandproperty.co.uk/property-news/old-kent-road-set-for-major-highrise-transformation-with-20000-new-homes-if-bakerloo-line-extension-a125611.html),delivering xxxx homes in total, that have or will be determined in advance of the adoption of the [Old Kent Rd Area Action Plan]  (https://www.southwark.gov.uk/planning-and-building-control/planning-policy-and-transport-policy/development-plan/area-action-plans?chapter=2). Numerous smaller developments are also [in the pipeline](link).
+
 
 
