@@ -18,7 +18,9 @@ The scheme offers 35% affordable housing; 25% of the total housing will be socia
 
 Two features in Southernwood application stand out, though - the first is that the applicant, Glasgow City Council, is reluctant to take advantage of public funding, [available from the Mayor of London](link), which could raise the affordable housing to at least 40%, giving another 30 or so afforable homes.  All scemes are expected to consider this, to maximise affordable housing, or this grant funding, under the [Mayor's Housing policy](https://www.london.gov.uk/sites/default/files/ah_viability_spg_20170816.pdf).
 
-The second feature is that the site is owned by a local authority and as public land should deliver[50% affordable](link), under the [draft New London Plan](link), raising the number to about 360. Another reason it should be getting 50% affordable housing is that it is in Strategic Industrial Location links.   
+The second feature is that the site is owned by a local authority and as public land should deliver[50% affordable](link), under the [draft New London Plan](link), raising the number to about 360. Another reason it should be getting 50% affordable housing is that it is in Strategic Industrial Location links. 
+
+The [Mayor's policy](https://www.london.gov.uk/what-we-do/planning/london-plan/new-london-plan/draft-new-london-plan/chapter-4-housing/policy-h6-threshold-approach-applications) has two exceptions where in the case of public land or sites in Strategic Industrial Locations the threshold is increased to 50%.
 
 
 ## Public funding? No thanks
@@ -33,13 +35,11 @@ Achieving 40% affordable housing has the advantage that all the affordable homes
 
 The Southernwood follows Cantium Retail Park and Ruby Triangle by offering 35% affordable housing, while be presented as an unviable scheme.  After so many major develpoments [at the Elephant & Castle](link) and elsewhere in Southwark have been allowed to flout affordable housing requirements on viability grounds, this can be counted as progress, but it leaves the true viability of the Southernwood scheme unresolved.  This is important because as well as all the quantitive requirements there is also a requirement to produce [the maximum reasonable amount of afforddable housing](link), which could increase the affordable housing beyond 35%.
 
-An explanation for this trend is that developers wish to avoid a 
-
-This is a requirement of the [Mayor's planning policy](https://www.london.gov.uk/sites/default/files/ah_viability_spg_201708152.pdf) which also imposes a 'late stage viability review' for schemes that don't meet the 35% affordable housing requirement. This is a more comprehensive review which forces developers to disclose in detail the actual costs spent, revenue received and actual profit made from a scheme in order for a local authority to be able to 'claw back' additional affordable housing from the surplus profit.
+An explanation for this trend is that developers may be wanting to avoid a 'late stage viability review', which might actually establish the real viability aand profitibility.  This is a requirement of the [Mayor's planning policy](https://www.london.gov.uk/sites/default/files/ah_viability_spg_201708152.pdf) for schemes that don't meet the 35% affordable housing requirement. This is a more comprehensive review which forces developers to disclose in detail the actual costs spent, revenue received and actual profit made from a scheme in order for a local authority to be able to 'claw back' additional affordable housing from the surplus profit.
 
 Hence the recent flurry of schemes offering the 35% in order to avoid a late stage review at the same time as pleading viability poverty such that the viability baseline used in the event of an early stage review is kept very low.
 
-The [Mayor's policy](https://www.london.gov.uk/what-we-do/planning/london-plan/new-london-plan/draft-new-london-plan/chapter-4-housing/policy-h6-threshold-approach-applications) has two exceptions where in the case of public land or sites in Strategic Industrial Locations the threshold is increased to 50%.
+
 
 
 ## Public land? Maybe not
