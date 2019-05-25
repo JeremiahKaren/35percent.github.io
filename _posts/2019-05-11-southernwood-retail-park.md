@@ -42,13 +42,11 @@ Former deputy Council leader turned development consultant has assisted by ['pro
 
 [Objections](https://www.architectsjournal.co.uk/news/historic-england-raises-concern-over-pilbrow-and-partners-southwark-tower/10038794.article) have been made by Historic England.
 
+Southwark's [independent review](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!wHlqJHGSqYenUM8dzFIwTw%3d%3d!%7d%7d%7d) of the applicant's viability assessment raises the issue of a £4.7m unitemised cost - unexplained because of 'commercial confidentiality'. 
+
+![](http://35percent.org/img/addcosts.png)
+
+There's little point in forcing developers to disclose viability assessments if major components of these can't be interrogated because of 'commercial confidentiality'.
 
 
-http://planbuild.southwark.gov.uk/documents/?casereference=18/AP/3551&system=DC
 
-4.19
-Additional cost
-GE’s appraisal incorporates £4.7 million of additional costs which are identified as confidential for
-commercial reasons.
-
-£785 per square foot sales estimate - current day values and as BNP Paribas points out based on sales on ex-local authority flats on surrounding estates. No consideration that it will be next to a zone 1 Bakerloo line tube station. Scheme will pay just £2m in Mayoral CIL, presumably towards cost of tube station.
