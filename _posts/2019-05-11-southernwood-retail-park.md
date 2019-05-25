@@ -26,15 +26,13 @@ Two other features in Southernwood application stand out - the first is that the
 The second feature is that the site is both owned by a local authority and is area marked as a Strategic Industrial Location and on both counts should deliver 50% affordable housing(link), under the [draft New London Plan](https://www.london.gov.uk/sites/default/files/draft_london_plan_-showing_minor_suggested_changes_july_2018.pdf), raising the number to about 360.
 
 
-The [Mayor's policy](https://www.london.gov.uk/what-we-do/planning/london-plan/new-london-plan/draft-new-london-plan/chapter-4-housing/policy-h6-threshold-approach-applications) has two exceptions where in the case of public land or sites in Strategic Industrial Locations the threshold is increased to 50%.
 
 
 ## Public funding? No thank you.
 
 The surprising reason Glasgow City Council (Glasgow CC) give for not applying for public funding is that it claims it will make the scheme [less viable](link).  As related in the [Officer's report](link para), this is because the £28,000 per unit grant will not make up the full loss in value of converting free market units into affordable units.  Glasgow CC also claim that the development as it is will only make a profit of [2.4% GDV (Gross Development Value)](link cash figure) and that raising the level of affordable housing, with grant, would reduce this by £4.45m, even if they obtained a grant.
 
-GCC is roundly contradicted by Southwark's own consultants though who say that a profit of 16.37% GDV can be achieved, though this is still below the target profit Glasgow CC of 18.84% set for itself.  The Officer's report proposes a condition that this is reconsidered, before the scheme is implemented, if permission is given.
-
+GCC is roundly contradicted by Southwark's own consultants though who say that a profit of 16.37% GDV can be achieved, though this is still below the target profit Glasgow CC of 18.84% set for itself.  
 
 Achieving 40% affordable housing has the advantage that all the affordable homes become eligible for the grant
 
@@ -49,7 +47,7 @@ The planning commitee will be very tempted to pass this appication, given it get
 
 follows the Ruby Triangle and Cantium Retail Park as the latest the big developments along the Old Kent Rd to , . to go to planning, in advance of the Old Kent Rd Area Action Plan, which now begins to look increasingly redundant being adopted
 
-The site is just opposite Tesco, proposed site of a future Bakerloo line extension, and over the Road from Burgess Park and so is well placed
+
 
 
 
@@ -92,6 +90,9 @@ There's little point in forcing developers to disclose viability assessments if 
 Hence the recent flurry of schemes offering the 35%  at the same time as pleading viability poverty such that the viability baseline used in the event of an early stage review is kept very low.
 
 It joins Ruby Triangle, Cantium Retail Park and Malt St as [one of four major developments](https://www.homesandproperty.co.uk/property-news/old-kent-road-set-for-major-highrise-transformation-with-20000-new-homes-if-bakerloo-line-extension-a125611.html),delivering xxxx homes in total, that have or will be determined in advance of the adoption of the [Old Kent Rd Area Action Plan]  (https://www.southwark.gov.uk/planning-and-building-control/planning-policy-and-transport-policy/development-plan/area-action-plans?chapter=2). Numerous smaller developments are also [in the pipeline](link).
+
+The [Mayor's policy](https://www.london.gov.uk/what-we-do/planning/london-plan/new-london-plan/draft-new-london-plan/chapter-4-housing/policy-h6-threshold-approach-applications) has two exceptions where in the case of public land or sites in Strategic Industrial Locations the threshold is increased to 50%.
+
 
 
 
