@@ -23,7 +23,7 @@ The second feature is that the site is owned by a local authority and as public 
 The [Mayor's policy](https://www.london.gov.uk/what-we-do/planning/london-plan/new-london-plan/draft-new-london-plan/chapter-4-housing/policy-h6-threshold-approach-applications) has two exceptions where in the case of public land or sites in Strategic Industrial Locations the threshold is increased to 50%.
 
 
-## Public funding? No thanks
+## Public funding? No thank you.
 
 The surprising reason Glasgow City Council (GCC) give for not applying for public funding is that it claims it will make the scheme [less viable](link).  As related in the [Officer's report](link para), this is because the £28,000 per unit grant will not make up the full loss in value of converting free market units into affordable units.  Glasgow CC also claim that the development as it is will only make a profit of [2.4% GDV (Gross Development Value)](link cash figure) and that raising the level of affordable housing, with grant, would reduce this by £4.45m, even if they obtained a grant.
 
@@ -33,15 +33,11 @@ Achieving 40% affordable housing has the advantage that all the affordable homes
 
 ## Viability conundrum
 
-Southernwood follows [Ruby Triangle](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!oY11bGc7aC6RJOzPXGXlpQ%3d%3d!%7d%7d%7d) and [Cantium Retail Park](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!4ZdM8nfyvjj19tOftU%2fPPQ%3d%3d!%7d%7d%7d), as a scheme where the developer offers 35% affordable housing, while at the same time insisting it is unviable scheme. Southwark's consultants agree, but estimate that the scheme can generate a much higher level of profit than Glasgow CC claim.  The Officer's report accepts the 35% affordable offer, but without addressing this difference in the profit estimates.
+Southernwood follows [Ruby Triangle](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!oY11bGc7aC6RJOzPXGXlpQ%3d%3d!%7d%7d%7d) and [Cantium Retail Park](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!4ZdM8nfyvjj19tOftU%2fPPQ%3d%3d!%7d%7d%7d), as a scheme where the developer offers 35% affordable housing, while at the same time insisting it is unviable scheme. Southwark's consultants agree, but estimate that Southernwood can generate a much higher level of profit than Glasgow CC claim.  The Officer's report accepts the 35% affordable offer, but without addressing this difference in the profit estimates.
 
-After so many major develpoments [at the Elephant & Castle](link) and elsewhere in Southwark have been allowed to flout affordable housing requirements on viability grounds, this can be counted as progress, but it leaves the true viability of the Southernwood scheme unresolved.  This is important, because as well as all the quantitive affordable housing requirements, there is also a general requirement to produce [the maximum reasonable amount of affordable housing](link).
+After so many major developments [at the Elephant & Castle](link) and elsewhere in Southwark have been allowed to flout affordable housing requirements on viability grounds, this can be counted as progress, but it leaves the true viability of the Southernwood scheme unresolved.  This is important, because as well as all the quantitative affordable housing requirements, there is also a general requirement to produce [the maximum reasonable amount of affordable housing](link).
 
-Unlike Ruby Triangle though, no 'late stage review' of viability is proposed for Southernwood, which might establish the schemes's real profitibility.  This is a requirement of the [Mayor's planning policy](https://www.london.gov.uk/sites/default/files/ah_viability_spg_201708152.pdf) for schemes that don't meet the 35% affordable housing requirement. This is a more comprehensive review which forces developers to disclose in detail the actual costs spent, revenue received and actual profit made from a scheme in order for a local authority to be able to 'claw back' additional affordable housing from the surplus profit.
-
-Hence the recent flurry of schemes offering the 35% in order to avoid a late stage review at the same time as pleading viability poverty such that the viability baseline used in the event of an early stage review is kept very low.
-
-
+Unlike Ruby Triangle, but like Cantium Retail Park, no 'late stage review' of viability (as opposed to an early review) is proposed for Southernwood, which might establish the schemes's real profitability. This is a more comprehensive review where developers should disclose in detail actual costs, revenue received and profit made from a scheme, in order for the local authority to 'claw back' additional affordable housing from any greater profit.
 
 
 ## Public land? Maybe not
@@ -93,3 +89,7 @@ Southwark's [independent review](http://planbuild.southwark.gov.uk/documents/?Ge
 ![](http://35percent.org/img/addcosts.png)
 
 There's little point in forcing developers to disclose viability assessments if major components of these can't be interrogated because of 'commercial confidentiality'.
+
+Hence the recent flurry of schemes offering the 35%  at the same time as pleading viability poverty such that the viability baseline used in the event of an early stage review is kept very low.
+
+
