@@ -12,37 +12,31 @@ Over the past few years housing [campaigners](/viability-assessments)and several
 
 In Southwark this had meant we are starting [to get 35% affordable housing](examples) that we have been denied until now.  But while developers are offering 35% affordable housing, they continue to insist that their scemes are unviable.  Southernwood Retail Park is a case in point.  Here the developer (Glasgow City Council) claims that they will only make 2.24% profit on Gross Development Value (GDV); Southwark's consultants beg to differ and say 16.37% can be made.  Both figures fall short of the developer's profit target (set by themselves) of 18.84%, so the development is officially 'unviable',  Nonetheless the developer says that they will deliver 35% affordable housing, 25% social rent, 10% intermediate, in line with local housing policy.  
 
-One of the things that Developers hate most about the new policy requirements is something called a 'late stage review mechanism'. 
-
-This is where developers are forced to disclose in detail the actual costs spent, revenue received and actual profit made from a scheme in order for a local authority to be able to 'claw back' additional affordable housing.
-
-There is a complicated set of planning policy requirements that developers need to navigate in order to avoid a late stage review mechanism and here is how they are currently doing it:
-
-## Step 1: Submit a planning application that offers 35% affordable housing 
-This puts developers on a 'Fast Track' route  allowing them to avoid a late stage review mechanism.
-
-## Step 2: Avoid having to apply for grant funding
-The Mayor's planning policy requires all schemes to investigate the availability of public subsidy in order to maximise affordable housing provision (para 2.5) of the [Affordable Housing SPG](https://www.london.gov.uk/what-we-do/planning/implementing-london-plan/planning-guidance-and-practice-notes/affordable-housing-and-viability-supplementary-planning-guidance-spg)
-
-But by accompanying a planning application with a viability assessment saying that 35% affordable is being offered despite 0% being the maximum viable amount, the developer is able to avoid the grant funding available under paragraph 52 of the [Mayor's funding guidance](https://www.london.gov.uk/sites/default/files/homesforlondoners-affordablehomesprogrammefundingguidance.pdf) and invoke paragraph 80 which requires at least 40% affordable housing provision to be eligible for any grant funding.
-
-This then enables the developer argue that the conversion of 5% of its private homes to affordable housing (difference between 35% and 40%) would render the scheme less viable because of the 'gap' between the high value private sales and low value affordale units (- lead in to the case of Southernwood retail park.) 
-
 ![](http://35percent.org/img/southernwoodretailpark.jpg)
 
-[Land Registry deeds](35percent.org/lrdeeds/SouthernwoodRetailPark.pdf) show that Glasgow City Council as the owner behind the gigantic Southernwood Retail Park up for approval on xxxx.
+The reason developers are pleading poverty despite offering 35% affordable housing is that they know values will rise with the arrival of the Bakerloo line and that they may be subjected to an 'early stage viability review' if the scheme is not implemented within two years.
+
+This is a requirement of the [Mayor's planning policy](https://www.london.gov.uk/sites/default/files/ah_viability_spg_201708152.pdf) which also imposes a 'late stage viability review' for schemes that don't meet the 35% affordable housing requirement. This is a more comprehensive review which forces developers to disclose in detail the actual costs spent, revenue received and actual profit made from a scheme in order for a local authority to be able to 'claw back' additional affordable housing from the surplus profit.
+
+Hence the recent flurry of schemes offering the 35% in order to avoid a late stage review at the same time as pleading viability poverty such that the viability baseline used in the event of an early stage review is kept very low.
+
+The Mayor's policy has two exceptions where in the case of public land or sites in Strategic Industrial Locations the threshold is increased to 50%.
+
+![](http://35percent.org/img/lph6.png)
+
+The Southernwood Retail Park falls into both of these categories. It is [listed](https://www.london.gov.uk/what-we-do/planning/london-plan/new-london-plan/draft-new-london-plan/chapter-6-economy/policy-e5-strategic-industrial-locations-sil) in the Mayor's policy as a Strategic Industrial Location and [Land Registry deeds](35percent.org/lrdeeds/SouthernwoodRetailPark.pdf) show Glasgow City Council as the owner on behalf of its pension fund.
 
 ![](http://35percent.org/img/SouthernwoodRetailParkdeeds.png)
 
-This clearly invokes [Paragraph A(4) of Policy of H5 of the London Plan](https://www.london.gov.uk/what-we-do/planning/london-plan/new-london-plan/draft-new-london-plan/chapter-4-housing/policy-h5-delivering-affordable-housing) which requires 'public sector land delivering at least 50 per cent affordable housing'.
+The Mayor's planning policy is supplemented by a Guidance Note for determining what constitutes public land - [Threshold Approach to Affordable Housing on Public Land (July 2018)](https://www.london.gov.uk/sites/default/files/practice_note_on_threshold_approach_to_affordable_housing_on_public_land_july_2018.pdf) defining it as _"Land that is owned or in use by a public sector organisation, or company or organisation in public ownership" (para 9) and going on to say that any disputes concerning the definition of public land _"will be determined with reference to the [Public Sector Classifications Guide (PSCG) published by the Office for National Statistics](https://www.ons.gov.uk/economy/nationalaccounts/uksectoraccounts/datasets/publicsectorclassificationguide)"_.
 
-The planning committee report fudges the question of the higher threshold for public sector land:
-
-![](http://35percent.org/img/southernwoodor.png)
-
-It refers the question to the GLA's Guidance Note - [Threshold Approach to Affordable Housing on Public Land](https://www.london.gov.uk/sites/default/files/practice_note_on_threshold_approach_to_affordable_housing_on_public_land_july_2018.pdf) which defines 'public land' as _"Land that is owned or in use by a public sector organisation, or company or organisation in public ownership." (para 9) and goes on to say that any question of what constitutes public land _"will be determined with reference to the [Public Sector Classifications Guide (PSCG) published by the Office for National Statistics](https://www.ons.gov.uk/economy/nationalaccounts/uksectoraccounts/datasets/publicsectorclassificationguide)"_ which says that:  
+This specifically includes land owned by Local Government pension schemes:  
 
 > "ONS concluded that a Local Government Pension Scheme was the pension administrator in the public pension fund subsector (S.12901) and (ii) Local Authorities in England, Wales, Scotland and Northern Ireland were the scheme’s pension manager in the local government subsector (S.1313). This means any difference between the pension entitlements and the assets held by the Scheme will be attributed to the local government subsector as an asset/liability."
+
+Notwithstanding this Southwark argues in its planning committee report that imposing the higher 50% affordable housing threshold _"would reduce the capital value of the site and therefore  the  Fund’s  ability  to  pay  pensions  to  retired  workers"_ and that _"It  would  be  unfair  on  the  retired  workers  if  their  pension  expectation  might  possibly  be  impacted.."_
+
+
 
 Former deputy Council leader turned development consultant has assisted by ['providing public affairs and stakeholder engagement services and arranging meetings with key stakeholders'](http://carvil-ventures.co.uk/southernwood-retail-park-old-kent-road). 
 
