@@ -18,7 +18,7 @@ This is a requirement of the [Mayor's planning policy](https://www.london.gov.uk
 
 Hence the recent flurry of schemes offering the 35% in order to avoid a late stage review at the same time as pleading viability poverty such that the viability baseline used in the event of an early stage review is kept very low.
 
-The Mayor's policy has two exceptions where in the case of public land or sites in Strategic Industrial Locations the threshold is increased to 50%.
+The [Mayor's policy](https://www.london.gov.uk/what-we-do/planning/london-plan/new-london-plan/draft-new-london-plan/chapter-4-housing/policy-h6-threshold-approach-applications) has two exceptions where in the case of public land or sites in Strategic Industrial Locations the threshold is increased to 50%.
 
 ![](http://35percent.org/img/lph6.png)
 
@@ -45,6 +45,3 @@ Southwark's [independent review](http://planbuild.southwark.gov.uk/documents/?Ge
 ![](http://35percent.org/img/addcosts.png)
 
 There's little point in forcing developers to disclose viability assessments if major components of these can't be interrogated because of 'commercial confidentiality'.
-
-
-
