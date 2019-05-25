@@ -16,7 +16,7 @@ Southernwood joins [Ruby Triangle](http://planbuild.southwark.gov.uk/documents/?
 
 After so many major developments [at the Elephant & Castle](link) and elsewhere in Southwark have been allowed to flout affordable housing requirements on viability grounds, this can be counted as progress, but leaves the true viability of the Southernwood scheme unresolved.  This is important, because as well as all the quantitative affordable housing requirements, there is also a general requirement to produce [the maximum reasonable amount of affordable housing](link).
 
-Unlike Ruby Triangle, but like Cantium Retail Park, no 'late stage review' of viability (as opposed to an early review) is proposed for Southernwood, which might establish the schemes's real profitability. This is a more comprehensive review where developers should disclose in detail actual costs, revenue received and profit made from a scheme, in order for the local authority to 'claw back' additional affordable housing from any greater profit.
+Unlike Ruby Triangle, but like Cantium Retail Park, no 'late stage review' of viability is proposed for Southernwood. This is a more comprehensive review where developers should disclose in detail actual costs, revenue received and profit made from a scheme and establish the schemes's real profitability, in order for the local authority to 'claw back' additional affordable housing from any greater profit.
 
 
 ## Affordable housing - 35%, 40% or 50%?
