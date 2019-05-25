@@ -5,18 +5,20 @@ title: 'Southernwood Retail Park '
 ---
 
 
-The proposal for the developmenat of Southernwood Retail Park is due to be decided at Southwark's planning committee this Tuesday. Developer [Glasgow City Council wants permission](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!KrRBUGorCJrSgSs6BtYYVw%3d%3d!%7d%7d%7d) for a mixed-use development of 725 residential units, with a hotel, cinema, shops, restaurants and offices.
+The proposal for the development of Southernwood Retail Park is due to be decided at Southwark's planning committee this Tuesday. Developer [Glasgow City Council wants permission](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!KrRBUGorCJrSgSs6BtYYVw%3d%3d!%7d%7d%7d) for a mixed-use development of 725 residential units, with a hotel, cinema, shops, restaurants and offices.
 
 The site is currently occupied by Argos and Sports Direct, just opposite Tesco and over the road from Burgess Park.  The [proposed scheme](https://planning.southwark.gov.uk/online-applications/applicationDetails.do?activeTab=externalDocuments&keyVal=_STHWR_DCAPR_9580625) has seven blocks, including a 48 storey tower.
 
 The scheme offers 35% affordable housing; 25% of the total housing will be social rent, 10% intermediate )(rounded up figures), in line with the [emerging New Southwark Plan](https://www.southwark.gov.uk/planning-and-building-control/planning-policy-and-transport-policy/development-plan/local-plan?chapter=4).
+It joins Ruby Triangle, Cantium Retail Park and Malt St as [one of four major developments](https://www.homesandproperty.co.uk/property-news/old-kent-road-set-for-major-highrise-transformation-with-20000-new-homes-if-bakerloo-line-extension-a125611.html),delivering xxxx homes in total, that have or will be determined in advance of the adoption of the [Old Kent Rd Area Action Plan](https://www.southwark.gov.uk/planning-and-building-control/planning-policy-and-transport-policy/development-plan/area-action-plans?chapter=2) 
 
-Two features stand out though - the first is that the applicant is a local authority, Glasgow City Council and the Concil's reluctance to take advantage of public funding from the Myor of London that could get us another 30 or so afforable homes.
+Two features in Southernwood application stand out, though - the first is that the applicant, Glasgow City Council, is a local authority and second, its reluctance to take advantage of public funding from the Mayor of London that could raise the affordable housing to 40% get us another 30 or so afforable homes.
 
 This is worth examining, leads us, as always, to viability
 
 The developer should be obliged to apply for publci funding aand a decision deferreed until that is secured
 
+(loss of light industrial space; SLC objection)
 
 follows the Ruby Triangle and Cantium Retail Park as the latest the big developments along the Old Kent Rd to , . to go to planning, in advance of the Old Kent Rd Area Action Plan, which now begins to look increasingly redundant being adopted
 
