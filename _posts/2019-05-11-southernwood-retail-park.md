@@ -18,18 +18,29 @@ The scheme offers 35% affordable housing; 25% of the total housing will be socia
 
 Two features in Southernwood application stand out, though - the first is that the applicant, Glasgow City Council, is reluctant to take advantage of public funding, [available from the Mayor of London](link), which could raise the affordable housing to at least 40%, giving another 30 or so afforable homes.  All scemes are expected to consider this, to maximise affordable housing, or this grant funding, under the [Mayor's Housing policy](https://www.london.gov.uk/sites/default/files/ah_viability_spg_20170816.pdf).
 
-The second feature is that the site is owned by a local authority and as public land should deliver[50% affordable](link), under the [draft New London Plan](link), raising the number to about 360.
+The second feature is that the site is owned by a local authority and as public land should deliver[50% affordable](link), under the [draft New London Plan](link), raising the number to about 360. Another reason it should be getting 50% affordable housing is that it is in Strategic Industrial Location links.   
 
 
-## More money, less viability
+## Public funding? No thanks
 
 The surprising reason Glasgow City Council (GCC) give for not applying for public funding is that it claims it will make the scheme [less viable](link).  As related in the [Officer's report](link para), this is because the £28,000 per unit grant will not make up the full loss in value of converting free market units into affordable units.  Glasgow CC also claim that the development as it is will only make a profit of [2.4% GDV (Gross Development Value)](link cash figure) and that raising the level of affordable housing, with grant, would reduce this by £4.45m, even if they obtained a grant.
 
-GCC is roundly contradicted by Southwark's own consultants though.  They say that profit of 16.37% GDV can be achieved.  (This is still below the target profit of 18.84% (set by Glasgow CC for itself).
+GCC is roundly contradicted by Southwark's own consultants though who say that a profit of 16.37% GDV can be achieved.  (This is still below the target profit Glasgow CC of 18.84% set for itself).
 
-Achieving 40% affordable housing has the advantage that all the homes 
+Achieving 40% affordable housing has the advantage that all the affordable homes become eligible for the grant
+
+## Viability conundrum
+
+Southernwood follows Cantium Retail Park and Ruby Triangle by offering 35% affordable housing, while yet claiming to be unviable.  This can be counted as progress in Southwark, after so many major develpoments [at the Elephant & Castle](link) and eleswhere in the borough were passed 
+
+This is a requirement of the [Mayor's planning policy](https://www.london.gov.uk/sites/default/files/ah_viability_spg_201708152.pdf) which also imposes a 'late stage viability review' for schemes that don't meet the 35% affordable housing requirement. This is a more comprehensive review which forces developers to disclose in detail the actual costs spent, revenue received and actual profit made from a scheme in order for a local authority to be able to 'claw back' additional affordable housing from the surplus profit.
+
+Hence the recent flurry of schemes offering the 35% in order to avoid a late stage review at the same time as pleading viability poverty such that the viability baseline used in the event of an early stage review is kept very low.
+
+The [Mayor's policy](https://www.london.gov.uk/what-we-do/planning/london-plan/new-london-plan/draft-new-london-plan/chapter-4-housing/policy-h6-threshold-approach-applications) has two exceptions where in the case of public land or sites in Strategic Industrial Locations the threshold is increased to 50%.
 
 
+## Public land? Maybe not
 
 This is worth examining, leads us, as always, to viability
 
@@ -54,11 +65,6 @@ In Southwark this had meant we are starting [to get 35% affordable housing](exam
 
 The reason developers are pleading poverty despite offering 35% affordable housing is that they know values will rise with the arrival of the Bakerloo line and that they may be subjected to an 'early stage viability review' if the scheme is not implemented within two years.
 
-This is a requirement of the [Mayor's planning policy](https://www.london.gov.uk/sites/default/files/ah_viability_spg_201708152.pdf) which also imposes a 'late stage viability review' for schemes that don't meet the 35% affordable housing requirement. This is a more comprehensive review which forces developers to disclose in detail the actual costs spent, revenue received and actual profit made from a scheme in order for a local authority to be able to 'claw back' additional affordable housing from the surplus profit.
-
-Hence the recent flurry of schemes offering the 35% in order to avoid a late stage review at the same time as pleading viability poverty such that the viability baseline used in the event of an early stage review is kept very low.
-
-The [Mayor's policy](https://www.london.gov.uk/what-we-do/planning/london-plan/new-london-plan/draft-new-london-plan/chapter-4-housing/policy-h6-threshold-approach-applications) has two exceptions where in the case of public land or sites in Strategic Industrial Locations the threshold is increased to 50%.
 
 ![](http://35percent.org/img/lph6.png)
 
