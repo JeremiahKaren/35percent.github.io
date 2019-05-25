@@ -10,16 +10,25 @@ The proposal for the development of Southernwood Retail Park is due to be decide
 
 The site is currently occupied by Argos and Sports Direct, just opposite Tesco and over the road from Burgess Park.  The [proposed scheme](https://planning.southwark.gov.uk/online-applications/applicationDetails.do?activeTab=externalDocuments&keyVal=_STHWR_DCAPR_9580625) has seven blocks, including a 48 storey tower.
 
-The scheme offers 35% affordable housing; 25% of the total housing will be social rent, 10% intermediate )(rounded up figures), in line with the [emerging New Southwark Plan](https://www.southwark.gov.uk/planning-and-building-control/planning-policy-and-transport-policy/development-plan/local-plan?chapter=4).
 It joins Ruby Triangle, Cantium Retail Park and Malt St as [one of four major developments](https://www.homesandproperty.co.uk/property-news/old-kent-road-set-for-major-highrise-transformation-with-20000-new-homes-if-bakerloo-line-extension-a125611.html),delivering xxxx homes in total, that have or will be determined in advance of the adoption of the [Old Kent Rd Area Action Plan]  (https://www.southwark.gov.uk/planning-and-building-control/planning-policy-and-transport-policy/development-plan/area-action-plans?chapter=2). Numerous smaller developments are also [in the pipeline](link).
 
 ## Affordable housing - 35%, 40% or 50%?
 
-Two features in Southernwood application stand out, though - the first is that the applicant, Glasgow City Council, is a local authority and second, its reluctance to take advantage of public funding from the Mayor of London that could raise the affordable housing to 40% get us another 30 or so afforable homes.
+The scheme offers 35% affordable housing; 25% of the total housing will be social rent, 10% intermediate )(rounded up figures), in line with the [emerging New Southwark Plan](https://www.southwark.gov.uk/planning-and-building-control/planning-policy-and-transport-policy/development-plan/local-plan?chapter=4), giving 219 units.
+
+Two features in Southernwood application stand out, though - the first is that the applicant, Glasgow City Council, is reluctant to take advantage of public funding, [available from the Mayor of London](link), which could raise the affordable housing to at least 40%, giving another 30 or so afforable homes.
+
+The second feature is that the site is owned by a local authority and as public land should deliver[50% affordable](link), under the [draft New London Plan](link), raising the number to about 360.
+
+## More money, less viability
+
+The surprising reason Glasgow City Council (GCC) give for not applying for public funding is that it claims it will make the scheme [less viable](link).  As related in the [Officer's report](link para), this is because the £28,000 per unit grant will not make up the full loss in value of converting free market units into affordable units.  Glasgow CC also claim that the development as it is will only make a profit of [2.4% GDV (Gross Development Value)](link cash figure) and that raising the level of affordable housing, with grant, would reduce this by £4.45m, even if they obtained a grant.
+
+
 
 This is worth examining, leads us, as always, to viability
 
-The developer should be obliged to apply for publci funding aand a decision deferreed until that is secured
+The planning commitee will be very tempted to pass this appication, given it gets 35% a/h, but it should not it should defer it until GLA gives its verdict on the public land question and the developer in any event should be obliged to apply for publci funding and a decision deferreed until that is secured.
 
 (loss of light industrial space; SLC objection)
 
