@@ -4,8 +4,6 @@ published: false
 title: Southernwood Retail Park
 ---
 
-Viability
-
 Viability assessments have become notorious as a means used by developers to [avoid meeting](https://england.shelter.org.uk/__data/assets/pdf_file/0010/1434439/2017.11.01_Slipping_through_the_loophole.pdf) their affordable housing obligations. The assessments purport to show that the requirements laid down by local authorities cannot be met without rendering the scheme financially unviable and thus undeliverable, leading to the affordable housing requirement being reduced  
 
 Over the past few years housing [campaigners](/viability-assessments)and several [high profile](https://www.theguardian.com/cities/2015/jun/25/london-developers-viability-planning-affordable-social-housing-regeneration-oliver-wainwright) cases have managed to shed some light on this dark art how, leading to [changes in policy](https://www.insidehousing.co.uk/home/home/london-borough-makes-viability-assessments-public-54133) and greater scrutiny of developer's viability claims.
