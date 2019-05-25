@@ -16,13 +16,18 @@ It joins Ruby Triangle, Cantium Retail Park and Malt St as [one of four major de
 
 The scheme offers 35% affordable housing; 25% of the total housing will be social rent, 10% intermediate )(rounded up figures), in line with the [emerging New Southwark Plan](https://www.southwark.gov.uk/planning-and-building-control/planning-policy-and-transport-policy/development-plan/local-plan?chapter=4), giving 219 units.
 
-Two features in Southernwood application stand out, though - the first is that the applicant, Glasgow City Council, is reluctant to take advantage of public funding, [available from the Mayor of London](link), which could raise the affordable housing to at least 40%, giving another 30 or so afforable homes.
+Two features in Southernwood application stand out, though - the first is that the applicant, Glasgow City Council, is reluctant to take advantage of public funding, [available from the Mayor of London](link), which could raise the affordable housing to at least 40%, giving another 30 or so afforable homes.  Applying for this grant funding, under the [Mayor's Housing policy]() is obligatory 
 
 The second feature is that the site is owned by a local authority and as public land should deliver[50% affordable](link), under the [draft New London Plan](link), raising the number to about 360.
+
 
 ## More money, less viability
 
 The surprising reason Glasgow City Council (GCC) give for not applying for public funding is that it claims it will make the scheme [less viable](link).  As related in the [Officer's report](link para), this is because the £28,000 per unit grant will not make up the full loss in value of converting free market units into affordable units.  Glasgow CC also claim that the development as it is will only make a profit of [2.4% GDV (Gross Development Value)](link cash figure) and that raising the level of affordable housing, with grant, would reduce this by £4.45m, even if they obtained a grant.
+
+GCC is roundly contradicted by Southwark's own consultants though.  They say that profit of 16.37% GDV can be achieved.  (This is still below the target profit of 18.84% (set by Glasgow CC for itself).
+
+Achieving 40% affordable housing has the advantage that all the homes 
 
 
 
