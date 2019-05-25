@@ -35,7 +35,6 @@ The Classifications Guide specifically includes land owned by Local Government p
 Notwithstanding this Southwark argues in its planning committee report that imposing the higher 50% affordable housing threshold _"would reduce the capital value of the site and therefore  the  Fund’s  ability  to  pay  pensions  to  retired  workers"_ and that _"It  would  be  unfair  on  the  retired  workers  if  their  pension  expectation  might  possibly  be  impacted.."_
 
 
-
 Former deputy Council leader turned development consultant has assisted by ['providing public affairs and stakeholder engagement services and arranging meetings with key stakeholders'](http://carvil-ventures.co.uk/southernwood-retail-park-old-kent-road). 
 
 [Objections](https://www.architectsjournal.co.uk/news/historic-england-raises-concern-over-pilbrow-and-partners-southwark-tower/10038794.article) have been made by Historic England.
