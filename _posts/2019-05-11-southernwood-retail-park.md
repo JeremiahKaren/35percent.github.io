@@ -6,19 +6,15 @@ title: Southernwood Retail Park
 
 Viability
 
-Viability assessments have become notorious as a means used by developers to [avoid meeting](Shelter report) their affordable housing obligations. The assessments purport to show that the requirements laid down by local authorities cannot be met without rendering the scheme financially unviable and thus undeliverable, leading to the affordable housing requirement being reduced  
+Viability assessments have become notorious as a means used by developers to [avoid meeting](https://england.shelter.org.uk/__data/assets/pdf_file/0010/1434439/2017.11.01_Slipping_through_the_loophole.pdf) their affordable housing obligations. The assessments purport to show that the requirements laid down by local authorities cannot be met without rendering the scheme financially unviable and thus undeliverable, leading to the affordable housing requirement being reduced  
 
-Over the past few years housing [campaigners](viability-assessments)and several [high profile](olly wainwright article) cases have managed to shed some light on this dark art how, leading to [changes in policy](Mayors SPD, Southwark SPD) and greater scrutiny of developer's viability claims.
+Over the past few years housing [campaigners](/viability-assessments)and several [high profile](https://www.theguardian.com/cities/2015/jun/25/london-developers-viability-planning-affordable-social-housing-regeneration-oliver-wainwright) cases have managed to shed some light on this dark art how, leading to [changes in policy](https://www.insidehousing.co.uk/home/home/london-borough-makes-viability-assessments-public-54133) and greater scrutiny of developer's viability claims.
 
-In Southwark this had meant we are starting [to get 35% affordable housing](examples) that we have been denied until now.  But while developers are offering 35% affordable housing, they continue to insist that their scemes are unviable.  Southernwood Retail Park is a case in point.  Here the developer (Glasgow City Council) claims that they will only make 2.24% profit on Gross Development Value (GDV); Southwark's consultants beg to differ and say 16.37% can be made.  Both figures fall short of the developer's profit target (set by themselves) of 18.84%, so the development is officially 'unviable',  Nonetheless the developer says that they will deliver 35% affordable housing, 25% social rent, 10% intermediate, in line with local housing policy.
-
-
-
-Viability has become a thing in planning since several [high profile](olly wainwright article) cases of developers using viability assessments to avoid affordable housing led to  and [changes in policy].   
+In Southwark this had meant we are starting [to get 35% affordable housing](examples) that we have been denied until now.  But while developers are offering 35% affordable housing, they continue to insist that their scemes are unviable.  Southernwood Retail Park is a case in point.  Here the developer (Glasgow City Council) claims that they will only make 2.24% profit on Gross Development Value (GDV); Southwark's consultants beg to differ and say 16.37% can be made.  Both figures fall short of the developer's profit target (set by themselves) of 18.84%, so the development is officially 'unviable',  Nonetheless the developer says that they will deliver 35% affordable housing, 25% social rent, 10% intermediate, in line with local housing policy.  
 
 One of the things that Developers hate most about the new policy requirements is something called a 'late stage review mechanism'. 
 
-This is where developers are forced to disclose in detail the actual costs spent, revenue received and profit made from a scheme in order for a local authority to be able to 'claw back' surplus profit to fulfil affordable housing obligations.
+This is where developers are forced to disclose in detail the actual costs spent, revenue received and actual profit made from a scheme in order for a local authority to be able to 'claw back' additional affordable housing.
 
 There is a complicated set of planning policy requirements that developers need to navigate in order to avoid a late stage review mechanism and here is how they are currently doing it:
 
