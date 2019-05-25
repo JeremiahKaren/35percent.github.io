@@ -21,7 +21,7 @@ Unlike Ruby Triangle, but like Cantium Retail Park, no 'late stage review' of vi
 
 ## Affordable housing - 35%, 40% or 50%?
 
-Two other features in Southernwood application stand out - the first is that the applicant, Glasgow City Council, is reluctant to take advantage of the public funding, [available from the Mayor of London](link), which could raise the affordable housing to at least 40%, giving another 30 or so affordable homes.  All schemes are expected to consider this, to maximise affordable housing, or this grant funding, under the [Mayor's Housing policy](https://www.london.gov.uk/sites/default/files/ah_viability_spg_20170816.pdf).
+Two other features in Southernwood application stand out - the first is that the applicant, Glasgow City Council, is reluctant to take advantage of any public funding, [available from the Mayor of London](link), which could raise the affordable housing to at least 40%, giving another 30 or so affordable homes.  All schemes are expected to consider this, to maximise affordable housing, under the [Mayor's Housing policy](https://www.london.gov.uk/sites/default/files/ah_viability_spg_20170816.pdf).
 
 The second feature is that the site is owned by a local authority and as public land should deliver[50% affordable](link), under the [draft New London Plan](link), raising the number to about 360. Another reason 50% affordable housing is that it is in Strategic Industrial Location links. 
 
