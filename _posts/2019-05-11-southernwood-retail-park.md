@@ -31,7 +31,9 @@ Achieving 40% affordable housing has the advantage that all the affordable homes
 
 ## Viability conundrum
 
-Southernwood follows Cantium Retail Park and Ruby Triangle by offering 35% affordable housing, while yet claiming to be unviable.  This can be counted as progress in Southwark, after so many major develpoments [at the Elephant & Castle](link) and eleswhere in the borough were passed 
+The Southernwood follows Cantium Retail Park and Ruby Triangle by offering 35% affordable housing, while be presented as an unviable scheme.  After so many major develpoments [at the Elephant & Castle](link) and elsewhere in Southwark have been allowed to flout affordable housing requirements on viability grounds, this can be counted as progress, but it leaves the true viability of the Southernwood scheme unresolved.  This is important because as well as all the quantitive requirements there is also a requirement to produce [the maximum reasonable amount of afforddable housing](link), which could increase the affordable housing beyond 35%.
+
+An explanation for this trend is that developers wish to avoid a 
 
 This is a requirement of the [Mayor's planning policy](https://www.london.gov.uk/sites/default/files/ah_viability_spg_201708152.pdf) which also imposes a 'late stage viability review' for schemes that don't meet the 35% affordable housing requirement. This is a more comprehensive review which forces developers to disclose in detail the actual costs spent, revenue received and actual profit made from a scheme in order for a local authority to be able to 'claw back' additional affordable housing from the surplus profit.
 
