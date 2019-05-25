@@ -16,7 +16,7 @@ Southernwood joins [Ruby Triangle](http://planbuild.southwark.gov.uk/documents/?
 
 After so many major developments [at the Elephant & Castle](link) and elsewhere in Southwark have been allowed to flout affordable housing requirements on viability grounds, this can be counted as progress, but leaves the true viability of the Southernwood scheme unresolved.  This is important, because as well as all the quantitative affordable housing requirements, there is also a general requirement to produce [the maximum reasonable amount of affordable housing](link).
 
-Unlike Ruby Triangle, but like Cantium Retail Park, no 'late stage review' of viability is proposed for Southernwood. This is a more comprehensive review where developers should disclose in detail actual costs, revenue received and profit made from a scheme and establish the schemes's real profitability, in order for the local authority to 'claw back' additional affordable housing from any greater profit.
+Unlike Ruby Triangle, but like Cantium Retail Park, no 'late stage review' of viability is proposed for Southernwood. This is a more comprehensive review where developers should disclose in detail actual costs, revenue received and profit made from a scheme and establish the schemes's real profitability, in order for the local authority to 'claw back' additional affordable housing from any greater profit.  Given the site's position alongside the likely site of a new tube station should the Bakerloo line extension be built, this looks like a serious ommission.
 
 
 ## Affordable housing - 35%, 40% or 50%?
@@ -24,8 +24,6 @@ Unlike Ruby Triangle, but like Cantium Retail Park, no 'late stage review' of vi
 Two other features in Southernwood application stand out - the first is that the applicant, Glasgow City Council, is reluctant to take advantage of any public funding, [available from the Mayor of London](link), which could raise the affordable housing to at least 40%, giving another 30 or so affordable homes.  All schemes are expected to consider this, to maximise affordable housing, under the [Mayor's Housing policy](https://www.london.gov.uk/sites/default/files/ah_viability_spg_20170816.pdf).  The Officer's report proposes a condition that this is reconsidered, before the scheme is implemented, if permission is given.
 
 The second feature is that the site is both owned by a local authority and is area marked as a Strategic Industrial Location and on both counts should deliver 50% affordable housing(link), under the [draft New London Plan](https://www.london.gov.uk/sites/default/files/draft_london_plan_-showing_minor_suggested_changes_july_2018.pdf), raising the number to about 360.
-
-
 
 
 ## Public funding? No thank you.
@@ -46,6 +44,18 @@ The planning commitee will be very tempted to pass this appication, given it get
 (loss of light industrial space; SLC objection)
 
 follows the Ruby Triangle and Cantium Retail Park as the latest the big developments along the Old Kent Rd to , . to go to planning, in advance of the Old Kent Rd Area Action Plan, which now begins to look increasingly redundant being adopted
+
+## TfL gives scheme the red light
+
+There also appears to be a major issues around the impact of the developent on plans for the proposed Bakerloo Line Extension (BLE). In their latest communication posted on the planning website, dated 1 May 2019 TfL urge Southwark not to approve the applicaion, other than the 
+
+https://www.london-se1.co.uk/news/view/9916
+
+Phasing Old Kent Rd AAP.
+
+## Density
+
+
 
 
 
@@ -75,7 +85,7 @@ The Classifications Guide specifically includes land owned by Local Government p
 
 > "ONS concluded that a Local Government Pension Scheme was the pension administrator in the public pension fund subsector (S.12901) and (ii) Local Authorities in England, Wales, Scotland and Northern Ireland were the scheme’s pension manager in the local government subsector (S.1313). This means any difference between the pension entitlements and the assets held by the Scheme will be attributed to the local government subsector as an asset/liability."
 
-Notwithstanding this Southwark argues in its planning committee report that imposing the higher 50% affordable housing threshold _"would reduce the capital value of the site and therefore the Fund’s ability to pay pensions to retired workers"_ and that _"It would be unfair on the retired workers if their pension expectation might possibly be impacted.."_
+Notwithstanding this Southwark argues in its planning committee report that imposing the higher 50% affordable housing  _"would reduce the capital value of the site and therefore the Fund’s ability to pay pensions to retired workers"_ and that _"It would be unfair on the retired workers if their pension expectation might possibly be impacted.."_
 
 Former deputy Council leader turned development consultant has assisted by ['providing public affairs and stakeholder engagement services and arranging meetings with key stakeholders'](http://carvil-ventures.co.uk/southernwood-retail-park-old-kent-road). 
 
