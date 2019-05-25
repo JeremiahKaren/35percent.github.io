@@ -6,11 +6,11 @@ title: 'Southernwood Retail Park '
 
 ## Third of big four Old Kent Rd developments goes to committee 
 
-The proposal for the development of Southernwood Retail Park is due to be decided at Southwark's planning committee this Tuesday. Developer [Glasgow City Council wants permission](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!KrRBUGorCJrSgSs6BtYYVw%3d%3d!%7d%7d%7d) for a mixed-use development of 725 residential units, with a hotel, cinema, shops, restaurants and offices.
+[A proposal](https://planning.southwark.gov.uk/online-applications/applicationDetails.do?activeTab=externalDocuments&keyVal=_STHWR_DCAPR_9580625) for the development of Southernwood Retail Park is due to be decided at Southwark's planning committee this Tuesday. Developer [Glasgow City Council wants permission](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!KrRBUGorCJrSgSs6BtYYVw%3d%3d!%7d%7d%7d) for a mixed-use development of 725 residential units, with a hotel, cinema, shops, restaurants and offices.  The proposed scheme has seven blocks, including a 48 storey tower.
 
-The site is currently occupied by Argos and Sports Direct, just opposite Tesco and over the road from Burgess Park.  The [proposed scheme](https://planning.southwark.gov.uk/online-applications/applicationDetails.do?activeTab=externalDocuments&keyVal=_STHWR_DCAPR_9580625) has seven blocks, including a 48 storey tower.
+The site is currently occupied by Argos and Sports Direct, just opposite Tesco and over the road from Burgess Park. 
 
-Southernwood offers 35% affordable housing; 25% of the total housing will be social rent, 10% intermediate )(rounded up figures), in line with the [emerging New Southwark Plan](https://www.southwark.gov.uk/planning-and-building-control/planning-policy-and-transport-policy/development-plan/local-plan?chapter=4), giving 219 units.
+Southernwood offers, in round figures,35% affordable housing; 25% of the total housing will be social rent, 10% intermediate, in line with the [emerging New Southwark Plan](https://www.southwark.gov.uk/planning-and-building-control/planning-policy-and-transport-policy/development-plan/local-plan?chapter=4), giving 219 units.
 
 ## Viability conundrum
 
