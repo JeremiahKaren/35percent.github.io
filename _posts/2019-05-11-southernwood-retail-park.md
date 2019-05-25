@@ -1,8 +1,17 @@
 ---
 layout: post
 published: false
-title: Southernwood Retail Park
+title: 'Southernwood Retail Park '
 ---
+
+
+The proposal for the developmenat of Southernwood Retail Park is due to be decided at Southwark's planning committee this Tuesday. Developer [Glasgow City Council wants permission](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!KrRBUGorCJrSgSs6BtYYVw%3d%3d!%7d%7d%7d) for a mixed-use development of 725 residential units, with a hotel, cinema, shops, restaurants and offices.
+multi-block proposes follows the Ruby Triangle and Cantium Retail Park as the latest the big developments along the Old Kent Rd to , . to go to planning
+
+The site is just opposite Tesco, proposed site of a future Bakerloo line extension, and over the Road from Burgess Park and so is well placed
+
+
+
 
 Viability assessments have become notorious as a means used by developers to [avoid meeting](https://england.shelter.org.uk/__data/assets/pdf_file/0010/1434439/2017.11.01_Slipping_through_the_loophole.pdf) their affordable housing obligations. The assessments purport to show that the requirements laid down by local authorities cannot be met without rendering the scheme financially unviable and thus undeliverable, leading to the affordable housing requirement being reduced  
 
