@@ -16,7 +16,9 @@ Viability assessments have become notorious as a means used by developers to [av
 
 Over the past few years housing [campaigners](/viability-assessments)and several [high profile](https://www.theguardian.com/cities/2015/jun/25/london-developers-viability-planning-affordable-social-housing-regeneration-oliver-wainwright) cases have managed to shed some light on this dark art how, leading to [changes in policy](https://www.insidehousing.co.uk/home/home/london-borough-makes-viability-assessments-public-54133) and greater scrutiny of developer's viability claims.
 
-In Southwark this had meant we are starting [to get 35% affordable housing](examples) that we have been denied until now.  But while developers are offering 35% affordable housing, they continue to insist that their scemes are unviable.  Southernwood Retail Park is a case in point.  Here the developer (Glasgow City Council) claims that they will only make 2.24% profit on Gross Development Value (GDV); Southwark's consultants beg to differ and say 16.37% can be made.  Both figures fall short of the developer's profit target (set by themselves) of 18.84%, so the development is officially 'unviable',  Nonetheless the developer says that they will deliver 35% affordable housing, 25% social rent, 10% intermediate, in line with local housing policy.  
+In Southwark this had meant we are starting [to get 35% affordable housing](examples) that we have been denied until now.  But while developers are offering 35% affordable housing, they continue to insist that their scemes are unviable.  Southernwood Retail Park is a case in point.  Here the developer (Glasgow City Council) claims that they will only make 2.24% (£8.4m) profit on Gross Development Value (GDV); Southwark's consultants beg to differ and say 16.37% (£62.5m) can be made.  Both figures fall short of Glasgow's profit target (set by themselves) of 18.84%, so the development is officially 'unviable'.  Nonetheless they say that they will deliver 35% affordable housing, 25% social rent, 10% intermediate, in line with local housing policy.
+
+Its [most recent annual report](http://www.spfo.org.uk/CHttpHandler.ashx?id=42886&p=0) shows that Glasgow's pension fund has a benchmark target return of 10.4% for its real estate development assets (See DTZ, page 97). There is no explanation of how this reconciles with the 18.84% target profit stated in the viability assessment. 
 
 Southernwood joins [Ruby Triangle](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!oY11bGc7aC6RJOzPXGXlpQ%3d%3d!%7d%7d%7d) and [Cantium Retail Park](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!4ZdM8nfyvjj19tOftU%2fPPQ%3d%3d!%7d%7d%7d) as a scheme where the developer offers 35% affordable housing, while at the same time insisting it is unviable. Southwark's consultants agree, but estimate that Southernwood can generate a much higher level of profit than developer Glasgow CC claim.  The Officer's report accepts the 35% affordable offer, but without addressing the two different profit estimates.
 
@@ -92,6 +94,11 @@ The Southernwood Retail Park falls into both of these categories. It is [listed]
 Former deputy Council leader turned development consultant has assisted by ['providing public affairs and stakeholder engagement services and arranging meetings with key stakeholders'](http://carvil-ventures.co.uk/southernwood-retail-park-old-kent-road). 
 
 [Objections](https://www.architectsjournal.co.uk/news/historic-england-raises-concern-over-pilbrow-and-partners-southwark-tower/10038794.article) have been made by Historic England.
+
+Despite both Southwark and Glasgow City Council being signed up to and active members of the Living Wage Campaign, neither have decided to use their respective influence to ensure that all employees associated with this scheme are paid the London Living Wage.
+
+![](http://35percent.org/img/srplivingwage.png)
+*Paragraph 82 of the 14th May 2019 supplemental agenda planning committee report*
 
 Southwark's [independent review](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!wHlqJHGSqYenUM8dzFIwTw%3d%3d!%7d%7d%7d) of the applicant's viability assessment raises the issue of a £4.7m unitemised cost - unexplained because of 'commercial confidentiality'. 
 
