@@ -31,7 +31,23 @@ Two other features in Southernwood application stand out - the first is that the
 
 The second feature is that the site is both owned by a local authority and is area marked as a Strategic Industrial Location and on both counts should deliver 50% affordable housing(link), under the [draft New London Plan](https://www.london.gov.uk/sites/default/files/draft_london_plan_-showing_minor_suggested_changes_july_2018.pdf), raising the number to about 360.
 
-Glasgow CC submitted its own legal opinion on this, arguing that the site should not be considered as public land because it would deny the pensioners 
+Glasgow CC, as trustees of Strathclyde Pension Fund, submitted its own legal opinion on this, arguing that the site should not be considered as public land because it would harm pensioners' beneifits from the scheme. Southwark and [GLA](link) have fallen into line behind this.
+
+[Land Registry deeds](35percent.org/lrdeeds/SouthernwoodRetailPark.pdf) show Glasgow City Council as the owner on behalf of its pension fund.
+
+![](http://35percent.org/img/SouthernwoodRetailParkdeeds.png)
+
+The Mayor's planning policy is supplemented by a Guidance Note for determining what constitutes public land - [Threshold Approach to Affordable Housing on Public Land (July 2018)](https://www.london.gov.uk/sites/default/files/practice_note_on_threshold_approach_to_affordable_housing_on_public_land_july_2018.pdf) defining it as _"Land that is owned or in use by a public sector organisation, or company or organisation in public ownership" (para 9) and going on to say that any disputes concerning the definition of public land _"will be determined with reference to the [Public Sector Classifications Guide (PSCG) published by the Office for National Statistics](https://www.ons.gov.uk/economy/nationalaccounts/uksectoraccounts/datasets/publicsectorclassificationguide)"_
+
+The Classifications Guide specifically includes land owned by Local Government pension schemes:  
+
+> "ONS concluded that a Local Government Pension Scheme was the pension administrator in the public pension fund subsector (S.12901) and (ii) Local Authorities in England, Wales, Scotland and Northern Ireland were the scheme’s pension manager in the local government subsector (S.1313). This means any difference between the pension entitlements and the assets held by the Scheme will be attributed to the local government subsector as an asset/liability."
+
+Notwithstanding this Southwark argues in its planning committee report that imposing the higher 50% affordable housing  _"would reduce the capital value of the site and therefore the Fund’s ability to pay pensions to retired workers"_ and that _"It would be unfair on the retired workers if their pension expectation might possibly be impacted.."_
+
+
+
+
 
 
 ## Public funding? No thank you.
@@ -44,6 +60,9 @@ Achieving 40% affordable housing has the advantage that all the affordable homes
 
 
 ## Public land? Maybe not
+
+Glasgow CC, as trustees of Strathclyde Pension Fund, submitted its own legal opinion on this, arguing that the site should not be considered as public land because it would harm pensioners' beneifits from the scheme. Southwark and [GLA](link) have fallen into line behind this.
+
 
 The planning commitee will be very tempted to pass this appication, given it gets 35% a/h, but it should not it should defer it until GLA gives its verdict on the public land question and the developer in any event should be obliged to apply for publci funding and a decision deferreed until that is secured.
 
@@ -72,17 +91,7 @@ The reason developers are pleading poverty despite offering 35% affordable housi
 
 ![](http://35percent.org/img/lph6.png)
 
-The Southernwood Retail Park falls into both of these categories. It is [listed](https://www.london.gov.uk/what-we-do/planning/london-plan/new-london-plan/draft-new-london-plan/chapter-6-economy/policy-e5-strategic-industrial-locations-sil) in the Mayor's policy as a Strategic Industrial Location and [Land Registry deeds](35percent.org/lrdeeds/SouthernwoodRetailPark.pdf) show Glasgow City Council as the owner on behalf of its pension fund.
-
-![](http://35percent.org/img/SouthernwoodRetailParkdeeds.png)
-
-The Mayor's planning policy is supplemented by a Guidance Note for determining what constitutes public land - [Threshold Approach to Affordable Housing on Public Land (July 2018)](https://www.london.gov.uk/sites/default/files/practice_note_on_threshold_approach_to_affordable_housing_on_public_land_july_2018.pdf) defining it as _"Land that is owned or in use by a public sector organisation, or company or organisation in public ownership" (para 9) and going on to say that any disputes concerning the definition of public land _"will be determined with reference to the [Public Sector Classifications Guide (PSCG) published by the Office for National Statistics](https://www.ons.gov.uk/economy/nationalaccounts/uksectoraccounts/datasets/publicsectorclassificationguide)"_.
-
-The Classifications Guide specifically includes land owned by Local Government pension schemes:  
-
-> "ONS concluded that a Local Government Pension Scheme was the pension administrator in the public pension fund subsector (S.12901) and (ii) Local Authorities in England, Wales, Scotland and Northern Ireland were the scheme’s pension manager in the local government subsector (S.1313). This means any difference between the pension entitlements and the assets held by the Scheme will be attributed to the local government subsector as an asset/liability."
-
-Notwithstanding this Southwark argues in its planning committee report that imposing the higher 50% affordable housing  _"would reduce the capital value of the site and therefore the Fund’s ability to pay pensions to retired workers"_ and that _"It would be unfair on the retired workers if their pension expectation might possibly be impacted.."_
+The Southernwood Retail Park falls into both of these categories. It is [listed](https://www.london.gov.uk/what-we-do/planning/london-plan/new-london-plan/draft-new-london-plan/chapter-6-economy/policy-e5-strategic-industrial-locations-sil) in the Mayor's policy as a Strategic Industrial Location 
 
 Former deputy Council leader turned development consultant has assisted by ['providing public affairs and stakeholder engagement services and arranging meetings with key stakeholders'](http://carvil-ventures.co.uk/southernwood-retail-park-old-kent-road). 
 
