@@ -24,7 +24,6 @@ After so many major developments [at the Elephant & Castle](link) and elsewhere 
 
 Unlike Ruby Triangle, but like Cantium Retail Park, no 'late stage review' of viability is proposed for Southernwood. This is a more comprehensive review where developers should disclose in detail actual costs, revenue received and profit made from a scheme and establish the schemes's real profitability, in order for the local authority to 'claw back' additional affordable housing from any greater profit.  Given the site's position alongside the likely site of a new tube station should the Bakerloo line extension be built, this looks like a serious ommission.
 
-
 ## Affordable housing - 35%, 40% or 50%?
 
 Two other features in Southernwood application stand out - the first is that the applicant, Glasgow City Council, is reluctant to take advantage of any public funding, [available from the Mayor of London](link), which could raise the affordable housing to at least 40%, giving another 30 or so affordable homes.  All schemes are expected to consider this, to maximise affordable housing, under the [Mayor's Housing policy](https://www.london.gov.uk/sites/default/files/ah_viability_spg_20170816.pdf).  The Officer's report proposes a condition that this is reconsidered, before the scheme is implemented, if permission is given.
