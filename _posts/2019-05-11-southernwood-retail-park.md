@@ -6,7 +6,7 @@ title: 'Southernwood Retail Park '
 
 ## Third of big four Old Kent Rd developments goes to committee 
 
-[A proposal](https://planning.southwark.gov.uk/online-applications/applicationDetails.do?activeTab=externalDocuments&keyVal=_STHWR_DCAPR_9580625) for the development of Southernwood Retail Park is due to be decided at Southwark's planning committee this Tuesday. Developer [Glasgow City Council wants permission](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!KrRBUGorCJrSgSs6BtYYVw%3d%3d!%7d%7d%7d) for a mixed-use development of 725 residential units, with a hotel, cinema, shops, restaurants and offices.  The proposed scheme has seven blocks, including a 48 storey tower.  The site is currently occupied by Argos and Sports Direct, just opposite Tesco and over the road from Burgess Park. 
+[A proposal](https://planning.southwark.gov.uk/online-applications/applicationDetails.do?activeTab=externalDocuments&keyVal=_STHWR_DCAPR_9580625) for the development of Southernwood Retail Park is due to be decided at Southwark's planning committee this Tuesday. Developer [Glasgow City Council, acting as trustees for Strathclyde Pension Fund, wants permission](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!KrRBUGorCJrSgSs6BtYYVw%3d%3d!%7d%7d%7d) for a mixed-use development of 725 residential units, with a hotel, cinema, shops, restaurants and offices.  The proposed scheme has seven blocks, including a 48 storey tower.  The site is currently occupied by Argos and Sports Direct, just opposite Tesco and over the road from Burgess Park. 
 
 Southernwood offers, in round figures, 35% affordable housing; 25% of the total housing will be social rent, 10% intermediate, in line with the [emerging New Southwark Plan](https://www.southwark.gov.uk/planning-and-building-control/planning-policy-and-transport-policy/development-plan/local-plan?chapter=4), giving 219 units.
 
@@ -15,6 +15,8 @@ Southernwood offers, in round figures, 35% affordable housing; 25% of the total 
 Viability assessments have become notorious as a means used by developers to [avoid meeting](https://england.shelter.org.uk/__data/assets/pdf_file/0010/1434439/2017.11.01_Slipping_through_the_loophole.pdf) their affordable housing obligations. The assessments purport to show that the requirements laid down by local authorities cannot be met without rendering the scheme financially unviable and thus undeliverable, leading to the affordable housing requirement being reduced  
 
 Over the past few years housing [campaigners](/viability-assessments)and several [high profile](https://www.theguardian.com/cities/2015/jun/25/london-developers-viability-planning-affordable-social-housing-regeneration-oliver-wainwright) cases have managed to shed some light on this dark art how, leading to [changes in policy](https://www.insidehousing.co.uk/home/home/london-borough-makes-viability-assessments-public-54133) and greater scrutiny of developer's viability claims.
+
+In Southwark this had meant we are starting [to get 35% affordable housing](examples) that we have been denied until now.  But while developers are offering 35% affordable housing, they continue to insist that their scemes are unviable.  Southernwood Retail Park is a case in point.  Here the developer (Glasgow City Council) claims that they will only make 2.24% profit on Gross Development Value (GDV); Southwark's consultants beg to differ and say 16.37% can be made.  Both figures fall short of the developer's profit target (set by themselves) of 18.84%, so the development is officially 'unviable',  Nonetheless the developer says that they will deliver 35% affordable housing, 25% social rent, 10% intermediate, in line with local housing policy.  
 
 Southernwood joins [Ruby Triangle](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!oY11bGc7aC6RJOzPXGXlpQ%3d%3d!%7d%7d%7d) and [Cantium Retail Park](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!4ZdM8nfyvjj19tOftU%2fPPQ%3d%3d!%7d%7d%7d) as a scheme where the developer offers 35% affordable housing, while at the same time insisting it is unviable. Southwark's consultants agree, but estimate that Southernwood can generate a much higher level of profit than developer Glasgow CC claim.  The Officer's report accepts the 35% affordable offer, but without addressing the two different profit estimates.
 
@@ -28,6 +30,8 @@ Unlike Ruby Triangle, but like Cantium Retail Park, no 'late stage review' of vi
 Two other features in Southernwood application stand out - the first is that the applicant, Glasgow City Council, is reluctant to take advantage of any public funding, [available from the Mayor of London](link), which could raise the affordable housing to at least 40%, giving another 30 or so affordable homes.  All schemes are expected to consider this, to maximise affordable housing, under the [Mayor's Housing policy](https://www.london.gov.uk/sites/default/files/ah_viability_spg_20170816.pdf).  The Officer's report proposes a condition that this is reconsidered, before the scheme is implemented, if permission is given.
 
 The second feature is that the site is both owned by a local authority and is area marked as a Strategic Industrial Location and on both counts should deliver 50% affordable housing(link), under the [draft New London Plan](https://www.london.gov.uk/sites/default/files/draft_london_plan_-showing_minor_suggested_changes_july_2018.pdf), raising the number to about 360.
+
+Glasgow CC submitted its own legal opinion on this, arguing that the site should not be considered as public land because it would deny the pensioners 
 
 
 ## Public funding? No thank you.
@@ -60,19 +64,6 @@ https://www.london-se1.co.uk/news/view/9916
 Phasing Old Kent Rd AAP.
 
 ## Density
-
-
-
-
-
-
-
-
-Viability assessments have become notorious as a means used by developers to [avoid meeting](https://england.shelter.org.uk/__data/assets/pdf_file/0010/1434439/2017.11.01_Slipping_through_the_loophole.pdf) their affordable housing obligations. The assessments purport to show that the requirements laid down by local authorities cannot be met without rendering the scheme financially unviable and thus undeliverable, leading to the affordable housing requirement being reduced  
-
-Over the past few years housing [campaigners](/viability-assessments)and several [high profile](https://www.theguardian.com/cities/2015/jun/25/london-developers-viability-planning-affordable-social-housing-regeneration-oliver-wainwright) cases have managed to shed some light on this dark art how, leading to [changes in policy](https://www.insidehousing.co.uk/home/home/london-borough-makes-viability-assessments-public-54133) and greater scrutiny of developer's viability claims.
-
-In Southwark this had meant we are starting [to get 35% affordable housing](examples) that we have been denied until now.  But while developers are offering 35% affordable housing, they continue to insist that their scemes are unviable.  Southernwood Retail Park is a case in point.  Here the developer (Glasgow City Council) claims that they will only make 2.24% profit on Gross Development Value (GDV); Southwark's consultants beg to differ and say 16.37% can be made.  Both figures fall short of the developer's profit target (set by themselves) of 18.84%, so the development is officially 'unviable',  Nonetheless the developer says that they will deliver 35% affordable housing, 25% social rent, 10% intermediate, in line with local housing policy.  
 
 ![](http://35percent.org/img/southernwoodretailpark.jpg)
 
