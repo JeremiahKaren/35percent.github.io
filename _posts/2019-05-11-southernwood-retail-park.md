@@ -44,7 +44,7 @@ The Classifications Guide says that 'assets', which we think must include land, 
 
 Notwithstanding this Southwark argues in its planning committee report that imposing the higher 50% affordable housing  _"would reduce the capital value of the site and therefore the Fund’s ability to pay pensions to retired workers"_ and that _"It would be unfair on the retired workers if their pension expectation might possibly be impacted.."_
 
-As unedifying as it would be to see two local authorities to fight over who should benefit over their share of the profit of a private development, one on behalf of pensioners, the other on behalf of those in need of affordable housing, Southwark (and GLA) hae given way too easily on this argument.  It also points to a fundamental flaw in the whole developer market-led model - we should not have to trade-off pensions against affordable housing.
+As unedifying as it would be to see two local authorities fight over their shares of the profit, one on behalf of pensioners, the other on behalf of those in need of affordable housing, Southwark (and GLA) hae given way too easily on this argument.  It also points to a fundamental flaw in the whole market-dependant model for providing affordable housing - we should not have to trade this off against pensions.
 
 
 
@@ -108,7 +108,3 @@ Hence the recent flurry of schemes offering the 35%  at the same time as pleadin
 It joins Ruby Triangle, Cantium Retail Park and Malt St as [one of four major developments](https://www.homesandproperty.co.uk/property-news/old-kent-road-set-for-major-highrise-transformation-with-20000-new-homes-if-bakerloo-line-extension-a125611.html),delivering xxxx homes in total, that have or will be determined in advance of the adoption of the [Old Kent Rd Area Action Plan]  (https://www.southwark.gov.uk/planning-and-building-control/planning-policy-and-transport-policy/development-plan/area-action-plans?chapter=2). Numerous smaller developments are also [in the pipeline](link).
 
 The [Mayor's policy](https://www.london.gov.uk/what-we-do/planning/london-plan/new-london-plan/draft-new-london-plan/chapter-4-housing/policy-h6-threshold-approach-applications) has two exceptions where in the case of public land or sites in Strategic Industrial Locations the threshold is increased to 50%.
-
-
-
-
