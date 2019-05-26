@@ -98,7 +98,7 @@ Former deputy Council leader turned development consultant has assisted by ['pro
 Despite both Southwark and Glasgow City Council being signed up to and active members of the Living Wage Campaign, neither have decided to use their respective influence to ensure that any employees associated with the construction of this scheme or the ongoing running of the cinema are paid the London Living Wage.
 
 ![](http://35percent.org/img/srplivingwage.png)
-*Paragraph 82 of the 14th May 2019 supplemental agenda planning committee report*
+*Paragraph 82 of the [14th May 2019 supplemental report](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!KuS4%2bASwr418xWb1WJjQ3w%3d%3d!%7d%7d%7d)*
 
 Southwark's [independent review](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!wHlqJHGSqYenUM8dzFIwTw%3d%3d!%7d%7d%7d) of the applicant's viability assessment raises the issue of a £4.7m unitemised cost - unexplained because of 'commercial confidentiality'. 
 
