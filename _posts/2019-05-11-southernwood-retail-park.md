@@ -44,11 +44,7 @@ The Classifications Guide says that 'assets', which we think must include land, 
 
 Notwithstanding this Southwark argues in its planning committee report that imposing the higher 50% affordable housing  _"would reduce the capital value of the site and therefore the Fund’s ability to pay pensions to retired workers"_ and that _"It would be unfair on the retired workers if their pension expectation might possibly be impacted.."_
 
-As unedifying as it would be to see two local authorities fight over their shares of the profit, one on behalf of pensioners, the other on behalf of those in need of affordable housing, Southwark (and GLA) hae given way too easily on this argument.  It also points to a fundamental flaw in the whole market-dependant model for providing affordable housing - we should not have to trade this off against pensions.
-
-
-
-
+As unedifying as it would be to see two local authorities fight over their shares of the profit, one on behalf of pensioners, the other on behalf of those in need of affordable housing, Southwark (and GLA) have given way too easily on this argument.  It also points to a fundamental flaw in the whole market-dependant model for providing affordable housing - we should not have to trade off affordable housing against pensions.
 
 ## Public funding? No thank you.
 
