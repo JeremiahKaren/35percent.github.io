@@ -34,6 +34,8 @@ The second feature is that the site is both owned by a local authority and is ar
 
 Glasgow CC, as trustees of Strathclyde Pension Fund, submitted its own legal opinion on this, arguing that the site should not be considered as public land because it would harm pensioners' beneifits from the scheme. Southwark and [GLA](link) have fallen into line behind this.
 
+> "The effect of including the Fund’s land within the ambit of these policies is in effect to penalise the members of the Fund simply for having worked as public servants." (Para 173 of planning committee report)
+
 [Land Registry deeds](35percent.org/lrdeeds/SouthernwoodRetailPark.pdf) show Glasgow City Council as the owner on behalf of its pension fund.
 
 ![](http://35percent.org/img/SouthernwoodRetailParkdeeds.png)
