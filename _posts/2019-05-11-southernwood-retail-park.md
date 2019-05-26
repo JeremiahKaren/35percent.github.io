@@ -47,9 +47,11 @@ follows the Ruby Triangle and Cantium Retail Park as the latest the big developm
 
 ## TfL gives scheme the red light
 
-There also appears to be a major issues around the impact of the developent on plans for the proposed Bakerloo Line Extension (BLE). In their latest communication posted on the planning website, dated 1 May 2019 TfL urge Southwark not to approve the application, other than the back of teh development.
+There also appears to be a major issues around the impact of the developent on plans for the proposed Bakerloo Line Extension (BLE). In [their latest communication](link) posted on the planning website, dated 1 May 2019 TfL urge Southwark not to approve the application, other than the back of teh development.
 
-TfL make the damning accusation that Southwark has 'no joined-up thinking', which must sting after several years of consultation and planning for the yet-to-be adopted [Old Kent Rd Area Action Plan (AAP) and Opportunity Area](link).  It also adds weight to the argument that the whole Oppourtunity Area project is developer-driven, rather than plan-led and that the approval of major developments, such as Southernwood (whatever their merits), in advance of the adoption of the AAP is rendering it redundant.
+TfL make the damning accusation that Southwark has 'no joined-up thinking', which must sting after several years of consultation and planning for the yet-to-be adopted [Old Kent Rd Area Action Plan (AAP) and Opportunity Area](link).  It also adds weight to the argument that the whole Oppourtunity Area project is developer-driven, rather than plan-led and that the approval of major developments, such as Southernwood in advance of the adoption of the AAP is rendering it redundant.
+
+The TfL objection is also serious in respect of the general viability of opportunity area developments.  As noted above, Ruby Triangle, Cantium Retail Park were both declared technically non-viable and depend upon the rise in land values that the Bakerloo Extension will bring, so should there be problems with this, it could have ramifications for their promises of  affordable housing. 
 
 https://www.london-se1.co.uk/news/view/9916
 
