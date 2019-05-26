@@ -38,12 +38,13 @@ Glasgow CC, as trustees of Strathclyde Pension Fund, submitted its own legal opi
 
 The Mayor's planning policy is supplemented by a Guidance Note for determining what constitutes public land - [Threshold Approach to Affordable Housing on Public Land (July 2018)](https://www.london.gov.uk/sites/default/files/practice_note_on_threshold_approach_to_affordable_housing_on_public_land_july_2018.pdf) defining it as _"Land that is owned or in use by a public sector organisation, or company or organisation in public ownership" (para 9) and going on to say that any disputes concerning the definition of public land _"will be determined with reference to the [Public Sector Classifications Guide (PSCG) published by the Office for National Statistics](https://www.ons.gov.uk/economy/nationalaccounts/uksectoraccounts/datasets/publicsectorclassificationguide)"_
 
-The Classifications Guide specifically includes land owned by Local Government pension schemes:  
+The Classifications Guide says that 'assets', which we think must include land, held by by Local Government pension schemes are attributable to local government:  
 
 > "ONS concluded that a Local Government Pension Scheme was the pension administrator in the public pension fund subsector (S.12901) and (ii) Local Authorities in England, Wales, Scotland and Northern Ireland were the scheme’s pension manager in the local government subsector (S.1313). This means any difference between the pension entitlements and the assets held by the Scheme will be attributed to the local government subsector as an asset/liability."
 
 Notwithstanding this Southwark argues in its planning committee report that imposing the higher 50% affordable housing  _"would reduce the capital value of the site and therefore the Fund’s ability to pay pensions to retired workers"_ and that _"It would be unfair on the retired workers if their pension expectation might possibly be impacted.."_
 
+As unedifying as it would be to see two local authorities to fight over who should benefit over their share of the profit of a private development, one on behalf of pensioners, the other on behalf of those in need of affordable housing, Southwark (and GLA) hae given way too easily on this argument.  It also points to a fundamental flaw in the whole developer market-led model - we should not have to trade-off pensions against affordable housing.
 
 
 
