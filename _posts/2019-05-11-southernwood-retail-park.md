@@ -47,7 +47,9 @@ follows the Ruby Triangle and Cantium Retail Park as the latest the big developm
 
 ## TfL gives scheme the red light
 
-There also appears to be a major issues around the impact of the developent on plans for the proposed Bakerloo Line Extension (BLE). In their latest communication posted on the planning website, dated 1 May 2019 TfL urge Southwark not to approve the applicaion, other than the 
+There also appears to be a major issues around the impact of the developent on plans for the proposed Bakerloo Line Extension (BLE). In their latest communication posted on the planning website, dated 1 May 2019 TfL urge Southwark not to approve the application, other than the back of teh development.
+
+TfL make the damning accusation that Southwark has 'no joined-up thinking', which must sting after several years of consultation and planning for the yet-to-be adopted [Old Kent Rd Area Action Plan (AAP) and Opportunity Area](link).  It also adds weight to the argument that the whole Oppourtunity Area project is developer-driven, rather than plan-led and that the approval of major developments, such as Southernwood (whatever their merits), in advance of the adoption of the AAP is rendering it redundant.
 
 https://www.london-se1.co.uk/news/view/9916
 
