@@ -95,7 +95,7 @@ Former deputy Council leader turned development consultant has assisted by ['pro
 
 [Objections](https://www.architectsjournal.co.uk/news/historic-england-raises-concern-over-pilbrow-and-partners-southwark-tower/10038794.article) have been made by Historic England.
 
-Despite both Southwark and Glasgow City Council being signed up to and active members of the Living Wage Campaign, neither have decided to use their respective influence to ensure that all employees associated with this scheme are paid the London Living Wage.
+Despite both Southwark and Glasgow City Council being signed up to and active members of the Living Wage Campaign, neither have decided to use their respective influence to ensure that any employees associated with the construction of this scheme or the ongoing running of the cinema are paid the London Living Wage.
 
 ![](http://35percent.org/img/srplivingwage.png)
 *Paragraph 82 of the 14th May 2019 supplemental agenda planning committee report*
