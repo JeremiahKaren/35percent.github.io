@@ -86,7 +86,6 @@ Phasing Old Kent Rd AAP.
 
 The reason developers are pleading poverty despite offering 35% affordable housing is that they know values will rise with the arrival of the Bakerloo line and that they may be subjected to an 'early stage viability review' if the scheme is not implemented within two years.
 
-
 ![](http://35percent.org/img/lph6.png)
 
 The Southernwood Retail Park falls into both of these categories. It is [listed](https://www.london.gov.uk/what-we-do/planning/london-plan/new-london-plan/draft-new-london-plan/chapter-6-economy/policy-e5-strategic-industrial-locations-sil) in the Mayor's policy as a Strategic Industrial Location 
@@ -98,7 +97,7 @@ Former deputy Council leader turned development consultant has assisted by ['pro
 Despite both Southwark and Glasgow City Council being signed up to and active members of the Living Wage Campaign, neither have decided to use their respective influence to ensure that any employees associated with the construction of this scheme or the ongoing running of the cinema are paid the London Living Wage.
 
 ![](http://35percent.org/img/srplivingwage.png)
-*Paragraph 82 of the [14th May 2019 supplemental report](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!KuS4%2bASwr418xWb1WJjQ3w%3d%3d!%7d%7d%7d)*
+*Paragraph 141 of the [planning committee report](http://moderngov.southwark.gov.uk/documents/s82616/Report%20Southernwood%20Retail%20Park%202%20Humphrey%20Street%20London%20SE1%205JJ.pdf)*
 
 Southwark's [independent review](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!wHlqJHGSqYenUM8dzFIwTw%3d%3d!%7d%7d%7d) of the applicant's viability assessment raises the issue of a £4.7m unitemised cost - unexplained because of 'commercial confidentiality'. 
 
