@@ -12,6 +12,10 @@ Southernwood offers, in round figures, 35% affordable housing; 25% of the total 
 
 ## Viability conundrum
 
+Viability assessments have become notorious as a means used by developers to [avoid meeting](https://england.shelter.org.uk/__data/assets/pdf_file/0010/1434439/2017.11.01_Slipping_through_the_loophole.pdf) their affordable housing obligations. The assessments purport to show that the requirements laid down by local authorities cannot be met without rendering the scheme financially unviable and thus undeliverable, leading to the affordable housing requirement being reduced  
+
+Over the past few years housing [campaigners](/viability-assessments)and several [high profile](https://www.theguardian.com/cities/2015/jun/25/london-developers-viability-planning-affordable-social-housing-regeneration-oliver-wainwright) cases have managed to shed some light on this dark art how, leading to [changes in policy](https://www.insidehousing.co.uk/home/home/london-borough-makes-viability-assessments-public-54133) and greater scrutiny of developer's viability claims.
+
 Southernwood joins [Ruby Triangle](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!oY11bGc7aC6RJOzPXGXlpQ%3d%3d!%7d%7d%7d) and [Cantium Retail Park](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!4ZdM8nfyvjj19tOftU%2fPPQ%3d%3d!%7d%7d%7d) as a scheme where the developer offers 35% affordable housing, while at the same time insisting it is unviable. Southwark's consultants agree, but estimate that Southernwood can generate a much higher level of profit than developer Glasgow CC claim.  The Officer's report accepts the 35% affordable offer, but without addressing the two different profit estimates.
 
 After so many major developments [at the Elephant & Castle](link) and elsewhere in Southwark have been allowed to flout affordable housing requirements on viability grounds, this can be counted as progress, but leaves the true viability of the Southernwood scheme unresolved.  This is important, because as well as all the quantitative affordable housing requirements, there is also a general requirement to produce [the maximum reasonable amount of affordable housing](link).
@@ -36,8 +40,6 @@ Achieving 40% affordable housing has the advantage that all the affordable homes
 
 
 ## Public land? Maybe not
-
-This is worth examining, leads us, as always, to viability
 
 The planning commitee will be very tempted to pass this appication, given it gets 35% a/h, but it should not it should defer it until GLA gives its verdict on the public land question and the developer in any event should be obliged to apply for publci funding and a decision deferreed until that is secured.
 
