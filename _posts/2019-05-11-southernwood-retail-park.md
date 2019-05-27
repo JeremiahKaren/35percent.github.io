@@ -45,19 +45,6 @@ It might well be 'unfair' to pensioners if this happened, but it would also be '
 
 As unedifying as it would be to see two local authorities fight over their respective shares of a developer's profit, one on behalf of pensioners, the other, on behalf of those who need affordable housing, Southwark and GLA's responsibility in this situation is to vigorously represent the interests of those in housing need and it has not done so, by giving way so easily.
 
-
-
-## Public land? Maybe not
-
-Glasgow CC, as trustees of Strathclyde Pension Fund, submitted its own legal opinion on this, arguing that the site should not be considered as public land because it would harm pensioners' beneifits from the scheme. Southwark and [GLA](link) have fallen into line behind this.
-
-
-The planning commitee will be very tempted to pass this appication, given it gets 35% a/h, but it should not it should defer it until GLA gives its verdict on the public land question and the developer in any event should be obliged to apply for publci funding and a decision deferreed until that is secured.
-
-(loss of light industrial space; SLC objection)
-
-follows the Ruby Triangle and Cantium Retail Park as the latest the big developments along the Old Kent Rd to , . to go to planning, in advance of the Old Kent Rd Area Action Plan, which now begins to look increasingly redundant being adopted
-
 ## TfL gives scheme the red light
 
 There also appears to be a major issues around the impact of the developent on plans for the proposed Bakerloo Line Extension (BLE). In [their latest communication](link) posted on the planning website, dated 1 May 2019 TfL urge Southwark not to approve the application, other than the back of teh development.
@@ -68,3 +55,32 @@ The TfL objection is also serious in respect of the general viability of opportu
 
 https://www.london-se1.co.uk/news/view/9916
 
+Phasing Old Kent Rd AAP.
+
+## Density
+
+![](http://35percent.org/img/southernwoodretailpark.jpg)
+
+
+
+Former deputy Council leader turned development consultant has assisted by ['providing public affairs and stakeholder engagement services and arranging meetings with key stakeholders'](http://carvil-ventures.co.uk/southernwood-retail-park-old-kent-road). 
+
+[Objections](https://www.architectsjournal.co.uk/news/historic-england-raises-concern-over-pilbrow-and-partners-southwark-tower/10038794.article) have been made by Historic England.
+
+Despite both Southwark and Glasgow City Council being signed up to and active members of the Living Wage Campaign, neither have decided to use their respective influence to ensure that any employees associated with the construction of this scheme or the ongoing running of the cinema are paid the London Living Wage.
+
+![](http://35percent.org/img/srplivingwage.png)
+*Paragraph 141 of the [planning committee report](http://moderngov.southwark.gov.uk/documents/s82616/Report%20Southernwood%20Retail%20Park%202%20Humphrey%20Street%20London%20SE1%205JJ.pdf)*
+
+Southwark's [independent review](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!wHlqJHGSqYenUM8dzFIwTw%3d%3d!%7d%7d%7d) of the applicant's viability assessment raises the issue of a £4.7m unitemised cost - unexplained because of 'commercial confidentiality'. 
+
+![](http://35percent.org/img/addcosts.png)
+
+There's little point in forcing developers to disclose viability assessments if major components of these can't be interrogated because of 'commercial confidentiality'.
+
+Glasgow's pension fund's [viability assessment](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!usFYGB9yhRh95Q0p6tmP8g%3d%3d!%7d%7d%7d) also claims that it will incur a £44m financing cost, representing 7% interest on loans that it will have to take out to fund the scheme. This is not supported by any evidence - there is no explanation why a pension fund with over £20 billion in funds would need to borrow money. 
+
+
+It joins Ruby Triangle, Cantium Retail Park and Malt St as [one of four major developments](https://www.homesandproperty.co.uk/property-news/old-kent-road-set-for-major-highrise-transformation-with-20000-new-homes-if-bakerloo-line-extension-a125611.html),delivering xxxx homes in total, that have or will be determined in advance of the adoption of the [Old Kent Rd Area Action Plan]  (https://www.southwark.gov.uk/planning-and-building-control/planning-policy-and-transport-policy/development-plan/area-action-plans?chapter=2). Numerous smaller developments are also [in the pipeline](link).
+
+The [Mayor's policy](https://www.london.gov.uk/what-we-do/planning/london-plan/new-london-plan/draft-new-london-plan/chapter-4-housing/policy-h6-threshold-approach-applications) has two exceptions where in the case of public land or sites in Strategic Industrial Locations the threshold is increased to 50%.
