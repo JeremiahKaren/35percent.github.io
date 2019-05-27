@@ -10,7 +10,7 @@ title: Southernwood Retail Park
 
 ![](http://35percent.org/img/southernwoodretailpark.jpg)
 
-Southernwood offers, in round figures, 35% affordable housing; 25% of the total housing will be social rent, 10% intermediate, in line with the [emerging New Southwark Plan](https://www.southwark.gov.uk/planning-and-building-control/planning-policy-and-transport-policy/development-plan/local-plan?chapter=4), giving 219 units.
+Southernwood offers, in round figures, 35% affordable housing; 25% of the total housing will be social rent, 10% intermediate, in line with the [emerging New Southwark Plan's](https://www.southwark.gov.uk/planning-and-building-control/planning-policy-and-transport-policy/development-plan/local-plan?chapter=4) minimum requirements, giving 219 units.
 
 ## Viability conundrum
 
