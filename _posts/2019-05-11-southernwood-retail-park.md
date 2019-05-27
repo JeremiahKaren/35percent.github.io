@@ -43,7 +43,7 @@ Notwithstanding this Southwark argues in the legal advice appended to the [plann
 
 It might well be 'unfair' to pensioners if this happened, but it would also be 'unfair' to those who need affordable housing, if it is not delivered, when it is due by a policy and this counterargument has not been made.
 
-As unedifying as it would be to see two local authorities fight over their respective shares of a developer's profit, one on behalf of pensioners, the other on behalf of those who need affordable housing, Southwark and GLA's responsibility in this situation is to represent the interests of 
+As unedifying as it would be to see two local authorities fight over their respective shares of a developer's profit, one on behalf of pensioners, the other, on behalf of those who need affordable housing, Southwark and GLA's responsibility in this situation is to vigorously represent the interests of those in housing need and it has not done so, by giving way so easily.
 
 ## Public funding? No thank you.
 
