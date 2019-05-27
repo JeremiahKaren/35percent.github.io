@@ -24,9 +24,17 @@ After so many major developments [at the Elephant & Castle](http://35percent.org
 
 Southern joins [Ruby Triangle](http://35percent.org/2018-10-08-ruby-triangle-goes-to-committee/) and [Cantium Retail Park](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!4ZdM8nfyvjj19tOftU%2fPPQ%3d%3d!%7d%7d%7d) as an 'unviable' scheme that will deliver 35% affordable housing.  Unlike Ruby Triangle, but like Cantium Retail Park, no 'late stage review' of viability is proposed for Southernwood. This is a comprehensive review where developers should disclose in detail actual costs and revenue received, to establish the schemes's real profitability and enable the local authority to 'claw back' additional affordable housing, should the profit be greater than anticipated.  Given the site's position alongside the likely site of a new tube station should the Bakerloo line extension be built, this looks like a serious ommission.
 
+## Public funding? No thank you.
+
+ Glasgow CC also claim that the development as it is will only make a profit of [2.4% GDV (Gross Development Value)](link cash figure) and that raising the level of affordable housing, with grant, would reduce this by £4.45m, even if they obtained a grant.
+
+
+Achieving 40% affordable housing has the advantage that all the affordable homes become eligible for the grant
+
+
 ## Affordable housing - 35%, 40% or 50%?
 
-Two other features in Southernwood application stand out - the first is that the applicant, Glasgow City Council, is reluctant to take advantage of any public funding, such as that [available from the Mayor of London](https://www.london.gov.uk/file/11941201), which could raise the affordable housing to at least 40%, giving another 30 or so affordable homes.  All schemes are expected to consider this, to maximise affordable housing, under the [Mayor's Housing policy](https://www.london.gov.uk/sites/default/files/ah_viability_spg_20170816.pdf).  Glasgow CC say that they will not be in time for the current funding round; the Officer's report proposes a condition that this is reconsidered, before the scheme is implemented, in the event of permission being given.
+Two other features in Southernwood application stand out - the first is that the applicant, Glasgow City Council, is reluctant to take advantage of any public funding, such as that [available from the Mayor of London](https://www.london.gov.uk/file/11941201), which could raise the affordable housing to at least 40%, giving another 30 or so affordable homes.  All schemes are expected to consider this, to maximise affordable housing, under the [Mayor's Housing policy](https://www.london.gov.uk/sites/default/files/ah_viability_spg_20170816.pdf).  Glasgow CC's surprising explanation for not applying for public funding is that it claims it will make the scheme less viable.  As related in the [Officer's report](link para)(Para 182,183), this is because the £28,000 per unit grant will not make up the full loss in value of converting free market units into affordable units.  Glasgow CC also say that they will not be in time for the current funding round; the Officer's report proposes a condition that this is reconsidered, before the scheme is implemented, in the event of permission being given.
 
 The second feature is that the site is both owned by a local authority and is in an area marked as a Strategic Industrial Location and on both counts should deliver 50% affordable housing, under the [draft New London Plan](https://www.london.gov.uk/sites/default/files/draft_london_plan_-showing_minor_suggested_changes_july_2018.pdf), raising the number to about 360.
 
@@ -45,13 +53,6 @@ It might well be 'unfair' to pensioners if this happened, but it would also be '
 
 As unedifying as it would be to see two local authorities fight over their respective shares of a developer's profit, one on behalf of pensioners, the other, on behalf of those who need affordable housing, Southwark and GLA's responsibility in this situation is to vigorously represent the interests of those in housing need and it has not done so, by giving way so easily.
 
-## Public funding? No thank you.
-
-The surprising reason Glasgow City Council (Glasgow CC) give for not applying for public funding is that it claims it will make the scheme [less viable](link).  As related in the [Officer's report](link para), this is because the £28,000 per unit grant will not make up the full loss in value of converting free market units into affordable units.  Glasgow CC also claim that the development as it is will only make a profit of [2.4% GDV (Gross Development Value)](link cash figure) and that raising the level of affordable housing, with grant, would reduce this by £4.45m, even if they obtained a grant.
-
-GCC is roundly contradicted by Southwark's own consultants though who say that a profit of 16.37% GDV can be achieved, though this is still below the target profit Glasgow CC of 18.84% set for itself.  
-
-Achieving 40% affordable housing has the advantage that all the affordable homes become eligible for the grant
 
 
 ## Public land? Maybe not
