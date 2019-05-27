@@ -30,7 +30,7 @@ Two other features in Southernwood application stand out - the first is that the
 
 The second feature is that the site is both owned by a local authority and is in an area marked as a Strategic Industrial Location and on both counts should deliver 50% affordable housing, under the [draft New London Plan](https://www.london.gov.uk/sites/default/files/draft_london_plan_-showing_minor_suggested_changes_july_2018.pdf), raising the number to about 360.
 
-Glasgow CC, as trustees of Strathclyde Pension Fund, submitted its own legal opinion on this, arguing that the site should not be considered as public land because it would harm pensioners' beneifits from the scheme. Southwark and [GLA](link) have fallen into line behind this.
+Glasgow CC submitted its own legal opinion on this, arguing that the site should not be considered as public land because it would harm pensioners' beneifits from the scheme. Southwark and [GLA](link) have fallen into line behind this.
 
 > "The effect of including the Fund’s land within the ambit of these policies is in effect to penalise the members of the Fund simply for having worked as public servants." (Para 173 of planning committee report)
 
