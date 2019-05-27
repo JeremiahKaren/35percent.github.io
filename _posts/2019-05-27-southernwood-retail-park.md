@@ -1,7 +1,7 @@
 ---
 layout: post
 published: true
-title: Southernwood Retail Park next big OKRd planning decision
+title: Southernwood Retail Park
 ---
 
 ## Third of big four Old Kent Rd developments goes to committee 
