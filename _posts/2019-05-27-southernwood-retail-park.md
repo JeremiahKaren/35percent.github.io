@@ -1,12 +1,14 @@
 ---
 layout: post
-published: true 
+published: true
 title: Southernwood Retail Park next big OKRd planning decision
 ---
 
 ## Third of big four Old Kent Rd developments goes to committee 
 
 [A proposal](https://planning.southwark.gov.uk/online-applications/applicationDetails.do?activeTab=externalDocuments&keyVal=_STHWR_DCAPR_9580625) for the development of Southernwood Retail Park is due to be decided at Southwark's planning committee this Tuesday. Developer [Glasgow City Council, acting as trustees for its (Strathclyde) Pension Fund, wants permission](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!KrRBUGorCJrSgSs6BtYYVw%3d%3d!%7d%7d%7d) for a mixed-use development of 725 residential units, with a hotel, cinema, shops, restaurants and offices.  The proposed scheme has seven blocks, including a 48-storey tower.  The site is currently occupied by Argos and Sports Direct, just opposite Tesco and over the road from Burgess Park. 
+
+![](http://35percent.org/img/southernwoodretailpark.jpg)
 
 Southernwood offers, in round figures, 35% affordable housing; 25% of the total housing will be social rent, 10% intermediate, in line with the [emerging New Southwark Plan](https://www.southwark.gov.uk/planning-and-building-control/planning-policy-and-transport-policy/development-plan/local-plan?chapter=4), giving 219 units.
 
@@ -61,6 +63,3 @@ Southernwood provides the peculiar spectacle of one public authority building ho
 As noted above, Ruby Triangle and Cantium Retail Park were also both declared technically non-viable and depend upon the rise in land values that the Bakerloo Extension will bring, so should the problems feared by TfL occur, they may well have consequences for their promises of  affordable housing too.  
 
 The TfL objections to Southernwood also adds weight to the argument that the whole Opportunity Area project is developer-driven, rather than plan-led and that the approval of major developments, such as Southernwood in advance of the adoption of the AAP is premature and rendering it redundant.
-
-
-![](http://35percent.org/img/southernwoodretailpark.jpg)
