@@ -107,6 +107,8 @@ Southwark's [independent review](http://planbuild.southwark.gov.uk/documents/?Ge
 
 There's little point in forcing developers to disclose viability assessments if major components of these can't be interrogated because of 'commercial confidentiality'.
 
+Glasgow's pension fund's [viability assessment](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!usFYGB9yhRh95Q0p6tmP8g%3d%3d!%7d%7d%7d) also claims that it will incur a £44m financing cost, representing 7% interest on loans that it will have to take out to fund the scheme. This is not supported by any evidence - there is no explanation why a pension fund with over £20 billion in assets would need to borrow money. 
+
 Hence the recent flurry of schemes offering the 35%  at the same time as pleading viability poverty such that the viability baseline used in the event of an early stage review is kept very low.
 
 It joins Ruby Triangle, Cantium Retail Park and Malt St as [one of four major developments](https://www.homesandproperty.co.uk/property-news/old-kent-road-set-for-major-highrise-transformation-with-20000-new-homes-if-bakerloo-line-extension-a125611.html),delivering xxxx homes in total, that have or will be determined in advance of the adoption of the [Old Kent Rd Area Action Plan]  (https://www.southwark.gov.uk/planning-and-building-control/planning-policy-and-transport-policy/development-plan/area-action-plans?chapter=2). Numerous smaller developments are also [in the pipeline](link).
