@@ -60,9 +60,9 @@ The planning committee report addresses TfL's objections at length, over 14 page
 
 Southernwood provides the peculiar spectacle of one public authority building homes on land owned by another, but refusing to apply for public funding, because that would make an 'unviable' development more unviable, added to which it is promising to provide affordable housing the figures say the scheme cannot provide.
 
-As noted above, Ruby Triangl and Cantium Retail Park were also both declared technically non-viable and depend upon the rise in land values that the Bakerloo Extension will bring, so should the problems feared by TfL occur, they may well have consequences for their promises of  affordable housing too.  
+As noted above, Ruby Triangle and Cantium Retail Park were also both declared technically non-viable and depend upon the rise in land values that the Bakerloo Extension will bring, so should the problems feared by TfL occur, they may well have consequences for their promises of  affordable housing too.  
 
-The TfL objections also adds weight to the argument that the whole Opportunity Area project is developer-driven, rather than plan-led and that the approval of major developments, such as Southernwood in advance of the adoption of the AAP is premature and rendering it redundant.
+The TfL objections to Southernwood also adds weight to the argument that the whole Opportunity Area project is developer-driven, rather than plan-led and that the approval of major developments, such as Southernwood in advance of the adoption of the AAP is premature and rendering it redundant.
 
 
 ![](http://35percent.org/img/southernwoodretailpark.jpg)
