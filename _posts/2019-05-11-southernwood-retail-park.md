@@ -16,7 +16,7 @@ Viability assessments have become notorious as a means used by developers to [av
 
 In Southwark this had meant we are starting [to get 35% affordable housing](examples) that we have been denied until now.  But while developers are offering 35% affordable housing, they continue to insist that their scemes are unviable.  Southernwood Retail Park is a case in point.  Here the developer (Glasgow City Council) claims that they will only make 2.24% (£8.4m) profit on Gross Development Value (GDV); Southwark's consultants beg to differ and say 16.37% (£62.5m) can be made.  Both figures fall short of Glasgow CC's profit target (set by themselves) of 18.84%, so the development is technically 'unviable'. 
 
-The 18.84% target exceeds the benchmark return of 10.4% set by the Glasgow pension fund for DTZ, who manage Southernwood on the fund's behalf (See DTZ, pg 97 in Strathcyde Pension Fund's [most recent annual report](http://www.spfo.org.uk/CHttpHandler.ashx?id=42886&p=0)). There is no explanation in the officer's report to the committee of how these figures reconcile 
+The 18.84% target exceeds the benchmark return of 10.4% set by the Glasgow pension fund for DTZ, who manage Southernwood on the fund's behalf (See DTZ, pg 97 in Strathcyde Pension Fund's [most recent annual report](http://www.spfo.org.uk/CHttpHandler.ashx?id=42886&p=0)).
 
 Despite Southernwood being 'unviable', Galsgow CC says that it will deliver 35% affordable housing, 25% social rent, 10% intermediate, in line with local housing policy. The Officer's report accepts the 35% affordable offer, but without addressing the difference in the profit estimates or considering the difference in the profit target and the DTZ benchmark.
 
