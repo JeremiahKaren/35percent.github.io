@@ -37,14 +37,13 @@ There can be no argument that the land is owned by Glasgow City Council, on beha
 ![](http://35percent.org/img/SouthernwoodRetailParkdeeds.png)
 
 The Mayor's planning policy also has its own a Guidance Note for determining what constitutes public land - [Threshold Approach to Affordable Housing on Public Land (July 2018)](https://www.london.gov.uk/sites/default/files/practice_note_on_threshold_approach_to_affordable_housing_on_public_land_july_2018.pdf).  This defines it as _"Land that is owned or in use by a public sector organisation, or company or organisation in public ownership"_ (para 9).  Anticipating disputes on the definition, the note goes on to say that these _"will be determined with reference to the [Public Sector Classifications Guide (PSCG) published by the Office for National Statistics](https://www.ons.gov.uk/economy/nationalaccounts/uksectoraccounts/datasets/publicsectorclassificationguide)"_
-and this guide lists Local Government Pension Funds as a [public sector body](https://www.ons.gov.uk/methodology/classificationsandstandards/economicstatisticsclassifications/introductiontoeconomicstatisticsclassifications) 
-
+and this guide lists Local Government Pension Funds as a [public sector body](https://www.ons.gov.uk/methodology/classificationsandstandards/economicstatisticsclassifications/introductiontoeconomicstatisticsclassifications).  
 
 Notwithstanding this Southwark argues in the legal advice appended to the [planning committee report](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!Z%2fngWgPScvw3gDPzmFkc8A%3d%3d!%7d%7d%7d) that imposing the higher 50% affordable housing  _"would reduce the capital value of the site and therefore the Fund’s ability to pay pensions to retired workers"_ and that _"It would be unfair on the retired workers if their pension expectation might possibly be impacted.."_
 
-It might well be 'unfair' if this happened; it would also be 'unfair' if we are denied affordable housing that is due by policy 
+It might well be 'unfair' to pensioners if this happened, but it would also be 'unfair' to those who need affordable housing, if it is not delivered, when it is due by a policy and this counterargument has not been made.
 
-As unedifying as it would be to see two local authorities fight over their shares of the profit, one on behalf of pensioners, the other on behalf of those in need of affordable housing, Southwark (and GLA) have given way too easily on this argument.  It also points to a fundamental flaw in the whole market-dependant model for providing affordable housing - we should not have to trade off affordable housing against pensions.
+As unedifying as it would be to see two local authorities fight over their respective shares of a developer's profit, one on behalf of pensioners, the other on behalf of those who need affordable housing, Southwark and GLA's responsibility in this situation is to represent the interests of 
 
 ## Public funding? No thank you.
 
