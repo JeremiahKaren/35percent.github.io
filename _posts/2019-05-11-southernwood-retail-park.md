@@ -24,7 +24,6 @@ After so many major developments [at the Elephant & Castle](http://35percent.org
 
 Southern joins [Ruby Triangle](http://35percent.org/2018-10-08-ruby-triangle-goes-to-committee/) and [Cantium Retail Park](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!4ZdM8nfyvjj19tOftU%2fPPQ%3d%3d!%7d%7d%7d) as an 'unviable' scheme that will deliver 35% affordable housing.  Unlike Ruby Triangle, but like Cantium Retail Park, no 'late stage review' of viability is proposed for Southernwood. This is a comprehensive review where developers should disclose in detail actual costs and revenue received, to establish the schemes's real profitability and enable the local authority to 'claw back' additional affordable housing, should the profit be greater than anticipated.  Given the site's position alongside the likely site of a new tube station should the Bakerloo line extension be built, this looks like a serious ommission.
 
-All-in-all we have the peculiar situation where one public authority is building homes on land owned by the another, but is refusing to apply for public funding because that would make an 'unviable' development more unviable, added to which it is promising to provide affordable housing the figures say cannot be provided
 
 ## Affordable housing - 35%, 40% or 50%?
 
@@ -39,7 +38,7 @@ There can be no argument that the land is owned by Glasgow City Council, on beha
 ![](http://35percent.org/img/SouthernwoodRetailParkdeeds.png)
 
 The Mayor's planning policy also has its own a Guidance Note for determining what constitutes public land - [Threshold Approach to Affordable Housing on Public Land (July 2018)](https://www.london.gov.uk/sites/default/files/practice_note_on_threshold_approach_to_affordable_housing_on_public_land_july_2018.pdf).  This defines it as _"Land that is owned or in use by a public sector organisation, or company or organisation in public ownership"_ (para 9).  Anticipating disputes on the definition, the note goes on to say that these _"will be determined with reference to the [Public Sector Classifications Guide (PSCG) published by the Office for National Statistics](https://www.ons.gov.uk/economy/nationalaccounts/uksectoraccounts/datasets/publicsectorclassificationguide)"_
-and this guide lists Local Government Pension Funds as a [public sector body](https://www.ons.gov.uk/methodology/classificationsandstandards/economicstatisticsclassifications/introductiontoeconomicstatisticsclassifications), as much as Glasgow CC.  
+and this guide lists Local Government Pension Funds as a [public sector body](https://www.ons.gov.uk/methodology/classificationsandstandards/economicstatisticsclassifications/introductiontoeconomicstatisticsclassifications), just as Glasgow CC is a public sector body.  
 
 Notwithstanding this Southwark argues in the legal advice appended to the [planning committee report](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!Z%2fngWgPScvw3gDPzmFkc8A%3d%3d!%7d%7d%7d) that imposing the higher 50% affordable housing  _"would reduce the capital value of the site and therefore the Fund’s ability to pay pensions to retired workers"_ and that _"It would be unfair on the retired workers if their pension expectation might possibly be impacted.."_
 
@@ -55,19 +54,16 @@ TfL make the damning accusation that Southwark has _'no joined-up thinking'_, wh
 
 Tfl examine eight aspects of the scheme for policy compliance - Strategic aproach, Healthy Streets, Transport Capacity, Transport Assessment, Cycling, Car Parking, Deliveries, Funding - and gives the red light to six (meaning 'Major changes/redesign required'), with amber for two, including 'Funding' ('Further work required')'.  One of the more radical amendments TfL require for policy compliance is to move the proposed hotel, currently to front onto the Old Kent Rd, but overall TfL consider that it is _'unlikely that the significant design changes and stringent management measures necessary to make the existing proposals workable can be made to address the issues...'_.
 
-The planning committee report addresses TfLs objections at length over 14 pages (Para 524 - 602). While it acknowledges the critical importance of the BLE to the success of developments throughout the whole Opportunity Area, much of the remedy the report proposes to TfL's criticisms depend on future agreements between all parties, including Tesco/Invesco developers, secured by s106 and other legal conditions **after** consent is granted, when the common-sense response is surely to resolve these problems **before** consent is given. 
-It is noteworthy in this respect that the application was only submitted in Oct 2018, seven months ago, a short time for such a large development.  
+The planning committee report addresses TfLs objections at length over 14 pages (Para 524 - 602). While it acknowledges the critical importance of the BLE to the success of developments throughout the whole Opportunity Area, much of the remedy the report proposes to TfL's criticisms depend on future agreements between all parties, including Tesco/Invesco developers, secured by s106 and other legal conditions **after** consent is granted, when the common-sense response is surely to resolve these problems **before** consent is given.
 
-The TfL objections adds weight to the argument that the whole Oppourtunity Area project is developer-driven, rather than plan-led and that the approval of major developments, such as Southernwood in advance of the adoption of the AAP is premature and rendering it redundant.
+## Conclusion
 
-The TfL objection is also serious in respect of the general viability of opportunity area developments.  As noted above, Ruby Triangle, Cantium Retail Park were both declared technically non-viable and depend upon the rise in land values that the Bakerloo Extension will bring, so should there be problems with this, it could have ramifications for their promises of  affordable housing.
+Southernwood provides the peculiar spectacle of one public authority building homes on land owned by another, but refusing to apply for public funding, because that would make an 'unviable' development more unviable, added to which it is promising to provide affordable housing the figures say the scheme cannot provide.
 
+As noted above, Ruby Triangl and Cantium Retail Park were also both declared technically non-viable and depend upon the rise in land values that the Bakerloo Extension will bring, so should the problems feared by TfL occur, they may well have consequences for their promises of  affordable housing too.  
 
+The TfL objections also adds weight to the argument that the whole Opportunity Area project is developer-driven, rather than plan-led and that the approval of major developments, such as Southernwood in advance of the adoption of the AAP is premature and rendering it redundant.
 
 
 ![](http://35percent.org/img/southernwoodretailpark.jpg)
-
---------------------------------------------------------------------------------------------------------
-
-
 
