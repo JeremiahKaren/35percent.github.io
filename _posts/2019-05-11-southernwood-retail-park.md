@@ -1,7 +1,7 @@
 ---
 layout: post
 published: false
-title: 'Southernwood Retail Park '
+title: Southernwood Retail Park next big OKRd planning decision
 ---
 
 ## Third of big four Old Kent Rd developments goes to committee 
@@ -30,9 +30,7 @@ Two other features in Southernwood application stand out - the first is that the
 
 The second feature is that the site is both owned by a local authority and is in an area marked as a Strategic Industrial Location and on both counts should deliver 50% affordable housing, under the [draft New London Plan](https://www.london.gov.uk/sites/default/files/draft_london_plan_-showing_minor_suggested_changes_july_2018.pdf), raising the number to about 360.
 
-Glasgow CC submitted its own legal opinion on this, arguing that the site should not be considered as public land because it would harm pensioners' beneifits from the scheme. Southwark and [GLA](link) have fallen into line behind this.
-
-> "The effect of including the Fund’s land within the ambit of these policies is in effect to penalise the members of the Fund simply for having worked as public servants." (Para 173 of planning committee report)
+Glasgow CC submitted its own legal opinion on this, arguing that the site should not be considered as public land because it would harm pensioners' beneifits from the scheme. Southwark and [GLA](link) have fallen into line behind this, Southwark saying _"The effect of including the Fund’s land within the ambit of these policies is in effect to penalise the members of the Fund simply for having worked as public servants."_ (Para 173 of planning committee report)
 
 [Land Registry deeds](35percent.org/lrdeeds/SouthernwoodRetailPark.pdf) show Glasgow City Council as the owner on behalf of its pension fund.
 
