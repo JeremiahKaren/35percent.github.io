@@ -49,30 +49,21 @@ As unedifying as it would be to see two local authorities fight over their respe
 
 ## TfL gives scheme (many) red lights
 
-There also appears to be a major issues, to say the least, with Transport for London (TfL), particularly  around the impact of the development on plans for the proposed Bakerloo Line Extension (BLE). In [their latest communication](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!W%2bBDjjAJuU3mmtTnlOWc0Q%3d%3d!%7d%7d%7d) of barely more than a month ago, TTfL urge Southwark not to approve the application, other than the back of the development, until the Bakerloo Line Extension (BLE) is complete, for fear that it will be compromised.
+There also appears to be [a major issues](https://www.london-se1.co.uk/news/view/9916), to say the least, with Transport for London (TfL), particularly  around the impact of the development on plans for the proposed Bakerloo Line Extension (BLE). In [their latest communication](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!W%2bBDjjAJuU3mmtTnlOWc0Q%3d%3d!%7d%7d%7d) of barely more than a month ago, TTfL urge Southwark not to approve the application, other than the back of the development, until the Bakerloo Line Extension (BLE) is complete, for fear that it will be compromised.
 
 TfL make the damning accusation that Southwark has _'no joined-up thinking'_, which must sting after several years of consultation and planning for the yet-to-be adopted [Old Kent Rd Area Action Plan (AAP) and Opportunity Area](link).  Tfl examine eight aspects of the scheme for policy compliance - Strategic aaproach, Healthy Streets, Transport Cacacity, Transport Assessment, Cycling, Car Parking, Deliveries, Funding - and gives the red light to six ('Major changes/redesign required'), with amber for two, including 'Funding' ('Further work required')'.  One of the more radical amendments TfL require for policy compliance is to move the proposed hotel, currently to front onto the Old Kent Rd, but TfL consider it 'unlikely that the significant design changes and stringent management measures necessary to make the existing proposals workable can be made to address the issues...'.
 
-The planning committee report addresses TfLs objections at length over 14 pages (Para 524 - 602). While it acknowledges the critical importance of the BLE to the success of developments throughout the whole Opportunity Area, much of the remedy the report proposes to TfL's criticisms depend on future agreements between all parties, including Tesco/Invesco developers, secured by s106 and other legak conditions **after**
+The planning committee report addresses TfLs objections at length over 14 pages (Para 524 - 602). While it acknowledges the critical importance of the BLE to the success of developments throughout the whole Opportunity Area, much of the remedy the report proposes to TfL's criticisms depend on future agreements between all parties, including Tesco/Invesco developers, secured by s106 and other legak conditions **after**, when the common-sense response is surely to resolve these problems before **giving** consent.
 
+It is noteworthy that the application was only submitted in Oct 2018, seven months ago, a short time for such a large development.  
 
-
-
-
-
-
-
-
-
-It also adds weight to the argument that the whole Oppourtunity Area project is developer-driven, rather than plan-led and that the approval of major developments, such as Southernwood in advance of the adoption of the AAP is rendering it redundant.
+ adds weight to the argument that the whole Oppourtunity Area project is developer-driven, rather than plan-led and that the approval of major developments, such as Southernwood in advance of the adoption of the AAP is rendering it redundant.
 
 The TfL objection is also serious in respect of the general viability of opportunity area developments.  As noted above, Ruby Triangle, Cantium Retail Park were both declared technically non-viable and depend upon the rise in land values that the Bakerloo Extension will bring, so should there be problems with this, it could have ramifications for their promises of  affordable housing. 
 
-https://www.london-se1.co.uk/news/view/9916
 
-Phasing Old Kent Rd AAP.
 
-## Density
+
 
 ![](http://35percent.org/img/southernwoodretailpark.jpg)
 
