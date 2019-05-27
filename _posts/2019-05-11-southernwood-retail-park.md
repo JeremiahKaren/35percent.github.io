@@ -47,11 +47,24 @@ It might well be 'unfair' to pensioners if this happened, but it would also be '
 
 As unedifying as it would be to see two local authorities fight over their respective shares of a developer's profit, one on behalf of pensioners, the other, on behalf of those who need affordable housing, Southwark and GLA's responsibility in this situation is to vigorously represent the interests of those in housing need and it has not done so, by giving way so easily.
 
-## TfL gives scheme the red light
+## TfL gives scheme (many) red lights
 
-There also appears to be a major issues around the impact of the developent on plans for the proposed Bakerloo Line Extension (BLE). In [their latest communication](link) posted on the planning website, dated 1 May 2019 TfL urge Southwark not to approve the application, other than the back of the development.
+There also appears to be a major issues, to say the least, with Transport for London (TfL), particularly  around the impact of the development on plans for the proposed Bakerloo Line Extension (BLE). In [their latest communication](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!W%2bBDjjAJuU3mmtTnlOWc0Q%3d%3d!%7d%7d%7d) of barely more than a month ago, TTfL urge Southwark not to approve the application, other than the back of the development, until the Bakerloo Line Extension (BLE) is complete, for fear that it will be compromised.
 
-TfL make the damning accusation that Southwark has _'no joined-up thinking'_, which must sting after several years of consultation and planning for the yet-to-be adopted [Old Kent Rd Area Action Plan (AAP) and Opportunity Area](link).  It also adds weight to the argument that the whole Oppourtunity Area project is developer-driven, rather than plan-led and that the approval of major developments, such as Southernwood in advance of the adoption of the AAP is rendering it redundant.
+TfL make the damning accusation that Southwark has _'no joined-up thinking'_, which must sting after several years of consultation and planning for the yet-to-be adopted [Old Kent Rd Area Action Plan (AAP) and Opportunity Area](link).  Tfl examine eight aspects of the scheme for policy compliance - Strategic aaproach, Healthy Streets, Transport Cacacity, Transport Assessment, Cycling, Car Parking, Deliveries, Funding - and gives the red light to six ('Major changes/redesign required'), with amber for two, including 'Funding' ('Further work required')'.  One of the more radical amendments TfL require for policy compliance is to move the proposed hotel, currently to front onto the Old Kent Rd, but TfL consider it 'unlikely that the significant design changes and stringent management measures necessary to make the existing proposals workable can be made to address the issues...'.
+
+The planning committee report addresses TfLs objections at length over 14 pages (Para 524 - 602). While it acknowledges the critical importance of the BLE to the success of developments throughout the whole Opportunity Area, much of the remedy the report proposes to TfL's criticisms depend on future agreements between all parties, including Tesco/Invesco developers, secured by s106 and other legak conditions **after**
+
+
+
+
+
+
+
+
+
+
+It also adds weight to the argument that the whole Oppourtunity Area project is developer-driven, rather than plan-led and that the approval of major developments, such as Southernwood in advance of the adoption of the AAP is rendering it redundant.
 
 The TfL objection is also serious in respect of the general viability of opportunity area developments.  As noted above, Ruby Triangle, Cantium Retail Park were both declared technically non-viable and depend upon the rise in land values that the Bakerloo Extension will bring, so should there be problems with this, it could have ramifications for their promises of  affordable housing. 
 
