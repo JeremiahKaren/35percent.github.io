@@ -50,6 +50,9 @@ As unedifying as it would be to see two local authorities fight over their respe
 
 There also appears to be [major issues](https://www.london-se1.co.uk/news/view/9916), to say the least, with Transport for London (TfL), particularly  around the impact of the development on plans for the proposed Bakerloo Line Extension (BLE). In [its latest communication](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!W%2bBDjjAJuU3mmtTnlOWc0Q%3d%3d!%7d%7d%7d) of barely a month ago, in which TfL urges Southwark not to approve the application, except for _"the rear portion of the site"_, until the Bakerloo Line Extension (BLE) is complete, for fear that it will be compromised.
 
+![](http://35percent.org/img/swtflsummary.png)
+*Extract from TFL's [Objection to the scheme](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!W%2bBDjjAJuU3mmtTnlOWc0Q%3d%3d!%7d%7d%7d)*
+
 TfL make the damning accusation that Southwark has _'no joined-up thinking'_, which must sting after several years of consultation and planning for the yet-to-be adopted [Old Kent Rd Area Action Plan (AAP) and Opportunity Area](https://www.southwark.gov.uk/planning-and-building-control/planning-policy-and-transport-policy/development-plan/area-action-plans). 
 
 TfL examine eight aspects of the scheme for policy compliance - Strategic approach, Healthy Streets, Transport Capacity, Transport Assessment, Cycling, Car Parking, Deliveries, Funding - and gives the red light to six (meaning 'Major changes/redesign required'), with amber for two, including 'Funding' ('Further work required')'.  One of the more radical amendments TfL require for policy compliance is to move the proposed hotel, currently to face onto the Old Kent Rd, but overall TfL consider that it is _'unlikely that the significant design changes and stringent management measures necessary to make the existing proposals workable can be made to address the issues'_ raised.
