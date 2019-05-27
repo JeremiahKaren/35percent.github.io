@@ -48,7 +48,7 @@ As unedifying as it would be to see two local authorities fight over their respe
 
 ## TfL gives scheme (many) red lights
 
-There also appears to be [a major issues](https://www.london-se1.co.uk/news/view/9916), to say the least, with Transport for London (TfL), particularly  around the impact of the development on plans for the proposed Bakerloo Line Extension (BLE). In [their latest communication](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!W%2bBDjjAJuU3mmtTnlOWc0Q%3d%3d!%7d%7d%7d) of barely more than a month ago, TTfL urge Southwark not to approve the application, other than _"the rear portion of the site"_, until the Bakerloo Line Extension (BLE) is complete, for fear that it will be compromised.
+There also appears to be [a major issues](https://www.london-se1.co.uk/news/view/9916), to say the least, with Transport for London (TfL), particularly  around the impact of the development on plans for the proposed Bakerloo Line Extension (BLE). In [their latest communication](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!W%2bBDjjAJuU3mmtTnlOWc0Q%3d%3d!%7d%7d%7d) of barely more than a month ago, TTfL urge Southwark not to approve the application, other than , until the Bakerloo Line Extension (BLE) is complete, for fear that it will be compromised.
 
 TfL make the damning accusation that Southwark has _'no joined-up thinking'_, which must sting after several years of consultation and planning for the yet-to-be adopted [Old Kent Rd Area Action Plan (AAP) and Opportunity Area](link). 
 
