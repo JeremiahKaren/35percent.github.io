@@ -33,7 +33,7 @@ The second feature is that the site is both owned by a local authority and is in
 
 Glasgow CC submitted its own legal opinion on this, arguing that the site should not be considered as public land because it would _" penalise  the  members  of  the  [Pension] Fund  simply  for  having worked as public servants"_ (see para 173 of [planning committee report](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!Z%2fngWgPScvw3gDPzmFkc8A%3d%3d!%7d%7d%7d)). Southwark and the Greater London Authority (GLA) have accepted this argument. 
 
-There can be no argument that the land is owned by Glasgow City Council, on behalf of its pension fund, as [land Registry deeds](35percent.org/lrdeeds/SouthernwoodRetailPark.pdf) show.
+There can be no dispute that the land is owned by Glasgow City Council, on behalf of its pension fund, as [land Registry deeds](35percent.org/lrdeeds/SouthernwoodRetailPark.pdf) show.
 
 ![](http://35percent.org/img/SouthernwoodRetailParkdeeds.png)
 
