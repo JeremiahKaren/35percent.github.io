@@ -49,7 +49,11 @@ As unedifying as it would be to see two local authorities fight over their respe
 
 ## TfL gives scheme (many) red lights
 
-There also appears to be [major issues](https://www.london-se1.co.uk/news/view/9916), to say the least, with Transport for London (TfL), particularly  around the impact of the development on plans for the proposed Bakerloo Line Extension (BLE). In [its latest communication](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!W%2bBDjjAJuU3mmtTnlOWc0Q%3d%3d!%7d%7d%7d) of barely a month ago, in which TfL urges Southwark not to approve the application, except for _"the rear portion of the site"_, until the Bakerloo Line Extension (BLE) is complete, for fear that it will be compromised.
+There also appears to be [major issues](https://www.london-se1.co.uk/news/view/9916), to say the least, with Transport for London (TfL), particularly  around the impact of the development on plans for the proposed Bakerloo Line Extension (BLE). In [its latest communication](/img/TfL_Southernwood.pdf) of barely a month ago, in which TfL urges Southwark not to approve the application, except for _"the rear portion of the site"_, until the Bakerloo Line Extension (BLE) is complete, for fear that it will be compromised.
+
+
+![](http://35percent.org/img/swtflsummary2.png)
+*Extract from TFL's [Objection to the scheme](/img/TfL_Southernwood.pdf)*
 
 ![](http://35percent.org/img/swtflsummary.png)
 *Extract from TFL's [Objection to the scheme](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!W%2bBDjjAJuU3mmtTnlOWc0Q%3d%3d!%7d%7d%7d)*
