@@ -3,6 +3,8 @@ layout: post
 published: false
 title: Old Kent Rd Malt Street development (Berkeley Homes)
 ---
+![](http://35percent.org/img/maltstreet.jpg)
+
 ## 35% but what tenure?
 All planning application docs submitted by applicant Berkeley homes refer to affordable rent rather than social rent (list).
 
