@@ -20,3 +20,8 @@ Still waiting for the [promised audit](https://www.southwarknews.co.uk/news/coun
 As with last week's [Southernwood scheme] Berkeley has submitted a viability assessment (compiled by Savills) saying that delivering 35% affordable housing is unviable (unprofitable enough). Berkeley assumes an estimated sales value of its completed homes of £7xx per square foot on average. 
 
 In arriving at this figure Savills has used the latest completed phase of Elephant Park (aka Heygate estate) as a sales comparable. This phase sold on average for £12xx per square foot. 
+
+## Late stage review
+Para 32 of the [Mayor's planning report](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!haTo0z2rc9BKNsdNgCZODw%3d%3d!%7d%7d%7d) says:
+
+"The application does not therefore follow the Fast Track Route with 35% affordable housing (as the threshold level would be 50% in this instance), and it must therefore be considered under the viability tested route."
