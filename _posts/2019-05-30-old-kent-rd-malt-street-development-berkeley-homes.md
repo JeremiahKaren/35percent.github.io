@@ -3,10 +3,22 @@ layout: post
 published: false
 title: Old Kent Rd Malt Street development (Berkeley Homes)
 ---
+Southwark's planning committee is set to approve yet another major Old Kent Rd development on Monday. Berkeley Homes has applied to build xxx homes on a small parcel of land behind B&Q.
+
 ![](http://35percent.org/img/maltstreet.jpg)
 
-## 35% but what tenure?
-All planning application docs submitted by applicant Berkeley homes refer to affordable rent rather than social rent (list).
+Malt Street is the fourth (of five?) major schemes that will make up the ...
+
+![](http://35percent.org/img/okrmap.jpg)
+
+## Taking the 'social' out of social rent
+Nowhere in any of the circa 230 supporting documents in Berkeley's planning application does the term 'social rent' appear.
+
+All documents referring to tenure use the term 'rent' or 'affordable rent'.
+
+http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!0pJwqHwaH0Wzr%2bPIM9Kq8g%3d%3d!%7d%7d%7d
+
+Even the Mayor's [planning report](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!haTo0z2rc9BKNsdNgCZODw%3d%3d!%7d%7d%7d) avoids using the term 'social rent' and instead describes the proposed tenure as 'low-cost rent'. (para 33)
 
 The [S106 draft heads of terms document](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!CQmOQKOASqZFZSaVyAtPJA%3d%3d!%7d%7d%7d) says this:
 
