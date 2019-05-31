@@ -22,7 +22,7 @@ Even the Mayor's [planning report](http://planbuild.southwark.gov.uk/documents/?
 
 Berkeley's [viability assessment](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!R3Si0Rp49ADxAyylzQ24ww%3d%3d!%7d%7d%7d) uses the term 'affordable rented':
 
-![](http://35percent.org/img/maltstreetar.jpg)
+![](http://35percent.org/img/maltstar.jpg)
 
 The [S106 draft heads of terms document](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!CQmOQKOASqZFZSaVyAtPJA%3d%3d!%7d%7d%7d) says this:
 
