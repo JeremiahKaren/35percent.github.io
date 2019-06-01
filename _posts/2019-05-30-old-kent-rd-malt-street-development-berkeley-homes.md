@@ -58,13 +58,7 @@ The explantion for this big difference lies with the rule that viability assessm
 
 In the case of Malt St, Berkeley's hasn't done any scenario testing. The Council's independent review has done some, but only with a 5% increase in sales values. More comprehensive scenario testing should have been undertaken, for a major schemes, likely to take over a decade to complete and where values will be affected by such a major variables, as the Bakerloo line extension.
 
-In the absence of this the very least the Council should do is secure a late stage review mechanism, which ensures that any excess rise in values is clawed back in the form of extra affordable housing.
-
-Whatever else, this shows that, all other things being equal, Elephant Park was capable of delivering 35% affordable housing, not 25%, and had there been a late stage review of the scheme, there could of been at least the possibility of getting this. 
-
-as they were for Elephant Park, (where they did the whole viability assessment for develpe Lendlease).
-
-
+In the absence of this the very least the Council should do is secure a late stage review, which should ensure that any great rise in values is does not solely benefit the developer's profit, but is shared with local community,  in the form of more affordable housing.
 
 ## Objection to no late stage review
 
