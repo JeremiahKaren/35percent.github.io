@@ -28,10 +28,13 @@ The [S106 draft heads of terms document](http://planbuild.southwark.gov.uk/docum
 
 We have [seen before](http://35percent.org/redefining-social-rent) promises of social rent do no not necessarily guarantee that social rent will be delivered and we are still waiting for the [promised audit](https://www.southwarknews.co.uk/news/council-will-clamp-housing-providers-flunk-affordable-housing-promises/) of affordable and social rented housing after a [damning ombudsman investigation](http://35percent.org/2016-12-12-ombudsman-slams-southwark-for-no-s106-monitoring/), which found that Southwark had not monitored or enforced the tenure requirements of all its s106 affordable housing agreements.
 
-## Viability assessment - cooking the books
-Berkeley has submitted a [viability assessment](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!R3Si0Rp49ADxAyylzQ24ww%3d%3d!%7d%7d%7d) saying that: 
+## Viability assessment flaw
+
+Just like Ruby Triangle, Cantium Retail Park and Southernwood Retail Park, the developers claims that the Malt scheme is technically unviable, with 35% affordable housing.  Berkeley [viability assessment](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!R3Si0Rp49ADxAyylzQ24ww%3d%3d!%7d%7d%7d) says that: 
 
 ![](http://35percent.org/img/maltstreview.png)
+
+Southwark's consultant's agree with this analysis, albeit they think if slihhtly less unviable than Berkeleys.  In any event Berkeley offer 40% affordable housing on the understanding that viability will be improved by better transport links (ie the Bakerloo Line Exetension) and the ongoing regeneraation of the area.  There is an important proviso, however - that there will be no alte stage review.  This pre-empts any possibility that the amount of affordable housing will be raised to 50%, as reqiured by the draft London Plan, whci will be fully in force by the time Malt St is completed.
 
 As with all viability assessments they are based on current day values. Berkeley commissioned Savills to provide a current day estimate of what sales values would be if the development were completed today.
 
