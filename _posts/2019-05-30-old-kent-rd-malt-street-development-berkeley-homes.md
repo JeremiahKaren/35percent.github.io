@@ -3,7 +3,9 @@ layout: post
 published: false
 title: Old Kent Rd Malt Street development (Berkeley Homes)
 ---
-Southwark's planning committee is set to approve yet another major Old Kent Rd development on Monday. Berkeley Homes has applied to build xxx homes on a small parcel of land behind B&Q.
+Southwark's planning committee is set to approve yet another major Old Kent Rd development on Monday. It will be the fourth after [Ruby Triangle], Cantium Retail park and [Southernwood Retail Park]. Southernwood was unanimously approved by Southwark's planning committee just last week after despite objections and serious concerns from TfL. On the latter the committee was reassured by a letter sent by TfL the very afternoon of the meeting. 
+
+Berkeley Homes has applied to build xxx homes on a small parcel of land behind B&Q.
 
 ![](http://35percent.org/img/maltstreet.jpg)
 
