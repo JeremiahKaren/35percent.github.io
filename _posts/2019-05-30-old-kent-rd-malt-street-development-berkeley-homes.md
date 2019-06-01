@@ -29,25 +29,25 @@ The Malt St [S106 draft heads of terms document](http://planbuild.southwark.gov.
 
 We have [seen before](http://35percent.org/redefining-social-rent) promises of social rent do no not necessarily guarantee that social rent will be delivered and we are still waiting for the [promised audit](https://www.southwarknews.co.uk/news/council-will-clamp-housing-providers-flunk-affordable-housing-promises/) of affordable and social rented housing, after a [damning ombudsman investigation](http://35percent.org/2016-12-12-ombudsman-slams-southwark-for-no-s106-monitoring/), which found that Southwark had not monitored or enforced the tenure requirements of all its s106 affordable housing agreements.
 
-## No late stage reveiw
+## No late stage review
 
 Berkeley Homes [viability assessment](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!R3Si0Rp49ADxAyylzQ24ww%3d%3d!%7d%7d%7d) of the Malt St scheme says it will produce a 'substandard return' and it is technically unviable with 35% affordable housing (just as the developers of Ruby Triangle, Cantium Retail Park and Southernwood Retail did).
 
 Southwark's consultant's agree with this analysis, albeit they calculate that the scheme is slightly less unviable than Berkeley claim.  In any event, Berkeley offer 40% affordable housing on the understanding that the viability will be improved by better transport links (ie the Bakerloo Line Extension) and the ongoing regeneraation of the area.  There is an important proviso, however - that there will be no late stage review.  This pre-empts any possibility that the amount of affordable housing will be raised to 50%, as required by the draft London Plan, which will be fully in force by the time Malt St is completed.
 
-The full 35% Campaign objection on this point is below.
+A 35% Campaign objection on this point is below at the end of this blogpost.
 
 ![](http://35percent.org/img/maltstreview.png)
 
 ## Viability assessment flaw
 
-An important part of viability assessments is estimating a scheme's likely revenue.  This is done by using 'comparables' ie the revenues other similiar schemes have realised. Savills were commissioned for this task and estimated an average sales value of completed homes of £776 per square foot.
+An important part of viability assessments is estimating a scheme's likely revenue.  This is done by using 'comparables' ie the revenues other similiar schemes have realised. Berkeley Homes commissioned Savills for this task and they estimated an average sales value of completed homes of £776 per square foot.
 
 
 ![](http://35percent.org/img/maltst776.png)
 
 
-In arriving at this figure Savills uses Elphant Park(formerly the Heygate estate) where the sales are currently achieving £1,247 per sqft.
+In arriving at this figure Savills uses Elphant Park (formerly the Heygate estate) where the sales are currently achieving £1,247 per sqft.
 
 ![](http://35percent.org/img/eparksales.png)
 
