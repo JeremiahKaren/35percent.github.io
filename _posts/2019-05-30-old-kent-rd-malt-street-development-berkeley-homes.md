@@ -47,7 +47,7 @@ An important part of viability assessments is estimating a scheme's likely reven
 ![](http://35percent.org/img/maltst776.png)
 
 
-In arriving at this figure Savills uses Elphant Park(formerly the Heygate estate) where the sales are currently achieving £1,247 per sqft.
+In arriving at this figure Savills uses Elphant Park (formerly the Heygate estate) where the sales are currently achieving £1,247 per sqft.
 
 ![](http://35percent.org/img/eparksales.png)
 
