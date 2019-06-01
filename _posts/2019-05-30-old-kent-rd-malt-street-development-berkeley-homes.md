@@ -15,7 +15,7 @@ For Malt St,Berkeley Homes proposes a mixed use development, including 1,300 hom
 
 ## Taking the 'social' out of social rent?
 
-As stated in the [planning committee report], Berkeley propose 35% affordable housing, of which 25% would be social rent, 10% intermediate, with an additional 5% intermediate, supplied with the help of grant funding.  However, throughout Berkeley's planning application the term 'social rent' does not appear, with the supporting documents, such as the [viability assessment](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!R3Si0Rp49ADxAyylzQ24ww%3d%3d!%7d%7d%7d) uses the term 'affordable rented':referring instead to 'rent' or 'affordable rent'.
+As stated in the [planning committee report], Berkeley propose 35% affordable housing, of which 25% would be social rent, 10% intermediate, with an additional 5% intermediate, supplied with the help of grant funding.  However, the term 'social rent' does not appear anywhere throughout Berkeley's planning application, with the documents eg the [viability assessment](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!R3Si0Rp49ADxAyylzQ24ww%3d%3d!%7d%7d%7d) using the term 'affordable rented' or just 'rent' instead.
 
 ![](http://35percent.org/img/maltstar.jpg)
 
