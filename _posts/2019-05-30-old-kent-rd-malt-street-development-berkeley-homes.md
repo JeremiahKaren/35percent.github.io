@@ -7,7 +7,11 @@ Southwark's planning committee is to consider yet another major Old Kent Rd deve
 
 ![](http://35percent.org/img/okrmap.jpg)
 
-For Malt St,Berkeley Homes proposes a mixed use development, including 1,300 homes and 7,000 sqm of commercial space, on 1.9 hectares of land behind Asda. It is a 'hybrid'' application of two parts, a detailed application for 420 homes, and an outline application for 880 homes.  The total development comprises 11 blocks, including thirty-nine and 444 storey towers, to be built in three phases, with completion by 2027.
+For Malt St,Berkeley Homes proposes a mixed use development, including 1,300 homes and 7,000 sqm of commercial space, on 1.9 hectares of land behind Asda. It is a 'hybrid'' application of two parts, a detailed application for 420 homes, and an outline application for 880 homes.  The total development comprises 11 blocks, including thirty-nine and 444 storey towers, to be built in three phases, with completion by 2027. 
+
+Berkeley Homes are offering 40% afforddable housing is offere, d he detailed part of the scheme will provide 83 social rented unit
+
+
 
 
 ![](http://35percent.org/img/maltstreet.jpg)
@@ -30,7 +34,7 @@ We have [seen before](http://35percent.org/redefining-social-rent) promises of s
 
 ## No late stage reveiw
 
-Just like Ruby Triangle, Cantium Retail Park and Southernwood Retail Park, the developers claims that the Malt scheme is technically unviable, with 35% affordable housing.  Berkeley [viability assessment](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!R3Si0Rp49ADxAyylzQ24ww%3d%3d!%7d%7d%7d) says that Malt St will produce a 'substandard return. 
+Just like Ruby Triangle, Cantium Retail Park and Southernwood Retail Park, the developer claims that the Malt scheme is technically unviable with 35% affordable housing.  Berkeley [viability assessment](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!R3Si0Rp49ADxAyylzQ24ww%3d%3d!%7d%7d%7d) says that Malt St will produce a 'substandard return. 
 
 Southwark's consultant's agree with this analysis, albeit they calculate that the scheme is slightly less unviable than Berkeley claim.  In any event, Berkeley offer 40% affordable housing on the understanding that the viability will be improved by better transport links (ie the Bakerloo Line Extension) and the ongoing regeneraation of the area.  There is an important proviso, however - that there will be no late stage review.  This pre-empts any possibility that the amount of affordable housing will be raised to 50%, as required by the draft London Plan, which will be fully in force by the time Malt St is completed.
 
