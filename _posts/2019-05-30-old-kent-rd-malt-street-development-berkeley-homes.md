@@ -62,7 +62,8 @@ For major schemes like these that are likely to take over a decade to complete a
 
 In the absence of this the very least the Council should do is secure a late stage review mechanism, which ensures that any excess rise in values is clawed back in the form of extra affordable housing.
 
-## Late stage review
+## Objection to no late stage review
+
 Para 32 of the [Mayor's planning report](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!haTo0z2rc9BKNsdNgCZODw%3d%3d!%7d%7d%7d) says:
 
 "The application does not therefore follow the Fast Track Route with 35% affordable housing (as the threshold level would be 50% in this instance), and it must therefore be considered under the viability tested route.""The application does not therefore follow the Fast Track Route with 35% affordable housing (as the threshold level would be 50% in this instance), and it must therefore be considered under the viability tested route."Dear Sir/Madam,
