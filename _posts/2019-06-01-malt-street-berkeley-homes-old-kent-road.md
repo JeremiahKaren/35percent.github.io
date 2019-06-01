@@ -87,4 +87,4 @@ _As the application is a large phased development a mid-term review should also 
 <meta name="twitter:site" content="@35percent_EAN" />
 <meta name="twitter:title" content="Malt Street - the next big Old Kent Road scheme" />
 <meta name="twitter:description" content="Big scheme and big questions for Berkeley Homes remain unanswered." />
-<meta name="twitter:image" content="http://35percent.org/img/maltstreet.png" />
+<meta name="twitter:image" content="http://35percent.org/img/maltstreet.jpg" />
