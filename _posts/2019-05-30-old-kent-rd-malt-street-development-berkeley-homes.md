@@ -41,7 +41,7 @@ A 35% Campaign objection on this point is below at the end of this blogpost.
 
 ## Viability assessment flaw
 
-An important part of viability assessments is estimating a scheme's likely revenue.  This is done by using 'comparables' ie the revenues other similiar schemes have realised. Savills were commissioned for this task and estimated an average sales value of completed homes of £776 per square foot.
+An important part of viability assessments is estimating a scheme's likely revenue.  This is done by using 'comparables' ie the revenues other similiar schemes have realised. Berkeley Homes commissioned Savills for this task and they estimated an average sales value of completed homes of £776 per square foot.
 
 
 ![](http://35percent.org/img/maltst776.png)
