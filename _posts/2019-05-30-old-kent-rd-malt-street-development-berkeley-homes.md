@@ -32,14 +32,34 @@ The [S106 draft heads of terms document](http://planbuild.southwark.gov.uk/docum
 
 The planning committee report uses the term 'social rent' but as we have [seen before](http://35percent.org/redefining-social-rent) this does not provide a guarantee that social rent will be delivered.
 
-![](http://35percent.org/img/snauditpromise2.png)
-
 Still waiting for the [promised audit](https://www.southwarknews.co.uk/news/council-will-clamp-housing-providers-flunk-affordable-housing-promises/) after the [damning ombudsman investigation](http://35percent.org/2016-12-12-ombudsman-slams-southwark-for-no-s106-monitoring/) which found that Southwark didn't bother to monitor or enforce the tenure requirements of s106 affordable housing agreements.
 
 ## Viability assessment - cooking the books
-As with last week's [Southernwood scheme] Berkeley has submitted a viability assessment (compiled by Savills) saying that delivering 35% affordable housing is unviable (unprofitable enough). Berkeley assumes an estimated sales value of its completed homes of £7xx per square foot on average. 
+Berkeley has submitted a [viability assessment](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!R3Si0Rp49ADxAyylzQ24ww%3d%3d!%7d%7d%7d) saying that: 
 
-In arriving at this figure Savills has used the latest completed phase of Elephant Park (aka Heygate estate) as a sales comparable. This phase sold on average for £12xx per square foot. We remember Lendlease's viability assessment saying that they would sell for half this amount..
+![](http://35percent.org/img/maltstreview.png)
+
+As with all viability assessments they are based on current day values. Berkeley commissioned Savills to provide a current day estimate of what sales values would be if the development were completed today.
+
+assumes an estimated sales value of its completed homes of £776 per square foot on average. 
+
+![](http://35percent.org/img/maltst776.png)
+
+In arriving at this figure Savills uses comparable sales from developments in the surrounding area. One of these is Elephant Park (aka. Heygate estate) where it says that sales are currently achieving £1,247/sqft
+
+![](http://35percent.org/img/eparksales.png)
+
+We remember the [Savill's report] submitted as part of [Lendlease's viability assessment](http://35percent.org/collated-viability-assessments/#heygate-viability-assessment) saying that they would sell for half this amount..
+
+![](http://35percent.org/img/heygate600psf.png)
+
+This is a major flaw in viability testing methodology - i.e. the fact that the assessment is based on current values. It is supposed to be compensated for by what is called 'scenario testing' whereby different scenarios are run but these are often inadequate. In the Heygate case there was a scenario run with a 5% increase in sales values. In the event there was a 100% increase in sales values.
+
+Berkeley's viability assessment hasn't done any scenario testing. The Council's independent review do some scenario testing but on ly with a 15% increase in sales values.
+
+For major schemes like these that are likely to take over a decade to complete and where values are likely to be affected by major variables such as the Bakerloo line extension better more comprehensive scenario testing should have been undertaken. 
+
+In the absence of this the very least the Council should do is secure a late stage review mechanism, which ensures that any excess rise in values is clawed back in the form of extra affordable housing.
 
 ## Late stage review
 Para 32 of the [Mayor's planning report](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!haTo0z2rc9BKNsdNgCZODw%3d%3d!%7d%7d%7d) says:
@@ -63,5 +83,3 @@ For these reasons and in the light of the Stage 1 report, we believe that the pl
 As the application is a large phased development a mid-term review should also be required, according to Policy H6, Para E 2(c).
 
 Yours sincerely
-
-
