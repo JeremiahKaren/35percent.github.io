@@ -54,11 +54,11 @@ This is double the revenue estimate of £600 per sq ft Savills gave back in 2012
 
 ![](http://35percent.org/img/heygate600psf.png)
 
-The explantion for this big difference lies with the rule that viability assessments are based on current day values.  This is a major problem in the viability testing method and is supposed to be mitigated by 'scenario testing' where various increase in sales values are tested.often inadequate. In the Heygate case there was a scenario run with a 5% increase in sales values. In the event there was a 100% increase in sales values.
+The explantion for this big difference lies with the rule that viability assessments are based on current day values.  This is a major problem in the viability testing method and is supposed to be mitigated by sensitivity analysis or scenario testing, where various increases in sales values are tested, but these tests are often inadequate. In the Heygate case the District Valuer Service, acting for Southwark, ran just one scenario, with a 5% increase in sales values, when the actual increase is 100%##
 
-Berkeley's viability assessment hasn't done any scenario testing. The Council's independent review do some scenario testing but on ly with a 15% increase in sales values.
+.
 
-For major schemes like these that are likely to take over a decade to complete and where values are likely to be affected by major variables such as the Bakerloo line extension better more comprehensive scenario testing should have been undertaken. 
+In the case of Malt St, Berkeley's hasn't done any scenario testing. The Council's independent review has done some scenario testing, but only with a 5% increase in sales values. More comprehensive scenario testing should have been undertaken.  For major schemes like these that are likely to take over a decade to complete and where values are likely to be affected by major variables such as the Bakerloo line extension better 
 
 In the absence of this the very least the Council should do is secure a late stage review mechanism, which ensures that any excess rise in values is clawed back in the form of extra affordable housing.
 
