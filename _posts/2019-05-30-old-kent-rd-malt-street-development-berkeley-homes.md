@@ -3,7 +3,7 @@ layout: post
 published: false
 title: Old Kent Rd Malt Street development (Berkeley Homes)
 ---
-Southwark's planning committee is to consider yet another major Old Kent Rd development on Monday, the fourth so far, after [Ruby Triangle], Cantium Retail park and [Southernwood Retail Park]. Southernwood was unanimously approved by Southwark's planning committee just last week, despite objections, including doubts about whether it that it will deliver the maximum reaonable amount of affordable housing. Serious concerns raised about the impact of the scheme on the proposed Bakerloo Line Extension (BLE), were allayed by a last minute letter to the Council from Transport for London (TfL).
+Southwark's planning committee is to consider yet another major Old Kent Rd development on Monday, the fourth so far, after [Ruby Triangle], Cantium Retail park and [Southernwood Retail Park](http://35percent.org/2019-05-27-southernwood-retail-park/). Southernwood was unanimously approved by Southwark's planning committee just last week, despite objections, including doubts about whether it that it will deliver the maximum reaonable amount of affordable housing. Serious concerns raised about the impact of the scheme on the proposed Bakerloo Line Extension (BLE), were allayed by a last minute letter to the Council from Transport for London (TfL).
 
 ![](http://35percent.org/img/okrmap.jpg)
 
