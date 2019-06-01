@@ -7,7 +7,7 @@ Southwark's planning committee is to consider yet another major Old Kent Rd deve
 
 ![](http://35percent.org/img/okrmap.jpg)
 
-For Malt St,Berkeley Homes proposes a mixed use development, including 1,300 homes and 7,000 sqm of commercial space, on a 1.9 hectares of land behind B&Q. It is a 'hybrid'' application of two parts, a detailed application for 420 homes, and an outline application for 880 more.  The total development comprises 11 blocks, including thirty-nine and 444 storey towers.
+For Malt St,Berkeley Homes proposes a mixed use development, including 1,300 homes and 7,000 sqm of commercial space, on 1.9 hectares of land behind Asda. It is a 'hybrid'' application of two parts, a detailed application for 420 homes, and an outline application for 880 more.  The total development comprises 11 blocks, including thirty-nine and 444 storey towers.
 
 
 ![](http://35percent.org/img/maltstreet.jpg)
