@@ -61,7 +61,7 @@ In the case of Malt St, Berkeley's hasn't done any scenario testing. The Council
 
 In the absence of this the very least the Council should do is secure a late stage review, which should ensure that any great rise in values does not solely benefit the developer's profit, but is shared with local community, in the form of more affordable housing.
 
-## Objection to no late stage review
+## 35% Campaign objection to no late stage review
 
 Para 32 of the [Mayor's planning report](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!haTo0z2rc9BKNsdNgCZODw%3d%3d!%7d%7d%7d) says:
 
@@ -83,4 +83,3 @@ For these reasons and in the light of the Stage 1 report, we believe that the pl
 
 As the application is a large phased development a mid-term review should also be required, according to Policy H6, Para E 2(c).
 
-Yours sincerely
