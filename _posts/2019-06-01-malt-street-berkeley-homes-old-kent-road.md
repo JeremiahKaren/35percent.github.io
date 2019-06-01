@@ -38,7 +38,7 @@ Southwark's consultant's agree with this analysis, albeit they calculate that th
 
 Applications can avoid a late stage review, if they take the Mayor's Fast Track Route, by providing, 50% affordable housing, but the [Mayor's planning report](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!haTo0z2rc9BKNsdNgCZODw%3d%3d!%7d%7d%7d) makes it clear this is not happening in this case:
 
-"The application does not therefore follow the Fast Track Route with 35% affordable housing (as the threshold level would be 50% in this instance), and it must therefore be considered under the viability tested route."
+_"The application does not therefore follow the Fast Track Route with 35% affordable housing (as the threshold level would be 50% in this instance), and it must therefore be considered under the viability tested route."_
 
 A 35% Campaign objection on this point is below at the end of this blogpost.
 
@@ -67,7 +67,7 @@ In the case of Malt St, Berkeley's hasn't done any scenario testing. The Council
 In the absence of this the very least the Council should do is secure a late stage review, which should ensure that any great rise in values does not solely benefit the developer's profit, but is shared with local community, in the form of more affordable housing.
 
 ## 35% Campaign objection to no late stage review
-
+__
 I am writing on behalf of the 35% Campaign to object to the recommended approval of planning application ref: 17/AP/2773.
 
 The planning committee report for this application refers to the 40% affordable housing offer as exceeding the policy compliant level, stated as 35% (para 167). However, para 22 of the report also notes that the site is 'designated Strategic Industrial Land (SIL), in the London Plan'; as such, the draft New London Plan requires a higher, 50% level of affordable housing under Policy H6, Para B(3).
