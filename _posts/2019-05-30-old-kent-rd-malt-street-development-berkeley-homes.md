@@ -18,7 +18,7 @@ Berkeley Homes are offering 40% affordable housing in total across the whole sch
 
 ## Taking the 'social' out of social rent?
 
-As stated in the [planning committee report], Berkeley propose 35% affordable housing, of which 25% would be social rent, 10% intermediate, with an additional 5% intermediate, supplied with the help of grant funding.  However, the term 'social rent' does not appear anywhere throughout Berkeley's planning application, with the documents eg the [viability assessment](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!R3Si0Rp49ADxAyylzQ24ww%3d%3d!%7d%7d%7d), using the term 'affordable rented' or just 'rent' instead.
+As stated in the [planning committee report](http://moderngov.southwark.gov.uk/documents/s82712/Report%20and%20Appendix%201%20and%202%20Malt%20Street%20Regeneration%20site%20Land%20bounded%20by%20Bianca%20Road%20Latona%20Road.pdf), Berkeley propose 35% affordable housing, of which 25% would be social rent, 10% intermediate, with an additional 5% intermediate, supplied with the help of grant funding.  However, the term 'social rent' does not appear anywhere throughout Berkeley's planning application, with the documents eg the [viability assessment](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!R3Si0Rp49ADxAyylzQ24ww%3d%3d!%7d%7d%7d), using the term 'affordable rented' or just 'rent' instead.
 
 ![](http://35percent.org/img/maltstar.jpg)
 
