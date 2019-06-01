@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 title: Malt Street - the next Old Kent development
 ---
 ## Big questions for big Berkeley Homes development
