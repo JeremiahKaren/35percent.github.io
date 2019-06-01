@@ -54,7 +54,7 @@ This is double the revenue estimate of £600 per sq ft Savills gave back in 2012
 
 ![](http://35percent.org/img/heygate600psf.png)
 
-The explantion for this big difference lies with the rule that viability assessmentsare based on current day values.  This is a major problem in the viability testing method and is supposed to be mitigated by 'scenario testing' where various increase in sales values are tested.often inadequate. In the Heygate case there was a scenario run with a 5% increase in sales values. In the event there was a 100% increase in sales values.
+The explantion for this big difference lies with the rule that viability assessments are based on current day values.  This is a major problem in the viability testing method and is supposed to be mitigated by 'scenario testing' where various increase in sales values are tested.often inadequate. In the Heygate case there was a scenario run with a 5% increase in sales values. In the event there was a 100% increase in sales values.
 
 Berkeley's viability assessment hasn't done any scenario testing. The Council's independent review do some scenario testing but on ly with a 15% increase in sales values.
 
