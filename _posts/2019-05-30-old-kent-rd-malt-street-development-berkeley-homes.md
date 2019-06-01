@@ -15,11 +15,10 @@ Berkeley Homes proposes a mixed use development, including 1,300 homes and 7,000
 
 ## Taking the 'social' out of social rent?
 
-As stated in the [planning committee report], Berkeley propose 35% affordable housing, of which 25% would be social rent, 10% intermediate, with an additional 5% intermediate, supplied with the help of grant funding.  However, throughout Berkeley's planning application the term 'social rent' does not appear, with the supporting documents referring instead to 'rent' or 'affordable rent'.
+As stated in the [planning committee report], Berkeley propose 35% affordable housing, of which 25% would be social rent, 10% intermediate, with an additional 5% intermediate, supplied with the help of grant funding.  However, throughout Berkeley's planning application the term 'social rent' does not appear, with the supporting documents, such as the [viability assessment](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!R3Si0Rp49ADxAyylzQ24ww%3d%3d!%7d%7d%7d) uses the term 'affordable rented':referring instead to 'rent' or 'affordable rent'.
 
 Even the Mayor's Stage 1 [planning report](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!haTo0z2rc9BKNsdNgCZODw%3d%3d!%7d%7d%7d) avoids using the term 'social rent' and instead describes the proposed tenure as 'low-cost rent'. (para 33)  This is yet another affordable housing label, newly introduced by the Mayors draft New London Plan, where it is defined to include London Affordable Rent, as well as social rent.  The London Tenants Federation has given evidence to the Mayor that there is a 45% difference between LAR and council rent, while GLA has conceded in the Plan's public examination that there is a 14% difference in new build LAR/social rent. 
 
-Berkeley's [viability assessment](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!R3Si0Rp49ADxAyylzQ24ww%3d%3d!%7d%7d%7d) uses the term 'affordable rented':
 
 ![](http://35percent.org/img/maltstar.jpg)
 
