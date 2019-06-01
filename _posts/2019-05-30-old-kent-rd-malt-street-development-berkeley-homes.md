@@ -37,6 +37,10 @@ Berkeley Homes [viability assessment](http://planbuild.southwark.gov.uk/document
 
 Southwark's consultant's agree with this analysis, albeit they calculate that the scheme is slightly less unviable than Berkeley claim.  In any event, Berkeley offer 40% affordable housing on the understanding that the viability will be improved by better transport links (ie the Bakerloo Line Extension) and the ongoing regeneraation of the area.  There is an important proviso, however - that there will be no late stage review.  This pre-empts any possibility that the amount of affordable housing will be raised to 50%, as required by the draft London Plan, which will be fully in force by the time Malt St is completed.
 
+The Mayor also thinks a late stage review is in order.  Para 32 of the [Mayor's planning report](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!haTo0z2rc9BKNsdNgCZODw%3d%3d!%7d%7d%7d) says:
+
+"The application does not therefore follow the Fast Track Route with 35% affordable housing (as the threshold level would be 50% in this instance), and it must therefore be considered under the viability tested route.""The application does not therefore follow the Fast Track Route with 35% affordable housing (as the threshold level would be 50% in this instance), and it must therefore be considered under the viability tested route.
+
 A 35% Campaign objection on this point is below at the end of this blogpost.
 
 ![](http://35percent.org/img/maltstreview.png)
@@ -65,9 +69,7 @@ In the absence of this the very least the Council should do is secure a late sta
 
 ## 35% Campaign objection to no late stage review
 
-Para 32 of the [Mayor's planning report](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!haTo0z2rc9BKNsdNgCZODw%3d%3d!%7d%7d%7d) says:
-
-"The application does not therefore follow the Fast Track Route with 35% affordable housing (as the threshold level would be 50% in this instance), and it must therefore be considered under the viability tested route.""The application does not therefore follow the Fast Track Route with 35% affordable housing (as the threshold level would be 50% in this instance), and it must therefore be considered under the viability tested route."Dear Sir/Madam,
+"Dear Sir/Madam,
 
 I am writing on behalf of the 35% Campaign to object to the recommended approval of planning application ref: 17/AP/2773.
 
