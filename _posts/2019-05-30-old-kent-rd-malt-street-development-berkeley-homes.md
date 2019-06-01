@@ -35,7 +35,7 @@ Berkeley Homes [viability assessment](http://planbuild.southwark.gov.uk/document
 
 Southwark's consultant's agree with this analysis, albeit they calculate that the scheme is slightly less unviable than Berkeley claim.  In any event, Berkeley offer 40% affordable housing on the understanding that the viability will be improved by better transport links (ie the Bakerloo Line Extension) and the ongoing regeneraation of the area.  There is an important proviso, however - that there will be no late stage review.  This pre-empts any possibility that the amount of affordable housing will be raised to 50%, as required by the draft London Plan, which will be fully in force by the time Malt St is completed.
 
-The full 35% Campaign objection on this point is below.
+A 35% Campaign objection on this point is below at the end of this blogpost.
 
 ![](http://35percent.org/img/maltstreview.png)
 
