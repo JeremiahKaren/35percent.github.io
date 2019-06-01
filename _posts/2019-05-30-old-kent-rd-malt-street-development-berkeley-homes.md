@@ -40,8 +40,7 @@ The full 35% Campaign objection on this point is below.
 
 ## Viability assessment flaw
 
-An important part of viability assessments is estimating a scheme's likely revenue.  This is done by using 'comparables' ie the revenues other similiar schemes have realised. Savills were commissioned for this task as they were for Elephant Park, (where they did the whole viability assessment for develpe Lendlease).
-assumes an estimated sales value of its completed homes of £776 per square foot on average.
+An important part of viability assessments is estimating a scheme's likely revenue.  This is done by using 'comparables' ie the revenues other similiar schemes have realised. Savills were commissioned for this task and estimated an averade sales value of completed homes of £776 per square foot.
 
 
 ![](http://35percent.org/img/maltst776.png)
@@ -55,15 +54,17 @@ This is double the revenue estimate of £600 per sq ft Savills gave back in 2012
 
 ![](http://35percent.org/img/heygate600psf.png)
 
-ill As with all viability assessments they are based on current day values. Berkeley commissioned Savills to provide a current day estimate of what sales values would be if the development were completed today.
-
-This is a major flaw in viability testing methodology - i.e. the fact that the assessment is based on current values. It is supposed to be compensated for by what is called 'scenario testing' whereby different scenarios are run but these are often inadequate. In the Heygate case there was a scenario run with a 5% increase in sales values. In the event there was a 100% increase in sales values.
+The explantion for this big difference lies with the rule that viability assessmentsare based on current day values.  This is a major problem in the viability testing method and is supposed to be mitigated by 'scenario testing' where various increase in sales values are tested.often inadequate. In the Heygate case there was a scenario run with a 5% increase in sales values. In the event there was a 100% increase in sales values.
 
 Berkeley's viability assessment hasn't done any scenario testing. The Council's independent review do some scenario testing but on ly with a 15% increase in sales values.
 
 For major schemes like these that are likely to take over a decade to complete and where values are likely to be affected by major variables such as the Bakerloo line extension better more comprehensive scenario testing should have been undertaken. 
 
 In the absence of this the very least the Council should do is secure a late stage review mechanism, which ensures that any excess rise in values is clawed back in the form of extra affordable housing.
+
+as they were for Elephant Park, (where they did the whole viability assessment for develpe Lendlease).
+
+
 
 ## Objection to no late stage review
 
