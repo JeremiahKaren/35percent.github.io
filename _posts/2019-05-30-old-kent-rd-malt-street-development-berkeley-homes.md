@@ -47,21 +47,15 @@ assumes an estimated sales value of its completed homes of £776 per square foot
 ![](http://35percent.org/img/maltst776.png)
 
 
-In arriving at this figure Savills uses Elphant Park(formerly the Heygate estate) where the sales are currently acheiving £1,247 per sqft.  This is double the revenue estimate of £600 per sq ft Savills gave back in 2012, when it was commissioned for exactly the same task by Elephant Park developer Lendlease.
+In arriving at this figure Savills uses Elphant Park(formerly the Heygate estate) where the sales are currently acheiving £1,247 per sqft.
 
+![](http://35percent.org/img/eparksales.png)
 
-
-
-
-ill As with all viability assessments they are based on current day values. Berkeley commissioned Savills to provide a current day estimate of what sales values would be if the development were completed today.
-
- 
-
-
-
-
+This is double the revenue estimate of £600 per sq ft Savills gave back in 2012, when it was commissioned for exactly the same task by Elephant Park developer Lendlease.
 
 ![](http://35percent.org/img/heygate600psf.png)
+
+ill As with all viability assessments they are based on current day values. Berkeley commissioned Savills to provide a current day estimate of what sales values would be if the development were completed today.
 
 This is a major flaw in viability testing methodology - i.e. the fact that the assessment is based on current values. It is supposed to be compensated for by what is called 'scenario testing' whereby different scenarios are run but these are often inadequate. In the Heygate case there was a scenario run with a 5% increase in sales values. In the event there was a 100% increase in sales values.
 
