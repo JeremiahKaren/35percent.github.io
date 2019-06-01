@@ -82,3 +82,9 @@ _A late stage review should therefore be required if 50% affordable housing is n
 _For these reasons and in the light of the Stage 1 report, we believe that the planning committee report is wrong when it states that the affordable housing offer 'exceeds the 35% GLA threshold level' and 're-provides the existing commercial floorspace' and that therefore there need be no late stage review (para 171). (NB Nothing in Policy H6 says that the 50% threshold for SIL locations can be avoided if existing commercial floorspace is re-provided)._
 
 _As the application is a large phased development a mid-term review should also be required, according to Policy H6, Para E 2(c)._
+
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:site" content="@35percent_EAN" />
+<meta name="twitter:title" content="Malt Street - the next big Old Kent Road scheme" />
+<meta name="twitter:description" content="Big scheme and big questions for Berkeley Homes remain unanswered." />
+<meta name="twitter:image" content="http://35percent.org/img/maltstreet.png" />
