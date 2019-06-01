@@ -28,7 +28,7 @@ The [S106 draft heads of terms document](http://planbuild.southwark.gov.uk/docum
 
 We have [seen before](http://35percent.org/redefining-social-rent) promises of social rent do no not necessarily guarantee that social rent will be delivered and we are still waiting for the [promised audit](https://www.southwarknews.co.uk/news/council-will-clamp-housing-providers-flunk-affordable-housing-promises/) of affordable and social rented housing after a [damning ombudsman investigation](http://35percent.org/2016-12-12-ombudsman-slams-southwark-for-no-s106-monitoring/), which found that Southwark had not monitored or enforced the tenure requirements of all its s106 affordable housing agreements.
 
-## Viability assessment flaw
+## No late stage reveiw
 
 Just like Ruby Triangle, Cantium Retail Park and Southernwood Retail Park, the developers claims that the Malt scheme is technically unviable, with 35% affordable housing.  Berkeley [viability assessment](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!R3Si0Rp49ADxAyylzQ24ww%3d%3d!%7d%7d%7d) says that Malt St will produce a 'substandard return. 
 
@@ -38,19 +38,28 @@ The full 35% Campaign objection on this point is below.
 
 ![](http://35percent.org/img/maltstreview.png)
 
+## Viability assessment flaw
 
+An important part of viability assessments is estimating a scheme's likely revenue.  This is done by using 'comparables' ie the revenues other similiar schemes have realised. Savills were commissioned for this task as they were for Elephant Park, (where they did the whole viability assessment for develpe Lendlease).
+assumes an estimated sales value of its completed homes of £776 per square foot on average.
 
-As with all viability assessments they are based on current day values. Berkeley commissioned Savills to provide a current day estimate of what sales values would be if the development were completed today.
-
-assumes an estimated sales value of its completed homes of £776 per square foot on average. 
 
 ![](http://35percent.org/img/maltst776.png)
 
-In arriving at this figure Savills uses comparable sales from developments in the surrounding area. One of these is Elephant Park (aka. Heygate estate) where it says that sales are currently achieving £1,247/sqft
 
-![](http://35percent.org/img/eparksales.png)
+In arriving at this figure Savills uses Elphant Park(formerly the Heygate estate) where the sales are currently acheiving £1,247 per sqft.  This is double the revenue estimate of £600 per sq ft Savills gave back in 2012, when it was commissioned for exactly the same task by Elephant Park developer Lendlease.
 
-We remember the [Savill's report] submitted as part of [Lendlease's viability assessment](http://35percent.org/collated-viability-assessments/#heygate-viability-assessment) saying that they would sell for half this amount..
+
+
+
+
+ill As with all viability assessments they are based on current day values. Berkeley commissioned Savills to provide a current day estimate of what sales values would be if the development were completed today.
+
+ 
+
+
+
+
 
 ![](http://35percent.org/img/heygate600psf.png)
 
