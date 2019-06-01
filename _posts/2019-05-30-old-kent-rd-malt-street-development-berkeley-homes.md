@@ -44,4 +44,24 @@ In arriving at this figure Savills has used the latest completed phase of Elepha
 ## Late stage review
 Para 32 of the [Mayor's planning report](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!haTo0z2rc9BKNsdNgCZODw%3d%3d!%7d%7d%7d) says:
 
-"The application does not therefore follow the Fast Track Route with 35% affordable housing (as the threshold level would be 50% in this instance), and it must therefore be considered under the viability tested route."
+"The application does not therefore follow the Fast Track Route with 35% affordable housing (as the threshold level would be 50% in this instance), and it must therefore be considered under the viability tested route.""The application does not therefore follow the Fast Track Route with 35% affordable housing (as the threshold level would be 50% in this instance), and it must therefore be considered under the viability tested route."Dear Sir/Madam,
+
+I am writing on behalf of the 35% Campaign to object to the recommended approval of planning application ref: 17/AP/2773.
+
+The planning committee report for this application refers to the 40% affordable housing offer as exceeding the policy compliant level, stated as 35% (para 167). However, para 22 of the report also notes that the site is 'designated Strategic Industrial Land (SIL), in the London Plan'; as such, the draft New London Plan requires a higher, 50% level of affordable housing under Policy H6, Para B(3).
+
+The planning committee report gives weight to the draft New London Plan and other emerging policy to justify the release of industrial land for residential and other development (para 145), in the first instance; therefore equal weight should be given to the 50% affordable housing requirement for housing built on such land and 50% affordable housing required. 
+
+Without 50% affordable housing the application fails to qualify for the draft London Plan's Fast Track route under the threshold approach to viability testing. Policy H6 is clear that applications that do not meet the 50% SIL threshold are subject to the viability tested route, which involves a Late Stage Viability review (Para E 2(b)). This is confirmed in the GLA Stage 1 report for the scheme (para 32), which states;
+
+'However, as set out above the application site is in predominantly industrial use and the proposals would not re-provide the industrial capacity of the site on a 65% plot ratio. The application does not therefore follow the Fast Track Route with 35% affordable housing (as the threshold level would be 50% in this instance), and it must therefore be considered under the viability tested route'.
+
+A late stage review should therefore be required if 50% affordable housing is not to be delivered.
+
+For these reasons and in the light of the Stage 1 report, we believe that the planning committee report is wrong when it states that the affordable housing offer 'exceeds the 35% GLA threshold level' and 're-provides the existing commercial floorspace' and that therefore there need be no late stage review (para 171). (NB Nothing in Policy H6 says that the 50% threshold for SIL locations can be avoided if existing commercial floorspace is re-provided).
+
+As the application is a large phased development a mid-term review should also be required, according to Policy H6, Para E 2(c).
+
+Yours sincerely
+
+
