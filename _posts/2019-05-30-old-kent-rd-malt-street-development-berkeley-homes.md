@@ -62,6 +62,8 @@ For major schemes like these that are likely to take over a decade to complete a
 
 In the absence of this the very least the Council should do is secure a late stage review mechanism, which ensures that any excess rise in values is clawed back in the form of extra affordable housing.
 
+Whatever else, this shows that, all other things being equal, Elephant Park was capable of delivering 35% affordable housing, not 25%, and had there been a late stage review of the scheme, there could of been at least the possibility of getting this. 
+
 as they were for Elephant Park, (where they did the whole viability assessment for develpe Lendlease).
 
 
