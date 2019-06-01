@@ -14,14 +14,13 @@ Malt Street is the fourth (of five?) major schemes that will make up the ...
 
 ![](http://35percent.org/img/okrmap.jpg)
 
-## Taking the 'social' out of social rent
-Nowhere in any of the circa 230 supporting documents in Berkeley's planning application does the term 'social rent' appear.
+## Taking the 'social' out of social rent?
 
-All documents referring to tenure use the term 'rent' or 'affordable rent'.
+As stated in the [planning committee report], Berkeley propose 35% affordable housing, of which 25% would be social rent, 10% intermediate, with an additional 5% intermediate, supplied with the help of grant funding.  However, throughout Berkeley's planning application the term 'social rent' does not appear, with the supporting documents referring instead to 'rent' or 'affordable rent'.
 
 http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!0pJwqHwaH0Wzr%2bPIM9Kq8g%3d%3d!%7d%7d%7d
 
-Even the Mayor's [planning report](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!haTo0z2rc9BKNsdNgCZODw%3d%3d!%7d%7d%7d) avoids using the term 'social rent' and instead describes the proposed tenure as 'low-cost rent'. (para 33)
+Even the Mayor's Stage 1 [planning report](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!haTo0z2rc9BKNsdNgCZODw%3d%3d!%7d%7d%7d) avoids using the term 'social rent' and instead describes the proposed tenure as 'low-cost rent'. (para 33)  This is yet another affordable housing label, newly introduced by the Mayors draft New London Plan, where it is defined to include London Affordable Rent, as well as social rent.  The London Tenants Federation has given evidence to the Mayor that there is a 45% difference between LAR and council rent, GLA has conceded that there is a 14% difference in new build LAR/social rent. 
 
 Berkeley's [viability assessment](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!R3Si0Rp49ADxAyylzQ24ww%3d%3d!%7d%7d%7d) uses the term 'affordable rented':
 
