@@ -48,7 +48,7 @@ A 35% Campaign objection on this point is appended to the end of this blogpost.
 
 
 ## Viability assessment flaw
-
+ 
 An important part of viability assessments is estimating a scheme's likely revenue.  This is done by using 'comparables' ie the revenues other similiar schemes have realised. Berkeley Homes commissioned Savills for this task and they estimated an average sales value of completed homes of £776 per square foot.
 
 
@@ -65,7 +65,7 @@ This is double the revenue estimate of £600 per sq ft Savills gave back in 2012
 
 The explanation for this big difference lies with the rule that viability assessments are based on current day values.  This is a major problem in the viability testing method and is supposed to be mitigated by sensitivity analysis or scenario testing, where various increases in sales values are tested, but these tests are often inadequate. In the Heygate case the District Valuer Service, acting for Southwark, ran just one scenario, with a 5% increase in sales values, when the actual increase has proved to be just over 100%.
 
-In the case of Malt St, Berkeley's hasn't done any scenario testing. The Council's independent review has done some, but only with a 5% increase in sales values. More comprehensive scenario testing should have been undertaken, for a major schemes such as this, likely to take a decade to complete and where values will be affected by such a major variable as the Bakerloo line extension.
+In the case of Malt St, Berkeley's hasn't done any scenario testing. The Council's independent review has done some, but only with a 5% increase in sales values. More comprehensive scenario testing should have been undertaken, for a major scheme such as this, likely to take a decade to complete and where values will be affected by such a major variable as the Bakerloo line extension.
 
 In the absence of this the very least the Council should do is secure a late stage review, which should ensure that any great rise in values does not solely benefit the developer's profit, but is shared with local community, in the form of more affordable housing.
 
@@ -84,7 +84,7 @@ _A late stage review should therefore be required if 50% affordable housing is n
 
 _For these reasons and in the light of the Stage 1 report, we believe that the planning committee report is wrong when it states that the affordable housing offer 'exceeds the 35% GLA threshold level' and 're-provides the existing commercial floorspace' and that therefore there need be no late stage review (para 171). (NB Nothing in Policy H6 says that the 50% threshold for SIL locations can be avoided if existing commercial floorspace is re-provided)._
 
-_As the application is a large phased development a mid-term review should also be required, according to Policy H6, Para E 2(c)._
+_As the application is a large phased development a mid-term review should also be required, according to Policy H6, Para E 2(c)."_
 
 <meta name="twitter:card" content="summary_large_image" />
 <meta name="twitter:site" content="@35percent_EAN" />
