@@ -1,8 +1,8 @@
 ---
 layout: post
 published: true
-title: "Malt Street - the next Old Kent development"
-subtitle: "Big questions for Berkeley Homes"
+title: Malt Street - the next Old Kent development
+subtitle: Big questions for Berkeley Homes
 ---
 Southwark's planning committee is to consider yet another major Old Kent Rd development on Monday, the fourth so far, after [Ruby Triangle](http://35percent.org/2018-10-08-ruby-triangle-goes-to-committee/), Cantium Retail park and [Southernwood Retail Park](http://35percent.org/2019-05-27-southernwood-retail-park/). Southernwood was unanimously approved by Southwark's planning committee just last week, despite objections, including doubts about whether it that it will deliver the maximum reaonable amount of affordable housing. Serious concerns raised about the impact of the scheme on the proposed Bakerloo Line Extension (BLE), were allayed by a last minute letter to the Council from Transport for London (TfL).
 
@@ -68,8 +68,6 @@ In the absence of this the very least the Council should do is secure a late sta
 
 ## 35% Campaign objection to no late stage review
 
-"Dear Sir/Madam,
-
 I am writing on behalf of the 35% Campaign to object to the recommended approval of planning application ref: 17/AP/2773.
 
 The planning committee report for this application refers to the 40% affordable housing offer as exceeding the policy compliant level, stated as 35% (para 167). However, para 22 of the report also notes that the site is 'designated Strategic Industrial Land (SIL), in the London Plan'; as such, the draft New London Plan requires a higher, 50% level of affordable housing under Policy H6, Para B(3).
@@ -85,4 +83,3 @@ A late stage review should therefore be required if 50% affordable housing is no
 For these reasons and in the light of the Stage 1 report, we believe that the planning committee report is wrong when it states that the affordable housing offer 'exceeds the 35% GLA threshold level' and 're-provides the existing commercial floorspace' and that therefore there need be no late stage review (para 171). (NB Nothing in Policy H6 says that the 50% threshold for SIL locations can be avoided if existing commercial floorspace is re-provided).
 
 As the application is a large phased development a mid-term review should also be required, according to Policy H6, Para E 2(c).
-
