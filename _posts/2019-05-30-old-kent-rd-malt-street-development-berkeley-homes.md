@@ -29,7 +29,7 @@ The Malt St [S106 draft heads of terms document](http://planbuild.southwark.gov.
 
 We have [seen before](http://35percent.org/redefining-social-rent) promises of social rent do no not necessarily guarantee that social rent will be delivered and we are still waiting for the [promised audit](https://www.southwarknews.co.uk/news/council-will-clamp-housing-providers-flunk-affordable-housing-promises/) of affordable and social rented housing, after a [damning ombudsman investigation](http://35percent.org/2016-12-12-ombudsman-slams-southwark-for-no-s106-monitoring/), which found that Southwark had not monitored or enforced the tenure requirements of all its s106 affordable housing agreements.
 
-## No late stage reveiw
+## No late stage review
 
 Berkeley Homes [viability assessment](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!R3Si0Rp49ADxAyylzQ24ww%3d%3d!%7d%7d%7d) of the Malt St scheme says it will produce a 'substandard return' and it is technically unviable with 35% affordable housing (just as the developers of Ruby Triangle, Cantium Retail Park and Southernwood Retail did).
 
