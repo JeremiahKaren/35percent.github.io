@@ -59,7 +59,7 @@ The explanation for this big difference lies with the rule that viability assess
 
 In the case of Malt St, Berkeley's hasn't done any scenario testing. The Council's independent review has done some, but only with a 5% increase in sales values. More comprehensive scenario testing should have been undertaken, for a major schemes such as this, likely to take a decade to complete and where values will be affected by such a major variable as the Bakerloo line extension.
 
-In the absence of this the very least the Council should do is secure a late stage review, which should ensure that any great rise in values is does not solely benefit the developer's profit, but is shared with local community,  in the form of more affordable housing.
+In the absence of this the very least the Council should do is secure a late stage review, which should ensure that any great rise in values does not solely benefit the developer's profit, but is shared with local community, in the form of more affordable housing.
 
 ## Objection to no late stage review
 
