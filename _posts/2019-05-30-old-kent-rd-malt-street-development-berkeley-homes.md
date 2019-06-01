@@ -34,7 +34,7 @@ Just like Ruby Triangle, Cantium Retail Park and Southernwood Retail Park, the d
 
 ![](http://35percent.org/img/maltstreview.png)
 
-Southwark's consultant's agree with this analysis, albeit they think if slihhtly less unviable than Berkeleys.  In any event Berkeley offer 40% affordable housing on the understanding that viability will be improved by better transport links (ie the Bakerloo Line Exetension) and the ongoing regeneraation of the area.  There is an important proviso, however - that there will be no alte stage review.  This pre-empts any possibility that the amount of affordable housing will be raised to 50%, as reqiured by the draft London Plan, whci will be fully in force by the time Malt St is completed.
+Southwark's consultant's agree with this analysis, albeit they think the scheme slightly less unviable than Berkeley does.  In any event, Berkeley offer 40% affordable housing on the understanding that viability will be improved by better transport links (ie the Bakerloo Line Exetension) and the ongoing regeneraation of the area.  There is an important proviso, however - that there will be no alte stage review.  This pre-empts any possibility that the amount of affordable housing will be raised to 50%, as reqiured by the draft London Plan, whci will be fully in force by the time Malt St is completed.
 
 As with all viability assessments they are based on current day values. Berkeley commissioned Savills to provide a current day estimate of what sales values would be if the development were completed today.
 
