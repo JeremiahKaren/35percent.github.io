@@ -30,11 +30,13 @@ We have [seen before](http://35percent.org/redefining-social-rent) promises of s
 
 ## Viability assessment flaw
 
-Just like Ruby Triangle, Cantium Retail Park and Southernwood Retail Park, the developers claims that the Malt scheme is technically unviable, with 35% affordable housing.  Berkeley [viability assessment](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!R3Si0Rp49ADxAyylzQ24ww%3d%3d!%7d%7d%7d) says that: 
+Just like Ruby Triangle, Cantium Retail Park and Southernwood Retail Park, the developers claims that the Malt scheme is technically unviable, with 35% affordable housing.  Berkeley [viability assessment](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!R3Si0Rp49ADxAyylzQ24ww%3d%3d!%7d%7d%7d) says that Malt St will produce a 'substandard return. 
+
+Southwark's consultant's agree with this analysis, albeit they think the scheme slightly less unviable than Berkeley does.  In any event, Berkeley offer 40% affordable housing on the understanding that viability will be improved by better transport links (ie the Bakerloo Line Exetension) and the ongoing regeneraation of the area.  There is an important proviso, however - that there will be no alte stage review.  This pre-empts any possibility that the amount of affordable housing will be raised to 50%, as reqiured by the draft London Plan, whci will be fully in force by the time Malt St is completed.
 
 ![](http://35percent.org/img/maltstreview.png)
 
-Southwark's consultant's agree with this analysis, albeit they think the scheme slightly less unviable than Berkeley does.  In any event, Berkeley offer 40% affordable housing on the understanding that viability will be improved by better transport links (ie the Bakerloo Line Exetension) and the ongoing regeneraation of the area.  There is an important proviso, however - that there will be no alte stage review.  This pre-empts any possibility that the amount of affordable housing will be raised to 50%, as reqiured by the draft London Plan, whci will be fully in force by the time Malt St is completed.
+
 
 As with all viability assessments they are based on current day values. Berkeley commissioned Savills to provide a current day estimate of what sales values would be if the development were completed today.
 
