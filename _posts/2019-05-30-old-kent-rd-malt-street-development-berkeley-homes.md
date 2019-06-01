@@ -55,7 +55,7 @@ This is double the revenue estimate of £600 per sq ft Savills gave back in 2012
 
 ![](http://35percent.org/img/heygate600psf.png)
 
-The explantion for this big difference lies with the rule that viability assessments are based on current day values.  This is a major problem in the viability testing method and is supposed to be mitigated by sensitivity analysis or scenario testing, where various increases in sales values are tested, but these tests are often inadequate. In the Heygate case the District Valuer Service, acting for Southwark, ran just one scenario, with a 5% increase in sales values, when the actual increase has proved to be 100%.
+The explanation for this big difference lies with the rule that viability assessments are based on current day values.  This is a major problem in the viability testing method and is supposed to be mitigated by sensitivity analysis or scenario testing, where various increases in sales values are tested, but these tests are often inadequate. In the Heygate case the District Valuer Service, acting for Southwark, ran just one scenario, with a 5% increase in sales values, when the actual increase has proved to be 100%.
 
 In the case of Malt St, Berkeley's hasn't done any scenario testing. The Council's independent review has done some, but only with a 5% increase in sales values. More comprehensive scenario testing should have been undertaken, for a major schemes, likely to take over a decade to complete and where values will be affected by such a major variables, as the Bakerloo line extension.
 
