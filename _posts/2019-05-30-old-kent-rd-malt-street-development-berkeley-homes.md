@@ -19,7 +19,7 @@ As stated in the [planning committee report], Berkeley propose 35% affordable ho
 
 ![](http://35percent.org/img/maltstar.jpg)
 
-Even the Mayor's Stage 1 [planning report](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!haTo0z2rc9BKNsdNgCZODw%3d%3d!%7d%7d%7d) avoids using the term 'social rent' and instead describes the proposed tenure as 'low-cost rent' (para 33) . This is yet another affordable housing label, newly introduced by the Mayor's draft New London Plan, where it is defined to include London Affordable Rent, as well as social rent.  The London Tenants Federation has given evidence to the Mayor that there is a 45% difference between LAR and council rent, while GLA has conceded in the Plan's public examination that there is a 14% difference in new build LAR/social rent. 
+Even the Mayor's Stage 1 [planning report](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!haTo0z2rc9BKNsdNgCZODw%3d%3d!%7d%7d%7d) avoids using the term 'social rent' and instead describes the proposed tenure as 'low-cost rent' (para 33) . This is yet another affordable housing label, newly introduced by the Mayor's draft New London Plan, where it is defined to include London Affordable Rent, as well as social rent.  The London Tenant's Federation has given evidence to the Mayor that there is a 45% difference between LAR and council rent, while GLA has conceded in the Plan's public examination that there is a 14% difference in new build LAR/social rent. 
 
 
 The [S106 draft heads of terms document](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!CQmOQKOASqZFZSaVyAtPJA%3d%3d!%7d%7d%7d) says that the exact tenure of the affordable housing will not be decided until after the application is approved:
