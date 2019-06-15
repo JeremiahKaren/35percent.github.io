@@ -16,7 +16,7 @@ This contradiction is reducing the consideration of viability into something of 
 
 This is different to what has been happening at the Elephant and Castle, where every major development used viability to [refuse to deliver](http://35percent.org/major-schemes/) policy compliant affordable housing, so must count as progress - but maybe not as much progress as it first appears.  
 
-Verney Rd is a Strategic Industrial Location. Southwark Council and the Mayor have [agreed to the release of such land](https://www.southwark.gov.uk/planning-and-building-control/planning-policy-and-transport-policy/development-plan/area-action-plans?chapter=2) for mixed use development, including housing, before consultaion on the the Old Kent Rd AAP has finished, let alone been adopted, much to the anger of the many Old Kent Rd businesses. 
+Verney Rd is a Strategic Industrial Location. Southwark Council and the Mayor have [agreed to the release of such land](https://www.southwark.gov.uk/planning-and-building-control/planning-policy-and-transport-policy/development-plan/area-action-plans?chapter=2) for mixed use development, including housing, before consultaion on the the Old Kent Rd AAP has finished, let alone been adopted, much to the anger of the [many Old Kent Rd businesses](https://www.vitalokr.com/). 
 
 Such developments, where the industrial land is lost, should provide 50% affordable housing, according the Mayor's [draft New London Plan](ttps://www.london.gov.uk/sites/default/files/draft_london_plan_-showing_minor_suggested_changes_july_2018.pdf).  This was the case for Ruby Triangle and Malt St, as well as Verney Rd.  The draft NLP is not yet adopted, so developers are getting in quick, before it takes full force.
 
