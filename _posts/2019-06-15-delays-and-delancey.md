@@ -1,9 +1,9 @@
 ---
 layout: post
-published: false
-title: Delays and Delancey
+published: true 
+title: "Delays and Delancey"
+subtitle: "Delancey looks to escape blame for its own faults"
 ---
-## Delancey looks to escape blame for its own faults
 
 In the face of a [judicial review](http://35percent.org/2019-03-05-elephant-shopping-centre-judicial-review/) of their planning approval for the shopping centre demolition and redevelopment (now scheduled for 17 and 18 August), centre owners and developer Delancey showed a touching concern for the welfare of the traders, making noises about how the ['timeline for starting on site will be pushed back'](https://www.london-se1.co.uk/news/view/9863), affecting the traders' hopes for  _'stability and certainty'_.
 
@@ -12,7 +12,7 @@ Delancey has not previously been in any hurry to settle the centre's future, oth
 Delancey are culpable in 3 areas - the affordable retail offer, the relocation of the traders and the affordable housing offer.
 
 ## No affordable retail
-
+ 
 The [application](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!jyNktp6uoRKVofXMUvOmvA%3d%3d!%7d%7d%7d) was lodged on the 28 October 2016 but did not include any affordable retail units, contrary to Southwark's 10% requirement.  Instead Delancey submitted a [Retail Assessment]() which said _'The Proposals do not include 10% affordable retail for the reasons outlined later. This would be unviable and inappropriate given the intention to create a strong retail/leisure anchor at the heart of the town centre'_ (4.63).  
 
 By Dec 2017 the affordable retail offer had inched up to the [equivalent of 5.3%](https://docdro.id/Ax564vh) (para 88), including an in-lieu payment. The application was scheduled for a planning  meeting on 18 Dec 2017, when Delancey, no doubt fearing a refusal, despite a [recommendation to approve](https://docdro.id/Ax564vh) (para 1) asked for [a deferral](https://docdro.id/yRVyr1u) _'to allow time for further negotiations in relation to the affordable retail proposal'_ (para 2) .  A fully [policy compliant offer](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!k0%2f9zNPAdMf5Ya4yWjd0Bw%3d%3d!%7d%7d%7d) was not made until Jan 2018, fully 15 months after the application was first made.
@@ -38,7 +38,7 @@ This entailed 4 versions of an expanding [officer's report](http://moderngov.sou
 The delays did not end with the planning committee approval.  Planning approval was also needed for the Castle Square temporary facility, as a condition of the shopping centre development approval.  While the proposal was made in [February 2018](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!0iVzasdHCgb1eVmQCrssOg%3d%3d!%7d%7d%7d), Delancey came forward with this application at the end of June and it went to committee on [7 Jan 2019](http://moderngov.southwark.gov.uk/ieListDocuments.aspx?CId=353&MId=6315&Ver=4).  The final decision notice for the shopping centre application was then published on [10 Jan 2019](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!E6IobTn81r9jhON1O8ivDA%3d%3d!%7d%7d%7d), nearly a full year on.
 
 ## Where the fault lies...
-
+ 
 
 It might be argued that through this whole tortuous saga that Delancey 'listening' and responding to the community's concerns.  An alternative explanation is that it is a well-rehearsed developer tactic- offer as little as you can get away with, and then make only those improvements you are forced to concede. Delaying the delivery of the hard-one 116 social rented units for at least 9 years employs the same delaying tactic (OR link). 
 
