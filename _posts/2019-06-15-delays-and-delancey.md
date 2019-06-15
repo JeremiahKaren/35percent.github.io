@@ -5,6 +5,8 @@ title: "Delays and Delancey"
 subtitle: "Delancey looks to escape blame for its own faults"
 ---
 
+![](http://35percent.org/img/delanceyaerial.png)
+
 In the face of a [judicial review](http://35percent.org/2019-03-05-elephant-shopping-centre-judicial-review/) of their planning approval for the shopping centre demolition and redevelopment (now scheduled for 17 and 18 August), centre owners and developer Delancey showed a touching concern for the welfare of the traders, making noises about how the _['timeline for starting on site will be pushed back'](https://www.london-se1.co.uk/news/view/9863)_, affecting the traders' hopes for _'stability and certainty'_.
 
 Delancey has not previously been in any hurry to settle the centre's future, other than entirely on its own terms.  This is amply demonstrated by the snail's pace progress of their planning application.  It is a story of constant deferment, caused by Delancey's refusal to meet the minimum requirements of the Council's own local plan.
@@ -35,7 +37,9 @@ This entailed 4 versions of an expanding [officer's report](http://moderngov.sou
 
 ## Castle Square
 
-The delays did not end with the planning committee approval.  Planning approval was also needed for the Castle Square temporary facility, as a condition of the shopping centre development approval.  While the proposal was made in [February 2018](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!0iVzasdHCgb1eVmQCrssOg%3d%3d!%7d%7d%7d), Delancey came forward with this application at the end of June and it went to committee on [7 Jan 2019](http://moderngov.southwark.gov.uk/ieListDocuments.aspx?CId=353&MId=6315&Ver=4).  The final decision notice for the shopping centre application was then published on [10 Jan 2019](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!E6IobTn81r9jhON1O8ivDA%3d%3d!%7d%7d%7d), nearly a full year on.
+The delays did not end with the planning committee approval.  Planning approval was also needed for the Castle Square temporary facility, as a condition of the shopping centre development approval.  While the proposal was made in [February 2018](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!0iVzasdHCgb1eVmQCrssOg%3d%3d!%7d%7d%7d), Delancey came forward with this application at the end of June and it went to committee on [7 Jan 2019](http://moderngov.southwark.gov.uk/ieListDocuments.aspx?CId=353&MId=6315&Ver=4).  The final decision notice for the shopping centre application was then published on [10 Jan 2019](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!E6IobTn81r9jhON1O8ivDA%3d%3d!%7d%7d%7d), nearly a full year on and there hasn't been any progress since then.
+
+
 
 ## Where the fault lies...
  
