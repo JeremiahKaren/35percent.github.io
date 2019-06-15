@@ -16,7 +16,11 @@ This contradiction is reducing the consideration of viability into something of 
 
 This is different to what has been happening at the Elephant and Castle, where every major development used viability to [refuse to deliver](http://35percent.org/major-schemes/) policy compliant affordable housing, so must count as progress - but maybe not as much progress as it first appears.  
 
-Verney Rd is a Strategic Industrial Location, which means it should deliver 50% affordable housing, if that industrial land is lost, according the Mayor's [draft New London Plan](ttps://www.london.gov.uk/sites/default/files/draft_london_plan_-showing_minor_suggested_changes_july_2018.pdf).  This was also the case for Ruby Triangle and Malt St.  The draft NLP is not yet adopted, so developers are getting in quick, before it takes full force.  Second, while CB Acquisition Ltd are offering 35% affordable housing, they want any improvement in viability to[ _'be used to bridge the current viability "gap" rather than for further planning obligations'_](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!TQY%2bsILnV9wsUjV9l44bPw%3d%3d!%7d%7d%7d) (ie affordable housing).  This pre-empts the use of a late review mechanism, designed to capture any uplift in profits for affordable housing when the development is complete.  (Malt St was passed without a late stage review mechanism, though both Ruby Triangle and [Cantium Retail Park](http://moderngov.southwark.gov.uk/mgAi.aspx?ID=52967) have them). 
+Verney Rd is a Strategic Industrial Location. Southwark Council and the Mayor have agreed to the phased release of such land for mixed use development, including housing, before consultaion on the the Old Kent Rd AAP has finished, let alone been adopted, much to the anger of the many Old Kent Rd businesses. 
+
+Such developments, where the industrial land is lost, should provide 50% affordable housing, according the Mayor's [draft New London Plan](ttps://www.london.gov.uk/sites/default/files/draft_london_plan_-showing_minor_suggested_changes_july_2018.pdf).  This was the case for Ruby Triangle and Malt St, as well as Verney Rd.  The draft NLP is not yet adopted, so developers are getting in quick, before it takes full force.
+
+Second, while CB Acquisition Ltd are offering 35% affordable housing, they want any improvement in viability to[ _'be used to bridge the current viability "gap" rather than for further planning obligations'_](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!TQY%2bsILnV9wsUjV9l44bPw%3d%3d!%7d%7d%7d) (ie affordable housing).  This pre-empts the use of a late review mechanism, designed to capture any uplift in profits for affordable housing when the development is complete.  (Malt St was passed without a late stage review mechanism, though both Ruby Triangle and [Cantium Retail Park](http://moderngov.southwark.gov.uk/mgAi.aspx?ID=52967) have them). 
 
 On top of this Verney Rd is a very dense development - 1180 habitable rooms per hectare - way above the London Plan range of 200-700 habitable roomes per hectare (hrh) for an [Urban Density Zone](https://www.london.gov.uk/what-we-do/planning/london-plan/current-london-plan/london-plan-chapter-3/policy-34-optimising). But even Verney Rd is not as dense as Ruby Triangle (2713 hrh) and Cantium and Southernwood Retail Parks (2353 hrh and 2522 hrh respectively), rendering the Lpndon Plan policy a dead letter, as far as the Old Kent Rd is concerned.  Together they will deliver over 4,600 homes, with a gross development value above £2bn, with the potential for a big impact on profitability from any marginal improvements in the viability figures.
 
@@ -24,11 +28,3 @@ All the Old Kent Rd developers have shown a marked reluctance to take advantage 
 
 So, the picture that emerges is that of a pact being struck - developers will deliver the affordable housing that the local plan requires, but not much more, regardless of the true profitability of the developments and of any ['strategic' target of 50% affordable housing](https://www.london.gov.uk/press-releases/mayoral/mayor-sets-out-plans-to-deliver-90000-homes), set by the Mayor.  On the other hand, should, say [problems occur with the BLE](https://www.london-se1.co.uk/news/view/9916), reducing the prices that can be charged for new homs, it is not hard to envisage developers returning to Southwark, reminding them that they always said their schemes were technically unviable,and looking for a reduction in the affordable housing. 
 
-This is being done in advance of the adoption of the Old Kent Rd AAP which is very amusingly still being consulted on.
-
-TfL warning
-Importance of BLE
-
-
-
-Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
