@@ -5,7 +5,7 @@ title: Delays and Delancey
 ---
 ## Delancey looks to escape blame for its own faults
 
-In the face of a [judicial review](http://35percent.org/2019-03-05-elephant-shopping-centre-judicial-review/) of their planning approval for the shopping centre demolition and redevelopment (scheduled for 17 and 18 August), centre owners and developer Delancey showed a touching concern for the welfare of the traders, making noises about how the '_timeline for starting on site will be pushed back_', affecting the traders hopes for '_stability and certainty_'.
+In the face of a [judicial review](http://35percent.org/2019-03-05-elephant-shopping-centre-judicial-review/) of their planning approval for the shopping centre demolition and redevelopment (scheduled for 17 and 18 August), centre owners and developer Delancey showed a touching concern for the welfare of the traders, making noises about how the _'timeline for starting on site will be pushed back'_, affecting the traders hopes for  _'stability and certainty'_.
 
 Delancey has not previously been in any hurry to settle the centre's future, other than entirely on their own terms.  This is amply demonstrated by the snail's pace progress of their planning application.  It is a story of constant deferment, caused by Delancey's refusal to meet the minimum requirements of the Council's own local plan.
 
