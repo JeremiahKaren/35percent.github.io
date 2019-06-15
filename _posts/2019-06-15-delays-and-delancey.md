@@ -39,12 +39,12 @@ This entailed 4 versions of an expanding [officer's report](http://moderngov.sou
 
 The delays did not end with the planning committee approval.  Planning approval was also needed for the Castle Square temporary facility, as a condition of the shopping centre development approval.  While the proposal was made in [February 2018](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!0iVzasdHCgb1eVmQCrssOg%3d%3d!%7d%7d%7d), Delancey came forward with this application at the end of June and it went to committee on [7 Jan 2019](http://moderngov.southwark.gov.uk/ieListDocuments.aspx?CId=353&MId=6315&Ver=4).  The final decision notice for the shopping centre application was then published on [10 Jan 2019](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!E6IobTn81r9jhON1O8ivDA%3d%3d!%7d%7d%7d), nearly a full year on and there hasn't been any progress since then.
 
-![](http://35percent.org/img/emptycastlesquare.jpg)*Castle Square showing no sign of works started on the temporary boxpark* 
+![](http://35percent.org/img/emptycastlesquare.jpg)*Castle Square showing no sign of works commencing on the temporary boxpark* 
 
 ## Where the fault lies...
  
 
-It might be argued that through this whole tortuous saga that Delancey 'listening' and responding to the community's concerns.  An alternative explanation is that it is a well-rehearsed developer tactic- offer as little as you can get away with, and then make only those improvements you are forced to concede. Delaying the delivery of the hard-one 116 social rented units for at least 9 years employs the same delaying tactic (OR link). 
+It might be argued that through this whole tortuous saga that Delancey 'listening' and responding to the community's concerns.  An alternative explanation is that it is a well-rehearsed developer tactic- offer as little as you can get away with, and then make only those improvements you are forced to concede. Delaying the delivery of the hard-one 116 social rented units for at least 9 years employs the same delaying tactic. 
 
 To sum up, we have little doubt that had Delancey presented the improved scheme that it presented to the planning committee on 3 July 2019 at the very first scheduled planning committee meeting, back on 18 December 2017, it would have been approved and any legal challenge long resolved.  Delancey could then have saved the crocodile tears it is currently shedding on behalf of the traders.
 
