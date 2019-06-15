@@ -18,7 +18,7 @@ On top of this Verney Rd is a very dense development - 1180 habitable rooms per 
 
 All the Old Kent Rd deevlopers show a marked reluctance to take advantage of the grant funding available from the Mayor - only Ruby Triangle and Malt St have done so and then only for 5% of the affordable housing.  As Malt St developer, Berkeley Homes explains it, the level of grant per unit is not sufficient to compensate for the money that can be made from keeping homes free-market. 
 
-So, the picture that emerges is that of a pact being struck - developers will deliver the affordable housing that the local plan requires, but not much more, regardless of the true profitability of the developments and of any 'stratigic' target of 50% affordable housing, set by the Mayor.  On the other hand, it is not hard to envisage the developers returning to Southwark, should, say problems occur with the BLE, reminding Southwark that they always said it was technically unviable and looking for a reduction in the affordable housing. 
+So, the picture that emerges is that of a pact being struck - developers will deliver the affordable housing that the local plan requires, but not much more, regardless of the true profitability of the developments and of any 'stratigic' target of 50% affordable housing, set by the Mayor.  On the other hand, should, say problems occur with the BLE, reducing the prices that can be charged for new homs, it is not hard to envisage developers returning to Southwark, reminding them that they always said their schemes were technically unviable,and looking for a reduction in the affordable housing. 
 
 This is being done in advance of the adoption of the Old Kent Rd AAP 
 
