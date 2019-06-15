@@ -9,7 +9,7 @@ The application for a mixed-use development at 6-12 Verney Rd, just off the Old 
 
 The application follows [Malt St](http://35percent.org/2019-06-01-malt-street-berkeley-homes-old-kent-road/), approved less than two weeks ago, [Southernwood Retail Park](http://35percent.org/2019-05-27-southernwood-retail-park/), [Cantium Retail Park](https://www.london-se1.co.uk/news/view/9869) and [Ruby Triangle](http://35percent.org/2018-10-08-ruby-triangle-goes-to-committee/) and is the latest of the big developments being rushed through planning committee, in advance of the adoption of the [Old Kent Rd Area Action Plan (AAAP](https://www.southwark.gov.uk/planning-and-building-control/planning-policy-and-transport-policy/development-plan/area-action-plans?chapter=2).
 
-Verney Rd shares several characteristics with the other Old Kent Rd developments, although somewhat smaller. All have 35% affordable housing, in an aproximate 70:30 social rent:intermediate housing split, compliant with the local plan (Ruby Triangle and Malt St have 40% affordable housing).  All, though, are technically non-viable, according to their viability assessments, so should be unable, in theory, to meet this affordable housing requirement.  
+Verney Rd shares several characteristics with the other Old Kent Rd developments, although somewhat smaller. All have 35% affordable housing, in an approximate 70:30 social rent:intermediate housing split, compliant with the local plan (Ruby Triangle and Malt St have 40% affordable housing).  All, though, are technically non-viable, according to their viability assessments, so should be unable, in theory, to meet this affordable housing requirement.  
 
 ## Viability rules?
 
