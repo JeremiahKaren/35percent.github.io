@@ -1,8 +1,8 @@
 ---
 layout: post
-published: true 
-title: "Verney Rd - yet another Old Kent Rd development"
-subtitle: "Third large application in a month goes to committee"
+published: true
+title: Verney Rd - yet another Old Kent Rd development
+subtitle: Third large application in a month goes to committee
 ---
 
 The application for a mixed-use development at 6-12 Verney Rd, just off the Old Kent Rd, behind PC World, is due to be considered by Southwark's [planning committee this Monday](http://moderngov.southwark.gov.uk/ieListDocuments.aspx?CId=119&MId=6392&Ver=4) (18 June).  The proposal is for 3 blocks, the tallest of 17 storeys, comprising 338 residential units, office and workspace and associated open, green and amenity spaces. The application is [recommended for approval](http://moderngov.southwark.gov.uk/documents/s83243/Report%20and%20Appendix%201%20and%202%206%20-%2012%20Verney%20Road%20London%20SE16%203DH.pdf).
@@ -18,7 +18,7 @@ Verney Rd shares several characteristics with the other Old Kent Rd developments
 ## Viability rules?
 
 This contradiction is reducing the consideration of viability into something of a ritual.  The developer( [CB Acquisition London Ltd](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!L5kRr99Gvx64nCZlTK8JqQ%3d%3d!%7d%7d%7d),
-(correspondance address, [Cayman Islands](https://beta.companieshouse.gov.uk/officers/NHZ7WPE191E-dhaeASgbVK9QiZk/appointments))) says that the scheme will only make about [half the profit](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!TQY%2bsILnV9wsUjV9l44bPw%3d%3d!%7d%7d%7d) needed to support the affordable housing required and the [Council's appraiser broadly agrees](http://moderngov.southwark.gov.uk/documents/s83243/Report%20and%20Appendix%201%20and%202%206%20-%2012%20Verney%20Road%20London%20SE16%203DH.pdf), with some caveats.  Then, after 'stand-back analysis' (and with the [Bakerloo Line Extension](https://tfl.gov.uk/corporate/about-tfl/how-we-work/planning-for-the-future/bakerloo-line-extension) (BLE) very much in mind) the developer graciously agrees to deliver the affordable housing, regardless.
+(correspondance address, [Cayman Islands](https://beta.companieshouse.gov.uk/officers/NHZ7WPE191E-dhaeASgbVK9QiZk/appointments))) says that the scheme will only make about [half the profit](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!TQY%2bsILnV9wsUjV9l44bPw%3d%3d!%7d%7d%7d) needed to support the affordable housing required and the [Council's appraiser broadly agrees](http://moderngov.southwark.gov.uk/documents/s83243/Report%20and%20Appendix%201%20and%202%206%20-%2012%20Verney%20Road%20London%20SE16%203DH.pdf), with some caveats.  Then, after 'stand-back analysis' and 'sensitivity testing' (and with the [Bakerloo Line Extension](https://tfl.gov.uk/corporate/about-tfl/how-we-work/planning-for-the-future/bakerloo-line-extension) (BLE) very much in mind) the developer graciously agrees to deliver the affordable housing, regardless.
 
 ![](http://35percent.org/img/verneyextract.png)*Extract from [developer's viability assessment](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!TQY%2bsILnV9wsUjV9l44bPw%3d%3d!%7d%7d%7d)*
 
