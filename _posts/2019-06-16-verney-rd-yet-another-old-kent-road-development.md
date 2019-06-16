@@ -42,6 +42,10 @@ All the Old Kent Rd developers have shown a marked reluctance to take advantage 
 
 So, the picture that emerges is that of a pact being struck - developers will deliver the affordable housing that the local plan requires, but not much more, regardless of the true profitability of the developments and of any ['strategic' target of 50% affordable housing](https://www.london.gov.uk/press-releases/mayoral/mayor-sets-out-plans-to-deliver-90000-homes), set by the Mayor.  On the other hand, should, say, [problems occur with the BLE](https://www.london-se1.co.uk/news/view/9916), reducing the prices that can be charged for new homes, it is not hard to envisage developers returning to Southwark, reminding them that they always said their schemes were technically unviable, and looking for a reduction in the affordable housing.
 
+Indeed, this eventuality is even envisaged in the [planning committee report](http://35percent.org/2019-06-16-verney-rd-yet-another-old-kent-road-development/).
+
+![](http://35percent.org/img/verneyvreview.png)*Paragraph 256 of the [planning committee report](http://35percent.org/2019-06-16-verney-rd-yet-another-old-kent-road-development/).*
+
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:site" content="@35percent_EAN">
 <meta name="twitter:title" content="Verney Rd - Yet another Old Kent Rd development">
