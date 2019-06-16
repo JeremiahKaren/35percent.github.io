@@ -1,9 +1,9 @@
 ---
 layout: post
-published: false
-title: Verney Rd - yet another Old Kent Rd development
+published: true 
+title: "Verney Rd - yet another Old Kent Rd development"
+subtitle: "Third large application in a month goes to committee"
 ---
-## Third large application in a month goes to committee
 
 The application for a mixed-use development at 6-12 Verney Rd, just off the Old Kent Rd, behind PC World, is due to be considered by Southwark's [planning committee this Monday](http://moderngov.southwark.gov.uk/ieListDocuments.aspx?CId=119&MId=6392&Ver=4) (18 June).  The proposal is for 3 blocks, the tallest of 17 storeys, comprising 338 residential units, office and workspace and associated open, green and amenity spaces. The application is [recommended for approval](http://moderngov.southwark.gov.uk/documents/s83243/Report%20and%20Appendix%201%20and%202%206%20-%2012%20Verney%20Road%20London%20SE16%203DH.pdf).
 
