@@ -21,7 +21,7 @@ Councillor John went one step further to pledge that the first 1500 net addition
 ![](http://35percent.org/img/1500councilhomes.png)
 *Extract from [2014 Cabinet report](http://moderngov.southwark.gov.uk/documents/s47488/Report%20Long%20term%20plans%20for%20the%20delivery%20of%20new%20council%20homes.pdf)*
 
-Four years on and we have taken a look at whether Councillor John has delivered on his manifesto pledge. [Official statistics](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/674346/LT_116.xlsx) from the government's [live tables](https://www.gov.uk/government/statistical-data-sets/live-tables-on-dwelling-stock-including-vacants) on local authority dwelling stock show that since the manifesto pledge in 2014 there has been a net reduction in Southwark's council housing stock of 476 council homes.
+Four years on and we have taken a look at whether Councillor John has delivered on his manifesto pledge. [Official statistics](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/674346/LT_116.xlsx) from the government's [live tables](https://www.gov.uk/government/statistical-data-sets/live-tables-on-dwelling-stock-including-vacants) on local authority dwelling stock show that since the manifesto pledge in 2014 there has been a net reduction in Southwark's council housing stock of 540 council homes.
 
 ![](http://35percent.org/img/livetableextract.png)
 *Extract from the government's [Live Table 116](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/674346/LT_116.xlsx)*
@@ -33,7 +33,7 @@ In addition, it has [sold 1,300 council homes under the Right to Buy since 2012]
 Meanwhile, this [30th Oct 2018 Cabinet report](http://moderngov.southwark.gov.uk/documents/s78248/Report%20New%20Homes%20Programme%20Delivery%20Model%20Review%202018.pdf) confirms that the council has built just 262 council homes over 5 years (para 12).  
 
 ## Buying affordable housing instead
-The [Cabinet report](http://moderngov.southwark.gov.uk/documents/s78248/Report%20New%20Homes%20Programme%20Delivery%20Model%20Review%202018.pdf) confirms that an additional 239 units of developer-built (S106) affordable housing have been bought by Southwark, to become council housing (para 17). One such example is Blackfriars Circus, where the Council has [bought](http://35percent.org/2017-04-29-blackfriars-affordable-housing-circus/) 56 homes for £10m from developer Barratt.
+The [Cabinet report](http://moderngov.southwark.gov.uk/documents/s78248/Report%20New%20Homes%20Programme%20Delivery%20Model%20Review%202018.pdf) confirms that an additional 239 units of developer-built (S106) affordable housing have been bought by Southwark, to become council housing (para 17). One such example is Blackfriars Circus, where the Council has [bought](http://35percent.org/2017-04-29-blackfriars-affordable-housing-circus/) 56 homes for £10m from dev eloper Barratt.
 
 ![](http://35percent.org/img/tweetmwilliamsblackfriars.png)
 
