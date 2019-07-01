@@ -13,7 +13,7 @@ Since Mr Manson's 1999 anti-council housing manifesto, the borough has lost more
 
 But council estate regeneration, Manson style, is also playing its part. The Gazette article mentions three estates south of Tower Bridge earmarked for demolition. At [least eight others](http://35percent.org/the-southwark-clearances) can be added, totalling 7,639 council homes and leasehold properties lost.  The developments replacing these will provide over 11,000 new homes, but only 3,200 of them will be social rented and while Southwark does now have an council house building programme, it is [still knocking down and selling off council homes faster than it is building them](http://35percent.org/2018-11-12-11000-council-homes-manifesto-pledge/).  
 
-The proportion of social rented housing is even lower when other major schemes are considered.  Analysis of the major schemes approved by Southwark over the last 15 years gives [an average social rent component of under 4%](http://35percent.org/major-schemes) out of about twelve thousand homes - well below the Council's [policy requirement of 25%](LINKTONSP).  (Recent approvals of [Old Kent Rd developments](http://35percent.org/2019-06-16-verney-rd-yet-another-old-kent-road-development/)increase the overall percentage to 10%).
+The proportion of social rented housing is even lower when other major schemes are considered.  Analysis of the major schemes approved by Southwark over the last 15 years gives [an average social rent component of under 4%](http://35percent.org/major-schemes) out of about twelve thousand homes - well below the Council's [policy requirement of 25%](LINKTONSP).  ([Recent approvals](http://35percent.org/img/OKRapprovals.pdf) of [Old Kent Rd developments](http://35percent.org/2019-06-16-verney-rd-yet-another-old-kent-road-development/) increase the overall percentage to 10%).
 
 <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js">
 </script>
@@ -66,7 +66,7 @@ The proportion of social rented housing is even lower when other major schemes a
 
 </script>
 
-## Nearly a thousand new homes, 116 social rented - maybe
+## Nearly a thousand new homes, 116 social rented - (maybe)
 
 The [Elephant and Castle shopping centre redevelopment](http://35percent.org/shopping-centre) is no exception in this regard.  A stone's throw from the demolished Heygate estate, only 116 of nearly a thousand new homes will be offered as social rent (8.6% by floorspace), all to be built nearly ten years hence.  Shopping centre owner and _'specialist real estate investment and advisory company developer'_ [Delancey](https://www.delancey.com/welcome.html) said that this was [as much as it could afford](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!b5xBNaYRSleWlYx6oXVrEA%3d%3d!%7d%7d%7d) to build, but we now know that with Mayor’s funding they could give us another 42 homes - still a modest amount, but almost enough to reach Southwark's local plan requirement. 
 
@@ -217,7 +217,7 @@ Highcharts.chart('container2', {
 
 </script>
 
-Whether there will ever be even 116 social rent units is also open to doubt.  Leaving aside the fact that they won't be built for nearly ten years, a long time by any measure, Delancey has the option of passing the obligation to build the homes back to Southwark, along with land and _'sufficient funds'_ to fulfil the obligation.  We fear the development's legal agreement fails to properly guarantee this will happen. We also believe the legal agreement fails to provide an effective viability review mechanism - a way to get greater affordable and social rent housing, should the development prove more profitable than expected.
+Whether there will ever be even 116 social rent units is also open to doubt.  Leaving aside the fact that they won't be built for nearly ten years, a long time by any measure, Delancey has the option of passing the obligation to build the homes back to Southwark, along with land and _'sufficient funds'_ to fulfil the obligation.  We fear that the wording of the development's legal agreement fails to properly secure this. We also believe that the wording of the legal agreement fails to provide an effective viability review mechanism - a basic policy requirement and a way to get greater affordable and social rent housing, should the development prove more profitable than expected.
 
 As well as housing, the new development will provide about the same amount of retail space as there is in the present shopping centre, but catering for the more well-heeled customer other social-rent free developments are now drawing to the Elephant.  The shopping centre itself will be demolished, which will destroy not just the shops of the many independent traders who have made the Elephant their home, including many ethnic businesses, but one of two major social hubs for the Latin American community in London (the other, in [Seven Sisters](https://www.facebook.com/wardscornercommunity/), is under similar threat). 
 
@@ -230,14 +230,14 @@ Delancey's anticipated profit from all of this is £137m or £148m, according to
 ![](http://35percent.org/img/delanceyshoppingcentrecgi.jpg)
 
 ## We must have homes that meet local need 
- 
-Delancey and Southwark argue that other elements of the scheme - a new Northern Line tube entrance and a campus for the University of the Art's London College of Communication - provide positives that [outweigh any negatives](http://35percent.org/2018-07-09-delancey/) in the housing and retail offer.  This is entirely in keeping with the regeneration rationale, as articulated by Fred Manson back in 1999, so successfully implemented by Southwark since then and now making a sizeable contribution to London's disastrous housing situation - thousands of new homes that many, not just of the poorest, cannot afford to either rent or buy; housing costs for the poorest [the 'worst in Europe'](https://www.theguardian.com/society/2018/mar/21/uk-europe-housing-cost-rise-lowest-earners-report) and a [record number of rough sleepers](https://www.theguardian.com/society/2018/oct/31/record-number-of-people-are-sleeping-rough-in-london).
+  
+Delancey and Southwark argue that other elements of the scheme - a new Northern Line tube entrance and a campus for the University of the Art's London College of Communication - provide positives that [outweigh any negatives](http://35percent.org/shopping-centre) in the housing and retail offer.  This is entirely in keeping with the regeneration rationale, as articulated by Fred Manson back in 1999, so successfully implemented by Southwark since then and now making a sizeable contribution to London's disastrous housing situation - thousands of new homes that many, not just of the poorest, cannot afford to either rent or buy; housing costs for the poorest [the 'worst in Europe'](https://www.theguardian.com/society/2018/mar/21/uk-europe-housing-cost-rise-lowest-earners-report) and a [record number of rough sleepers](https://www.theguardian.com/society/2018/oct/31/record-number-of-people-are-sleeping-rough-in-london).
 
 From the moment the shopping centre planning application was made [over two years ago](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!qmb8aBDQpUlOrlnojZ2sVQ%3d%3d!%7d%7d%7d), Southwark Council has been content to take whatever Delancey has offered, regardless of local need, in pursuit of its wretched gentrification agenda.  It has been local campaigners, with the support of some local councillors, who have [fought hard](http://35percent.org/2018-12-16-mayor-approves-shopping-centre/) over the past two years to squeeze housing concessions and a better deal for shopping centre traders out of the development. We must now fully secure the maximum social rented housing, and not have to wait nearly ten years for them. 42 extra social rented homes are not that many, the London Mayor has the money to pay for them and we are determined that they should be built.  We also want a better deal for traders - more space and more money for relocating.
 
 That is why we are challenging Delancey’s planning permission through the High Court.  We want the permission quashed and then we want a development scheme at the Elephant and Castle that provides homes and shops that are truly affordable for local people.
 
-If you agree with us, you can help in this fight by donating [here](https://www.crowdjustice.com/case/stop-the-elephant-shopping-centre-destruction/).
+If you agree with us, you can help in this fight by donating [here](https://www.crowdjustice.com/case/stop-the-elephant-shopping-centre-destruction/) or coming to [support us at the High Court on Wednesday 17th July](https://twitter.com/UpTheElephant_/status/1144586245252759552).
 
 
 __Footnotes:__

@@ -29,8 +29,8 @@ Twenty years later and it is clear to see that this policy has been a resounding
                 x: -20 //center
             },
             subtitle: {
-                text: 'Source: https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/674346/LT_116.xlsx',
-                x: -20
+                text: 'Source: <a href="https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/674346/LT_116.xlsx">https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/674346/LT_116.xlsx</a>',
+		x: -20
             },
             xAxis: {
                 categories: ['1999', '2000', '2001', '2002', '2003', '2004', '2005', '2006', '2007', '2008', '2009', '2010', '2011', '2012', '2013', '2014', '2015', '2016', '2017', '2018']
