@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Why we're challenging the Elephant & Castle redevelopment plans in court
-author: Jerry F
+title: "Why we're challenging the Elephant & Castle redevelopment plans in court"
+author: Jerry Flynn
 published: true
 ---
 
@@ -33,11 +33,11 @@ The proportion of social rented housing is even lower when other major schemes a
                 x: -20 //center
             },
             subtitle: {
-                text: 'Source: https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/674346/LT_116.xlsx',
+                text: 'Source: <a href="https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/674346/LT_116.xlsx">https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/674346/LT_116.xlsx</a>,
                 x: -20
             },
             xAxis: {
-                categories: ['1999', '2000', '2001', '2002', '2003', '2004', '2005', '2006', '2007', '2008', '2009', '2010', '2011', '2012', '2013', '2014', '2015', '2016', '2017']
+                categories: ['1999', '2000', '2001', '2002', '2003', '2004', '2005', '2006', '2007', '2008', '2009', '2010', '2011', '2012', '2013', '2014', '2015', '2016', '2017', '2018']
             },
             yAxis: {
                 title: {
@@ -60,7 +60,7 @@ The proportion of social rented housing is even lower when other major schemes a
             },
             series: [{
                 name: 'Southwark',
-                data: [51706, 50903, 49875, 48052, 46887, 45346, 43885, 42275, 41873, 41287, 40618, 40120, 39845, 39781, 38578, 39029, 38687, 38522, 38553]
+                data: [51706, 50903, 49875, 48052, 46887, 45346, 43885, 42275, 41873, 41287, 40618, 40120, 39845, 39781, 38578, 39029, 38687, 38522, 38553, 38489]
             }]
         });
 
@@ -219,7 +219,9 @@ Highcharts.chart('container2', {
 
 Whether there will ever be even 116 social rent units is also open to doubt.  Leaving aside the fact that they won't be built for nearly ten years, a long time by any measure, Delancey has the option of passing the obligation to build the homes back to Southwark, along with land and _'sufficient funds'_ to fulfil the obligation.  We fear the development's legal agreement fails to properly guarantee this will happen. We also believe the legal agreement fails to provide an effective viability review mechanism - a way to get greater affordable and social rent housing, should the development prove more profitable than expected.
 
-As well as housing, the new development will provide about the same amount of retail space as there is in the present shopping centre, but catering for the more well-heeled customer other social-rent free developments are now drawing to the Elephant.  The shopping centre itself will be demolished, which will destroy not just the shops of the many independent traders who have made the Elephant their home, including many ethnic businesses, but one of two major social hubs for the Latin American community in London (the other, in [Seven Sisters](https://www.facebook.com/wardscornercommunity/), is under similar threat).  The centre also has a large thriving [bingo hall and bowling alley](http://www.palacebingo.co.uk/london-palace/) that will fall to the demolition ball. 
+As well as housing, the new development will provide about the same amount of retail space as there is in the present shopping centre, but catering for the more well-heeled customer other social-rent free developments are now drawing to the Elephant.  The shopping centre itself will be demolished, which will destroy not just the shops of the many independent traders who have made the Elephant their home, including many ethnic businesses, but one of two major social hubs for the Latin American community in London (the other, in [Seven Sisters](https://www.facebook.com/wardscornercommunity/), is under similar threat). 
+
+![](http://35percent.org/img/traderscomp.jpeg)
 
 Concerted campaigning has gained some space for these traders in the shopping centre and other new developments, as well as a [temporary relocation facility](http://35percent.org/2018-11-24-castle-square-delancey-responds/), but there is not enough space for every trader who wants it.  [Latin Elephant](https://latinelephant.org/), a local charity and advocate for all ethnic traders in the area, reckons there are nearly a hundred independent traders in the area and, given the practicalities of moving a business and a limited relocation fund of [£634,700](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!0iVzasdHCgb1eVmQCrssOg%3d%3d!%7d%7d%7d) only a fraction of traders are likely to benefit.
 
@@ -228,7 +230,7 @@ Delancey's anticipated profit from all of this is £137m or £148m, according to
 ![](http://35percent.org/img/delanceyshoppingcentrecgi.jpg)
 
 ## We must have homes that meet local need 
-
+ 
 Delancey and Southwark argue that other elements of the scheme - a new Northern Line tube entrance and a campus for the University of the Art's London College of Communication - provide positives that [outweigh any negatives](http://35percent.org/2018-07-09-delancey/) in the housing and retail offer.  This is entirely in keeping with the regeneration rationale, as articulated by Fred Manson back in 1999, so successfully implemented by Southwark since then and now making a sizeable contribution to London's disastrous housing situation - thousands of new homes that many, not just of the poorest, cannot afford to either rent or buy; housing costs for the poorest [the 'worst in Europe'](https://www.theguardian.com/society/2018/mar/21/uk-europe-housing-cost-rise-lowest-earners-report) and a [record number of rough sleepers](https://www.theguardian.com/society/2018/oct/31/record-number-of-people-are-sleeping-rough-in-london).
 
 From the moment the shopping centre planning application was made [over two years ago](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!qmb8aBDQpUlOrlnojZ2sVQ%3d%3d!%7d%7d%7d), Southwark Council has been content to take whatever Delancey has offered, regardless of local need, in pursuit of its wretched gentrification agenda.  It has been local campaigners, with the support of some local councillors, who have [fought hard](http://35percent.org/2018-12-16-mayor-approves-shopping-centre/) over the past two years to squeeze housing concessions and a better deal for shopping centre traders out of the development. We must now fully secure the maximum social rented housing, and not have to wait nearly ten years for them. 42 extra social rented homes are not that many, the London Mayor has the money to pay for them and we are determined that they should be built.  We also want a better deal for traders - more space and more money for relocating.
@@ -237,7 +239,6 @@ That is why we are challenging Delancey’s planning permission through the High
 
 If you agree with us, you can help in this fight by donating [here](https://www.crowdjustice.com/case/stop-the-elephant-shopping-centre-destruction/).
 
-![](http://35percent.org/img/traderscomp.jpeg)
 
 __Footnotes:__
 
