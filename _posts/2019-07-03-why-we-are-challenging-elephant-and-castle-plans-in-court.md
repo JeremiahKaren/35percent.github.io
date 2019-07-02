@@ -7,6 +7,8 @@ published: true
 
 ## Southwark Council - demolishing council homes, generating better people 
 
+![](http://35percent.org/img/lovetheelephantbanner.jpg)
+
 Twenty years ago, Fred Manson, Southwark Council's Director of Regeneration laid out the aims of the Labour council's new regeneration strategy in industry magazine, the Estates Gazette: _"We need to have a wider range of people living in the borough"_ because _"social housing generates people on low incomes coming in and that generates poor school performances, middle-class people stay away."_ As the Gazette reported it, this was _"part of a deliberate process of gentrification that will result in social housing being replaced by owner occupied dwellings and developers being given free rein to build luxury flats"_ [^1].
 
 Since Mr Manson's 1999 anti-council housing manifesto, the borough has lost more than 13,000 council homes (see graph below) and the proportion of council housing had fallen from 60% of to [28% of housing stock](https://www.southwark.gov.uk/assets/attach/2683/Southwark_Housing_Key_Stats_October_v2_2015.pdf) by 2015.  This is mainly the consequence of [Right to Buy](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/759390/LT_685.xlsx) and [void sales](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/561232/LT_648.xlsx). 
