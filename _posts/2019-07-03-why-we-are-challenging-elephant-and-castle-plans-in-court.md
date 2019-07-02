@@ -243,3 +243,10 @@ If you agree with us, you can help in this fight by donating [here](https://www.
 __Footnotes:__
 
 [^1]: Estates Gazzette article [published 13 March 1999](http://heygate.github.io/img/EstatesGazette.pdf)
+
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:site" content="@35percent_EAN">
+<meta name="twitter:title" content="Why we are challenging the E&C redevelopment plans in court">
+<meta name="twitter:description" content="Southwark Council - demolishing council homes, generating better people.">
+<meta name="twitter:image" content="http://35percent.org/img/lovetheelephantbanner.jpg">
+
