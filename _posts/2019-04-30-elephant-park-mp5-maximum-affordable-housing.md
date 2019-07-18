@@ -6,7 +6,7 @@ published: false
 ---
 ## Over 80% of Elephant Park homes estimated to have been sold overseas
 
-Planning documents for the final part of the Heygate redevelopment reveal that while developer Lendlease could be looking at a windfall of £80m on the completed scheme there will be nearly 30 fewer affordable homes.  This increase in revenue and fall in number of afforddable units has been facilitated by changes made to the developement since it was approved by Southwark's planning committee, back in January 2013.
+Planning documents for the final part of the Heygate redevelopment reveal that while developer Lendlease could be looking at a windfall of £80m on the completed scheme there will be nearly 30 fewer affordable homes.  This increase in revenue and fall in number of affordable units has been facilitated by changes made to the developement since it was approved by Southwark's planning committee, back in January 2013.
 
 It also appears as if most of the homes sold to date have been sold overseas - 80%, according to an [Evening Standard article](https://www.homesandproperty.co.uk/property-news/renting/living-and-renting-in-elephant-castle-travel-links-parking-schools-best-streets-cost-of-monthly-rent-a130896.html).
 
