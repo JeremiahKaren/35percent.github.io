@@ -4,7 +4,7 @@ title: Heyate redevelopment fails to deliver expected affordable housing
 subtitle: Lendlease exceeds number of homes approved
 published: false
 ---
-## parked extract
+## Over 80% of Elephant Park homes estimated to have been sold overseas
 ![](http://35percent.org/img/80percent.png)
 
 [https://www.homesandproperty.co.uk/property-news/renting/living-and-renting-in-elephant-castle-travel-links-parking-schools-best-streets-cost-of-monthly-rent-a130896.html](https://www.homesandproperty.co.uk/property-news/renting/living-and-renting-in-elephant-castle-travel-links-parking-schools-best-streets-cost-of-monthly-rent-a130896.html)
