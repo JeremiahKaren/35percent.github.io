@@ -8,7 +8,7 @@ published: false
 
 Planning documents for the final part of the Heygate redevelopment reveal that while developer Lendlease could be looking at a windfall of £80m on the completed scheme there will be nearly 30 fewer affordable homes than approved by Southwark's planning committee, back in 2013.
 
-It also appears as if most of the homes sold to date have been sold overseas - 80%, according to an (Evening Standard article)[https://www.homesandproperty.co.uk/property-news/renting/living-and-renting-in-elephant-castle-travel-links-parking-schools-best-streets-cost-of-monthly-rent-a130896.html](https://www.homesandproperty.co.uk/property-news/renting/living-and-renting-in-elephant-castle-travel-links-parking-schools-best-streets-cost-of-monthly-rent-a130896.html)
+It also appears as if most of the homes sold to date have been sold overseas - 80%, according to an [Evening Standard article](https://www.homesandproperty.co.uk/property-news/renting/living-and-renting-in-elephant-castle-travel-links-parking-schools-best-streets-cost-of-monthly-rent-a130896.html).
 
 ![](http://35percent.org/img/80percent.png)
 
