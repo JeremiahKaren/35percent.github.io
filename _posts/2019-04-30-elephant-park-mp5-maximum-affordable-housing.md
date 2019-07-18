@@ -5,15 +5,17 @@ subtitle: Lendlease exceeds number of homes approved
 published: false
 ---
 ## Over 80% of Elephant Park homes estimated to have been sold overseas
+
+Planning documents for the final part of the Heygate redevelopment reveal that while developer Lendlease could be looking at a windfall of £80m on the completed scheme there will be nearly 30 fewer affordable homes than approved by Southwark's planning committee, back in 2013.
+
+It also appears as if most of the homes sold to date have been sold overseas - 80%, according to an (Evening Standard article)[https://www.homesandproperty.co.uk/property-news/renting/living-and-renting-in-elephant-castle-travel-links-parking-schools-best-streets-cost-of-monthly-rent-a130896.html](https://www.homesandproperty.co.uk/property-news/renting/living-and-renting-in-elephant-castle-travel-links-parking-schools-best-streets-cost-of-monthly-rent-a130896.html)
+
 ![](http://35percent.org/img/80percent.png)
 
-[https://www.homesandproperty.co.uk/property-news/renting/living-and-renting-in-elephant-castle-travel-links-parking-schools-best-streets-cost-of-monthly-rent-a130896.html](https://www.homesandproperty.co.uk/property-news/renting/living-and-renting-in-elephant-castle-travel-links-parking-schools-best-streets-cost-of-monthly-rent-a130896.html)
 
 ## Only 15 social rent on final MP5 phase
 
-The [detailed planning application](https://planning.southwark.gov.uk/online-applications/applicationDetails.do?activeTab=externalDocuments&keyVal=_STHWR_DCAPR_9582742) for in the last residential plot in the redeveloped Heygate estate has been submitted to Southwark Council by developer Lendlease.
-
-Lendlease proposes building 424 new homes on the MP5 H7 plot, with 72 affordable units, made up of 37 shared-ownership, 20 affordable rent and 15 social rent.
+In the [detailed planning application](https://planning.southwark.gov.uk/online-applications/applicationDetails.do?activeTab=externalDocuments&keyVal=_STHWR_DCAPR_9582742) for in the last residential plot for what is now known as Elephant Park, Lendlease proposes building 424 new homes on the MP5 H7 plot, with 72 affordable units, made up of 37 shared-ownership, 20 affordable rent and 15 social rent.
 
 This will take the total number of social rented units in the development to just 92, a figure that has crept up from [71 units](http://35percent.org/2013-01-13-will-the-planning-committee-see-sense/) since 2013 (plus a further [eight on Trafalgar Place](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!DcDunvLF2MOAcCag9FShbg%3d%3d!%7d%7d%7d) (Heygate Phase 1)).
 
