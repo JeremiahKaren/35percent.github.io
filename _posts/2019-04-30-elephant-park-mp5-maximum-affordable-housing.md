@@ -17,7 +17,7 @@ It also appears as if most of the homes sold to date have been sold overseas - 8
 
 In the [detailed planning application](https://planning.southwark.gov.uk/online-applications/applicationDetails.do?activeTab=externalDocuments&keyVal=_STHWR_DCAPR_9582742) for in the last residential plot for what is now known as Elephant Park, Lendlease proposes building 424 new homes on the MP5 H7 plot. There would be 72 affordable units, made up of 37 shared-ownership, 20 affordable rent and 15 social rent.
 
-This will take the total number of social rented units in the development to just 92, a figure that has crept up from [71 units](http://35percent.org/2013-01-13-will-the-planning-committee-see-sense/) since 2013 (plus a further [eight on Trafalgar Place](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!DcDunvLF2MOAcCag9FShbg%3d%3d!%7d%7d%7d) (Heygate Phase 1)).
+This would take the total number of social rented units in the development to just 92, a figure that has crept up from [71 units](http://35percent.org/2013-01-13-will-the-planning-committee-see-sense/) since 2013 (plus a further [eight on Trafalgar Place](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!DcDunvLF2MOAcCag9FShbg%3d%3d!%7d%7d%7d) (Heygate Phase 1)).
 
 ![](http://35percent.org/img/epark92socialrent.jpg)
 
