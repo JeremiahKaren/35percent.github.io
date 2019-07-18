@@ -1,12 +1,14 @@
 ---
 layout: post
-title: Heyate redevelopment fails to deliver expected affordable housing
+title: >-
+  Extra homes on Heygate redevelopment, but it fails to deliver expected
+  affordable housing
 subtitle: Lendlease exceeds number of homes approved
 published: false
 ---
 ## Over 80% of Elephant Park homes estimated to have been sold overseas
 
-Planning documents for the final part of the Heygate redevelopment reveal that while developer Lendlease could be looking at a windfall of £80m on the completed scheme there will be nearly 30 fewer affordable homes.  This increase in revenue and fall in number of affordable units has been facilitated by changes made to the development since it was approved by Southwark's planning committee, back in January 2013.
+Planning documents for the final part of the Heygate redevelopment reveal that while developer Lendlease has built more homes than expected, and could be looking at a windfall of £80m on the completed scheme, there will be nearly 30 fewer affordable homes.  These changes have been facilitated by changes made to the development's plan since it was approved by Southwark's planning committee, back in January 2013.
 
 It also appears as if most of the homes sold to date have been to oversea buyers - 80%, according to an [Evening Standard article](https://www.homesandproperty.co.uk/property-news/renting/living-and-renting-in-elephant-castle-travel-links-parking-schools-best-streets-cost-of-monthly-rent-a130896.html).
 
