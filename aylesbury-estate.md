@@ -102,6 +102,10 @@ More information about the Six Acres estate regeneration can be found [here](htt
 ![](http://betterelephant.github.io/images/sixacresafter.JPG)
 [Photos of Six Acres after regeneration](https://www.flickr.com/photos/46360829@N03/sets/72157645684757965/)
 
+The London Borough of Wandsworth also has an estate made with the same construction system as the Aylesbury estate - the [Doddington & Rollo estate](/img/doddington.pdf) in Battersea.  Wandsworth hasn't complained about design issues and has no plans to demolish the estate.
+
+![](/img/doddington.png)
+*Doddington & Rollo estate in Battersea*
 
 ## Design Criticisms
 Clearly there is a strong [business case](http://35percent.org/2016-09-26-council-appeals-aylesbury-cpo-decision/#the-business-case-for-a-moratorium) for refurbishment over demolition. However, Southwark says it's not about the fabric of the estate but its design. In her [Public Inquiry evidence](http://crappistmartin.github.io/images/Catherine_Bates2.pdf), Southwark's in-house architect confirmed that _"the condition of the buildings does not, itself present a case for demolition and redevelopment"_ but that the _"fundamental issue is the estate layout and the poor urban environment this presents"_. In paragraph 5.3 of her evidence she gives examples of this 'poor urban environment' which include criticisms that: 
