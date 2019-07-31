@@ -39,10 +39,10 @@ Genesis Notting Hill's [planning application documents](http://planbuild.southwa
 *Extract from the planning application [documents](http://planbuild.southwark.gov.uk/documents/?casereference=14/AP/3843&system=DC)*
 
 ## Notting Hill lobbying for higher rents
-We note Notting Hill's [predilection](http://35percent.org/2015-09-24-southwark-backs-down-over-bermondsey-spa-dispute/#social-housing-is-not-a-desirable-destination) for affordable rent. Indeed, its CEO Kate Davies was a [fellow] (http://www.centreforsocialjustice.org.uk/about-us/csj-fellows/kate-davies) of the [Centre for Social Justice](http://www.centreforsocialjustice.org.uk/) - the conservative think tank set up and chaired by Iain Duncan Smith, which conceived the idea of both affordable rent and right-to-buy for housing association tenants.
+We note Notting Hill's [predilection](http://35percent.org/2015-09-24-southwark-backs-down-over-bermondsey-spa-dispute/#social-housing-is-not-a-desirable-destination) for affordable rent. Indeed, its CEO Kate Davies was a [fellow](http://www.centreforsocialjustice.org.uk/about-us/csj-fellows/kate-davies) of the [Centre for Social Justice](http://www.centreforsocialjustice.org.uk/) - the conservative think tank set up and chaired by Iain Duncan Smith, which conceived the idea of both affordable rent and right-to-buy for housing association tenants.
 
 ![](/img/aylesburyfdskatedavies.jpg)
-*Genesis Notting Hill's Kate Davies (left) celebrating demolitions on the latest phase will Cllr Buck and Cllr Situ*
+*Genesis Notting Hill's Kate Davies (left) celebrating demolitions on the latest phase with ward Councillor Jack Buck and Cabinet member for Regeneration Johnson Situ.*
 
 Kate Davies co-authored [this report](http://www.centreforsocialjustice.org.uk/UserStorage/pdf/Pdf%20reports/HousingPoverty.pdf) by the CSJ, in which she claimed that council estates are _‘ghettos of the poorest and neediest people’_ that are _‘subsidised by the taxpayer’_ and provide _‘low cost living for life funded from the public purse’_. She said that tenants _‘often pay little or no rent, and get their home maintained in good order for free.’_ She concluded that _‘social housing is not a desirable destination’_, that _‘private ownership is preferable to state provided solutions’_ and that social housing providers should be able to sent rent levels without restrictions.
 
