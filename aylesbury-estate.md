@@ -222,3 +222,9 @@ __Footnotes:__
 [^6]: Paragraph 39 of the closed version of [this April 2014 Chief Executive report](http://moderngov.southwark.gov.uk/ieDecisionDetails.aspx?Id=4612) _"39.  At sales values over £471 per ft² the Council will receive 50% of the profit."_
 
 [^7]: Paragraph 19 of the closed version of the above closed report says _"Barratt will agree to pay NHHT at practical completion half of the private sale Gross Development Value (based on £451 per sqft) less 21% which they retain in profit."_
+
+
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:title" content="Aylesbury estate regeneration" />
+<meta name="twitter:description" content="2,758 perfectly good council homes and 60 acres of public land lost as Southwark's regeneration/privatisation bulldozers roll on." />
+<meta name="twitter:image" content="http://35percent.org/img/aylesburydemolition.jpg" />
