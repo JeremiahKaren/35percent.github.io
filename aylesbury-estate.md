@@ -112,22 +112,16 @@ Clearly there is a strong [business case](http://35percent.org/2016-09-26-counci
 
  * _"Lack of ownership"_ of the estates green spaces, means that _"they are under used"_.
 
-So translating the architect speak to plain English we can say that Southwark is spending twice as much demolishing the Aylesbury estate than it would cost to refurbish it, on the grounds that the green spaces are _"under used"_ and the lack of a traditional street layout _"deprives"_ residents of a _"clear identity"_. 
+Council leader Peter John is one of the driving forces behind the Aylesbury estate scheme supported by a cross-party 'sink estate' rhetoric. He wrote an [article](http://www.progressonline.org.uk/2016/01/14/camerons-has-much-to-learn-on-housing/) in support of David Cameron's estate demolition proposals in Jan 2016, arguing only that Cameron's plans weren't ambitious enough and that more government funding should be allocated to the programme. In the article he describes the Heygate & Aylesbury estates as _"symbols of inner-city neglect, with crime, antisocial behaviour, health inequalities and unemployment the only things that flourished there"_. He added that _"both had become hard to let to council tenants, and reinforced poverty, crime and inequality"_ and concluded that in any case, _"most brutal estates do not make the best use of the land they occupy."_ 
 
-More criticisms of the estate and grounds for its demolition can be found in other officers' proofs of evidence submitted to the Public Inquiry:
+In a local [news interview](http://www.southwarknews.co.uk/news/my-conscience-is-clear-council-leader-peter-john-comes-out-fighting-as-heygate-deal-scrutinised/) he claimed that _"brutalist architecture wasn’t conducive to building a successful economic community"._ He evidenced this claim with an anecdote, in which he described local MP Harriet Harman's visit to the Aylesbury estate: _"Harriet and a councillor were in a lift with a man injecting drugs in his penis. That’s not the sign of a successful community"._
 
-[Jackie Fearon - Aylesbury Area Manager, Southwark Council](http://crappistmartin.github.io/images/Jackie_Fearon.pdf)  
-[Elaine Taylor - Senior Regeneration & Development Manager, L&Q Housing](http://crappistmartin.github.io/images/Elaine_Taylor.pdf)  
-[Mark Maginn - Sales & Acquisitions Manager, Southwark Council](http://crappistmartin.github.io/images/Mark_Maginn.pdf)  
-[Tim Cutts - Planning Policy Team Leader, Southwark Council](http://crappistmartin.github.io/images/Tim_Cutts.pdf)  
-[Jane Seymour - Development Partnership Broker, Southwark Council](http://crappistmartin.github.io/images/Jane_Seymour.pdf)  
-
-One fact that receives little mention in the CPO papers is that the Aylesbury estate is not exclusively concrete construction; there are over 300 brick built properties on the estate equally earmarked for demolition.
+One fact that receives little mention in Cllr John's brutalist sink estate rhetoric is that the Aylesbury estate is not exclusively concrete construction; there are over 300 brick built properties on the estate equally earmarked for demolition.
 
 ![](/img/aylesburyredbrick.jpg)
 *One block of over 300 red brick properties on the Aylesbury estate*
 
-
+## Community facilities
 The Council has [argued](http://www.southwark.gov.uk/news/article/2041/brand_new_library_plans_take_next_step_on_aylesbury) that the regeneration is [providing public benefits](http://www.aylesburynow.london/news/posts/new-public-square-moves-one-step-closer) including a new library, a new GP clinic, and new nursery facilities. But what is not publicised is that Notting Hill is only contributing £9m towards the £38m cost to the Council of delivering these facilities.
 
 ![](http://35percent.org/img/aylesburymedicalcentreandlibrary.jpg)
@@ -138,8 +132,12 @@ Neither is it being publicised that a [vast array of community facilities](http:
 ![](http://35percent.org/img/aylesburycommunityfacilities.png)
 *[List](http://35percent.org/img/Aylesbury_Audit_Community_Spaces.pdf) of community facilities being lost*
 
-## Environment/Sustainability
 
+In addition, there are four multi-utility games courts on the estate which are due to be built on and not replaced.
+![](/img/aylesburygamescourts.jpg)
+
+## Environment/Sustainability
+ 
 ![Aylesbury estate open space](/img/phase1baerial.png)
 *Generous existing green open space that will not be replaced*
 
@@ -148,11 +146,6 @@ Despite the fact that the redeveloped estate will be a stone's throw from the ne
 The [officer's report](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!Vbu5QpckfYCnJrulzlWyuQ%3d%3d!%7d%7d%7d) for the Aylesbury masterplan application also confirms that there will be a net loss of 1.8 hectares of open space as a result of the redevelopment:
 
 ![](http://crappistmartin.github.io/images/aylesburygreenspace.png)
-
-
-In addition, there are four multi-utility games courts on the estate which are due to be built on and not replaced.
-
-![](/img/aylesburygamescourts.jpg)
 
 Further, the new open spaces in the development will not be public open spaces adopted by the council; they will be privately owned and managed by a subsidiary of Notting Hill Housing Group. 
 
@@ -194,6 +187,14 @@ In Sep 2016, the Secretary of State [announced](http://35percent.org/2016-09-18-
 [Audit showing community spaces lost](/img/Aylesbury_Audit_Community_Spaces.pdf)
 [Albany Place - DHN info](/img/Totters_Court.pdf)
 
+### 2015 CPO proofs of evidence
+[Jackie Fearon - Aylesbury Area Manager, Southwark Council](http://crappistmartin.github.io/images/Jackie_Fearon.pdf)  
+[Elaine Taylor - Senior Regeneration & Development Manager, L&Q Housing](http://crappistmartin.github.io/images/Elaine_Taylor.pdf)  
+[Mark Maginn - Sales & Acquisitions Manager, Southwark Council](http://crappistmartin.github.io/images/Mark_Maginn.pdf)  
+[Tim Cutts - Planning Policy Team Leader, Southwark Council](http://crappistmartin.github.io/images/Tim_Cutts.pdf)  
+[Jane Seymour - Development Partnership Broker, Southwark Council](http://crappistmartin.github.io/images/Jane_Seymour.pdf)  
+
+### Press articles
 [https://www.architectsjournal.co.uk/news/aylesbury-estate-southwark-councils-judicial-review-application-over-cpos-refused/10016008.article](https://www.architectsjournal.co.uk/news/aylesbury-estate-southwark-councils-judicial-review-application-over-cpos-refused/10016008.article)  
 
 
