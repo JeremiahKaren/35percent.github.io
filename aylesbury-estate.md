@@ -95,11 +95,11 @@ Extensive [research by the University College London](http://www.engineering.ucl
 More information about the Six Acres estate regeneration can be found [here](http://www.langley.co.uk/asx/six_acres_case_study_-_newsletter.pdf), [here](http://bit.ly/1ssLvV6), [here](http://www.langley.co.uk/asx/six_acres_case_study.pdf), [here](http://crappistmartin.github.io/images/OCD28_SixAcresestateRefurb_Illustrations.pdf) and under planning application ref: P072153 on [Islington Council's Planning Portal](/img/6acrescasereport.pdf).
 
 
-![](http://betterelephant.github.io/images/sixacresbefore4.jpg) 
+![](/img/sixacresbefore4.jpg) 
 [Photos of Six Acres before regeneration](https://www.flickr.com/photos/46360829@N03/sets/72157645684480295/)
 
 
-![](http://betterelephant.github.io/images/sixacresafter.JPG)
+![](/img/sixacresafter.jpg)
 [Photos of Six Acres after regeneration](https://www.flickr.com/photos/46360829@N03/sets/72157645684757965/)
 
 The London Borough of Wandsworth also has an estate made with the same construction system as the Aylesbury estate - the [Doddington & Rollo estate](/img/doddington.pdf) in Battersea. Wandsworth has no plans to demolish the estate.
