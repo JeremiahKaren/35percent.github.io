@@ -181,7 +181,7 @@ In Sep 2016, the Secretary of State [announced](http://35percent.org/2016-09-18-
 
 <iframe width="400" height="225" src="https://www.youtube.com/embed/RtvghCKNJjQ" align="center" frameborder="0" allowfullscreen></iframe>
 
-![](https://35percent.org/img/wolvertonleaseholders.png)
+![](http://35percent.org/img/wolvertonleaseholders.png)
 *Eviction Threat OAPs - Southwark News [article](http://heygatewashome.org/img/SNWolverton.pdf)*
 
 ## Misc links
@@ -226,5 +226,5 @@ __Footnotes:__
 
 <meta name="twitter:card" content="summary" />
 <meta name="twitter:title" content="Aylesbury estate regeneration" />
-<meta name="twitter:description" content="2,758 perfectly good council homes and 60 acres of public land lost as Southwark's regeneration/privatisation bulldozers roll on." />
+<meta name="twitter:description" content="2,758 perfectly good council homes and 60 acres of public land lost as Southwark's regeneration bulldozers roll on." />
 <meta name="twitter:image" content="http://35percent.org/img/aylesburydemolition.jpg" />
