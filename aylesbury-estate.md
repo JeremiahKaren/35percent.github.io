@@ -181,7 +181,8 @@ In Sep 2016, the Secretary of State [announced](http://35percent.org/2016-09-18-
 
 <iframe width="400" height="225" src="https://www.youtube.com/embed/RtvghCKNJjQ" align="center" frameborder="0" allowfullscreen></iframe>
 
-![](https://halag.files.wordpress.com/2010/09/snwolvertonleaseholdersimage.png?w=640) 
+![](https://35percent.org/img/wolvertonleaseholders.png)
+*Eviction Threat OAPs - Southwark News [article](http://heygatewashome.org/img/SNWolverton.pdf)*
 
 ## Misc links
 [Video footage](https://youtu.be/jw7LH2SREZI?list=PLHRf7Up774EnVkhes9K_4q9VUlLZtcwOo) of the 2015 Aylesbur y estate CPO public inquiry.
