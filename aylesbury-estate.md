@@ -102,7 +102,7 @@ More information about the Six Acres estate regeneration can be found [here](htt
 ![](http://betterelephant.github.io/images/sixacresafter.JPG)
 [Photos of Six Acres after regeneration](https://www.flickr.com/photos/46360829@N03/sets/72157645684757965/)
 
-The London Borough of Wandsworth also has an estate made with the same construction system as the Aylesbury estate - the [Doddington & Rollo estate](/img/doddington.pdf) in Battersea.  Wandsworth hasn't complained about design issues and has no plans to demolish the estate.
+The London Borough of Wandsworth also has an estate made with the same construction system as the Aylesbury estate - the [Doddington & Rollo estate](/img/doddington.pdf) in Battersea. Wandsworth has no plans to demolish the estate.
 
 ![](/img/doddington.png)
 *Doddington & Rollo estate in Battersea*
