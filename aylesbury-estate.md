@@ -121,7 +121,7 @@ Council leader Peter John is one of the driving forces behind the Aylesbury esta
 
 In a local [news interview](http://www.southwarknews.co.uk/news/my-conscience-is-clear-council-leader-peter-john-comes-out-fighting-as-heygate-deal-scrutinised/) he claimed that _"brutalist architecture wasn’t conducive to building a successful economic community"._ He evidenced this claim with an anecdote, in which he described local MP Harriet Harman's visit to the Aylesbury estate: _"Harriet and a councillor were in a lift with a man injecting drugs in his penis. That’s not the sign of a successful community"._
 
-One fact that receives little mention in Cllr John's brutalist sink estate rhetoric is that the Aylesbury estate is not exclusively concrete construction; there are over 300 brick built properties on the estate equally earmarked for demolition.
+One fact that escapes Councillor John's brutalist sink estate rhetoric is that the Aylesbury estate is not exclusively concrete construction; there are over 300 traditional brick built properties on the estate equally earmarked for demolition.
 
 ![](/img/aylesburyredbrick.jpg)
 *One block of over 300 red brick properties on the Aylesbury estate*
@@ -148,7 +148,7 @@ In addition, there are four multi-utility games courts on the estate which are d
 
 Despite the fact that the redeveloped estate will be a stone's throw from the new Bakerloo line station on the Old Kent Road, the Aylesbury estate masterplan outline planning application gave consent for a total of 1,378 parking spaces in the new development, equating to four out of ten new households with parking.[^3]
 
-The [officer's report](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!Vbu5QpckfYCnJrulzlWyuQ%3d%3d!%7d%7d%7d) for the Aylesbury masterplan application also confirms that there will be a net loss of 1.8 hectares of open space as a result of the redevelopment:
+The [planning committee report](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!Vbu5QpckfYCnJrulzlWyuQ%3d%3d!%7d%7d%7d) for the Aylesbury masterplan application also confirms that there will be a net loss of 1.8 hectares of open space as a result of the redevelopment:
 
 ![](http://crappistmartin.github.io/images/aylesburygreenspace.png)
 
