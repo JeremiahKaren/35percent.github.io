@@ -168,7 +168,7 @@ However, these have since been gated off and public access curtailed by introduc
 ## Aylesbury diaspora
 Loretta Lees, a leading professor of Human Geography has [published](http://theconversation.com/camerons-sink-estate-strategy-comes-at-a-human-cost-53358) a study researching the displacement of Aylesbury estate tenants as a result of the regeneration. 
 
-![](https://62e528761d0685343e1c-f3d1b99a743ffa4142d9d7f1978d9686.ssl.cf2.rackcdn.com/files/108780/width754/image-20160120-26082-kgyeqq.png)
+![](/img/lleesmap.png)
 
 She also [gave evidence](http://35percent.org/img/lleesproof.pdf) to the Aylesbury CPO public inquiry showing how leaseholders were also being displaced, not just from the area but to outer boroughs and beyond as a result of the low compensation payments they receive. Her evidence shows that only 10% of tenants decanted to date have been rehoused in new homes on the redeveloped estate and that of the circa 250 leaseholders decanted to date, only 7 have taken up shared ownership in new homes provided by the scheme. 
 
