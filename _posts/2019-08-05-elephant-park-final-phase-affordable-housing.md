@@ -4,7 +4,7 @@ title: >-
   Extra homes on Heygate redevelopment, but it fails to deliver expected
   affordable housing
 subtitle: Lendlease exceeds number of homes approved
-published: false
+published: true 
 ---
 ## Over 80% of Elephant Park homes estimated to have been sold overseas
 
