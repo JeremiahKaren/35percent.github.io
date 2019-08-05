@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Extra homes on redeveloped Heygate, but fails to deliver expected affordable housing"
-subtitle: "Lendlease exceeds number of homes approved while reducing affordable"
+title: "Elephant Park MP5 - the final chapter"
+subtitle: "Final phase of Heygate redevelopment proposes increase in homes with decrease in affordable"
 published: true 
 ---
 ## Over 80% of Elephant Park homes estimated to have been sold overseas
