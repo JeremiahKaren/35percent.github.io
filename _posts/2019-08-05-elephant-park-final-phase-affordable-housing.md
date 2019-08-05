@@ -1,39 +1,44 @@
 ---
 layout: post
-title: "Extra homes on Heygate redevelopment, but it fails to deliver expected affordable housing"
-subtitle: "Lendlease exceeds number of homes approved"
+title: "Extra homes on redeveloped Heygate, but fails to deliver expected affordable housing"
+subtitle: "Lendlease exceeds number of homes approved while reducing affordable"
 published: true 
 ---
 ## Over 80% of Elephant Park homes estimated to have been sold overseas
-
-Planning documents for the final part of the Heygate redevelopment reveal that while developer Lendlease has built more homes than expected, and could be looking at a windfall of £80m on the completed scheme, there will be nearly 30 fewer affordable homes.  These changes have been facilitated by changes made to the development's plan since it was approved by Southwark's planning committee, back in January 2013.
+ 
+Planning documents for the final part of the Heygate redevelopment reveal that while developer Lendlease has built more homes than expected, and could be looking at an extra windfall of £80m on the completed scheme, there will be nearly 30 fewer affordable homes overall.  These changes have been facilitated by changes made to the development's plan since it was approved by Southwark's planning committee, back in 2013.
 
 It also appears as if most of the homes sold to date have been to [overseas buyers](http://35percent.org/img/West_Grove_Colliers_Fact_Sheet.pdf) - 80%, according to an [Evening Standard article](https://www.homesandproperty.co.uk/property-news/renting/living-and-renting-in-elephant-castle-travel-links-parking-schools-best-streets-cost-of-monthly-rent-a130896.html).
 
 ![](http://35percent.org/img/80percent.png)
 
 ## Only 15 social rent on final MP5 phase
+ 
+In its recently submitted detailed [planning application](https://planning.southwark.gov.uk/online-applications/applicationDetails.do?activeTab=externalDocuments&keyVal=_STHWR_DCAPR_9582742) for the last plot of the scheme (MP5/H7) for what is now known as [Elephant Park](http://elephantpark.co.uk), Lendlease proposes building 424 new homes. There would be 72 affordable units, made up of 37 shared-ownership, 20 affordable rent and 15 social rent.
 
-In the [detailed planning application](https://planning.southwark.gov.uk/online-applications/applicationDetails.do?activeTab=externalDocuments&keyVal=_STHWR_DCAPR_9582742) for in the last residential plot for what is now known as Elephant Park, Lendlease proposes building 424 new homes on the MP5 H7 plot. There would be 72 affordable units, made up of 37 shared-ownership, 20 affordable rent and 15 social rent.
-
-This would take the total number of social rented units in the development to just 92, a figure that has crept up from [71 units](http://35percent.org/2013-01-13-will-the-planning-committee-see-sense/) since 2013 (plus a further [eight on Trafalgar Place](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!DcDunvLF2MOAcCag9FShbg%3d%3d!%7d%7d%7d) (Heygate Phase 1)).
+This would take the total number of social rented units in the development to just 92 out of 2,689 in total, a figure that has crept up from [71 units](http://35percent.org/2013-01-13-will-the-planning-committee-see-sense/) since 2013 (plus a further [eight on Trafalgar Place](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!DcDunvLF2MOAcCag9FShbg%3d%3d!%7d%7d%7d) (Heygate Phase 1)).
 
 ![](http://35percent.org/img/epark92socialrent.jpg)
 
 ## 220 more homes than agreed, but 29 fewer affordable.
 
-The application also shows that the completed development, now known as Elephant Park, is set to deliver more homes in total than were approved by Southwark's planning committee, but with 29 fewer affordable homes than anticipated.
+The application also shows that the completed development is set to deliver more homes in total than were approved by Southwark's planning committee, but with 29 fewer affordable homes than anticipated.
 
-Lendlease _'anticipates'_ that the completed development, now known as Elephant Park, will total 2,689 homes.  This is 220 more homes than the numbers agreed by the [planning committee in January 2013](https://planning.southwark.gov.uk/online-applications/applicationDetails.do?activeTab=summary&keyVal=_STHWR_DCAPR_9544643), which approved a development of between [2,300 and 2,469 homes](http://moderngov.southwark.gov.uk/mgAi.aspx?ID=27221).
+Lendlease _'anticipates'_ that the completed development will total 2,689 homes.  This is 220 more homes than the numbers agreed by the [planning committee in January 2013](http://moderngov.southwark.gov.uk/mgAi.aspx?ID=27221), which [agreed a development of between 2,300 and 2,469 homes](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!Q7K%2bVQ5GwV3kVWHHRXBCqg%3d%3d!%7d%7d%7d).
 
-Only 541 of these homes will be affordable, twenty-nine fewer than the indicative figure of 570 given to the same planning committee, for a development of the maximum approved size.  The affordable housing is broken down into 92 social rented, 167 affordable rent and 282 shared ownership.
+![](http://35percent.org/img/orheygate.png)
+*Development description from [planning committee report for outline consent, Jan 2013](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!Q7K%2bVQ5GwV3kVWHHRXBCqg%3d%3d!%7d%7d%7d)*
+
+While the number of homes now proposed exceeds the number consented, Lendlease proposes a reduction in the number of affordable homes. Only 541 of the 2,689 homes will be affordable, 29 fewer than the indicative figure of 570 given to the planning committee in 2013.  The affordable housing is broken down into 92 social rented, 167 affordable rent and 282 shared ownership.
 
 The figures for the total and affordable units are given in planning documents for MP5, the final phase of the development - Table 7 of the [Reserved Matters Affordable Housing Strategy](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!Mz5nzvZX38X%2fWRNbT2Vd6A%3d%3d!%7d%7d%7d) and Table 8.1 of the [Reconciliation Statement](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!ODWxL4QoZvkgXXbACxb5vg%3d%3d!%7d%7d%7d) for the [Elephant Park - MP5 H7 Reserved Matters Application](https://planning.southwark.gov.uk/online-applications/applicationDetails.do?activeTab=externalDocuments&keyVal=_STHWR_DCAPR_9582742).  The figure for the 570 approved affordable homes was given on page 9 of the planning committee's [addendum report](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!Q7K%2bVQ5GwV3kVWHHRXBCqg%3d%3d!%7d%7d%7d)   (correcting a previous figure of [574](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!swSywGCW3zgzV1miHXgXSg%3d%3d!%7d%7d%7d)).
 
 ![](http://35percent.org/img/para163.png)
+*Extract from the addendum to the [2013 outline planning committee report](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!Q7K%2bVQ5GwV3kVWHHRXBCqg%3d%3d!%7d%7d%7d)*
 
 ![](http://35percent.org/img/reconc.png)
-
+*Extract from Lendlease's [recently submitted application](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!Q7K%2bVQ5GwV3kVWHHRXBCqg%3d%3d!%7d%7d%7d)*
+ 
 ## Southwark fail to secure housing numbers
 
   The increase from 2,469 to 2,689 total units on Elephant Park  has been facilitated by an [amendment](https://planning.southwark.gov.uk/online-applications/applicationDetails.do?activeTab=externalDocuments&keyVal=_STHWR_DCAPR_9580199) to the original planning permission.  This was made in November 2018 and changed the way the amount of residential space was calculated by [replacing the minimum and maximum figures for residential units](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!s8fyBoziHiy%2fr1TPdwL8eQ%3d%3d!%7d%7d%7d) with floorspace figures. The floorspace figures remained the same as those [approved by the planning committee](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!hgyBVuEH%2b8BxXry2bGRAtA%3d%3d!%7d%7d%7d)   (160,579sqm GEA {min} and 254,400sqm GEA {max}), but by removing the unit figures the amendment enables Lendlease to build more homes within the allowed floorspace.
@@ -49,14 +54,14 @@ These are undoubtedly welcome, but do mean that there is just 20% affordable hou
 
 ## Viability questions
 
-Officers at the time of the application's determination proposed only an early viability review, in the limited circumstances that the development was delayed and no new viability assessment has been presented to take into account the increased number of total units or the fewer affordable units that will actually be delivered.
+Officers at the time of the application's determination proposed an early viability review, in the event that the development was delayed or a change of circumstances occured. But no revised viability review has been presented to take into account Lendlease's proposed increase in density or reduction of affordable units.
 
 ![](http://35percent.org/img/vrev.png)
 
 The increase in maximum units to 2,689 units with the 29 unit drop in affordable housing gives Lendlease about 190 more free-market homes than the planning committee was led to believe would be built.  These have a rough estimated value of £80m, a figure that obviously cannot have featured in the 2012 [viability assessment](http://crappistmartin.github.io/images/HeygateViabilityAssessment_MainReport.pdf).  This assessment was made on the basis of 2,462 units and concluded that the scheme could not provide 35% affordable housing and that only a very small fraction could be social rented.
 
 ![](http://35percent.org/img/orfigs.png)
-
+ 
 ## No public funding?
 
 The lack of available public funding was cited in the [officer's report](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!swSywGCW3zgzV1miHXgXSg%3d%3d!%7d%7d%7d) as a factor that diminished the chances of a viable scheme delivering 35% affordable housing, when the application was originally considered.
@@ -69,16 +74,16 @@ This came with the reassurance that should public funding become available the a
 
 
 ## Object to MP5 - fight for 84 more affordable homes
-
+ 
 Lendlease's detailed MP5 H7 application is almost the final chapter in the [redevelopment of the Heygate estate](http://35percent.org/heygate-regeneration-faq/) and it allows us to evaluate what is being delivered, against what was said and what was approved by Southwark Council, back in 2013.
 
 It is now apparent that while Lendlease will fulfil its reduced affordable housing obligation they intend to do so by delivering fewer affordable homes. Lendlease has also been granted a change in the permission that has allowed them to build many more units.  The upshot is that Lendlease has about 190 more free-market homes to sell.
 
-Southwark, on the other hand, neglected to secure the number of homes to be built and gave Lendlease the opportunity to build more, without getting any improvement in the affordable housing situation. There also appears to have been no effort to take advantage of any public funding. 
+Southwark, on the other hand, has neglected to secure the number of homes to be built and is giving Lendlease the opportunity to build more, without getting any improvement in the affordable housing situation. There also appears to have been no effort to take advantage of any public funding. 
 
-This final Heygate application must be decided by the planning committee, not officers alone.  It must ask why we are getting fewer affordable housing units than it was told to expect, while Lendlease were allowed to build more units in total.  The committee must also ask why there have been no viability assessments or reviews since 2013 and what has been done to improve the affordable housing.
+This final Heygate application must be decided by the planning committee, not officers alone.  It must ask why we are getting fewer affordable housing units than it was told to expect, while Lendlease were allowed to build more units in total.  The committee must also ask why there have been no viability reviews since 2013 and what has been done to improve the affordable housing.
 
-The planning committee must refuse planning permission, unless Lendlease increases the total number of affordable homes, back to the indicative 570 the planning committee approved, plus 25% of the additional 220 units it has gained over the original maximum build.  This would give us a much-needed 84 affordable homes and half of these must be social rented, as Southwark's housing policy requires.
+Without a viability review, the planning committee must refuse planning permission. The very least Lendlease should do is increase the total number of affordable homes, back to the indicative 570 the planning committee approved, plus 25% of the additional 220 units it has gained over the original maximum build.  This would give us a much-needed 84 affordable homes and half of these must be social rented, as Southwark's housing policy requires.
 
 You can __OBJECT HERE__:
 <form id="form5" action="https://thirtyfivepercent.herokuapp.com/" method="post"> 
@@ -118,17 +123,14 @@ You can __OBJECT HERE__:
         <textarea name="message" id="message" cols="55" rows="10">Dear Southwark Planning,
 This application is pursuant to the outline planning permission granted to developer Lendlease for the redevelopment of the Heygate estate (ref 12/AP/1092). This entailed an obligation to build 25% affordable housing.
  
-It is now apparent that while Lendlease will fulfil its affordable housing obligation they intend to do so by delivering fewer affordable homes than the planning committee were told would be delivered, when they gave approval for the redevelopment. The
-committee was told there would be 570 affordable homes, while Lendlease will be delivering only 541.
+It is now apparent that while Lendlease will fulfil its affordable housing obligation they intend to do so by delivering fewer affordable homes than the planning committee were told would be delivered, when they gave approval for the redevelopment. The committee was told there would be 570 affordable homes, while Lendlease now proposes to deliver only 541.
 
 Since permission was given Lendlease has also been granted a change to that permission that will allow them to build 220 more units than the original maximum.
 Southwark, on the other hand, has neglected to secure the number of homes to be built and gave Lendlease the opportunity to build more, without getting any improvement in the affordable housing situation. There also appears to have been no effort to take advantage of any public funding.
 
-This final Heygate application must be decided by the planning committee, not officers alone. It must ask why we are getting fewer affordable housing units than it was told to expect, while Lendlease were allowed to build more units in total. The
-committee must also ask why there have been no viability assessments or reviews since 2013 and what has been done to improve the affordable housing.
+This final Heygate application must be decided by the planning committee, not officers alone. It must ask why we are getting fewer affordable housing units than it was told to expect, while Lendlease were allowed to build more units in total. The committee must also ask why there have been no viability assessments or reviews since 2013 and what has been done to improve the affordable housing.
 
-The planning committee must refuse planning permission, unless Lendlease increases the total number of affordable homes, back to the indicative 570 the planning committee approved, plus 25% of the additional 220 units it has gained over the original maximum build. This would give us a much-needed 84 affordable
-homes and half of these must be social rented, as Southwark's planning policy requires.
+There should be a viability review in order to reflect the increase in density and the planning committee must refuse planning permission, unless Lendlease increases the total number of affordable homes, back to the indicative 570 the planning committee approved, plus 25% of the additional 220 units it has gained over the original maximum build. This would give us a much-needed 84 affordable homes and half of these must be social rented, as Southwark's planning policy requires.
 
 Yours sincerely,
 </textarea>
@@ -139,6 +141,6 @@ Yours sincerely,
   </form>
 
 <meta name="twitter:card" content="summary" />
-<meta name="twitter:title" content="Elephant Park - the final chapter" />
-<meta name="twitter:description" content="Final phase of Heygate scheme breaches consented housing numbers" />
+<meta name="twitter:title" content="Elephant Park MP5 - the final chapter" />
+<meta name="twitter:description" content="Final phase of Heygate scheme proposes increasing overall number of homes while reducing affordable. " />
 <meta name="twitter:image" content="http://35percent.org/img/epark92socialrent.jpg" />
