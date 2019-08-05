@@ -4,7 +4,7 @@ title: "Elephant Park MP5 - the final chapter"
 subtitle: "Final phase of Heygate redevelopment proposes increase in homes with decrease in affordable"
 published: true 
 ---
-Developer Lendlease has applied to build 220 more homes than consented while providing 29 fewer affordable homes than consented. This will bring the total number of homes to 2,689 of which just 92 social rent. Despite the planning consent requiring a viability review for such changes none has been submitted.
+Developer Lendlease has applied to build 220 more homes than consented while providing 29 fewer affordable homes than consented in the last phase of its [redevelopment of the Heygate estate](http://35percent.org/heygate-regeneration-faq). This will bring the total number of homes to 2,689 of which just 92 social rent without the viability review envisaged in the planning consent.
  
 In its recently submitted detailed [planning application](https://planning.southwark.gov.uk/online-applications/applicationDetails.do?activeTab=externalDocuments&keyVal=_STHWR_DCAPR_9582742) for the last plot of the scheme (MP5/H7) for what is now known as [Elephant Park](http://elephantpark.co.uk), Lendlease proposes building 424 new homes. There would be 72 affordable units, made up of 37 shared-ownership, 20 affordable rent and 15 social rent.
 
