@@ -54,7 +54,14 @@ Lend Lease's [outline planning application](http://planbuild.southwark.gov.uk:81
 
 These shared ownership homes have already [come under fire](http://www.thelondoneconomic.com/2015/03/17/trafalgar-place-a-damning-indictment-of-affordable-housing-in-london/) for requiring a [minimum salary of £57,500](http://crappistmartin.github.io/images/LQPriceList.pdf); and whilst it has been promised that the 'affordable rent' units will only work out at 50% market rent, this currently equates to around twice the current average council rent in Southwark which is £90 pw for a 1-bed flat. 
 
-1034 Heygate tenants were 'decanted' on the promise that there would be 500 social housing units for those who wished to exercise their 'right to return' to the redeveloped estate. Thanks to a decade of broken promises there will now be just 100 homes to accommodate those who wish to return. 
+1034 Heygate tenants were 'decanted' on the promise that there would be 500 social housing units for those who wished to exercise their 'right to return' to the redeveloped estate. Thanks to a decade of broken promises there will now be just 100 homes to accommodate those who wish to return.
+
+Meanwhile, most of the homes sold to date have been to [overseas buyers](http://35percent.org/img/West_Grove_Colliers_Fact_Sheet.pdf) - 80%, according to an [Evening Standard article](https://www.homesandproperty.co.uk/property-news/renting/living-and-renting-in-elephant-castle-travel-links-parking-schools-best-streets-cost-of-monthly-rent-a130896.html).
+
+![](http://35percent.org/img/80percent.png)
+
+Whose regeneration?
+
 
 
 

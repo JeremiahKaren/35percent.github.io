@@ -4,15 +4,7 @@ title: "Elephant Park MP5 - the final chapter"
 subtitle: "Final phase of Heygate redevelopment proposes increase in homes with decrease in affordable"
 published: true 
 ---
-## Over 80% of Elephant Park homes estimated to have been sold overseas
- 
-Planning documents for the final part of the Heygate redevelopment reveal that while developer Lendlease has built more homes than expected, and could be looking at an extra windfall of £80m on the completed scheme, there will be nearly 30 fewer affordable homes overall.  These changes have been facilitated by changes made to the development's plan since it was approved by Southwark's planning committee, back in 2013.
-
-It also appears as if most of the homes sold to date have been to [overseas buyers](http://35percent.org/img/West_Grove_Colliers_Fact_Sheet.pdf) - 80%, according to an [Evening Standard article](https://www.homesandproperty.co.uk/property-news/renting/living-and-renting-in-elephant-castle-travel-links-parking-schools-best-streets-cost-of-monthly-rent-a130896.html).
-
-![](http://35percent.org/img/80percent.png)
-
-## Only 15 social rent on final MP5 phase
+Developer Lendlease has applied to build 220 more homes than consented while providing 29 fewer affordable homes than consented. This will bring the total number of homes to 2,689 of which just 92 social rent. Despite the planning consent requiring a viability review for such changes none has been submitted.
  
 In its recently submitted detailed [planning application](https://planning.southwark.gov.uk/online-applications/applicationDetails.do?activeTab=externalDocuments&keyVal=_STHWR_DCAPR_9582742) for the last plot of the scheme (MP5/H7) for what is now known as [Elephant Park](http://elephantpark.co.uk), Lendlease proposes building 424 new homes. There would be 72 affordable units, made up of 37 shared-ownership, 20 affordable rent and 15 social rent.
 
@@ -20,11 +12,7 @@ This would take the total number of social rented units in the development to ju
 
 ![](http://35percent.org/img/epark92socialrent.jpg)
 
-## 220 more homes than agreed, but 29 fewer affordable.
-
-The application also shows that the completed development is set to deliver more homes in total than were approved by Southwark's planning committee, but with 29 fewer affordable homes than anticipated.
-
-Lendlease _'anticipates'_ that the completed development will total 2,689 homes.  This is 220 more homes than the numbers agreed by the [planning committee in January 2013](http://moderngov.southwark.gov.uk/mgAi.aspx?ID=27221), which [agreed a development of between 2,300 and 2,469 homes](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!Q7K%2bVQ5GwV3kVWHHRXBCqg%3d%3d!%7d%7d%7d).
+Lendlease proposes that the completed development will total 2,689 homes.  This is 220 more homes than the numbers agreed by the [planning committee in January 2013](http://moderngov.southwark.gov.uk/mgAi.aspx?ID=27221), which [agreed a development of between 2,300 (min) and 2,469 homes (max)](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!Q7K%2bVQ5GwV3kVWHHRXBCqg%3d%3d!%7d%7d%7d).
 
 ![](http://35percent.org/img/orheygate.png)
 *Development description from [planning committee report for outline consent, Jan 2013](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!Q7K%2bVQ5GwV3kVWHHRXBCqg%3d%3d!%7d%7d%7d)*
