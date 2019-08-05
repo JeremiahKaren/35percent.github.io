@@ -79,7 +79,7 @@ Without a viability review, the planning committee must refuse planning permissi
 
 You can object by [clicking here](https://planning.southwark.gov.uk/online-applications/applicationDetails.do?activeTab=makeComment&keyVal=_STHWR_DCAPR_9582742) or filling in the form below:
 <form id="form5" action="https://thirtyfivepercent.herokuapp.com/" method="post"> 
-<fieldset><legend>Fill in the details below to object to the planning application.</legend>
+<fieldset><legend>Fill in your contact details and amend text as necessary.</legend>
 <div id="mc_embed_signup">
 <div class="indicates-required"><span class="asterisk">*</span> indicates required</div>
 <p class="first" style="margin:20px">
