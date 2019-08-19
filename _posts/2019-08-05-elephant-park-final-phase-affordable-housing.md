@@ -1,14 +1,16 @@
 ---
 layout: post
-title: "Elephant Park MP5 - the final chapter"
-subtitle: "Final phase of Heygate redevelopment proposes increase in homes with decrease in affordable"
-published: true 
+title: Elephant Park MP5 - the final chapter
+subtitle: >-
+  Final phase of Heygate redevelopment proposes increase in homes with decrease
+  in affordable
+published: true
 ---
-Developer Lendlease has applied to build 220 more homes than consented while providing 29 fewer affordable homes than consented in the last phase of its [redevelopment of the Heygate estate](http://35percent.org/heygate-regeneration-faq). This will bring the total number of homes to 2,689 of which just 92 social rent without the viability review envisaged in the original planning consent.
+Heygate estate developer Lendlease proposes building 220 more homes than were originally approved,while providing 29 fewer affordable homes, in the last phase of its [redevelopment of the estate](http://35percent.org/heygate-regeneration-faq). This will bring the total number of homes to 2,689 of which just 92 will be social rent.  
  
-In its recently submitted detailed [planning application](https://planning.southwark.gov.uk/online-applications-old/applicationDetails.do?activeTab=makeComment&keyVal=_STHWR_DCAPR_9582742) for the last plot of the scheme (MP5/H7) for what is now known as [Elephant Park](http://elephantpark.co.uk), Lendlease proposes building 424 new homes. There would be 72 affordable units, made up of 37 shared-ownership, 20 affordable rent and 15 social rent.
+The proposal is made in the detailed [planning application](https://planning.southwark.gov.uk/online-applications-old/applicationDetails.do?activeTab=makeComment&keyVal=_STHWR_DCAPR_9582742) for the last plot of the scheme (MP5/H7) for what is now known as [Elephant Park](http://elephantpark.co.uk), Lendlease proposes building 424 new homes. There would be 72 affordable units, made up of 37 shared-ownership, 20 affordable rent and 15 social rent.  There is no proposal for a viability review of the scheme, to maximise the amount of affordable housing.
 
-This would take the total number of social rented units in the development to just 92 out of 2,689 in total, a figure that has crept up from [71 units](http://35percent.org/2013-01-13-will-the-planning-committee-see-sense/) since 2013 (plus a further [eight on Trafalgar Place](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!DcDunvLF2MOAcCag9FShbg%3d%3d!%7d%7d%7d) (Heygate Phase 1)). The overall affordable housing is broken down into 92 social rented, 167 affordable rent and 282 shared ownership.
+The number of social rented units in the development has crept up from [71 units](http://35percent.org/2013-01-13-will-the-planning-committee-see-sense/) since 2013 (plus a further [eight on Trafalgar Place](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!DcDunvLF2MOAcCag9FShbg%3d%3d!%7d%7d%7d) (Heygate Phase 1)). The overall affordable housing is broken down into 92 social rented, 167 affordable rent and 282 shared ownership.
 
 ![](http://35percent.org/img/epark92socialrent.jpg)
 *Figures for the total and affordable units proposed in [planning documents for MP5, the final phase of the development](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!Mz5nzvZX38X%2fWRNbT2Vd6A%3d%3d!%7d%7d%7d)*
