@@ -15,7 +15,7 @@ The number of social rented units in the development has crept up from [71 units
 ![](http://35percent.org/img/epark92socialrent.jpg)
 *Figures for the total and affordable units proposed in [planning documents for MP5, the final phase of the development](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!Mz5nzvZX38X%2fWRNbT2Vd6A%3d%3d!%7d%7d%7d)*
 
-Lendlease now proposes that the completed development will total 2,689 homes.  This is 220 more homes than the numbers agreed by the [planning committee in January 2013](http://moderngov.southwark.gov.uk/mgAi.aspx?ID=27221), which [agreed a development of between 2,300 (min) and 2,469 homes (max)](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!Q7K%2bVQ5GwV3kVWHHRXBCqg%3d%3d!%7d%7d%7d).
+Lendlease's application now anticipates that the completed development will have2,689 homes, 220 more homes than the numbers agreed by the [planning committee in January 2013](http://moderngov.southwark.gov.uk/mgAi.aspx?ID=27221), which [agreed a development of between 2,300 (min) and 2,469 homes (max)](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!Q7K%2bVQ5GwV3kVWHHRXBCqg%3d%3d!%7d%7d%7d).
 
 ![](http://35percent.org/img/orheygate.png)
 *Development description from [planning committee report for outline consent, Jan 2013](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!Q7K%2bVQ5GwV3kVWHHRXBCqg%3d%3d!%7d%7d%7d)*
