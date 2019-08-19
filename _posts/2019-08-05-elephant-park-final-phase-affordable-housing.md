@@ -6,9 +6,9 @@ subtitle: >-
   decrease in affordable
 published: true
 ---
-Heygate estate developer Lendlease proposes building 220 more homes than were originally approved,while providing 29 fewer affordable homes, in the last phase of its [redevelopment of the estate](http://35percent.org/heygate-regeneration-faq), now known as [Elephant Park](http://elephantpark.co.uk). This will bring the total number of homes to 2,689 of which just 92 will be social rent.  
+Developer Lendlease proposes building 2,689 homes on the completed [redevelopment of the Heygate estate](http://35percent.org/heygate-regeneration-faq) - 220 more homes than were originally approved back in 2013, but with twenty-nine fewer affordable homes.  Just 92 of the affordable homes in the redevelopment,now known as [Elephant Park](http://elephantpark.co.uk), will be social rent.  
  
-The proposal is made in the detailed [planning application](https://planning.southwark.gov.uk/online-applications-old/applicationDetails.do?activeTab=makeComment&keyVal=_STHWR_DCAPR_9582742) for the last plot of the scheme (MP5/H7), where Lendlease proposes building 424 new homes. There would be 72 affordable units, made up of 37 shared-ownership, 20 affordable rent and 15 social rent.  There is no proposal for a viability review of the scheme, to maximise the amount of affordable housing.
+The proposal is made in the detailed [planning application](https://planning.southwark.gov.uk/online-applications-old/applicationDetails.do?activeTab=makeComment&keyVal=_STHWR_DCAPR_9582742) for the last plot of the scheme (MP5/H7), where Lendlease proposes building 424 new homes, including 72 affordable units (37 shared-ownership, 20 affordable rent and 15 social rent).  There is no proposal for a viability review of the scheme, to maximise the amount of affordable housing.
 
 The number of social rented units in the development has crept up from [71 units](http://35percent.org/2013-01-13-will-the-planning-committee-see-sense/) since 2013 (plus a further [eight on Trafalgar Place](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!DcDunvLF2MOAcCag9FShbg%3d%3d!%7d%7d%7d) (Heygate Phase 1)). The overall affordable housing is broken down into 92 social rented, 167 affordable rent and 282 shared ownership.
 
