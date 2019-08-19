@@ -2,8 +2,8 @@
 layout: post
 title: Elephant Park MP5 - the final chapter
 subtitle: >-
-  Final phase of Heygate redevelopment proposes increase in homes with decrease
-  in affordable
+  Final phase of Heygate redevelopment proposes increase in homes, but with
+  decrease in affordable
 published: true
 ---
 Heygate estate developer Lendlease proposes building 220 more homes than were originally approved,while providing 29 fewer affordable homes, in the last phase of its [redevelopment of the estate](http://35percent.org/heygate-regeneration-faq). This will bring the total number of homes to 2,689 of which just 92 will be social rent.  
