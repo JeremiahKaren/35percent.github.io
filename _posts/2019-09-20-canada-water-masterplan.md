@@ -1,15 +1,19 @@
 ---
 layout: post
-title: "Canada Water regeneration - 4000 new homes on public land, min affordable housing requirments not met"
-subtitle: "Council set to approve massive Canada Water scheme despite not meeting minimum affordable housing requirements"
+title: >-
+  Canada Water regeneration - 4000 new homes on public land, min affordable
+  housing requirments not met
+subtitle: >-
+  Council set to approve massive Canada Water scheme despite not meeting minimum
+  affordable housing requirements
 published: false
 ---
-Southwark Council's planning committee is set to approve the largest planning application ever submitted in the borough next week. 
+Southwark Council's planning committee is [set to approve](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!XG78U8hptdA1Wd%2brEpqcTA%3d%3d!%7d%7d%7d) the [largest planning application](http://planbuild.southwark.gov.uk/documents/?casereference=18/AP/1604&system=DC) ever submitted in the borough next week. 
 
-The Canada Water masterplan site is the final and largest scheme in the [Council's regeneration of Canada Water](http://35percent.org/canada-water).
+The masterplan site is the final phase and main component of the [Council's regeneration of Canada Water](http://35percent.org/canada-water).
 
 ## A little history
-This huge site comprising approx 7 million sqft of development across 46 acres comprises the Canada Water shopping Centre, the old Daily Mail printworks and the Surrey Quays leisure park.  
+This huge site comprising approx 7 million sqft of development across 21 hectares, comprises the Canada Water shopping Centre, the old Daily Mail printworks and the Surrey Quays leisure park.  
 
 ![](http://crappistmartin.github.io/images/CanadaWaterSiteC.png)
 *Canada Water Shopping Centre (shaded orange), Print Works (shaded green), Leisure park (dotted green)*
@@ -20,8 +24,18 @@ The Council is the freehold owner of the Print Works and the shopping centre for
 British Land is one of the UK’s largest developers. It is formerly run but still partly owned by property magnate Sir John Ritblatt (father of Delancey’s Jamie Ritblatt) and long-standing Tory party donor.
 
 ## Affordable Housing
+The scheme is proposing a maximum of xxxx homes, 35% of which would be affordable. However, the Mayor's London Plan requires 50% affordable housing on public and former industrial land. It also requires a viability review mechanism to ensure that if the scheme turns out to be more viable than predicted then extra affordable housing will be provided - up to the 50% requirement.
 
-[Affordable housing section](https://docdro.id/LfnPTM2) of the contractual agreement between Southwark and development partner British Land has been completely redacted.
+Southwark is proposing to breach this policy requirement, first by discounting the commercial elements of the scheme (office space, retail etc) and by lowering the cap to 40%. 
+
+It justifies this departure from policy requirements on the basis of the 'risk' that British Land's commitment to provide 35% affordable, _"given the current day viability position."_
+
+![](http://35percent.org/img/reviewexception.png)
+
+## The contractual agreement
+It's important to remember that Southwark Council is British Land's development partner in this scheme. There is a lengthy and detailed [contractual agreement](https://www.southwark.gov.uk/regeneration/canada-water?chapter=6) between the parties that was signed over a year ago. 
+
+Unfortunately, the [Affordable housing section](https://docdro.id/LfnPTM2) of the contractual agreement between Southwark and development partner British Land has been completely redacted.
 
 We request that an unredacted version of this is provided to the committee.
 
