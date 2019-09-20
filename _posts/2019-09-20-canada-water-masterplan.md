@@ -10,7 +10,7 @@ published: false
 ---
 Southwark Council's planning committee is [set to approve](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!XG78U8hptdA1Wd%2brEpqcTA%3d%3d!%7d%7d%7d) the [largest planning application](http://planbuild.southwark.gov.uk/documents/?casereference=18/AP/1604&system=DC) ever submitted in the borough next week. 
 
-The masterplan site is the final phase and main component of the [Council's regeneration of Canada Water](http://35percent.org/canada-water).
+The masterplan site is the final phase and main component of the [Council's regeneration of Canada Water](http://35percent.org/canada-water) and comprises a cluster of tall buildings up to 34 storeys.
 
 ## A little history
 This huge site comprising approx 7 million sqft of development across 21 hectares, comprises the Canada Water shopping Centre, the old Daily Mail printworks and the Surrey Quays leisure park.  
@@ -24,7 +24,7 @@ The Council is the freehold owner of the Print Works and the shopping centre for
 British Land is one of the UK’s largest developers. It is formerly run but still partly owned by property magnate Sir John Ritblatt (father of Delancey’s Jamie Ritblatt) and long-standing Tory party donor.
 
 ## Affordable Housing
-The scheme is proposing a maximum of xxxx homes, 35% of which would be affordable. However, the Mayor's London Plan requires 50% affordable housing on public and former industrial land. It also requires a viability review mechanism to ensure that if the scheme turns out to be more viable than predicted then extra affordable housing will be provided - up to the 50% requirement.
+The scheme is proposing a maximum of 4,260 homes, 35% of which would be affordable. However, the Mayor's London Plan requires 50% affordable housing on public and former industrial land. It also requires a viability review mechanism to ensure that if the scheme turns out to be more viable than predicted then extra affordable housing will be provided - up to the 50% requirement.
 
 Southwark is proposing to breach this policy requirement, first by discounting the commercial elements of the scheme (office space, retail etc) and by lowering the cap to 40%. 
 
@@ -45,7 +45,10 @@ Were the scheme to comply with the 50% requirement then it would provide up to a
 
 ## Meanwhile buying land
 Meanwhile the Council is continuing its buying spree of buying land off developers in order to build new Council homes. 
-Last week it [approved the purchase](http://moderngov.southwark.gov.uk/documents/s84621/Report%20593%20Old%20Kent%20Road%20acquisition%20of%20site%20to%20deliver%20new%20Council%20housing.pdf) of its fifth site in the neighbouring Old Kent Rd area[^2]. 
+Last week it [approved the purchase](http://moderngov.southwark.gov.uk/documents/s84621/Report%20593%20Old%20Kent%20Road%20acquisition%20of%20site%20to%20deliver%20new%20Council%20housing.pdf) of its fifth site in the neighbouring Old Kent Rd area[^2].
+
+## Replacement leisure centre
+The existing Seven Islands leisure centre will be demolished and a new leisure centre built as part of the scheme, albeit with a smaller swimming pool. The Council will be funding the construction of this (up to a cap of £35m).
 
 ## Footnotes
 [^1]: See para 34 of [this](http://moderngov.southwark.gov.uk/documents/s74525/Canada%20water%20Report.pdf) council briefing paper.
