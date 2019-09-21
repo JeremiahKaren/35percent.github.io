@@ -32,6 +32,8 @@ It justifies this departure from policy requirements on the basis of the 'risk' 
 
 ![](http://35percent.org/img/reviewexception.png)
 
+Were the scheme to comply with the 50% requirement following the viability review then it would provide up to an extra xxx affordable homes.
+
 ## The contractual agreement
 It's important to remember that Southwark Council is British Land's development partner in this scheme. There is a lengthy and detailed [contractual agreement](https://www.southwark.gov.uk/regeneration/canada-water?chapter=6) between the parties that was signed over a year ago. 
 
@@ -41,7 +43,6 @@ We request that an unredacted version of this is provided to the committee.
 
 ![](http://35percent.org/img/droid.png)
 
-Were the scheme to comply with the 50% requirement then it would provide up to an extra xxx affordable homes.
 
 ## Meanwhile buying land
 Meanwhile the Council is continuing its buying spree of buying land off developers in order to build new Council homes. 
