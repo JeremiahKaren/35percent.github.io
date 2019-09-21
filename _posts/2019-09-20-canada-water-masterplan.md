@@ -1,7 +1,7 @@
 ---
 layout: post
 title: >-
-  Canada Water regeneration - 4000 new homes on public land, min affordable
+  Canada Water regeneration - 4260 new homes on public land, min affordable
   housing requirments not met
 subtitle: >-
   Council set to approve massive Canada Water scheme despite not meeting minimum
