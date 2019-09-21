@@ -19,9 +19,9 @@ This huge site comprising approx 7 million sqft of development across 21 hectare
 The Council is the freehold owner of the Print Works and the shopping centre for which it collects £400k p.a. in rent and 5% of turnover respectively[^1].
 
 ## British Land
-British Land is Southwark's development partner for the scheme and is one of the UK’s largest developers. It is formerly run but still partly owned by property magnate Sir John Ritblat (father of Delancey’s Jamie Ritblat) and one of the Tory party's top 100 donors.
+British Land is Southwark's development partner for the scheme and is one of the UK’s largest developers. It is formerly run but still partly owned by property magnate Sir John Ritblat, father of Delancey’s Jamie Ritblat (see [E&C redevelopment](http://35percent.org/shopping-centre) and its [offshore connections](http://35percent.org/2014-05-05-manx-connections-the-off-shore-home-of-the-elephants-developers/)). The Ritblats are one of the Tory party's top 100 donors.
 
-It was named in the Panama Papers leaks for its [relationship to a network of offshore subsidiaries/parent companies](https://offshoreleaks.icij.org/nodes/80061680).
+Both Delancey and British Land were named in the Panama Papers leaks for their [relationship to a network of offshore subsidiaries/parent companies](https://offshoreleaks.icij.org/nodes/80061680).
 
 ![](http://35percent.org/img/BritishLandPanamaPapers.png)
 *British Land's [network](https://offshoreleaks.icij.org/nodes/80061680) of offshore companies*
