@@ -52,6 +52,10 @@ We request that an unredacted version of this is provided to the committee.
 ## Replacement leisure centre
 The planning committee report makes much of the brand new leisure centre that will be provided as part of the scheme. What it doesn't emphasise is that the existing Seven Islands leisure centre will be demolished and the replacement centre will have a smaller swimming pool. Neither does it mention that the Council will be funding the construction of the new leisure centre (up to a cap of £35m).
 
+## Retailers booted out
+Sounds familiar (E&C shopping centre).
+Tesco has [objected](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!mfBPS4FpNyvJIYiLezGjrA%3d%3d!%7d%7d%7d) to the planning application, arguing that the planning committee report misrepresents its current position.
+
 ## Conclusion
 It's bad enough that Southwark has done a deal to redevelop 21 hectares of its land with a Tory-donating tax-avoiding company. The least it should do is comply with the Mayor's minimum affordable housing/viability review requirements.  
 
