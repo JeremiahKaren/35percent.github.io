@@ -18,10 +18,10 @@ This huge site comprising approx 7 million sqft of development across 21 hectare
 ![](http://crappistmartin.github.io/images/CanadaWaterSiteC.png)
 *Canada Water Shopping Centre (shaded orange), Print Works (shaded green), Leisure park (dotted green)*
 
-The Council is the freehold owner of the Print Works and the shopping centre for which it collects £400k rent and 5% of turnover respectively[^1].
+The Council is the freehold owner of the Print Works and the shopping centre for which it collects £400k p.a. in rent and 5% of turnover respectively[^1].
 
 ## British Land
-British Land is one of the UK’s largest developers. It is formerly run but still partly owned by property magnate Sir John Ritblatt (father of Delancey’s Jamie Ritblatt) and one of the Tory party's top 100 donors.
+British Land is Southwark's development partner for the scheme and is one of the UK’s largest developers. It is formerly run but still partly owned by property magnate Sir John Ritblat (father of Delancey’s Jamie Ritblat) and one of the Tory party's top 100 donors.
 
 It was named in the Panama Papers leaks for its [relationship to a network of offshore subsidiaries/parent companies](https://offshoreleaks.icij.org/nodes/80061680).
 
