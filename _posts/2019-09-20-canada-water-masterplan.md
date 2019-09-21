@@ -21,7 +21,12 @@ This huge site comprising approx 7 million sqft of development across 21 hectare
 The Council is the freehold owner of the Print Works and the shopping centre for which it collects £400k rent and 5% of turnover respectively[^1].
 
 ## British Land
-British Land is one of the UK’s largest developers. It is formerly run but still partly owned by property magnate Sir John Ritblatt (father of Delancey’s Jamie Ritblatt) and long-standing Tory party donor.
+British Land is one of the UK’s largest developers. It is formerly run but still partly owned by property magnate Sir John Ritblatt (father of Delancey’s Jamie Ritblatt) and one of the Tory party's top 100 donors.
+
+It was named in the Panama Papers leaks for its [relationship to a network of offshore subsidiaries/parent companies](https://offshoreleaks.icij.org/nodes/80061680).
+
+![](http://35percent.org/img/BritishLandPanamaPapers.png)
+*British Land's [network](https://offshoreleaks.icij.org/nodes/80061680) of offshore companies*
 
 ## Affordable Housing
 The scheme is proposing a maximum of 4,260 homes, 35% of which would be affordable. However, the Mayor's London Plan requires 50% affordable housing on public and former industrial land. It also requires a viability review mechanism to ensure that if the scheme turns out to be more viable than predicted then extra affordable housing will be provided - up to the 50% requirement.
@@ -48,6 +53,9 @@ We request that an unredacted version of this is provided to the committee.
 
 ## Replacement leisure centre
 The planning committee report makes much of the brand new leisure centre that will be provided as part of the scheme. What it doesn't emphasise is that the existing Seven Islands leisure centre will be demolished and the replacement centre will have a smaller swimming pool. Neither does it mention that the Council will be funding the construction of the new leisure centre (up to a cap of £35m).
+
+## Conclusion
+It's bad enough that Southwark has done a deal to redevelop 21 hectares of its land with a dodgy offshore company. The least it should do is comply with minimum affordable housing policy requirements.  
 
 ## Footnotes
 [^1]: See para 34 of [this](http://moderngov.southwark.gov.uk/documents/s74525/Canada%20water%20Report.pdf) council briefing paper.
