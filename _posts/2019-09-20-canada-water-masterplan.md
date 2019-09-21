@@ -1,11 +1,9 @@
 ---
 layout: post
-title: >-
-  Canada Water regeneration - 4260 new homes on public land, min affordable
-  housing requirments not met
+title: Canada Water regeneration
 subtitle: >-
-  Council set to approve massive Canada Water scheme despite not meeting minimum
-  affordable housing requirements
+  21 hectares of public land, 4260 new homes on public land, affordable housing
+  policy requirements not met.
 published: false
 ---
 Southwark Council's planning committee is [set to approve](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!XG78U8hptdA1Wd%2brEpqcTA%3d%3d!%7d%7d%7d) the [largest planning application](http://planbuild.southwark.gov.uk/documents/?casereference=18/AP/1604&system=DC) ever submitted in the borough next week. 
