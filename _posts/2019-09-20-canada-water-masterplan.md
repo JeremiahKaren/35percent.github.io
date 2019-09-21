@@ -55,7 +55,7 @@ We request that an unredacted version of this is provided to the committee.
 The planning committee report makes much of the brand new leisure centre that will be provided as part of the scheme. What it doesn't emphasise is that the existing Seven Islands leisure centre will be demolished and the replacement centre will have a smaller swimming pool. Neither does it mention that the Council will be funding the construction of the new leisure centre (up to a cap of £35m).
 
 ## Conclusion
-It's bad enough that Southwark has done a deal to redevelop 21 hectares of its land with a dodgy offshore company. The least it should do is comply with minimum affordable housing policy requirements.  
+It's bad enough that Southwark has done a deal to redevelop 21 hectares of its land with a Tory-donating tax-avoiding company. The least it should do is comply with the Mayor's minimum affordable housing/viability review requirements.  
 
 ## Footnotes
 [^1]: See para 34 of [this](http://moderngov.southwark.gov.uk/documents/s74525/Canada%20water%20Report.pdf) council briefing paper.
