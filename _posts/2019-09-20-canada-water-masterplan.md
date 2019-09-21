@@ -34,6 +34,7 @@ Southwark is proposing to breach this policy requirement by discounting the comm
 It justifies this departure from policy requirements on the basis of the 'risk' that British Land's commitment to provide 35% affordable, _"given the current day viability position."_
 
 ![](http://35percent.org/img/reviewexception.png)
+*Extract from the [planning committee report](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!XG78U8hptdA1Wd%2brEpqcTA%3d%3d!%7d%7d%7d)*
 
 Frankly, we find it difficult to understand why Southwark is recommendeding this departure from the Mayor's policy. Its purpose is precisely to ensure an uplift in affordable housing should it turn out that viability positions at planning stage have been overly pessimistic. We say the scheme should comply with the Mayor's 50% policy requirement for the viability review. This would provide circa 420 extra much-needed affordable homes.
 
