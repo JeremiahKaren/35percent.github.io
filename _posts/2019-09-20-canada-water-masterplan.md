@@ -19,12 +19,17 @@ The planning application is in two parts, the first part an outline application 
 
 Apart from its size the Canada Water application is notable in other respects.
 
-Southwark Council is the freehold owner of the Print Works and the Surrey Quays shopping centre (for which it collects £400k p.a. in rent and 5% of turnover respectively[^1]) and under a  Master Development Agreement (MDA) with BL has a  20% interest in the site's development .
+Southwark Council is the freehold owner of the Print Works and the Surrey Quays shopping centre (for which it collects £400k p.a. in rent and 5% of turnover respectively[^1]) and under a  Master Development Agreement (MDA) with BL has a  20% interest in the site's development.
+
+Should BL be granted permission it will be getting a great deal of latitude in the eventual size of the development for for both parts of the application ad 
 
 
 
 ## Affordable Housing
-The scheme is proposing a maximum of 4,260 homes, 35% of which would be affordable. However, the Mayor's London Plan requires 50% affordable housing on public and former industrial land. It also requires a viability review mechanism to ensure that if the scheme turns out to be more viable than predicted then extra affordable housing will be provided - up to the 50% requirement.
+The scheme is proposing a minimum of 2,000, but a possible maximum of 4,000 new homes, 35% of which would be affordable (25% social rent, 10% intermediate housing). This is in line with Southwark's own local plan, but the Mayor's London Plan requires more affordable housing - 50% - on public and former industrial land.  This means that Cananda Water should provide 39% affordable housing, by virtue of the Printworks being industrial land and Rotherhithe Police Station being public land.
+
+
+The London Plan also requires a viability review mechanism to ensure that if the scheme turns out to be more viable (ie profitable) than predicted then extra affordable housing up to the 50% requirement will be provided.
 
 Southwark is proposing to breach this policy requirement by discounting profit from the commercial elements of the viability review of the scheme (office space, retail etc) and by lowering the review's affordable housing requirement to 40%. 
 
