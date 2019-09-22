@@ -32,7 +32,7 @@ Southwark justifies this departure from policy requirements on viability grounds
 
 It is difficult to understand why Southwark agrees to undermine reviews with these compromises.  If the review shows that no extra profit is made, then the developer does not have to provide the extra affordable housing.  If, on the other hand, the review shows enough profit is made to provide 50% affordable housing, then it makes no sense to cap it at 40%.  The cap should be restored to 50% and the profit of the whole scheme, not just the residential element, should be measured - it could give us around 400 extra much-needed affordable homes,if the scheme is built to its maximum extent.
 
-Other factors reinforce the argument for not settling for just 35% affordable housing. BL are receiving a total of £39.1m of public money from the Mayor for Canada Water.  If the Mayor gives grants to developers without ensuring the maximum amounts of affordable housing arre secured, then it simply becomes a subsidy for developers.
+Other factors reinforce the argument for not settling for just 35% affordable housing. BL are receiving a total of £39.1m of public money from the Mayor for Canada Water.  If the Mayor gives grants to developers without ensuring the maximum amounts of affordable housing are secured, then it simply becomes a subsidy for developers.
 
 While the Mayor considers that only the Rotherhithe Police Station is public land, Southwark is in fact the freeholder of the Print Works and the Surrey Quays shopping centre (for which it collects £400k p.a. in rent and 5% of turnover respectively[^1]), as well as being BL's development partner, with a 20% interest in the site's development, under a Master Development Agreement (MDA).
 
