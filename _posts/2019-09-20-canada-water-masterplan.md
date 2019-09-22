@@ -19,11 +19,11 @@ The planning application is in two parts.  The first part is an outline applicat
 
 ## The Affordable Housing
 
-The proposed scheme is for a minimum of 2,000 new homes, rising to a possible 4,000 maximum, 35% of which would be affordable (25% social rent, 10% intermediate housing). This is in line with Southwark's own local plan, but the Mayor's London Plan requires more affordable housing - 50% - on public and former industrial land.  This means that Cananda Water should provide 39% affordable housing, by virtue of the Printworks being industrial land and Rotherhithe Police Station being public land.
+The proposed scheme is for a minimum of 2,000 new homes, rising to a possible 4,000 maximum, 35% of which would be affordable (25% social rent, 10% intermediate housing). This is in line with Southwark's own local plan. 
 
-The London Plan also requires a viability review mechanism to ensure that if the scheme turns out to be more viable (ie profitable) than predicted then extra affordable housing up to the 50% requirement will be provided.
+As well as the local plan the Mayor's London Plan also requires a viability review mechanism to ensure that if the scheme turns out to be more viable (ie profitable) than predicted, then extra affordable housing can be provided, up to a cap of 50%. Canada Water has to be reviewed because at least a quarter of the site is either public or industrial land.  This, according to the Mayor, makes the threshold for Canada Water review 39%, by virtue of the Printworks being industrial land and Rotherhithe Police Station being public land.
 
-Southwark has compromised with BL on both these points, in breach of housing policy.  It is not insisting on 39% affordable housing as the starting point for the scheme, it is allowing a 40% cap on any increase above 35%, as well as allowing BL to discount any profit from the commercial elements (office space, retail etc) of  the scheme from any viability review. 
+Southwark has compromised with BL on the review mechanism, in breach of housing policy.  It is allowing a 40% cap on any increase in affordable housing, instead of 50%, as well as allowing BL to discount any profit from the commercial elements (office space, retail etc) of  the scheme from any viability review. 
 
 Southwark justifies this departure from policy requirements on viability grounds.  It agrees with BL that the scheme can only viably support 11% affordable housing and thus BL is incurring a 'risk' by committing to 35%  _"given the current day viability position."_ This is a familiar line of argument, recently deployed by developers of major Old Kent Rd schemes, where the developer says a scheme is unviable, agrees nonetheless to provide 35% affordable housing, but only if there is no review or conditions are placed on the review.  The true profitability of the scheme is therefore never established.  
 
@@ -34,9 +34,9 @@ It is difficult to understand why Southwark agrees to undermine reviews with the
 
 Other factors reinforce the argument for not settling for just 35% affordable housing. BL are receiving a total of £39.1m of public money from the Mayor for Canada Water.  If the Mayor gives grants to developers without ensuring the maximum amounts of affordable housing is secured, then it simply becomes a subsidy for developers.
 
-Southwark is also the freeholder of the Print Works and the Surrey Quays shopping centre (for which it collects £400k p.a. in rent and 5% of turnover respectively[^1]), as well as being BL's development partner, with a 20% interest in the site's development, under a Master Development Agreement (MDA).
+While the Mayor considers that only the Rotherhithe Police Station is public land, Southwark is in fact the freeholder of the Print Works and the Surrey Quays shopping centre (for which it collects £400k p.a. in rent and 5% of turnover respectively[^1]), as well as being BL's development partner, with a 20% interest in the site's development, under a Master Development Agreement (MDA).
 
-Finding space for new affordable homes is becoming increasingly difficult. Last week Southwark [approved the purchase](http://moderngov.southwark.gov.uk/documents/s84621/Report%20593%20Old%20Kent%20Road%20acquisition%20of%20site%20to%20deliver%20new%20Council%20housing.pdf) of its fifth site in the neighbouring Old Kent Rd area in the last two years alone[^2].
+Finding space for new affordable homes is also becoming increasingly difficult. Last week Southwark [approved the purchase](http://moderngov.southwark.gov.uk/documents/s84621/Report%20593%20Old%20Kent%20Road%20acquisition%20of%20site%20to%20deliver%20new%20Council%20housing.pdf) of its fifth site in the neighbouring Old Kent Rd area in the last two years alone[^2].
 
 It would therefore be reasonable to expect that maximising affordable housing on the largest development site in the borough would be Southwark's top priority on Canada Water, the largest of many large development sites in the borough and not just settling for the minimum its housing policy requires. 
 
