@@ -10,8 +10,8 @@ The masterplan site is the final phase and main component of the [Council's rege
 
 The planning application is in two parts.  The first part is an outline application for between 2,000 and 4,000 new homes, with other non-residential uses, while the second, much smaller part, is a detailed proposal for 265 new homes, a leisure centre (a replacement for the Seven Islands centre), plus a petrol filling station. 
 
-![](http://crappistmartin.github.io/images/CanadaWaterSiteC.png)
-*Canada Water Shopping Centre (shaded orange), Print Works (shaded green), Leisure park (dotted green)*
+![](http://35percent.org/img/cwmasterplansite.jpg)
+*Canada Water Shopping Centre (shaded blue), Print Works (shaded green), Leisure park (shaded purple)*
 
 ## The Affordable Housing
 
@@ -53,4 +53,4 @@ Both Delancey and British Land were named in the Panama Papers leaks for their [
 <meta name="twitter:site" content="@35percent_EAN">
 <meta name="twitter:title" content="Canada Water regeneration finally up for approval">
 <meta name="twitter:description" content="4000 new homes on 15 hectares of public land but affordable housing not policy compliant.">
-<meta name="twitter:image" content="http://crappistmartin.github.io/images/CanadaWaterSiteC.png">
+<meta name="twitter:image" content="http://35percent.org/img/cwmasterplansite.jpg">
