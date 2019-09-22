@@ -1,7 +1,9 @@
 ---
 layout: post
-title: "Canada Water regeneration finally up for approval"
-subtitle: "15 hectares of public land, 4000 new homes but affordable housing policy requirements not met."
+title: Canada Water regeneration finally up for approval
+subtitle: >-
+  15 hectares of public land, 4000 new homes but affordable housing policy
+  requirements not met.
 published: true
 ---
 Southwark Council's planning committee is [set to approve](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!XG78U8hptdA1Wd%2brEpqcTA%3d%3d!%7d%7d%7d) the [largest planning application](http://planbuild.southwark.gov.uk/documents/?casereference=18/AP/1604&system=DC) ever submitted in the borough by the end of the month, when it considers the redevelopment of Canada Water. This huge 21 hectare site includes the Surrey Quays shopping centre and leisure park and the old Daily Mail printworks.  Developer British Land's (BL) proposals for about 7 million sq ft of development will be considered over two planning meetings on the 25 and 30 September.
@@ -17,11 +19,11 @@ The planning application is in two parts.  The first part is an outline applicat
 
 The proposed scheme is for a minimum of 2,000 new homes, rising to a possible 4,000 maximum, 35% of which would be affordable (25% social rent, 10% intermediate housing). This is in line with Southwark's own local plan. 
 
-As well as the local plan requirement, the Mayor's London Plan requires a viability review mechanism, to ensure that if a scheme turns out to be more profitable than predicted, then extra affordable housing can be provided, up to a cap of 50%. Canada Water has to be reviewed because at least a quarter of the site is either public or industrial land.  This, according to the Mayor, means that the review threshold is 39%, by virtue of the Printworks being industrial land and Rotherhithe Police Station being public land.
+As well as the local plan requirement, though, the Mayor's London Plan requires a viability review mechanism, to ensure that if a scheme turns out to be more profitable than predicted, then extra affordable housing can be provided, up to a cap of 50%. Canada Water has to be reviewed because at least a quarter of the site is either public or industrial land, so more affordable housing is expected. 
 
 But Southwark has compromised with BL on the review mechanism, in breach of housing policy.  It is allowing a 40% cap on any increase in affordable housing, instead of 50%, as well as allowing BL to discount any profit from the commercial elements (office space, retail etc) of  the scheme from any viability review. 
 
-Southwark justifies this departure from policy requirements on viability grounds.  It agrees with BL that the scheme can only viably support 11% affordable housing and thus BL is incurring a 'risk' by committing to 35%  _"given the current day viability position."_ This is a familiar line of argument, recently deployed by developers of major Old Kent Rd schemes.  Developers claim a scheme is unviable, while agreeing nonetheless to provide 35% affordable housing, but only if there is no review or conditions are placed on the review.  The true profitability of the scheme is therefore never established.  
+Southwark justifies this departure from policy requirements on viability grounds.  It agrees with BL's claim that the scheme can only viably support 11% affordable housing and thus BL is incurring a 'risk' by committing to 35%  _"given the current day viability position."_ This is a familiar line of argument, recently deployed by developers of major Old Kent Rd schemes.  Developers claim a scheme is unviable, while agreeing nonetheless to provide 35% affordable housing, but only if there is no review or conditions are placed on the review.  The true profitability of the scheme is therefore never established.  
 
 ![](http://35percent.org/img/reviewexception.png)
 *Extract from the [planning committee report](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!XG78U8hptdA1Wd%2brEpqcTA%3d%3d!%7d%7d%7d)*
