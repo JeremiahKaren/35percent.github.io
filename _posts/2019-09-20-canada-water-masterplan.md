@@ -17,36 +17,35 @@ The planning application is in two parts, the first part an outline application 
 ![](http://crappistmartin.github.io/images/CanadaWaterSiteC.png)
 *Canada Water Shopping Centre (shaded orange), Print Works (shaded green), Leisure park (dotted green)*
 
-Apart from its size the Canada Water application is notable in other respects.
+## The Affordable Housing
 
-Southwark Council is the freehold owner of the Print Works and the Surrey Quays shopping centre (for which it collects £400k p.a. in rent and 5% of turnover respectively[^1]) and under a  Master Development Agreement (MDA) with BL has a  20% interest in the site's development.
-
-Should BL be granted permission it will be getting a great deal of latitude in the eventual size of the development for for both parts of the application ad 
-
-
-
-## Affordable Housing
 The scheme is proposing a minimum of 2,000, but a possible maximum of 4,000 new homes, 35% of which would be affordable (25% social rent, 10% intermediate housing). This is in line with Southwark's own local plan, but the Mayor's London Plan requires more affordable housing - 50% - on public and former industrial land.  This means that Cananda Water should provide 39% affordable housing, by virtue of the Printworks being industrial land and Rotherhithe Police Station being public land.
 
 The London Plan also requires a viability review mechanism to ensure that if the scheme turns out to be more viable (ie profitable) than predicted then extra affordable housing up to the 50% requirement will be provided.
 
 Southwark has compromised with BL on both these points, in breach of housing policy.  It is not insisting on 39% affordable housing as the starting point for the scheme, it is allowing a 40% cap on any increase above 35%, as well as allowing BL to discount any profit from the commercial elements (office space, retail etc) of  the scheme from any viability review. 
 
-Southwark justifies this departure from policy requirements on the basis of the 'risk' that British Land's committment to provide 35% affordable incurs, _"given the current day viability position."_
+Southwark justifies this departure from policy requirements on viability grounds.  It agrees with BL that the scheme can only viably support 11% affordable housing and thus BL is incurring a 'risk' by committing to 35%  _"given the current day viability position."_ This is a familiar line of argument, recently deployed by developers of major Old Kent Rd schemes, where the developer says a scheme is unviable, agrees nonetheless to provide 35% affordable housing, but only if there is no review or conditions are placed on the review.  The true profitability of the scheme is therefore never established.  
 
 ![](http://35percent.org/img/reviewexception.png)
 *Extract from the [planning committee report](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!XG78U8hptdA1Wd%2brEpqcTA%3d%3d!%7d%7d%7d)*
 
-Frankly, we find it difficult to understand why Southwark is recommendeding this departure from the Mayor's policy. Its purpose is precisely to ensure an uplift in affordable housing should it turn out that viability positions at planning stage have been overly pessimistic. We say the scheme should comply with the Mayor's 50% policy requirement for the viability review. This would provide circa 420 extra much-needed affordable homes.
+It is difficult to understand why Southwark agrees to undermine reviews with these compromises.  If the review shows that no extra profit is made, then the developer does not have to provide the extra affordable housing.  If, on the other hand, the review shows enough profit is made to provide 50% affordable housing, then it makes no sense to cap it at 40%.  The cap should be restored to 50% and the profit of the whole scheme, not just the residential element, should be measured - it could give us around 400 extra much-needed affordable homes,if the scheme is built to its maximum extent.
+
+Other factors reinforce the argument for not settling for just 35% affordable housing. BL are receiving a total of £39.1m of public money from the Mayor for Canada Water.  If the Mayor gives grants to developers without ensuring the maximum amounts of affordable housing is secured, then it simply becomes a subsidy for developers.
+
+Southwark is also the freeholder of the Print Works and the Surrey Quays shopping centre (for which it collects £400k p.a. in rent and 5% of turnover respectively[^1]).  This apparently does not qualify the site as public land; nonetheless most people would expect 
+
+as well as being BL's development partner
+
 
 Finding space for new affordable homes is becoming increasingly difficult. The more affordable housing provided on this site, the less the Council will need to buy land off developers to build new Council homes. Last week it [approved the purchase](http://moderngov.southwark.gov.uk/documents/s84621/Report%20593%20Old%20Kent%20Road%20acquisition%20of%20site%20to%20deliver%20new%20Council%20housing.pdf) of its fifth site in the neighbouring Old Kent Rd area in the last two years alone[^2].
 
 ## The contractual agreement
-It's important to remember that Southwark Council is British Land's development partner in this scheme. There is a lengthy and detailed [contractual agreement](https://www.southwark.gov.uk/regeneration/canada-water?chapter=6) between the parties that was signed over a year ago. 
 
-Unfortunately, the [Affordable housing section](https://docdro.id/LfnPTM2) of the partnership agreement between Southwark and development partner British Land has been completely redacted.
+Southwark Council is BL's development partner in this scheme.  Southwark Council is the freehold owner of the Print Works and the Surrey Quays shopping centre (for which it collects £400k p.a. in rent and 5% of turnover respectively[^1]) and under a  Master Development Agreement (MDA)has a  20% interest in the site's development.
 
-We request that an unredacted version of this is provided to the committee.
+There is a lengthy and detailed [contractual agreement](https://www.southwark.gov.uk/regeneration/canada-water?chapter=6) between the parties that was signed over a year ago.  Unfortunately, the [Affordable housing section](https://docdro.id/LfnPTM2) of the partnership agreement between Southwark and development partner British Land has been completely redacted.
 
 ![](http://35percent.org/img/cwdpa.png)
 *[Extract](https://docdro.id/LfnPTM2) from the [redacted partnership agreement](https://www.southwark.gov.uk/regeneration/canada-water?chapter=6)*
@@ -65,10 +64,6 @@ Both Delancey and British Land were named in the Panama Papers leaks for their [
 
 ![](http://35percent.org/img/BritishLandPanamaPapers.png)
 *British Land's [network](https://offshoreleaks.icij.org/nodes/80061680) of offshore companies*
-
-
-## Conclusion
-It's bad enough that Southwark has done a deal to redevelop 21 hectares of its land with a Tory-donating tax-avoiding company. The least it should do is comply with the Mayor's minimum affordable housing/viability review requirements.  
 
 ## Footnotes
 [^1]: See para 34 of [this](http://moderngov.southwark.gov.uk/documents/s74525/Canada%20water%20Report.pdf) council briefing paper.
