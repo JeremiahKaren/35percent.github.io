@@ -38,7 +38,7 @@ It justifies this departure from policy requirements on the basis of the 'risk' 
 
 Frankly, we find it difficult to understand why Southwark is recommendeding this departure from the Mayor's policy. Its purpose is precisely to ensure an uplift in affordable housing should it turn out that viability positions at planning stage have been overly pessimistic. We say the scheme should comply with the Mayor's 50% policy requirement for the viability review. This would provide circa 420 extra much-needed affordable homes.
 
-Finding space for new affordable homes is becoming increasingly difficult. The more affordable housing provided on this site, the less the Council will need to buy land off developers to build new Council homes. Last week it [approved the purchase](http://moderngov.southwark.gov.uk/documents/s84621/Report%20593%20Old%20Kent%20Road%20acquisition%20of%20site%20to%20deliver%20new%20Council%20housing.pdf) of its fifth site in the neighbouring Old Kent Rd area[^2] in the last two years alone.
+Finding space for new affordable homes is becoming increasingly difficult. The more affordable housing provided on this site, the less the Council will need to buy land off developers to build new Council homes. Last week it [approved the purchase](http://moderngov.southwark.gov.uk/documents/s84621/Report%20593%20Old%20Kent%20Road%20acquisition%20of%20site%20to%20deliver%20new%20Council%20housing.pdf) of its fifth site in the neighbouring Old Kent Rd area in the last two years alone[^2].
 
 ## The contractual agreement
 It's important to remember that Southwark Council is British Land's development partner in this scheme. There is a lengthy and detailed [contractual agreement](https://www.southwark.gov.uk/regeneration/canada-water?chapter=6) between the parties that was signed over a year ago. 
@@ -48,7 +48,7 @@ Unfortunately, the [Affordable housing section](https://docdro.id/LfnPTM2) of th
 We request that an unredacted version of this is provided to the committee.
 
 ![](http://35percent.org/img/cwdpa.png)
-*[Extract](https://docdro.id/LfnPTM2) from the redacted partnership agreement](https://www.southwark.gov.uk/regeneration/canada-water?chapter=6)*
+*[Extract](https://docdro.id/LfnPTM2) from the [redacted partnership agreement](https://www.southwark.gov.uk/regeneration/canada-water?chapter=6)*
 
 ## Replacement leisure centre
 The planning committee report makes much of the brand new leisure centre that will be provided as part of the scheme. What it doesn't emphasise is that the existing Seven Islands leisure centre will be demolished and the replacement centre will have a smaller swimming pool. Neither does it mention that the Council will be funding the construction of the new leisure centre (up to a cap of £35m).
