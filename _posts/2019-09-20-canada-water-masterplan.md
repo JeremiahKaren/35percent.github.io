@@ -32,7 +32,7 @@ The London Plan also requires a viability review mechanism to ensure that if the
 
 Southwark has compromised with BL on both these points, in breach of housing policy.  It is not insisting on 39% affordable housing as the starting point for the scheme, it is allowing a 40% cap on any increase above 35%, as well as allowing BL to discount any profit from the commercial elements (office space, retail etc) of  the scheme from any viability review. 
 
-It justifies this departure from policy requirements on the basis of the 'risk' that British Land's commitment to provide 35% affordable, _"given the current day viability position."_
+Southwark justifies this departure from policy requirements on the basis of the 'risk' that British Land's committment to provide 35% affordable incurs, _"given the current day viability position."_
 
 ![](http://35percent.org/img/reviewexception.png)
 *Extract from the [planning committee report](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!XG78U8hptdA1Wd%2brEpqcTA%3d%3d!%7d%7d%7d)*
