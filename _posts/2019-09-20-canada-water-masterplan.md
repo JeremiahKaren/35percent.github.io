@@ -19,7 +19,7 @@ The planning application is in two parts.  The first part is an outline applicat
 
 ## The Affordable Housing
 
-The proposed scheme is for a minimum of 2,000 new homes, rising to a possible maximum of 4,000, 35% of which would be affordable (25% social rent, 10% intermediate housing). This is in line with Southwark's own local plan, but the Mayor's London Plan requires more affordable housing - 50% - on public and former industrial land.  This means that Cananda Water should provide 39% affordable housing, by virtue of the Printworks being industrial land and Rotherhithe Police Station being public land.
+The proposed scheme is for a minimum of 2,000 new homes, rising to a possible 4,000 maximum, 35% of which would be affordable (25% social rent, 10% intermediate housing). This is in line with Southwark's own local plan, but the Mayor's London Plan requires more affordable housing - 50% - on public and former industrial land.  This means that Cananda Water should provide 39% affordable housing, by virtue of the Printworks being industrial land and Rotherhithe Police Station being public land.
 
 The London Plan also requires a viability review mechanism to ensure that if the scheme turns out to be more viable (ie profitable) than predicted then extra affordable housing up to the 50% requirement will be provided.
 
