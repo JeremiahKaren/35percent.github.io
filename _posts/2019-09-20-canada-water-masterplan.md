@@ -10,7 +10,7 @@ Southwark Council's planning committee is [set to approve](http://planbuild.sout
 
 The masterplan site is the final phase and main component of the [Council's regeneration of Canada Water](http://35percent.org/canada-water) and comprises a cluster of tall buildings up to 34 storeys, with a mix of residential, retail, office, workspace and leisure uses.  It will include a hotel, student accommodation, cinema and community facilities.
 
-The planning application is in two parts.  The first part is an outline application for between 2,000 and 4,000 new homes, while the second, much smaller part, is a detailed proposal for 265 new homes, across two plots, a leisure centre (a replacement for the Seven Islands centre) on another, plus a petrol filling station on a fourth. 
+The planning application is in two parts.  The first part is an outline application for between 2,000 and 4,000 new homes, while the second, much smaller part, is a detailed proposal for 265 new homes,a leisure centre (a replacement for the Seven Islands centre), plus a petrol filling station on a fourth. 
 
   
 
@@ -19,7 +19,7 @@ The planning application is in two parts.  The first part is an outline applicat
 
 ## The Affordable Housing
 
-The scheme is proposing a minimum of 2,000, but a possible maximum of 4,000 new homes, 35% of which would be affordable (25% social rent, 10% intermediate housing). This is in line with Southwark's own local plan, but the Mayor's London Plan requires more affordable housing - 50% - on public and former industrial land.  This means that Cananda Water should provide 39% affordable housing, by virtue of the Printworks being industrial land and Rotherhithe Police Station being public land.
+The scheme proposed is for a minimum of 2,000 new homes, rising to a possible maximum of 4,000, 35% of which would be affordable (25% social rent, 10% intermediate housing). This is in line with Southwark's own local plan, but the Mayor's London Plan requires more affordable housing - 50% - on public and former industrial land.  This means that Cananda Water should provide 39% affordable housing, by virtue of the Printworks being industrial land and Rotherhithe Police Station being public land.
 
 The London Plan also requires a viability review mechanism to ensure that if the scheme turns out to be more viable (ie profitable) than predicted then extra affordable housing up to the 50% requirement will be provided.
 
