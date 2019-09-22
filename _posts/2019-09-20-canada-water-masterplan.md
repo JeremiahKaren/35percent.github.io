@@ -19,7 +19,7 @@ The planning application is in two parts, the first part an outline application 
 
 Apart from its size the Canada Water application is notable in other respects.
 
-Southwark Council is the freehold owner of the Print Works and the Surrey Quays shopping centre (for which it collects £400k p.a. in rent and 5% of turnover respectively[^1]) and has a 20% interest in the site's development of the site under a  Master Development Agreement (MDA) with BL.
+Southwark Council is the freehold owner of the Print Works and the Surrey Quays shopping centre (for which it collects £400k p.a. in rent and 5% of turnover respectively[^1]) and under a  Master Development Agreement (MDA) with BL has a  20% interest in the site's development .
 
 
 
