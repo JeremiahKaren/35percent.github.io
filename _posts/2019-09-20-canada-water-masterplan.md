@@ -29,7 +29,7 @@ Both Delancey and British Land were named in the Panama Papers leaks for their [
 ## Affordable Housing
 The scheme is proposing a maximum of 4,260 homes, 35% of which would be affordable. However, the Mayor's London Plan requires 50% affordable housing on public and former industrial land. It also requires a viability review mechanism to ensure that if the scheme turns out to be more viable than predicted then extra affordable housing will be provided - up to the 50% requirement.
 
-Southwark is proposing to breach this policy requirement by discounting the commercial elements of the scheme (office space, retail etc) and by lowering the cap to 40%. 
+Southwark is proposing to breach this policy requirement by discounting profit from the commercial elements of the viability review of the scheme (office space, retail etc) and by lowering the review's affordable housing requirement to 40%. 
 
 It justifies this departure from policy requirements on the basis of the 'risk' that British Land's commitment to provide 35% affordable, _"given the current day viability position."_
 
