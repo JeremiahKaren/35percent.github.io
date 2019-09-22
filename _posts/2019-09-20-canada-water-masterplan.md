@@ -34,7 +34,7 @@ It is difficult to understand why Southwark agrees to undermine reviews with the
 
 Other factors reinforce the argument for not settling for just 35% affordable housing. BL are receiving a total of £39.1m of public money from the Mayor for Canada Water.  If the Mayor gives grants to developers without ensuring the maximum amounts of affordable housing are secured, then it simply becomes a subsidy for developers.
 
-While the Mayor considers that only the Rotherhithe Police Station is public land, Southwark is in fact the freeholder of the Print Works and the Surrey Quays shopping centre (for which it collects £400k p.a. in rent and 5% of turnover respectively[^1]), as well as being BL's development partner, with a 20% interest in the site's development, under a Master Development Agreement (MDA).
+While the Mayor considers that only the Rotherhithe Police Station is public land, Southwark is in fact the freeholder of 15 hectares of the site - the Print Works and the Surrey Quays shopping centre (for which it collects £400k p.a. in rent and 5% of turnover respectively[^1]), as well as being BL's development partner, with a 20% interest in the site's development, under a Master Development Agreement (MDA).
 
 Finding space for new affordable homes is also becoming increasingly difficult. Last week Southwark [approved the purchase](http://moderngov.southwark.gov.uk/documents/s84621/Report%20593%20Old%20Kent%20Road%20acquisition%20of%20site%20to%20deliver%20new%20Council%20housing.pdf) of its fifth site in the neighbouring Old Kent Rd area in the last two years alone[^2].
 
