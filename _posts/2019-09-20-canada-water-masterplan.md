@@ -6,7 +6,7 @@ subtitle: >-
   policy requirements not met.
 published: false
 ---
-Southwark Council's planning committee is [set to approve](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!XG78U8hptdA1Wd%2brEpqcTA%3d%3d!%7d%7d%7d) the [largest planning application](http://planbuild.southwark.gov.uk/documents/?casereference=18/AP/1604&system=DC) ever submitted in the borough by the end of the month, when it considers the redevelopment of Canada Water. This huge 21 hectare site includes the Canada Water shopping Centre, the old Daily Mail printworks and the Surrey Quays leisure park.  Developer British Land proposals for about 7 million sq ft of development will be considered over two planning meetings on the 25 and 30 September.
+Southwark Council's planning committee is [set to approve](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!XG78U8hptdA1Wd%2brEpqcTA%3d%3d!%7d%7d%7d) the [largest planning application](http://planbuild.southwark.gov.uk/documents/?casereference=18/AP/1604&system=DC) ever submitted in the borough by the end of the month, when it considers the redevelopment of Canada Water. This huge 21 hectare site includes the Canada Water shopping Centre, the old Daily Mail printworks and the Surrey Quays leisure park.  Developer British Land (BL) proposals for about 7 million sq ft of development will be considered over two planning meetings on the 25 and 30 September.
 
 The masterplan site is the final phase and main component of the [Council's regeneration of Canada Water](http://35percent.org/canada-water) and comprises a cluster of tall buildings up to 34 storeys, with a mix of residential, retail, office, workspace and leisure uses.  It will include a hotel, student accommodation, cinema and community facilities.
 
@@ -19,7 +19,7 @@ The planning application is in two parts, the first part an outline application 
 
 Apart from its size the Canada Water application is notable in other respects.
 
-Southwark Council is itself the freehold owner of the Print Works and the Surrey Quays shopping centre for which it collects £400k p.a. in rent and 5% of turnover respectively[^1].  Southwark also has a 20% interest in the development of the site under a  Master Development Agreement (MDA) with BL.
+Southwark Council is the freehold owner of the Print Works and the Surrey Quays shopping centre (for which it collects £400k p.a. in rent and 5% of turnover respectively[^1]) and has a 20% interest in the site's development of the site under a  Master Development Agreement (MDA) with BL.
 
 
 
