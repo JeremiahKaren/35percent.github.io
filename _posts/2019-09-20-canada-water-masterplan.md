@@ -6,19 +6,20 @@ subtitle: >-
   policy requirements not met.
 published: false
 ---
-Southwark Council's planning committee is [set to approve](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!XG78U8hptdA1Wd%2brEpqcTA%3d%3d!%7d%7d%7d) the [largest planning application](http://planbuild.southwark.gov.uk/documents/?casereference=18/AP/1604&system=DC) ever submitted in the borough next week. 
+Southwark Council's planning committee is [set to approve](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!XG78U8hptdA1Wd%2brEpqcTA%3d%3d!%7d%7d%7d) the [largest planning application](http://planbuild.southwark.gov.uk/documents/?casereference=18/AP/1604&system=DC) ever submitted in the borough by the end of the month, when developer British Land's proposals for the redevelopment of Canada Water will be considered over two meetings on the 25 and 30 September.
 
 The masterplan site is the final phase and main component of the [Council's regeneration of Canada Water](http://35percent.org/canada-water) and comprises a cluster of tall buildings up to 34 storeys.
 
-## 
-This huge site comprising approx 7 million sqft of development across 21 hectares, comprises the Canada Water shopping Centre, the old Daily Mail printworks and the Surrey Quays leisure park.  
+This huge site comprising approx 7 million sqft of development across 21 hectares, includes the Canada Water shopping Centre, the old Daily Mail printworks and the Surrey Quays leisure park.  
 
 ![](http://crappistmartin.github.io/images/CanadaWaterSiteC.png)
 *Canada Water Shopping Centre (shaded orange), Print Works (shaded green), Leisure park (dotted green)*
 
-The Council is the freehold owner of the Print Works and the shopping centre for which it collects £400k p.a. in rent and 5% of turnover respectively[^1].
+The Council is the freehold owner of the Print Works and the Surrey Quays shopping centre for which it collects £400k p.a. in rent and 5% of turnover respectively[^1].  Southwark also has a 20% interest in the development of the site British Land has an ownership interest in the entire site. A Master Development Agreement (MDA) was signed between the council and BL in May
+2018 which, once unconditional, would effectively merge the landholding interests, and
+give the council a 20% interest in the entire site.
 
-## A little history British Land
+## A little history - British Land
 British Land is Southwark's development partner for the scheme and is one of the UK’s largest developers. It is formerly run but still partly owned by property magnate Sir John Ritblat, father of Delancey’s Jamie Ritblat (see [E&C redevelopment](http://35percent.org/shopping-centre) and its [offshore connections](http://35percent.org/2014-05-05-manx-connections-the-off-shore-home-of-the-elephants-developers/)). The Ritblats are one of the Tory party's top 100 donors.
 
 Both Delancey and British Land were named in the Panama Papers leaks for their [relationship to a network of offshore subsidiaries/parent companies](https://offshoreleaks.icij.org/nodes/80061680).
