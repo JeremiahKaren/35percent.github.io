@@ -6,7 +6,7 @@ subtitle: >-
   policy requirements not met.
 published: false
 ---
-Southwark Council's planning committee is [set to approve](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!XG78U8hptdA1Wd%2brEpqcTA%3d%3d!%7d%7d%7d) the [largest planning application](http://planbuild.southwark.gov.uk/documents/?casereference=18/AP/1604&system=DC) ever submitted in the borough by the end of the month, when it considers the redevelopment of Canada Water. This huge 21 hectare site includes the Surrrey Quays shopping Centre and leisure park and the old Daily Mail printworks.  Developer British Land's (BL) proposals for about 7 million sq ft of development will be considered over two planning meetings on the 25 and 30 September.
+Southwark Council's planning committee is [set to approve](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!XG78U8hptdA1Wd%2brEpqcTA%3d%3d!%7d%7d%7d) the [largest planning application](http://planbuild.southwark.gov.uk/documents/?casereference=18/AP/1604&system=DC) ever submitted in the borough by the end of the month, when it considers the redevelopment of Canada Water. This huge 21 hectare site includes the Surrrey Quays shopping centre and leisure park and the old Daily Mail printworks.  Developer British Land's (BL) proposals for about 7 million sq ft of development will be considered over two planning meetings on the 25 and 30 September.
 
 The masterplan site is the final phase and main component of the [Council's regeneration of Canada Water](http://35percent.org/canada-water) and comprises a cluster of tall buildings up to 34 storeys, with a mix of residential, retail, office, workspace and leisure uses.  It will include a hotel, student accommodation, cinema and community facilities.
 
@@ -39,27 +39,6 @@ Southwark is also the freeholder of the Print Works and the Surrey Quays shoppin
 Finding space for new affordable homes is becoming increasingly difficult. Last week Southwark [approved the purchase](http://moderngov.southwark.gov.uk/documents/s84621/Report%20593%20Old%20Kent%20Road%20acquisition%20of%20site%20to%20deliver%20new%20Council%20housing.pdf) of its fifth site in the neighbouring Old Kent Rd area in the last two years alone[^2].
 
 It would therefore be reasonable to expect that maximising affordable housing on the largest development site in the borough would be Southwark's top priority on Canada Water, the largest of many large development sites in the borough and not just settling for the minimum its housing policy requires. 
-
-
-
-
-
-
-## The contractual agreement
-
-Southwark Council is BL's development partner in this scheme.  Southwark Council is the freehold owner of the Print Works and the Surrey Quays shopping centre (for which it collects £400k p.a. in rent and 5% of turnover respectively[^1]) and under a  Master Development Agreement (MDA)has a  20% interest in the site's development.
-
-There is a lengthy and detailed [contractual agreement](https://www.southwark.gov.uk/regeneration/canada-water?chapter=6) between the parties that was signed over a year ago.  Unfortunately, the [Affordable housing section](https://docdro.id/LfnPTM2) of the partnership agreement between Southwark and development partner British Land has been completely redacted.
-
-![](http://35percent.org/img/cwdpa.png)
-*[Extract](https://docdro.id/LfnPTM2) from the [redacted partnership agreement](https://www.southwark.gov.uk/regeneration/canada-water?chapter=6)*
-
-## Replacement leisure centre
-The planning committee report makes much of the brand new leisure centre that will be provided as part of the scheme. What it doesn't emphasise is that the existing Seven Islands leisure centre will be demolished and the replacement centre will have a smaller swimming pool. Neither does it mention that the Council will be funding the construction of the new leisure centre (up to a cap of £35m).
-
-## Retailers booted out
-Sounds familiar (E&C shopping centre).
-Tesco has [objected](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!mfBPS4FpNyvJIYiLezGjrA%3d%3d!%7d%7d%7d) to the planning application, arguing that the planning committee report misrepresents its current position.
 
 ## A little history - British Land
 British Land is Southwark's development partner for the scheme and is one of the UK’s largest developers. It is formerly run but still partly owned by property magnate Sir John Ritblat, father of Delancey’s Jamie Ritblat (see [E&C redevelopment](http://35percent.org/shopping-centre) and its [offshore connections](http://35percent.org/2014-05-05-manx-connections-the-off-shore-home-of-the-elephants-developers/)). The Ritblats are one of the Tory party's top 100 donors.
