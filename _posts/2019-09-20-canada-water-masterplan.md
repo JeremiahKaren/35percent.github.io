@@ -21,7 +21,7 @@ The planning application is in two parts.  The first part is an outline applicat
 
 The proposed scheme is for a minimum of 2,000 new homes, rising to a possible 4,000 maximum, 35% of which would be affordable (25% social rent, 10% intermediate housing). This is in line with Southwark's own local plan. 
 
-As well as the local plan the Mayor's London Plan requires a viability review mechanism, to ensure that if the scheme turns out to be more profitable than predicted, then extra affordable housing can be provided, up to a cap of 50%. Canada Water has to be reviewed because at least a quarter of the site is either public or industrial land.  This, according to the Mayor, makes the threshold for Canada Water review 39%, by virtue of the Printworks being industrial land and Rotherhithe Police Station being public land.
+As well as the local plan the Mayor's London Plan requires a viability review mechanism, to ensure that if a scheme turns out to be more profitable than predicted, then extra affordable housing can be provided, up to a cap of 50%. Canada Water has to be reviewed because at least a quarter of the site is either public or industrial land.  This, according to the Mayor, makes the threshold for Canada Water review 39%, by virtue of the Printworks being industrial land and Rotherhithe Police Station being public land.
 
 Southwark has compromised with BL on the review mechanism, in breach of housing policy.  It is allowing a 40% cap on any increase in affordable housing, instead of 50%, as well as allowing BL to discount any profit from the commercial elements (office space, retail etc) of  the scheme from any viability review. 
 
