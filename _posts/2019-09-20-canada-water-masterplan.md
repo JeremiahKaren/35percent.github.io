@@ -10,7 +10,7 @@ Southwark Council's planning committee is [set to approve](http://planbuild.sout
 
 The masterplan site is the final phase and main component of the [Council's regeneration of Canada Water](http://35percent.org/canada-water) and comprises a cluster of tall buildings up to 34 storeys, with a mix of residential, retail, office, workspace and leisure uses.  It will include a hotel, student accommodation, cinema and community facilities.
 
-The planning application is in two parts, the first part an outline application for between 2,000 and 4,000 new homes, the second, much smaller part, a detailed proposal for 265 new homes, across three plots, plus a petrol filing station on a fourth. 
+The planning application is in two parts.  The first part is an outline application for between 2,000 and 4,000 new homes, while the second, much smaller part, is a detailed proposal for 265 new homes, across three plots, plus a petrol filing station on a fourth. 
 
   
 
