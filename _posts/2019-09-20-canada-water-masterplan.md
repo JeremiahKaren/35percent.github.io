@@ -28,10 +28,9 @@ Should BL be granted permission it will be getting a great deal of latitude in t
 ## Affordable Housing
 The scheme is proposing a minimum of 2,000, but a possible maximum of 4,000 new homes, 35% of which would be affordable (25% social rent, 10% intermediate housing). This is in line with Southwark's own local plan, but the Mayor's London Plan requires more affordable housing - 50% - on public and former industrial land.  This means that Cananda Water should provide 39% affordable housing, by virtue of the Printworks being industrial land and Rotherhithe Police Station being public land.
 
-
 The London Plan also requires a viability review mechanism to ensure that if the scheme turns out to be more viable (ie profitable) than predicted then extra affordable housing up to the 50% requirement will be provided.
 
-Southwark is proposing to breach this policy requirement by discounting profit from the commercial elements of the viability review of the scheme (office space, retail etc) and by lowering the review's affordable housing requirement to 40%. 
+Southwark has compromised with BL on both these points, in breach of housing policy.  It is not insisting on 39% affordable housing as the starting point for the scheme, it is allowing a 40% cap on any increase above 35%, as well as allowing BL to discount any profit from the commercial elements (office space, retail etc) of  the scheme from any viability review. 
 
 It justifies this departure from policy requirements on the basis of the 'risk' that British Land's commitment to provide 35% affordable, _"given the current day viability position."_
 
