@@ -6,11 +6,13 @@ subtitle: >-
   policy requirements not met.
 published: false
 ---
-Southwark Council's planning committee is [set to approve](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!XG78U8hptdA1Wd%2brEpqcTA%3d%3d!%7d%7d%7d) the [largest planning application](http://planbuild.southwark.gov.uk/documents/?casereference=18/AP/1604&system=DC) ever submitted in the borough by the end of the month, when developer British Land's proposals for the redevelopment of Canada Water will be considered over two meetings on the 25 and 30 September.
+Southwark Council's planning committee is [set to approve](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!XG78U8hptdA1Wd%2brEpqcTA%3d%3d!%7d%7d%7d) the [largest planning application](http://planbuild.southwark.gov.uk/documents/?casereference=18/AP/1604&system=DC) ever submitted in the borough by the end of the month, when it considers the redevelopment of Canada Water. This huge 21 hectare site includes the Canada Water shopping Centre, the old Daily Mail printworks and the Surrey Quays leisure park.  Developer British Land proposals for about 7 million sq ft of development will be considered over two planning meetings on the 25 and 30 September.
 
-The masterplan site is the final phase and main component of the [Council's regeneration of Canada Water](http://35percent.org/canada-water) and comprises a cluster of tall buildings up to 34 storeys.
+The masterplan site is the final phase and main component of the [Council's regeneration of Canada Water](http://35percent.org/canada-water) and comprises a cluster of tall buildings up to 34 storeys, with a mix of residential, retail, office, workspace and leisure uses.  It will include a hotel, student accommodation, cinema and community facilities.
 
-This huge site comprising approx 7 million sqft of development across 21 hectares, includes the Canada Water shopping Centre, the old Daily Mail printworks and the Surrey Quays leisure park.  
+The planning application is in two parts, one part a detailed proposal for 265 new homes, across three plots, plus a petrol filing station on a fourth.  The second much larger part is an outline application for between 2,000 and almost 4,000 new homes
+
+  
 
 ![](http://crappistmartin.github.io/images/CanadaWaterSiteC.png)
 *Canada Water Shopping Centre (shaded orange), Print Works (shaded green), Leisure park (dotted green)*
