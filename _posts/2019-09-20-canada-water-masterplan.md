@@ -38,7 +38,7 @@ While the Mayor considers that only the Rotherhithe Police Station is public lan
 
 Finding space for new affordable homes is also becoming increasingly difficult. Last week Southwark [approved the purchase](http://moderngov.southwark.gov.uk/documents/s84621/Report%20593%20Old%20Kent%20Road%20acquisition%20of%20site%20to%20deliver%20new%20Council%20housing.pdf) of its fifth site in the neighbouring Old Kent Rd area in the last two years alone[^2].
 
-It would therefore be reasonable to expect that maximising affordable housing on the largest development site in the borough would be Southwark's top priority on Canada Water, the largest of many large development sites in the borough and not just settling for the minimum its housing policy requires. 
+It would therefore be reasonable to expect that maximising affordable housing on the largest development site in the borough would be Southwark's top priority on Canada Water, the largest of many large development sites in the borough.  Southwark should not just be settling for the minimum its housing policy requires. 
 
 ## A little history - British Land
 British Land is Southwark's development partner for the scheme and is one of the UK’s largest developers. It is formerly run but still partly owned by property magnate Sir John Ritblat, father of Delancey’s Jamie Ritblat (see [E&C redevelopment](http://35percent.org/shopping-centre) and its [offshore connections](http://35percent.org/2014-05-05-manx-connections-the-off-shore-home-of-the-elephants-developers/)). The Ritblats are one of the Tory party's top 100 donors.
