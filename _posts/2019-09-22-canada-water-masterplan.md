@@ -10,7 +10,7 @@ Southwark Council's planning committee is [set to approve](http://planbuild.sout
 
 The masterplan site is the final phase and main component of the [Council's regeneration of Canada Water](http://35percent.org/canada-water) and comprises a cluster of tall buildings up to 34 storeys, with a mix of residential, retail, office, workspace and leisure uses.  It will include a hotel, student accommodation, cinema and community facilities.
 
-The planning application is in two parts.  The first part is the main outline application for between 2,000 and 4,000 new homes plus a large element of non-residential floorspace (offices/retail), while the second, is the detailed application for phase 1 of the scheme comprising 265 new homes, a leisure centre (a replacement for the Seven Islands centre - paid for by Southwark), plus a petrol filling station. 
+The planning application is in two parts.  The first part is the main outline application for between 2,000 and 4,000 new homes plus a large element of non-residential floorspace, while the second, is the detailed application for phase 1 of the scheme comprising 265 new homes, a leisure centre (a replacement for the Seven Islands centre - paid for by Southwark), plus a petrol filling station. 
 
 ![](http://35percent.org/img/cwmasterplansite.jpg)
 *Canada Water Shopping Centre (shaded blue), Print Works (shaded green), Leisure park (shaded purple)*
