@@ -38,6 +38,16 @@ Finding space for new affordable homes is also becoming increasingly difficult. 
 
 It would therefore be reasonable to expect that maximising affordable housing on the largest development site in the borough would be Southwark's top priority on Canada Water, the largest of many large development sites in the borough.  Southwark should not just be settling for the minimum its housing policy requires and ignoring the Mayor's viability review policy. 
 
+## Green energy
+The [planning policy](https://www.southwark.gov.uk/assets/attach/2386/Canada-Water-Area-Action-Plan-2015.pdf) that was supposed to determine this scheme said that all developments would be linked up to a district heating network in order to reduce carbon emissions and promote sustainable development.
+
+![](http://35percent.org/img/dhn.png)
+*Extract from the [Area Action Plan](https://www.southwark.gov.uk/assets/attach/2386/Canada-Water-Area-Action-Plan-2015.pdf)*
+
+However, paragraphs 968 and 969 of the [planning committee report](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!XG78U8hptdA1Wd%2brEpqcTA%3d%3d!%7d%7d%7d) quietly mention that any such plans to deliver or connect to a district heating network have been dropped on feasibility grounds. 
+
+It is not clear from the report whether the handful of solar panels proposed will now even satisfy the Council's basic 20% on-site renewable energy policy requirement.
+
 ## A little history - British Land
 British Land is Southwark's development partner for the scheme and is one of the UK’s largest developers. It is formerly run but still partly owned by property magnate Sir John Ritblat, father of Delancey’s Jamie Ritblat (see [E&C redevelopment](http://35percent.org/shopping-centre) and its [offshore connections](http://35percent.org/2014-05-05-manx-connections-the-off-shore-home-of-the-elephants-developers/)). The Ritblats are one of the Tory party's top 100 donors.
 
