@@ -39,7 +39,7 @@ Finding space for new affordable homes is also becoming increasingly difficult. 
 It would therefore be reasonable to expect that maximising affordable housing on the largest development site in the borough would be Southwark's top priority on Canada Water, the largest of many large development sites in the borough.  Southwark should not just be settling for the minimum its housing policy requires and ignoring the Mayor's viability review policy. 
 
 ## Green energy
-The [planning policy](https://www.southwark.gov.uk/assets/attach/2386/Canada-Water-Area-Action-Plan-2015.pdf) that was supposed to determine this scheme said that all developments would be linked up to a district heating network in order to reduce carbon emissions and promote sustainable development.
+The [planning policy](https://www.southwark.gov.uk/assets/attach/2386/Canada-Water-Area-Action-Plan-2015.pdf) governing this scheme said that all developments would be linked up to a district heating network in order to reduce carbon emissions and promote sustainable development.
 
 ![](http://35percent.org/img/dhn.png)
 *Extract from the [Area Action Plan](https://www.southwark.gov.uk/assets/attach/2386/Canada-Water-Area-Action-Plan-2015.pdf)*
