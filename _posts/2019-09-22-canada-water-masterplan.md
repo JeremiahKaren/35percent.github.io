@@ -19,7 +19,7 @@ The planning application is in two parts.  The first part is the main outline ap
 
 The proposed scheme is for a minimum of 2,000 new homes, rising to a possible 4,000 maximum, 35% of which would be affordable (25% social rent, 10% intermediate housing). This is in line with Southwark's own local plan. 
 
-As well as the local plan requirement, the Mayor's London Plan requires a viability review mechanism, to ensure that if a scheme turns out to be more profitable than predicted, then extra affordable housing can be provided, up to a cap of 50%. Canada Water triggers this review requirement because at least a quarter of the site is either public or industrial land, and more affordable housing is expected from such sites. 
+As well as the local plan requirement, though, the Mayor's London Plan requires a viability review mechanism, to ensure that if a scheme turns out to be more profitable than predicted, then extra affordable housing can be provided, up to a cap of 50%. Canada Water triggers this review requirement because at least a quarter of the site is either public or industrial land, and more affordable housing is expected from such sites. 
 
 But Southwark has compromised with British Land on the review mechanism, in breach of housing policy.  It is allowing a 40% cap on any increase in affordable housing, instead of 50%, and is also allowing British Land to discount any profit from the commercial elements (office space, retail etc) of  the scheme from any viability review. 
 
