@@ -139,7 +139,7 @@ Neither is it being publicised that a [vast array of community facilities](http:
 
 
 In addition, there are four multi-utility games courts on the estate which are due to be built on and not replaced.
-![](/img/aylesburygamescourts.jpg)
+![](/img/aylesburycourts.jpg)
 
 ## Environment/Sustainability
  
