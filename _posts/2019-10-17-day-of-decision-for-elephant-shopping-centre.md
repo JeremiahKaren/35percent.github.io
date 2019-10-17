@@ -7,7 +7,7 @@ title: 'Day of decision for Elephant shopping centre '
 
 The [legal battle](http://35percent.org/2019-03-05-elephant-shopping-centre-judicial-review/) to quash the planning permission for the demolition and redevelopment of the shopping centre reaches the High Court next week, when a judicial review hearing is scheduled for the 22 and 23 October, after being postponed from July.  The challenge is supported by the [Up the Elephant campaign](http://35percent.org/uptheelephant), the [Public Interest Law Centre](http://www.pilu.org.uk/) and [Southwark Law Centre](http://www.southwarklawcentre.org.uk/), as well as by the [35% Campaign](http://35percent.org/2019-07-03-why-we-are-challenging-elephant-and-castle-plans-in-court/). The challenge will be presented by barristers [Sarah Sackman](https://www.ftbchambers.co.uk/barristers/sarah-sackman) of Francis Taylor Building and [David Wolfe QC](https://www.matrixlaw.co.uk/member/david-wolfe/) of Matrix Chambers.
 
-A demonstration of support is being held on **Tues 22 October 9am**, outside the [Royal Courts of Justice, Strand, WC2A 2LL](https://goo.gl/maps/cW7PHZiFmzs96Vbx7).  There is a free coach to the protest - departing **8am, from outside the Metropolitan Tabernacle**, opposite the Northern line tube station (**text/phone 07792786192 to reserve a place**).
+A [demonstration of support](https://twitter.com/uptheelephant_?lang=en) is being held on **Tues 22 October 9am**, outside the [Royal Courts of Justice, Strand, WC2A 2LL](https://goo.gl/maps/cW7PHZiFmzs96Vbx7).  There is a free coach to the protest - departing **8am, from outside the Metropolitan Tabernacle**, opposite the Northern line tube station (**text/phone 07792786192 to reserve a place**).
 
 ## Traders are being lost
 
@@ -29,7 +29,7 @@ We should be getting something much better than this.  The regeneration of the E
 
 Over the past 3 years the Up the Elephant campaign has fought tirelessly for [nearly 3 years](http://35percent.org/2019-06-15-delays-and-delancey/) to get more social rented housing and a better deal for the independent traders; it has shown that we can make gains.  As well as the extra social housing, traders have got more affordable retail space, a relocation fund and a temporary facility on Castle Square - but it is not enough to make Delancey's development one that really benefits everyone at the Elephant.
 
-So, please join us on 22 October to show your support for our battle!
+So, please [join us on 22 October](https://twitter.com/uptheelephant_?lang=en) to show your support for our battle!
 
 Text/phone 07792786192 to reserve a coach place.
 
