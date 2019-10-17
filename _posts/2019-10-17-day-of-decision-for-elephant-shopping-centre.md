@@ -6,13 +6,13 @@ subtitle: 'Legal challenge goes to court next week'
 ---
 ![](http://35percent.org/img/screenshot_leaflet.png)
 
-The [legal battle](http://35percent.org/2019-03-05-elephant-shopping-centre-judicial-review/) to quash the planning permission for the demolition and redevelopment of the shopping centre reaches the High Court next week, when a judicial review hearing is scheduled for the 22 and 23 October, after being postponed from July.  The challenge is supported by the [Up the Elephant campaign](http://35percent.org/uptheelephant), the [Public Interest Law Centre](http://www.pilu.org.uk/) and [Southwark Law Centre](http://www.southwarklawcentre.org.uk/), as well as by the [35% Campaign](http://35percent.org/2019-07-03-why-we-are-challenging-elephant-and-castle-plans-in-court/). The challenge will be presented by barristers [Sarah Sackman](https://www.ftbchambers.co.uk/barristers/sarah-sackman) of Francis Taylor Building and [David Wolfe QC](https://www.matrixlaw.co.uk/member/david-wolfe/) of Matrix Chambers.
+The [legal battle](http://35percent.org/2019-03-05-elephant-shopping-centre-judicial-review/) to quash the planning permission for the [demolition and redevelopment of the shopping centre](http://35percent.org/shopping-centre) reaches the High Court next week, when a judicial review hearing is scheduled for the 22 and 23 October, after being postponed from July.  The challenge is supported by the [Up the Elephant campaign](http://35percent.org/uptheelephant), the [Public Interest Law Centre](http://www.pilu.org.uk/) and [Southwark Law Centre](http://www.southwarklawcentre.org.uk/), as well as by the [35% Campaign](http://35percent.org/2019-07-03-why-we-are-challenging-elephant-and-castle-plans-in-court/). The challenge will be presented by barristers [Sarah Sackman](https://www.ftbchambers.co.uk/barristers/sarah-sackman) of Francis Taylor Building and [David Wolfe QC](https://www.matrixlaw.co.uk/member/david-wolfe/) of Matrix Chambers.
 
 A [demonstration of support](https://twitter.com/uptheelephant_?lang=en) is being held on **Tues 22 October 9am**, outside the [Royal Courts of Justice, Strand, WC2A 2LL](https://goo.gl/maps/cW7PHZiFmzs96Vbx7).  There is a [free coach to the protest](https://www.facebook.com/events/2400323290216792/) - departing **8am, from outside the Metropolitan Tabernacle**, opposite the Northern line tube station (**text/phone 07792786192 to reserve a place**).
 
 ## Traders are being lost
 
-The High Court will decide whether or not the Southwark Council's decision to award the permission to developer and shopping centre owner Delancey was lawful.  Delancey proposes to build shops, homes and much else besides, including a new Northern Line tube entrance and new college campus for the London College of Communication.  But Delancey's big plans have very little in them for local people, those who are living and working at the Elephant now.
+The High Court will decide whether or not Southwark Council's decision to award planning permission to [offshore developer Delancey](http://35percent.org/2014-05-05-manx-connections-the-off-shore-home-of-the-elephants-developers/) was lawful.  Delancey proposes to build shops, homes and much else besides, including a new Northern Line tube entrance and new college campus for the London College of Communication.  But Delancey's big plans have very little in them for local people, those who are living and working at the Elephant now.
 
 ![](http://35percent.org/img/traderscompsk.jpeg)
 
@@ -31,7 +31,7 @@ Even the 116 social rented homes promised could be at risk; the devil is in the 
 
 ## Join Us!
 
-We should be getting something much better than this.  The regeneration of the Elephant has already lost us over a thousand council homes, from the [demolished Heygate estate](http://35percent.org/2013-01-16-objectors-excluded-from-heygate-hearing/).  The shopping centre is the last major site within the Elephant and Castle Opportunity Area - it should be making up much more of these losses. The benefits of the redevelopment in the shape of the new tube station and new college campus should not be at the expense of social rented housing.
+We should be getting something much better than this.  The regeneration of the Elephant has already lost us over a thousand council homes, from the [demolished Heygate estate](http://35percent.org/heygate-regeneration-faq/).  The shopping centre is the last major site within the Elephant and Castle Opportunity Area - it should be making up much more of these losses. The benefits of the redevelopment in the shape of the new tube station and new college campus should not be at the expense of social rented housing.
 
 Over the past 3 years the Up the Elephant campaign has fought tirelessly for [nearly 3 years](http://35percent.org/2019-06-15-delays-and-delancey/) to get more social rented housing and a better deal for the independent traders; it has shown that we can make gains.  As well as the extra social housing, traders have got more affordable retail space, a relocation fund and a temporary facility on Castle Square - but it is not enough to make Delancey's development one that really benefits everyone at the Elephant.
 
@@ -39,4 +39,8 @@ So, please [join us on 22 October](https://twitter.com/uptheelephant_?lang=en) t
 
 Text/phone 07792786192 to reserve a coach place.
 
-You can still also [donate to our appeal](https://www.crowdjustice.com/case/stop-the-elephant-shopping-centre-destruction/)
+You can still also [donate to our crowdfunding appeal](https://www.crowdjustice.com/case/stop-the-elephant-shopping-centre-destruction/)
+
+<div align="center">
+  <a href="https://www.youtube.com/watch?v=EQ2M6_vQo2s"><img src="https://img.youtube.com/vi/EQ2M6_vQo2s/0.jpg" alt="IMAGE ALT TEXT"></a>
+  </div>
