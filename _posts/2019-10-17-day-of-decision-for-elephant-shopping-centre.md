@@ -13,7 +13,7 @@ A demonstration of support is being held on Tues 22 Oct 9am, outside the Royal C
 
 The High Court will decide whether or not the Southwark Council's decision to award the permission to developer and shopping centre owner Delancey was lawful.  Delancey proposes to build shops, homes and much else besides, including a new Northern Line tube entrance and new college campus for the London College of Communication.  But Delancey's big plans have very little in them for local people, those who are living and working at the Elephant now.
 
-The much loved bingo hall has already gone and is unlikely to return.  If the shopping centre is demolished it will displace all the traders, from the world over, who have made the Elephant their home.  Demolition will also destroy a social hub for London's Latin American community and nowhere near enough has been done to mitigate the consequences of this. Latin American charity Latin Elephant, with the help of Petit Elephant, have made a detailed study of what is happening and they estimate that almost 50 traders have not been given relocation space and will have nowhere to go.
+The much-loved bingo hall has already gone and is unlikely to return.  If the shopping centre is demolished it will displace all the traders, from the world over, who have made the Elephant their home.  Demolition will also destroy a social hub for London's Latin American community and nowhere near enough has been done to mitigate the consequences of this. Latin American charity Latin Elephant, with the help of Petit Elephant, have made a detailed study of what is happening and they estimate that almost 50 traders have not been given relocation space and will have nowhere to go.
 
 ## Much more social rented housing needed
 
