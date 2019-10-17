@@ -5,7 +5,7 @@ title: 'Day of decision for Elephant shopping centre '
 ---
 ## Legal challenge goes to court next week
 
-The legal battle to quash the planning permission for the demolition and redevelopment of the shopping centre reaches the High Court next week, when a judicial review hearing is scheduled for the 22 and 23 October.  The challenge is supported by the Up the Elephant campaign, the Public Interest Law Centre and Southwark Law Centre, as well as by the 35% Campaign. The challenge will be presented by barristers Sarah Sackman of Francis Taylor Building and David Wolfe QC of Matrix Chambers.
+The legal battle to quash the planning permission for the demolition and redevelopment of the shopping centre reaches the High Court next week, when a judicial review is scheduled for the 22 and 23 October.  The challenge is supported by the Up the Elephant campaign, the Public Interest Law Centre and Southwark Law Centre, as well as by the 35% Campaign. The challenge will be presented by barristers Sarah Sackman of Francis Taylor Building and David Wolfe QC of Matrix Chambers.
 
 A demonstration of support is being held on Tues 22 Oct 9am, outside the Royal Courts of Justice, Strand, WC2A 2LL.  There is a free coach to the protest - 8am outside the Metropolitan Tabernacle, opposite the Northern line tube station (text/phone 07792786192 to reserve a place).
 
@@ -23,22 +23,18 @@ The legal challenge argues that Southwark's Council’s planning committee was m
 
 Even the 116 social rented homes promised could be at risk; the devil is in the detail and Delancey has managed to pull the wool over the Council's eyes with a deal which could leave us with little or no social rented housing if Delancey doesn’t deliver the “West site”, not due to be built for another 10 years.
 
-We should be getting something much better than this.  The regeneration of the Elephant has already lost us over a thousand council homes, from the Elephant’s demolished Heygate estate.  The shopping centre is the last major site within the Elephant and Castle Opportunity Area
+We should be getting something much better than this.  The regeneration of the Elephant has already lost us over a thousand council homes, from the Elephant’s demolished Heygate estate.  The shopping centre is the last major site within the Elephant and Castle Opportunity Area - it should be making up much more of these losses. The benefits of the redevelopment in the shape of the new tube station and new college campus should not be at the expense of social rented housing.
 
+Over the past 3 years the Up the Elephant campaign has fought tirelesssly over nearly 3 years to get more social rented housing and a better deal for the independant traders; it has shown that we can make gains.  As well as the extra social housing, traders have got more affordable retail space, a relocation fund and a temporaray facility on Castle Square - but it is not enough to make Delancey's development one that benefits everyone at the Elephant.
 
+Please join us on 22 October to show your support for our battle!
 
+Text/phone 07792786192 to reserve a coach place.
 
-
-
-Please donate to our appeal, any amount big or small!
-
-Please share this page with you friends and contacts!
-
-Any donation you can make will help in this crucial fight to make London a city where the needs of our diverse communities come before the profits of offshore property developers.
+You can still also donate to our appeal
 
 http://35percent.org/uptheelephant
 
-The Up the Elephant campaign has fought tirelesssly over nearly 3 years to get more affordable and social rented housing and a better deal for the independant traders.  
 
-Campigners are gearing up for the 
+
 
