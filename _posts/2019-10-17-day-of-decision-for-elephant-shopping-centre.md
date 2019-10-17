@@ -41,7 +41,7 @@ Text/phone **07792 786192** to reserve a coach place.
 
 You can still also [donate to our crowdfunding appeal](https://www.crowdjustice.com/case/stop-the-elephant-shopping-centre-destruction/)
 
-For a brief history of the controversy surrounding Delancey's scheme, check out part 1 of Emile Burgoyne's recently released film - __'Why do Elephants keep developing?'__: 
+For a brief history of the controversy surrounding Delancey's scheme, check out part 1 of Emile Burgoyne's recently released film - __'Why do Elephants keep developing?'](https://youtu.be/EQ2M6_vQo2s)__: 
 <div align="center">
   <a href="https://www.youtube.com/watch?v=EQ2M6_vQo2s"><img src="https://img.youtube.com/vi/EQ2M6_vQo2s/0.jpg" alt="IMAGE ALT TEXT"></a>
   </div>
