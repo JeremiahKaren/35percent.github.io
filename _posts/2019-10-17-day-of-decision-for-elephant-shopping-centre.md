@@ -45,3 +45,10 @@ For a brief history of the controversy surrounding Delancey's scheme, check out 
 <div align="center">
   <a href="https://www.youtube.com/watch?v=EQ2M6_vQo2s"><img src="https://img.youtube.com/vi/EQ2M6_vQo2s/0.jpg" alt="IMAGE ALT TEXT"></a>
   </div>
+
+
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:site" content="@35percent_EAN">
+<meta name="twitter:title" content="Decision Day for Elephant & Castle Shopping Centre">
+<meta name="twitter:description" content="Next week's judicial review could send Delancey's inequitable scheme back to the drawing board.">
+<meta name="twitter:image" content="http://35percent.org/img/Elephant_JR_Tweet.png">
