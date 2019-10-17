@@ -37,7 +37,7 @@ The __Up the Elephant__ campaign has fought tirelessly for [nearly 3 years](http
 
 So, please [join us on 22 October](https://twitter.com/uptheelephant_?lang=en) to show your support for our battle!
 
-Text/phone 07792786192 to reserve a coach place.
+Text/phone **07792 786192** to reserve a coach place.
 
 You can still also [donate to our crowdfunding appeal](https://www.crowdjustice.com/case/stop-the-elephant-shopping-centre-destruction/)
 
