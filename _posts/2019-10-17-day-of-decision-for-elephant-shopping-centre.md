@@ -33,7 +33,7 @@ Even the 116 social rented homes promised could be at risk; the devil is in the 
 
 We should be getting something much better than this.  The regeneration of the Elephant has already lost us over a thousand council homes, from the [demolished Heygate estate](http://35percent.org/heygate-regeneration-faq/).  The shopping centre is the last major site within the Elephant and Castle Opportunity Area - it should be making up much more of these losses. The benefits of the redevelopment in the shape of the new tube station and new college campus should not be at the expense of social rented housing.
 
-Over the past 3 years the Up the Elephant campaign has fought tirelessly for [nearly 3 years](http://35percent.org/2019-06-15-delays-and-delancey/) to get more social rented housing and a better deal for the independent traders; it has shown that we can make gains.  As well as the extra social housing, traders have got more affordable retail space, a relocation fund and a temporary facility on Castle Square - but it is not enough to make Delancey's development one that really benefits everyone at the Elephant.
+Over the past 3 years the __Up the Elephant__ campaign has fought tirelessly for [nearly 3 years](http://35percent.org/2019-06-15-delays-and-delancey/) to get more social rented housing and a better deal for the independent traders; it has shown that we can make gains.  As well as the extra social housing, traders have got more affordable retail space, a relocation fund and a temporary facility on Castle Square - but it is not enough to make Delancey's development one that really benefits everyone at the Elephant.
 
 So, please [join us on 22 October](https://twitter.com/uptheelephant_?lang=en) to show your support for our battle!
 
@@ -41,7 +41,7 @@ Text/phone 07792786192 to reserve a coach place.
 
 You can still also [donate to our crowdfunding appeal](https://www.crowdjustice.com/case/stop-the-elephant-shopping-centre-destruction/)
 
-For a brief history of the controversy surrounding Delancey's scheme, check out part 1 of Emile Burgoyne's recently released film: 
+For a brief history of the controversy surrounding Delancey's scheme, check out part 1 of Emile Burgoyne's recently released film - __'Why do Elephants keep developing?'__: 
 <div align="center">
   <a href="https://www.youtube.com/watch?v=EQ2M6_vQo2s"><img src="https://img.youtube.com/vi/EQ2M6_vQo2s/0.jpg" alt="IMAGE ALT TEXT"></a>
   </div>
