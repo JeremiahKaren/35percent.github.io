@@ -5,13 +5,7 @@ title: 'Day of decision for Elephant shopping centre '
 ---
 ## Legal challenge goes to court next week
 
-The legal battle to quash the planning permission for the redevelopment of the shopping centre reaches the High Court next week, when a judicial review hearing is scheduled for the 22 and 23 of Oct.  The court will decide whether or not the Southwark Council's decision to award shopping centre owner and developer Delancey's ward was lawful.  The challange is supported 
-
-
-
-
-
-We are a coalition of local people and groups fighting for fairer regeneration at the Elephant and Castle – a regeneration that was supposed to deliver jobs and homes for local people, but is doing the exact opposite.
+The legal battle to quash the planning permission for the redevelopment of the shopping centre reaches the High Court next week, when a judicial review hearing is scheduled for the 22 and 23 of Oct.  The court will decide whether or not the Southwark Council's decision to award shopping centre owner and developer Delancey ward was lawful.  The challenge is supported by the Up the Elephant campaign, a coalition of local people and groups, including the 35% Campaign, fighting for a fairer regeneration at the Elephant and Castle.  Southwark Law Centre and the Public Interest Law Centre are acting for the campaign, which will be represented in court the David Wolf QC, of Matrix Cahmbers and Sarah Sackman, of the Francis Taylor   
 
 The regeneration has already lost us over a thousand council homes, from the Elephant’s demolished Heygate estate, a scandal in a borough with desperate housing need. Now, shopping centre owner and property developer Delancey has won permission to demolish our local shopping centre.  They also have permission to build new shops and nearly a thousand homes, but only 116, at best, will be social rented – and we will have to wait nearly ten years to get them.
 
