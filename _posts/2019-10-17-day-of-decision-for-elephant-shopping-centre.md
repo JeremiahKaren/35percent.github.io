@@ -25,9 +25,9 @@ The much-loved bingo hall [has already gone](http://35percent.org/2019-04-29-del
 
 While we are losing the small traders, Delancey's ['mixed-use' development](https://planning.southwark.gov.uk/online-applications-old/simpleSearchResults.do?action=firstPage) is denying us the one kind of housing we most need - social rented housing.  The Up the Elephant campaign has gradually driven up Delancey's social housing offer from 33 'social rent equivalent' units to [116 proper social rent](http://35percent.org/2018-07-09-delancey/), but this is still a very small number out of the 979 total number of new homes.  
 
-Next week's legal challenge will argue that [Southwark's Council’s planning committee](https://www.southwarknews.co.uk/news/elephant-and-castle-vote-watch-council-planning-committee-live/) was misled about the maximum amount of affordable housing the scheme could viably provide. Delancey said it could only afford to provide 116 social rented homes, but we now know that with [Mayor’s funding](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!b5xBNaYRSleWlYx6oXVrEA%3d%3d!%7d%7d%7d) they could give us another 42 much needed homes.
+Next week's legal challenge will argue that [Southwark's Council’s planning committee](https://www.southwarknews.co.uk/news/elephant-and-castle-vote-watch-council-planning-committee-live/) was misled about the maximum amount of affordable housing the scheme could viably provide. Delancey committed uncounditionally to providing 116 social rented homes, but is asking for Mayor’s funding, which won't go towards increasing the number of social rented homes. We argue that this £11.2m of public money should provide us with another 42 much needed social rented homes. This would still fall short but nevertheless go a long way towards meeting the minimum policy requirement of 165 social rented homes.
 
-Even the 116 social rented homes promised could be at risk; the devil is in the detail and Delancey has managed to pull the wool over the Council's eyes, with a legal (s106) agreement that could leave us with little or no social rented housing if Delancey chooses not to deliver the latter part of the scheme, which in any case is not due to be built for another 10 years.
+The challenge will also argue that even the 116 social rented homes promised could be at risk; the devil is in the detail and Delancey has managed to pull the wool over the Council's eyes, with a legal (s106) agreement that could leave us with little or no social rented housing if Delancey chooses not to deliver the latter part of the scheme, which in any case is not due to be built for another 10 years.
 
 ## Join Us!
 
@@ -41,7 +41,7 @@ Text/phone **07792 786192** to reserve a coach place.
 
 You can still also [donate to our crowdfunding appeal](https://www.crowdjustice.com/case/stop-the-elephant-shopping-centre-destruction/)
 
-For a brief history of the controversy surrounding Delancey's scheme, check out part 1 of Emile Burgoyne's recently released film - __'Why do Elephants keep developing?'](https://youtu.be/EQ2M6_vQo2s)__: 
+For a brief history of the controversy surrounding Delancey's scheme, check out Emile Burgoyne's recently released film - __'Why do Elephants keep developing?'](https://youtu.be/EQ2M6_vQo2s)__: 
 <div align="center">
   <a href="https://www.youtube.com/watch?v=EQ2M6_vQo2s"><img src="https://img.youtube.com/vi/EQ2M6_vQo2s/0.jpg" alt="IMAGE ALT TEXT"></a>
   </div>
