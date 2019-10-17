@@ -33,5 +33,4 @@ So, please [join us on 22 October](https://twitter.com/uptheelephant_?lang=en) t
 
 Text/phone 07792786192 to reserve a coach place.
 
-You can still also [donate to our appeal](https://www.crowdjustice.com/case/stop-the-elephant-shopping-centre-destruction/) 
-
+You can still also [donate to our appeal](https://www.crowdjustice.com/case/stop-the-elephant-shopping-centre-destruction/)
