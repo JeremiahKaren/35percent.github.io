@@ -1,9 +1,10 @@
 ---
 layout: post
-published: false
+published: true
 title: 'High Court hearing looms for Elephant shopping centre '
+subtitle: 'Legal challenge goes to court next week'
 ---
-## Legal challenge goes to court next week
+![](http://35percent.org/img/screenshot_leaflet.png)
 
 The [legal battle](http://35percent.org/2019-03-05-elephant-shopping-centre-judicial-review/) to quash the planning permission for the demolition and redevelopment of the shopping centre reaches the High Court next week, when a judicial review hearing is scheduled for the 22 and 23 October, after being postponed from July.  The challenge is supported by the [Up the Elephant campaign](http://35percent.org/uptheelephant), the [Public Interest Law Centre](http://www.pilu.org.uk/) and [Southwark Law Centre](http://www.southwarklawcentre.org.uk/), as well as by the [35% Campaign](http://35percent.org/2019-07-03-why-we-are-challenging-elephant-and-castle-plans-in-court/). The challenge will be presented by barristers [Sarah Sackman](https://www.ftbchambers.co.uk/barristers/sarah-sackman) of Francis Taylor Building and [David Wolfe QC](https://www.matrixlaw.co.uk/member/david-wolfe/) of Matrix Chambers.
 
@@ -13,7 +14,12 @@ A [demonstration of support](https://twitter.com/uptheelephant_?lang=en) is bein
 
 The High Court will decide whether or not the Southwark Council's decision to award the permission to developer and shopping centre owner Delancey was lawful.  Delancey proposes to build shops, homes and much else besides, including a new Northern Line tube entrance and new college campus for the London College of Communication.  But Delancey's big plans have very little in them for local people, those who are living and working at the Elephant now.
 
+![](http://35percent.org/img/traderscompsk.jpeg)
+
 The much-loved bingo hall [has already gone](http://35percent.org/2019-04-29-delancey-deals-double-blow-to-traders/) and is unlikely to return.  If the shopping centre is demolished it will [displace all the traders](http://35percent.org/2019-03-30-no-room-for-traders-in-the-new-elephant/) from the world over who have made the Elephant their home.  Demolition will also destroy a social hub for London's Latin American community and nowhere near enough has been done to mitigate the consequences of this.  [Latin Elephant](https://latinelephant.org/), with the help of [Petit Elephant](https://twitter.com/elephant_petit?lang=en-gb), have made a [detailed study](https://latinelephant.org/map/#Q5) of what is happening to all the traders and they estimate that almost fifty traders have not been given relocation space and will have nowhere to go.
+
+![](http://35percent.org/img/latinelephantmap.png)
+*Latin Elephant's detailed [interactive map](https://latinelephant.org/map) of shopping centre traders*
 
 ## Much more social rented housing needed
 
