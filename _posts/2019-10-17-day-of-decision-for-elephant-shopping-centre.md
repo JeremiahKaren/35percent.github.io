@@ -7,9 +7,9 @@ title: 'Day of decision for Elephant shopping centre '
 
 The legal battle to quash the planning permission for the demolition and redevelopment of the shopping centre reaches the High Court next week, when a judicial review hearing is scheduled for the 22 and 23 October, after being postponed from July.  The challenge is supported by the [Up the Elephant campaign](http://35percent.org/uptheelephant), the [Public Interest Law Centre](http://www.pilu.org.uk/) and [Southwark Law Centre](http://www.southwarklawcentre.org.uk/), as well as by the [35% Campaign](http://35percent.org/2019-07-03-why-we-are-challenging-elephant-and-castle-plans-in-court/). The challenge will be presented by barristers [Sarah Sackman](https://www.ftbchambers.co.uk/barristers/sarah-sackman) of Francis Taylor Building and [David Wolfe QC](https://www.matrixlaw.co.uk/member/david-wolfe/) of Matrix Chambers.
 
-A demonstration of support is being held on Tues 22 Oct 9am, outside the [Royal Courts of Justice, Strand, WC2A 2LL](https://goo.gl/maps/cW7PHZiFmzs96Vbx7).  There is a free coach to the protest - 8am outside the Metropolitan Tabernacle, opposite the Northern line tube station (text/phone 07792786192 to reserve a place).
+A demonstration of support is being held on **Tues 22 October 9am**, outside the [Royal Courts of Justice, Strand, WC2A 2LL](https://goo.gl/maps/cW7PHZiFmzs96Vbx7).  There is a free coach to the protest - departing **8am, from outside the Metropolitan Tabernacle**, opposite the Northern line tube station (**text/phone 07792786192 to reserve a place**).
 
-## The traders are being lost
+## Traders are being lost
 
 The High Court will decide whether or not the Southwark Council's decision to award the permission to developer and shopping centre owner Delancey was lawful.  Delancey proposes to build shops, homes and much else besides, including a new Northern Line tube entrance and new college campus for the London College of Communication.  But Delancey's big plans have very little in them for local people, those who are living and working at the Elephant now.
 
