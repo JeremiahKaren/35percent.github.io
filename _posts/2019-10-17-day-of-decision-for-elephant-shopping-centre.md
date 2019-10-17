@@ -5,9 +5,9 @@ title: 'Day of decision for Elephant shopping centre '
 ---
 ## Legal challenge goes to court next week
 
-The legal battle to quash the planning permission for the demolition and redevelopment of the shopping centre reaches the High Court next week, when a judicial review hearing is scheduled for the 22 and 23 October, after being postponed from July.  The challenge is supported by the [Up the Elephant campaign](http://35percent.org/uptheelephant), the [Public Interest Law Centre](http://www.pilu.org.uk/) and [Southwark Law Centre](http://www.southwarklawcentre.org.uk/), as well as by the [35% Campaign](http://35percent.org/2019-07-03-why-we-are-challenging-elephant-and-castle-plans-in-court/). The challenge will be presented by barristers Sarah Sackman of Francis Taylor Building and David Wolfe QC of Matrix Chambers.
+The legal battle to quash the planning permission for the demolition and redevelopment of the shopping centre reaches the High Court next week, when a judicial review hearing is scheduled for the 22 and 23 October, after being postponed from July.  The challenge is supported by the [Up the Elephant campaign](http://35percent.org/uptheelephant), the [Public Interest Law Centre](http://www.pilu.org.uk/) and [Southwark Law Centre](http://www.southwarklawcentre.org.uk/), as well as by the [35% Campaign](http://35percent.org/2019-07-03-why-we-are-challenging-elephant-and-castle-plans-in-court/). The challenge will be presented by barristers [Sarah Sackman](https://www.ftbchambers.co.uk/barristers/sarah-sackman) of Francis Taylor Building and [David Wolfe QC](https://www.matrixlaw.co.uk/member/david-wolfe/) of Matrix Chambers.
 
-A demonstration of support is being held on Tues 22 Oct 9am, outside the Royal Courts of Justice, Strand, WC2A 2LL.  There is a free coach to the protest - 8am outside the Metropolitan Tabernacle, opposite the Northern line tube station (text/phone 07792786192 to reserve a place).
+A demonstration of support is being held on Tues 22 Oct 9am, outside the [Royal Courts of Justice, Strand, WC2A 2LL](https://goo.gl/maps/cW7PHZiFmzs96Vbx7).  There is a free coach to the protest - 8am outside the Metropolitan Tabernacle, opposite the Northern line tube station (text/phone 07792786192 to reserve a place).
 
 ## The traders are being lost
 
