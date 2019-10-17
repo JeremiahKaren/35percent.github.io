@@ -19,7 +19,7 @@ The High Court will decide whether or not Southwark Council's decision to award 
 The much-loved bingo hall [has already gone](http://35percent.org/2019-04-29-delancey-deals-double-blow-to-traders/) and is unlikely to return.  If the shopping centre is demolished it will [displace all the traders](http://35percent.org/2019-03-30-no-room-for-traders-in-the-new-elephant/) from the world over who have made the Elephant their home.  Demolition will also destroy a social hub for London's Latin American community and nowhere near enough has been done to mitigate the consequences of this.  [Latin Elephant](https://latinelephant.org/), with the help of [Petit Elephant](https://twitter.com/elephant_petit?lang=en-gb), have made a [detailed study](https://latinelephant.org/map/#Q5) of what is happening to all the traders and they estimate that almost fifty traders have not been given relocation space and will have nowhere to go.
 
 ![](http://35percent.org/img/latinelephantmap.png)
-*Latin Elephant's detailed [interactive map](https://latinelephant.org/map) of shopping centre traders*
+*Latin Elephant's detailed [interactive map](https://latinelephant.org/map) and list of traders with nowhere to go*
 
 ## Much more social rented housing needed
 
