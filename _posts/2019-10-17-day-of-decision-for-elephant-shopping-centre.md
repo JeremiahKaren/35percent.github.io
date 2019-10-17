@@ -17,7 +17,7 @@ The much-loved bingo hall has already gone and is unlikely to return.  If the sh
 
 ## Much more social rented housing needed
 
-While we are losing the small traders, Delancey's'mixed-use' development is denying us the one kind of housing we most need - social rented housing.  The Up the Elephant campaign has gradually driven up Delancey's social housing offer from 33 'social rent equivalent' units to 116 proper social rent or council homes, but this is still a very small number out of the 979 total number of new homes.  
+While we are losing the small traders, Delancey's 'mixed-use' development is denying us the one kind of housing we most need - social rented housing.  The Up the Elephant campaign has gradually driven up Delancey's social housing offer from 33 'social rent equivalent' units to 116 proper social rent or council homes, but this is still a very small number out of the 979 total number of new homes.  
 
 Next week's legal challenge will argue that Southwark's Council’s planning committee was misled about the maximum amount of affordable housing the scheme could viably provide. Delancey said it could only afford to provide 116 social rented homes, but we now know that with Mayor’s funding they could give us another 42 much needed homes.
 
