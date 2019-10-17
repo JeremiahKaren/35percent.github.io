@@ -21,7 +21,7 @@ While we are losing the small traders, Delancey's ['mixed-use' development](http
 
 Next week's legal challenge will argue that [Southwark's Council’s planning committee](https://www.southwarknews.co.uk/news/elephant-and-castle-vote-watch-council-planning-committee-live/) was misled about the maximum amount of affordable housing the scheme could viably provide. Delancey said it could only afford to provide 116 social rented homes, but we now know that with [Mayor’s funding](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!b5xBNaYRSleWlYx6oXVrEA%3d%3d!%7d%7d%7d) they could give us another 42 much needed homes.
 
-Even the 116 social rented homes promised could be at risk; the devil is in the detail and Delancey has managed to pull the wool over the Council's eyes with a deal which could leave us with little or no social rented housing if Delancey doesn’t deliver the West site, where the London College of Communication now stands and not due to be built for another 10 years.
+Even the 116 social rented homes promised could be at risk; the devil is in the detail and Delancey has managed to pull the wool over the Council's eyes with a deal which could leave us with little or no social rented housing if Delancey doesn’t deliver the West site, (the London College of Communication site) and not due to be built for another 10 years.
 
 ## Join Us!
 
