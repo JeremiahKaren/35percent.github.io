@@ -27,7 +27,7 @@ Even the 116 social rented homes promised could be at risk; the devil is in the 
 
 We should be getting something much better than this.  The regeneration of the Elephant has already lost us over a thousand council homes, from the demolished Heygate estate.  The shopping centre is the last major site within the Elephant and Castle Opportunity Area - it should be making up much more of these losses. The benefits of the redevelopment in the shape of the new tube station and new college campus should not be at the expense of social rented housing.
 
-Over the past 3 years the Up the Elephant campaign has fought tirelessly over nearly 3 years to get more social rented housing and a better deal for the independent traders; it has shown that we can make gains.  As well as the extra social housing, traders have got more affordable retail space, a relocation fund and a temporaray facility on Castle Square - but it is not enough to make Delancey's development one that really benefits everyone at the Elephant.
+Over the past 3 years the Up the Elephant campaign has fought tirelessly over nearly 3 years to get more social rented housing and a better deal for the independent traders; it has shown that we can make gains.  As well as the extra social housing, traders have got more affordable retail space, a relocation fund and a temporary facility on Castle Square - but it is not enough to make Delancey's development one that really benefits everyone at the Elephant.
 
 So, please join us on 22 October to show your support for our battle!
 
