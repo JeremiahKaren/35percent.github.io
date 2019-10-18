@@ -11,8 +11,6 @@ Aylesbury estate was selected by Tony Blair for his [first speech as prime minis
 <div align="center">
   <a href="http://35percent.org/img/blairaylesburyspeech.mp4"><img src="http://35percent.org/img/blairaylesbury.jpg" alt="IMAGE ALT TEXT"></a>
   </div>
-
-![](/img/blairaylesbury.jpg)
 *Blair visiting the Aylesbury in 1997 to give his first speech as prime minister*
 
 >"Behind the statistics lie households where three generations have never had a job. There are estates where the biggest employer is the drugs industry, where all that is left of the high hopes of the post-war planners is derelict concrete. Behind the statistics are people who have lost hope, trapped in fatalism." (Tony Blair, inaugural speech, May 1997) 
