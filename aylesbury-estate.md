@@ -8,6 +8,10 @@ footer: true
 
 Aylesbury estate was selected by Tony Blair for his [first speech as prime minister](http://www.independent.co.uk/news/blairs-pledge-to-the-dark-estates-1253883.html) on 2nd June 1997, where he made his 'forgotten people' speech, [saying](http://www.bbc.co.uk/news/special/politics97/news/06/0602/blair.shtml) there must be no more _"no-hope areas"_ in new Labour's Britain. 
 
+<div align="center">
+  <a href="http://35percent.org/img/blairaylesburyspeech.mp4"><img src="http://35percent.org/img/blairaylesbury.jpg" alt="IMAGE ALT TEXT"></a>
+  </div>
+
 ![](/img/blairaylesbury.jpg)
 *Blair visiting the Aylesbury in 1997 to give his first speech as prime minister*
 
