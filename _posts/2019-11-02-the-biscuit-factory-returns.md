@@ -17,7 +17,11 @@ BtR rise can be charted by its increasing prominence in the successive versions 
 
 The problem with BtR, in short, is that it does not actually have any affordable housing, as has it has been recognised up until now. This was basically social rent and intermediate housing (part-buy/part-rent). Affordable rent (at up to 80% market rent),added in 2012 (check), has evolved in London Affordable Rent (LAR) and London Living Rent (LLR) under, Sadiq Khan.  There are big differences in rent/cost levels between these different kinds of affordable housing, but what they share is _relatively_ stable tenures; social rent and affordable rent are on assured or secure tenancies, with eventual ownership the ambition in the case of intermediate housing.
 
-BtR affordable housing does not supply this kind of affordable housing. It does not have social rent, intermediate rent or even Sadiq Khan's favoured LAR or LLR.  Instead it provides Discounted Market Rent 'products' - homes let at various rent levels, according to the household incomes of 'equivalents' on assured shorthold tenancies, so there is social rent equivalent, LAR rent equivalent, LLR equivalent, all with rents calculating as  
+BtR affordable housing does not supply this kind of affordable housing. It does not have social rent, intermediate rent or even Sadiq Khan's favoured LAR or LLR, as such.  Instead it provides Discounted Market Rent (DMR) 'products' - homes let at various rent levels, according to the household incomes, and calculated as percentages of market rents, let on assured shorthold tenancies (ASTs).  These products can then described as 'equivalents' eg social rent equivalent and passed off as the real thing.
+
+The Biscuit Factory is a good example of this.  The new proposal that Sadiq Khan is considering is for 1,548 units with 35% affordable housing, split 30:70 between social rent equivalent and DMR, for household incomes of up to £60,000pa (LLR equivalent).  The social rent equivalent rents range from £134pw (1 bed) to £178pw (4 bed), the DMR rents will be 'an average of £323'.  In comparison a draft of the New Southwark Plan gives average social rents in Soutwark (March 2016) as £107pw to £157pw (screenshot).
+
+All tenacies will be AST, from 1-5 years, but with the tenant having the right to renew 'subject to pre-determined criteria'.
 
 
 
