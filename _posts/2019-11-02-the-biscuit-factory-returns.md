@@ -11,7 +11,13 @@ One of the main reason's for the Southwark rejecting the application was the poo
 
 All the housing would Build to Rent (BtR), a private sector housing tenure that is set to play an increasing role in housing development, if policy-makers and developers get their way.  As well as the Biscuit Factory, developer Delancey's plan's for the shopping centre includes nearly a thousand BtR units. 
 
-BtR rise can be charted by its increasing prominence in the successive versions of the London Plan (the Mayor's book of rules for development in London( (link).  In the 2011 version it is barely mentioned; Boris Johnson's 2016 London Plan (the current one) opened the door, but it is Sadiq Khan's new London Plan that really promotes it as a favoured tenure (Link). Here, it says
+BtR rise can be charted by its increasing prominence in the successive versions of the London Plan (the Mayor's book of rules for development in London( (link).  In the 2011 version it is barely mentioned; Boris Johnson's 2016 London Plan (the current one) opened the door, but it is Sadiq Khan's new London Plan that really promotes it as a favoured tenure (Link), along with a sister policy document, the Affordable Housing and Viability SPD (link). Between them they provide all a developer needs to justify BtR developments to London borough planning committees.  (Southwark is following the Mayor's lead in it's own New Southwark Plan, with a whole new policy P4 devoted to BtR.
+
+## The problem with BtR
+
+The problem with BtR, in short, is that it does not actually have any affordable housing, as has it has been recognised up until now. This was basically social rent and intermediate housing (part-buy/part-rent). Affordable rent (at up to 80% market rent),added in 2012 (check), has evolved in London Affordable Rent (LAR) and London Living Rent (LLR) under, Sadiq Khan.  There are big differences in rent/cost levels between these different kinds of affordable housing, but what they share is _relatively_ stable tenures; social rent and affordable rent are on assured or secure tenancies, with eventual ownership the ambition in the case of intermediate housing.
+
+BtR affordable housing does not supply this kind of affordable housing. It does not have social rent, intermediate rent or even Sadiq Khan's favoured LAR or LLR.  Instead it provides Discounted Market Rent 'products' - homes let at various rent levels, according to the household incomes of 'equivalents' on assured shorthold tenancies, so there is social rent equivalent, LAR rent equivalent, LLR equivalent, all with rents calculating as  
 
 
 
