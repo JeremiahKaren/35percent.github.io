@@ -6,7 +6,11 @@ subtitle: >-
   whether developers are delivering on their affordable housing promises.
 published: false
 ---
-In 2015 we [revealed](SN article) that developers were routinely failing to deliver on affordable housing promises. After the Council [rejected] our complaint we referred it to the Local Government Ombudsman. In October 2016, the Ombudsman delivered a damning report saying that..
+In 2015 we [revealed](SN article) that developers were routinely failing to deliver on affordable housing promises. After the Council [rejected] our complaint we referred it to the Local Government Ombudsman. In October 2016, the Ombudsman delivered a damning report saying that the Council didn't do any monitoring of s106 social housing delivery and relied entirely upon trusting the developer or housing association to deliver it. It concluded 'didn't have any way of knowing how much social housing had been lost" - and ordering the Council to conduct an audit to see how much social housing had been lost and take action to recover it where necessary.
+
+Three years later and a presentation by the Council's s106 manager concludes that:
+
+
 
 After countless fruitless efforts chasing Councillors for the audit in the three years that followed, in September this year we decided to ask a formal Cabinet question to the Council leader. The [response] was that..
 
