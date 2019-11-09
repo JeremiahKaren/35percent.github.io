@@ -10,6 +10,11 @@ In 2015 we [revealed](SN article) that developers were routinely failing to deli
 
 Three years later and a presentation by the Council's s106 manager concludes that:
 
+"It would be good to get a list of stock and have confidence in that list. At the moment we piece together bits from teams across the Council. I'm not sure how accurate it is." (page 11) [business case](https://www.southwark.gov.uk/assets/attach/10952/20190904_AH-Monitoring-Business-Case-for-Alpha-PUBLISH.pdf)
+
+"Monitoring of affordable housing linked to agreements is only feasible for future homes." (page 21).
+
+"There have been two major efforts to recover affordable homes - the Jam Factory and the Signal building. It is not known how many similar cases might be undetected." (page 24)
 
 
 After countless fruitless efforts chasing Councillors for the audit in the three years that followed, in September this year we decided to ask a formal Cabinet question to the Council leader. The [response] was that..
