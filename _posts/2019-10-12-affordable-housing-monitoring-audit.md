@@ -33,7 +33,3 @@ We checked this against the [London Development Database (LDD) of planning permi
 We didn't have time to go through the entire dataset so we took the twenty largest schemes and cross checked them against Southwark's audit.
 
 ![](http://35percent.org/img/audit_extract.png)
-
-
-
-
