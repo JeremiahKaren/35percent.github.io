@@ -7,7 +7,7 @@ categories:
   - New council homes
 published: true
 ---
-In 1997, Tony Blair chose the Aylesbury estate as the location for his inaugural speech, where he describes _"an underclass of people cut off from society's mainstream without any sense of shared purpose."_
+In 1997, Tony Blair chose the Aylesbury estate to launch Labour's new urban regeneration strategy, where he describes _"an underclass of people cut off from society's mainstream without any sense of shared purpose."_
 
 _"Behind the statistics lie households where three generations have never had a job...There are estates where the biggest employer is the drugs industry, where all that is left of the high hopes of the post-war planners is derelict concrete."_
 
