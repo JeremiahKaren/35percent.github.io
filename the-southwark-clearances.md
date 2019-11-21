@@ -7,9 +7,13 @@ categories:
   - New council homes
 published: true
 ---
-Twenty years ago, Fred Manson, Southwark Council's Director of Regeneration [laid out](http://heygate.github.io/img/EstatesGazette.pdf) the aims of the Labour council's new regeneration strategy in the Estates Gazette: _"We need to have a wider range of people living in the borough"_ because _"social housing generates people on low incomes coming in and that generates poor school performances, middle-class people stay away."_ He explained that the Council's new _'policy is aimed at reversing some of the problems caused by past social engineering.'_
+In 1997, Tony Blair chose the Aylesbury estate as the location for his inaugural speech, where he describes _"an underclass of people cut off from society's mainstream without any sense of shared purpose."_
 
-Twenty years later and it is clear to see that this policy has been a resounding success.
+_"Behind the statistics lie households where three generations have never had a job...There are estates where the biggest employer is the drugs industry, where all that is left of the high hopes of the post-war planners is derelict concrete."_
+
+Fred Manson, Southwark Council's Director of Regeneration (who was close to the Blairite elite and advised on Richard Rogers’s Urban Task Force report) subsequently [laid out](http://heygate.github.io/img/EstatesGazette.pdf) the aims of the Labour council's new regeneration strategy: _"We need to have a wider range of people living in the borough"_ because _"social housing generates people on low incomes coming in and that generates poor school performances, middle-class people stay away."_ He explained that _'the policy is aimed at reversing some of the problems caused by past social engineering.'_
+
+Twenty years later and it is clear to see that the council's regeneration strategy has been a resounding success.
 
 <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js">
 </script>
@@ -33,7 +37,7 @@ Twenty years later and it is clear to see that this policy has been a resounding
 		x: -20
             },
             xAxis: {
-                categories: ['1999', '2000', '2001', '2002', '2003', '2004', '2005', '2006', '2007', '2008', '2009', '2010', '2011', '2012', '2013', '2014', '2015', '2016', '2017', '2018']
+                categories: ['1997', '1998', '1999', '2000', '2001', '2002', '2003', '2004', '2005', '2006', '2007', '2008', '2009', '2010', '2011', '2012', '2013', '2014', '2015', '2016', '2017', '2018']
             },
             yAxis: {
                 title: {
@@ -56,13 +60,13 @@ Twenty years later and it is clear to see that this policy has been a resounding
             },
             series: [{
                 name: 'Southwark',
-                data: [51706, 50903, 49875, 48052, 46887, 45346, 43885, 42275, 41873, 41287, 40618, 40120, 39845, 39781, 38578, 39029, 38687, 38522, 38553, 38489]
+                data: [53363, 52448, 51706, 50903, 49875, 48052, 46887, 45346, 43885, 42275, 41873, 41287, 40618, 40120, 39845, 39781, 38578, 39029, 38687, 38522, 38553, 38489]
             }]
         });
 
 </script>
 
-Southwark has lost over 13,000 council homes since the strategy was announced in 1999. Whilst Right to Buy sales have played a part in the overall decline in stock, the Council's ongoing estate regeneration schemes have contributed to a significant proportion of the loss.
+Southwark has lost nearly 15,000 council homes since the strategy was announced. Whilst Right to Buy sales have played a part in the overall decline in stock, the Council's ongoing estate regeneration schemes have contributed to a significant proportion of the loss.
 
 |   | Estate  | Council homes demolished  | Total new homes  | of which social rented  |
 |---|---|---|---|---|
