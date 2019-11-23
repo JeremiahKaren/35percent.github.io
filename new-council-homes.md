@@ -1,12 +1,10 @@
 ---
 layout: page 
-title: '11000 new council homes: figures show loss rather than gain'
-subtitle: >-
-  Southwark demolishing and selling off council homes faster than it's building
-  them
+title: "Southwark's 11000 new council homes"
+subtitle: "Figures show council demolishing and selling off council homes much faster than it's building them"
 published: true
 ---
-In 2014, as part of its manifesto pledge Southwark Council's administration [announced](http://www.southwarklabour.co.uk/latest-news/southwark/news.aspx?p=102262) an _"ambitious but realistic plan to build 11,000 new council homes"_ across the borough over the next 30 years. Concerns were [raised by us](http://35percent.org/the-southwark-clearances) and in the [local press](https://crappistmartin.github.io/images/SNHeygateOverage.pdf) that this would fail to make up for the thousands of council homes currently being lost to ongoing estate regeneration, [void disposal policies](http://35percent.org/the-southwark-clearances/#void-disposal-policy) and Right to Buy applications over the next 30 years.
+In 2013, as part of its manifesto pledge Southwark Council's administration [announced](http://www.southwarklabour.co.uk/latest-news/southwark/news.aspx?p=102262) an _"ambitious but realistic plan to build 11,000 new council homes"_ across the borough over the next 30 years. Concerns were [raised by us](http://35percent.org/the-southwark-clearances) and in the [local press](https://crappistmartin.github.io/images/SNHeygateOverage.pdf) that this would fail to make up for the thousands of council homes currently being lost to ongoing estate regeneration, [void disposal policies](http://35percent.org/the-southwark-clearances/#void-disposal-policy) and Right to Buy applications over the next 30 years.
 
 ![](https://crappistmartin.github.io/images/SN1100homes.png)
 *Extract from an [Oct 2014 article in the local newspaper](https://crappistmartin.github.io/images/SNHeygateOverage.pdf)*
@@ -21,7 +19,7 @@ Councillor John went one step further to pledge that the first 1500 net addition
 ![](http://35percent.org/img/1500councilhomes.png)
 *Extract from [2014 Cabinet report](http://moderngov.southwark.gov.uk/documents/s47488/Report%20Long%20term%20plans%20for%20the%20delivery%20of%20new%20council%20homes.pdf)*
 
-Five years on and we have taken a look at whether Councillor John has delivered on his manifesto pledge. [Official statistics](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/674346/LT_116.xlsx) from the government's [live tables](https://www.gov.uk/government/statistical-data-sets/live-tables-on-dwelling-stock-including-vacants) on local authority dwelling stock show that since the manifesto pledge in 2014 there has been a net reduction in Southwark's council housing stock of 540 council homes.
+Six years on and we have taken a look at whether Councillor John has delivered on his manifesto pledge. [Official statistics](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/674346/LT_116.xlsx) from the government's [live tables](https://www.gov.uk/government/statistical-data-sets/live-tables-on-dwelling-stock-including-vacants) on local authority dwelling stock show that since the manifesto pledge in 2013 there has been a net reduction in Southwark's council housing stock of 540 council homes.
 
 ![](http://35percent.org/img/livetableextract.png)
 *Extract from the government's [Live Table 116](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/674346/LT_116.xlsx)*
