@@ -1,7 +1,7 @@
 ---
 layout: page 
 title: "Southwark's 11000 new council homes"
-subtitle: "Figures show council demolishing and selling off council homes much faster than it's building them"
+subtitle: "Council demolishing and selling off council homes much faster than it's building them"
 published: true
 ---
 In 2013, as part of its manifesto pledge Southwark Council's administration [announced](http://www.southwarklabour.co.uk/latest-news/southwark/news.aspx?p=102262) an _"ambitious but realistic plan to build 11,000 new council homes"_ across the borough over the next 30 years. Concerns were [raised by us](http://35percent.org/the-southwark-clearances) and in the [local press](https://crappistmartin.github.io/images/SNHeygateOverage.pdf) that this would fail to make up for the thousands of council homes currently being lost to ongoing estate regeneration, [void disposal policies](http://35percent.org/the-southwark-clearances/#void-disposal-policy) and Right to Buy applications over the next 30 years.
@@ -19,19 +19,22 @@ Councillor John went one step further to pledge that the first 1500 net addition
 ![](http://35percent.org/img/1500councilhomes.png)
 *Extract from [2014 Cabinet report](http://moderngov.southwark.gov.uk/documents/s47488/Report%20Long%20term%20plans%20for%20the%20delivery%20of%20new%20council%20homes.pdf)*
 
-Six years on and we have taken a look at whether Councillor John has delivered on his manifesto pledge. [Official statistics](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/674346/LT_116.xlsx) from the government's [live tables](https://www.gov.uk/government/statistical-data-sets/live-tables-on-dwelling-stock-including-vacants) on local authority dwelling stock show that since the manifesto pledge in 2013 there has been a net reduction in Southwark's council housing stock of 540 council homes.
+Six years on and we have taken a look at whether Councillor John has delivered on his manifesto pledge.
+
+This [Sep 2019 Cabinet report](http://moderngov.southwark.gov.uk/documents/s84622/Report%20New%20Council%20Homes%20Rooftop%20Development%20Principles.pdf) confirms that the council has built just 328 council homes over 5 years (para 16).  
+
+[Official statistics](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/674346/LT_116.xlsx) from the government's [live tables](https://www.gov.uk/government/statistical-data-sets/live-tables-on-dwelling-stock-including-vacants) on local authority dwelling stock show that since the manifesto pledge in 2013 there has been a net reduction in Southwark's council housing stock of 540 council homes.
 
 ![](http://35percent.org/img/livetableextract.png)
 *Extract from the government's [Live Table 116](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/674346/LT_116.xlsx)*
 
-The figures aren't saying that Southwark hasn't built any new council homes, only that the rate at which it is building has not kept up with the rate at which it is knocking them down and selling them off. The Council has or will demolish [over 7,500 council homes](http://35percent.org/the-southwark-clearances/) as part of regeneration schemes, including  1,200 council homes in the [Heygate estate regeneration](http://35percent.org/heygate-regeneration-faq/) and circa 2,400 in the [Aylesbury estate regeneration](http://35percent.org/aylesbury-estate/).
+The rate at which the council is building new homes is clearly not keeping up with the rate at which it is knocking them down and selling them off. The Council has or will demolish [over 7,500 council homes](http://35percent.org/the-southwark-clearances/) as part of regeneration schemes, including  1,200 council homes in the [Heygate estate regeneration](http://35percent.org/heygate-regeneration-faq/) and circa 2,400 in the [Aylesbury estate regeneration](http://35percent.org/aylesbury-estate/).
 
 In addition, it has [sold 1,300 council homes under the Right to Buy since 2012](https://www.insidehousing.co.uk/comment/comment/how-we-will-attempt-to-restrict-high-rents-on-right-to-buy-re-lets-58865) and has an [ongoing policy](http://35percent.org/the-southwark-clearances/#void-disposal-policy) of selling every council home that becomes vacant which is valued at £300k or more.
 
-Meanwhile, this [Sep 2019 Cabinet report](http://moderngov.southwark.gov.uk/documents/s84622/Report%20New%20Council%20Homes%20Rooftop%20Development%20Principles.pdf) confirms that the council has built just 328 council homes over 5 years (para 16).  
 
 ## Buying affordable housing instead
-The [Cabinet report](http://moderngov.southwark.gov.uk/documents/s84622/Report%20New%20Council%20Homes%20Rooftop%20Development%20Principles.pdf) confirms that an additional 258 units of developer-built (S106) affordable housing have been bought by Southwark, to become council housing (para 17). One such example is Blackfriars Circus, where the Council has [bought](http://35percent.org/2017-04-29-blackfriars-affordable-housing-circus/) 56 homes for £10m from developer Barratt.
+The [Cabinet report](http://moderngov.southwark.gov.uk/documents/s84622/Report%20New%20Council%20Homes%20Rooftop%20Development%20Principles.pdf) (para 16) confirms that an additional 258 units of developer-built (S106) affordable housing have been bought by Southwark, to become council housing (para 25). One such example is Blackfriars Circus, where the Council has [bought](http://35percent.org/2017-04-29-blackfriars-affordable-housing-circus/) 56 homes for £10m from developer Barratt.
 
 ![](http://35percent.org/img/tweetmwilliamsblackfriars.png)
 
