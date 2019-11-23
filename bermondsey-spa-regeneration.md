@@ -16,23 +16,10 @@ The [officer's report](http://moderngov.southwark.gov.uk/documents/s27524/Report
 
 ![](http://crappistmartin.github.io/images/hydehousingofficerreport.png)
 
-However, in the [section 106 agreement](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!EK7yiximvJWNpj1%2bOiKq%2bg%3d%3d!%7d%7d%7d) for this application, the social rented units are described as 'affordable rent' - enabling rents of up to 80% market rent:
 
- 
-![](http://crappistmartin.github.io/images/hydehousings106.png)
-
-In Jan 2016, Hyde [advertised](http://web.archive.org/web/20160112154349/https://www.sharetobuy.com/sharedownershippropertydetails?id=21879) a 3-bed 'affordable' unit in this development for rent at £1,849 per month.
-
-![](http://crappistmartin.github.io/images/65percentmr.jpg)
-
-
-### 05/AP/2617
-The other part of site D was developed several years prior by Hyde Housing. 
+The other part of site D was developed several years prior by Hyde Housing under application reference 05/AP/2617. 
 
 [Planning application documents](http://planbuild.southwark.gov.uk:8190/online-applications/applicationDetails.do?activeTab=externalDocuments&keyVal=_STHWR_DCAPR_9520013) show that 138 homes were approved here, of which 38 should have been social rent.
-
-However, the [s106 agreement](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!ov1A%2bEO76tHjONrLVbtEug%3d%3d!%7d%7d%7d) provides an accommodation schedule of which units should be social rent, but fails to provide a definition of social rent. 
-
 
 ## Sites E to U (Hyde Housing Association) 
 
@@ -51,7 +38,6 @@ Reserved matters relating to the outline permission were granted for Sites E-H a
 The demolished council blocks were 1-18 Giles House, 1-30 Carton House, 1-29 Darnay House.
 
 ![](http://crappistmartin.github.io/images/darnayhouse.jpg)
-
 
 
 ## SITE O (Bellway Homes)
