@@ -4,6 +4,8 @@ title: "Silwood estate regeneration"
 sharing: true
 footer: true
 ---
+<img src="https://www.towerblock.eca.ed.ac.uk/sites/default/files/L36-01.jpg" align="center" width="600">
+
 Half of the Silwood estate used to lie in Lewisham, the rest of the estate used to be situated in Southwark before it was knocked down.
 
 The estate was redeveloped as part of the ['Single Regeneration Budget Initiative'](http://embed.verite.co/timeline/?source=0Aprl6XcACewydEhRaWFOLVBfUjBSVW1HUGVZNEhGeFE&font=Bevan-PotanoSans&maptype=toner&lang=en&hash_bookmark=true&start_zoom_adjust=2&height=650#1), a regeneration strategy devised by New Labour's 'Urban Task Force' urban renewal strategy. 
@@ -20,17 +22,12 @@ The Land Registry documents and the committee report both confirmed that the Cou
 
 ![](http://35percent.org/img/silwoodoverage.png)
 
-Given the 40%+ rise in Southwark property prices between the signing of the overage deal and completion of the development, we made an [FOI request](https://www.whatdotheyknow.com/request/silwood_estate_regeneration_site/new) in March 2016, asking how much overage the Council had received. The Council responded that it was _"able to confirm that £546,047 was received in September 2014, but a further overage payment is currently being negotiated."_
+We made an [FOI request](https://www.whatdotheyknow.com/request/silwood_estate_regeneration_site/new) in March 2016, asking how much overage the Council had received. The Council responded that it was _"able to confirm that £546,047 was received in September 2014, but a further overage payment is currently being negotiated."_
 
 ![](/img/silwoodstreetplan.png)
 *Silwood estate - sold to Higgins Homes and Notting Hill for just £2.6m*
 
-Southwark's response is baffling. Why hasn't it profited from the huge increase in property prices between 2009 and 2014 when the development completed? Why is it having to try and 'negotiate' futher overage now? Surely if a legal agreement had been signed securing the overage then 'further negotiation' wouldn't be necessary?
-
-![](http://crappistmartin.github.io/images/silwood.jpg)
-
-
-![](http://www.derelictlondon.com/uploads/5/6/0/3/5603187/4473730_orig.jpeg)
+## Social rent or affordable rent?
 
 The [officer's report](http://planbuild.southwark.gov.uk:8190/online-applications/applicationDetails.do?activeTab=summary&keyVal=_STHWR_DCAPR_9538787) for Notting Hill's planning application for site 4B, confirmed that the block would be replaced by 127 new homes of which 22 would be social rented.
 
@@ -42,11 +39,9 @@ However, the [Section 106 legal](http://planbuild.southwark.gov.uk/documents/?Ge
 
 We [wrote](https://www.whatdotheyknow.com/request/conversions_from_social_rent_to_3) to Notting Hill asking whether these 22 units were currently being let at social rents or affordable rent. They didn't reply and have not responded to follow up requests.
 
-We since discovered that the 22 'social rented' units are listed in the [GLA affordable housing database](http://data.london.gov.uk/dataset/gla-affordable-housing-programme-outturn/resource/0c87e5dc-f1e9-4edf-b246-bef6b40a9ba3) as affordable rent.
+We since discovered that the 22 'social rented' units are listed in the [GLA affordable housing database](http://data.london.gov.uk/dataset/gla-affordable-housing-programme-outturn/resource/0c87e5dc-f1e9-4edf-b246-bef6b40a9ba3) as affordable rent and have included this scheme as part of our [complaint to the local government ombudsman](/redefining-social-rent).
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ZM733_MrNfI" frameborder="0" allowfullscreen></iframe>
 
-![](/img/silwoodhalfdemolished.jpeg)
 
-![](/img/silwoodalpineroad.jpg)
 
