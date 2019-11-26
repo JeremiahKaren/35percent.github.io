@@ -70,19 +70,17 @@ Southwark has lost nearly 15,000 council homes since Blair's Aylesbury estate sp
 
 |   | Estate  | Council homes demolished  | Total new homes  | of which social rented  |
 |---|---|---|---|---|
-| <img src="http://crappistmartin.github.io/images/silwood.jpg" height="150" width="150"> | [Silwood estate](http://35percent.org/silwood-estate-regeneration/)  | 63  | 127  | 22  |
-| <img src="http://crappistmartin.github.io/images/BermondseySpaDemolition.jpg" height="150" width="150">  | [Bermondsey Spa](http://35percent.org/bermondsey-spa-regeneration/)  | 131  | 2000  | 314  |
-| <img src="http://crappistmartin.github.io/images/elmingtondemolition.jpg" height="150" width="150"> | [Elmington estate](http://35percent.org/elmington-estate-regeneration/) | 519  | 640  | 215  |
-| <img src="http://crappistmartin.github.io/images/wooddene1.jpg" height="150" width="150"> | [Wood Dene estate](http://35percent.org/wood-dene-estate-regeneration/) | 316 | 333 | 54 |
-| <img src="http://crappistmartin.github.io/images/heygatedemolition.jpg" height="150" width="150"> | [Heygate estate](http://35percent.org/heygate-regeneration-faq/) | 1034 | 2704 | 82 |
-| <img src="http://crappistmartin.github.io/images/aylesburydemolition.jpg" height="150" width="150"> | [Aylesbury estate](http://35percent.org/aylesbury-estate/) | 2402 | 3575 | 1471 |
-| <img src="http://crappistmartin.github.io/images/northpeckham5.jpg" height="150" width="150"> | [North Peckham estate](http://35percent.org/north-peckham-estate/) | 3203 | 2019 | 1184 |
-| <img src="http://35percent.org/img/marchantyeomancourts.jpg" height="150" width="150"> | [Coopers Road estate](http://35percent.org/coopers-road-estate/) | 196 | 247 | 98 |
-|   | __Total:__ | __7639__ | __11284__ | __3266__ |
+| <img src="http://crappistmartin.github.io/images/silwood.jpg" height="150" width="150"> | [Silwood estate](http://35percent.org/silwood-estate-regeneration/)  | 95  | 182  | 55  |
+| <img src="http://crappistmartin.github.io/images/BermondseySpaDemolition.jpg" height="150" width="150">  | [Bermondsey Spa](http://35percent.org/bermondsey-spa-regeneration/)  | 147  | 1553  | 491  |
+| <img src="http://crappistmartin.github.io/images/elmingtondemolition.jpg" height="150" width="150"> | [Elmington estate](http://35percent.org/elmington-estate-regeneration/) | 519  | 559  | 256  |
+| <img src="http://crappistmartin.github.io/images/wooddene1.jpg" height="150" width="150"> | [Wood Dene estate](http://35percent.org/wood-dene-estate-regeneration/) | 323 | 333 | 54 |
+| <img src="http://crappistmartin.github.io/images/heygatedemolition.jpg" height="150" width="150"> | [Heygate estate](http://35percent.org/heygate-regeneration-faq/) | 1212 | 2704 | 82 |
+| <img src="http://crappistmartin.github.io/images/aylesburydemolition.jpg" height="150" width="150"> | [Aylesbury estate](http://35percent.org/aylesbury-estate/) | 2758 | 3575 | 1471 |
+| <img src="http://crappistmartin.github.io/images/northpeckham5.jpg" height="150" width="150"> | [North Peckham estate](http://35percent.org/north-peckham-estate/) | 3203 | 2019 | 710 |
+| <img src="http://35percent.org/img/marchantyeomancourts.jpg" height="150" width="150"> | [Coopers Road estate](http://35percent.org/coopers-road-estate/) | 196 | 247 | 107 |
+|   | __Total:__ | __8453__ | __11172__ | __3226__ |
 
-![](http://35percent.org/img/kthb1.jpg)
-
-That's a loss of 7,639 council homes and net loss of 4,424 social rented homes as a direct result of Southwark's regeneration schemes to date. GLA assembly member Sian Berry [has predicted](http://www.sianberry.london/news/housing/2018_09_03_net_loss-of-council-homes-regeneration/) that Southwark is set to lose 2,196 social rented homes as a result of estate redevelopment schemes in its current pipeline (far more than any other borough). In addition, we can't even be sure that the small number of social rented homes re-provided aren't actually let at affordable rent - an increasingly common phenomenon as reported [here](http://35percent.org/redefining-social-rent/). 
+That's a loss of 8,453 council homes and net loss of 5,227 social rented homes as a direct result of Southwark's regeneration schemes to date. GLA assembly member Sian Berry [has predicted](http://www.sianberry.london/news/housing/2018_09_03_net_loss-of-council-homes-regeneration/) that Southwark is set to lose 2,196 social rented homes as a result of estate redevelopment schemes in its current pipeline (far more than any other borough). In addition, we can't even be sure that the small number of social rented homes re-provided aren't actually let at affordable rent - an increasingly common phenomenon as reported [here](http://35percent.org/redefining-social-rent/). 
 
 ![](http://35percent.org/img/schematicpipeline.jpg)
 *Extract from GLA assembly member Sian Berry's research*
@@ -100,7 +98,7 @@ In 2009, Southwark's Tory/Lib Dem administration introduced a policy of selling 
 *A [sample](/sold_by_southwark.pdf) of hundreds of council homes sold by the current Labour administration under this policy*
 
 ## Municipal fire sale
-It is not just council homes that are being sold off. Southwark's 'modernisation' drive has seen it [sell off both Bermondsey, Peckham and Walworth Town Halls](http://35percent.org/southwark-town-halls/); [Harper Rd Social Services Centre](/img/23harperroad.pdf); [Tuke Street School](/woods-road); Castle Day Centre; [Whitstable Day Nursery; Abbey St Children's Home](http://moderngov.southwarksites.com/mgConvert2PDF.aspx?ID=7853); Willowbrook Community Centre; Wansey St Homeless Hostel; Manor Place baths, depot & coroners building; [Cherry Garden school](http://moderngov.southwark.gov.uk/ieDecisionDetails.aspx?Id=6723); [Southwark Park Rd Day Centre](https://www.southwark.gov.uk/regeneration/southwark-regeneration-in-partnership-programme?chapter=14) and Bermondsey Library.
+It is not just council homes that are being sold off. Southwark's 'modernisation' drive has seen it [sell off both Bermondsey, Peckham and Walworth Town Halls](http://35percent.org/southwark-town-halls/); [Harper Rd Social Services Centre](/img/23harperroad.pdf); [Tuke Street School](/woods-road); Castle Day Centre; [Whitstable Day Nursery; Abbey St Children's Home](http://moderngov.southwarksites.com/mgConvert2PDF.aspx?ID=7853); Willowbrook Community Centre; Wansey St Homeless Hostel; Manor Place baths, depot & coroners building; [Cherry Garden school](http://moderngov.southwark.gov.uk/ieDecisionDetails.aspx?Id=6723); [Southwark Park Rd Day Centre](http://moderngov.southwark.gov.uk/documents/s83680/Report%20Gateway%202%20345%20Southwark%20Park%20Road%20SE16.pdf) and Bermondsey Library.
 
 ![](http://35percent.org/img/selloff2.png)
 
