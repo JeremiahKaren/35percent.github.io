@@ -1,14 +1,12 @@
 ---
 layout: page
-title: "North Peckham estate regeneration"
+title: "North Peckham regeneration"
 sharing: true
 footer: true
 ---
 ![](/img/camden-estate-2.jpg)
 
-[http://news.bbc.co.uk/1/hi/england/1841755.stm](http://news.bbc.co.uk/1/hi/england/1841755.stm)
 
-The North Peckham estate was redeveloped as part of the ['Southwark Estates Initiative'](http://embed.verite.co/timeline/?source=0Aprl6XcACewydEhRaWFOLVBfUjBSVW1HUGVZNEhGeFE&font=Bevan-PotanoSans&maptype=toner&lang=en&hash_bookmark=true&start_zoom_adjust=2&height=650#1), a regeneration strategy devised by Southwark's Labour administration as part of New Labour's 'Urban Task Force' urban renewal strategy. 
 
 The [GLA report](http://legacy.london.gov.uk/mayor/planning_decisions/strategic_dev/dec1802/five_estates_peckham_report.rtf) relating to the North Peckham estate regeneration describes the scheme as follows: 
 
@@ -32,6 +30,8 @@ The excellent Municipal Dreams blog has written extensively
 and 
 [here](https://municipaldreams.wordpress.com/2016/10/25/the-five-estates-peckham-part-iii/)
 about the history of the North Peckham estate and its regeneration.
+
+There is also this BBC article: [http://news.bbc.co.uk/1/hi/england/1841755.stm](http://news.bbc.co.uk/1/hi/england/1841755.stm)
 
 ![](/img/northpeckhamdemogoogle.png)
 
