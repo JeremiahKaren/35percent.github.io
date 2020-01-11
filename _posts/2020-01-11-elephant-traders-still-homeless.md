@@ -13,7 +13,7 @@ The figure of 130 independant traders (ie traders with less than three outlets) 
 
 In February 2019, Southwark responded to [a Freedom OF Information](https://www.whatdotheyknow.com/request/independently_owned_retail_busin?nocache=incoming-1334948#incoming-1334948) request, with a [database](https://www.whatdotheyknow.com/request/555280/response/1334948/attach/2/190321%20For%20FOI%20EC%20traders.pdf%201037530.pdf) of 79 independent businesses; Latin Elephant identified a further [21 businesses omitted](https://latinelephant.org/map/#Q7) from this.
 
-Regardless of the conflicting information and of however many businesses there may have been, in 21 March 2019, a Southwark Cabinet Member confirmed that [only 36](https://twitter.com/kieronjwilliams/status/1108781273630289920?s=12) of those remaining had been offered a relocation unit.
+Regardless of the conflicting information in 21 March 2019, a Southwark Cabinet Member confirmed that [only 36](https://twitter.com/kieronjwilliams/status/1108781273630289920?s=12) of those remaining, however many it might be, had been offered a relocation unit.
 
 ## Not enough relocation space
 
