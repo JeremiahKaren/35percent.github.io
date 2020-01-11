@@ -23,7 +23,7 @@ So, in the best-case scenario, and discounting the East St market pitches, there
 
 ## Not enough money
 
-Another obstacle to successful relocation is the cost of moving, fitting-out new premises and re-establishing the business.  The relocation fund provided by Delancey stands at [£634,700](https://www.southwark.gov.uk/regeneration/elephant-and-castle?chapter=20), with a vague commitment to an unspecified greater amount, if it is needed.  This averages out at a modest £17,630 per trader, given 36 traders and a very modest £6,340, given the hundred current traders.  In fact, the costs will of course vary, according to size and other needs and at least one trader has been quoted a fit-out cost of £xxx (EXAMPLE).
+Another obstacle to successful relocation is the cost of moving, fitting-out new premises and re-establishing the business.  The relocation fund provided by Delancey stands at [£634,700](https://www.southwark.gov.uk/regeneration/elephant-and-castle?chapter=20), with a vague commitment to an unspecified greater amount, if it is needed.  This averages out at a modest £17,630 per trader, given thirty-six traders and a very modest £6340, given the 97 current traders identified by Latin Elephant.  In fact, the costs will of course vary, according to size and other needs and at least one trader has been quoted a fit-out cost of £xxx (EXAMPLE).
 
 ## Feeble enforcement from Southwark Council
 
