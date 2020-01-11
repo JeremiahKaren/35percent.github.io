@@ -37,10 +37,11 @@ Even those traders who have been allocated space have justifable compliants abou
 
 Several FOI requests have been made to Southwark, in pursuit of information about the traders' relocation. The [latest request](https://www.whatdotheyknow.com/request/independent_traders_in_elephant?unfold=1#incoming-1456513) is for information about which traders have succeeded in their relocation requests (thirty-six in number), those refused (28 in number), those who have left the Elephant and Castle, plus the 130 Elephant traders initially identified by Southwark, back in January 2018.  Perhaps unsurprisingly this requst has been refused, on the grounds that it would prejudice the commercial interests of third parties and awaits the outcome of an appeal, against the decision.
 
-Latin Elephant note
+## A bad tale continues
 
-An Evening Standard article, enthusiastically retweeted by Southwark Council leader Peter John, tells the Elephant redevelopment story that developer Delancey wants the world  to believe - new homes, new jobs, bright new everything.  Latin Elephant and petit elephant through their diligent research shows that this is not a true picture - the traders, their families, customers and the social fabric they have built over many years is being pulled apart to enable this 'bright future'. 
+An Evening Standard article, enthusiastically [endorsed by Southwark Council leader Peter John](https://twitter.com/peterjohn6/status/1214971921277890560), tells the shopping centre redevelopment story that developer Delancey wants the world  to believe in - new homes, new jobs, 'funky street food'.  Through their diligent research Latin Elephant and petit elephant tell a different story; one of [neglect and broken promises](http://35percent.org/2017-04-02-traders-charter-broken-promises/). The independant  traders, their families, customers and the social fabric they have built over many years is being pulled apart to enable this 'bright future'. 
 
-Another bad tale of neglect and broken promises.  [Traders Charter](http://35percent.org/2017-04-02-traders-charter-broken-promises/).  Not too late for Southwark to at least partly redeem themselves - more space, more money for relocation fund
+But it is not too late for Southwark to at least partly redeem themselves (though it may take a different leader) - the traders need more space and more money for their relocation fund.  Delancey (and Lendlease) are well able to provide it.  Delancey's anticipated profit from the shopping centre redevelopment is at [least £137.1m](http://35percent.org/2018-07-02-viability-and-delancey/).
 
-Demo in support of traders - Tuesday 28 January Southwark Council Head Offices, Tooley St 6pm
+There will be a [demonstration, organised by Up The Elephan campaign](https://twitter.com/UpTheElephant_), in support of the traders on at Southwark Council's first aaembly meeting of the year on **Tuesday 28 January Southwark Council Head Offices, Tooley St 6pm** - everyone who wants a fairer, inclusive regeneration at the Elephant is welcome.
+
