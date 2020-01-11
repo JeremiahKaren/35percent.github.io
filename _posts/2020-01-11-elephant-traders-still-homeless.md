@@ -43,5 +43,5 @@ An Evening Standard article, enthusiastically [endorsed by Southwark Council lea
 
 But it is not too late for Southwark to at least partly redeem themselves (though it may take a different leader) - the traders need more space and more money for their relocation fund.  Delancey (and Lendlease) are well able to provide it.  Delancey's anticipated profit from the shopping centre redevelopment is at [least £137.1m](http://35percent.org/2018-07-02-viability-and-delancey/).
 
-There will be a [demonstration, organised by Up The Elephan campaign](https://twitter.com/UpTheElephant_), in support of the traders on at Southwark Council's first aaembly meeting of the year on **Tuesday 28 January Southwark Council Head Offices, Tooley St 6pm** - everyone who wants a fairer, inclusive regeneration at the Elephant is welcome.
+There will be a [demonstration, organised by Up The Elephan campaign](https://twitter.com/UpTheElephant_), in support of the traders on at Southwark Council's first assembly meeting of the year on **Tuesday 28 January Southwark Council Head Offices, Tooley St 6pm** - everyone who wants a fairer, inclusive regeneration at the Elephant is welcome.
 
