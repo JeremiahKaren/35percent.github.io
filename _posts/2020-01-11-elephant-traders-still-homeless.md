@@ -27,7 +27,13 @@ Another obstacle to successful relocation is the cost of moving, fitting-out new
 
 ## Southwark refuse information
 
-Several FOI requests have been made to Southwark, in pursuit of information about the traders' relocation. the [latest requesr](https://www.whatdotheyknow.com/request/independent_traders_in_elephant?unfold=1#incoming-1456513) is for in
+The relocation strategy was inadequate from the start, with too little space to move to and too little money to do it with, but it has been made worse by ineffectual enforcement by  Southwark Council.
+
+The relocation process is effectively controlled by Delancey and fellow developer Lendlease, in the case of Elephant Park premises. Both developers have obligations tp provide affordable retail premises to shopping centre traders, under their respective legal s106 development agreements with Southwark Council.  Southwark therefore has the power to take action if it thinks that these obligations are not being fulfilled.  Traders complain that this is indeed the case, with shopping centre traders not fitting the profile required for the new Elephant developments.  Southwark Law Centre has taken up the case of one trader, refused premises because of the nature of his trade. (OTHER EXAMPLES?)
+
+Even those traders who have been allocated space have justifable compliants about its size, cost and position - all critical factors for successfully continuing business.  There are particular complaints about one of the relocation sites, Perronet House.  Despite being owned by Southwark Council, who is thus the traders new landlord the service charges will be higher than for Castle House, the relocation site owned by Delancey. (FIGURES?)  
+
+Several FOI requests have been made to Southwark, in pursuit of information about the traders' relocation. the [latest requesr](https://www.whatdotheyknow.com/request/independent_traders_in_elephant?unfold=1#incoming-1456513) is for information about who has succeeded in relocation 
 
 Latin Elephant note
 
