@@ -23,9 +23,11 @@ So, in the best-case scenatrio, and discounting the East St market pitches, ther
 
 ## Not enough money
 
-Another obstacle to successful relocation is the cost of moving, fitting-out new premises and reetablishing their busimess.  The relocation fund provided by Delancey stands at £634,700, with a vague commitment to an unspecified greater amount, if it is needed.  This averages out at a modest £17,630 per trader, given 36 traders and a very modest £6,340 given the hundred current traders 
+Another obstacle to successful relocation is the cost of moving, fitting-out new premises and reetablishing their busimess.  The relocation fund provided by Delancey stands at £634,700, with a vague commitment to an unspecified greater amount, if it is needed.  This averages out at a modest £17,630 per trader, given 36 traders and a very modest £6,340 given the hundred current traders.  In fact, the costs will of course vary, according to size and other needs and at least one trader has been quoted a fit out cost of £xxx.
 
-## Southwark refuse information 
+## Southwark refuse information
+
+Several FOI requests have been made to Southwark, in pursuit of information about the traders' relocation. the [latest requesr](https://www.whatdotheyknow.com/request/independent_traders_in_elephant?unfold=1#incoming-1456513) is for in
 
 Latin Elephant note
 
