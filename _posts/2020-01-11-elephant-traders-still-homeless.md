@@ -31,7 +31,7 @@ The trader' relocation strategy was inadequate from the start, with too little s
 
 The relocation process is effectively controlled by Delancey and, in the case of Elephant Park premises, fellow developer Lendlease. Both developers have obligations to provide affordable retail premises to shopping centre traders, under their respective legal s106 development agreements with Southwark Council.  Southwark therefore has the power to take action if it thinks that these obligations are not being fulfilled.  Traders complain that this is indeed the case, with shopping centre traders not fitting the profile required by Delancey and Lendlease for the new Elephant developments.  Southwark Law Centre has taken up the case of one trader, refused premises because of the nature of his trade. (OTHER EXAMPLES?)
 
-Even those traders who have been allocated space have justifable compliants about its size, cost and position - all critical factors for successfully continuing business.  There are particular complaints about one of the relocation sites, Perronet House.  Despite being owned by Southwark Council, who is thus the traders new landlord, the service charges will be higher there than tose for Castle House, the relocation site owned by Delancey. (FIGURES?)
+Even those traders who have been allocated space have justifiable complaints about its size, cost and position - all critical factors for successfully continuing business.  There are particular complaints about one of the relocation sites, Perronet House.  Despite being owned by Southwark Council, who is thus the traders new landlord, the service charges will be higher there than tose for Castle House, the relocation site owned by Delancey. (FIGURES?)
 
 ## Twenty eight traders refused relocation premises
 
