@@ -33,9 +33,9 @@ The relocation process is effectively controlled by Delancey and, in the case of
 
 Even those traders who have been allocated space have justifable compliants about its size, cost and position - all critical factors for successfully continuing business.  There are particular complaints about one of the relocation sites, Perronet House.  Despite being owned by Southwark Council, who is thus the traders new landlord, the service charges will be higher there than tose for Castle House, the relocation site owned by Delancey. (FIGURES?)
 
-## Southwark refuse information
+## Twenty eight traders refused relocation premises
 
-Several FOI requests have been made to Southwark, in pursuit of information about the traders' relocation. The [latest requesr](https://www.whatdotheyknow.com/request/independent_traders_in_elephant?unfold=1#incoming-1456513) is for information about who has succeeded in their relocation requests, who have been refused, who have left the Elephant and Castle, plus the 130 traders initially identified by Southwark, back in January 2018.  Perhaps unsurprisingly this has been refused, on the grounds that it would prejudice the commercial interests of third parties. 
+Several FOI requests have been made to Southwark, in pursuit of information about the traders' relocation. The [latest request](https://www.whatdotheyknow.com/request/independent_traders_in_elephant?unfold=1#incoming-1456513) is for information about which traders have succeeded in their relocation requests (thirty-six in number), those refused (28 in number), those who have left the Elephant and Castle, plus the 130 Elephant traders initially identified by Southwark, back in January 2018.  Perhaps unsurprisingly this requst has been refused, on the grounds that it would prejudice the commercial interests of third parties and awaits the outcome of an appeal, against the decision.
 
 Latin Elephant note
 
