@@ -11,11 +11,11 @@ Latin Elephant has been tracking the movement of the traders since December 2018
 
 According to figures supplied by Southwark Council in January 2018 the shopping centre held around 130 independant traders (ie traders with less than three outlets).  These including market stallholders and businessses in Hannibal House, the office block above the centre, all lying within the so-called 'red-line' of the proposed redevelopment area.  Latin Elephant then conducted its own survey in December 2018 which found only 97 remained, indicating a loss of 30 traders over the year.
 
-In February 2019, Southwark provided a [database](https://www.whatdotheyknow.com/request/555280/response/1334948/attach/2/190321%20For%20FOI%20EC%20traders.pdf%201037530.pdf) of 79 independant businesses in response to [Freedom of Information request](https://www.whatdotheyknow.com/request/independently_owned_retail_busin?nocache=incoming-1334948#incoming-1334948), drawn from their planning report of December 2018, indicating a further drop of over 20 businesses.
+In February 2019, Southwark responded to [a Freedom OF Information](https://www.whatdotheyknow.com/request/independently_owned_retail_busin?nocache=incoming-1334948#incoming-1334948) request, with a [database](https://www.whatdotheyknow.com/request/555280/response/1334948/attach/2/190321%20For%20FOI%20EC%20traders.pdf%201037530.pdf) of 79 independant businesses; Latin Elephant identified a further [21 businesses omitted](https://latinelephant.org/map/#Q7) from this.
 
-In 21 March 2019, a Southwark Cabinet Member confirmed that only 36 businesses, out of the remaining seventy-nine had been offered a relocation unit.
+In 21 March 2019, a Southwark Cabinet Member confirmed that [only 36 businesses](https://twitter.com/kieronjwilliams/status/1108781273630289920?s=12) of those remaining, however many this may have been, had been offered a relocation unit.
 
-developer Delancey embarked on its redevelopment plans back in 2014 (?).  the beginning of the submission of the findings are detailed in an interactive map and webpage and was posted
+Latin Elephant note
 
 An Evening Standard article, enthusiastically retweeted by Southwark Council leader Peter John, tells the Elephant redevelopment story that developer Delancey wants the world  to believe - new homes, new jobs, bright new everything.  Latin Elephant and petit elephant through their diligent research shows that this is not a true picture - the traders, their families, customers and the social fabric they have built over many years is being pulled apart to enable this 'bright future'. 
 
