@@ -13,11 +13,11 @@ The figure of 130 independant traders (ie traders with less than three outlets) 
 
 In February 2019, Southwark responded to [a Freedom OF Information](https://www.whatdotheyknow.com/request/independently_owned_retail_busin?nocache=incoming-1334948#incoming-1334948) request, with a [database](https://www.whatdotheyknow.com/request/555280/response/1334948/attach/2/190321%20For%20FOI%20EC%20traders.pdf%201037530.pdf) of 79 independent businesses; Latin Elephant identified a further [21 businesses omitted](https://latinelephant.org/map/#Q7) from this.
 
-Regardless of the conflicting information, in March 2019, a Southwark confirmed that [only 36](https://twitter.com/kieronjwilliams/status/1108781273630289920?s=12) of those remaining, however many it might be, had been offered a relocation unit.
+Regardless of the conflicting information, in March 2019, a Southwark confirmed that [only 36](https://twitter.com/kieronjwilliams/status/1108781273630289920?s=12) of those traders remaining, however many that might be, had been offered a relocation unit.
 
 ## Not enough relocation space
 
-On the other side of the equation Latin Elephant identify 46 retail units available for traders, over three sites (Perronet House, Elephant One, and Castle Square).  A further 8 units should also be available on the Elephant Park development (formerly the Heygate estate), with about the same number available at a later date. Thirty market pitches in East St market have also been suggested, but this is nearly a mile away (?).
+On the other side of the equation [Latin Elephant identify](https://latinelephant.org/map/#Q7) 46 retail units available for traders, over three sites (Perronet House, Elephant One, and Castle Square).  A further 8 units should also be available on the Elephant Park development (formerly the Heygate estate), with about the same number available at a later date. Thirty market pitches in East St market have also been suggested, but this is nearly a mile away.
 
 So, in the best-case scenario, and discounting the East St market pitches, there is only just about half the number of units that are needed to accommodate the remaining traders.  This estimate, of course, is based on the unrealistic assumption that the units under offer are an exact match to the requirements of the traders eg the size, cost, location, use-class etc; when these factors are put into the equation the available options of suitable new premises for each trader diminish significantly.
 
