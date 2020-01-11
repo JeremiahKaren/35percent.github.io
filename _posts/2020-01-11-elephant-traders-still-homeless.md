@@ -13,7 +13,13 @@ According to figures supplied by Southwark Council in January 2018 the shopping 
 
 In February 2019, Southwark responded to [a Freedom OF Information](https://www.whatdotheyknow.com/request/independently_owned_retail_busin?nocache=incoming-1334948#incoming-1334948) request, with a [database](https://www.whatdotheyknow.com/request/555280/response/1334948/attach/2/190321%20For%20FOI%20EC%20traders.pdf%201037530.pdf) of 79 independant businesses; Latin Elephant identified a further [21 businesses omitted](https://latinelephant.org/map/#Q7) from this.
 
-In 21 March 2019, a Southwark Cabinet Member confirmed that [only 36 businesses](https://twitter.com/kieronjwilliams/status/1108781273630289920?s=12) of those remaining, however many this may have been, had been offered a relocation unit.
+However many there may have been, In 21 March 2019, a Southwark Cabinet Member confirmed that [only 36 businesses](https://twitter.com/kieronjwilliams/status/1108781273630289920?s=12) of those remaining had been offered a relocation unit.
+
+## Not enough relocation space
+
+On the other side of the equation Latin Elephant identify 46 retail units available for traders, over three sites (Perronet House, Elephant One, and Castle Square).  A further 8 units should also be available on the Elephant Park development (formerly the Heygate estate), with about the same number available at a later date. Thirty market pitches in East St market have also been suggested, but these are a mile away.
+
+So, in the best-case scenatrio, and discounting the East St market pitches, there is only just about half the number of units that are needed to accomodate the remaining traders.  This estimate, of course, is based on the unrealistic assumption that the units under offer are an exact match to the requirements of the traders eg the size, cost, location, use-class etc; when these factors are put into the equation the available options of suitable new premises for each trader diminish significantly. 
 
 Latin Elephant note
 
