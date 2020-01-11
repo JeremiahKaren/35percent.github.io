@@ -35,7 +35,7 @@ Even those traders who have been allocated space have justifiable complaints abo
 
 ## Twenty-eight traders refused relocation premises
 
-Several FOI requests have been made to Southwark, in pursuit of information about the traders' relocation. The [latest request](https://www.whatdotheyknow.com/request/independent_traders_in_elephant?unfold=1#incoming-1456513) is for information about which traders have succeeded in their relocation requests (thirty-six in number), those refused (28 in number), those who have left the Elephant and Castle, plus the 130 Elephant traders initially identified by Southwark, back in January 2018.  Perhaps unsurprisingly this requst has been refused, on the grounds that it would prejudice the commercial interests of unspecified third parties; an appeal has been made against the decision.
+Several FOI requests have been made to Southwark, in pursuit of information about the traders' relocation. The [latest request](https://www.whatdotheyknow.com/request/independent_traders_in_elephant?unfold=1#incoming-1456513) is for information about which traders have succeeded in their relocation requests (thirty-six in number), those refused (28 in number), those who have left the Elephant and Castle, plus the 130 Elephant traders initially identified by Southwark, back in January 2018.  Perhaps unsurprisingly this request has been refused, on the grounds that it would prejudice the commercial interests of unspecified third parties; an appeal has been made against the decision.
 
 ## A bad tale continues
 
