@@ -11,7 +11,7 @@ Latin Elephant has been tracking the movement of the traders since December 2018
 
 According to figures supplied by Southwark Council in January 2018 the shopping centre held around 130 independent traders (ie traders with less than three outlets).  These including market stallholders and businesses in Hannibal House, the office block above the centre, all lying within the so-called 'red-line' of the proposed redevelopment area.  Latin Elephant then conducted its own survey in December 2018 which found only 97 remained, indicating a loss of 30 traders over the year.
 
-In February 2019, Southwark responded to [a Freedom OF Information](https://www.whatdotheyknow.com/request/independently_owned_retail_busin?nocache=incoming-1334948#incoming-1334948) request, with a [database](https://www.whatdotheyknow.com/request/555280/response/1334948/attach/2/190321%20For%20FOI%20EC%20traders.pdf%201037530.pdf) of 79 independant businesses; Latin Elephant identified a further [21 businesses omitted](https://latinelephant.org/map/#Q7) from this.
+In February 2019, Southwark responded to [a Freedom OF Information](https://www.whatdotheyknow.com/request/independently_owned_retail_busin?nocache=incoming-1334948#incoming-1334948) request, with a [database](https://www.whatdotheyknow.com/request/555280/response/1334948/attach/2/190321%20For%20FOI%20EC%20traders.pdf%201037530.pdf) of 79 independent businesses; Latin Elephant identified a further [21 businesses omitted](https://latinelephant.org/map/#Q7) from this.
 
 However many businesses there may have been, In 21 March 2019, a Southwark Cabinet Member confirmed that [only 36](https://twitter.com/kieronjwilliams/status/1108781273630289920?s=12) of those remaining had been offered a relocation unit.
 
