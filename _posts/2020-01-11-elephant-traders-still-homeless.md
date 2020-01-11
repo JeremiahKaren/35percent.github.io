@@ -5,7 +5,7 @@ title: Elephant traders still homeless
 ---
 ## Survey shows over two-thirds of current traders have nowhere to go.
 
-Research by charity [Latin Elephant](https://latinelephant.org/) has shown that only 36 (?) out of 100 (?) current independent traders at the Elpehant and Castle Shopping Centre have been allocated new premises to replace those being lost to the redevelopment of the shopping centre.
+Research by charity [Latin Elephant](https://latinelephant.org/) has shown that only 36 (?) out of 100 (?) current independent traders at the Elephant and Castle Shopping Centre have been allocated new premises to replace those being lost to the redevelopment of the shopping centre.
 
 Latin Elephant has been tracking the movement of the traders since December 2018 and in conjunction with [petit elephant](https://twitter.com/elephant_petit) has produced an [interactive map](https://latinelephant.org/map/#Q5), showing each trader's fate. The webpage also gives a narrative of the decline trader's number over time, up to the early summer 2019.  Latin Elephant estimates that four or five further buinesses have been lost since the then and that the total number of current traders will fall from 130 (January 2018) to 36, if the relocation strategy for the traders follows its present course.  
 
@@ -13,27 +13,29 @@ According to figures supplied by Southwark Council in January 2018 the shopping 
 
 In February 2019, Southwark responded to [a Freedom OF Information](https://www.whatdotheyknow.com/request/independently_owned_retail_busin?nocache=incoming-1334948#incoming-1334948) request, with a [database](https://www.whatdotheyknow.com/request/555280/response/1334948/attach/2/190321%20For%20FOI%20EC%20traders.pdf%201037530.pdf) of 79 independant businesses; Latin Elephant identified a further [21 businesses omitted](https://latinelephant.org/map/#Q7) from this.
 
-However many there may have been, In 21 March 2019, a Southwark Cabinet Member confirmed that [only 36 businesses](https://twitter.com/kieronjwilliams/status/1108781273630289920?s=12) of those remaining had been offered a relocation unit.
+However many businesses there may have been, In 21 March 2019, a Southwark Cabinet Member confirmed that [only 36](https://twitter.com/kieronjwilliams/status/1108781273630289920?s=12) of those remaining had been offered a relocation unit.
 
 ## Not enough relocation space
 
-On the other side of the equation Latin Elephant identify 46 retail units available for traders, over three sites (Perronet House, Elephant One, and Castle Square).  A further 8 units should also be available on the Elephant Park development (formerly the Heygate estate), with about the same number available at a later date. Thirty market pitches in East St market have also been suggested, but these are a mile away.
+On the other side of the equation Latin Elephant identify 46 retail units available for traders, over three sites (Perronet House, Elephant One, and Castle Square).  A further 8 units should also be available on the Elephant Park development (formerly the Heygate estate), with about the same number available at a later date. Thirty market pitches in East St market have also been suggested, but this is nearly a mile away (?).
 
 So, in the best-case scenatrio, and discounting the East St market pitches, there is only just about half the number of units that are needed to accomodate the remaining traders.  This estimate, of course, is based on the unrealistic assumption that the units under offer are an exact match to the requirements of the traders eg the size, cost, location, use-class etc; when these factors are put into the equation the available options of suitable new premises for each trader diminish significantly.
 
 ## Not enough money
 
-Another obstacle to successful relocation is the cost of moving, fitting-out new premises and reetablishing their busimess.  The relocation fund provided by Delancey stands at £634,700, with a vague commitment to an unspecified greater amount, if it is needed.  This averages out at a modest £17,630 per trader, given 36 traders and a very modest £6,340 given the hundred current traders.  In fact, the costs will of course vary, according to size and other needs and at least one trader has been quoted a fit out cost of £xxx.
+Another obstacle to successful relocation is the cost of moving, fitting-out new premises and reetablishing their busimess.  The relocation fund provided by Delancey stands at £634,700, with a vague commitment to an unspecified greater amount, if it is needed.  This averages out at a modest £17,630 per trader, given 36 traders and a very modest £6,340, given the hundred current traders.  In fact, the costs will of course vary, according to size and other needs and at least one trader has been quoted a fit out cost of £xxx (EXAMPLE).
+
+## Feeble enforcement from Southwark Council
+
+The trader' relocation strategy was inadequate from the start, with too little space to move to and too little money to do it with, but it has been made worse by ineffectual enforcement by  Southwark Council.
+
+The relocation process is effectively controlled by Delancey and, in the case of Elephant Park premises, fellow developer Lendlease. Both developers have obligations to provide affordable retail premises to shopping centre traders, under their respective legal s106 development agreements with Southwark Council.  Southwark therefore has the power to take action if it thinks that these obligations are not being fulfilled.  Traders complain that this is indeed the case, with shopping centre traders not fitting the profile required by Delancey and Lendlease for the new Elephant developments.  Southwark Law Centre has taken up the case of one trader, refused premises because of the nature of his trade. (OTHER EXAMPLES?)
+
+Even those traders who have been allocated space have justifable compliants about its size, cost and position - all critical factors for successfully continuing business.  There are particular complaints about one of the relocation sites, Perronet House.  Despite being owned by Southwark Council, who is thus the traders new landlord, the service charges will be higher there than tose for Castle House, the relocation site owned by Delancey. (FIGURES?)
 
 ## Southwark refuse information
 
-The relocation strategy was inadequate from the start, with too little space to move to and too little money to do it with, but it has been made worse by ineffectual enforcement by  Southwark Council.
-
-The relocation process is effectively controlled by Delancey and fellow developer Lendlease, in the case of Elephant Park premises. Both developers have obligations tp provide affordable retail premises to shopping centre traders, under their respective legal s106 development agreements with Southwark Council.  Southwark therefore has the power to take action if it thinks that these obligations are not being fulfilled.  Traders complain that this is indeed the case, with shopping centre traders not fitting the profile required for the new Elephant developments.  Southwark Law Centre has taken up the case of one trader, refused premises because of the nature of his trade. (OTHER EXAMPLES?)
-
-Even those traders who have been allocated space have justifable compliants about its size, cost and position - all critical factors for successfully continuing business.  There are particular complaints about one of the relocation sites, Perronet House.  Despite being owned by Southwark Council, who is thus the traders new landlord the service charges will be higher than for Castle House, the relocation site owned by Delancey. (FIGURES?)  
-
-Several FOI requests have been made to Southwark, in pursuit of information about the traders' relocation. the [latest requesr](https://www.whatdotheyknow.com/request/independent_traders_in_elephant?unfold=1#incoming-1456513) is for information about who has succeeded in relocation 
+Several FOI requests have been made to Southwark, in pursuit of information about the traders' relocation. The [latest requesr](https://www.whatdotheyknow.com/request/independent_traders_in_elephant?unfold=1#incoming-1456513) is for information about who has succeeded in their relocation requests, who have been refused, who have left the Elephant and Castle, plus the 130 traders initially identified by Southwark, back in January 2018.  Perhaps unsurprisingly this has been refused, on the grounds that it would prejudice the commercial interests of third parties. 
 
 Latin Elephant note
 
