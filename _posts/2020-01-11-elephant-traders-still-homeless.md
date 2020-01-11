@@ -19,7 +19,7 @@ Regardless of the conflicting information, in March 2019, a Southwark confirmed 
 
 On the other side of the equation [Latin Elephant identify](https://latinelephant.org/map/#Q7) 46 retail units available for traders, over three sites (Perronet House, Elephant One, and Castle Square).  A further 8 units should also be available on the Elephant Park development (formerly the Heygate estate), with about the same number available at a later date. Thirty market pitches in East St market have also been suggested, but this is nearly a mile away.
 
-So, in the best-case scenario, and discounting the East St market pitches, there is only just about half the number of units that are needed to accommodate the remaining traders.  This estimate, of course, is based on the unrealistic assumption that the units under offer are an exact match to the requirements of the traders eg the size, cost, location, use-class etc; when these factors are put into the equation the available options of suitable new premises for each trader diminish significantly.
+So, in the best-case scenario, and discounting the East St market pitches, there is only just about half the number of units that are needed to accommodate the remaining traders.  This estimate is based on the unrealistic assumption that the units under offer are an exact match to the requirements of the traders eg the size, cost, location, use-class etc; when these factors are put into the equation the available options of suitable new premises for each trader diminish significantly.
 
 ## Not enough money
 
