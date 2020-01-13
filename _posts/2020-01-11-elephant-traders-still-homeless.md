@@ -7,7 +7,11 @@ title: Elephant traders still homeless
 
 Research by charity [Latin Elephant](https://latinelephant.org/) has shown that only 36 (?) out of 100 (?) current independent traders at the Elephant and Castle Shopping Centre have been allocated new premises to replace those being lost to the redevelopment of the shopping centre.
 
+![](http://35percent.org/img/traderscomp.jpg)
+
 Latin Elephant has been tracking the movement of the traders since December 2018 and in conjunction with [petit elephant](), showing each trader's fate. Their webpage  has an [interactive map](https://latinelephant.org/map/#Q5), accompanied by a narrative of the decline in trader's number over time, up to the early summer 2019.  Latin Elephant estimates that four or five further businesses have been lost since then and that the total number of current traders will fall from 130 (January 2018) to 36, if the relocation strategy for the traders continues on its present course.  
+
+![](http://35percent.org/img/latinelephantmap.png)
 
 The figure of 130 independent traders (ie traders with less than three outlets) was [supplied by Southwark Council](https://pbs.twimg.com/media/DwEQ6HqW0AEbC6W.jpg:large) in January 2018.  These including market stallholders and businesses in Hannibal House, the office block above the centre, and all lie within the so-called 'red-line' of the proposed redevelopment area.  Latin Elephant then conducted its own survey in December 2018 which found [only 97 remained](https://latinelephant.org/map/#Q7), indicating a loss of 30 traders over the year.
 
@@ -45,3 +49,4 @@ But it is not too late for Southwark to partly redeem themselves (though it may 
 
 There will be a [demonstration, organised by the Up The Elephant campaign](https://twitter.com/UpTheElephant_), in support of the traders on at Southwark Council's first assembly meeting of the year on **Tuesday 28 January Southwark Council Head Offices, Tooley St 6pm** - everyone who wants a fairer, inclusive regeneration at the Elephant is welcome.
 
+![](http://35percent.org/img/jan2020protest.jpg)
