@@ -7,7 +7,7 @@ title: Elephant traders still homeless
 
 Research by charity [Latin Elephant](https://latinelephant.org/) has shown that only 36 (?) out of 100 (?) current independent traders at the Elephant and Castle Shopping Centre have been allocated new premises to replace those being lost to the redevelopment of the shopping centre.
 
-![](http://35percent.org/img/traderscomp.jpg)
+![](http://35percent.org/img/traderscomp.jpeg)
 
 Latin Elephant has been tracking the movement of the traders since December 2018 and in conjunction with [petit elephant](), showing each trader's fate. Their webpage  has an [interactive map](https://latinelephant.org/map/#Q5), accompanied by a narrative of the decline in trader's number over time, up to the early summer 2019.  Latin Elephant estimates that four or five further businesses have been lost since then and that the total number of current traders will fall from 130 (January 2018) to 36, if the relocation strategy for the traders continues on its present course.  
 
