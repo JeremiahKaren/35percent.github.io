@@ -27,8 +27,11 @@ description: Campaigning for regeneration that benefits local people
 # List of links in the navigation bar
 navbar-links:
   About Us: "aboutme"
-  Resources:
+  Timelines:
+    - Estate Regeneration Timeline: "great-estates"
     - E&C Regeneration Timeline: "timeline"
+    - Heygate Regeneration Timeline: "heygate-regeneration"
+  Pages:    
     - The price of regeneration: "auctions"
     - Viability Assessments: "collated-viability-assessments"
     - Major Schemes: "major-schemes"
