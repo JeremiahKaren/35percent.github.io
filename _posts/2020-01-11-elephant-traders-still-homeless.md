@@ -32,6 +32,7 @@ In addition to these sites Southwark claim that the Elephant Park development (f
 
 ## Unfit database
 
+Delancey has also a legal obligation to maintain a database of vacant retail properties and make it available to eligible traders. Even though Southwark Council says on its [regeneration webpage](https://www.southwark.gov.uk/regeneration/elephant-and-castle?chapter=20) that properties are in the borough and within one mile of the shopping centre, petit elephant found that as of  of June 2019 that not all the relocation spaces met these criteria. Moreover, many demanded rents between £50,000 and £100,000 per annum, which Latin Elephant has already submitted are beyond the means of small-sized businesses.
 
 
 
