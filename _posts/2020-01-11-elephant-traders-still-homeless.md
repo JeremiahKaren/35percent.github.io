@@ -7,8 +7,6 @@ title: Elephant traders still homeless
 
 Research by charity [Latin Elephant](https://latinelephant.org/) has shown that only 36 out of 100 independent traders at the Elephant and Castle Shopping Centre have been allocated new premises to replace those being lost to the redevelopment of the shopping centre.
 
-![](http://35percent.org/img/traderscomp.jpeg)
-
 Latin Elephant's webpage  has an [interactive map](https://latinelephant.org/map/#Q5), accompanied by supporing evidence and a narrative of the decline in trader's number over time, up to late spring 2019.  Latin Elephant’s figures show that the number of independent traders will have fallen from 130 in January 2018 to 36, if the relocation strategy continues on its present course.  
 
 ![](http://35percent.org/img/latinelephantmap.png)
@@ -47,6 +45,8 @@ The trader' relocation strategy was inadequate from the start, with too little s
 The relocation process is effectively controlled by Delancey and, in the case of Elephant Park premises, fellow developer Lendlease. Both [developers have obligations](https://www.southwark.gov.uk/regeneration/elephant-and-castle?chapter=20) to provide affordable retail premises to shopping centre traders, under their respective legal s106 development agreements with Southwark Council.  Southwark therefore has the power to take action if it thinks that these obligations are not being fulfilled.  Traders complain that this is indeed the case, with shopping centre traders not fitting the retail profile required by Delancey and Lendlease for the new Elephant developments.  [Southwark Law Centre](http://www.southwarklawcentre.org.uk/) has taken up the case of one trader, refused premises because of the nature of his trade.
 
 Even those traders who have been allocated space have justifiable complaints about its size, cost and position - all critical factors for successfully continuing business. In particular, there are complaints about Perronet House.  Despite being owned by Southwark Council, who is thus the traders' new landlord, both and the service charges will be higher there than those for Castle Square, the relocation site owned by Delancey. For example, the rent of a 26 sq m unit on the ground floor in Castle Square is £6,768 per annum, plus £2,256 of service charge (£8 per square foot), while Southwark Council offers a 25.7 sq m unit in Perronet House at an average of £7,645 over 5 years, with an ‘estimated’ service charge of £3,047 (£11 per sq ft).
+
+![](http://35percent.org/img/traderscomp.jpeg)
 
 ## What information does Southwark Council hold?
 
