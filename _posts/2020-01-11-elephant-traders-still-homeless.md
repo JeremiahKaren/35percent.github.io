@@ -60,6 +60,6 @@ But it is not too late for Southwark to partly redeem themselves - the traders n
 
 The [Up the Elephant campaign](https://twitter.com/UpTheElephant_) will be holding a stall on **Saturday, 25 January 11.30pm** just outside the **former Charlie Chaplin pub**, on **New Kent Rd**.
 
-There will also be a [demonstration, organised by the Up The Elephant campaign](https://twitter.com/UpTheElephant_), in support of the traders on at Southwark Council's first assembly meeting of the year on **Tuesday 28 January Southwark Council Head Offices, Tooley St 6pm** - everyone who wants a fairer, inclusive regeneration at the Elephant is welcome.
+There will also be a [demonstration, organised by the Up The Elephant campaign](https://twitter.com/UpTheElephant_), in support of the traders' deputation to Southwark Council's first assembly meeting of the year on **Tuesday 28 January Southwark Council Head Offices, Tooley St 6pm** - everyone who wants a fairer, inclusive regeneration at the Elephant is welcome.
 
 ![](http://35percent.org/img/jan2020protest.jpg)
