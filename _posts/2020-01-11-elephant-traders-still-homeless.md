@@ -13,7 +13,7 @@ Latin Elephant's webpage  has an [interactive map](https://latinelephant.org/map
 
 ![](http://35percent.org/img/latinelephantmap.png)
 
-##How many traders?
+## How many traders?
 
 The figure of 130 independent traders (ie traders with less than three outlets) was [supplied by Southwark Council](https://pbs.twimg.com/media/DwEQ6HqW0AEbC6W.jpg:large) in January 2018 and later confirmed by officers at planning committee in July .  These include market stallholders and businesses in Hannibal House, the office block above the centre, and all lie within the so-called 'red-line' of the proposed redevelopment area.  Latin Elephant with the assistance of petit elephant then conducted its own survey in December 2018, just before the redevelopment was granted planning permission. This found [only 97 traders remained](https://latinelephant.org/map/#Q7), indicating a loss of 30 traders over a few months.
 
