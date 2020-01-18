@@ -38,6 +38,8 @@ So, the best case scenario is that less than half of the current traders can be 
 
 Another obstacle to successful relocation is the cost of moving, fitting-out new premises and re-establishing the business.  The relocation fund provided by Delancey stands at [£634,700](https://www.southwark.gov.uk/regeneration/elephant-and-castle?chapter=20), with a vague commitment to an unspecified greater amount, after ‘all claims have been properly assessed’ and ‘taking into account genuine Trader hardship’.  This averages out at a £17,630 per trader, given thirty-six traders and a very modest £8,034, given 79 traders .  In fact, the costs will of course vary, according to size and other needs. By way of example, JZ Mobiles, a shopping centre business, was quoted £93,613, excluding VAT, for the fit-out works of a 65 sq m at Elephant Park.
 
+![](http://35percent.org/img/traderscomp.jpeg)
+
 ## Feeble enforcement from Southwark Council
 
 The trader' relocation strategy was inadequate from the start, with too little space to move to and too little money to do it with, but it has been made worse by ineffectual enforcement by  Southwark Council.
@@ -45,8 +47,6 @@ The trader' relocation strategy was inadequate from the start, with too little s
 The relocation process is effectively controlled by Delancey and, in the case of Elephant Park premises, fellow developer Lendlease. Both [developers have obligations](https://www.southwark.gov.uk/regeneration/elephant-and-castle?chapter=20) to provide affordable retail premises to shopping centre traders, under their respective legal s106 development agreements with Southwark Council.  Southwark therefore has the power to take action if it thinks that these obligations are not being fulfilled.  Traders complain that this is indeed the case, with shopping centre traders not fitting the retail profile required by Delancey and Lendlease for the new Elephant developments.  [Southwark Law Centre](http://www.southwarklawcentre.org.uk/) has taken up the case of one trader, refused premises because of the nature of his trade.
 
 Even those traders who have been allocated space have justifiable complaints about its size, cost and position - all critical factors for successfully continuing business. In particular, there are complaints about Perronet House.  Despite being owned by Southwark Council, who is thus the traders' new landlord, both and the service charges will be higher there than those for Castle Square, the relocation site owned by Delancey. For example, the rent of a 26 sq m unit on the ground floor in Castle Square is £6,768 per annum, plus £2,256 of service charge (£8 per square foot), while Southwark Council offers a 25.7 sq m unit in Perronet House at an average of £7,645 over 5 years, with an ‘estimated’ service charge of £3,047 (£11 per sq ft).
-
-![](http://35percent.org/img/traderscomp.jpeg)
 
 ## What information does Southwark Council hold?
 
