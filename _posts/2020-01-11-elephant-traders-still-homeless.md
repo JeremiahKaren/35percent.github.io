@@ -48,7 +48,7 @@ The relocation process is effectively controlled by Delancey and, in the case of
 
 Even those traders who have been allocated space have justifiable complaints about its size, cost and position - all critical factors for successfully continuing business. In particular, there are complaints about Perronet House.  Despite being owned by Southwark Council, who is thus the traders' new landlord, both and the service charges will be higher there than those for Castle Square, the relocation site owned by Delancey. For example, the rent of a 26 sq m unit on the ground floor in Castle Square is £6,768 per annum, plus £2,256 of service charge (£8 per square foot), while Southwark Council offers a 25.7 sq m unit in Perronet House at an average of £7,645 over 5 years, with an ‘estimated’ service charge of £3,047 (£11 per sq ft).
 
-## Twenty-eight traders refused relocation premises
+## What information does Southwark Council hold?
 
 Several FOI requests have been made to Southwark, in pursuit of information about the traders' relocation. The [latest request](https://www.whatdotheyknow.com/request/independent_traders_in_elephant?unfold=1#incoming-1456513) is for information about which traders have succeeded in their relocation requests (thirty-six in number), those refused (28 in number), those who have left the Elephant and Castle, plus the 130 Elephant traders initially identified by Southwark, back in January 2018.  Perhaps unsurprisingly this request has been refused, on the grounds that it would prejudice the commercial interests of unspecified third parties; an appeal has been made against the decision.
 
