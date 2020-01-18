@@ -20,7 +20,7 @@ Compulsory Purchase Orders are a key part of any estate demolition and require t
 
  * [Heygate estate CPO Statement of Reasons](/img/SoR.pdf)
  * [Aylesbury Phase 1a CPO Statement of Reasons](/img/sor1a.pdf)
- * [Aylesbury Site 7 CPO Statement of Reasons](/img/WolvertonCPO.pdf)
+ * [Aylesbury Site 7 CPO Statement of Reasons](http://heygatewashome.org/img/WolvertonCPO.pdf)
  * [Aylesbury Phase 1b CPO Statement of Reasons](/img/STATEMENTOFCASE.pdf)
  * [Silwood Phase 4C CPO Statement of Reasons](/img/Silwood_Estate.pdf)
  * [Elmington Site E Statement of Reasons](/img/ElmingtonSiteE_SOR.pdf)

@@ -25,7 +25,17 @@ It also says (para 9): _"All such schemes, including estate regeneration schemes
 The fact that phase 1a has been provided as affordable rent means that these circa homes should be discounted from the calculations.
 
 ## LAR is not SR
-FOI request for funding bid to GLA for FDS including rent levels.
+FOI request for funding bid to GLA for FDS including rent levels
+
+
+## Biomass energy centre
+In respect of the use of a gas fired CHP plant for the FDS rather than the biomass  CHP  plan  envisaged  within  policy  BH6[II]  of  the  AAAP  (CD2,  page 39) .. since the publication of  the  AAAP  in  2010,  this  technology  has  failed  to  develop  into  a  viable  solution  and  indeed  is  generally  deemed  unacceptable  in  urban  areas  owing to the increased emissions from the boilers and from the delivery of biomass material. [(Para 27 of Simon Bayliss' rebuttal evidence from previous CPO inquiry (doc ref: APP/2/4).](http://bailey.persona-pi.com/Public-Inquiries/aylesbury-estate/Rebuttals/council/s_bayliss_rebuttal.pdf)
+
+There has been no attempt to explore other renewable technologies like photovoltaics; solar water heating; wind and heat pumps.
+
+The entire scheme will be 100% fossil fuel when it was supposed to be 100% renewable.
+
+It fails to meet both the [Mayor's 20% minimum renewal requirement](https://www.london.gov.uk/what-we-do/planning/london-plan/current-london-plan/london-plan-chapter-five-londons-response/poli-6) and Southwark's 20% renewable requirement.
 
 ## Sutton estate decision
 (net loss of SR housing, definition of existing SR housing and Benchmark Land Value)
