@@ -30,6 +30,7 @@ Even though Latin Elephant has voiced concerns about the shortage of relocation 
 In addition to these sites Southwark claim that the Elephant Park development (formerly the Heygate estate) offers 1,350 sq m of affordable retail space, but this only equats to eight units, at most.  In the event, none of which these have been offered to traders affected by the shopping centre redevelopment, according to an [FOI response](https://docdro.id/R6YTe4e)to a Southwark Law Centre question (link).  Thirty market pitches in East St market were also suggested by Delancey in its planning application, but these are nearly a mile away and have never been delivered. 
 
 
+## Unfit database
 
 
 
@@ -37,7 +38,6 @@ In addition to these sites Southwark claim that the Elephant Park development (f
 
 
 
-So, in the best-case scenario, and discounting the East St market pitches, there is only just about half the number of units that are needed to accommodate the remaining traders.  This estimate is based on the unrealistic assumption that the units under offer are an exact match to the requirements of the traders eg the size, cost, location, use-class etc; this will obviously not be the case and when this fact is put into the equation the available options of suitable new premises for each trader diminish significantly.
 
 ## Not enough money
 
