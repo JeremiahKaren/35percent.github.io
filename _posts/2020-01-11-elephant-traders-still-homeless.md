@@ -25,7 +25,7 @@ In any event, in March 2019, Southwark confirmed that [only 36](https://twitter.
 
 Even though Latin Elephant has voiced concerns about the shortage of relocation units on many occasions, both before and after planning approval, only 38 units are being provided on three sites.  Latin Elephant identify 12 units in  Perronet House, 8 in Elephant One, and 18 in Castle Square. 
 
-In addition to these sites Southwark claim that Lendlease's [Elephant Park](https://www.elephantpark.co.uk/about-elephant-park/) development (formerly the Heygate estate) offers 1,350 sq m of affordable retail space, but this only equates to eight units, at most.  In the event, none of the Elephant Park has to date been offered to traders affected by the shopping centre redevelopment, according to an [FOI response](https://docdro.id/R6YTe4e)to a [Southwark Law Centre](http://www.southwarklawcentre.org.uk/) question.  Thirty market pitches in East St market were also suggested by Delancey in its planning application, but these are nearly a mile away and have never been delivered. 
+In addition to these sites Southwark claim that Lendlease's [Elephant Park](https://www.elephantpark.co.uk/about-elephant-park/) development (formerly the Heygate estate) offers 1,350 sq m of affordable retail space, but this only equates to eight units, at most.  To date, none of the Elephant Park units has been offered to traders affected by the shopping centre redevelopment, according to an [FOI response](https://docdro.id/R6YTe4e)to a [Southwark Law Centre](http://www.southwarklawcentre.org.uk/) question.  Thirty market pitches in East St market were also suggested by Delancey in its planning application, but these are nearly a mile away and have never been delivered. 
 
 
 ## Unfit database
