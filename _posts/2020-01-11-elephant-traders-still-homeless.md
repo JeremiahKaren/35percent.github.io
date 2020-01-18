@@ -5,7 +5,7 @@ title: Elephant traders still homeless
 ---
 ## Survey shows over two-thirds of current traders have nowhere to go.
 
-Research by charity [Latin Elephant](https://latinelephant.org/) has shown that only 36 (?) out of 100 (?) current independent traders at the Elephant and Castle Shopping Centre have been allocated new premises to replace those being lost to the redevelopment of the shopping centre.
+Research by charity [Latin Elephant](https://latinelephant.org/) has shown that only 36 out of 100 independent traders at the Elephant and Castle Shopping Centre have been allocated new premises to replace those being lost to the redevelopment of the shopping centre.
 
 ![](http://35percent.org/img/traderscomp.jpeg)
 
