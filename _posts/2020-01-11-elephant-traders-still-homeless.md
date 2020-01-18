@@ -9,9 +9,11 @@ Research by charity [Latin Elephant](https://latinelephant.org/) has shown that 
 
 ![](http://35percent.org/img/traderscomp.jpeg)
 
-Their webpage  has an [interactive map](https://latinelephant.org/map/#Q5), accompanied by supporing evidence and a narrative of the decline in trader's number over time, up to late spring 2019.  Latin Elephant’s figures show that the number of independent traders will have fallen from 130 in January 2018 to 36, if the relocation strategy continues on its present course.  
+Latin Elephant's webpage  has an [interactive map](https://latinelephant.org/map/#Q5), accompanied by supporing evidence and a narrative of the decline in trader's number over time, up to late spring 2019.  Latin Elephant’s figures show that the number of independent traders will have fallen from 130 in January 2018 to 36, if the relocation strategy continues on its present course.  
 
 ![](http://35percent.org/img/latinelephantmap.png)
+
+##How many traders?
 
 The figure of 130 independent traders (ie traders with less than three outlets) was [supplied by Southwark Council](https://pbs.twimg.com/media/DwEQ6HqW0AEbC6W.jpg:large) in January 2018 and later confirmed by officers at planning committee in July .  These include market stallholders and businesses in Hannibal House, the office block above the centre, and all lie within the so-called 'red-line' of the proposed redevelopment area.  Latin Elephant with the assistance of petit elephant then conducted its own survey in December 2018, just before the redevelopment was granted planning permission. This found [only 97 traders remained](https://latinelephant.org/map/#Q7), indicating a loss of 30 traders over a few months.
 
