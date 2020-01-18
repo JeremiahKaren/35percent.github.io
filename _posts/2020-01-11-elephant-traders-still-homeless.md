@@ -32,7 +32,7 @@ In addition to these sites Southwark claim that Lendlease's [Elephant Park](http
 
 Delancey has also a legal obligation to maintain a database of vacant retail properties and make it available to eligible traders. Even though Southwark Council says on its [regeneration webpage](https://www.southwark.gov.uk/regeneration/elephant-and-castle?chapter=20) that properties are in the borough and within one mile of the shopping centre, petit elephant found that as of June 2019 not all the relocation spaces met these criteria. Moreover, many demanded rents between £50,000 and £100,000 per annum, which Latin Elephant has already submitted are beyond the means of small-sized businesses.  The whole list of 54 relocation units in the database is here (LINK NEEDED).
 
-So, the best case scenario is that less than half of the current traders can be relocated to premises that might be more or less suitable for their businesses, with all other traders looking at options some distance away and/or too expensive.
+So, the best-case scenario is that less than half of the current traders can be relocated to premises that might be more or less suitable for their businesses, with all other traders looking at options some distance away and/or too expensive.
 
 ## Not enough money
 
