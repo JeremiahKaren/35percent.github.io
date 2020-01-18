@@ -21,7 +21,7 @@ In March 2019, Southwark responded to [a Freedom OF Information](https://www.wha
 
 Latin Elephant also consider that 17 more businesses are excluded from relocation funding, simply by the wording of the legal agreement. These includes sub-tenants in Arch 7, on Elephant Road, and small traders in the shopping centre that rent their space through third parties, such as Forum SpaceCentre Ltd.
 
-Ina any event, in March 2019, Southwark confirmed that [only 36](https://twitter.com/kieronjwilliams/status/1108781273630289920?s=12) of the 79 traders Southwark itself acknowleged as eligible had been offered a relocation unit.
+Ina any event, in March 2019, Southwark confirmed that [only 36](https://twitter.com/kieronjwilliams/status/1108781273630289920?s=12) of the 79 'independent local operators' had been offered a relocation unit.
 
 ## Not enough relocation space
 
