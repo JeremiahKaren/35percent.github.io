@@ -25,7 +25,17 @@ Ina any event, in March 2019, Southwark confirmed that [only 36](https://twitter
 
 ## Not enough relocation space
 
-On the other side of the equation [Latin Elephant identify](https://latinelephant.org/map/#Q7) 46 retail units available for traders, over three sites (Perronet House, Elephant One, and Castle Square).  A further 8 units should also be available on the Elephant Park development (formerly the Heygate estate), with about the same number available at a later date. Thirty market pitches in East St market have also been suggested, but this is nearly a mile away.
+Even though Latin Elephant has voiced concerns about the shortage of relocation units on many occasions, both before and after planning approval, only 38 units are being provided on three sites.  Latin Elephant identify 12 units in  Perronet House, 8 in Elephant One, and 18 in Castle Square. 
+
+In addition to these sites Southwark claim that the Elephant Park development (formerly the Heygate estate) offers 1,350 sq m of affordable retail space, but this only equats to eight units, at most.  In the event, none of which these have been offered to traders affected by the shopping centre redevelopment, according to an [FOI response](https://docdro.id/R6YTe4e)to a Southwark Law Centre question (link).  Thirty market pitches in East St market were also suggested by Delancey in its planning application, but these are nearly a mile away and have never been delivered. 
+
+
+
+
+
+
+
+
 
 So, in the best-case scenario, and discounting the East St market pitches, there is only just about half the number of units that are needed to accommodate the remaining traders.  This estimate is based on the unrealistic assumption that the units under offer are an exact match to the requirements of the traders eg the size, cost, location, use-class etc; this will obviously not be the case and when this fact is put into the equation the available options of suitable new premises for each trader diminish significantly.
 
