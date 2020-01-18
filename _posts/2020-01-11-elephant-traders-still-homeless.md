@@ -36,7 +36,7 @@ So, the best-case scenario is that less than half of the current traders can be 
 
 ## Not enough money
 
-Another obstacle to successful relocation is the cost of moving, fitting-out new premises and re-establishing the business.  The relocation fund provided by Delancey stands at [£634,700](https://www.southwark.gov.uk/regeneration/elephant-and-castle?chapter=20), with a vague commitment to an unspecified greater amount, after _‘all claims have been properly assessed’_ and _‘taking into account genuine trader hardship’_.  This averages out at a £17,630 per trader, given thirty-six traders and a very modest £8,034, given 79 traders .  In fact, the costs will of course vary, according to size and other needs. By way of example, JZ Mobiles, a shopping centre business, was quoted £93,613, excluding VAT, for the fit-out works of a 65 sq m at Elephant Park.
+Another obstacle to successful relocation is the cost of moving, fitting-out new premises and re-establishing the business.  The relocation fund provided by Delancey stands at [£634,700](https://www.southwark.gov.uk/regeneration/elephant-and-castle?chapter=20), with a vague commitment to an unspecified greater amount, after _‘all claims have been properly assessed’_ and _‘taking into account genuine trader hardship’_.  This averages out at a £17,630 per trader, given thirty-six traders and a very modest £8,034, given 79 traders.  In fact, the costs will of course vary, according to size and other needs. By way of example, JZ Mobiles, a shopping centre business, was quoted £93,613, excluding VAT, for the fit-out works of a 65 sq m at Elephant Park.
 
 ![](http://35percent.org/img/traderscomp.jpeg)
 
