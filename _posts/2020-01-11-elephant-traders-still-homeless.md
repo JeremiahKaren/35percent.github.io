@@ -13,7 +13,7 @@ Latin Elephant's [interactive map](https://latinelephant.org/map/#Q5), accompani
 
 ## How many traders?
 
-The figure of 130 independent traders (ie traders with less than three outlets) was [supplied by Southwark Council](https://pbs.twimg.com/media/DwEQ6HqW0AEbC6W.jpg:large) in January 2018 and later confirmed by officers at planning committee in July .  These include market stallholders and businesses in Hannibal House, the office block above the centre, and all lie within the so-called 'red-line' of the proposed redevelopment area.  Latin Elephant, with the assistance of petit elephant, then conducted its own survey in December 2018, just before the redevelopment was finally granted planning permission. This found [only 97 traders remained](https://latinelephant.org/map/#Q7), indicating a loss of 30 traders over a few months.
+The figure of 130 independent traders (ie traders with less than three outlets) was [supplied by Southwark Council](https://pbs.twimg.com/media/DwEQ6HqW0AEbC6W.jpg:large) in January 2018 and later confirmed by officers at planning committee in July .  These include market stallholders and businesses in Hannibal House, the office block above the centre, and all lie within the so-called 'red-line' of the proposed redevelopment area.  Latin Elephant, with the assistance of petit elephant, then conducted its own survey in December 2018, just before the redevelopment was finally granted planning permission. This found [only 97 traders remained]( https://latinelephant.org/map/#Q1) indicating a loss of 30 traders over a few months.
 
 In March 2019, Southwark responded to [a Freedom of Information](https://www.whatdotheyknow.com/request/independently_owned_retail_busin?nocache=incoming-1334948#incoming-1334948) (FOI) request, with a [database](https://www.whatdotheyknow.com/request/555280/response/1334948/attach/2/190321%20For%20FOI%20EC%20traders.pdf%201037530.pdf) of 79 'independent local operators', eligible for relocation funds as defined by the legal agreement between Southwark Council and developer Delancey; Latin Elephant identified a further [21 independent businesses omitted](https://latinelephant.org/map/#Q7) from this list.  
 
@@ -32,7 +32,7 @@ In addition to these sites Southwark claim that Lendlease's [Elephant Park](http
 
 Delancey has also a legal obligation to maintain a database of vacant retail properties and make it available to eligible traders. Even though Southwark Council says on its [regeneration webpage](https://www.southwark.gov.uk/regeneration/elephant-and-castle?chapter=20) that properties are in the borough and within one mile of the shopping centre, petit elephant found that as of June 2019 not all the relocation spaces met these criteria. Moreover, many demanded rents between £50,000 and £100,000 per annum, which Latin Elephant has already submitted are beyond the means of small-sized businesses.  The whole list of 54 relocation units in the database is here (LINK NEEDED).
 
-So, the best-case scenario is that less than half of the current traders can be relocated to premises that might be more or less suitable for their businesses, with all other traders looking at options some distance away and/or too expensive.
+So, the best-case scenario is that less than half of all independent traders within the red line have been relocated to premises that might be more or less suitable for their businesses, with all other traders looking at options some distance away and/or too expensive.
 
 ## Not enough money
 
