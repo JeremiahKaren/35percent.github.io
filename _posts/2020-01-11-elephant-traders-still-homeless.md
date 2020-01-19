@@ -23,7 +23,7 @@ In any event, in March 2019, Southwark confirmed that [only 36](https://twitter.
 
 ## Not enough relocation space
 
-Even though Latin Elephant has voiced concerns about the shortage of relocation units on many occasions, both before and after planning approval, only 40 units are being provided on three sites.  Latin Elephant identify 12 units in  Perronet House, 8 in Elephant One, and 18 in Castle Square. 
+Even though Latin Elephant has voiced concerns about the shortage of relocation units on many occasions, both before and after planning approval, only 40 units are being provided on three sites.  Latin Elephant identify 12 units in  Perronet House, 8 in Elephant One, and 20 in Castle Square. 
 
 In addition to these sites Southwark claim that Lendlease's [Elephant Park](https://www.elephantpark.co.uk/about-elephant-park/) development (formerly the Heygate estate) offers 1,350 sq m of affordable retail space, but this only equates to eight units, at most.  To date, none of the Elephant Park units has been offered to traders affected by the shopping centre redevelopment, according to an [FOI response](https://docdro.id/R6YTe4e) to a [Southwark Law Centre](http://www.southwarklawcentre.org.uk/) question.  Thirty market pitches in East St market were also suggested by Delancey in its planning application, but these are nearly a mile away and have never been delivered. 
 
@@ -36,7 +36,7 @@ So, the best-case scenario is that less than half of the current traders can be 
 
 ## Not enough money
 
-Another obstacle to successful relocation is the cost of moving, fitting-out new premises and re-establishing the business.  The relocation fund provided by Delancey stands at [£634,700](https://www.southwark.gov.uk/regeneration/elephant-and-castle?chapter=20), with a vague commitment to an unspecified greater amount, after _‘all claims have been properly assessed’_ and _‘taking into account genuine trader hardship’_.  This averages out at a £17,630 per trader, given thirty-six traders and a very modest £8,034, given 79 traders.  In fact, the costs will of course vary, according to size and other needs. By way of example, a mobile phone business was quoted £93,613, excluding VAT, for the fit-out works of a 65 sq m unit at Elephant Park.
+Another obstacle to successful relocation is the cost of moving, fitting-out new premises and re-establishing the business.  The relocation fund provided by Delancey stands at [£634,700](https://www.southwark.gov.uk/regeneration/elephant-and-castle?chapter=20), with a vague commitment to an unspecified greater amount, after _‘all claims have been properly assessed’_ and _‘taking into account genuine trader hardship’_.  This averages out at a £17,630 per trader, given thirty-six traders and a very modest £8,034, given 79 traders.  In fact, the costs will of course vary, according to size and other needs. By way of example, a mobile phone business was quoted £121,424 including VAT, for the fit-out works of a 65 sq m unit at Elephant Park.
 
 ![](http://35percent.org/img/traderscomp.jpeg)
 
