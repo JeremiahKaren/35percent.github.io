@@ -1,10 +1,10 @@
 ---
 layout: post
-published: false
+published: true
 title: Elephant traders still homeless
+date: '2020-01-20'
+subtitle: Survey shows over two-thirds of current traders have nowhere to go
 ---
-## Survey shows over two-thirds of current traders have nowhere to go.
-
 Research by charity [Latin Elephant](https://latinelephant.org/) has shown that only around 40 out of nearly 100  independent traders still operating at the Elephant and Castle Shopping Centre have been allocated new premises to replace those being lost to the redevelopment of the shopping centre.
 
 Latin Elephant's [interactive map](https://latinelephant.org/map/#Q5), accompanied by supporting evidence, narrates the decline in trader's numbers, up to late spring 2019.  Latin Elephant’s figures show that there were originally 130 independent traders operating in January 2018, of whom only around 40 will have been relocated, if the relocation strategy continues on its present course.  
@@ -26,6 +26,62 @@ In any event, in March 2019, Southwark confirmed that [only 36](https://twitter.
 Even though Latin Elephant has voiced concerns about the shortage of relocation units on many occasions, both before and after planning approval, only 40 units are being provided on three sites.  Latin Elephant identify 12 units in  Perronet House, 8 in Elephant One, and 20 in Castle Square. 
 
 In addition to these sites Southwark claim that Lendlease's [Elephant Park](https://www.elephantpark.co.uk/about-elephant-park/) development (formerly the Heygate estate) offers 1,350 sq m of affordable retail space, but this only equates to eight units, at most.  To date, none of the Elephant Park units has been offered to traders affected by the shopping centre redevelopment, according to an [FOI response](https://docdro.id/R6YTe4e) to a [Southwark Law Centre](http://www.southwarklawcentre.org.uk/) question.  Thirty market pitches in East St market were also suggested by Delancey in its planning application, but these are nearly a mile away and have never been delivered. 
+
+<script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
+<link href="https://cdn.datatables.net/1.10.19/css/jquery.dataTables.min.css" rel="stylesheet">
+
+<div id='visualization' style="width: 100%, height: 100%"></div>
+
+<script>
+
+google.charts.load('current', {packages: ['corechart']});
+google.charts.setOnLoadCallback(drawAnnotations);
+
+function drawAnnotations() {
+// Create and populate the data table.
+var data = new google.visualization.DataTable();
+
+data.addColumn('date', 'Date');
+data.addColumn('number', 'Independent businesses');
+data.addColumn({type: 'string', role: 'annotation'});
+data.addColumn({type: 'string', role:'tooltip', 'p': {'html': true}});
+data.addRow([new Date(2018, 0, 18), 130, '130', createCustomMessage(130, 'Date: January 2018<br>Source: Southwark Council email to Latin Elephant')])
+data.addRow([new Date(2018, 11, 12), 79, '79', createCustomMessage(79, 'Date: 12 Dec 2018 (Planning Subcommittee B)<br>Source: Freedom of Information Request')])
+data.addRow([new Date(2019, 2, 21), 36, '36', createCustomMessage(36, 'Date: 21 March 2019<br>Traders with relocation space as of April 2019')])
+
+// // Create and draw the visualization.
+  
+  var options = {title: 'Southwark Council figures of independent businesses over time',
+  //width: 100%, 
+  height: 400,
+  //colors: ['#fb9a99'],
+  chartArea: {left:50, width: "60%", height: "70%" },
+  vAxis: {title: "Businesses"},
+  //hAxis: {title: "Time"},
+  lineWidth: 1,
+  tooltip: { isHtml: true },
+  legend:'none'
+  };
+var chart = new google.visualization.ScatterChart(document.getElementById('visualization'));
+chart.draw(data, options);
+
+function resizeHandler() {
+chart.draw(data, options); 
+};
+
+if (window.addEventListener){
+window.addEventListener('resize', resizeHandler, false);
+}
+else if (window.attachEvent){
+window.attachEvent('onresize', resizeHandler);
+}
+}
+
+function createCustomMessage(totalTraders, message){
+return '<div style="padding:5px 5px 5px 5px; font-family: Arial; font-size:12px">Businesses: <b>' + totalTraders+ '</b><br>' + message + '</div>';
+}
+</script>
+
 
 
 ## Unfit database
