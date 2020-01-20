@@ -5,7 +5,7 @@ title: Elephant traders still homeless
 date: '2020-01-20'
 subtitle: Survey shows over two-thirds of current traders have nowhere to go
 ---
-As Delancey announces its intention to close down the E&C shopping centre, research by [Latin Elephant](https://latinelephant.org/) has shown that only 36 out of nearly 100 independent traders still operating at the centre have been allocated new premises.
+As Delancey [announces](https://www.london-se1.co.uk/news/view/10081) its intention to close down the E&C shopping centre, research by [Latin Elephant](https://latinelephant.org/) has shown that only 36 out of nearly 100 independent traders still operating at the centre have been allocated new premises.
 
 Latin Elephant's [interactive map](https://latinelephant.org/map/#Q5), accompanied by supporting evidence, narrates the decline in trader's numbers, up to late spring 2019.  Latin Elephant’s figures show that there were originally 130 independent traders operating in January 2018, of whom only 36 will be relocated, if the relocation strategy continues on its present course.  
 
