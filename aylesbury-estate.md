@@ -89,6 +89,7 @@ When the Council Executive took its [decision](http://moderngov.southwark.gov.uk
 
 The scheme has also been [allocated 46m from the government’s Estate Regeneration Fund and £27m from GLA funding](http://moderngov.southwark.gov.uk/documents/s52526/Report%20Aylesbury%20Regeneration%20Update.pdf) to date, plus [£13m of HCA funding](http://www.urbandesignlondon.com/wordpress/wp-content/uploads/Estate-Regen-Sourcebook-Web-Version.pdf) (for the completed phase 1 of the scheme). In addition, the scheme has received £56m from the government’s NDC (New Deal for Communities) programme. This amounts to a total of £222m of public funding allocated so far, of which £97.5m has been spent.
 
+## Six Acres estate
 Other London boroughs take a different approach to regeneration. Islington has an estate called the Six Acres estate near Finsbury Park. The Six Acres estate was built at the same time as Heygate & Aylesury, by the same contractors (Laing) using the [same system](http://crappistmartin.github.io/images/LBI_SixAcres_Jespersen12M.pdf) (Jespersen 12M). 
 
 Instead of demolishing its estate and handing it over to the private sector at a loss, Islington Council chose to refurbish the Six Acres estate in 2012. The 473 homes on the estate were refurbished with [new external wall insulation](http://www.lawtechltd.co.uk/Project_Tollington.aspx), new entry doors, exterior furnishing improvements, [green roofs](http://www.langley.co.uk/asx/six_acres_case_study.pdf) and [cycle shelters](http://greenroofshelters.co.uk/green-roofed-cycle-shelters-for-islington/).
