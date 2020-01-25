@@ -22,7 +22,7 @@ The others are owned by either Delancey (Castle Square, Elephant One) or fellow 
 
 6.	that the database of opportunities reflects what was agreed on the approval of planning permission. This database should give information about vacant premises within a mile of the centre and within Southwark, but has not proved helpful. 
 
-7.	that the shopping centre is not closed until every independent trader is relocated or receives financial compensation.  The independent traders have been at the heart of the Elephant and Castle for decades.  The Elephant regeneration is trumpeted as a great benefit for the local community and local people; if this is to be true then all the independnat traders must be fairly treated, with either new premises or compensation.
+7.	that the shopping centre is not closed until every independent trader is relocated or receives financial compensation.  The independent traders have been at the heart of the Elephant and Castle for decades.  The Elephant regeneration is trumpeted as a great benefit for the local community and local people; if this is to be true then all the independent traders must be fairly treated, with either new premises or compensation.
 
 
 There will be a [demonstration, organised by the Up The Elephant campaign](https://twitter.com/UpTheElephant_), in support of the traders' deputation to Southwark Council's first assembly meeting of the year on **Tuesday 28 January Southwark Council Head Offices, Tooley St 6pm** - everyone who wants a fairer, inclusive regeneration at the Elephant is welcome.
