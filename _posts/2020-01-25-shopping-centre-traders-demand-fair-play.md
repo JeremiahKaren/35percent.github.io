@@ -14,7 +14,7 @@ The trader's deputation will present seven demands to the Assembly, which is a m
 2.	that the rent and service charge costs of the relocation options are brought into line with each other.  Of the four main relocation options the most expensive, Perronet House, is owned by Southwark Council.
 The others are owned by either Delancey (Castle Square, Elephant One) or fellow developer Lendlease  (Elephant Park) and are cheaper.
 
-3.	that the businesses in Arch 7 are fully included in the relocation strategy and can draw from the relocation fund.  Railway arches 6 and 7, beneath the shopping centre, are due to be kocked through, displacing the businesses there; they cannot apply for relocation money under the current rules for the fund.
+3.	that the businesses in Arch 7 are fully included in the relocation strategy and can draw from the relocation fund.  Railway arches 6 and 7, beneath the shopping centre, are due to be knocked through, displacing the businesses there; they cannot apply for relocation money under the current rules for the fund.
 
 4.	that the the market traders around the centre are equally and fairly treated and that all traders get a benefit of rent reductions, until the shopping centre closes.  Rent reductions made because of the disruption to trade have not been passed on to the market traders.
 
