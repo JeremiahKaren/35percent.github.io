@@ -27,6 +27,5 @@ The others are owned by either Delancey (Castle Square, Elephant One) or fellow 
 
 There will be a [demonstration, organised by the Up The Elephant campaign](https://twitter.com/UpTheElephant_), in support of the traders' deputation to Southwark Council's first assembly meeting of the year on **Tuesday 28 January Southwark Council Head Offices, Tooley St 6pm** - everyone who wants a fairer, inclusive regeneration at the Elephant is welcome.
 
+![](http://35percent.org/img/jan2020protest.jpg)
 
-
-Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
