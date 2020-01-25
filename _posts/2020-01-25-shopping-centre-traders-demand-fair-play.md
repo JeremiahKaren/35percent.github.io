@@ -9,20 +9,20 @@ A deputation of shopping centre traders are due to attend Southwark Council's [A
 
 The trader's deputation will present seven demands to the Assembly, which is a meeting of all Southwark's councillors.  These are the traders' demands;
 
-1.	that Delancey increases the relocation fund.  This is currently £634,700 with traders having to demonstrate 'hardship' for Delancey to consider increasing the amount beyond this.
+1.	**that Delancey increases the relocation fund.**  This is currently £634,700 with traders having to demonstrate 'hardship' for Delancey to consider increasing the amount beyond this.
 
-2.	that the rent and service charge costs of the relocation options are brought into line with each other.  Of the four main relocation options the most expensive, Perronet House, is owned by Southwark Council.
+2.	**that the rent and service charge costs of the relocation options are brought into line with each other.**  Of the four main relocation options the most expensive, Perronet House, is owned by Southwark Council.
 The others are owned by either Delancey (Castle Square, Elephant One) or fellow developer Lendlease  (Elephant Park) and are cheaper.
 
-3.	that the businesses in Arch 7 are fully included in the relocation strategy and can draw from the relocation fund.  Railway arches 6 and 7, beneath the shopping centre, are due to be knocked through, displacing established businesses, but they do not qualify for relocation support.
+3.	**that the businesses in Arch 7 are fully included in the relocation strategy and can draw from the relocation fund.**  Railway arches 6 and 7, beneath the shopping centre, are due to be knocked through, displacing established businesses, but they do not qualify for relocation support.
 
-4.	that the market traders around the centre are equally and fairly treated and that all traders get a benefit of rent reductions, until the shopping centre closes.  Rent reductions made because of the disruption to trade have not been passed on to the market traders.
+4.	**that the market traders around the centre are equally and fairly treated and that all traders get a benefit of rent reductions, until the shopping centre closes.**  Rent reductions made because of the disruption to trade have not been passed on to the market traders.
 
-5.	that the independent business adviser, Tree Shepherd, applies the agreed criteria for the allocation of relocation spaces in a fair and transparent way.  Longstanding traders have not been offered alternative premises or have been offered premises not suitable for their businesses.
+5.	**that the independent business adviser, Tree Shepherd, applies the agreed criteria for the allocation of relocation spaces in a fair and transparent way.**  Longstanding traders have not been offered alternative premises or have been offered premises not suitable for their businesses.
 
-6.	that the database of opportunities reflects what was agreed on the approval of planning permission. This database should give information about vacant premises within a mile of the centre and within Southwark, but many do not meet these criteria. 
+6.	**that the database of opportunities reflects what was agreed on the approval of planning permission.** This database should give information about vacant premises within a mile of the centre and within Southwark, but many do not meet these criteria. 
 
-7.	that the shopping centre is not closed until every independent trader is relocated or receives financial compensation.  The independent traders have been at the heart of the Elephant and Castle for decades.  The Elephant regeneration is trumpeted as a great benefit for the local community and local people; if this is to be true then all the independent traders must be fairly treated, with either new premises or compensation.
+7.	**that the shopping centre is not closed until every independent trader is relocated or receives financial compensation.**  The independent traders have been at the heart of the Elephant and Castle for decades.  The Elephant regeneration is trumpeted as a great benefit for the local community and local people; if this is to be true then all the independent traders must be fairly treated, with either new premises or compensation.
 
 ## Support the traders - demonstrate!
 
