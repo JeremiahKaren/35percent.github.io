@@ -9,7 +9,7 @@ A deputation of shopping centre traders are due to attend Southwark Council's [A
 
 The trader's deputation will present seven demands to the Assembly, which is a meeting of all Southwark's councillors.  These are the traders' demands;
 
-1.	that Delancey increases the relocation fund.  This is currently £634,700, with traders having to demonstrate 'hardship' for Delancey to consider increasing the amount beyond this.
+1.	that Delancey increases the relocation fund.  This is currently £634,700 with traders having to demonstrate 'hardship' for Delancey to consider increasing the amount beyond this.
 
 2.	that the rent and service charge costs of the relocation options are brought into line with each other.  Of the four main relocation options the most expensive, Perronet House, is owned by Southwark Council.
 The others are owned by either Delancey (Castle Square, Elephant One) or fellow developer Lendlease  (Elephant Park) and are cheaper.
