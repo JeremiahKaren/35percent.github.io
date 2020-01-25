@@ -18,7 +18,7 @@ The others are owned by either Delancey (Castle Square, Elephant One) or fellow 
 
 4.	that the market traders around the centre are equally and fairly treated and that all traders get a benefit of rent reductions, until the shopping centre closes.  Rent reductions made because of the disruption to trade have not been passed on to the market traders.
 
-5.	that the independent business adviser, Tree Shepherd, applies the agreed criteria for the allocation of relocation spaces in a fair and transparent way.  Traders of longstanding have not been offered alternative premises or have been offered premises not suitable for their businesses.
+5.	that the independent business adviser, Tree Shepherd, applies the agreed criteria for the allocation of relocation spaces in a fair and transparent way.  Longstanding traders have not been offered alternative premises or have been offered premises not suitable for their businesses.
 
 6.	that the database of opportunities reflects what was agreed on the approval of planning permission. This database should give information about vacant premises within a mile of the centre and within Southwark, but has not proved helpful. 
 
