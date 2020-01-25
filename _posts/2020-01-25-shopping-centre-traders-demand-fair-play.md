@@ -16,7 +16,7 @@ The others are owned by either Delancey (Castle Square, Elephant One) or fellow 
 
 3.	**that the businesses in Arch 7 are fully included in the relocation strategy and can draw from the relocation fund.**  Railway arches 6 and 7, beneath the shopping centre, are due to be knocked through, displacing established businesses, but they do not qualify for relocation support.
 
-4.	**that the market traders around the centre are equally and fairly treated and that all traders get a benefit of rent reductions, until the shopping centre closes.**  Rent reductions made because of the disruption to trade have not been passed on to the market traders.
+4.	**that the market traders around the centre are equally and fairly treated and that all traders get the benefit of rent reductions, until the shopping centre closes.**  Rent reductions made because of the disruption to trade have not been passed on to the market traders.
 
 5.	**that the independent business adviser, Tree Shepherd, applies the agreed criteria for the allocation of relocation spaces in a fair and transparent way.**  Longstanding traders have not been offered alternative premises or have been offered premises not suitable for their businesses.
 
