@@ -16,15 +16,16 @@ The others are owned by either Delancey (Castle Square, Elephant One) or fellow 
 
 3.	that the businesses in Arch 7 are fully included in the relocation strategy and can draw from the relocation fund.  Railway arches 6 and 7, beneath the shopping centre, are due to be kocked through, displacing the businesses there; they cannot apply for relocation money under the current rules for the fund.
 
-4.	that the the market traders around the centre are equally and fairly treated and that all traders get a benefit of rent reductions, until the shopping centre closes.  Rent reductions made because of the disruption to trade, caused by the redevelopment of the centre, have not been passed on to the market traders.
+4.	that the the market traders around the centre are equally and fairly treated and that all traders get a benefit of rent reductions, until the shopping centre closes.  Rent reductions made because of the disruption to trade have not been passed on to the market traders.
 
 5.	that the independent business adviser, Tree Shepherd, applies the agreed criteria for the allocation of relocation spaces in a fair and transparent way.  Traders of longstanding have not been offered alternative premises or have been offered premises not suitable for their businesses.
 
-6.	Ensure that the database of opportunities reflects what was agreed on the approval of planning permission.
-Can you explain more about the problems traders have had with the database of opportunities?
-7.	Ensure that the database of opportunities reflects what was agreed on the approval of planning permission.
-Could any trader present who has not been allocated a relocation space please explain their situation?
+6.	that the database of opportunities reflects what was agreed on the approval of planning permission. This database should give information about vacant premises within a mile of the centre and within Southwark, but has not proved helpful. 
 
+7.	that the shopping centre is not closed until every independent traders is relocated or receives financial compensation.  The independent traders have been at the heart of the Elephant and Castle for decades.  The Elephant regeneration is trumpeted as a great benefit for the local community and local people; if this is to be true then all the independnat traders must be fairly treated, with either new premises or compensation.
+
+
+There will be a [demonstration, organised by the Up The Elephant campaign](https://twitter.com/UpTheElephant_), in support of the traders' deputation to Southwark Council's first assembly meeting of the year on **Tuesday 28 January Southwark Council Head Offices, Tooley St 6pm** - everyone who wants a fairer, inclusive regeneration at the Elephant is welcome.
 
 
 
