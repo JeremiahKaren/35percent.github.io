@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 title: 'Shopping centre traders demand fair play '
 ---
 ## Elephant traders to send deputation to Southwark Council Assembly
