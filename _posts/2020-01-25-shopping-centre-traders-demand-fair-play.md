@@ -20,7 +20,7 @@ The others are owned by either Delancey (Castle Square, Elephant One) or fellow 
 
 5.	that the independent business adviser, Tree Shepherd, applies the agreed criteria for the allocation of relocation spaces in a fair and transparent way.  Longstanding traders have not been offered alternative premises or have been offered premises not suitable for their businesses.
 
-6.	that the database of opportunities reflects what was agreed on the approval of planning permission. This database should give information about vacant premises within a mile of the centre and within Southwark, but has not proved helpful. 
+6.	that the database of opportunities reflects what was agreed on the approval of planning permission. This database should give information about vacant premises within a mile of the centre and within Southwark, but many do not meet these criteria. 
 
 7.	that the shopping centre is not closed until every independent trader is relocated or receives financial compensation.  The independent traders have been at the heart of the Elephant and Castle for decades.  The Elephant regeneration is trumpeted as a great benefit for the local community and local people; if this is to be true then all the independent traders must be fairly treated, with either new premises or compensation.
 
