@@ -25,7 +25,7 @@ This [Sep 2019 Cabinet report](http://moderngov.southwark.gov.uk/documents/s8462
 
 [Official statistics](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/674346/LT_116.xlsx) from the government's [live tables](https://www.gov.uk/government/statistical-data-sets/live-tables-on-dwelling-stock-including-vacants) on local authority dwelling stock show that since the manifesto pledge in 2013 there has been a net reduction in Southwark's council housing stock of 540 council homes.
 
-![](http://35percent.org/img/livetableextract.png)
+![](http://35percent.org/img/netlosstable116.jpg)
 *Extract from the government's [Live Table 116](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/674346/LT_116.xlsx)*
 
 The rate at which the council is building new homes is clearly not keeping up with the rate at which it is knocking them down and selling them off. The Council has or will demolish [over 7,500 council homes](http://35percent.org/the-southwark-clearances/) as part of regeneration schemes, including  1,200 council homes in the [Heygate estate regeneration](http://35percent.org/heygate-regeneration-faq/) and circa 2,400 in the [Aylesbury estate regeneration](http://35percent.org/aylesbury-estate/).
