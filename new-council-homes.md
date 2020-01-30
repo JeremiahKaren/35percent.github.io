@@ -1,10 +1,10 @@
 ---
 layout: page 
 title: "Southwark's 11000 new council homes"
-subtitle: "Council demolishing and selling off council homes much faster than it's building them"
+subtitle: "Council continues to demolish and sell off council homes much faster than it's building new ones"
 published: true
 ---
-In 2013, as part of its manifesto pledge Southwark Council's administration [announced](http://www.southwarklabour.co.uk/latest-news/southwark/news.aspx?p=102262) an _"ambitious but realistic plan to build 11,000 new council homes"_ across the borough over the next 30 years. Concerns were [raised by us](http://35percent.org/the-southwark-clearances) and in the [local press](https://crappistmartin.github.io/images/SNHeygateOverage.pdf) that this would fail to make up for the thousands of council homes currently being lost to ongoing estate regeneration, [void disposal policies](http://35percent.org/the-southwark-clearances/#void-disposal-policy) and Right to Buy applications over the next 30 years.
+In 2014, as part of its manifesto pledge Southwark Council's administration [announced](http://www.southwarklabour.co.uk/latest-news/southwark/news.aspx?p=102262) an _"ambitious but realistic plan to build 11,000 new council homes"_ across the borough over the next 30 years. Concerns were [raised by us](http://35percent.org/the-southwark-clearances) and in the [local press](https://crappistmartin.github.io/images/SNHeygateOverage.pdf) that this would fail to make up for the thousands of council homes currently being lost to ongoing estate regeneration, [void disposal policies](http://35percent.org/the-southwark-clearances/#void-disposal-policy) and Right to Buy applications over the next 30 years.
 
 ![](https://crappistmartin.github.io/images/SN1100homes.png)
 *Extract from an [Oct 2014 article in the local newspaper](https://crappistmartin.github.io/images/SNHeygateOverage.pdf)*
@@ -23,7 +23,7 @@ Six years on and we have taken a look at whether Councillor John has delivered o
 
 This [Sep 2019 Cabinet report](http://moderngov.southwark.gov.uk/documents/s84622/Report%20New%20Council%20Homes%20Rooftop%20Development%20Principles.pdf) confirms that the council has built just 328 council homes over 5 years (para 16).  
 
-[Official statistics](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/674346/LT_116.xlsx) from the government's [live tables](https://www.gov.uk/government/statistical-data-sets/live-tables-on-dwelling-stock-including-vacants) on local authority dwelling stock show that since the manifesto pledge in 2013 there has been a net reduction in Southwark's council housing stock of 540 council homes.
+[Official statistics](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/674346/LT_116.xlsx) from the government's [live tables](https://www.gov.uk/government/statistical-data-sets/live-tables-on-dwelling-stock-including-vacants) on local authority dwelling stock show that since the manifesto pledge in 2014 there has been a net reduction in Southwark's council housing stock of 925 council homes.
 
 ![](http://35percent.org/img/netlosstable116.jpg)
 *Extract from the government's [Live Table 116](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/674346/LT_116.xlsx)*
@@ -42,11 +42,11 @@ A problem with this method of buying council housing is that it does not actuall
 
 It is also not clear whether [all the new homes](http://moderngov.southwark.gov.uk/documents/s78251/Appendix%202%20Map%20showing%20approved%20schemes.pdf) have been let at council rents.  We have [blogged previously](http://35percent.org/2017-04-29-blackfriars-affordable-housing-circus/#10m-wasted-and-new-council-homes-not-even-social-rent) about new 'council homes' now being let at a percentage of market rent (40%) rather than social rent (which is currently approx 20% of market rent). 
 
-In any event, 54 of these new 'council homes' are temporary accommodation units in ([_Willow Walk homeless hostel_](https://consultations.southwark.gov.uk/housing-community-services-department-community-engagement-team/11-000-new-council-homes-design-and-neighbourhoods/), as are all 37 units in _Good Neighbours House_, which in any case is not new but simply [converted from what used to be a council care home](http://moderngov.southwarksites.com/documents/s51072/Item%201%20Report%2014AP3033.pdf)). As with all of Southwark's temporary hostel accommodation units, these are [let](http://moderngov.southwark.gov.uk/documents/s65880/Temporary%20Accommodation%20Report.pdf) at [LHA rent levels](https://lha-direct.voa.gov.uk/SearchResults.aspx?LocalAuthorityId=28&LHACategory=999&Month=10&Year=2018&SearchPageParameters=true), which are more than twice current council rent levels.
+For example, 54 of the new 'council homes' are temporary accommodation units in ([_Willow Walk homeless hostel_](https://consultations.southwark.gov.uk/housing-community-services-department-community-engagement-team/11-000-new-council-homes-design-and-neighbourhoods/), as are all 37 units in _Good Neighbours House_, which in any case is not new but simply [converted from what used to be a council care home](http://moderngov.southwarksites.com/documents/s51072/Item%201%20Report%2014AP3033.pdf)). As with all of Southwark's temporary hostel accommodation units, these are [let](http://moderngov.southwark.gov.uk/documents/s65880/Temporary%20Accommodation%20Report.pdf) at [LHA rent levels](https://lha-direct.voa.gov.uk/SearchResults.aspx?LocalAuthorityId=28&LHACategory=999&Month=10&Year=2018&SearchPageParameters=true), which are more than twice current council rent levels.
 
 ![](http://35percent.org/img/lharates.png)
 
-Even if we were to count all the hostel units and purchased S106 units as council homes at council rents, the [overall figures](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/674346/LT_116.xlsx) still show an ongoing decline rather than any net increase in the number of council homes:
+In any event, even if we count all the hostel units and purchased S106 units as council homes at council rents, the [overall figures](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/674346/LT_116.xlsx) still show a net loss of 925 council homes since 2014 and an ongoing decline in dwelling stock:
 
 <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js">
 </script>
@@ -71,7 +71,7 @@ Even if we were to count all the hostel units and purchased S106 units as counci
             },
             xAxis: {
                 categories: ['1994', '1995', '1996', '1997', '1998', '1999',
-                    '2000', '2001', '2002', '2003', '2004', '2005', '2006', '2007', '2008', '2009', '2010', '2011', '2012', '2013', '2014', '2015', '2016', '2017', '2018']
+                    '2000', '2001', '2002', '2003', '2004', '2005', '2006', '2007', '2008', '2009', '2010', '2011', '2012', '2013', '2014', '2015', '2016', '2017', '2018', '2019']
             },
             yAxis: {
                 title: {
@@ -94,13 +94,13 @@ Even if we were to count all the hostel units and purchased S106 units as counci
             },
             series: [{
                 name: 'Southwark',
-                data: [55803, 55162, 54439, 53363, 52448, 51706, 50903, 49875, 48052, 46887, 45346, 43885, 42275, 41873, 41287, 40618, 40120, 39845, 39781, 38578, 39029, 38687, 38522, 38553, 38489]
+                data: [55803, 55162, 54439, 53363, 52448, 51706, 50903, 49875, 48052, 46887, 45346, 43885, 42275, 41873, 41287, 40618, 40120, 39845, 39781, 38578, 39029, 38687, 38522, 38553, 38489, 38104]
             }]
         });
 
 </script>
 
 <meta name="twitter:card" content="summary" />
-<meta name="twitter:title" content="Southwark's Council-house build programme" />
-<meta name="twitter:description" content="Sales and demolitions still far outstripping new-builds" />
+<meta name="twitter:title" content="Southwark's 11,000 new council homes" />
+<meta name="twitter:description" content="Figures show net loss of 925 homes as sales and demolitions continue to outstrip new-builds" />
 <meta name="twitter:image" content="http://35percent.org/img/councilstock.png" />
