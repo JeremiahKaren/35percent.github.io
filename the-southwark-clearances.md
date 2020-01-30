@@ -66,7 +66,7 @@ Twenty years later and it is clear to see that the council's regeneration strate
 
 </script>
 
-Southwark has lost nearly 15,000 council homes since Blair's Aylesbury estate speech. Whilst Right to Buy sales have played a part in the overall decline in stock, the Council's ongoing estate regeneration schemes have contributed to a significant proportion of the loss.
+Southwark has lost nearly 15,000 council homes since Blair's Aylesbury estate speech. Whilst Right to Buy sales have played a part in the overall decline in stock, the Council's [ongoing estate regeneration schemes](http://35percent.org/great-estates/) have contributed to a significant proportion of the loss.
 
 |   | Estate  | Council homes demolished  | Total new homes  | of which social rented  |
 |---|---|---|---|---|
