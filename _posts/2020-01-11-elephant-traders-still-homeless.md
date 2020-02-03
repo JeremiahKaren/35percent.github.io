@@ -17,7 +17,7 @@ The figure of 130 independent traders (ie traders with less than three outlets) 
 
 In March 2019, Southwark responded to [a Freedom of Information](https://www.whatdotheyknow.com/request/independently_owned_retail_busin?nocache=incoming-1334948#incoming-1334948) (FOI) request, with a [database](https://www.whatdotheyknow.com/request/555280/response/1334948/attach/2/190321%20For%20FOI%20EC%20traders.pdf%201037530.pdf) of 79 'independent local operators', eligible for relocation funds as defined by the legal agreement between Southwark Council and developer Delancey; Latin Elephant identified a further [21 independent businesses omitted](https://latinelephant.org/map/#Q7) from this list.  
 
-Latin Elephant/[petit elephant](https://twitter.com/elephant_petit/status/1184572253381500928)also consider that 17 more businesses are excluded from relocation funding, simply by the wording of the legal agreement. These includes sub-tenants in Arch 7, on Elephant Road, and small traders in the shopping centre that rent their space through third parties, such as Forum CentreSpace Ltd.
+Latin Elephant/[petit elephant](https://twitter.com/elephant_petit/status/1184572253381500928) also consider that 17 more businesses are excluded from relocation funding, simply by the wording of the legal agreement. These includes sub-tenants in Arch 7, on Elephant Road, and small traders in the shopping centre that rent their space through third parties, such as Forum CentreSpace Ltd.
 
 In any event, in March 2019, Southwark confirmed that [only 36](https://twitter.com/kieronjwilliams/status/1108781273630289920?s=12) of the 79 'independent local operators' had been offered a relocation unit.
 
