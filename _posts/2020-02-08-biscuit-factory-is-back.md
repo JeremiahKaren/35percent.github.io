@@ -19,8 +19,6 @@ This time there are 140 homes proposed at social rent equivalent.  Under Southwa
 
 Officer's report 5 working days, hearing 21 Feb 
 
-![](http://35percent.org/img/biscuittotals.png)
-
 This still falls short of Southwark's policy requirement. Southwark Plan and London Plan both moving in same direction - support for BtR, fake social rent and less off it.
 
 ![](http://35percent.org/img/biscuitoutputs.png)
