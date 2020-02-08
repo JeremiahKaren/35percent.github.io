@@ -18,4 +18,4 @@ Not even the Council's own schemes on public land where it is a development part
 
 Cllr Livingstone's letter also complains that the government's new policy is silent on embodied carbon - perhaps a sore point for a council which has knocked down 8,000 homes in its council estate [renewal programme](http://35percent.org/great-estates).
 
-![](http://35percent.org/img/pj-strata.gif
+![](http://35percent.org/img/pj-strata.gif)
