@@ -23,6 +23,6 @@ Officer's report 5 working days, hearing 21 Feb
 
 This still falls short of Southwark's policy requirement. Southwark Plan and London Plan both moving in same direction - support for BtR, fake social rent and less off it.
 
+![](http://35percent.org/img/biscuitoutputs.png)
 
 What the hell is the Mayor doing?  Mayor cited Southwark's failure to meet housing targets; justifiable, but his concern is headline figures, hopes that no-one will notice what kind of aff/h. Need for social housing (Southwark table, ward indices); Mayor's pre-election promises on social housing. Tradeable commodity. Mayor likes - institutional finance.
-
