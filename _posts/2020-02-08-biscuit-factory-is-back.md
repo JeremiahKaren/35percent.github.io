@@ -15,7 +15,7 @@ Back with an increase number of homes to 1,548. Previously there were no social 
 
 This time there are 140 homes proposed at social rent equivalent.  Under Southwark's local plan we shold get c 380 proper s/rent, based on units.
 
-(Another) non-viable development. Whatever confidence there might be in viability undermined by hugh disparity in figures - in 2017 planning application £189m loss (Grosvnor); £10m profit (Southwark; now £xm (not agreed by GLA?).  Review?
+(Another) non-viable development. Whatever confidence there might be in viability undermined by hugh disparity in figures - in 2017 planning application £189m loss (Grosvnor); £101m profit (Southwark; now Grosvenor claim the profit will be £13m (not agreed by GLA?).  This falls below Grosvenor own profit target of xxx% IRR and so classes the develoment as  non-viable.  Does it qualify for the fast track? (H6) Review? Yes - Stage 2 report.  This is justification for an affordable housing offer that still does not meet Southwark's policy requirements (adopted or emerging).
 
 Officer's report 5 working days, hearing 21 Feb 
 
