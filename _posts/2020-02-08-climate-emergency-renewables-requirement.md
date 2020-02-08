@@ -13,6 +13,10 @@ The Council's [current policy](https://www.southwark.gov.uk/assets/attach/1820/S
 
 This is mirrored by the Mayor's minimum 20% policy requirement in the London Plan. Caveat is that a payment can be made in lieu - which Southwark has jumped on as a cash cow.
 
+![](http://35percent.org/img/majorschemes.png)
+
 Not even the Council's own schemes on public land where it is a development partner has the Council bothered to comply with its own policy requirements - see Heygate/Wood Dene/Aylesbury/Elmington, Canada Water. 
 
 Cllr Livingstone's letter also complains that the government's new policy is silent on embodied carbon - perhaps a sore point for a council which has knocked down 8,000 homes in its council estate [renewal programme](http://35percent.org/great-estates).
+
+![](http://35percent.org/img/pj-strata.gif
