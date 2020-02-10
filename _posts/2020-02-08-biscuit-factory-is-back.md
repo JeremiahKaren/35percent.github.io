@@ -3,10 +3,11 @@ layout: post
 published: false
 title: Biscuit factory is back
 ---
-## A New Post
 We [previously blogged](http://35percent.org/2018-09-25-grosvenor-taking-the-biscuit-factory/) about biscuit factory.
 
-Developer Grovesnor estate proposed Build to Rent xxxx units with no social housing.  proved too much for both local councillors and planning committee, who rejected the scheme.
+The world's richest man (under 30 - worth over £10bn) Hugh Grosvenor the 7th Duke of Westminster and the [largest landowner in London](https://whoownsengland.org/2017/10/28/who-owns-central-london/), proposed Build to Rent xxxx units with no social housing. This proved too much for both local councillors and planning committee, who rejected the scheme.
+
+![](http://35percent.org/img/biscuitfactory7.png)
 
 After the Mayor overrode Southwark's decision and called it in, he is set to approve the scheme on 21st Febuarya. Cited Southwark's failure to meet houisng targets as reason (lnk).
 
@@ -23,4 +24,6 @@ This still falls short of Southwark's policy requirement. Southwark Plan and Lon
 
 ![](http://35percent.org/img/biscuitoutputs.png)
 
-What the hell is the Mayor doing?  Mayor cited Southwark's failure to meet housing targets; justifiable, but his concern is headline figures, hopes that no-one will notice what kind of aff/h. Need for social housing (Southwark table, ward indices); Mayor's pre-election promises on social housing. Tradeable commodity. Mayor likes - institutional finance.
+Cllr Johnson Situ, Southwark's regeneration boss [said](https://www.theguardian.com/money/2018/oct/26/grosvenor-1bn-bermondsey-build-to-rent-project-in-jeopardy-duke-of-westminster-property-group) about the previous application:_"With over 10,000 people on our housing waiting list it is very disappointing to see such a little amount of social or genuinely affordable housing in this application. As it stands, we are still a long way from agreeing a scheme that meets the council’s policies."_
+
+The scheme is still 240 social rented homes away from meeting the council's policies so why has Cllr Situ now dropped his opposition to the scheme and what the hell is the Mayor doing?  Mayor cited Southwark's failure to meet housing targets; justifiable, but his concern is headline figures, hopes that no-one will notice what kind of aff/h. Need for social housing (Southwark table, ward indices); Mayor's pre-election promises on social housing. Tradeable commodity. Mayor likes - institutional finance.
