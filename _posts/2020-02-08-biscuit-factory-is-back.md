@@ -26,3 +26,22 @@ This still falls short of Southwark's policy requirement. Southwark Plan and Lon
 Cllr Johnson Situ, Southwark's regeneration boss had [said](https://www.theguardian.com/money/2018/oct/26/grosvenor-1bn-bermondsey-build-to-rent-project-in-jeopardy-duke-of-westminster-property-group) about the previous application:_"With over 10,000 people on our housing waiting list it is very disappointing to see such a little amount of social or genuinely affordable housing in this application. As it stands, we are still a long way from agreeing a scheme that meets the council’s policies."_
 
 The scheme is still 240 social rented homes away from meeting the council's policies so why has Cllr Situ now dropped his opposition to the scheme and what the hell is the Mayor doing?  Mayor cited Southwark's failure to meet housing targets; justifiable, but his concern is headline figures, hopes that no-one will notice what kind of aff/h. Need for social housing (Southwark table, ward indices); Mayor's pre-election promises on social housing. Tradeable commodity. Mayor likes - institutional finance.
+
+## Poor doors
+One of Sadiq Khan's manifesto pledges was that he would [ban poor door's in London's housing developments](https://www.theguardian.com/uk-news/2015/jul/23/sadiq-khan-pledges-ban-poor-doors-london-housing-developments-mayor). He has held true on this pledge to the extent that separate entrances for private and affordable tenants are indeed a thing of the past and instead we now see entirely separate buildings (see Heygate, Aylesbury and most major schemes approved in last 5 years.) 
+
+https://www.theguardian.com/society/2018/nov/25/poor-doors-developers-segregate-rich-from-poor-london-housing-blocks
+
+
+
+## Renewable energy
+Despite both the Mayor and Southwark Council having formally declared a 'climate emergency', Grosvenor's scheme fails to comply with the either the Mayor's or Southwark's minimum 20% requirement for on-site renewable energy supply.
+
+[Policy 5.7 (para 5.42) of the Mayor's new London Plan](https://www.london.gov.uk/what-we-do/planning/london-plan/current-london-plan/london-plan-chapter-five-londons-response/poli-6) requires that _" all major development proposals will seek to reduce carbon dioxide emissions by at least 20 per cent through the use of on-site renewable energy generation"_ .. via the use of _"renewable energy technologies such as: biomass heating; cooling and electricity; renewable energy from waste; photovoltaics; solar water heating; wind and heat pumps"_.  
+
+Southwark's sustainability policies also require this minimum 20% on-site renewable energy generation (see policy 13 of the Core Strategy) and Policy 3.5 of its [Sustainability SPD](https://www.southwark.gov.uk/assets/attach/1820/Sustainable_Design_and_Construction_SPD.pdf):
+
+![](http://35percent.org/img/sustainabilityspd.png)
+
+
+Grosvenor's [sustainability statement](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!oaVgJZ4AhwO%2fZJTkFEL0sg%3d%3d!%7d%7d%7d) admits that the scheme's renewable energy requirement falls short of this 20% requirement and that its scattering of solar panels will provide just 0.6% (see page 12, para 5.19). 
