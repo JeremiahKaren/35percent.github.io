@@ -47,11 +47,9 @@ Indeed, it is arguable that the affordable housing requirement should be 50%, gi
 recommending approval of the scheme skips lightly over the requirement that, as a former industrial site, the Biscuit Factory should deliver 50% affordable housing, in line with the The Mayor's 'strategic' target, by saying _'the site currently comprises a privately-owned commercial complex, the previous industrial use having ceased over 30 years ago'_(footnote; para 232) and so is subject to a 35% requirement instead.
 
 
-Southwark has been reduced to a bystander, while GLA allows a scheme of 140 pseudo-social rent and 
-considers a [bewildering number of affordable housing policies] (https://www.london.gov.uk/sites/default/files/biscuit_factory_hearing_report.pdf)(Footnote; paras 220-236) when determing what kind of affordable housing should be built and how much there should be.  In the end it settles on that which provides pseudo-social rent (and not much of it), relying on the Mayor's so-called Intend To Publish London Plan.  This takes takes precedence over Southwark's long-standing and adopted Core Strategy, which would have given proper social rent, at higher proportions, and Southwark's emerging New Southwark Plan, also unpublished, which would have allowed pseudo- social rent, but would at least got more of it.
+While Southwark has been reduced to a bystander, GLA has indulged in a pick n mix of the  
+[bewildering number of affordable housing policies] (https://www.london.gov.uk/sites/default/files/biscuit_factory_hearing_report.pdf)(Footnote; see paras 220-236) available to determine that only 140 pseudo-social rent homes should be built, with 342 DMR at much higher rents - an exact reversal of the proportions of social to intermediate housing, given by Southwark's policy.
 
-
-The scheme is still 240 social rented homes away from meeting the council's policies so why has Cllr Situ now dropped his opposition to the scheme and what the hell is the Mayor doing?  Mayor cited Southwark's failure to meet housing targets; justifiable, but his concern is headline figures, hopes that no-one will notice what kind of aff/h. Need for social housing (Southwark table, ward indices); Mayor's pre-election promises on social housing. Tradeable commodity. Mayor likes - institutional finance.
 
 Southwark has been reduced to being a bystander to the decision-making.
 A Labour Mayor has called in a development that a fellow Labour council has rightly refused because it has no social rented housing, ignored that council's own affordable housing policies, and applied his own, weaker policies, all to help a developer build something without any proper social rented housin
@@ -101,11 +99,16 @@ The Biscuit Factory also demonstrates the threat BtR developments hold for socia
 
 Both the Gosvenor and the Mayor would have us believe that 'social rent equivalent' is the same as social rent - it isn't; it is a pseudo-social rent homes
 
+## Conclusion
 
-This time there are 140 homes proposed at social rent equivalent.  Under Southwark's local plan we shold get c 380 proper s/rent, based on units.
+ Mayor cited Southwark's failure to meet housing targets; justifiable, but his concern is headline figures, hopes that no-one will notice what kind of aff/h. Need for social housing (Southwark table, ward indices); Mayor's pre-election promises on social housing. Tradeable commodity. Mayor likes - institutional finance.
+
+
+
 
 Hearing 21 Feb 
 
-This still falls short of Southwark's policy requirement. Southwark Plan and London Plan both moving in same direction - support for BtR, fake social rent and less off it.
 
-The scheme is still 240 social rented homes away from meeting the council's policies so why has Cllr Situ now dropped his opposition to the scheme and what the hell is the Mayor doing?  Mayor cited Southwark's failure to meet housing targets; justifiable, but his concern is headline figures, hopes that no-one will notice what kind of aff/h. Need for social housing (Southwark table, ward indices); Mayor's pre-election promises on social housing. Tradeable commodity. Mayor likes - institutional finance.
+The scheme is still 240 social rented homes away from meeting the council's policies so why has Cllr Situ now dropped his opposition to the scheme and what the hell is the Mayor doing? 
+
+In the end it settles on that which provides pseudo-social rent (and not much of it), relying on the Mayor's so-called Intend To Publish London Plan.  This takes takes precedence over Southwark's long-standing and adopted Core Strategy, which would have given proper social rent, at higher proportions, and Southwark's emerging New Southwark Plan, also unpublished, which would have allowed pseudo- social rent, but would at least got more of it.
