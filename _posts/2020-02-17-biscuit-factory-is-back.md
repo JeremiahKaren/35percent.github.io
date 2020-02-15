@@ -12,9 +12,14 @@ Grovesnor Estate, headed by Hugh Grosvenor the 7th Duke of Westminster, London's
 
 ![](http://35percent.org/img/biscuitfactory7.png)
 
-However, Mayor Sadiq Khan overrode Southwark's decision by 'calling it in', citing Southwark's [failure to meet its affordable housing targets](https://www.london.gov.uk/sites/default/files/public%3A//public%3A//PAWS/media_id_458537///biscuit_factory_final_decision.pdf), and he now looks set to approve the scheme, after a [public hearing](https://www.london.gov.uk/what-we-do/planning/planning-applications-and-decisions/public-hearings/former-biscuit-factory-public-hearing-0) at City Hall on the 21st February. 
+However, Mayor Sadiq Khan overrode Southwark's decision by 'calling it in', citing Southwark's [failure to meet its affordable housing targets](https://www.london.gov.uk/sites/default/files/public%3A//public%3A//PAWS/media_id_458537///biscuit_factory_final_decision.pdf), and is now [set to approve the scheme](https://www.london.gov.uk/sites/default/files/biscuit_factory_hearing_report.pdf), after a [public hearing](https://www.london.gov.uk/what-we-do/planning/planning-applications-and-decisions/public-hearings/former-biscuit-factory-public-hearing-0) at City Hall on the 21st February.
 
-The scheme has been altered by the Mayor with an overall increase in the number of homes to 1,548 and the introduction of 140 pseudo social rented homes. - social rent equivalent;3 year tenancy; rent? FOI, our estimate from viability assessment - GLA won't say, wait until s106 is approved (consultation conducted on this basis).  Covenant length? 
+## Scheme amendments
+
+The scheme has now been amended with an overall increase in the number of homes to 1,548 and the introduction of 140 . - social rent equivalent;3 year tenancy; rent? FOI, our estimate from viability assessment - GLA won't say, wait until s106 is approved (consultation conducted on this basis).  Covenant length?
+
+Both the Gosvenor and the Mayor would have us believe that 'social rent equivalent' is the same as social rent - it isn't; it is a pseudo-social rent homes
+
 
 This time there are 140 homes proposed at social rent equivalent.  Under Southwark's local plan we shold get c 380 proper s/rent, based on units.
 
