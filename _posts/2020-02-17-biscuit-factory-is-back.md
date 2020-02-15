@@ -12,7 +12,7 @@ Grovesnor Estate, headed by Hugh Grosvenor the 7th Duke of Westminster, London's
 
 ![](http://35percent.org/img/biscuitfactory7.png)
 
-the Mayor overrode Southwark's decision by 'calling it in', and now he is set to approve the scheme on 21st February. 
+However, Mayor Sadiq Khan overrode Southwark's decision by 'calling it in', citing Southwark's failure to meet housing targets and now looks set to approve the scheme on 21st February. 
 
 The scheme has been altered by the Mayor with an overall increase in the number of homes to 1,548 and the introduction of 140 pseudo social rented homes. - social rent equivalent;3 year tenancy; rent? FOI, our estimate from viability assessment - GLA won't say, wait until s106 is approved (consultation conducted on this basis).  Covenant length? 
 
