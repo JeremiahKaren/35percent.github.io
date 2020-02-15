@@ -39,7 +39,7 @@ As a sop, early and late stage reviews of the scheme are offered and should ther
 
 ## Bad day for Southwark, worse day for the Mayor
 
-In october 2018 Southwark's regeneration boss, Cllr Johnson Situ, [commented](https://www.theguardian.com/money/2018/oct/26/grosvenor-1bn-bermondsey-build-to-rent-project-in-jeopardy-duke-of-westminster-property-group) on the original application:_"With over 10,000 people on our housing waiting list it is very disappointing to see such a little amount of social or genuinely affordable housing in this application. As it stands, we are still a long way from agreeing a scheme that meets the council’s policies."_
+In October 2018 Southwark's regeneration boss, Cllr Johnson Situ, [commented](https://www.theguardian.com/money/2018/oct/26/grosvenor-1bn-bermondsey-build-to-rent-project-in-jeopardy-duke-of-westminster-property-group) on the original application:_"With over 10,000 people on our housing waiting list it is very disappointing to see such a little amount of social or genuinely affordable housing in this application. As it stands, we are still a long way from agreeing a scheme that meets the council’s policies."_
 
 Southwark has followed this up by making a representation on the amended scheme to GLA, reiterating some of the objections that led to the original scheme's rejection, but it has not argued for the amount of real social rented housing that its own policy requires - 35% of the total amount of housing, divided 70:30 between proper social rent and intermediate housing.  This would give us around 380 social rented homes and 162 DMR homes.
 
@@ -47,8 +47,7 @@ Indeed, it is arguable that the affordable housing requirement should be 50%, gi
 recommending approval of the scheme skips lightly over the requirement that, as a former industrial site, the Biscuit Factory should deliver 50% affordable housing, in line with the The Mayor's 'strategic' target, by saying _'the site currently comprises a privately-owned commercial complex, the previous industrial use having ceased over 30 years ago'_(footnote; para 232) and so is subject to a 35% requirement instead.
 
 
-While Southwark has been reduced to a bystander in the decision making, GLA has indulged in a pick n mix of the  
-[bewildering number of affordable housing policies] (https://www.london.gov.uk/sites/default/files/biscuit_factory_hearing_report.pdf)(Footnote; see paras 220-236) available to determine that only 140 pseudo-social rent homes should be built, with 342 DMR at much higher rents - an exact reversal of the proportions of social to intermediate housing, given by Southwark's policy.
+While Southwark has been reduced to a bystander in the decision making, GLA has indulged in a pick n mix of the [bewildering number of affordable housing policies](https://www.london.gov.uk/sites/default/files/biscuit_factory_hearing_report.pdf)(Footnote; see paras 220-236) available to determine that only 140 pseudo-social rent homes should be built, with 342 DMR at much higher rents - an exact reversal of the proportions of social to intermediate housing, given by Southwark's policy.
 
 So, in sum, a Labour Mayor has called in a development that a fellow Labour council has rightly refused because it has no social rented housing, ignored that council's own affordable housing policies, and applied his own, weaker policies, all to help a developer build something without any proper social rented housin
 
@@ -105,6 +104,8 @@ Both the Gosvenor and the Mayor would have us believe that 'social rent equivale
 
 
 Hearing 21 Feb 
+
+------------------------------------------------------------------------------------------------------------
 
 
 The scheme is still 240 social rented homes away from meeting the council's policies so why has Cllr Situ now dropped his opposition to the scheme and what the hell is the Mayor doing? 
