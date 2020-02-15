@@ -30,6 +30,10 @@ The scheme is still 240 social rented homes away from meeting the council's poli
 ## Poor doors
 One of Sadiq Khan's manifesto pledges was that he would [ban poor door's in London's housing developments](https://www.theguardian.com/uk-news/2015/jul/23/sadiq-khan-pledges-ban-poor-doors-london-housing-developments-mayor). He has held true on this pledge to the extent that separate entrances for private and affordable tenants are indeed a thing of the past and instead we now see entirely separate buildings (see Heygate, Aylesbury and most major schemes approved in last 5 years.) 
 
+![](http://35percent.org/img/grosvenorahextract.png)
+*Extract from Grosvenor's [Affordable Housing Statement](http://35percent.org/img/grosvenorahstatement.pdf)*
+
+
 https://www.theguardian.com/society/2018/nov/25/poor-doors-developers-segregate-rich-from-poor-london-housing-blocks
 
 
@@ -44,4 +48,5 @@ Southwark's sustainability policies also require this minimum 20% on-site renewa
 ![](http://35percent.org/img/sustainabilityspd.png)
 
 
-Grosvenor's [sustainability statement](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!oaVgJZ4AhwO%2fZJTkFEL0sg%3d%3d!%7d%7d%7d) admits that the scheme's renewable energy requirement falls short of this 20% requirement and that its scattering of solar panels will provide just 0.6% (see page 12, para 5.19). 
+Grosvenor's [Energy Assessment](http://35percent.org/img/EnergyAssessment.pdf) proposes just 0.7% renewable energy generation (see para 7.6) using a handful of solar panels and some air conditioning units in the commercial units that can also provide heat.
+
