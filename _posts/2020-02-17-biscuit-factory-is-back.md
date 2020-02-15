@@ -57,3 +57,8 @@ Southwark's sustainability policies also require this minimum 20% on-site renewa
 
 
 Grosvenor's [Energy Assessment](http://35percent.org/img/EnergyAssessment.pdf) proposes just 0.7% renewable energy generation (see para 7.6) using a handful of solar panels and some air conditioning units in the commercial units that can also provide heat.
+
+## Why we have a housing crisis
+
+The Biscuit Factory demonstrates why we do not have enough homes that people can actually afford to live in.
+Through the wileness of developers, aided by like-minded policy-makers a site that could have delivered 50% affordable housing (750 units), of which 525 would be social rented, is only delivering 140 pseudo-social rent, plus Discounted Market Rent that even Southwark consider does not 'reflect 
