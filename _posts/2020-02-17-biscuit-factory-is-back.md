@@ -39,14 +39,23 @@ As a sop, early and late stage reviews of the scheme are offered and should ther
 
 ## Bad day for Southwark, worse day for the Mayor
 
-Cllr Johnson Situ, Southwark's regeneration boss had [said](https://www.theguardian.com/money/2018/oct/26/grosvenor-1bn-bermondsey-build-to-rent-project-in-jeopardy-duke-of-westminster-property-group) about the previous application:_"With over 10,000 people on our housing waiting list it is very disappointing to see such a little amount of social or genuinely affordable housing in this application. As it stands, we are still a long way from agreeing a scheme that meets the council’s policies."_
+In Southwark's regeneration boss, Cllr Johnson Situ, had [said](https://www.theguardian.com/money/2018/oct/26/grosvenor-1bn-bermondsey-build-to-rent-project-in-jeopardy-duke-of-westminster-property-group) about the previous application:_"With over 10,000 people on our housing waiting list it is very disappointing to see such a little amount of social or genuinely affordable housing in this application. As it stands, we are still a long way from agreeing a scheme that meets the council’s policies."_
 
-Southwark has been reduced to bystanders. it has made representations, that acknowledging the amendments, but also reiterated the objections, that led they are not enough.
-A Labour Mayor has called in a development that a fellow Labour council has rightly refused because it has no social rented housing, ignored that council's own affordable housing policies, and applied his own, weaker policies, all to help a developer build something without any proper social rented housing.
+Southwark has followed this up by making a representation to GLA, reiterating some of the objections that led to the original scheme's rejection, but, as far as we are aware, it has not argued for the amounnt of real social rented housing that its own policy requires - 35% of the total amount of housing, divided 70:30 between proper social rent and intermediate housing.  This would give us around 380 social rented homes and 162 DMR homes.
+
+
+
+while GLA considers a [bewildering number of affordable housing policies] (https://www.london.gov.uk/sites/default/files/biscuit_factory_hearing_report.pdf)(Footnote; paras 220-236) when determing what kind of affordable housing should be built and how much there should be.  In the end it settles on that which provides pseudo-social rent (and not much of it), relying on the Mayor's so-called Intend To Publish London Plan.  This takes takes precedence over Southwark's long-standing and adopted Core Strategy, which would have given proper social rent, at higher proportions, and Southwark's emerging New Southwark Plan, also unpublished, which would have allowed pseudo- social rent, but would at least got more of it.
+
 
 The scheme is still 240 social rented homes away from meeting the council's policies so why has Cllr Situ now dropped his opposition to the scheme and what the hell is the Mayor doing?  Mayor cited Southwark's failure to meet housing targets; justifiable, but his concern is headline figures, hopes that no-one will notice what kind of aff/h. Need for social housing (Southwark table, ward indices); Mayor's pre-election promises on social housing. Tradeable commodity. Mayor likes - institutional finance.
 
+Southwark has been reduced to being a bystander to the decision-making.
+A Labour Mayor has called in a development that a fellow Labour council has rightly refused because it has no social rented housing, ignored that council's own affordable housing policies, and applied his own, weaker policies, all to help a developer build something without any proper social rented housin
+
 ## Poor doors
+
+There is much else not to like about the development.
 One of Sadiq Khan's manifesto pledges was that he would [ban poor door's in London's housing developments](https://www.theguardian.com/uk-news/2015/jul/23/sadiq-khan-pledges-ban-poor-doors-london-housing-developments-mayor). He has held true on this pledge to the extent that separate entrances for private and affordable tenants are indeed a thing of the past and instead we now see entirely separate buildings (see Heygate, Aylesbury and most major schemes approved in last 5 years.) 
 
 ![](http://35percent.org/img/grosvenorahextract.png)
@@ -96,3 +105,5 @@ This time there are 140 homes proposed at social rent equivalent.  Under Southwa
 Hearing 21 Feb 
 
 This still falls short of Southwark's policy requirement. Southwark Plan and London Plan both moving in same direction - support for BtR, fake social rent and less off it.
+
+The scheme is still 240 social rented homes away from meeting the council's policies so why has Cllr Situ now dropped his opposition to the scheme and what the hell is the Mayor doing?  Mayor cited Southwark's failure to meet housing targets; justifiable, but his concern is headline figures, hopes that no-one will notice what kind of aff/h. Need for social housing (Southwark table, ward indices); Mayor's pre-election promises on social housing. Tradeable commodity. Mayor likes - institutional finance.
