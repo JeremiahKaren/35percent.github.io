@@ -1,11 +1,14 @@
 ---
 layout: post
 published: false
-title: Biscuit factory is back
+title: The Biscuit Factory is back
 ---
-We [blogged](http://35percent.org/2018-09-25-grosvenor-taking-the-biscuit-factory/) previously about Bermondsey's biscuit factory redevelopment.
 
-London's [largest landowner](https://whoownsengland.org/2017/10/28/who-owns-central-london/), the world's richest man (under 30 - worth over £10bn) Hugh Grosvenor the 7th Duke of Westminster, proposed 1,343 new homes none of which social rent. This proved too much for both local councillors and Southwark's planning committee, who rejected the scheme.
+## Sadiq gives Grosvenor a second chance
+
+We [blogged](http://35percent.org/2018-09-25-grosvenor-taking-the-biscuit-factory/) back n 2018 about Bermondsey's biscuit factory redevelopment.
+
+Grovesnor Estate, headed by Hugh Grosvenor the 7th Duke of Westminster, London's [largest landowner](https://whoownsengland.org/2017/10/28/who-owns-central-london/) and the world's richest man under 30 (worth over £10bn), proposed 1,343 new homes, none of which were social rent. The site is next door to two Bermondsey wards with some of the deprived neighourhoods in the country and the complete lack of any social housing was too much for both local councillors and Southwark's planning committee, who rejected the scheme.
 
 ![](http://35percent.org/img/biscuitfactory7.png)
 
@@ -49,4 +52,3 @@ Southwark's sustainability policies also require this minimum 20% on-site renewa
 
 
 Grosvenor's [Energy Assessment](http://35percent.org/img/EnergyAssessment.pdf) proposes just 0.7% renewable energy generation (see para 7.6) using a handful of solar panels and some air conditioning units in the commercial units that can also provide heat.
-
