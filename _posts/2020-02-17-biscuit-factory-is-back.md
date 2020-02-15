@@ -14,9 +14,16 @@ Grovesnor Estate, headed by Hugh Grosvenor the 7th Duke of Westminster, London's
 
 However, Mayor Sadiq Khan overrode Southwark's decision by 'calling it in', citing Southwark's [failure to meet its affordable housing targets](https://www.london.gov.uk/sites/default/files/public%3A//public%3A//PAWS/media_id_458537///biscuit_factory_final_decision.pdf), and is now [set to approve the scheme](https://www.london.gov.uk/sites/default/files/biscuit_factory_hearing_report.pdf), after a [public hearing](https://www.london.gov.uk/what-we-do/planning/planning-applications-and-decisions/public-hearings/former-biscuit-factory-public-hearing-0) at City Hall on the 21st February.
 
-## Scheme amendments
+## Pseudo social rent
 
-The scheme has now been amended with an overall increase in the number of homes by 206 units, to 1,548 with 160 of these to be affordable.  Of the affordable 140 pseudo rent. and and increase of affordable housing by 160 units the introduction of 140 . - social rent equivalent;3 year tenancy; rent? FOI, our estimate from viability assessment - GLA won't say, wait until s106 is approved (consultation conducted on this basis).  Covenant length?
+The scheme has been amended, with an overall increase in the number of homes, by 206 units, including 160 affordable, to 1,548 units in total.  But there will still be no proper social rented housing. Instead 140 of the 160 affordable units will be 'social rent equivalent'(SRE0.  The main difference between SRE and proper social rent is that SRE homes are let on assured short-hold tenancies, lasting only 3 years, not the assured or secure tenancies of social rented housing, which are generally lifetime.  There is only a 'presumption' that SRE tenancies will be renewed at the end of the 3 years. 
+
+
+we will be 140 will be pseudo rent. and and increase of affordable housing by 160 units the introduction of 140 . - social rent equivalent;3 year tenancy; rent? FOI, our estimate from viability assessment - GLA won't say, wait until s106 is approved (consultation conducted on this basis).  Covenant length?
+
+SRE rents at target level, but higher than those given for council rents in NSP, and no level of service charge only the assirance that they will be controlled.
+
+Specifically, in the case of the first letting of each unit, the units would be restricted to a maximum household income of £47,290 for one-bedroom units, £55,876 for two-bedroom units and £60,000 for three-bedroom units. Subsequent lettings would be subject to the maximum income upper limit specified in the London Plan Annual Monitoring Report
 
 Both the Gosvenor and the Mayor would have us believe that 'social rent equivalent' is the same as social rent - it isn't; it is a pseudo-social rent homes
 
