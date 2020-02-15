@@ -14,30 +14,30 @@ Grovesnor Estate, headed by Hugh Grosvenor the 7th Duke of Westminster, London's
 
 However, Mayor Sadiq Khan overrode Southwark's decision by 'calling it in', citing Southwark's [failure to meet its affordable housing targets](https://www.london.gov.uk/sites/default/files/public%3A//public%3A//PAWS/media_id_458537///biscuit_factory_final_decision.pdf), and is now [set to approve the scheme](https://www.london.gov.uk/sites/default/files/biscuit_factory_hearing_report.pdf), after a [public hearing](https://www.london.gov.uk/what-we-do/planning/planning-applications-and-decisions/public-hearings/former-biscuit-factory-public-hearing-0) at City Hall on the 21st February.
 
-## Pseudo social rent
+## Pseudo-social rent
 
-The scheme has been amended, with an overall increase in the number of homes, by 206 units, including 160 affordable, to 1,548 units in total.  But because it remains a Build to Rent (BtR) scheme there will still be no proper social rented housing. Instead 140 of the 160 affordable units will be 'social rent equivalent'(SRE).  The main difference between SRE and proper social rent is that SRE homes are let on assured short-hold tenancies, lasting only 3 years, not the assured or secure tenancies of social rented housing, which are generally lifetime.  There is only a 'presumption' that SRE tenancies will be renewed at the end of the 3 years.
+The scheme has been amended, with an overall increase in the number of homes, by 206 units, including 160 affordable, up to 1,548 units in total.  But because the scheme remains a Build to Rent (BtR), with none of the homes for sale, there will still be no proper social rented housing. Instead 140 of the 160 affordable units will be 'social rent equivalent'(SRE).  The main difference between SRE and proper social rent is that SRE homes are let on assured short-hold tenancies, lasting only 3 years, not the assured or secure tenancies of social rented housing, which are generally lifetime.  There is only a 'presumption' that SRE tenancies will be renewed at the end of the 3 years.
 
-The SRE rents will be Target Rents, the lowest level usually adopted for new build social rent, but still higher than Southwark council rents, according to an early draft of the New Southwark Plan.  One bed would be £134pw, compared to council rent of £107pw; two bed £160pw (council rent £126pw), three-bed £169pw (council rent £146pw), four-bed £178pw (£157pw).
+The SRE rents will be Target Rents, the lowest level usually adopted for new build social rent, but still higher than Southwark council rents, according to an early [draft of the New Southwark Plan](   https://www.southwark.gov.uk/assets/attach/5811/NSP-PSV-FINAL.pdf).  One bed would be £134pw, compared to council rent of £107pw; two bed £160pw (council rent £126pw), three-bed £169pw (council rent £146pw), four-bed £178pw (£157pw).
 
-The service charges, though are a unquantified mystery, with only the assurance that they will be _'controlled'_ (para 249)
+The SRE service charges, though are a unquantified mystery, with only the assurance that they will be _'controlled'_ (para 249).
 
-  Covenant length?
+## Discount Market Rent - 'genuinely affordable'?
 
-SRE rents at target level, but higher than those given for council rents in NSP, and no level of service charge only the assirance that they .
+Most of the affordable housing, though, is made up of Discounted Market Rent (DMR), 343 units to be let at much higher rents than SRE, £354pw (one bed), £301pw, (two bed) £323pw (three beds).  It is not clear if these rents include service charge, or why the one-bed is higher than the two and three-beds (para 250).  In any event, they are described as '_genuinely affordable_' (para 251).  There will be no units let at London Living Rent, despite being the Mayor's preferred rent level, which would have reduced the DMR rents to £242pw, £269pw, £296 respectively.
 
-Specifically, in the case of the first letting of each unit, the units would be restricted to a maximum household income of £47,290 for one-bedroom units, £55,876 for two-bedroom units and £60,000 for three-bedroom units. Subsequent lettings would be subject to the maximum income upper limit specified in the London Plan Annual Monitoring Report
+Many of the other provisions for familiar from the proposed development of the [Elephant and Castle Shopping Centre](http://35percent.org/shopping-centre/), also a BtR development.  Because there is a well-founded fear that such BtR developments will just be sold onto the free-market, for a fine profit, a covenant guarantees that the Biscuit Factory should remain for rent, not for sale, but this is only for 20 years (Southwark required thirty years for the shopping centre redevelopment) and in any event the covenant does not entirely stop a developer selling on, if they are prepared to pay a penalty, known as 'claw-back'.
 
-Both the Gosvenor and the Mayor would have us believe that 'social rent equivalent' is the same as social rent - it isn't; it is a pseudo-social rent homes
+## (Another) non-viable development. 
+
+At the bottom of the poor affordable housing offer is the developer's well-worn claim that this is a non-viable development.  A non-viable development is one where the developer's own profit target is not met, not one where it makes no money.  In this case Grosvenor own profit target is [12% IRR](https://docdro.id/SEWzVwi), and they say they can make barely half that, 6.3%, given the amount of affordable housing, so that is the best they can do. GLA and Southwark agrees, but confidence in this agree, as they di  and so classes the develoment as  non-viable.  Does it qualify for the fast track?
 
 
-This time there are 140 homes proposed at social rent equivalent.  Under Southwark's local plan we shold get c 380 proper s/rent, based on units.
-
-(Another) non-viable development. Whatever confidence there might be in viability undermined by hugh disparity in figures - in 2017 planning application £189m loss (Grosvnor); £101m profit (Southwark; now Grosvenor claim the profit will be £13m (not agreed by GLA?).  This falls below Grosvenor own profit target of xxx% IRR and so classes the develoment as  non-viable.  Does it qualify for the fast track? (H6) Review? Yes - Stage 2 report.  This is justification for an affordable housing offer that still does not meet Southwark's policy requirements (adopted or emerging).
+This in turn leads to the that the maximum reasonable amount of affordable housing, Whatever confidence there might be in viability undermined by hugh disparity in figures - in 2017 planning application £189m loss (Grosvnor); £101m profit (Southwark; now Grosvenor claim the profit will be £13m (not agreed by GLA?).   (H6) Review? Yes - Stage 2 report.  This is justification for an affordable housing offer that still does not meet Southwark's policy requirements (adopted or emerging).
 
 ![](http://35percent.org/img/biscuitoutputs.png)
 
-Officer's report 5 working days, hearing 21 Feb 
+Hearing 21 Feb 
 
 This still falls short of Southwark's policy requirement. Southwark Plan and London Plan both moving in same direction - support for BtR, fake social rent and less off it.
 
@@ -84,8 +84,15 @@ A Labour Mayor has called in a development that a fellow Labour council has righ
 ## Why we have a housing crisis
 
 The Biscuit Factory demonstrates why we do not have enough homes that people can actually afford to live in.
-Through the wileness of developers, aided by like-minded policy-makers, a site that could have delivered 50% affordable housing (750 units), of which 525 would be social rented, if the Mayor had abided by Southwarks adopted policy and he site had been treated as fomer industrial landhad been abidedis only delivering 140 pseudo-social rent, plus 20 Discounted Market Rent that even Southwark consider does not 'reflect...
+A site that could have delivered 50% affordable housing (750 units), of which 525 would be social rented, if the Mayor had abided by Southwark's adopted policy and the site had been treated as former industrial land, is only delivering 140 pseudo-social rent, plus 20 Discounted Market Rent. Even if the 50% were reduced to 35%, there would have provided around 380 social rented units.
+Through the wileness of developers, aided by like-minded policy-makers, 
 
 ## More Build to Rent, less Social Rent
 
 The Biscuit Factory also demonstrates the threat BtR developments hold for social rented housing.  Build to rent schemes do not provide social rented housing, only a pseudo-social housing and very little of it.The more Build to Rent schemes we have in London the less social rented houisng there will be.
+
+Both the Gosvenor and the Mayor would have us believe that 'social rent equivalent' is the same as social rent - it isn't; it is a pseudo-social rent homes
+
+
+This time there are 140 homes proposed at social rent equivalent.  Under Southwark's local plan we shold get c 380 proper s/rent, based on units.
+
