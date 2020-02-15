@@ -60,7 +60,7 @@ Grosvenor's [Energy Assessment](http://35percent.org/img/EnergyAssessment.pdf) p
 
 ## 50% affordable housing?
 
-The [GLA report](https://www.london.gov.uk/sites/default/files/biscuit_factory_hearing_report.pdf) recommending approval of the scheme lightly skips over the requirement that as a former industrial site it should deliver 50% affordable housing, in line with delivering the The Mayor's 'strategic' target, by saying 'the site currently comprises a privately-owned commercial complex, the previous industrial use having ceased over 30 years ago'(footnote; para 232)so is subject to a 35% requirement instead.
+The [GLA report](https://www.london.gov.uk/sites/default/files/biscuit_factory_hearing_report.pdf) recommending approval of the scheme lightly skips over the requirement that, as a former industrial site it should deliver 50% affordable housing, in line with the The Mayor's 'strategic' target, by saying _'the site currently comprises a privately-owned commercial complex, the previous industrial use having ceased over 30 years ago'_(footnote; para 232) and so is subject to a 35% requirement instead.
 
 ## Why we have a housing crisis
 
