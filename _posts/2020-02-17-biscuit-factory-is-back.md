@@ -16,7 +16,7 @@ However, Mayor Sadiq Khan overrode Southwark's decision by 'calling it in', citi
 
 ## Scheme amendments
 
-The scheme has now been amended with an overall increase in the number of homes to 1,548 and the introduction of 140 . - social rent equivalent;3 year tenancy; rent? FOI, our estimate from viability assessment - GLA won't say, wait until s106 is approved (consultation conducted on this basis).  Covenant length?
+The scheme has now been amended with an overall increase in the number of homes by 206 units, to 1,548 with 160 of these to be affordable.  Of the affordable 140 pseudo rent. and and increase of affordable housing by 160 units the introduction of 140 . - social rent equivalent;3 year tenancy; rent? FOI, our estimate from viability assessment - GLA won't say, wait until s106 is approved (consultation conducted on this basis).  Covenant length?
 
 Both the Gosvenor and the Mayor would have us believe that 'social rent equivalent' is the same as social rent - it isn't; it is a pseudo-social rent homes
 
