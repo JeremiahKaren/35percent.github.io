@@ -66,3 +66,7 @@ The [GLA report](https://www.london.gov.uk/sites/default/files/biscuit_factory_h
 
 The Biscuit Factory demonstrates why we do not have enough homes that people can actually afford to live in.
 Through the wileness of developers, aided by like-minded policy-makers a site that could have delivered 50% affordable housing (750 units), of which 525 would be social rented, is only delivering 140 pseudo-social rent, plus xxx Discounted Market Rent that even Southwark consider does not 'reflect...
+
+## More Build to Rent, less Social Rent
+
+The Biscuit Factory also demonstrates the threat BtR developments hold for social rented housing.  Build to rent schemes do not provide social rented housing, only a pseudo-social housing and very little of it.The more Build to Rent schemes we have in London the less social rented houisng there will be.
