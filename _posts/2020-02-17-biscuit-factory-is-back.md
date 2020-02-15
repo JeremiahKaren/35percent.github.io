@@ -6,13 +6,13 @@ title: The Biscuit Factory is back
 
 ## Sadiq gives Grosvenor a second chance
 
-We [blogged](http://35percent.org/2018-09-25-grosvenor-taking-the-biscuit-factory/) back n 2018 about Bermondsey's biscuit factory redevelopment.
+We [blogged](http://35percent.org/2018-09-25-grosvenor-taking-the-biscuit-factory/) back in 2018 about Bermondsey's biscuit factory redevelopment.
 
-Grovesnor Estate, headed by Hugh Grosvenor the 7th Duke of Westminster, London's [largest landowner](https://whoownsengland.org/2017/10/28/who-owns-central-london/) and the world's richest man under 30 (worth over £10bn), proposed 1,343 new homes, none of which were social rent. The site is next door to two Bermondsey wards with some of the deprived neighourhoods in the country and the complete lack of any social housing was too much for both local councillors and Southwark's planning committee, who rejected the scheme.
+Grovesnor Estate, headed by Hugh Grosvenor the 7th Duke of Westminster, London's [largest landowner](https://whoownsengland.org/2017/10/28/who-owns-central-london/) and the world's richest man under 30 (worth over £10bn), proposed 1,343 new homes, none of which were social rent. The site is next door to two Bermondsey wards with some of the deprived neighourhoods in the country and the complete lack of any social housing was too much for both local councillors and Southwark's planning committee, who rejected the scheme, early last year.
 
 ![](http://35percent.org/img/biscuitfactory7.png)
 
-Last year the Mayor overrode Southwark's decision by 'calling it in', and now he is set to approve the scheme on 21st February. 
+the Mayor overrode Southwark's decision by 'calling it in', and now he is set to approve the scheme on 21st February. 
 
 The scheme has been altered by the Mayor with an overall increase in the number of homes to 1,548 and the introduction of 140 pseudo social rented homes. - social rent equivalent;3 year tenancy; rent? FOI, our estimate from viability assessment - GLA won't say, wait until s106 is approved (consultation conducted on this basis).  Covenant length? 
 
