@@ -30,13 +30,14 @@ Many of the other provisions for familiar from the proposed development of the [
 
 ## (Another) non-viable development. 
 
-At the bottom of the poor affordable housing offer is the developer's well-worn claim that this is a non-viable development.  A non-viable development is one where the developer's own profit target is not met, not one where it makes no money.  In this case Grosvenor own profit target is [12% IRR](https://docdro.id/SEWzVwi), and they say they can make barely half that, 6.53%, and the affordable housing offer is the best they can do. GLA and Southwark agrees, but any confidence we can have in these judgements is undermined by hugh disparity in the estimates of figures - in 2017 planning application £189m loss (Grosvnor); £101m profit (Southwark; now Grosvenor claim the profit will be £13m (not agreed by GLA?).   (H6) Review? Yes - Stage 2 report.  This is justification for an affordable housing offer that still does not meet Southwark's policy requirements (adopted or emerging).
+At the bottom of the poor affordable housing offer is the developer's well-worn claim that this is a non-viable development.  A non-viable development is one where the developer's own profit target is not met, not one where it makes no money.  In this case Grosvenor own profit target is [12% IRR](https://docdro.id/SEWzVwi), and they say they can make barely half that, 6.53%, and the affordable housing offer is the best they can do. GLA and Southwark agrees, but any confidence we can have in these judgements is undermined by hugh disparity in the estimates of profits; Grovesnor estimated they would make a £10m loss on the original 2017 planning application £189m loss, while Southwark said they would make £101m profit.   Now Grosvenor claims a profit of £13m on the amended scheme.  We do not know the GLA profit estimate, because it has not published it's own appraisal, depite its commitment to tranparency (ref needed). 
 
 ![](http://35percent.org/img/biscuitoutputs.png)
 
-Hearing 21 Feb 
 
-This still falls short of Southwark's policy requirement. Southwark Plan and London Plan both moving in same direction - support for BtR, fake social rent and less off it.
+As a sop, early and late stage reviews of the scheme are offered and should there be any increase in profitability extra social rent equivalent or London Living Rent homes will be provided, but only by reducing the DMR rents, not by converting market-rent units, so there will be no increase in the number of affordable units.
+
+
 
 Cllr Johnson Situ, Southwark's regeneration boss had [said](https://www.theguardian.com/money/2018/oct/26/grosvenor-1bn-bermondsey-build-to-rent-project-in-jeopardy-duke-of-westminster-property-group) about the previous application:_"With over 10,000 people on our housing waiting list it is very disappointing to see such a little amount of social or genuinely affordable housing in this application. As it stands, we are still a long way from agreeing a scheme that meets the council’s policies."_
 
@@ -93,3 +94,6 @@ Both the Gosvenor and the Mayor would have us believe that 'social rent equivale
 
 This time there are 140 homes proposed at social rent equivalent.  Under Southwark's local plan we shold get c 380 proper s/rent, based on units.
 
+Hearing 21 Feb 
+
+This still falls short of Southwark's policy requirement. Southwark Plan and London Plan both moving in same direction - support for BtR, fake social rent and less off it.
