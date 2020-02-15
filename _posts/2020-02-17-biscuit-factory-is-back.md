@@ -62,6 +62,14 @@ Grosvenor's [Energy Assessment](http://35percent.org/img/EnergyAssessment.pdf) p
 
 The [GLA report](https://www.london.gov.uk/sites/default/files/biscuit_factory_hearing_report.pdf) recommending approval of the scheme lightly skips over the requirement that, as a former industrial site it should deliver 50% affordable housing, in line with the The Mayor's 'strategic' target, by saying _'the site currently comprises a privately-owned commercial complex, the previous industrial use having ceased over 30 years ago'_(footnote; para 232) and so is subject to a 35% requirement instead.
 
+## Policy pick n' mix
+
+GLA considers a [bewildering number of affordable housing policies] (https://www.london.gov.uk/sites/default/files/biscuit_factory_hearing_report.pdf)(Footnote; paras 220-236) when determing what kind of affordable housing should be built and how much there should be.  In the end it settles on that which provides pseudo-social rent (and not much of it), relying on the Mayor's so-called Intend To Publish London Plan.  This takes takes precedence over Southwark's long-standing and adopted Core Strategy, which would have given proper social rent, at higher proportions, and Southwark's emerging New Southwark Plan, also unpublished, which would have allowed pseudo- social rent, but would at least got more of it.
+
+## Bad day for Southwark
+
+Southwark has been reduced to bystanders.  Made reperesentations, acknowledging amendments, but reiterating its objections, that they are not enough.   acknowl
+
 ## Why we have a housing crisis
 
 The Biscuit Factory demonstrates why we do not have enough homes that people can actually afford to live in.
