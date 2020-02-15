@@ -16,7 +16,9 @@ However, Mayor Sadiq Khan overrode Southwark's decision by 'calling it in', citi
 
 ## Pseudo social rent
 
-The scheme has been amended, with an overall increase in the number of homes, by 206 units, including 160 affordable, to 1,548 units in total.  But there will still be no proper social rented housing. Instead 140 of the 160 affordable units will be 'social rent equivalent'(SRE0.  The main difference between SRE and proper social rent is that SRE homes are let on assured short-hold tenancies, lasting only 3 years, not the assured or secure tenancies of social rented housing, which are generally lifetime.  There is only a 'presumption' that SRE tenancies will be renewed at the end of the 3 years. 
+The scheme has been amended, with an overall increase in the number of homes, by 206 units, including 160 affordable, to 1,548 units in total.  But there will still be no proper social rented housing. Instead 140 of the 160 affordable units will be 'social rent equivalent'(SRE0.  The main difference between SRE and proper social rent is that SRE homes are let on assured short-hold tenancies, lasting only 3 years, not the assured or secure tenancies of social rented housing, which are generally lifetime.  There is only a 'presumption' that SRE tenancies will be renewed at the end of the 3 years.
+
+The SRE rents will be Target Rents, the level adopted for new build social rent, but still higher than Southwark council rents, according to an early draft of the New Southwark Plan.  One bed would be £134pw, compared to council rent of £107pw; two bed £160pw (council rent £126pw)
 
 
 we will be 140 will be pseudo rent. and and increase of affordable housing by 160 units the introduction of 140 . - social rent equivalent;3 year tenancy; rent? FOI, our estimate from viability assessment - GLA won't say, wait until s106 is approved (consultation conducted on this basis).  Covenant length?
@@ -73,9 +75,10 @@ The [GLA report](https://www.london.gov.uk/sites/default/files/biscuit_factory_h
 
 GLA considers a [bewildering number of affordable housing policies] (https://www.london.gov.uk/sites/default/files/biscuit_factory_hearing_report.pdf)(Footnote; paras 220-236) when determing what kind of affordable housing should be built and how much there should be.  In the end it settles on that which provides pseudo-social rent (and not much of it), relying on the Mayor's so-called Intend To Publish London Plan.  This takes takes precedence over Southwark's long-standing and adopted Core Strategy, which would have given proper social rent, at higher proportions, and Southwark's emerging New Southwark Plan, also unpublished, which would have allowed pseudo- social rent, but would at least got more of it.
 
-## Bad day for Southwark
+## Bad day for Southwark, worse day for the Mayor
 
 Southwark has been reduced to bystanders.  Made reperesentations, acknowledging amendments, but reiterating its objections, that they are not enough.   acknowl
+A Labour Mayor has called in a development that a fellow Labour council has rightly refused because it has no social rented housing, ignored that council's own affordable housing policies, and applied his own, weaker policies, all to help a developer build something without any proper social rented housing.
 
 ## Why we have a housing crisis
 
