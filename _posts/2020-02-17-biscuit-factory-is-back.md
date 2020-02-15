@@ -58,9 +58,9 @@ Southwark's sustainability policies also require this minimum 20% on-site renewa
 
 Grosvenor's [Energy Assessment](http://35percent.org/img/EnergyAssessment.pdf) proposes just 0.7% renewable energy generation (see para 7.6) using a handful of solar panels and some air conditioning units in the commercial units that can also provide heat.
 
-## 50% affordable housing?
+## Why not 50% affordable housing?
 
-The [GLA report](https://www.london.gov.uk/sites/default/files/biscuit_factory_hearing_report.pdf) recommending approval of the scheme lightly skips over the requirement that, as a former industrial site it should deliver 50% affordable housing, in line with the The Mayor's 'strategic' target, by saying _'the site currently comprises a privately-owned commercial complex, the previous industrial use having ceased over 30 years ago'_(footnote; para 232) and so is subject to a 35% requirement instead.
+The [GLA report](https://www.london.gov.uk/sites/default/files/biscuit_factory_hearing_report.pdf) recommending approval of the scheme lightly skips over the requirement that, as a former industrial site the Biscuit Factory should deliver 50% affordable housing, in line with the The Mayor's 'strategic' target, by saying _'the site currently comprises a privately-owned commercial complex, the previous industrial use having ceased over 30 years ago'_(footnote; para 232) and so is subject to a 35% requirement instead.
 
 ## Policy pick n' mix
 
