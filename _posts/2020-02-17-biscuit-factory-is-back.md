@@ -16,14 +16,15 @@ However, Mayor Sadiq Khan overrode Southwark's decision by 'calling it in', citi
 
 ## Pseudo social rent
 
-The scheme has been amended, with an overall increase in the number of homes, by 206 units, including 160 affordable, to 1,548 units in total.  But there will still be no proper social rented housing. Instead 140 of the 160 affordable units will be 'social rent equivalent'(SRE0.  The main difference between SRE and proper social rent is that SRE homes are let on assured short-hold tenancies, lasting only 3 years, not the assured or secure tenancies of social rented housing, which are generally lifetime.  There is only a 'presumption' that SRE tenancies will be renewed at the end of the 3 years.
+The scheme has been amended, with an overall increase in the number of homes, by 206 units, including 160 affordable, to 1,548 units in total.  But because it remains a Build to Rent (BtR) scheme there will still be no proper social rented housing. Instead 140 of the 160 affordable units will be 'social rent equivalent'(SRE).  The main difference between SRE and proper social rent is that SRE homes are let on assured short-hold tenancies, lasting only 3 years, not the assured or secure tenancies of social rented housing, which are generally lifetime.  There is only a 'presumption' that SRE tenancies will be renewed at the end of the 3 years.
 
-The SRE rents will be Target Rents, the level adopted for new build social rent, but still higher than Southwark council rents, according to an early draft of the New Southwark Plan.  One bed would be £134pw, compared to council rent of £107pw; two bed £160pw (council rent £126pw), three-bed £169pw (council rent £146pw), four-bed £178pw (£157pw)
+The SRE rents will be Target Rents, the lowest level usually adopted for new build social rent, but still higher than Southwark council rents, according to an early draft of the New Southwark Plan.  One bed would be £134pw, compared to council rent of £107pw; two bed £160pw (council rent £126pw), three-bed £169pw (council rent £146pw), four-bed £178pw (£157pw).
 
+The service charges, though are a unquantified mystery, with only the assurance that they will be _'controlled'_ (para 249)
 
-we will be 140 will be pseudo rent. and and increase of affordable housing by 160 units the introduction of 140 . - social rent equivalent;3 year tenancy; rent? FOI, our estimate from viability assessment - GLA won't say, wait until s106 is approved (consultation conducted on this basis).  Covenant length?
+  Covenant length?
 
-SRE rents at target level, but higher than those given for council rents in NSP, and no level of service charge only the assirance that they will be controlled.
+SRE rents at target level, but higher than those given for council rents in NSP, and no level of service charge only the assirance that they .
 
 Specifically, in the case of the first letting of each unit, the units would be restricted to a maximum household income of £47,290 for one-bedroom units, £55,876 for two-bedroom units and £60,000 for three-bedroom units. Subsequent lettings would be subject to the maximum income upper limit specified in the London Plan Annual Monitoring Report
 
