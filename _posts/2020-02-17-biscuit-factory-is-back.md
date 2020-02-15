@@ -18,7 +18,7 @@ However, Mayor Sadiq Khan overrode Southwark's decision by 'calling it in', citi
 
 The scheme has been amended, with an overall increase in the number of homes, by 206 units, including 160 affordable, to 1,548 units in total.  But there will still be no proper social rented housing. Instead 140 of the 160 affordable units will be 'social rent equivalent'(SRE0.  The main difference between SRE and proper social rent is that SRE homes are let on assured short-hold tenancies, lasting only 3 years, not the assured or secure tenancies of social rented housing, which are generally lifetime.  There is only a 'presumption' that SRE tenancies will be renewed at the end of the 3 years.
 
-The SRE rents will be Target Rents, the level adopted for new build social rent, but still higher than Southwark council rents, according to an early draft of the New Southwark Plan.  One bed would be £134pw, compared to council rent of £107pw; two bed £160pw (council rent £126pw)
+The SRE rents will be Target Rents, the level adopted for new build social rent, but still higher than Southwark council rents, according to an early draft of the New Southwark Plan.  One bed would be £134pw, compared to council rent of £107pw; two bed £160pw (council rent £126pw), three-bed £169pw (council rent £146pw), four-bed £178pw (£157pw)
 
 
 we will be 140 will be pseudo rent. and and increase of affordable housing by 160 units the introduction of 140 . - social rent equivalent;3 year tenancy; rent? FOI, our estimate from viability assessment - GLA won't say, wait until s106 is approved (consultation conducted on this basis).  Covenant length?
@@ -83,7 +83,7 @@ A Labour Mayor has called in a development that a fellow Labour council has righ
 ## Why we have a housing crisis
 
 The Biscuit Factory demonstrates why we do not have enough homes that people can actually afford to live in.
-Through the wileness of developers, aided by like-minded policy-makers a site that could have delivered 50% affordable housing (750 units), of which 525 would be social rented, is only delivering 140 pseudo-social rent, plus xxx Discounted Market Rent that even Southwark consider does not 'reflect...
+Through the wileness of developers, aided by like-minded policy-makers, a site that could have delivered 50% affordable housing (750 units), of which 525 would be social rented, if the Mayor had abided by Southwarks adopted policy and he site had been treated as fomer industrial landhad been abidedis only delivering 140 pseudo-social rent, plus 20 Discounted Market Rent that even Southwark consider does not 'reflect...
 
 ## More Build to Rent, less Social Rent
 
