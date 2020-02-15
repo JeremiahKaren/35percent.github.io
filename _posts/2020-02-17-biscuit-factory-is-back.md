@@ -14,7 +14,7 @@ Grovesnor Estate, headed by Hugh Grosvenor the 7th Duke of Westminster, London's
 
 However, Mayor Sadiq Khan overrode Southwark's decision by 'calling it in', citing Southwark's [failure to meet its affordable housing targets](https://www.london.gov.uk/sites/default/files/public%3A//public%3A//PAWS/media_id_458537///biscuit_factory_final_decision.pdf), and is now [set to approve the scheme](https://www.london.gov.uk/sites/default/files/biscuit_factory_hearing_report.pdf), after a [public hearing](https://www.london.gov.uk/what-we-do/planning/planning-applications-and-decisions/public-hearings/former-biscuit-factory-public-hearing-0) at City Hall on the 21st February.
 
-## Pseudo-social rent
+## Still no proper social rent
 
 The scheme has been amended, with an overall increase in the number of homes, by 206 units, including 160 affordable, up to 1,548 units in total.  But because the scheme remains a Build to Rent (BtR), with none of the homes for sale, there will still be no proper social rented housing. Instead 140 of the 160 affordable units will be 'social rent equivalent'(SRE) - a pseudo social rent on 3 year tenancies, not the assured or secure tenancies of social rented housing, which are generally lifetime.  There is only a 'presumption' that SRE tenancies will be renewed at the end of the 3 years.
 
