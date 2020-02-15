@@ -47,7 +47,7 @@ recommending approval of the scheme skips lightly over the requirement that, as 
 
 While Southwark has been reduced to a bystander in the decision making, GLA has indulged in a pick n mix of the [bewildering number of affordable housing policies](https://www.london.gov.uk/sites/default/files/biscuit_factory_hearing_report.pdf) (Footnote; see paras 220-236) available to determine that only 140 pseudo-social rent homes should be built, with 342 DMR at much higher rents - an exact reversal of the proportions of social to intermediate housing, given by Southwark's policy.
 
-So, in sum, a Labour Mayor has called in a development that a fellow Labour council has rightly refused because it has no social rented housing, ignored that council's own affordable housing policies, and applied his own, weaker policies, all to help a developer build something without any proper social rented housin
+So, in sum, a Labour Mayor has called in a development that a Labour council has rightly refused because it has no social rented housing, ignored that council's own affordable housing policies, and applied his own, weaker policies, all to help a developer build something without any proper social rented housing.
 
 ## Poor doors
 
@@ -74,14 +74,6 @@ Southwark's sustainability policies also require this minimum 20% on-site renewa
 
 Grosvenor's [Energy Assessment](http://35percent.org/img/EnergyAssessment.pdf) proposes just 0.7% renewable energy generation (see para 7.6) using a handful of solar panels and some air conditioning units in the commercial units that can also provide heat.
 
-## Why not 50% affordable housing?
-
-
-## Policy pick n' mix
-
-GLA considers a [bewildering number of affordable housing policies] (https://www.london.gov.uk/sites/default/files/biscuit_factory_hearing_report.pdf)(Footnote; paras 220-236) when determing what kind of affordable housing should be built and how much there should be.  In the end it settles on that which provides pseudo-social rent (and not much of it), relying on the Mayor's so-called Intend To Publish London Plan.  This takes takes precedence over Southwark's long-standing and adopted Core Strategy, which would have given proper social rent, at higher proportions, and Southwark's emerging New Southwark Plan, also unpublished, which would have allowed pseudo- social rent, but would at least got more of it.
-
-
 ## Why we have a housing crisis
 
 The Biscuit Factory demonstrates why we do not have enough homes that people can actually afford to live in.
@@ -105,7 +97,12 @@ Hearing 21 Feb
 
 ------------------------------------------------------------------------------------------------------------
 
-
 The scheme is still 240 social rented homes away from meeting the council's policies so why has Cllr Situ now dropped his opposition to the scheme and what the hell is the Mayor doing? 
 
 In the end it settles on that which provides pseudo-social rent (and not much of it), relying on the Mayor's so-called Intend To Publish London Plan.  This takes takes precedence over Southwark's long-standing and adopted Core Strategy, which would have given proper social rent, at higher proportions, and Southwark's emerging New Southwark Plan, also unpublished, which would have allowed pseudo- social rent, but would at least got more of it.
+
+## Policy pick n' mix
+
+GLA considers a [bewildering number of affordable housing policies] (https://www.london.gov.uk/sites/default/files/biscuit_factory_hearing_report.pdf)(Footnote; paras 220-236) when determing what kind of affordable housing should be built and how much there should be.  In the end it settles on that which provides pseudo-social rent (and not much of it), relying on the Mayor's so-called Intend To Publish London Plan.  This takes takes precedence over Southwark's long-standing and adopted Core Strategy, which would have given proper social rent, at higher proportions, and Southwark's emerging New Southwark Plan, also unpublished, which would have allowed pseudo- social rent, but would at least got more of it.
+
+
