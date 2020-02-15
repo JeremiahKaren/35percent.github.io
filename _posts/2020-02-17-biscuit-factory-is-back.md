@@ -26,7 +26,7 @@ The SRE service charges, though are a unquantified mystery, with only the assura
 
 Most of the affordable housing, though, is made up of Discounted Market Rent (DMR), 343 units to be let at much higher rents than SRE, £354pw (one bed), £301pw, (two bed) £323pw (three beds).  It is not clear if these rents include service charge, or why the one-bed is higher than the two and three-beds (para 250).  In any event, they are described as '_genuinely affordable_' (para 251).  There will be no units let at London Living Rent, despite being the Mayor's preferred rent level, which would have reduced the DMR rents to £242pw, £269pw, £296 respectively.
 
-Many of the other provisions for familiar from the proposed development of the [Elephant and Castle Shopping Centre](http://35percent.org/shopping-centre/), also a BtR development.  Because there is a well-founded fear that such BtR developments will just be sold onto the free-market, for a fine profit, a covenant guarantees that the Biscuit Factory should remain for rent, not for sale, but this is only for 20 years (Southwark required thirty years for the shopping centre redevelopment) and in any event the covenant does not entirely stop a developer selling on, if they are prepared to pay a penalty, known as 'claw-back'.
+Many of the other provisions are familiar from the proposed development of the [Elephant and Castle Shopping Centre](http://35percent.org/shopping-centre/), also a BtR development.  As at the Elephant, a well-founded fear that BtR developments will just be sold onto the free-market, means a legal covenant is needed to ensure BtR developments remain for rent, not for sale. The convenant for the Biscuit Factory is only for 20 years though, whereas Southwark required thirty years from developer Delancey for the shopping centre; in any event the covenant does not entirely stop a developer selling on, if they are prepared to pay a penalty, known as 'claw-back'.
 
 ## (Another) non-viable development. 
 
@@ -37,9 +37,12 @@ At the bottom of the poor affordable housing offer is the developer's well-worn 
 
 As a sop, early and late stage reviews of the scheme are offered and should there be any increase in profitability extra social rent equivalent or London Living Rent homes will be provided, but only by reducing the DMR rents, not by converting market-rent units, so there will be no increase in the number of affordable units.
 
-
+## Bad day for Southwark, worse day for the Mayor
 
 Cllr Johnson Situ, Southwark's regeneration boss had [said](https://www.theguardian.com/money/2018/oct/26/grosvenor-1bn-bermondsey-build-to-rent-project-in-jeopardy-duke-of-westminster-property-group) about the previous application:_"With over 10,000 people on our housing waiting list it is very disappointing to see such a little amount of social or genuinely affordable housing in this application. As it stands, we are still a long way from agreeing a scheme that meets the council’s policies."_
+
+Southwark has been reduced to bystanders. it has made representations, that acknowledging the amendments, but also reiterated the objections, that led they are not enough.
+A Labour Mayor has called in a development that a fellow Labour council has rightly refused because it has no social rented housing, ignored that council's own affordable housing policies, and applied his own, weaker policies, all to help a developer build something without any proper social rented housing.
 
 The scheme is still 240 social rented homes away from meeting the council's policies so why has Cllr Situ now dropped his opposition to the scheme and what the hell is the Mayor doing?  Mayor cited Southwark's failure to meet housing targets; justifiable, but his concern is headline figures, hopes that no-one will notice what kind of aff/h. Need for social housing (Southwark table, ward indices); Mayor's pre-election promises on social housing. Tradeable commodity. Mayor likes - institutional finance.
 
@@ -74,10 +77,6 @@ The [GLA report](https://www.london.gov.uk/sites/default/files/biscuit_factory_h
 
 GLA considers a [bewildering number of affordable housing policies] (https://www.london.gov.uk/sites/default/files/biscuit_factory_hearing_report.pdf)(Footnote; paras 220-236) when determing what kind of affordable housing should be built and how much there should be.  In the end it settles on that which provides pseudo-social rent (and not much of it), relying on the Mayor's so-called Intend To Publish London Plan.  This takes takes precedence over Southwark's long-standing and adopted Core Strategy, which would have given proper social rent, at higher proportions, and Southwark's emerging New Southwark Plan, also unpublished, which would have allowed pseudo- social rent, but would at least got more of it.
 
-## Bad day for Southwark, worse day for the Mayor
-
-Southwark has been reduced to bystanders.  Made reperesentations, acknowledging amendments, but reiterating its objections, that they are not enough.   acknowl
-A Labour Mayor has called in a development that a fellow Labour council has rightly refused because it has no social rented housing, ignored that council's own affordable housing policies, and applied his own, weaker policies, all to help a developer build something without any proper social rented housing.
 
 ## Why we have a housing crisis
 
