@@ -18,9 +18,7 @@ However, Mayor Sadiq Khan overrode Southwark's decision by 'calling it in', citi
 
 The scheme has been amended, with an overall increase in the number of homes, by 206 units, including 160 affordable, up to 1,548 units in total.  But because the scheme remains a Build to Rent (BtR), with none of the homes for sale, there will still be no proper social rented housing. Instead 140 of the 160 affordable units will be 'social rent equivalent'(SRE).  The main difference between SRE and proper social rent is that SRE homes are let on assured short-hold tenancies, lasting only 3 years, not the assured or secure tenancies of social rented housing, which are generally lifetime.  There is only a 'presumption' that SRE tenancies will be renewed at the end of the 3 years.
 
-The SRE rents will be Target Rents, the lowest level usually adopted for new build social rent, but still higher than Southwark council rents, according to an early [draft of the New Southwark Plan](   https://www.southwark.gov.uk/assets/attach/5811/NSP-PSV-FINAL.pdf).  One bed would be £134pw, compared to council rent of £107pw; two bed £160pw (council rent £126pw), three-bed £169pw (council rent £146pw), four-bed £178pw (£157pw).
-
-The SRE service charges, though are a unquantified mystery, with only the assurance that they will be _'controlled'_ (para 249).
+The SRE rents will be Target Rents, the lowest level usually adopted for new build social rent, but still higher than Southwark council rents, according to an early [draft of the New Southwark Plan](   https://www.southwark.gov.uk/assets/attach/5811/NSP-PSV-FINAL.pdf).  One bed would be £134pw, compared to council rent of £107pw; two bed £160pw (council rent £126pw), three-bed £169pw (council rent £146pw), four-bed £178pw (£157pw).  The SRE service charges, which could increase the disparity significantly, are a unquantified mystery, with only the assurance that they will be _'controlled'_ (para 249).
 
 ## Discount Market Rent - 'genuinely affordable'?
 
