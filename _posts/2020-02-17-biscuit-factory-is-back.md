@@ -30,10 +30,7 @@ Many of the other provisions for familiar from the proposed development of the [
 
 ## (Another) non-viable development. 
 
-At the bottom of the poor affordable housing offer is the developer's well-worn claim that this is a non-viable development.  A non-viable development is one where the developer's own profit target is not met, not one where it makes no money.  In this case Grosvenor own profit target is [12% IRR](https://docdro.id/SEWzVwi), and they say they can make barely half that, 6.3%, given the amount of affordable housing, so that is the best they can do. GLA and Southwark agrees, but confidence in this agree, as they di  and so classes the develoment as  non-viable.  Does it qualify for the fast track?
-
-
-This in turn leads to the that the maximum reasonable amount of affordable housing, Whatever confidence there might be in viability undermined by hugh disparity in figures - in 2017 planning application £189m loss (Grosvnor); £101m profit (Southwark; now Grosvenor claim the profit will be £13m (not agreed by GLA?).   (H6) Review? Yes - Stage 2 report.  This is justification for an affordable housing offer that still does not meet Southwark's policy requirements (adopted or emerging).
+At the bottom of the poor affordable housing offer is the developer's well-worn claim that this is a non-viable development.  A non-viable development is one where the developer's own profit target is not met, not one where it makes no money.  In this case Grosvenor own profit target is [12% IRR](https://docdro.id/SEWzVwi), and they say they can make barely half that, 6.53%, and the affordable housing offer is the best they can do. GLA and Southwark agrees, but any confidence we can have in these judgements is undermined by hugh disparity in the estimates of figures - in 2017 planning application £189m loss (Grosvnor); £101m profit (Southwark; now Grosvenor claim the profit will be £13m (not agreed by GLA?).   (H6) Review? Yes - Stage 2 report.  This is justification for an affordable housing offer that still does not meet Southwark's policy requirements (adopted or emerging).
 
 ![](http://35percent.org/img/biscuitoutputs.png)
 
