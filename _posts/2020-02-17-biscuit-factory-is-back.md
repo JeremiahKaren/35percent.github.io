@@ -82,7 +82,7 @@ Grosvenor also falls short of the [London Plan's zero-carbon requirement](https:
 ## Why we have a housing crisis
 
 The Biscuit Factory demonstrates why we do not have enough homes that people can actually afford to live in.
-The Biscuit Factory could have delivered 50% affordable housing, 750 units of which 525 would be social rented, if the Mayor had abided by Southwark's adopted policy and the site had been treated as former industrial land, is only delivering 140 pseudo-social rent, plus 20 Discounted Market Rent. Even if the 50% were reduced to 35%, there would have provided around 380 social rented units.
+The Biscuit Factory could have delivered nearly 50% affordable housing, around 700 units of which nearly 500 would be social rented, if the Mayor had abided by Southwark's adopted policy and the site had been treated as former industrial land, is only delivering 140 pseudo-social rent, plus 20 Discounted Market Rent. Even if the 50% were reduced to 35%, there would have provided around 380 social rented units.
 
 
 ## More Build to Rent, less Social Rent
