@@ -93,7 +93,8 @@ Both the Gosvenor and the Mayor would have us believe that 'social rent equivale
 
 ## Conclusion
 
- Mayor cited Southwark's failure to meet housing targets; justifiable, but his concern is headline figures, hopes that no-one will notice what kind of aff/h. Need for social housing (Southwark table, ward indices); Mayor's pre-election promises on social housing. Tradeable commodity. Mayor likes - institutional finance.
+ Mayor cited Southwark's failure to meet housing targets; justifiable, but his concern is headline figures, hopes that no-one will notice what kind of aff/h.Both the Gosvenor and the Mayor would have us believe that 'social rent equivalent' is the same as social rent - it isn't; it is a pseudo-social rent homes
+Need for social housing (Southwark table, ward indices); Mayor's pre-election promises on social housing. Tradeable commodity. Mayor likes - institutional finance.
 
 
 
