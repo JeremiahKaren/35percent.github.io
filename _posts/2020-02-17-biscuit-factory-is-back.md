@@ -16,7 +16,9 @@ However, Mayor Sadiq Khan overrode Southwark's decision by 'calling it in', citi
 
 ## Still no proper social rent
 
-The scheme has been amended, with an overall increase in the number of homes, by 206 units, including 160 affordable, up to 1,548 units in total.  But because the scheme remains a Build to Rent (BtR), with none of the homes for sale, there will still be no proper social rented housing. Instead 140 of the 160 affordable units will be 'social rent equivalent'(SRE) - a pseudo social rent on 3 year tenancies, not the assured or secure tenancies of social rented housing, which are generally lifetime.  There is only a 'presumption' that SRE tenancies will be renewed at the end of the 3 years.
+The scheme has been amended, with an overall increase in the number of homes, by 206 units, including 160 affordable, up to 1,548 units in total.  But because the scheme remains a Build to Rent (BtR), with none of the homes for sale, there will still be no proper social rented housing. Instead 140 of the 160 affordable units will be 'social rent equivalent'(SRE) - a pseudo social rent on 3 year tenancies, with a '_presumption_' of renewal, not the lifetime assured or secure tenancies of proper social rented housing. 
+
+Even were we to accept SRE as social rent, the 140 SRE units still amount to less than 10% of the 1,548 total number of homes.
 
 The SRE rents will be Target Rents, which are [higher than most Southwark council rents](https://docdro.id/lHMSPBe) eg one bed would be £134pw, compared to council rent of £107pw. The SRE service charges are a unquantified mystery, with only the assurance that they will be _'controlled'_ (para 249).
 
@@ -88,23 +90,12 @@ The Biscuit Factory could have delivered nearly 50% affordable housing, around 7
 
 The Biscuit Factory also demonstrates the threat BtR developments hold for social rented housing.  Build to rent schemes do not provide social rented housing, only a pseudo-social housing and very little of it.The more Build to Rent schemes we have in London the less social rented houisng there will be.
 
-The Mayor cited Southwark's failure to meet housing target as reason to call-in the application.  This was  justifiable, but his concern is [headline figures](https://www.ft.com/content/aa45341e-ef87-11e5-aff5-19b4e253664a), not meeting the priorites of local housing needs, which in Southwark is for [proper social rented housing](https://www.southwark.gov.uk/assets/attach/11656/NSP01-New-Southwark-Plan-Submission-Version-Proposed-Modifications-for-Examination.pdf)(Footnote New Southwark Plan Submission Version Jan 2020 pg 67). The Mayor's pre-election [manifesto promise](https://d3n8a8pro7vhmx.cloudfront.net/themes/569cb9526a21db3279000001/attachments/original/1457451016/x160668_Sadiq_Khan_Manifesto.pdf?1457451016) was to build 'genuine affordable housing', including social rented housing, and pledged to 'support councils to...maximise the affordable housing'. The Mayor has also made much of his [50% affordable housing target](https://www.insidehousing.co.uk/news/news/sadiq-khan-insists-on-50-affordable-for-public-land-51963). If Grosvenor's proposals for the Biscuit Factor gets the go-ahead he will have failed to live up to all these promises, and lost Southwark the opportunity of approved a scheme that has less than 10% 
- Can't take it seriously
+The Mayor cited Southwark's failure to meet housing target as reason to call-in the application.  This was  justifiable, but his concern is [headline figures](https://www.ft.com/content/aa45341e-ef87-11e5-aff5-19b4e253664a), not meeting the priorites of local housing needs, which in Southwark is for [proper social rented housing](https://www.southwark.gov.uk/assets/attach/11656/NSP01-New-Southwark-Plan-Submission-Version-Proposed-Modifications-for-Examination.pdf)(Footnote New Southwark Plan Submission Version Jan 2020 pg 67). The Mayor's pre-election [manifesto promise](https://d3n8a8pro7vhmx.cloudfront.net/themes/569cb9526a21db3279000001/attachments/original/1457451016/x160668_Sadiq_Khan_Manifesto.pdf?1457451016) was to build 'genuine affordable housing', including social rented housing, and pledged to 'support councils to...maximise the affordable housing'. The Mayor has also made much of his [50% affordable housing target](https://www.insidehousing.co.uk/news/news/sadiq-khan-insists-on-50-affordable-for-public-land-51963). If Grosvenor's proposals for the Biscuit Factor gets the go-ahead he will have failed to live up to all these promises, and lost Southwark the opportunity of approved a scheme that has less than 10% social rented housing
+ 
 
 
 
-Hearing 21 Feb 
+
 
 ------------------------------------------------------------------------------------------------------------
 
-The scheme is still 240 social rented homes away from meeting the council's policies so why has Cllr Situ now dropped his opposition to the scheme and what the hell is the Mayor doing? 
-
-In the end it settles on that which provides pseudo-social rent (and not much of it), relying on the Mayor's so-called Intend To Publish London Plan.  This takes takes precedence over Southwark's long-standing and adopted Core Strategy, which would have given proper social rent, at higher proportions, and Southwark's emerging New Southwark Plan, also unpublished, which would have allowed pseudo- social rent, but would at least got more of it.
-
-## Policy pick n' mix
-
-GLA considers a [bewildering number of affordable housing policies] (https://www.london.gov.uk/sites/default/files/biscuit_factory_hearing_report.pdf)(Footnote; paras 220-236) when determing what kind of affordable housing should be built and how much there should be.  In the end it settles on that which provides pseudo-social rent (and not much of it), relying on the Mayor's so-called Intend To Publish London Plan.  This takes takes precedence over Southwark's long-standing and adopted Core Strategy, which would have given proper social rent, at higher proportions, and Southwark's emerging New Southwark Plan, also unpublished, which would have allowed pseudo- social rent, but would at least got more of it.
-
-giving us up to 540 social rented homes. The [GLA report]
-
-Both the Gosvenor and the Mayor would have us believe that 'social rent equivalent' is the same as social rent - it isn't; it is a pseudo-social rent homes
