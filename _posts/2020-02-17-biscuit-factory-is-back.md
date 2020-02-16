@@ -41,7 +41,7 @@ In October 2018 Southwark's regeneration boss, Cllr Johnson Situ, [commented](ht
 
 Southwark has followed this up by making a representation on the amended scheme to GLA, reiterating some of the objections that led to the original scheme's rejection, but it has not argued for the amount of real social rented housing that its own policy requires - 35% of the total amount of housing, divided 70:30 between proper social rent and intermediate housing.  This would give us around 380 social rented homes and 162 DMR homes.
 
-Indeed, it is arguable that the affordable housing requirement should be nearer 50%, given that nearly three-quarters of the Biscuit Factory site is former industrial land. The GLA report (https://www.london.gov.uk/sites/default/files/biscuit_factory_hearing_report.pdf)
+Indeed, it is arguable that the affordable housing requirement should be nearer 50%, given that nearly three-quarters of the Biscuit Factory site is former industrial land. The [GLA report](https://www.london.gov.uk/sites/default/files/biscuit_factory_hearing_report.pdf)
 recommending approval of the scheme skips lightly over the fact that former industrial land should deliver 50% affordable housing, in line with the The Mayor's 'strategic' target, by saying _'the site currently comprises a privately-owned commercial complex, the previous industrial use having ceased over 30 years ago'_(footnote; para 232) and so is subject to a 35% requirement instead.
 
 
