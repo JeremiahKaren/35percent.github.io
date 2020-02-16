@@ -82,7 +82,7 @@ Grosvenor also falls short of the [London Plan's zero-carbon requirement](https:
 
 ## More Build to Rent, less Social Rent
 
-The proposed Biscuit Factory development demonstrates why we do not have enough homes that people can actually afford to live in. It could deliver nearly 50% affordable housing, around 700 units of which nearly 500 would be social rented, if the Mayor abides by Southwark's adopted policy and the site is treated as former industrial land.  Even reduced to 35% afforable housing, applying Southwark's policy would get around 380 social rented units.  Instead it is only delivering 140 pseudo-social rent, plus 20 Discounted Market Rent.
+The proposed Biscuit Factory development demonstrates why we do not have enough homes that people can actually afford to live in. It could deliver nearly 50% affordable housing, around 700 units of which nearly 500 would be social rented, if the Mayor abides by Southwark's adopted policy and the site is treated as former industrial land.  Even reduced to 35% affordable housing, applying Southwark's policy would get around 380 social rented units.  Instead it is only delivering 140 pseudo-social rent, plus 20 Discounted Market Rent.
 
 The Biscuit Factory also demonstrates the threat of BtR developments for social rented housing.  Build to rent schemes do not provide social rented housing, only a pseudo-social housing and very little of it.The more Build to Rent schemes we have in London the less social rented housing there will be.
 
