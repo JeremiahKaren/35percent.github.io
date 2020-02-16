@@ -2,17 +2,15 @@
 layout: post
 published: true 
 title: The Biscuit Factory is back
+subtitle: Sadiq gives the Duke of Westminster a second chance
 ---
-
-## Sadiq gives Grosvenor a second chance
-
 We [blogged](http://35percent.org/2018-09-25-grosvenor-taking-the-biscuit-factory/) back in 2018 about the redevelopment of the former Peek Freans biscuit factory and adjoining Bermondsey college campus site.
 
-Grosvenor Estate, headed by Hugh Grosvenor the 7th Duke of Westminster, London's [largest landowner](https://whoownsengland.org/2017/10/28/who-owns-central-london/) and the world's richest man under 30 (worth over £10bn), proposed 1,343 new homes, none of which were to be social rent. The site is next door to two Bermondsey wards with some of the deprived neighbourhoods in the country and the complete lack of any social housing was too much for both local councillors and Southwark's planning committee, who early last year rejected the scheme.
+Grosvenor Estate, headed by Hugh Grosvenor the 7th Duke of Westminster, London's [largest landowner](https://whoownsengland.org/2017/10/28/who-owns-central-london/) and the world's richest man under 30 (worth over £10bn), proposed 1,343 new homes, none of which were to be social rent. The site is next door to two Bermondsey wards with some of the most deprived neighbourhoods in the country and the complete lack of any social housing was too much for both local councillors and Southwark's planning committee, who early last year rejected the scheme.
 
 ![](http://35percent.org/img/biscuitfactory7.png)
 
-However, Mayor Sadiq Khan overrode Southwark's decision by 'calling it in', citing Southwark's [failure to meet its affordable housing targets](https://www.london.gov.uk/sites/default/files/public%3A//public%3A//PAWS/media_id_458537///biscuit_factory_final_decision.pdf), and is now [set to approve the scheme](https://www.london.gov.uk/sites/default/files/biscuit_factory_hearing_report.pdf), after a [public hearing](https://www.london.gov.uk/what-we-do/planning/planning-applications-and-decisions/public-hearings/former-biscuit-factory-public-hearing-0) at City Hall on the 21st February.
+However, Mayor Sadiq Khan overrode Southwark's decision by ['calling it in'](https://www.building.co.uk/news/khan-to-rule-on-500m-grosvenor-housing-scheme/5099459.article), citing Southwark's [failure to meet its affordable housing targets](https://www.london.gov.uk/sites/default/files/public%3A//public%3A//PAWS/media_id_458537///biscuit_factory_final_decision.pdf), and is now [set to approve the scheme](https://www.london.gov.uk/sites/default/files/biscuit_factory_hearing_report.pdf), after a [public hearing](https://www.london.gov.uk/what-we-do/planning/planning-applications-and-decisions/public-hearings/former-biscuit-factory-public-hearing-0) at City Hall on the 21st February.
 
 ## Still no proper social rent
 
@@ -22,9 +20,7 @@ Even were we to accept SRE as social rent, the 140 SRE units still amount to les
 
 The SRE rents will be Target Rents, which are [higher than most Southwark council rents](https://docdro.id/lHMSPBe) (eg one bed would be £134pw, compared to council rent of £107pw). The SRE service charges are unquantified, with only the assurance that they will [be 'controlled'](https://www.london.gov.uk/sites/default/files/biscuit_factory_hearing_report.pdf). (Footnote; GLA representation report para 249).
 
-Most of the affordable housing, though, is made up of Discounted Market Rent (DMR) - 343 units to be let at much higher rents than SRE, eg £354pw  for a one-bed.  It is not clear if these rents include service charge, There will be no units let at London Living Rent, the Mayor's preferred rent level, which would have much [reduced the DMR rents](https://docdro.id/lHMSPBe). (Footnote: para 250 GLA representation hearing report).
-
-
+Most of the affordable housing, though, is made up of Discounted Market Rent (DMR) - 343 units to be let at much higher rents than SRE, eg £354pw for a one-bed.  It is not clear if these rents include service charge, There will be no units let at London Living Rent, the Mayor's preferred rent level, which would have much [reduced the DMR rents](https://docdro.id/lHMSPBe). (Footnote: para 250 GLA representation hearing report).
 
 ## (Another) non-viable development. 
 
