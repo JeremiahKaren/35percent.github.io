@@ -42,7 +42,7 @@ In October 2018 Southwark's regeneration boss, Cllr Johnson Situ, [commented](ht
 Southwark has followed this up by making a representation on the amended scheme to GLA, reiterating some of the objections that led to the original scheme's rejection, but it has not argued for the amount of real social rented housing that its own policy requires - 35% of the total amount of housing, divided 70:30 between proper social rent and intermediate housing.  This would give us around 380 social rented homes and 162 DMR homes.
 
 Indeed, it is arguable that the affordable housing requirement should be nearer 50%, given that nearly three-quarters of the Biscuit Factory site is former industrial land. The [GLA report](https://www.london.gov.uk/sites/default/files/biscuit_factory_hearing_report.pdf)
-recommending approval of the scheme skips lightly over the fact that such land should deliver 50% affordable housing, in line with the The Mayor's 'strategic' target, by saying _'the site currently comprises a privately-owned commercial complex, the previous industrial use having ceased over 30 years ago'_(footnote; para 232) and so is subject to a 35% requirement instead.
+recommending approval of the scheme skips lightly over the fact that such land should deliver 50% affordable housing, in line with the [The Mayor's 'strategic' target](https://www.london.gov.uk/sites/default/files/intend_to_publish_-_clean.pdf)(Footnote Policy H4, pg 188), by saying _'the site currently comprises a privately-owned commercial complex, the previous industrial use having ceased over 30 years ago'_(footnote; para 232) and so is subject to a 35% requirement instead.
 
 
 While Southwark has been reduced to a bystander in the decision making, GLA has indulged in a pick n mix of the [bewildering number of affordable housing policies](https://www.london.gov.uk/sites/default/files/biscuit_factory_hearing_report.pdf) (Footnote; see paras 220-236) available to decide that only 140 pseudo-social rent homes need be built, with 342 DMR at much higher rents - an exact reversal of the proportions of social to intermediate housing, given by Southwark's policy.
@@ -89,12 +89,7 @@ The Biscuit Factory could have delivered nearly 50% affordable housing, around 7
 
 The Biscuit Factory also demonstrates the threat BtR developments hold for social rented housing.  Build to rent schemes do not provide social rented housing, only a pseudo-social housing and very little of it.The more Build to Rent schemes we have in London the less social rented houisng there will be.
 
-Both the Gosvenor and the Mayor would have us believe that 'social rent equivalent' is the same as social rent - it isn't; it is a pseudo-social rent homes
-
-## Conclusion
-
- Mayor cited Southwark's failure to meet housing targets; justifiable, but his concern is headline figures, hopes that no-one will notice what kind of aff/h.Both the Gosvenor and the Mayor would have us believe that 'social rent equivalent' is the same as social rent - it isn't; it is a pseudo-social rent homes
-Need for social housing (Southwark table, ward indices); Mayor's pre-election promises on social housing. Tradeable commodity. Mayor likes - institutional finance.
+The Mayor cited Southwark's failure to meet housing target as reason to call-in the application.  This was  justifiable, but his concern is [headline figures](https://www.ft.com/content/aa45341e-ef87-11e5-aff5-19b4e253664a), not meeting the priorites of local housing needs, which in Southwark is for [proper social rented housing](https://www.southwark.gov.uk/assets/attach/11656/NSP01-New-Southwark-Plan-Submission-Version-Proposed-Modifications-for-Examination.pdf)(Footnote New Southwark Plan Submission Version Jan 2020 pg 67). Mayor's pre-election manifesto promise was to build 'genuine affordable housing', including social rent housing. There is nothing about social rent equivalent.  The Mayor  or Build to RentTradeable commodity. Mayor likes - institutional finance.
 
 
 
@@ -112,3 +107,5 @@ In the end it settles on that which provides pseudo-social rent (and not much of
 GLA considers a [bewildering number of affordable housing policies] (https://www.london.gov.uk/sites/default/files/biscuit_factory_hearing_report.pdf)(Footnote; paras 220-236) when determing what kind of affordable housing should be built and how much there should be.  In the end it settles on that which provides pseudo-social rent (and not much of it), relying on the Mayor's so-called Intend To Publish London Plan.  This takes takes precedence over Southwark's long-standing and adopted Core Strategy, which would have given proper social rent, at higher proportions, and Southwark's emerging New Southwark Plan, also unpublished, which would have allowed pseudo- social rent, but would at least got more of it.
 
 giving us up to 540 social rented homes. The [GLA report]
+
+Both the Gosvenor and the Mayor would have us believe that 'social rent equivalent' is the same as social rent - it isn't; it is a pseudo-social rent homes
