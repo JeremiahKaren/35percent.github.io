@@ -16,11 +16,11 @@ However, Mayor Sadiq Khan overrode Southwark's decision by 'calling it in', citi
 
 ## Still no proper social rent
 
-The original scheme has been amended, with an overall increase in the number of homes, by 206 units, including 160 affordable, up to 1,548 units in total.  But because the scheme remains a Build to Rent (BtR), with none of the homes for sale, there will still be no proper social rented housing. Instead 140 of the 160 affordable units will be 'social rent equivalent' (SRE) - a pseudo-social rent on 3 year tenancies, with a 'presumption' of renewal, not the lifetime assured or secure tenancies of proper social rented housing. 
+The original scheme has been amended, with an overall increase in the number of homes, by 206 units, including 160 affordable, up to 1,548 units in total.  But because the scheme remains a Build to Rent (BtR), with none of the homes for sale, there will still be no proper social rented housing. Instead 140 of the 160 affordable units will be 'social rent equivalent' (SRE) - a pseudo-social rent on 3 year tenancies, with just a 'presumption' of renewal, not the lifetime assured or secure tenancies of proper social rented housing. 
 
 Even were we to accept SRE as social rent, the 140 SRE units still amount to less than 10% of the 1,548 total number of homes.
 
-The SRE rents will be Target Rents, which are [higher than most Southwark council rents](https://docdro.id/lHMSPBe) eg one bed would be £134pw, compared to council rent of £107pw. The SRE service charges are a unquantified mystery, with only the assurance that they will be _'controlled'_ (para 249).
+The SRE rents will be Target Rents, which are [higher than most Southwark council rents](https://docdro.id/lHMSPBe) (eg one bed would be £134pw, compared to council rent of £107pw). The SRE service charges are a unquantified, with only the assurance that they will be _'controlled'_ (para 249).
 
 Most of the affordable housing, though, is made up of Discounted Market Rent (DMR) - 343 units to be let at much higher rents than SRE, eg £354pw  for a one bed.  It is not clear if these rents include service charge, There will be no units let at London Living Rent, the Mayor's preferred rent level, which would have much [reduced the DMR rents](https://docdro.id/lHMSPBe)(Footnote: para 250 GLA representation report).
 
