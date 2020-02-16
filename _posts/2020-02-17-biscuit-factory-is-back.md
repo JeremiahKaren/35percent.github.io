@@ -96,8 +96,3 @@ The Mayor's pre-election [manifesto promise](https://d3n8a8pro7vhmx.cloudfront.n
  
 
 
-
-
-
-------------------------------------------------------------------------------------------------------------
-
