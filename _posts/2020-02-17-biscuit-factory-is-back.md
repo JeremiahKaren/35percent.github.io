@@ -16,7 +16,7 @@ However, Mayor Sadiq Khan overrode Southwark's decision by 'calling it in', citi
 
 ## Still no proper social rent
 
-The original scheme has been amended, with an overall increase in the number of homes, by 206 units, including 160 affordable, up to 1,548 units in total.  But because the scheme remains a Build to Rent (BtR), with none of the homes for sale, there will still be no proper social rented housing. Instead 140 of the 160 affordable units will be 'social rent equivalent'(SRE) - a pseudo social rent on 3 year tenancies, with a '_presumption_' of renewal, not the lifetime assured or secure tenancies of proper social rented housing. 
+The original scheme has been amended, with an overall increase in the number of homes, by 206 units, including 160 affordable, up to 1,548 units in total.  But because the scheme remains a Build to Rent (BtR), with none of the homes for sale, there will still be no proper social rented housing. Instead 140 of the 160 affordable units will be 'social rent equivalent'(SRE) - a pseudo social rent on 3 year tenancies, with a 'presumption' of renewal, not the lifetime assured or secure tenancies of proper social rented housing. 
 
 Even were we to accept SRE as social rent, the 140 SRE units still amount to less than 10% of the 1,548 total number of homes.
 
