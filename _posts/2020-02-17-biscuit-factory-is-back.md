@@ -22,7 +22,7 @@ Even were we to accept SRE as social rent, the 140 SRE units still amount to les
 
 The SRE rents will be Target Rents, which are [higher than most Southwark council rents](https://docdro.id/lHMSPBe) (eg one bed would be £134pw, compared to council rent of £107pw). The SRE service charges are unquantified, with only the assurance that they will [be 'controlled'](https://www.london.gov.uk/sites/default/files/biscuit_factory_hearing_report.pdf). (Footnote; GLA representation report para 249).
 
-Most of the affordable housing, though, is made up of Discounted Market Rent (DMR) - 343 units to be let at much higher rents than SRE, eg £354pw  for a one bed.  It is not clear if these rents include service charge, There will be no units let at London Living Rent, the Mayor's preferred rent level, which would have much [reduced the DMR rents](https://docdro.id/lHMSPBe)(Footnote: para 250 GLA representation hearing report).
+Most of the affordable housing, though, is made up of Discounted Market Rent (DMR) - 343 units to be let at much higher rents than SRE, eg £354pw  for a one-bed.  It is not clear if these rents include service charge, There will be no units let at London Living Rent, the Mayor's preferred rent level, which would have much [reduced the DMR rents](https://docdro.id/lHMSPBe). (Footnote: para 250 GLA representation hearing report).
 
 ## Keeping Build to Rent rented
 
