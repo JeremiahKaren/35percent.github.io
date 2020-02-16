@@ -18,9 +18,9 @@ However, Mayor Sadiq Khan overrode Southwark's decision by 'calling it in', citi
 
 The scheme has been amended, with an overall increase in the number of homes, by 206 units, including 160 affordable, up to 1,548 units in total.  But because the scheme remains a Build to Rent (BtR), with none of the homes for sale, there will still be no proper social rented housing. Instead 140 of the 160 affordable units will be 'social rent equivalent'(SRE) - a pseudo social rent on 3 year tenancies, not the assured or secure tenancies of social rented housing, which are generally lifetime.  There is only a 'presumption' that SRE tenancies will be renewed at the end of the 3 years.
 
-The SRE rents will be Target Rents, which are [higher than most Southwark council rents](https://docdro.id/lHMSPBe) eg one bed would be £134pw, compared to council rent of £107pw. The SRE service charges, which could increase the disparity significantly, are a unquantified mystery, with only the assurance that they will be _'controlled'_ (para 249).
+The SRE rents will be Target Rents, which are [higher than most Southwark council rents](https://docdro.id/lHMSPBe) eg one bed would be £134pw, compared to council rent of £107pw. The SRE service charges are a unquantified mystery, with only the assurance that they will be _'controlled'_ (para 249).
 
-Most of the affordable housing, though, is made up of Discounted Market Rent (DMR) - 343 units to be let at much higher rents than SRE, eg £354pw  for a one bed.  It is not clear if these rents include service charge, There will be no units let at London Living Rent, the Mayor's preferred rent level, which would have reduced the DMR rents (Footnote: para 250 GlA representation report).
+Most of the affordable housing, though, is made up of Discounted Market Rent (DMR) - 343 units to be let at much higher rents than SRE, eg £354pw  for a one bed.  It is not clear if these rents include service charge, There will be no units let at London Living Rent, the Mayor's preferred rent level, which would have much [reduced the DMR rents](https://docdro.id/lHMSPBe)(Footnote: para 250 GLA representation report).
 
 ## Keeping Build to Rent rented
 
