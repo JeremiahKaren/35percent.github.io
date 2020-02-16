@@ -68,7 +68,7 @@ https://www.theguardian.com/society/2018/nov/25/poor-doors-developers-segregate-
 ## Renewable energy
 Despite both the Mayor and Southwark Council having formally declared a 'climate emergency', Grosvenor's scheme fails to comply with the either the Mayor's or Southwark's minimum 20% requirement for on-site renewable energy supply.
 
-[Policy 5.7 (para 5.42) of the Mayor's new London Plan](https://www.london.gov.uk/what-we-do/planning/london-plan/current-london-plan/london-plan-chapter-five-londons-response/poli-6) requires that _" all major development proposals will seek to reduce carbon dioxide emissions by at least 20 per cent through the use of on-site renewable energy generation"_ .. via the use of _"renewable energy technologies such as: biomass heating; cooling and electricity; renewable energy from waste; photovoltaics; solar water heating; wind and heat pumps"_.  
+[Policy 5.7 (para 5.42) of the Mayor's new London Plan](https://www.london.gov.uk/what-we-do/planning/london-plan/current-london-plan/london-plan-chapter-five-londons-response/poli-6) requires that _" all major development proposals will seek to reduce carbon dioxide emissions by at least 20 per cent through the use of on-site renewable energy generation"_ via the use of _"renewable energy technologies such as: biomass heating; cooling and electricity; renewable energy from waste; photovoltaics; solar water heating; wind and heat pumps"_.  
 
 Southwark's sustainability policies also require this minimum 20% on-site renewable energy generation (see policy 13 of the Core Strategy) and Policy 3.5 of its [Sustainability SPD](https://www.southwark.gov.uk/assets/attach/1820/Sustainable_Design_and_Construction_SPD.pdf):
 
