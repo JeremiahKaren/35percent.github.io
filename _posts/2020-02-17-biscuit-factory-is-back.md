@@ -77,7 +77,7 @@ Southwark's sustainability policies also require this minimum 20% on-site renewa
 
 Grosvenor's [Energy Assessment](http://35percent.org/img/EnergyAssessment.pdf) proposes just 0.7% renewable energy generation (see para 7.6) using a handful of solar panels and some air conditioning units in the commercial units that can also provide heat.
 
-Grosvenor also falls short of the [London Plan's zero-carbon requirement](https://www.london.gov.uk/what-we-do/planning/london-plan/current-london-plan/london-plan-chapter-five-londons-response/policy), opting to make a [£1.137m offset payment](https://www.london.gov.uk/sites/default/files/biscuit_factory_hearing_report.pdf) instead.(Footnote:GLA representation hearing report, para 470)
+Grosvenor also falls short of the [London Plan's zero-carbon requirement](https://www.london.gov.uk/what-we-do/planning/london-plan/current-london-plan/london-plan-chapter-five-londons-response/policy), opting to make a [£1.137m offset payment](https://www.london.gov.uk/sites/default/files/biscuit_factory_hearing_report.pdf) instead. (Footnote:GLA representation hearing report, para 470)
 
 
 ## Why we have a housing crisis
