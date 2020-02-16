@@ -8,7 +8,7 @@ title: The Biscuit Factory is back
 
 We [blogged](http://35percent.org/2018-09-25-grosvenor-taking-the-biscuit-factory/) back in 2018 about the redevelopment of the former Peek Freans biscuit factory and adjoining Bermondsey college campus site.
 
-Grosvenor Estate, headed by Hugh Grosvenor the 7th Duke of Westminster, London's [largest landowner](https://whoownsengland.org/2017/10/28/who-owns-central-london/) and the world's richest man under 30 (worth over £10bn), proposed 1,343 new homes, none of which were to be social rent. The site is next door to two Bermondsey wards with some of the deprived neighourhoods in the country and the complete lack of any social housing was too much for both local councillors and Southwark's planning committee, who early last year rejected the scheme.
+Grosvenor Estate, headed by Hugh Grosvenor the 7th Duke of Westminster, London's [largest landowner](https://whoownsengland.org/2017/10/28/who-owns-central-london/) and the world's richest man under 30 (worth over £10bn), proposed 1,343 new homes, none of which were to be social rent. The site is next door to two Bermondsey wards with some of the deprived neighbourhoods in the country and the complete lack of any social housing was too much for both local councillors and Southwark's planning committee, who early last year rejected the scheme.
 
 ![](http://35percent.org/img/biscuitfactory7.png)
 
