@@ -24,9 +24,7 @@ The SRE rents will be Target Rents, which are [higher than most Southwark counci
 
 Most of the affordable housing, though, is made up of Discounted Market Rent (DMR) - 343 units to be let at much higher rents than SRE, eg £354pw  for a one-bed.  It is not clear if these rents include service charge, There will be no units let at London Living Rent, the Mayor's preferred rent level, which would have much [reduced the DMR rents](https://docdro.id/lHMSPBe). (Footnote: para 250 GLA representation hearing report).
 
-## Keeping Build to Rent rented
 
-Many of the other provisions are familiar from the proposed development of the [Elephant and Castle Shopping Centre](http://35percent.org/shopping-centre/), also a BtR development.  As at the Elephant a legal covenant is needed to ensure that the BtR development remains for rent, not for sale. The covenant for the Biscuit Factory is only for 20 years though, whereas Southwark required thirty years from developer Delancey for the shopping centre; in any event the covenant does not entirely stop a developer selling on, if they are prepared to pay a penalty, known as 'claw-back'.
 
 ## (Another) non-viable development. 
 
@@ -49,6 +47,10 @@ recommending approval of the scheme skips lightly over the fact that such land s
 While Southwark has been reduced to a bystander in the decision making, GLA has indulged in a pick n mix of the [bewildering number of affordable housing policies](https://www.london.gov.uk/sites/default/files/biscuit_factory_hearing_report.pdf) (Footnote; GLA representation hearing report paras 220-236) and decided that only 140 pseudo-social rent homes need be built, with 342 DMR at much higher rents - an exact reversal of the proportions of social to intermediate housing, given by Southwark's policy.
 
 So, in sum, a Labour Mayor has called in a development that a Labour council has rightly refused because it has no social rented housing, ignored that council's own affordable housing policies, and applied his own, weaker policies, all to help a developer build something without any proper social rented housing.
+
+## Keeping Build to Rent rented
+
+Many of the other provisions are familiar from the proposed development of the [Elephant and Castle Shopping Centre](http://35percent.org/shopping-centre/), also a BtR development.  As at the Elephant a legal covenant is needed to ensure that the BtR development remains for rent, not for sale. The covenant for the Biscuit Factory is only for 20 years though, whereas Southwark required thirty years from developer Delancey for the shopping centre; in any event the covenant does not entirely stop a developer selling on, if they are prepared to pay a penalty, known as 'claw-back'.
 
 ## Poor doors
 
