@@ -55,15 +55,10 @@ So, in sum, a Labour Mayor has called in a development that a Labour council has
 There is much else not to like about the development.
 One of Sadiq Khan's manifesto pledges was that he would [ban poor door's in London's housing developments](https://www.theguardian.com/uk-news/2015/jul/23/sadiq-khan-pledges-ban-poor-doors-london-housing-developments-mayor). He has held true on this pledge to the extent that separate entrances for private and affordable tenants are indeed a thing of the past and instead we now see entirely separate buildings (see Heygate, Aylesbury and most major schemes approved in last 5 years.)
 
-Grosvenor are following this trend, _'consolidating'_ most of the Biscuit Factory's affordable housing into separate blocks.
+Grosvenor are following [this trend](https://www.theguardian.com/society/2018/nov/25/poor-doors-developers-segregate-rich-from-poor-london-housing-blocks), _'consolidating'_ most of the Biscuit Factory's affordable housing into separate blocks.
 
 ![](http://35percent.org/img/grosvenorahextract.png)
 *Extract from Grosvenor's [Affordable Housing Statement](http://35percent.org/img/grosvenorahstatement.pdf)*
-
-
-https://www.theguardian.com/society/2018/nov/25/poor-doors-developers-segregate-rich-from-poor-london-housing-blocks
-
-
 
 ## Renewable energy
 Despite both the Mayor and Southwark Council having formally declared a 'climate emergency', Grosvenor's scheme fails to comply with the either the Mayor's or Southwark's minimum 20% requirement for on-site renewable energy supply.
