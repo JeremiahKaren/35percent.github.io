@@ -26,7 +26,7 @@ Most of the affordable housing, though, is made up of Discounted Market Rent (DM
 
 ## Keeping Build to Rent rented
 
-Many of the other provisions are familiar from the proposed development of the [Elephant and Castle Shopping Centre](http://35percent.org/shopping-centre/), also a BtR development.  As at the Elephant a legal covenant is needed to ensure that the BtR development remains for rent, not for sale. The convenant for the Biscuit Factory is only for 20 years though, whereas Southwark required thirty years from developer Delancey for the shopping centre; in any event the covenant does not entirely stop a developer selling on, if they are prepared to pay a penalty, known as 'claw-back'.
+Many of the other provisions are familiar from the proposed development of the [Elephant and Castle Shopping Centre](http://35percent.org/shopping-centre/), also a BtR development.  As at the Elephant a legal covenant is needed to ensure that the BtR development remains for rent, not for sale. The covenant for the Biscuit Factory is only for 20 years though, whereas Southwark required thirty years from developer Delancey for the shopping centre; in any event the covenant does not entirely stop a developer selling on, if they are prepared to pay a penalty, known as 'claw-back'.
 
 ## (Another) non-viable development. 
 
