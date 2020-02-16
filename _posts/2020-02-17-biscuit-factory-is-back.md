@@ -39,7 +39,7 @@ As a sop, early and late stage reviews of the scheme are offered and should ther
 
 ## Mayor misses 50% affordable housing opportunity
 
-In October 2018 Southwark's regeneration boss, Cllr Johnson Situ, [commented](https://www.theguardian.com/money/2018/oct/26/grosvenor-1bn-bermondsey-build-to-rent-project-in-jeopardy-duke-of-westminster-property-group) on the original application:_"With over 10,000 people on our housing waiting list it is very disappointing to see such a little amount of social or genuinely affordable housing in this application. As it stands, we are still a long way from agreeing a scheme that meets the council’s policies."_
+In October 2018 Southwark's regeneration boss, Cllr Johnson Situ, [commented](https://www.theguardian.com/money/2018/oct/26/grosvenor-1bn-bermondsey-build-to-rent-project-in-jeopardy-duke-of-westminster-property-group) on the original application: _"With over 10,000 people on our housing waiting list it is very disappointing to see such a little amount of social or genuinely affordable housing in this application. As it stands, we are still a long way from agreeing a scheme that meets the council’s policies."_
 
 Southwark has followed this up by making a representation on the amended scheme to GLA, reiterating some of the objections that led to the original scheme's rejection, but it has not argued for the amount of real social rented housing that its own policy requires - 35% of the total amount of housing, divided 70:30 between proper social rent and intermediate housing.  This would give us around 380 social rented homes and 162 DMR homes.
 
