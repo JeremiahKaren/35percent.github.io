@@ -25,4 +25,8 @@ This is contradicted by para xx of the [Regeneration Agreement](https://files.wh
 
 ![](http://35percent.org/img/vreviewra.png)
 
+Only 20% in this final phase and only 15 of the 424 homes will be social rented in this phase.
+
+If there were any rumours about Southwark Council's administration having shifted to the left, this is evidence that nothing has changed. 
+
 
