@@ -1,6 +1,6 @@
 ---
 layout: post
-published: true 
+published: true
 title: The Biscuit Factory is back
 subtitle: Sadiq gives the Duke of Westminster a second chance
 ---
@@ -94,5 +94,3 @@ The Mayor's pre-election [manifesto promise](https://d3n8a8pro7vhmx.cloudfront.n
 <meta name="twitter:description" content="1,548 new homes but only 140 (pseudo) social rent - Mayor overrides Southwark to accept lower affordable housing offer from London's wealthiest landowner." />
 
 <meta name="twitter:image" content="http://35percent.org/img/biscuitfactory7.png" />
-
-
