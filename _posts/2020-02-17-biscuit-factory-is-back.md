@@ -79,7 +79,7 @@ The proposed Biscuit Factory development demonstrates why we do not have enough 
 
 The Biscuit Factory also demonstrates the threat of BtR developments for social rented housing.  Build to rent schemes do not provide social rented housing, only a pseudo-social housing and very little of it.  The more Build to Rent schemes we have in London the less social rented housing there will be.
 
-The Mayor cited Southwark's [failure to meet housing targets](https://docdro.id/qjen6U3) as reason to call-in the application.  This is justifiable, but his concern is [headline figures](https://www.ft.com/content/aa45341e-ef87-11e5-aff5-19b4e253664a), not meeting the priorities of local housing need, which in Southwark is for [proper social rented housing](https://www.southwark.gov.uk/assets/attach/11656/NSP01-New-Southwark-Plan-Submission-Version-Proposed-Modifications-for-Examination.pdf)(pg 67). 
+The Mayor cited Southwark's [failure to meet housing targets](https://docdro.id/qjen6U3) as reason to call-in the application.  This is justifiable, but his concern is [headline figures](https://www.ft.com/content/aa45341e-ef87-11e5-aff5-19b4e253664a), not meeting the priorities of local housing need, which in Southwark is for [proper social rented housing](https://www.southwark.gov.uk/assets/attach/11656/NSP01-New-Southwark-Plan-Submission-Version-Proposed-Modifications-for-Examination.pdf) (pg 67). 
 
 ![](http://35percent.org/img/sadiqft.png)
 
