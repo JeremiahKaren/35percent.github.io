@@ -9,7 +9,7 @@ The application is now set to be approved by the Council's planning committee on
 
 We [argued](http://35percent.org/2019-08-05-elephant-park-final-phase-affordable-housing/) that the original outline consent had envisaged both a viability review and the seeking of grant funding.
 
-The [Planning committee report for this final phase](https://planning.southwark.gov.uk/online-applications/files/2B05D1FEBF0308C39F18968F194D473F/pdf/19_AP_1166--843567.pdf) said that despite being confirmed in the [outline consent's planning committee report]() neither obligation had been written any contractual obligation. 
+Monday's [planning committee report](https://planning.southwark.gov.uk/online-applications/files/2B05D1FEBF0308C39F18968F194D473F/pdf/19_AP_1166--843567.pdf) said that despite being envisaged by the [outline consent's planning committee report](http://moderngov.southwark.gov.uk/documents/s34476/Report.pdf) neither had been included as an obligation in the section 106 agreement. 
 
 > There is no obligation on Lendlease to seek public funds (para 283).
 
