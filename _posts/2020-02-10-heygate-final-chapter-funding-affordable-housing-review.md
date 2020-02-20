@@ -25,10 +25,10 @@ This is contradicted by para xx of the [Regeneration Agreement](https://files.wh
 
 ![](http://35percent.org/img/vreviewra.png)
 
-There are a number of reasons why a viability review is necessary, it's not just that the original viability assessment on which the affordable housing offer is based was [proven to be dodgy](https://www.theguardian.com/cities/2015/jun/25/london-developers-viability-planning-affordable-social-housing-regeneration-oliver-wainwright) or that the increase in the number of homes proposed by the last phase will improve the viability; it's also that there has been another significant change to the viability of the scheme brought about by Lendlease's recent decision to let rather than sell the homes in the later phases of the scheme.
+There are a number of reasons why a viability review is necessary, it's not just that the original viability assessment on which the affordable housing offer is based was [proven to be dodgy](https://www.theguardian.com/cities/2015/jun/25/london-developers-viability-planning-affordable-social-housing-regeneration-oliver-wainwright) or that the increase in the number of homes proposed by the last phase will improve the viability; it's also that there has been another significant change to the viability of the scheme brought about by Lendlease's recent decision to let rather than sell the homes in the later phases of the scheme in a [partnership with a Canadian Pension Fund](https://www.constructionenquirer.com/2018/01/17/lendlease-launches-1-5bn-build-to-rent-partnership/).
 
-Lendlease build-to-rent announcement.
+![](http://35percent.org/img/lendleasebtr.png)
 
-Conclusion - this will also affect Southwark's profit share deal, which it claimed would [bring in 100's of millions]() to offset the [losses]. Obviously by not selling half of the new homes there will be less profit available and there have been [no variations] to the DPA taking this major change into account.
+Conclusion - this will also affect Southwark's profit share deal, which it claimed would [bring the Council "hundreds of millions"]https://web.archive.org/web/20160915094513/https://www.southwark.gov.uk/news/article/1785/setting_the_record_straight_the_true_value_of_the_elephant_and_castle_regeneration() to help offset its [losses](http://35percent.org/2016-05-11-no-profit-share-the-true-value-of-the-heygate-regeneration/). Obviously by not selling half of the new homes there will be less profit available and there have been [no variations] to the DPA taking this major change into account.
 
 
