@@ -87,3 +87,5 @@ Penthouses at __One Blackfriars__ are [currently on sale](http://www.telegraph.c
 
 Berkeley's brochures for __One Blackfriars__ can be downloaded in [Russian](/img/obrussian.pdf), [Chinese](/img/obchinese.pdf) and [Arabic](/img/obarabic.pdf).
 
+__Footnote:__
+The New Statesman [wrote](https://www.newstatesman.com/politics/uk/2020/02/myth-public-viewing-gallery-how-londons-skyscrapers-bargain-our-space) about the disappearing public viewing lounge in February 2020.
