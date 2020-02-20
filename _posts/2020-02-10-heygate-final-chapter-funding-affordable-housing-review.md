@@ -5,9 +5,9 @@ published: false
 ---
 We [blogged last year](http://35percent.org/2019-08-05-elephant-park-final-phase-affordable-housing/) about the final phase of the Heygate regeneration, which is set to see an increase in the overall number of homes and a decrease in the number of affordable. 
 
-The application is now set to be approved by the Council's planning committee on [Monday 24th February](http://moderngov.southwark.gov.uk/ieListDocuments.aspx?CId=119&MId=6403&Ver=4).
+Lendlease's application for 424 new homes of which just 15 social rent is now set to be approved by the Council's planning committee on [Monday 24th February](http://moderngov.southwark.gov.uk/ieListDocuments.aspx?CId=119&MId=6403&Ver=4).
 
-We [argued](http://35percent.org/2019-08-05-elephant-park-final-phase-affordable-housing/) that the original outline consent had envisaged both a viability review and the seeking of grant funding.
+We [argued](http://35percent.org/2019-08-05-elephant-park-final-phase-affordable-housing/) that the original outline consent had envisaged both a viability review and the seeking of grant funding throughout the phased regeneration.
 
 Monday's [planning committee report](https://planning.southwark.gov.uk/online-applications/files/2B05D1FEBF0308C39F18968F194D473F/pdf/19_AP_1166--843567.pdf) said that despite being envisaged by the [outline consent's planning committee report](http://moderngov.southwark.gov.uk/documents/s34476/Report.pdf) neither had been included as an obligation in the section 106 agreement. 
 
@@ -25,8 +25,10 @@ This is contradicted by para xx of the [Regeneration Agreement](https://files.wh
 
 ![](http://35percent.org/img/vreviewra.png)
 
-Only 20% in this final phase and only 15 of the 424 homes will be social rented in this phase.
+There are a number of reasons why a viability review is necessary, it's not just that the original viability assessment on which the affordable housing offer is based was [proven to be dodgy](https://www.theguardian.com/cities/2015/jun/25/london-developers-viability-planning-affordable-social-housing-regeneration-oliver-wainwright) or that the increase in the number of homes proposed by the last phase will improve the viability; it's also that there has been another significant change to the viability of the scheme brought about by Lendlease's recent decision to let rather than sell the homes in the later phases of the scheme.
 
-If there were any rumours about Southwark Council's administration having shifted to the left, this is evidence that nothing has changed. 
+Lendlease build-to-rent announcement.
+
+Conclusion - this will also affect Southwark's profit share deal, which it claimed would [bring in 100's of millions]() to offset the [losses]. Obviously by not selling half of the new homes there will be less profit available and there have been [no variations] to the DPA taking this major change into account.
 
 
