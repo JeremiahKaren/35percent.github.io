@@ -50,7 +50,7 @@ Another significant change to viability since the original assessment has been L
 
 In terms of policy, Monday's planning committee should take account of Policy 3.12 of the Mayor's [London Plan](https://www.london.gov.uk/sites/default/files/the_london_plan_malp_final_for_web_0606_0.pdf), which says that _"The maximum reasonable amount of affordable housing should be sought .. having regard to .. individual circumstances including development viability, {and} the availability of public subsidy._"
 
-The Elephant Park development lost Southwark 1,200 council homes. This final phase is Southwark Council's last chance to redeem itself by insisting Lendlease abides by its obligations, reviews the viability of the scheme and applies for grant funding.
+The Elephant Park development lost Southwark 1,200 council homes. This final phase is Southwark Council's last chance to (partially) redeem itself by insisting Lendlease abides by its obligations, reviews the viability of the scheme and applies for grant funding.
 
  
 
