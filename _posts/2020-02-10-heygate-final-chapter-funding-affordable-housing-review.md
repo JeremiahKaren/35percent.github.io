@@ -1,10 +1,11 @@
 ---
 layout: post
 title: Elephant Park - windfall for Lendlease
-published: false
+published: true
 subtitle: >-
   Final phase of Heygate regeneration set for approval with increase in number
   of homes but no increase in affordable.
+date: '2020-02-21'
 ---
 We [blogged last year](http://35percent.org/2019-08-05-elephant-park-final-phase-affordable-housing/) about the final phase (MP5 H7) of the Heygate regeneration. 
 
@@ -51,7 +52,7 @@ There are a number of reasons why a viability review is necessary. Not only was 
 
 Another significant change to viability since the original assessment has been Lendlease's recent [decision](https://www.constructionenquirer.com/2018/01/17/lendlease-launches-1-5bn-build-to-rent-partnership/) to let rather than sell homes in the later phases of the scheme.
 
-In terms of policy, Monday's planning committee should take account of Policy 3.12 of the Mayor's [London Plan](https://www.london.gov.uk/sites/default/files/the_london_plan_2016_jan_2017_fix.pdf), which says that _"The maximum reasonable amount of affordable housing should be sought .. having regard to .. individual circumstances including development viability, {and} the availability of public subsidy._"
+In terms of policy, Monday's planning committee should take account of Policy 3.12 of the Mayor's [London Plan](https://www.london.gov.uk/sites/default/files/the_london_plan_malp_final_for_web_0606_0.pdf), which says that _"The maximum reasonable amount of affordable housing should be sought .. having regard to .. individual circumstances including development viability, {and} the availability of public subsidy._"
 
-requirement that  requires both that affordable housing is maximised and there is no net loss of affordable housing on estate regenerations. 
+ 
 
