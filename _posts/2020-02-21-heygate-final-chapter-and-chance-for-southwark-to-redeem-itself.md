@@ -19,14 +19,14 @@ We [noted](http://35percent.org/2019-08-05-elephant-park-final-phase-affordable-
 
 Monday's [planning committee report](https://planning.southwark.gov.uk/online-applications/files/2B05D1FEBF0308C39F18968F194D473F/pdf/19_AP_1166--843567.pdf) reiterates that: _"The council has no mechanism to insist on a viability review"_ (para 129)
 
-This looks to be contradicted by the terms of the [Regeneration Agreement](https://files.whatdotheyknow.com/request/heygate_estate_development_partn/191203%2020141201_Lend%20Lease_2014%20Deed%20of%20Variation_COMPLETE.pdf%20EIR%201351433_Redacted.pdf) between Southwark and Lendlease, which provides a mechanism for the affordable housing mix to be reviewed on an annual basis. 
+However, this looks to be contradicted by the terms of the [Regeneration Agreement](https://files.whatdotheyknow.com/request/heygate_estate_development_partn/191203%2020141201_Lend%20Lease_2014%20Deed%20of%20Variation_COMPLETE.pdf%20EIR%201351433_Redacted.pdf) between Southwark and Lendlease, which provides a mechanism for the affordable housing mix to be reviewed on an annual basis. 
 
 ![](http://35percent.org/img/vreviewra.png)
 
 If these annual reviews had been taking place it should have been reflected in higher levels of social rented housing. The fact that the tenure mix hasn't changed suggests that they haven't.
 
 ## Grant Funding
-We also noted in our [previous blogpost] that the 2013 planning committee anticipated that Elephant Park could benefit from public funding if it became available. 
+We also noted in our [previous blogpost](http://35percent.org/2019-08-05-elephant-park-final-phase-affordable-housing/) that the 2013 planning committee anticipated that the regeneration could benefit from public funding if it became available. 
 
 ![](http://35percent.org/img/gfunding2.png)
 *Extract from the [2013 Outline application Committee report](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!Q7K%2bVQ5GwV3kVWHHRXBCqg%3d%3d!%7d%7d%7d)*
@@ -37,9 +37,9 @@ This was in line with the [Regeneration Agreement](https://files.whatdotheyknow.
 
 Such funding has been available since 2016 when Sadiq Khan [announced](https://www.london.gov.uk/what-we-do/housing-and-land/homes-londoners-affordable-homes-programme-2016-21) a £4.6bn funding programme, but despite the 2013 planning committee's intention and the Regeneration Agreement's obligation, Lendlease hasn't applied for it.
 
-Now Southwark states in Monday's [committee report for the final phase](https://planning.southwark.gov.uk/online-applications/files/2B05D1FEBF0308C39F18968F194D473F/pdf/19_AP_1166--843567.pdf): _"There is no obligation on Lendlease to seek public funds."_ (para 283) 
+Despite this clear contractual obligation, Southwark states in Monday's [committee report for the final phase](https://planning.southwark.gov.uk/online-applications/files/2B05D1FEBF0308C39F18968F194D473F/pdf/19_AP_1166--843567.pdf): _"There is no obligation on Lendlease to seek public funds."_ (para 283) 
 
-But, we say that unless Lendlease applies for grant funding then Southwark should reject this final phase application.
+Given the obligation on Lendlease to seek grant funding, we say that until Lendlease does so Southwark should reject this final phase application.
 
 Southwark should also reject the application unless Lendlease commits to a viability review.
 
