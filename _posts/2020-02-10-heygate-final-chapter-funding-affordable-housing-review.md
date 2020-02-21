@@ -20,7 +20,7 @@ We [noted](http://35percent.org/2019-08-05-elephant-park-final-phase-affordable-
 
 Monday's [planning committee report](https://planning.southwark.gov.uk/online-applications/files/2B05D1FEBF0308C39F18968F194D473F/pdf/19_AP_1166--843567.pdf) reiterates that: _"The council has no mechanism to insist on a viability review"_ (para 129)
 
-This looks to be contrdicted by the terms of the [Regeneration Agreement](https://files.whatdotheyknow.com/request/heygate_estate_development_partn/191203%2020141201_Lend%20Lease_2014%20Deed%20of%20Variation_COMPLETE.pdf%20EIR%201351433_Redacted.pdf) between Southwark and Lendlease provides a mechanism for the affordable housing mix to be reviewed on an annual basis. 
+This looks to be contradicted by the terms of the [Regeneration Agreement](https://files.whatdotheyknow.com/request/heygate_estate_development_partn/191203%2020141201_Lend%20Lease_2014%20Deed%20of%20Variation_COMPLETE.pdf%20EIR%201351433_Redacted.pdf) between Southwark and Lendlease, which provides a mechanism for the affordable housing mix to be reviewed on an annual basis. 
 
 ![](http://35percent.org/img/vreviewra.png)
 
@@ -36,9 +36,9 @@ This was in line with the [Regeneration Agreement](https://files.whatdotheyknow.
 
 ![](http://35percent.org/img/fundingra.png)
 
-Such funding has been available since 2016 when Sadiq Khan [announced](https://www.london.gov.uk/what-we-do/housing-and-land/homes-londoners-affordable-homes-programme-2016-21) a £4.6bn funding programme, but Lendlease hasn't applied for it.
+Such funding has been available since 2016 when Sadiq Khan [announced](https://www.london.gov.uk/what-we-do/housing-and-land/homes-londoners-affordable-homes-programme-2016-21) a £4.6bn funding programme, but despite the 2013 planning committee's intention and the Regeneration Agreement's obligation, Lendlease hasn't applied for it.
 
-Despite the 2013 planning committee's intention and the Regeneration Agreement's obligation, in Monday's [committee report for the final phase]() Southwark now states: _"There is no obligation on Lendlease to seek public funds."_ (para 283)
+Now Southwark states in Monday's [committee report for the final phase](): _"There is no obligation on Lendlease to seek public funds."_ (para 283) and
 
 But, we say that unless Lendlease applies for grant funding then Southwark should reject this final phase application.
 
@@ -49,6 +49,8 @@ There are a number of reasons why a viability review is necessary. Not only was 
 Another significant change to viability since the original assessment has been Lendlease's recent [decision](https://www.constructionenquirer.com/2018/01/17/lendlease-launches-1-5bn-build-to-rent-partnership/) to let rather than sell homes in the later phases of the scheme.
 
 In terms of policy, Monday's planning committee should take account of Policy 3.12 of the Mayor's [London Plan](https://www.london.gov.uk/sites/default/files/the_london_plan_malp_final_for_web_0606_0.pdf), which says that _"The maximum reasonable amount of affordable housing should be sought .. having regard to .. individual circumstances including development viability, {and} the availability of public subsidy._"
+
+The Elephant Park development lost Southwark 1,200 council homes. This final phase is Southwark Council's last chance to redeem itself by insisting Lendlease abides by its obligations, reviews the viability of the scheme and applies for grant funding.
 
  
 
