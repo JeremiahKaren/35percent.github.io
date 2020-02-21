@@ -10,7 +10,9 @@ We [blogged last year](http://35percent.org/2019-08-05-elephant-park-final-phase
 
 Lendlease's application for 424 new homes (15 social rent) in this final phase is now set to be approved by the Council's planning committee on [Monday](http://moderngov.southwark.gov.uk/ieListDocuments.aspx?CId=119&MId=6403&Ver=4).
 
-If approved without a review of the viability of the scheme it will seal an increase in the number of new homes beyond that approved by Southwark's planning committee back in 2013, without any increase in the number of affordable homes. This will result in 2,689 homes (220 more than approved in 2013) of which 92 will be social rent. 
+If approved without a review of the viability of the scheme it will seal an increase in the number of new homes beyond that [approved by Southwark's planning committee back in 2013](http://moderngov.southwark.gov.uk/documents/s34476/Report.pdf), without any increase in the number of affordable homes. This will result in 2,689 homes (220 more than approved in 2013) of which 92 will be social rent. 
+
+![](http://35percent.org/img/12AP1092extract.png)
 
 This windfall gives Lendlease the revenue of 220 extra homes that were not included in the original viability assessment of the scheme, which was based on 2,469 units. This [allowed](https://www.theguardian.com/cities/2015/jun/25/london-developers-viability-planning-affordable-social-housing-regeneration-oliver-wainwright) Lendlease to build 25% instead of 35% affordable housing and reduce the required amount of social rented homes to next to nothing. Taking account of the 220 extra homes could have improved the viability of the whole scheme and the affordable housing offer.
 
