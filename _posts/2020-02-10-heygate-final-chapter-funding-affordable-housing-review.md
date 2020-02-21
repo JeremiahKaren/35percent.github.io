@@ -18,9 +18,7 @@ This windfall gives Lendlease the revenue of 220 extra homes, that was not inclu
 ## Reviewing viability
 We [noted](http://35percent.org/2019-08-05-elephant-park-final-phase-affordable-housing/#viability-questions) in our previous blog that Southwark neglected to carry out any viability review.
 
-Monday's [planning committee report](https://planning.southwark.gov.uk/online-applications/files/2B05D1FEBF0308C39F18968F194D473F/pdf/19_AP_1166--843567.pdf) reiterates that:
-
-> "The council has no mechanism to insist on a viability review" (para 129)
+Monday's [planning committee report](https://planning.southwark.gov.uk/online-applications/files/2B05D1FEBF0308C39F18968F194D473F/pdf/19_AP_1166--843567.pdf) reiterates that: _"The council has no mechanism to insist on a viability review"_ (para 129)
 
 This looks to be contrdicted by the terms of the [Regeneration Agreement](https://files.whatdotheyknow.com/request/heygate_estate_development_partn/191203%2020141201_Lend%20Lease_2014%20Deed%20of%20Variation_COMPLETE.pdf%20EIR%201351433_Redacted.pdf) between Southwark and Lendlease provides a mechanism for the affordable housing mix to be reviewed on an annual basis. 
 
@@ -40,9 +38,7 @@ This was in line with the [Regeneration Agreement](https://files.whatdotheyknow.
 
 Such funding has been available since 2016 when Sadiq Khan [announced](https://www.london.gov.uk/what-we-do/housing-and-land/homes-londoners-affordable-homes-programme-2016-21) a £4.6bn funding programme, but Lendlease hasn't applied for it.
 
-Despite the 2013 planning committee's intention and the Regeneration Agreement's obligation, in Monday's [committee report for the final phase]() Southwark now states:
-
-> "There is no obligation on Lendlease to seek public funds." (para 283)
+Despite the 2013 planning committee's intention and the Regeneration Agreement's obligation, in Monday's [committee report for the final phase]() Southwark now states: _"There is no obligation on Lendlease to seek public funds."_ (para 283)
 
 But, we say that unless Lendlease applies for grant funding then Southwark should reject this final phase application.
 
