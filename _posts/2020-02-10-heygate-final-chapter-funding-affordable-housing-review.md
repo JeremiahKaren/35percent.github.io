@@ -1,7 +1,10 @@
 ---
 layout: post
-title: no funding and no affordable housing review
+title: Elephant Park - windfall for Lendlease
 published: false
+subtitle: >-
+  Final phase of Heygate regeneration set for approval with increase in number
+  of homes but no increase in affordable.
 ---
 We [blogged last year](http://35percent.org/2019-08-05-elephant-park-final-phase-affordable-housing/) about the final phase of the Heygate regeneration, which is set to see an increase in the overall number of homes and a decrease in the number of affordable. 
 
@@ -29,6 +32,4 @@ There are a number of reasons why a viability review is necessary, it's not just
 
 ![](http://35percent.org/img/lendleasebtr.png)
 
-Conclusion - this will also affect Southwark's profit share deal, which it claimed would [bring the Council "hundreds of millions"]https://web.archive.org/web/20160915094513/https://www.southwark.gov.uk/news/article/1785/setting_the_record_straight_the_true_value_of_the_elephant_and_castle_regeneration() to help offset its [losses](http://35percent.org/2016-05-11-no-profit-share-the-true-value-of-the-heygate-regeneration/). Obviously by not selling half of the new homes there will be less profit available and there have been [no variations] to the DPA taking this major change into account.
-
-
+Conclusion - this will also affect Southwark's profit share deal, which it claimed would [bring the Council "hundreds of millions"](https://web.archive.org/web/20160915094513/https://www.southwark.gov.uk/news/article/1785/setting_the_record_straight_the_true_value_of_the_elephant_and_castle_regeneration()) to help offset its [losses](http://35percent.org/2016-05-11-no-profit-share-the-true-value-of-the-heygate-regeneration/). Obviously by not selling half of the new homes there will be less profit available and there have been [no variations] to the DPA taking this major change into account.
