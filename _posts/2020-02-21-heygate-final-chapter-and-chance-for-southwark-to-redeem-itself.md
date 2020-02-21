@@ -31,7 +31,7 @@ If these annual reviews had been taking place it should have been reflected in h
 We also noted in our [previous blogpost](http://35percent.org/2019-08-05-elephant-park-final-phase-affordable-housing/) that the 2013 planning committee anticipated that the regeneration could benefit from public funding if it became available. 
 
 ![](http://35percent.org/img/gfunding2.png)
-*Extract from the [2013 Outline application Committee report](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!Q7K%2bVQ5GwV3kVWHHRXBCqg%3d%3d!%7d%7d%7d)*
+*Extract from the [2013 Outline application Committee report](http://moderngov.southwark.gov.uk/documents/s34476/Report.pdf)*
 
 This was in line with the [Regeneration Agreement](https://files.whatdotheyknow.com/request/heygate_estate_development_partn/191203%2020141201_Lend%20Lease_2014%20Deed%20of%20Variation_COMPLETE.pdf%20EIR%201351433_Redacted.pdf) which also obliged the parties to seek grant funding:
 
