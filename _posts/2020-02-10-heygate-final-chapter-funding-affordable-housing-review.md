@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Elephant Park - windfall for Lendlease
-published: true
+published: false
 subtitle: >-
   Final phase of Heygate regeneration set for approval with increase in number
   of homes but no increase in affordable.
@@ -44,7 +44,7 @@ Despite the 2013 planning committee's intention and the Regeneration Agreement's
 
 > "There is no obligation on Lendlease to seek public funds." (para 283)
 
-We say that unless Lendlease applies for grant funding then Southwark should reject this final phase application.
+But, we say that unless Lendlease applies for grant funding then Southwark should reject this final phase application.
 
 Southwark should also reject the application unless Lendlease commits to a viability review.
 
