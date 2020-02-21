@@ -12,11 +12,7 @@ Lendlease's application for 424 new homes is now set to be approved by the Counc
 
 If approved it will set the seal on an increase in the number of new homes beyond that approved by Southwark's planning committee back in 2013, without any increase in the number of affordable homes. This will result in 2,689 homes (220 more than approved in 2013) of which 92 will be social rent. 
 
-This windfall gives Lendlease the revenue of 220 extra homes, that was not included in the original (2013) viability assessment for the scheme - which was based on 2,469 units.
-
-The same viability assessment allowed Lendlease to build 25% instead of 35% affordable housing and reduce the required amount of social rented homes to next to nothing.
-
-Any extra housing could improve the viability of the whole scheme and improve the affordable housing offer.
+This windfall gives Lendlease the revenue of 220 extra homes, that was not included in the original viability assessment for the scheme - which was based on 2,469 units. This allowed Lendlease to build 25% instead of 35% affordable housing and reduce the required amount of social rented homes to next to nothing. Taking account of the 220 extra homes could have improved the viability of the whole scheme and the affordable housing offer.
 
 ## Reviewing viability
 We [noted](http://35percent.org/2019-08-05-elephant-park-final-phase-affordable-housing/#viability-questions) in our previous blog that Southwark neglected to carry out any viability review.
@@ -25,37 +21,37 @@ Monday's [planning committee report](https://planning.southwark.gov.uk/online-ap
 
 > "The council has no mechanism to insist on a viability review" (para 129)
 
-However, the terms of the [Regeneration Agreement](https://files.whatdotheyknow.com/request/heygate_estate_development_partn/191203%2020141201_Lend%20Lease_2014%20Deed%20of%20Variation_COMPLETE.pdf%20EIR%201351433_Redacted.pdf) between Southwark and Lendlease provides a mechanism for the affordable housing mix to be reviewed on an annual basis. 
+This looks to be contrdicted by the terms of the [Regeneration Agreement](https://files.whatdotheyknow.com/request/heygate_estate_development_partn/191203%2020141201_Lend%20Lease_2014%20Deed%20of%20Variation_COMPLETE.pdf%20EIR%201351433_Redacted.pdf) between Southwark and Lendlease provides a mechanism for the affordable housing mix to be reviewed on an annual basis. 
 
 ![](http://35percent.org/img/vreviewra.png)
 
-If these annual reviews have been taking place it should be reflected in higher levels of social rented housing. The fact that the tenure mix hasn't changed suggests that they haven't.
+If these annual reviews had been taking place it should have been reflected in higher levels of social rented housing. The fact that the tenure mix hasn't changed suggests that they haven't.
 
 ## Grant Funding
-We also noted in our [previous blogpost] that the 2013 planning committee envisaged that Elephant Park could benefit from public funding if it became available. 
+We also noted in our [previous blogpost] that the 2013 planning committee anticipated that Elephant Park could benefit from public funding if it became available. 
 
 ![](http://35percent.org/img/gfunding2.png)
 *Extract from the [2013 Outline application Committee report](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!Q7K%2bVQ5GwV3kVWHHRXBCqg%3d%3d!%7d%7d%7d)*
 
-This was in line with the [Regeneration Agreement](https://files.whatdotheyknow.com/request/heygate_estate_development_partn/191203%2020141201_Lend%20Lease_2014%20Deed%20of%20Variation_COMPLETE.pdf%20EIR%201351433_Redacted.pdf) which obliged the parties to seek grant funding should it become available:
+This was in line with the [Regeneration Agreement](https://files.whatdotheyknow.com/request/heygate_estate_development_partn/191203%2020141201_Lend%20Lease_2014%20Deed%20of%20Variation_COMPLETE.pdf%20EIR%201351433_Redacted.pdf) which obliged the parties to seek grant funding:
 
 ![](http://35percent.org/img/fundingra.png)
 
-In 2016, Mayor Sadiq Khan [announced](https://www.london.gov.uk/what-we-do/housing-and-land/homes-londoners-affordable-homes-programme-2016-21) £4.6bn affordable housing grant funding programme.
+Such funding has been available since 2016 when Sadiq Khan [announced](https://www.london.gov.uk/what-we-do/housing-and-land/homes-londoners-affordable-homes-programme-2016-21) a £4.6bn funding programme, but Lendlease hasn't applied for it.
 
-So funding has been available but Lendlease hasn't applied for it. 
-
-But now in Monday's [committee report]() Southwark says:
+Despite the Regeneration Agreement's contractual obligation and the 2013 planning committee's intention, Monday's [committee report for the final phase]() Southwark states:
 
 > "There is no obligation on Lendlease to seek public funds." (para 283)
 
-We say Lendlease should commit to a viability review and apply for grant funding and if they refuse, Southwark should reject this application.
+We say that unless Lendlease applies for grant funding then Southwark should reject this final phase application.
 
+Southwark should also reject the application unless Lendlease commits to a viability review.
 
+There are a number of reasons why a viability review is necessary. Not only was the original viability assessment based on fewer homes than the number actually being built, but also those homes are being [sold for twice Lendlease's viability assessment estimate](https://www.theguardian.com/cities/2015/jun/25/london-developers-viability-planning-affordable-social-housing-regeneration-oliver-wainwright).
 
+Another significant change to viability since the original assessment has been Lendlease's recent [decision](https://www.constructionenquirer.com/2018/01/17/lendlease-launches-1-5bn-build-to-rent-partnership/) to let rather than sell homes in the later phases of the scheme.
 
-There are a number of reasons why a viability review is necessary, it's not just that the original viability assessment on which the affordable housing offer is based was [proven to be dodgy](https://www.theguardian.com/cities/2015/jun/25/london-developers-viability-planning-affordable-social-housing-regeneration-oliver-wainwright) or that the increase in the number of homes proposed by the last phase will improve the viability; it's also that there has been another significant change to the viability of the scheme brought about by Lendlease's recent decision to let rather than sell the homes in the later phases of the scheme in a [partnership with a Canadian Pension Fund](https://www.constructionenquirer.com/2018/01/17/lendlease-launches-1-5bn-build-to-rent-partnership/).
+In terms of policy, Monday's planning committee should take account of Policy 3.12 of the Mayor's [London Plan](https://www.london.gov.uk/sites/default/files/the_london_plan_2016_jan_2017_fix.pdf), which says that _"The maximum reasonable amount of affordable housing should be sought .. having regard to .. individual circumstances including development viability, {and} the availability of public subsidy._"
 
-![](http://35percent.org/img/lendleasebtr.png)
+requirement that  requires both that affordable housing is maximised and there is no net loss of affordable housing on estate regenerations. 
 
-Conclusion - this will also affect Southwark's profit share deal, which it claimed would [bring the Council "hundreds of millions"](https://web.archive.org/web/20160915094513/https://www.southwark.gov.uk/news/article/1785/setting_the_record_straight_the_true_value_of_the_elephant_and_castle_regeneration()) to help offset its [losses](http://35percent.org/2016-05-11-no-profit-share-the-true-value-of-the-heygate-regeneration/). Obviously by not selling half of the new homes there will be less profit available and there have been [no variations] to the DPA taking this major change into account.
