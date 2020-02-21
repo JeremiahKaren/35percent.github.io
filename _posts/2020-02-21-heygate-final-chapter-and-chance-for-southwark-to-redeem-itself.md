@@ -6,6 +6,8 @@ subtitle: "Final phase of Heygate regeneration set for approval with increase in
 ---
 We [blogged last year](http://35percent.org/2019-08-05-elephant-park-final-phase-affordable-housing/) about the final phase (MP5 H7) of the Heygate regeneration. 
 
+![](http://35percent.org/img/eparkaerial.jpg)
+
 Lendlease's application for 424 new homes is now set to be approved by the Council's planning committee on [Monday](http://moderngov.southwark.gov.uk/ieListDocuments.aspx?CId=119&MId=6403&Ver=4).
 
 If approved it will set the seal on an increase in the number of new homes beyond that approved by Southwark's planning committee back in 2013, without any increase in the number of affordable homes. This will result in 2,689 homes (220 more than approved in 2013) of which 92 will be social rent. 
@@ -49,5 +51,13 @@ In terms of policy, Monday's planning committee should take account of Policy 3.
 
 The Elephant Park development lost Southwark 1,200 council homes. This final phase is Southwark Council's last chance to (partially) redeem itself by insisting Lendlease abides by its obligations, reviews the viability of the scheme and applies for grant funding.
 
- 
+<meta name="twitter:card" content="summary_large_image" />
+
+<meta name="twitter:site" content="@35percent_EAN" />
+
+<meta name="twitter:title" content="Elephant Park - final phase, final windfall for Lendlease" />
+
+<meta name="twitter:description" content="Southwark set to approve more homes than anticipated with no increase in affordable housing." />
+
+<meta name="twitter:image" content="http://35percent.org/img/eparkaerial.jpg" />
 
