@@ -8,11 +8,11 @@ We [blogged last year](http://35percent.org/2019-08-05-elephant-park-final-phase
 
 ![](http://35percent.org/img/eparkaerial.jpg)
 
-Lendlease's application for 424 new homes is now set to be approved by the Council's planning committee on [Monday](http://moderngov.southwark.gov.uk/ieListDocuments.aspx?CId=119&MId=6403&Ver=4).
+Lendlease's application for 424 new homes (15 social rent) in this final phase is now set to be approved by the Council's planning committee on [Monday](http://moderngov.southwark.gov.uk/ieListDocuments.aspx?CId=119&MId=6403&Ver=4).
 
 If approved it will set the seal on an increase in the number of new homes beyond that approved by Southwark's planning committee back in 2013, without any increase in the number of affordable homes. This will result in 2,689 homes (220 more than approved in 2013) of which 92 will be social rent. 
 
-This windfall gives Lendlease the revenue of 220 extra homes, that was not included in the original viability assessment for the scheme - which was based on 2,469 units. This allowed Lendlease to build 25% instead of 35% affordable housing and reduce the required amount of social rented homes to next to nothing. Taking account of the 220 extra homes could have improved the viability of the whole scheme and the affordable housing offer.
+This windfall gives Lendlease the revenue of 220 extra homes, that was not included in the original viability assessment for the scheme - which was based on 2,469 units. This [allowed](https://www.theguardian.com/cities/2015/jun/25/london-developers-viability-planning-affordable-social-housing-regeneration-oliver-wainwright) Lendlease to build 25% instead of 35% affordable housing and reduce the required amount of social rented homes to next to nothing. Taking account of the 220 extra homes could have improved the viability of the whole scheme and the affordable housing offer.
 
 ## Reviewing viability
 We [noted](http://35percent.org/2019-08-05-elephant-park-final-phase-affordable-housing/#viability-questions) in our previous blog that Southwark neglected to carry out any viability review.
@@ -37,7 +37,7 @@ This was in line with the [Regeneration Agreement](https://files.whatdotheyknow.
 
 Such funding has been available since 2016 when Sadiq Khan [announced](https://www.london.gov.uk/what-we-do/housing-and-land/homes-londoners-affordable-homes-programme-2016-21) a £4.6bn funding programme, but despite the 2013 planning committee's intention and the Regeneration Agreement's obligation, Lendlease hasn't applied for it.
 
-Now Southwark states in Monday's [committee report for the final phase](): _"There is no obligation on Lendlease to seek public funds."_ (para 283) and
+Now Southwark states in Monday's [committee report for the final phase](https://planning.southwark.gov.uk/online-applications/files/2B05D1FEBF0308C39F18968F194D473F/pdf/19_AP_1166--843567.pdf): _"There is no obligation on Lendlease to seek public funds."_ (para 283) 
 
 But, we say that unless Lendlease applies for grant funding then Southwark should reject this final phase application.
 
