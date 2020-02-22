@@ -44,7 +44,7 @@ Also, despite this clear contractual obligation, Southwark nonetheless states in
 
 Given the obligation on Lendlease to seek grant funding, we say that until Lendlease does so Southwark should reject this final phase application.
 
-Southwark should also reject the application unless Lendlease commits to a viability review.  There are a number of reasons why this is necessary. Not only was the original viability assessment based on fewer homes than the number actually being built, but also those homes are being [sold for twice Lendlease's viability assessment estimate](https://www.theguardian.com/cities/2015/jun/25/london-developers-viability-planning-affordable-social-housing-regeneration-oliver-wainwright).
+Southwark should also reject the application unless Lendlease commits to a viability review.  There are a number of reasons why this is necessary. Not only was the original viability assessment based on fewer homes than the number actually being built, but also the free-market homes are being [sold for twice Lendlease's viability assessment estimate](https://www.theguardian.com/cities/2015/jun/25/london-developers-viability-planning-affordable-social-housing-regeneration-oliver-wainwright).
 
 Another significant change to viability since the original assessment has been Lendlease's recent [decision](https://www.constructionenquirer.com/2018/01/17/lendlease-launches-1-5bn-build-to-rent-partnership/) to let, rather than sell homes in the later phases of the scheme.
 
