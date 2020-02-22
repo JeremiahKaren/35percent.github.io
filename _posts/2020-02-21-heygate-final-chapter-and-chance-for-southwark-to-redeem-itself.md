@@ -36,7 +36,7 @@ We also noted in our [previous blogpost](http://35percent.org/2019-08-05-elephan
 ![](http://35percent.org/img/gfunding2.png)
 *Extract from the [2013 Outline application Committee report](http://moderngov.southwark.gov.uk/documents/s34476/Report.pdf)*
 
-This was in line with the [Regeneration Agreement](https://files.whatdotheyknow.com/request/heygate_estate_development_partn/191203%2020141201_Lend%20Lease_2014%20Deed%20of%20Variation_COMPLETE.pdf%20EIR%201351433_Redacted.pdf) which also obliged the parties to seek grant funding:
+This was in line with the [Regeneration Agreement](https://files.whatdotheyknow.com/request/heygate_estate_development_partn/191203%2020141201_Lend%20Lease_2014%20Deed%20of%20Variation_COMPLETE.pdf%20EIR%201351433_Redacted.pdf), which also obliged the parties to seek grant funding:
 
 ![](http://35percent.org/img/fundingra.png)
 
