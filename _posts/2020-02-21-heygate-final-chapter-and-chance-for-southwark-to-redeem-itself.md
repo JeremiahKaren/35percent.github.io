@@ -40,7 +40,7 @@ This was in line with the [Regeneration Agreement](https://files.whatdotheyknow.
 
 Such funding has been available since 2016 when Sadiq Khan [announced](https://www.london.gov.uk/what-we-do/housing-and-land/homes-londoners-affordable-homes-programme-2016-21) a £4.6bn funding programme, but despite the 2013 planning committee's intention and the Regeneration Agreement's obligation, Lendlease has made no funding application.
 
-Despite this clear contractual obligation, Southwark states in Monday's [committee report for the final phase](https://planning.southwark.gov.uk/online-applications/files/2B05D1FEBF0308C39F18968F194D473F/pdf/19_AP_1166--843567.pdf): _"There is no obligation on Lendlease to seek public funds."_ (para 283) 
+Also, despite this clear contractual obligation, Southwark nonetheless states in Monday's [committee report for the final phase](https://planning.southwark.gov.uk/online-applications/files/2B05D1FEBF0308C39F18968F194D473F/pdf/19_AP_1166--843567.pdf): _"There is no obligation on Lendlease to seek public funds."_ (para 283) 
 
 Given the obligation on Lendlease to seek grant funding, we say that until Lendlease does so Southwark should reject this final phase application.
 
