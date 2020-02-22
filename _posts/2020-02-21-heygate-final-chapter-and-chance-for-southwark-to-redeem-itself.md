@@ -48,7 +48,7 @@ Southwark should also reject the application unless Lendlease commits to a viabi
 
 Another significant change to viability since the original assessment has been Lendlease's recent [decision](https://www.constructionenquirer.com/2018/01/17/lendlease-launches-1-5bn-build-to-rent-partnership/) to let, rather than sell homes in the later phases of the scheme.
 
-Monday's planning committee should take account of Policy 3.12 of the Mayor's [London Plan](https://www.london.gov.uk/sites/default/files/the_london_plan_malp_final_for_web_0606_0.pdf), which says that _"The maximum reasonable amount of affordable housing should be sought .. having regard to .. individual circumstances including development viability, {and} the availability of public subsidy._"
+Monday's planning committee should also take account of Policy 3.12 of the Mayor's [London Plan](https://www.london.gov.uk/sites/default/files/the_london_plan_malp_final_for_web_0606_0.pdf), which says that _"The maximum reasonable amount of affordable housing should be sought .. having regard to .. individual circumstances including development viability, {and} the availability of public subsidy._"
 
 The Elephant Park development lost Southwark 1,200 council homes. This final phase is Southwark Council's last chance to (partially) redeem itself by insisting Lendlease abides by its obligations, reviews the viability of the scheme and applies for grant funding.
 
