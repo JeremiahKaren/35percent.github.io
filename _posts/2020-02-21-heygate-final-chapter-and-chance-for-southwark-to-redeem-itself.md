@@ -12,7 +12,7 @@ We [blogged last year](http://35percent.org/2019-08-05-elephant-park-final-phase
 
 Lendlease's application for 424 new homes (15 social rent) in this final phase is now set to be approved by the Council's planning committee on [Monday](http://moderngov.southwark.gov.uk/ieListDocuments.aspx?CId=119&MId=6403&Ver=4).
 
-If approved without a viability review it will seal an increase in the number of new homes beyond that [approved by Southwark's planning committee back in 2013](http://moderngov.southwark.gov.uk/documents/s34476/Report.pdf), without any increase in the number of affordable homes. This will [result](http://35percent.org/img/epark92socialrent.jpg) in 2,689 homes (220 more than approved in 2013) of which 92 will be social rent. 
+If approved without a viability review it will seal an increase in the number of new homes beyond that [approved by Southwark's planning committee back in 2013](http://moderngov.southwark.gov.uk/documents/s34476/Report.pdf), without any increase in the number of affordable homes. This will [result](http://35percent.org/img/epark92socialrent.jpg) in a total of 2,689 homes (220 more than approved in 2013) of which 92 will be social rent. 
 
 ![](http://35percent.org/img/12AP1092extracts.png)
 *Extract from the [2013 Outline application Committee report](http://moderngov.southwark.gov.uk/documents/s34476/Report.pdf)*
@@ -42,7 +42,7 @@ Such funding has been available since 2016 when Sadiq Khan [announced](https://w
 
 Also, despite this clear contractual obligation, Southwark nonetheless states in Monday's [committee report for the final phase](https://planning.southwark.gov.uk/online-applications/files/2B05D1FEBF0308C39F18968F194D473F/pdf/19_AP_1166--843567.pdf): _"There is no obligation on Lendlease to seek public funds."_ (para 283) 
 
-Given the obligation on Lendlease to seek grant funding, we say that until Lendlease does so Southwark should reject this final phase application.
+Given the clear obligation on Lendlease to seek grant funding, we say that until Lendlease does so Southwark should reject this final phase application.
 
 Southwark should also reject the application unless Lendlease commits to a viability review.  There are a number of reasons why this is necessary. Not only was the original viability assessment based on fewer homes than the number actually being built, but also the free-market homes are being [sold for twice Lendlease's viability assessment estimate](https://www.theguardian.com/cities/2015/jun/25/london-developers-viability-planning-affordable-social-housing-regeneration-oliver-wainwright).
 
