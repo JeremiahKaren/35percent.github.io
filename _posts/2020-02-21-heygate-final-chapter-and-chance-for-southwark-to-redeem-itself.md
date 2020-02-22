@@ -22,7 +22,7 @@ This windfall gives Lendlease the revenue of 220 extra homes that were not inclu
 ## Reviewing viability
 We [noted](http://35percent.org/2019-08-05-elephant-park-final-phase-affordable-housing/#viability-questions) in our previous blog that Southwark has neglected to carry out any viability review.
 
-Monday's [planning committee report](https://planning.southwark.gov.uk/online-applications/files/2B05D1FEBF0308C39F18968F194D473F/pdf/19_AP_1166--843567.pdf) reiterates its response that: _"The council has no mechanism to insist on a viability review"_ (para 129)
+Monday's [planning committee report](https://planning.southwark.gov.uk/online-applications/files/2B05D1FEBF0308C39F18968F194D473F/pdf/19_AP_1166--843567.pdf) reiterates this, stating: _"The council has no mechanism to insist on a viability review"_ (para 129)
 
 However, this looks to be contradicted by the terms of the [Regeneration Agreement](https://files.whatdotheyknow.com/request/heygate_estate_development_partn/191203%2020141201_Lend%20Lease_2014%20Deed%20of%20Variation_COMPLETE.pdf%20EIR%201351433_Redacted.pdf) between Southwark and Lendlease, which provides a mechanism for the affordable housing mix to be reviewed on an annual basis. 
 
