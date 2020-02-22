@@ -13,6 +13,7 @@ Lendlease's application for 424 new homes (15 social rent) in this final phase i
 If approved without a viability review it will seal an increase in the number of new homes beyond that [approved by Southwark's planning committee back in 2013](http://moderngov.southwark.gov.uk/documents/s34476/Report.pdf), without any increase in the number of affordable homes. This will [result](http://35percent.org/img/epark92socialrent.jpg) in 2,689 homes (220 more than approved in 2013) of which 92 will be social rent. 
 
 ![](http://35percent.org/img/12AP1092extracts.png)
+*Extract from the [2013 Outline application Committee report](http://moderngov.southwark.gov.uk/documents/s34476/Report.pdf)*
 
 This windfall gives Lendlease the revenue of 220 extra homes that were not included in the original viability assessment of the scheme, which was based on 2,469 units. This [allowed](https://www.theguardian.com/cities/2015/jun/25/london-developers-viability-planning-affordable-social-housing-regeneration-oliver-wainwright) Lendlease to build 25% instead of 35% affordable housing and reduce the required amount of social rented homes to next to nothing. Taking account of the 220 extra homes could have improved the viability of the whole scheme and the affordable housing offer.
 
