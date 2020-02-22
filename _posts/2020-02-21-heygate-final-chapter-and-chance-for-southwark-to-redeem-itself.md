@@ -17,7 +17,7 @@ If approved without a viability review it will seal an increase in the number of
 ![](http://35percent.org/img/12AP1092extracts.png)
 *Extract from the [2013 Outline application Committee report](http://moderngov.southwark.gov.uk/documents/s34476/Report.pdf)*
 
-This windfall gives Lendlease the revenue of 220 extra homes that were not included in the original viability assessment of the scheme, which was based on 2,469 units. This [allowed](https://www.theguardian.com/cities/2015/jun/25/london-developers-viability-planning-affordable-social-housing-regeneration-oliver-wainwright) Lendlease to build 25% instead of 35% affordable housing and to reduce the required amount of social rented homes to next to nothing. Taking account of the 220 extra homes could have improved the viability of the whole scheme and the affordable housing offer.
+This windfall gives Lendlease the revenue of 220 extra homes that were not included in the original viability assessment of the scheme, which was based on 2,469 units. This [allowed](https://www.theguardian.com/cities/2015/jun/25/london-developers-viability-planning-affordable-social-housing-regeneration-oliver-wainwright) Lendlease to build 25% instead of 35% affordable housing and to reduce the required amount of social rented homes to next to nothing. Taking account of the 220 extra homes could have improved both the viability of the whole scheme and the affordable housing offer.
 
 ## Reviewing viability
 We [noted](http://35percent.org/2019-08-05-elephant-park-final-phase-affordable-housing/#viability-questions) in our previous blog that Southwark has neglected to carry out any viability review.
