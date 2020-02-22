@@ -58,6 +58,6 @@ The Elephant Park development lost Southwark 1,200 council homes. This final pha
 
 <meta name="twitter:title" content="Elephant Park - final phase, final windfall for Lendlease" />
 
-<meta name="twitter:description" content="Call for viability review after Lendlease application for more homes than anticipated but no increase in affordable." />
+<meta name="twitter:description" content="Call for viability review after Lendlease apply to build more homes than approved without any increase in affordable." />
 
 <meta name="twitter:image" content="http://35percent.org/img/eparkaerial.jpg" />
