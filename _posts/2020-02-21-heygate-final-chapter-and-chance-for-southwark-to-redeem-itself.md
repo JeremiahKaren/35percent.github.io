@@ -46,7 +46,7 @@ Given the obligation on Lendlease to seek grant funding, we say that until Lendl
 
 Southwark should also reject the application unless Lendlease commits to a viability review.  There are a number of reasons why this is necessary. Not only was the original viability assessment based on fewer homes than the number actually being built, but also those homes are being [sold for twice Lendlease's viability assessment estimate](https://www.theguardian.com/cities/2015/jun/25/london-developers-viability-planning-affordable-social-housing-regeneration-oliver-wainwright).
 
-Another significant change to viability since the original assessment has been Lendlease's recent [decision](https://www.constructionenquirer.com/2018/01/17/lendlease-launches-1-5bn-build-to-rent-partnership/) to let rather than sell homes in the later phases of the scheme.
+Another significant change to viability since the original assessment has been Lendlease's recent [decision](https://www.constructionenquirer.com/2018/01/17/lendlease-launches-1-5bn-build-to-rent-partnership/) to let, rather than sell homes in the later phases of the scheme.
 
 In terms of policy, Monday's planning committee should take account of Policy 3.12 of the Mayor's [London Plan](https://www.london.gov.uk/sites/default/files/the_london_plan_malp_final_for_web_0606_0.pdf), which says that _"The maximum reasonable amount of affordable housing should be sought .. having regard to .. individual circumstances including development viability, {and} the availability of public subsidy._"
 
