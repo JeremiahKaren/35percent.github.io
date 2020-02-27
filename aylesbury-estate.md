@@ -81,7 +81,7 @@ It was also [confirmed](http://35percent.org/img/alag_cpoinquiry_correspondence.
 
 According to Notting Hill's [viability assessment](/img/document.pdf) its 21% profit extracted from the redevelopment is currently estimated to amount to £163m[^7].
 
-We argue that with £52m of council funds earmarked for the scheme over the next 3 years alone, there is a strong [business case for a moratorium](35percent.org/2016-09-26-council-appeals-aylesbury-cpo-decision/#the-business-case-for-a-moratorium).
+We argue that with £52m of council funds earmarked for the scheme over the next 3 years alone, there is a strong [business case for a moratorium](http://35percent.org/2016-09-26-council-appeals-aylesbury-cpo-decision/#the-business-case-for-a-moratorium).
 
 When the Council Executive took its [decision](http://moderngov.southwark.gov.uk/CeListDocuments.aspx?CommitteeId=118&MeetingId=986&DF=27/09/2005&Ver=2) to redevelop the estate in September 2005, it did so on the basis of a [costings estimate](http://crappistmartin.github.io/images/annexc.pdf) which calculated that the scheme would incur an overall cost to the Council of £16.1m over the scheme's 10-year development period. However, the Council's [budget books](http://www.southwark.gov.uk/download/downloads/id/11869/budget_book_201516_-_capital_programme) show that it is spending nearly £14m on the Aylesbury scheme during the past year alone. Later figures showed that the Council's estimated cost of decanting and demolishing the estate had ballooned to £150m[^4], but it is likely that even this figure will now be well exceeded.
 
