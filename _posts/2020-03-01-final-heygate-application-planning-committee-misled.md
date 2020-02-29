@@ -5,7 +5,9 @@ published: false
 subtitle: Lendlease fails to declare public funding for affordable housing
 ---
 
-At a planning committee meeting last Tuesday to consider the final phase of Elephant Park (aka Heygate estate), developer Lendlease failed to disclose that it was in receipt of public funding for affordable housing from the Mayor.
+Elephant Park developer Lendlease failed to disclose that it was in receipt of public funding to build affordable housing at a Southwark planning committee meeting called to consider the final phase of the Heygate regeneration last Tuesday.
+
+![](http://35percent.org/img/eparkaerial.jpg)
 
 The H7 MP5 detailed application was before the planning committee because of the number of objections it had received about the lack of additional affordable housing despite an increase in the total number of homes.
 
