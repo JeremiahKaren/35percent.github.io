@@ -11,9 +11,9 @@ The H7 MP5 detailed application was before the planning committee because of the
 
 One of those objections was that Lendlease had not applied to the Mayor for public funding to increase the affordable housing. 
 
-_"There appears to have been no effort to take advantage of any public funding."_ (para 282)
+_"There appears to have been no effort to take advantage of any public funding."_ (para 282 of the [officer's report](http://moderngov.southwark.gov.uk/documents/s87381/Report%20Plot%20H7%20Heygate%20Street%20within%20land%20bounded%20by%20Elephant%20Park%20to%20the%20north%20Plot%20H2%20to%20the%20wes.pdf))
 
-Southwark responded to this objection by saying: _"There is no obligation on Lendlease to seek public funds."_ (para 283)
+Southwark responded to this objection by saying: _"There is no obligation on Lendlease to seek public funds."_ (para 283 of the [officer's report](http://moderngov.southwark.gov.uk/documents/s87381/Report%20Plot%20H7%20Heygate%20Street%20within%20land%20bounded%20by%20Elephant%20Park%20to%20the%20north%20Plot%20H2%20to%20the%20wes.pdf))
 
 The planning committee followed this up in their cross examination of Lendlease, who were asked directly by Cllr King whether they had considered applying for grant funding.
 
@@ -21,7 +21,7 @@ The planning committee followed this up in their cross examination of Lendlease,
 
 In a lengthy reply, Lendlease did not disclose that in fact the Mayor had committed to fund Elephant Park back in September 2018 
 
-This is shown on the Mayor's website which [lists](https://www.london.gov.uk/sites/default/files/31.07.19_for_website_-_estate_regen_projects_approved_after_18_july_2018.pdf) estate regeneration projects where the Mayor has approved funding since July 2018.
+This is shown on the Mayor's [website](https://www.london.gov.uk/what-we-do/housing-and-land/increasing-housing-supply/estate-regeneration-data) which [lists](https://www.london.gov.uk/sites/default/files/31.07.19_for_website_-_estate_regen_projects_approved_after_18_july_2018.pdf) estate regeneration projects where the Mayor has approved funding since July 2018.
 
 ![](http://35percent.org/img/screenshotglafunding.png)
 
@@ -39,7 +39,7 @@ We suspect that the answer to this lies in the murky world of viability; Lendlea
 
 They repeated this at the planning committee meeting last week and will no doubt argue that any money they have received from the Mayor has gone to bridging the gap between what is viable and the 25% being delivered.
 
-Whatever the merits of this argument (and we think it has none) it still leaves open the question of why Lendlease and the officers report did not disclose the grant funding to members. 
+Whatever the merits of this argument (and we think it has none) it still leaves open the question of why Lendlease and the [officers report](http://moderngov.southwark.gov.uk/documents/s87381/Report%20Plot%20H7%20Heygate%20Street%20within%20land%20bounded%20by%20Elephant%20Park%20to%20the%20north%20Plot%20H2%20to%20the%20wes.pdf) did not disclose the grant funding to members. 
 
 There is a similarity here to the ongoing dispute about affordable housing in the shopping centre development. Developer Delancey claim that the £11.24m it is also receiving from the Mayor is being used to increase the amount of social rented housing. We [showed previously](http://35percent.org/2018-07-02-viability-and-delancey/) how it was going to Delancey's bottom line:
 
