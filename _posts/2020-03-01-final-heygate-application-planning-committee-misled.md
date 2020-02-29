@@ -5,7 +5,7 @@ published: false
 subtitle: Lendlease fails to declare public funding for affordable housing
 ---
 
-Elephant Park developer Lendlease failed to disclose that it was in receipt of public funding to build affordable housing at a Southwark planning committee meeting last Tuesday. 
+Developer Lendlease failed to disclose that it was in receipt of public funding that could have increased the amount of affordable housing on Elephant Park, at a Southwark planning committee meeting last Tuesday. 
 
 
 ![](http://35percent.org/img/eparkaerial.jpg)
