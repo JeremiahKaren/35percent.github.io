@@ -10,7 +10,7 @@ Elephant Park developer Lendlease failed to disclose that it was in receipt of p
 
 ![](http://35percent.org/img/eparkaerial.jpg)
 
-The H7 MP5 detailed application was before the planning committee because of the number of objections it had received about the lack of additional affordable housing despite an increase in the total number of homes.
+The H7 MP5 detailed application was before the planning committee because of the number of objections it had received about the lack of additional affordable housing despite an increase in the total number of homes.  Lendlease are obliged to provide 25% affordable housing, below the 35% policy requirement
 
 One of those objections was that Lendlease had not applied to the Mayor for public funding to increase the affordable housing. 
 
