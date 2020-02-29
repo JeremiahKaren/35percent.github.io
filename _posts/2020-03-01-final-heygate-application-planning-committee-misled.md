@@ -7,6 +7,7 @@ subtitle: Lendlease fails to declare public funding for affordable housing
 
 Elephant Park developer Lendlease failed to disclose that it was in receipt of public funding to build affordable housing at a Southwark planning committee meeting called to consider the final phase of the Heygate regeneration last Tuesday.
 
+
 ![](http://35percent.org/img/eparkaerial.jpg)
 
 The H7 MP5 detailed application was before the planning committee because of the number of objections it had received about the lack of additional affordable housing despite an increase in the total number of homes.
@@ -46,4 +47,3 @@ Whatever the merits of this argument (and we think it has none) it still leaves 
 There is a similarity here to the ongoing dispute about affordable housing in the shopping centre development. Developer Delancey claim that the £11.24m it is also receiving from the Mayor is being used to increase the amount of social rented housing. We [showed previously](http://35percent.org/2018-07-02-viability-and-delancey/) how it was going to Delancey's bottom line:
 
 ![](http://35percent.org/img/delanceyfvaprofit.png)
-
