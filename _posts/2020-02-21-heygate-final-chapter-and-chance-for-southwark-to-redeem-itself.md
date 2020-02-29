@@ -20,7 +20,7 @@ If approved without a viability review it will seal an increase in the number of
 This windfall gives Lendlease the revenue of 220 extra homes that were not included in the original viability assessment of the scheme, which was based on 2,469 units. This [allowed](https://www.theguardian.com/cities/2015/jun/25/london-developers-viability-planning-affordable-social-housing-regeneration-oliver-wainwright) Lendlease to build 25% instead of 35% affordable housing and to reduce the required amount of social rented homes to next to nothing. Taking account of the 220 extra homes could have improved both the viability of the whole scheme and the affordable housing offer.
 
 ## Reviewing viability
-We [noted](http://35percent.org/2019-08-05-elephant-park-final-phase-affordable-housing/#viability-questions) in our previous blog that Southwark has neglected to carry out any viability review.  Monday's [planning committee report](https://planning.southwark.gov.uk/online-applications/files/2B05D1FEBF0308C39F18968F194D473F/pdf/19_AP_1166--843567.pdf) reiterates this, stating: _"The council has no mechanism to insist on a viability review"_ (para 129)
+We [noted](http://35percent.org/2019-08-05-elephant-park-final-phase-affordable-housing/#viability-questions) in our previous blog that Southwark has neglected to carry out any viability review.  Monday's [planning committee report](http://moderngov.southwark.gov.uk/documents/s87381/Report%20Plot%20H7%20Heygate%20Street%20within%20land%20bounded%20by%20Elephant%20Park%20to%20the%20north%20Plot%20H2%20to%20the%20wes.pdf) reiterates this, stating: _"The council has no mechanism to insist on a viability review"_ (para 129)
 
 However, this looks to be contradicted by the terms of the [Regeneration Agreement](https://files.whatdotheyknow.com/request/heygate_estate_development_partn/191203%2020141201_Lend%20Lease_2014%20Deed%20of%20Variation_COMPLETE.pdf%20EIR%201351433_Redacted.pdf) between Southwark and Lendlease, which provides a mechanism for the affordable housing mix to be reviewed on an annual basis. 
 
@@ -40,7 +40,7 @@ This was in line with the [Regeneration Agreement](https://files.whatdotheyknow.
 
 Such funding has been available since 2016 when Sadiq Khan [announced](https://www.london.gov.uk/what-we-do/housing-and-land/homes-londoners-affordable-homes-programme-2016-21) a £4.6bn funding programme, but despite the 2013 planning committee's intention and the Regeneration Agreement's obligation, Lendlease has made no funding application.
 
-Also, despite this clear contractual obligation, Southwark nonetheless states in Monday's [committee report for the final phase](https://planning.southwark.gov.uk/online-applications/files/2B05D1FEBF0308C39F18968F194D473F/pdf/19_AP_1166--843567.pdf): _"There is no obligation on Lendlease to seek public funds."_ (para 283) 
+Also, despite this clear contractual obligation, Southwark nonetheless states in Monday's [committee report for the final phase](http://moderngov.southwark.gov.uk/documents/s87381/Report%20Plot%20H7%20Heygate%20Street%20within%20land%20bounded%20by%20Elephant%20Park%20to%20the%20north%20Plot%20H2%20to%20the%20wes.pdf): _"There is no obligation on Lendlease to seek public funds."_ (para 283) 
 
 Given the clear obligation on Lendlease to seek grant funding, we say that until Lendlease does so Southwark should reject this final phase application.
 
