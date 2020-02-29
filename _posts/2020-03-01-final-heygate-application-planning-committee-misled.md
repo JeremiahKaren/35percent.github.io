@@ -9,3 +9,8 @@ GLA [records](https://www.london.gov.uk/sites/default/files/31.07.19_for_website
 ![](http://35percent.org/img/screenshotglafunding.png)
 
 Going to Lendlease's bottom line - not to improving affordable housing offer.
+
+
+## BtR profits not shared
+
+## Advisors same as lendlease's
