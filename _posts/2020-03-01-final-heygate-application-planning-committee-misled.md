@@ -7,7 +7,6 @@ subtitle: Lendlease fails to declare public funding for affordable housing
 
 Developer Lendlease failed to disclose that it was in receipt of public funding that could have increased the amount of affordable housing on Elephant Park, at a Southwark planning committee meeting last Tuesday. 
 
-
 ![](http://35percent.org/img/eparkaerial.jpg)
 
 The meeting was called because of the large number of objections to the final phase, H7 MP5, and the lack of additional affordable housing.  We explained in our [previous blog](http://35percent.org/2020-02-21-heygate-final-chapter-and-chance-for-southwark-to-redeem-itself/) how Lendlease have met their 25% affordable housing requirement, while increasing the total number of homes, without increasing the number of affordable houses.
