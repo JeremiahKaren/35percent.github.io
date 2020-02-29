@@ -20,7 +20,7 @@ The planning committee followed this up in their cross examination of Lendlease,
 
 In a lengthy reply, Lendlease did not disclose that the Mayor had in fact committed to fund Elephant Park, back in September 2018. 
 
-Elephant Park is the very first entry on a [list] (https://www.london.gov.uk/sites/default/files/31.07.19_for_website_-_estate_regen_projects_approved_after_18_july_2018.pdf) of estate regeneration projects where the Mayor has approved funding since July 2018. [website](https://www.london.gov.uk/what-we-do/housing-and-land/increasing-housing-supply/estate-regeneration-data)
+Elephant Park is the very first entry on a [list](https://www.london.gov.uk/sites/default/files/31.07.19_for_website_-_estate_regen_projects_approved_after_18_july_2018.pdf) of estate regeneration projects where the Mayor has approved funding since July 2018. [website](https://www.london.gov.uk/what-we-do/housing-and-land/increasing-housing-supply/estate-regeneration-data)
 
 
 
