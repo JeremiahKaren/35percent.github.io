@@ -17,6 +17,8 @@ Southwark responded to this objection by saying: _"There is no obligation on Len
 
 The planning committee followed this up in their cross examination of Lendlease, who were asked directly by Cllr King whether they had considered applying for grant funding.
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uYXZEWz7-wo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 In a lengthy reply, Lendlease did not disclose that in fact the Mayor had committed to fund Elephant Park back in September 2018 
 
 This is shown on the Mayor's website which [lists](https://www.london.gov.uk/sites/default/files/31.07.19_for_website_-_estate_regen_projects_approved_after_18_july_2018.pdf) estate regeneration projects where the Mayor has approved funding since July 2018.
