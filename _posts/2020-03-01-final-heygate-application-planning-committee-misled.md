@@ -10,7 +10,7 @@ Elephant Park developer Lendlease failed to disclose that it was in receipt of p
 
 ![](http://35percent.org/img/eparkaerial.jpg)
 
-The meeting was called because of the large number of objections to the final phase, H7 MP5, and the lack of additional affordable housing, despite an increase in the total number of homes.  Lendlease are obliged to provide 25% affordable housing, below the 35% policy requirement
+The meeting was called because of the large number of objections to the final phase, H7 MP5, and the lack of additional affordable housing, despite an increase in the total number of homes.  Lendlease are obliged to provide 25% affordable housing, and to improve this, up to the 35% policy requirement
 
 One of those objections was that Lendlease had not applied to the Mayor for public funding to increase the affordable housing. 
 
