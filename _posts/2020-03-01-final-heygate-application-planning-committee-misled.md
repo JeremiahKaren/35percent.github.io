@@ -12,7 +12,7 @@ Developer Lendlease failed to disclose that it was in receipt of public funding 
 
 The meeting was called because of the large number of objections to the final phase, H7 MP5, and the lack of additional affordable housing, despite an increase in the total number of homes.  Lendlease are obliged to provide 25% affordable housing, and to improve this, up to the 35% policy requirement
 
-One of those objections was that Lendlease had not applied to the Mayor for public funding to increase the affordable housing. 
+One of the objections, from the 35% Campaign was that Lendlease had not applied to the Mayor for public funding to increase the affordable housing. 
 
 _"There appears to have been no effort to take advantage of any public funding."_ (para 282 of the [officer's report](http://moderngov.southwark.gov.uk/documents/s87381/Report%20Plot%20H7%20Heygate%20Street%20within%20land%20bounded%20by%20Elephant%20Park%20to%20the%20north%20Plot%20H2%20to%20the%20wes.pdf))
 
