@@ -20,9 +20,7 @@ The planning committee followed this up in their cross examination of Lendlease,
 
 In a lengthy reply, Lendlease did not disclose that the Mayor had in fact committed to fund Elephant Park, back in September 2018. 
 
-Elephant Park is the very first entry on a [list](https://www.london.gov.uk/sites/default/files/31.07.19_for_website_-_estate_regen_projects_approved_after_18_july_2018.pdf) of estate regeneration projects on the Mayor's [website](https://www.london.gov.uk/what-we-do/housing-and-land/increasing-housing-supply/estate-regeneration-data),which have had funding approved since July 2018. 
-
-
+Elephant Park is the very first entry on a [list](https://www.london.gov.uk/sites/default/files/31.07.19_for_website_-_estate_regen_projects_approved_after_18_july_2018.pdf) of estate regeneration projects on the Mayor's [website](https://www.london.gov.uk/what-we-do/housing-and-land/increasing-housing-supply/estate-regeneration-data), which have had funding approved since July 2018.
 
 ![](http://35percent.org/img/screenshotglafunding.png)
 
@@ -38,7 +36,7 @@ This gives rise to a number of questions:
 
 We suspect that the answer to this lies in the murky world of viability; Lendlease insisted in 2013 that only 9.4% of the new homes could be viably provided as affordable.
 
-They repeated this at the planning committee meeting last week and will no doubt argue that any money they have received from the Mayor has gone to bridging the gap between what is viable and the 25% being delivered.
+They repeated this at the planning committee meeting last week and would no doubt argue that any money they have received from the Mayor has gone to bridging the gap between what is viable and the 25% being delivered.
 
 Whatever the merits of this argument (and we think it has none) it still leaves open the question of why Lendlease and the [officers report](http://moderngov.southwark.gov.uk/documents/s87381/Report%20Plot%20H7%20Heygate%20Street%20within%20land%20bounded%20by%20Elephant%20Park%20to%20the%20north%20Plot%20H2%20to%20the%20wes.pdf) did not disclose the grant funding to members. 
 
