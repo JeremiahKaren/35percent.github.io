@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Elephant Park - planning committee misled?
-published: false
-subtitle: Lendlease fails to declare public funding for affordable housing
+title: "Elephant Park - planning committee misled?"
+published: true 
+subtitle: "Lendlease fails to declare public funding for affordable housing"
 ---
 
 Developer Lendlease failed to disclose that it was in receipt of public funding that could have increased the amount of affordable housing on Elephant Park, at a Southwark planning committee meeting last Tuesday. 
@@ -42,3 +42,13 @@ Whatever the merits of this argument (and we think it has none) it still leaves 
 There is a similarity here to the ongoing dispute about affordable housing in the [shopping centre development](https://35percent.org/shopping-centre). Developer Delancey claims that the £11.24m it is also receiving from the Mayor is being used to increase the amount of social rented housing. We [showed previously](http://35percent.org/2018-07-02-viability-and-delancey/) how it was going to Delancey's bottom line:
 
 ![](http://35percent.org/img/delanceyfvaprofit.png)
+
+<meta name="twitter:card" content="summary_large_image" />
+
+<meta name="twitter:site" content="@35percent_EAN" />
+
+<meta name="twitter:title" content="Elephant Park - Planning Committee misled" />
+
+<meta name="twitter:description" content="Lendlease failed to declare that it was in receipt of public funding that could have increased the amount of affordable housing at its Heygate estate regeneration." />
+
+<meta name="twitter:image" content="http://35percent.org/img/eparkaerial.jpg" />
