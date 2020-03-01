@@ -5,17 +5,17 @@ published: true
 subtitle: "Lendlease fails to declare public funding for affordable housing"
 ---
 
-Developer Lendlease failed to disclose that it was in receipt of public funding that could have increased the amount of affordable housing on Elephant Park, at a Southwark planning committee meeting last Tuesday. 
+Developer Lendlease failed to disclose at [Last week's planning committee meeting](http://35percent.org/2020-03-01-final-heygate-application-planning-committee-misled/) that it was in receipt of public funding that could have increased the amount of affordable housing at Elephant Park (aka the Heygate estate regeneration). 
 
 ![](http://35percent.org/img/eparkaerial.jpg)
 
-The meeting was called because of the large number of objections to the final phase, H7 MP5, and the lack of additional affordable housing.  We explained in our [previous blog](http://35percent.org/2020-02-21-heygate-final-chapter-and-chance-for-southwark-to-redeem-itself/) how Lendlease have met their 25% affordable housing requirement, while increasing the total number of homes, without increasing the number of affordable houses.
+The meeting was called because of the large number of objections to the final phase, H7 MP5, and the lack of additional affordable housing.  We explained in our [previous blog](http://35percent.org/2020-02-21-heygate-final-chapter-and-chance-for-southwark-to-redeem-itself/) how Lendlease have met their 25% affordable housing requirement, while increasing the total number of homes, but without increasing the number of affordable homes or proportion of social rent (3%).
 
 One of the objections, from the 35% Campaign, was that _"There appears to have been no effort to take advantage of any public funding"_.  Southwark responded  by saying: _"There is no obligation on Lendlease to seek public funds."_ (para 282, 283 of the [officer's report](http://moderngov.southwark.gov.uk/documents/s87381/Report%20Plot%20H7%20Heygate%20Street%20within%20land%20bounded%20by%20Elephant%20Park%20to%20the%20north%20Plot%20H2%20to%20the%20wes.pdf))
 
-The planning committee followed this up in their cross examination of Lendlease, who were asked directly by Cllr King whether they had considered applying for grant funding.
+The planning committee followed this up in their cross examination of Lendlease, who were asked directly by Cllr King whether they had considered applying for grant funding:
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uYXZEWz7-wo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uYXZEWz7-wo?t=8782" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 In a lengthy reply, Lendlease did not disclose that the Mayor had in fact committed to fund Elephant Park, back in September 2018. 
 
