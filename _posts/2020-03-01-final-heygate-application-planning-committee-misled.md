@@ -15,7 +15,8 @@ One of the objections, from the 35% Campaign, was that _"There appears to have b
 
 The planning committee followed this up in their cross examination of Lendlease, who were asked directly by Cllr King whether they had considered applying for grant funding:
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uYXZEWz7-wo?t=12360" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+![](http://35percent.org/img/pcomscreen.png)
+*See video clip of committee meeting on youtube [here](https://www.youtube.com/embed/uYXZEWz7-wo?t=12360dd).*
 
 In a lengthy reply, Lendlease did not disclose that the Mayor had in fact committed to fund Elephant Park, back in September 2018. 
 
