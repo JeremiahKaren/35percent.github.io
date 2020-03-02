@@ -5,11 +5,11 @@ published: true
 subtitle: "Lendlease fails to declare public funding for affordable housing"
 ---
 
-Developer Lendlease failed to disclose at [Last week's planning committee meeting](http://35percent.org/2020-03-01-final-heygate-application-planning-committee-misled/) that it was in receipt of public funding that could have increased the amount of affordable housing at Elephant Park (aka the Heygate estate regeneration). 
+Developer Lendlease failed to disclose at [Last week's planning committee meeting](http://35percent.org/2020-03-01-final-heygate-application-planning-committee-misled/) that it was in receipt of public funding, which could have increased the amount of affordable housing at Elephant Park (aka the Heygate estate regeneration). 
 
 ![](http://35percent.org/img/eparkaerial.jpg)
 
-The meeting was called because of the large number of objections to the final phase, H7 MP5, and the lack of additional affordable housing.  We explained in our [previous blog](http://35percent.org/2020-02-21-heygate-final-chapter-and-chance-for-southwark-to-redeem-itself/) how Lendlease have met their 25% affordable housing requirement, while increasing the total number of homes, but without increasing the number of affordable homes or proportion of social rent (3%).
+The meeting was called because of the large number of objections to the final phase (H7 MP5) and the lack of additional affordable housing.  We explained in our [previous blog](http://35percent.org/2020-02-21-heygate-final-chapter-and-chance-for-southwark-to-redeem-itself/) how Lendlease have met their 25% affordable housing requirement, while increasing the total number of homes, but without increasing the number of affordable homes or proportion of social rent (3%).
 
 One of the objections, from the 35% Campaign, was that _"There appears to have been no effort to take advantage of any public funding"_.  Southwark responded  by saying: _"There is no obligation on Lendlease to seek public funds."_ (para 282, 283 of the [officer's report](http://moderngov.southwark.gov.uk/documents/s87381/Report%20Plot%20H7%20Heygate%20Street%20within%20land%20bounded%20by%20Elephant%20Park%20to%20the%20north%20Plot%20H2%20to%20the%20wes.pdf))
 
@@ -33,7 +33,7 @@ This gives rise to a number of questions:
 
 4. Why has the affordable housing offer not been improved?
 
-We suspect that the answer to this lies in the murky world of viability; Lendlease insisted in 2013 that only 9.4% of the new homes could be viably provided as affordable.
+We suspect that the answer to this lies in the murky world of viability; Lendlease insisted in 2013 that [only 9.4% of the new homes could be viably provided as affordable](https://www.theguardian.com/cities/2015/jun/25/london-developers-viability-planning-affordable-social-housing-regeneration-oliver-wainwright).
 
 They repeated this at the planning committee meeting last week and would no doubt argue that any money they have received from the Mayor has gone to bridging the gap between what is viable and the 25% being delivered.
 
