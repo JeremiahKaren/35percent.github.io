@@ -51,4 +51,4 @@ There is a similarity here to the ongoing dispute about affordable housing in th
 
 <meta name="twitter:description" content="Lendlease failed to declare that it was in receipt of public funding that could have increased the amount of affordable housing at its Heygate estate regeneration." />
 
-<meta name="twitter:image" content="http://35percent.org/img/eparkaerial.jpg" />
+<meta name="twitter:image" content="http://35percent.org/img/pcomscreen.png" />
