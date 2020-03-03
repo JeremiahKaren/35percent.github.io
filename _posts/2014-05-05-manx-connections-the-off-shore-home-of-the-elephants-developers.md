@@ -45,5 +45,13 @@ Delancey is not alone in its offshore strategy, [Strata Tower](/strata-tower) wa
 
 Heygate developer Lendlease's global corporate structure is too complex for us to see whether it shares its fellow developers' fondness of offshore companies. However, we have found that its development arm - Lend Lease Residential PLC [doesn't pay](http://crappistmartin.github.io/images/lendleasefinancialreport.pdf) a penny in UK corporation tax. Last year Lendlease UK's parent company in Australia [recorded](http://phx.corporate-ir.net/External.File?item=UGFyZW50SUQ9MjA0NTA3fENoaWxkSUQ9LTF8VHlwZT0z&t=1) an annual profit of over £300m.
 
+<meta name="twitter:card" content="summary_large_image" />
 
+<meta name="twitter:site" content="@35percent_EAN" />
+
+<meta name="twitter:title" content="Delancey's Elephant and Castle" />
+
+<meta name="twitter:description" content="Billions of pounds of real estate at Elephant & Castle registered offshore to avoid tax." />
+
+<meta name="twitter:image" content="http://35percent.org/img/Jamie-Ritblat-Cllr-Dora-Dixon-Fyle.jpg"/>
 
