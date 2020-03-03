@@ -293,9 +293,8 @@ The MUSCo was also [going to supply](http://moderngov.southwark.gov.uk/mgConvert
 ![](/img/scpv.png)
 
 ## Legal Challenge
-We have helped to [crowdfund a legal challenge](https://www.crowdjustice.com/case/stop-the-elephant-shopping-centre-destruction/) to Delancey's plans, which [seeks to quash](http://35percent.org/2019-10-17-day-of-decision-for-elephant-shopping-centre/) the planning consent and send these inequitable plans back to the drawing board until a scheme comes forward that provides new homes and shops that are truly affordable for local people.
+We have helped to [crowdfund a legal challenge](https://www.crowdjustice.com/case/save-the-elephants-diverse-com-appeal/) to Delancey's plans, which seeks to quash the planning consent and send these inequitable plans back to the drawing board until a scheme comes forward that provides new homes and shops that are truly affordable for local people.
 
-![](http://35percent.org/img/cjustice.png)
 
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:site" content="@35percent_EAN">
