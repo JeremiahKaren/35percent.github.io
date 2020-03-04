@@ -14,7 +14,7 @@ Delancey has been granted permission to build 979 Build to Rent homes totalling 
 
 None of this is in line with the [Elephant's current affordable housing policy](http://www.southwark.gov.uk/assets/attach/1817/1.0.5%20Elephant%20%26%20Castle%20SPD%20OAPF.pdf), which requires half (17.5%) of the minimum 35% affordable housing to be social rented. This should give us nearly 170 social rented units. Instead we are getting only 116 social rented units with 53 'London Living Rent equivalent' units (£205 - £308pw) and 161 affordable rent at up to 80% market rent, for household incomes up to £90,000pa. Measured by floorspace the social rent element is only 8.6% of the total residential floorspace.
 
-<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js">
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js">
 </script>
 <script src="http://code.highcharts.com/highcharts.js">
 </script>
