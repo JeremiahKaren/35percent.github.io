@@ -94,6 +94,6 @@ __Footnotes:__
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:site" content="@35percent_EAN">
 <meta name="twitter:title" content="Southwark's revolving doors">
-<meta name="twitter:description" content="The murky link between Southwark's public servants and property developers.">
-<meta name="twitter:image" content="http://35percent.org/img/8637497136_d25afc426a.jpg">
+<meta name="twitter:description" content="The murky link between Southwark's public servants and the property development industry.">
+<meta name="twitter:image" content="https://farm9.staticflickr.com/8244/8637497136_d25afc426a.jpg">
 
