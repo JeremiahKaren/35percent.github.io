@@ -1,11 +1,10 @@
 ---
 layout: page
-title: "Public Realm/Environment"
+title: "Elephant Park Greenwash"
 comments: true
 sharing: true
 footer: true
 ---
-## The old vs new Elephant Park
 ![](http://crappistmartin.github.io/images/elephantpark_marketing.jpg)
 
 Developer Lendlease has rebranded its 25 acre Heygate redevelopment [_'Elephant Park'_](http://elephantpark.co.uk) and made much of the new 'public' park it will be building. But many still remember that the site used to be home to a sizeable public park called Elephant Park, which enjoyed public open space designation in the council's planning policy[^3] and Metropolitan Open Space protection by form of covenant. 
@@ -14,14 +13,12 @@ Developer Lendlease has rebranded its 25 acre Heygate redevelopment [_'Elephant 
 
 In 2006 the council removed this open space designation on the basis that _"The space principally addresses the needs of Heygate residents and following the demolition of the estate there will no longer be a need for this type of estate-based facility"_[^4]. The park was eventually closed in 2011 amidst [fierce opposition](http://elephantamenity.wordpress.com/2011/02/28/no-more-football-on-the-elephant-park/) from residents. It was subsequently divided in two, with one half leased to the neighbouring [Delancey 'Tribeca Square' development](http://crappistmartin.github.io/tribeca-square) to be used as a compound and the other half to Lendlease for use as a [box park & sales showroom](http://www.standard.co.uk/news/london/popup-shopping-mall-to-make-elephant-and-castle-the-new-shoreditch-9022978.html).  
 
-According to a [2002 audit by planning consultant Michael Parkes,](http://crappistmartin.github.io/images/HeygateCommunityAssetAudit.pdf) the Heygate estate used to comprise a total 24,195 square metres of public amenity open space.
+According to a [2002 audit by planning consultant Michael Parkes,](http://crappistmartin.github.io/images/HeygateCommunityAssetAudit.pdf) the Heygate estate comprised a total 24,195 square metres of public amenity open space:
 
 ![](/img/heygateamenity.jpg)
 
 ## London's largest new 'public' park in 70 Years?
-Lendlease & Southwark claim that the new park will be [central London's largest park in more than 70 years'](http://www.southwark.gov.uk/news/article/672/final_masterplan_for_heygate_estate_revamp_revealed). However, according to Lendlease's [planning application](http://planningonline.southwark.gov.uk/AcolNetCGI.exe?ACTION=UNWRAP&RIPNAME=Root.PgeResultDetail&TheSystemkey=9544643), the new park will not be designated open space and will be just 8,220 square metres in size - representing a net loss of more than two thirds of the Heygate's former open space.
-
-![](http://crappistmartin.github.io/images/parkdimensions.png)
+Lendlease & Southwark claim that the new park will be [central London's largest park in more than 70 years'](https://www.southwark.gov.uk/regeneration/elephant-and-castle?chapter=6). However, according to the detail in Lendlease's [plans](http://planningonline.southwark.gov.uk/AcolNetCGI.exe?ACTION=UNWRAP&RIPNAME=Root.PgeResultDetail&TheSystemkey=9544643), the new park will not be designated open space and will be just 8,220 square metres in size - representing a net loss of more than two thirds of the Heygate's former open space.
 
 When probed during the Feb 2013 CPO public inquiry into the scheme, architect [Ken Shuttleworth said](http://crappistmartin.github.io/images/KenShuttleworthCPOevidenceFeb2013.pdf) the 'largest park in 70 years' claim is based in relation to the nearby Geraldine Harmsworth Park (Imperial War Museum), which received designation in 1934. But we did a little research and found that the claim to being central London's largest new park in 70 years is pure fiction and plainly ridiculous. In fact, it's not even the largest new park in Southwark in 70 years - let alone central London: the following [Southwark parks](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!3CFumZzyYn8kb1LBVrWDlg%3d%3d!%7d%7d%7d) are all larger than the one proposed by Lendlease (0.82H) and have all received open space designation since the Geraldine Harmsworth park was opened in 1934:
 
@@ -32,12 +29,9 @@ When probed during the Feb 2013 CPO public inquiry into the scheme, architect [K
     *Dickens Fields  1.20H  
 
 
-
 The [planning application documents](http://planningonline.southwark.gov.uk/DocsOnline/Documents/254738_1.pdf) also show that the Heygate's new park will be just 42m wide (around the same width as New Kent rd), overshadowed by 12-30 storey buildings and hemmed in by a new road servicing the development's 700 new car-parking spaces[^1].
 
-![](http://crappistmartin.github.io/images/parkcrosssection.png)
-
-This is a real kick in the teeth for local residents who can remember the promises of the original regeneration plans. These proposed a sizeable public park and public open space on the site of the Heygate as can be seen from the [original masterplan](http://www.scribd.com/doc/198503633/EandC-RegenMk1SLRplans) illustrations:
+The original plans proposed a sizeable public park and public open space on the site of the Heygate as can be seen from the [original masterplan](http://www.scribd.com/doc/198503633/EandC-RegenMk1SLRplans) illustrations:
 
 ![](http://heygate.github.io/img/elephantparkcomparison.png) 
 
@@ -45,23 +39,13 @@ Furthermore, the remaining green spaces on the development will consist of 'rais
   
 ![](http://crappistmartin.github.io/images/heygate_raised_courtyards2.png)
 
-But what is even more disconcerting is that the planning application's ['Estate Management Strategy' statement](http://planningonline.southwark.gov.uk/DocsOnline/Documents/224077_1.pdf) states that the new park - and indeed the entire footprint of the development - is going to be privately owned and privately managed:
-
-_"The long term regeneration vision is founded on the core principles of place making and central to this is the effective management of the spaces around Plots in addition to effective Plot and building management."_ (para. 10)
-
-_"It is likely that an umbrella Estate Management Company (EMC) will be created, with separate Plot Management Companies responsible for managing each Plot sitting under it. Each Plot will have its own Plot Management Company (PMC). Each PMC will be controlled by the leasehold owners of the new homes, the Registered Provider and the leasehold owners of the retail spaces within the Plot."_ (para. 2.2)
+But what is even more disconcerting is that the planning application's ['Estate Management Strategy' statement](http://planningonline.southwark.gov.uk/DocsOnline/Documents/224077_1.pdf) states that the new park - and indeed the entire footprint of the development - is going to be privately owned and privately managed by an Estate Management Company (EMC) set up by Lendlease.
 
 _"The Estate Management Company (EMC) will hold the land on a long leasehold basis from Lendlease. The Estate Management Company shall be controlled by a main board of directors responsible for managing the company."_ (para. 4)  
+
+The EMC will employ a 'Town centre security team' _"for the delivery of effective anti‐social behaviour services across the Estate"_. (para 8.2)
       
 ![](http://crappistmartin.github.io/images/emc.png)
-
-The Estate Management Strategy appears to have quite clear ideas of how behaviour within the site will be monitored and controlled:
-
-_"Anti‐Social Behaviour Policy - The principles set out in the Anti‐Social Behaviour Policy will lay out common standards for the delivery of effective anti‐social behaviour services across the Estate, the Plots and as part of tenancy and leasehold management."_(para. 7.5) </br> 
-
-_"Security - The EMC and PMCs will have a key role in linking with local agencies, in particular the police, Southwark’s Anti‐Social Behaviour (ASB) services and the town centre security team and the local Community Safety teams."_(para. 8.2)  
-
-<img src="http://betterelephant.github.io/images/gatedcommunity.png" width="200" align="left" style="margin:10px">Further reference to the proposed privatisation of the space is found in the [Master Regeneration Plan](http://www.southwark.gov.uk/download/downloads/id/4928/cdh34_elephant_and_castle_regeneration_agreement_appendix_6): _"To ensure that the high quality external environment is maintained the completed site will be managed by its own security, maintenance and cleaning service."_(para 2.8)
 
 In June 2016, Lendlease [submitted its Park Area Strategy](http://35percent.org/2016-06-26-restricted-access-elephant-park/) to the Council for approval. The Strategy showed that the new 'public' park will be fenced it behind iron railings, secured by a facilities management company and locked between dusk and dawn.
 
@@ -81,11 +65,6 @@ The London Cycling Campaign has posted a detailed critique of the E&C interchang
 Furthermore, despite the fact that Elephant & Castle has the highest possible rating in terms of public transport accessibility, the Council's regeneration partner __Lendlease__ is building over 700 parking spaces[^1] at the Elephant, in what was intended to be an entirely car-free scheme[^2].  
 
 According to the planning officer's [report](http://planningonline.southwark.gov.uk/DocsOnline/Documents/260032_1.pdf), Lendlease has submitted viability assessments demonstrating that _"the proposed level of parking is justified on viability grounds"_(para. 120).  
-
-Looking back we can see that the current proposals have departed significantly from the [original masterplan](http://www.scribd.com/doc/198503633/EandC-RegenMk1SLRplans), which intended to _"give priority to pedestrians & cyclists"_ by removing the link road & creating a pedestrianised 'piazza' public square:
-
-![](http://crappistmartin.github.io/images/piazza.png)
-
 
 ## 'Carbon Positive' Homes?
 The original regeneration plans proposed a [Multi-Utility Services Co.](http://www.london-se1.co.uk/news/view/2270) (MUSCo) renewable energy plant, which according to page 19 of the [Master Regeneration Plan](https://www.southwark.gov.uk/assets/attach/1814/Elephant_and_Castle_Regeneration_Agreement_Appendix_6.pdf) would provide _"the generation of renewable energy"_ in a _"sustainable network of heat, water and telecoms"_ for all new developments at the Elephant. The MUSCo was going to generate 100% renewable energy from a biomass energy centre making the Elephant & Castle regeneration a 'zero carbon' development with 'carbon positive' homes.
