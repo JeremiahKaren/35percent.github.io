@@ -26,7 +26,7 @@ This has never happened; such [relocation benefits](https://www.southwark.gov.uk
 
 By Southwark's own account the scheme may well not go forward unless it adopts CPO powers, because Delancey is unwilling to bear the risk of the uncertainty created by its abscence, given its _'enormous capital investment in the Scheme'_ and in addition _'any prudent funder of the Scheme is also unlikely to fund the Scheme whilst that uncertainty persists'_. [^5]
 
-Southwark therefore has had a great deal of legitimate leverage.  It was clear from the very start, back in 2016, that Delancey had little intention of retaining resident traders in the new redevelopment, describing them as _'benefiting from disproportionately low levels of rent'_ and unlikely _'to survive....over the longer term'_. [^6] Southwark should have made it clear then that any anticipated use of CPO powers would be dependant on fufilling the requirement that _'relevant occupiers'_ ie the traders were given the opportunity to stay in the new development.
+Southwark therefore has had a great deal of legitimate leverage.  It was clear from the very start, back in 2016, that Delancey had little intention of retaining resident traders in the new redevelopment, describing them as _'benefiting from disproportionately low levels of rent'_ and unlikely _'to survive....over the longer term'_. [^6] Southwark should have made it clear then that [any anticipated use of CPO powers](http://35percent.org/2015-11-04-southwark-resolves-to-use-cpo-powers-for-shopping-centre-retailers/) would be dependant on fufilling the requirement that _'relevant occupiers'_ ie the traders were given the opportunity to stay in the new development.
 
 As it is it looks as if Southwark intends to sacrifice trader's interests, again, in favour of Delancey, just as it sacrificed those who depend on social rented housing, when it [granted Delancey planning permission](http://35percent.org/2018-07-09-delancey/), without securing the minimum amount required by its own policies.
 
@@ -34,7 +34,7 @@ As it is it looks as if Southwark intends to sacrifice trader's interests, again
 
 According to [the report](http://moderngov.southwark.gov.uk/documents/s88163/Report%20EC%20CPO.pdf), Southwark intends to indemnify itself against any mishaps in its CPO arrangements with Delancey, including, amongst other things, a requirement that there be a _'reasonable prospect of the development of that area being delivered in a reasonable time frame'_ [^7].
 
-Any sensible person, or local authority, must now see that this is unlikely, given the coronavirus crisis and it multi-dimensional impact.  Southwark should at the very least defer consideration of taking further CPO powers and any purchase of the shopping centre and UAL, on any terms. At the same time it should use its resources to maintain and improve support of the traders and inssiting Delancey do the same, if it wishes to have the benefit of CPO powers at some time on the future.
+Any sensible person, or local authority, must now see that this is unlikely, given the coronavirus crisis and it multi-dimensional impact.  Southwark should at the very least defer consideration of taking up CPO powers or any purchase of the shopping centre and UAL, on any terms. At the same time it should use its resources to maintain and improve support of the traders and inssiting Delancey do the same, if it wishes to have the benefit of CPO powers at some time on the future.
 
 ## Finally, see this..
 
