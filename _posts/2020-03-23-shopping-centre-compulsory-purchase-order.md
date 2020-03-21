@@ -30,7 +30,7 @@ As it is it looks as if Southwark intends to sacrifice trader's interests, in fa
 
 ## The coronavirus risk
 
-Southwark intends to indemnify itself against any mishaps in its CPO arrangements with Delancey, including, amongst other things, a requirement that there be a reasonable prospect of development going ahead in a reasonable timefrome'.  Any sensible person, or local authority, must now see that this is unlikely, given the coronavirus crisis and it multi-dimensional impact.  Southwark should at the very least defer consideration of taking further CPO powers and any purchase of the shopping centre and UAL, on any terms. At the same time it should use its resources to maintain and improve support of the traders and inssiting Delancey do the same, if it wishes to have the benefit of CPO powers at some time on the future.
+According to the reports, Southwark intends to indemnify itself against any mishaps in its CPO arrangements with Delancey, including, amongst other things, a requirement that there be a reasonable prospect of development going ahead in a reasonable timefrome'.  Any sensible person, or local authority, must now see that this is unlikely, given the coronavirus crisis and it multi-dimensional impact.  Southwark should at the very least defer consideration of taking further CPO powers and any purchase of the shopping centre and UAL, on any terms. At the same time it should use its resources to maintain and improve support of the traders and inssiting Delancey do the same, if it wishes to have the benefit of CPO powers at some time on the future.
 
 
 Last week the BBC [ran a feature](https://twitter.com/LatinElephant/status/1239870649851613185) on the last remaining traders at Elephant & Castle shopping centre.
