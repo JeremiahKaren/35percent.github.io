@@ -10,7 +10,7 @@ The purchase of the shopping centre and LCC is part of a legal manoeuvre, vestin
 
 The CPO powers are needed because Delancey has yet to secure full control of the whole development site and is still in negotiations with a long list of the so-called third-party 'interests' (traders, UAL, Transport for London, London Underground Limited, Network Rail and the Arches Company). Southwark will buy-out those who have these interests (eg a lease), at Delancey's request, if no agreement can be reached with them.  The CPO threat is also designed to strengthen Delancey's negotiating hand.
 
-Southwark say that both measures can be done at no cost to itself, with Delancey ultimately meeting all costs, but no figures are provided in the three publicly available reports, detailing the arrangements. Decisions on both measures will be made at a video-call Cabinet meeting next Tuesday, 24 March.
+Southwark say that both measures can be done at no cost to itself, with Delancey ultimately meeting all costs, but no figures are provided in the [three publicly available reports](http://moderngov.southwark.gov.uk/ieListDocuments.aspx?CId=302&MId=6420&Ver=4), detailing the arrangements. Decisions on both measures will be made at a video-call Cabinet meeting [next Tuesday, 24 March](http://moderngov.southwark.gov.uk/ieListDocuments.aspx?CId=302&MId=6420&Ver=4).
 
 ## Will the scheme ever happen?
 
