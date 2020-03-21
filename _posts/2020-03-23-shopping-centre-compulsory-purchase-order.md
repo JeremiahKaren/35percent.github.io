@@ -24,7 +24,7 @@ This has never happened; such [relocation benefits](https://www.southwark.gov.uk
 
 ## Southwark has always had the power
 
-By Southwark's own account the scheme may well not go forward without CPO powers, because Delancey is unwilling to bear the risk of the uncertainty created by its abscence, given its _'enormous capital investment in the Scheme'_ and in addition _'any prudent funder of the Scheme is also unlikely to fund the Scheme whilst that uncertainty persists'_ (Item 24, para 57).
+By Southwark's own account the scheme may well not go forward unless it adopts CPO powers, because Delancey is unwilling to bear the risk of the uncertainty created by its abscence, given its _'enormous capital investment in the Scheme'_ and in addition _'any prudent funder of the Scheme is also unlikely to fund the Scheme whilst that uncertainty persists'_ [^5].
 
 Southwark therefore has had a great deal of legitimate leverage.  It was clear from the very start that Delancey had little intention of retaining anymore than the minimum of resident traders, describing them as 'benefiting from disproportionately low levels of rent' and unlikely 'to survive....over the longer term' (Planning Statement 8.7). Southwark should have been equally clear that any anticipated use of CPO powers would be dependant on fufilling the requirement that 'relevant occupiers' ie the traders were given the opportunity to stay in the new development.
 
@@ -34,7 +34,7 @@ As it is it looks as if Southwark intends to sacrifice trader's interests, in fa
 
 According to the reports, Southwark intends to indemnify itself against any mishaps in its CPO arrangements with Delancey, including, amongst other things, a requirement that there be a reasonable prospect of development going ahead in a reasonable timefrome'.  Any sensible person, or local authority, must now see that this is unlikely, given the coronavirus crisis and it multi-dimensional impact.  Southwark should at the very least defer consideration of taking further CPO powers and any purchase of the shopping centre and UAL, on any terms. At the same time it should use its resources to maintain and improve support of the traders and inssiting Delancey do the same, if it wishes to have the benefit of CPO powers at some time on the future.
 
-## See this..
+## Finally, see this..
 
 ....the BBC [report on the last remaining traders](https://twitter.com/LatinElephant/status/1239870649851613185) at Elephant & Castle shopping centre.
 
@@ -55,3 +55,5 @@ The CPO report lauds the public benefits of the scheme like the new tube station
 [^3]: See para 76 [Report: E&C CPO](http://moderngov.southwark.gov.uk/documents/s88163/Report%20EC%20CPO.pdf)
 
 [^4]: See para 81 [Report: E&C CPO](http://moderngov.southwark.gov.uk/documents/s88163/Report%20EC%20CPO.pdf)
+
+[^5]: See para 57 [Report: E&C CPO](http://moderngov.southwark.gov.uk/documents/s88163/Report%20EC%20CPO.pdf)
