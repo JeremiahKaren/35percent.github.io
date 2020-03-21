@@ -24,7 +24,7 @@ This has never happened; such [relocation benefits](https://www.southwark.gov.uk
 
 ## Southwark has always had the power
 
-By Southwark's own account the scheme may well not go forward unless it adopts CPO powers, because Delancey is unwilling to bear the risk of the uncertainty created by its abscence, given its _'enormous capital investment in the Scheme'_ and in addition _'any prudent funder of the Scheme is also unlikely to fund the Scheme whilst that uncertainty persists'_ [^5].
+By Southwark's own account the scheme may well not go forward unless it adopts CPO powers, because Delancey is unwilling to bear the risk of the uncertainty created by its abscence, given its _'enormous capital investment in the Scheme'_ and in addition _'any prudent funder of the Scheme is also unlikely to fund the Scheme whilst that uncertainty persists'_. [^5]
 
 Southwark therefore has had a great deal of legitimate leverage.  It was clear from the very start, back in 2016, that Delancey had little intention of retaining resident traders in the new redevelopment, describing them as _'benefiting from disproportionately low levels of rent'_ and unlikely _'to survive....over the longer term'_. [^6] Southwark should have made it clear then that any anticipated use of CPO powers would be dependant on fufilling the requirement that _'relevant occupiers'_ ie the traders were given the opportunity to stay in the new development.
 
