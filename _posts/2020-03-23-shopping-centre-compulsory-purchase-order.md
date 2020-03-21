@@ -32,15 +32,13 @@ As it is it looks as if Southwark intends to sacrifice trader's interests, in fa
 
 According to the reports, Southwark intends to indemnify itself against any mishaps in its CPO arrangements with Delancey, including, amongst other things, a requirement that there be a reasonable prospect of development going ahead in a reasonable timefrome'.  Any sensible person, or local authority, must now see that this is unlikely, given the coronavirus crisis and it multi-dimensional impact.  Southwark should at the very least defer consideration of taking further CPO powers and any purchase of the shopping centre and UAL, on any terms. At the same time it should use its resources to maintain and improve support of the traders and inssiting Delancey do the same, if it wishes to have the benefit of CPO powers at some time on the future.
 
+## See this..
 
-Last week the BBC [ran a feature](https://twitter.com/LatinElephant/status/1239870649851613185) on the last remaining traders at Elephant & Castle shopping centre.
+....the BBC [report on the last remaining traders](https://twitter.com/LatinElephant/status/1239870649851613185) at Elephant & Castle shopping centre.
 
 ![](http://35percent.org/img/tradersbbc.png)
 
-Buried in this week's Council papers is the news that the Council is purchasing the shopping centre from developer Delancey in order to remove the last remaining traders. 
 
-## Delancey is not the developer!
-The developer is in fact a shell company registered in the British Virgin Islands. Delancey is just 'advising' the shell company..
 
 ![](http://35percent.org/img/bvidelancey.png)
 
