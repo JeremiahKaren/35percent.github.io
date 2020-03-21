@@ -12,7 +12,7 @@ The CPO powers are needed because Delancey has yet to secure full control of the
 
 Southwark say that both measures can be done at no cost to itself, with Delancey ultimately meeting all costs, but no figures are provided in the three publicly available reports, detailing the arrangements. Decisions on both measures will be made at a Cabinet meeting next Tuesday, 24 March.
 
-The main justicafication for the measures is to ensure the success of the development.  Council officers advise that if they are not adopted Council officers warn that Delancey will not secure the _'enormous funding'_ the scheme requires.
+The main justification for the measures is to ensure the success of the development.  Council officers advise that if they are not adopted that Delancey will not secure the _'enormous funding'_ the scheme requires and the site could lie empty for years.
 
 
 
