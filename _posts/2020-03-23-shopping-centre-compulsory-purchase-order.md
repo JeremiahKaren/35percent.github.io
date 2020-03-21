@@ -17,7 +17,10 @@ Southwark say that both measures can be done at no cost to itself, with Delancey
 The main justification for the measures is to ensure the success of the development.  Council officers advise that if they are not adopted Delancey may meet delays and will not secure the _'enormous funding'_ the scheme requires and then the site could lie empty for years.
 
 Despite this worry officers are nonetheless sure enough that the development will go ahead not to require any guarantee from Delancey that they will proceed with the scheme, even if Southwark does Delancey's will, by execising CPO powers and interferring with third-party rights to light.  The CPO report says _it is not
-necessary to impose... an obligation to build the Scheme as the measures negotiated for inclusion in the indemnity agreement give the Council comfort that EC is likely to proceed with the Scheme._ 
+necessary to impose... an obligation to build the Scheme as the measures negotiated for inclusion in the indemnity agreement give the Council comfort that EC is likely to proceed with the Scheme._
+
+Southwark takes a similiarly cavalier approach towards the traders interests, again to Delancey's benefit.  Under CPO legislation Southwark is required _'to exercise its power...in a manner which, so far as practicable, secures that relevant occupiers of that land are provided with a suitable opportunity to obtain accommodation on the land in question'_.  This has never happened; at least half the traders still have no new premises and those that have will be re-housed off-site, with only some (those in Castle Square) having the smallest posssibility of _'accommodation of the land in question'_.  Such relocation benefits that there are (eg Castle Square, the relocation fund) have been won by the traders and local camapigners and owe little to Southwark Council's efforts.
+
 
 
 
