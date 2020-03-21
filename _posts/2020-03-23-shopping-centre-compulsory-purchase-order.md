@@ -4,11 +4,11 @@ title: Council seeks CPO powers and to 'buy' E&C shopping centre and LCC
 subtitle: Council to approve compulsory purchase of shopping centre traders
 published: false
 ---
-In an extraordinary move Southwark Council is poised to 'buy' both the Elephant and Castle shopping centre and the London College of Communication from current owners, developer Delancey and and the University of the Arts London (UAL).  It is also ready to assume Compulsory Purchase Order (CPO) powers over the redevelopment site, on behalf of Delancey[^1].  
+In an extraordinary move Southwark Council is poised to 'buy' both the Elephant and Castle shopping centre and the London College of Communication from current owners, developer Delancey and and the University of the Arts London (UAL).  It is also ready to assume Compulsory Purchase Order (CPO) powers over the redevelopment site, on behalf of Delancey. [^1]  
 
-The purchase of the shopping centre and LCC is part of a legal manoeuvre, vesting ownership in a public body, that will overide the rights of those whose light will be effected by the redevelopment of the two sites.  A leasing arrangement will allow both sites to return to Delancey and UAL control [^2].    
+The purchase of the shopping centre and LCC is part of a legal manoeuvre, vesting ownership in a public body, that will overide the rights of those whose light will be effected by the redevelopment of the two sites.  A leasing arrangement will allow both sites to return to Delancey and UAL control. [^2]    
 
-The CPO powers are needed because Delancey has yet to secure full control of the whole development site and is still in negotiations with a long list of the so-called third-party 'interests' (traders, UAL, Transport for London, London Underground Limited, Network Rail and the Arches Company). Southwark will buy-out those who have these interests (eg a lease), at Delancey's request, if no agreement can be reached with them.  The CPO threat is also designed to strengthen Delancey's negotiating hand.
+The CPO powers are needed because Delancey has yet to secure full control of the whole development site and is still in negotiations with a long list of the so-called [third-party 'interests'](http://moderngov.southwark.gov.uk/documents/s88166/Appendix%20C.pdf) (traders, UAL, Transport for London, London Underground Limited, Network Rail and the Arches Company). Southwark will buy-out those who have these interests (eg a lease), at Delancey's request, if no agreement can be reached with them.  The CPO threat will undoubtedly also strengthen Delancey's negotiating hand. [^3] para 80, 59,
 
 Southwark say that both measures can be done at no cost to itself, with Delancey ultimately meeting all costs, but no figures are provided in the [three publicly available reports](http://moderngov.southwark.gov.uk/ieListDocuments.aspx?CId=302&MId=6420&Ver=4), detailing the arrangements. Decisions on both measures will be made at a video-call Cabinet meeting [next Tuesday, 24 March](http://moderngov.southwark.gov.uk/ieListDocuments.aspx?CId=302&MId=6420&Ver=4).
 
@@ -54,7 +54,9 @@ The CPO report lauds the public benefits of the scheme like the new tube station
 
 [^2]: See paras. 1,2 & 12 [Report: E&C Property Rights](http://moderngov.southwark.gov.uk/documents/s88172/Report%20EC%20Property%20Rights.pdf)
 
-[^3]: See para 76 [Report: E&C CPO](http://moderngov.southwark.gov.uk/documents/s88163/Report%20EC%20CPO.pdf)
+[^3]: 
+
+See para 76 [Report: E&C CPO](http://moderngov.southwark.gov.uk/documents/s88163/Report%20EC%20CPO.pdf)
 
 [^4]: See para 81 [Report: E&C CPO](http://moderngov.southwark.gov.uk/documents/s88163/Report%20EC%20CPO.pdf)
 
