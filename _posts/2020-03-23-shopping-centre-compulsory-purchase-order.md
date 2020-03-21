@@ -4,7 +4,7 @@ title: Council seeks CPO powers and to 'buy' E&C shopping centre and UAL buildin
 subtitle: Council to approve compulsory purchase of shopping centre traders
 published: false
 ---
-Southwark Council is poised to 'buy' the site of the Elephant and Castle shopping centre redevelopment from current owners, developer Delancey and and the London College of Communication (LCC) respectively.  It is also ready to assume Compulsory Purchase Order (CPO) powers over the redevelopment site, on behalf of Delancey[^1].  
+In an extraordinary move Southwark Council is poised to 'buy' the site of the Elephant and Castle shopping centre redevelopment from current owners, developer Delancey and and the London College of Communication (LCC) respectively.  It is also ready to assume Compulsory Purchase Order (CPO) powers over the redevelopment site, on behalf of Delancey[^1].  
 
 The purchase of the shopping centre and LCC is part of a legal maneuvre that will overide the rights of those whose light will be effected by the redevelopment of the two sites. A leasing arrangement will allow both sites to return to Delancey and UAL control.    
 
