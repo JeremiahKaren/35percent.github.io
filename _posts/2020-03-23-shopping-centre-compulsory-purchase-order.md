@@ -8,7 +8,7 @@ In an extraordinary move Southwark Council is poised to 'buy' both the Elephant 
 
 The purchase of the shopping centre and LCC is part of a legal manouvre that will overide the rights of those whose light will be effected by the redevelopment of the two sites. A leasing arrangement will allow both sites to return to Delancey and UAL control.    
 
-The CPO powers are needed because Delancey has yet to secure full control of the whole development site and is still in negotiations with a long list of the so-called third-party 'interests'(traders, UAL, Transport for London, London Underground Limited, Network Rail and the Arches Company). Southwark will buy-out any traders or others who have an interest (eg a lease) in the shopping centre, at Delancey's request, if no agreement can be reached with them.  The CPO threat is also designed to strengthen Delancey's negotiating hand.
+The CPO powers are needed because Delancey has yet to secure full control of the whole development site and is still in negotiations with a long list of the so-called third-party 'interests' (traders, UAL, Transport for London, London Underground Limited, Network Rail and the Arches Company). Southwark will buy-out any traders or others who have an interest (eg a lease) in the shopping centre, at Delancey's request, if no agreement can be reached with them.  The CPO threat is also designed to strengthen Delancey's negotiating hand.
 
 Southwark say that both measures can be done at no cost to itself, with Delancey ultimately meeting all costs, but no figures are provided in the three publicly available reports, detailing the arrangements. Decisions on both measures will be made at a Cabinet meeting next Tuesday, 24 March.
 
