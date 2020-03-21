@@ -34,7 +34,7 @@ As it is it looks as if Southwark intends to sacrifice trader's interests, again
 
 According to [the report](http://moderngov.southwark.gov.uk/documents/s88163/Report%20EC%20CPO.pdf), Southwark intends to indemnify itself against any mishaps in its CPO arrangements with Delancey, including, amongst other things, a requirement that there be a _'reasonable prospect of the development of that area being delivered in a reasonable time frame'_ [^7].
 
-Any sensible person, or local authority, must now see that this is unlikely, given the coronavirus crisis and it multi-dimensional impact.  Southwark should at the very least defer consideration of taking up CPO powers and the purchase of the shopping centre and the LCC sites, on any terms. At the same time it should use its resources to maintain and improve support of the traders and inssiting Delancey do the same, if it wishes to have the benefit of CPO powers at some time on the future.
+Any sensible person, or local authority, must now see that this is unlikely, given the coronavirus crisis and it multi-dimensional impact.  Southwark should at the very least defer consideration of taking up CPO powers and the purchase of the shopping centre and the LCC sites, on any terms. At the same time it should use its resources to maintain and improve support of the traders and insist that Delancey do the same, if it wishes to have the benefit of CPO powers at some time on the future.
 
 ## Finally, see this..
 
