@@ -4,13 +4,11 @@ title: Council seeks CPO powers and to 'buy' E&C shopping centre and UAL buildin
 subtitle: Council to approve compulsory purchase of shopping centre traders
 published: false
 ---
-In an extraordinary move Southwark Council is poised to 'buy' the site of the Elephant and Castle shopping centre redevelopment from current owners, developer Delancey and and the London College of Communication (LCC) respectively.  It is also ready to assume Compulsory Purchase Order (CPO) powers over the redevelopment site, on behalf of Delancey[^1].  
+In an extraordinary move Southwark Council is poised to 'buy' the site of the Elephant and Castle shopping centre redevelopment from current owners, developer Delancey and and the University of the Arts London (UAL) respectively.  It is also ready to assume Compulsory Purchase Order (CPO) powers over the redevelopment site, on behalf of Delancey[^1].  
 
 The purchase of the shopping centre and LCC is part of a legal maneuvre that will overide the rights of those whose light will be effected by the redevelopment of the two sites. A leasing arrangement will allow both sites to return to Delancey and UAL control.    
 
-The CPO is needed because Delancey has yet to secure full control of the whole development site and is still in negotiations with a long list of the so-called third-party 'interests' which include traders, UAL, Transport for London, London Underground Limited, Network Rail and the Arches Company, 
-
-The CPO powers require Southwark to buy out any traders or others who have an interest in the shopping centre, at Delancey's request, if no agreement can be reached with them, Delancey to reimburse the cost.  It is also designed to strengthen Delancey's negotiating hand.
+The CPO powers are needed because Delancey has yet to secure full control of the whole development site and is still in negotiations with a long list of the so-called third-party 'interests'(traders, UAL, Transport for London, London Underground Limited, Network Rail and the Arches Company). Southwark will buy-out any traders or others who have an interest in the shopping centre, at Delancey's request, if no agreement can be reached with them.  The CPO is also designed to strengthen Delancey's negotiating hand.
 
 Southwark say that both measures can be done at no cost to itself, with Delancey ultimately meeting all costs, but no figures are provided in the three publicly available reports, detailing the arrangements. Decisions on both measures will be made at a Cabinet meeting next Tuesday, 24 March.
 
