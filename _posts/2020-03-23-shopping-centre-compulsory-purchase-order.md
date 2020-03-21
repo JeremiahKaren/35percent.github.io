@@ -26,7 +26,7 @@ This has never happened; such [relocation benefits](https://www.southwark.gov.uk
 
 By Southwark's own account the scheme may well not go forward unless it adopts CPO powers, because Delancey is unwilling to bear the risk of the uncertainty created by its abscence, given its _'enormous capital investment in the Scheme'_ and in addition _'any prudent funder of the Scheme is also unlikely to fund the Scheme whilst that uncertainty persists'_ [^5].
 
-Southwark therefore has had a great deal of legitimate leverage.  It was clear from the very start that Delancey had little intention of retaining anymore than the minimum of resident traders, describing them as 'benefiting from disproportionately low levels of rent' and unlikely 'to survive....over the longer term' (Planning Statement 8.7). Southwark should have been equally clear that any anticipated use of CPO powers would be dependant on fufilling the requirement that 'relevant occupiers' ie the traders were given the opportunity to stay in the new development.
+Southwark therefore has had a great deal of legitimate leverage.  It was clear from the very start that Delancey had little intention of retaining in the new redevelopment, describing them as _'benefiting from disproportionately low levels of rent'_ and unlikely _'to survive....over the longer term'_ (Planning Statement 8.7). [^6] Southwark should have been equally clear at that point that any anticipated use of CPO powers would be dependant on fufilling the requirement that 'relevant occupiers' ie the traders were given the opportunity to stay in the new development.
 
 As it is it looks as if Southwark intends to sacrifice trader's interests, in favour of Delancey, just as it sacrificed those of the many who depend on an affordable housing,when it granted Delancey planning permission, without securing the minimum amount of social rented housing.
 
@@ -57,3 +57,5 @@ The CPO report lauds the public benefits of the scheme like the new tube station
 [^4]: See para 81 [Report: E&C CPO](http://moderngov.southwark.gov.uk/documents/s88163/Report%20EC%20CPO.pdf)
 
 [^5]: See para 57 [Report: E&C CPO](http://moderngov.southwark.gov.uk/documents/s88163/Report%20EC%20CPO.pdf)
+
+[^6]: See 8.7 [Planning Statement](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!LnbCaTCiMmUoN4H%2fUA2yyg%3d%3d!%7d%7d%7d)
