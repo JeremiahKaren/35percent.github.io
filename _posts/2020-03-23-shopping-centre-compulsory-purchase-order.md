@@ -10,11 +10,11 @@ The purchase of the shopping centre and LCC is part of a legal manouvre that wil
 
 The CPO powers are needed because Delancey has yet to secure full control of the whole development site and is still in negotiations with a long list of the so-called third-party 'interests' (traders, UAL, Transport for London, London Underground Limited, Network Rail and the Arches Company). Southwark will buy-out those who have these interests (eg a lease), at Delancey's request, if no agreement can be reached with them.  The CPO threat is also designed to strengthen Delancey's negotiating hand.
 
-Southwark say that both measures can be done at no cost to itself, with Delancey ultimately meeting all costs, but no figures are provided in the three publicly available reports, detailing the arrangements. Decisions on both measures will be made at a Cabinet meeting next Tuesday, 24 March.
+Southwark say that both measures can be done at no cost to itself, with Delancey ultimately meeting all costs, but no figures are provided in the three publicly available reports, detailing the arrangements. Decisions on both measures will be made at a video-call Cabinet meeting next Tuesday, 24 March.
 
 ## Will the scheme ever happen?
 
-The main justification for the measures is to ensure the success of the development.  Council officers advise that if they are not adopted Delancey may meet delays and will not secure the _'enormous funding'_ the scheme requires and then the site could lie empty for years.
+The main justification for the proposed measures is to ensure the success of the development.  Council officers advise that if they are not adopted Delancey may meet delays and will not secure the _'enormous funding'_ the scheme requires and then the site could lie empty for years.
 
 Despite this worry officers are nonetheless sure enough that the development will go ahead not to require any guarantee from Delancey that they will proceed with the scheme, even if Southwark does Delancey's will, by execising CPO powers and interferring with third-party rights to light.  The CPO report complacently says '_it is not necessary to impose... an obligation to build the Scheme as the measures negotiated for inclusion in the indemnity agreement give the Council comfort that EC is likely to proceed with the Scheme._'
 
