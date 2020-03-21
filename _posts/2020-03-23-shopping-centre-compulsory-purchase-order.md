@@ -6,7 +6,7 @@ published: false
 ---
 In an extraordinary move Southwark Council is poised to 'buy' both the Elephant and Castle shopping centre and the London College of Communication from current owners, developer Delancey and the University of the Arts London (UAL).  It is also ready to assume Compulsory Purchase Order (CPO) powers over the redevelopment site, on behalf of Delancey. [^1]  
 
-The purchase of the shopping centre and LCC land is part of a legal manoeuvre, vesting ownership in a public body, that will override the rights of those whose light will be effected by the redevelopment of the two sites.  A leasing arrangement will allow both sites to return to Delancey and UAL control. [^2]    
+The purchase of the shopping centre and LCC land is part of a legal manoeuvre, vesting ownership in a public body, that will override the rights of those whose light will be affected by the redevelopment of the two sites.  A leasing arrangement will allow both sites to return to Delancey and UAL control. [^2]    
 
 The CPO powers are needed because Delancey has yet to secure full control of the whole development site and is still in negotiations with a long list of the so-called [third-party 'interests'](http://moderngov.southwark.gov.uk/documents/s88166/Appendix%20C.pdf) (traders, UAL, Transport for London, London Underground Limited, Network Rail and the Arches Company). Southwark will buy-out those who have these interests (eg a lease), at Delancey's request, if no agreement can be reached with them.  The CPO threat will undoubtedly also strengthen Delancey's negotiating hand. [^3] 
 
