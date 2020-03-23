@@ -50,7 +50,7 @@ Any sensible person, or local authority, must now see that this is unlikely, giv
 
 __Footnotes:__  
 
-[^1]: According to Southwark, Delancey is not the developer, but rather the advisor to the so-called 'Triangle Partnership', which is the Dutch pension fund APG; QDHK Holdngs Ltd Partnership and Door SLP. There are further partnerships within this Triangle, detailed in the [Report: E&C CPO](http://moderngov.southwark.gov.uk/documents/s88163/Report%20EC%20CPO.pdf) para 12.  Southwark refer to the developer as Elephant & Castle Properties Co. Limited ("EC").  We continue to refer to the developer by the commonly known name of 'Delancey'.
+[^1]: According to Southwark, Delancey is not the developer, but rather the advisor to the so-called 'Triangle Partnership', which is a partnership between the Dutch pension fund APG; Qatari Diar and Door SLP (a joint venture involving Delancey's [DV4 offshore property fund](http://crappistmartin.github.io/images/PrivateEyeNo1311.pdf)). There are further partnerships within this Triangle, detailed in the [Report: E&C CPO](http://moderngov.southwark.gov.uk/documents/s88163/Report%20EC%20CPO.pdf) para 12.  Southwark refer to the developer as Elephant & Castle Properties Co. Limited ("EC") [registered offshore in the BVI](http://35percent.org/2014-05-05-manx-connections-the-off-shore-home-of-the-elephants-developers/).  We continue to refer to the developer by the commonly known name of 'Delancey'.
 
 [^2]: See paras. 80, 59 [Report: E&C CPO](http://moderngov.southwark.gov.uk/documents/s88163/Report%20EC%20CPO.pdf)
 
