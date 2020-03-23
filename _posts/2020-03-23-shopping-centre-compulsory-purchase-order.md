@@ -1,8 +1,11 @@
 ---
 layout: post
-title: Council seeks CPO powers and to 'buy' E&C shopping centre and LCC
-subtitle: Council to approve compulsory purchase of shopping centre traders
-published: false
+title: Council to remove remaining shopping centre traders using CPO powers
+subtitle: >-
+  Council to approve compulsory purchase of shopping centre traders and buy
+  LCC/shopping centre sites
+published: true
+date: '2020-03-23'
 ---
 In an extraordinary move Southwark Council is poised to 'buy' both the Elephant and Castle shopping centre and the London College of Communication from current owners, developer Delancey and the University of the Arts London (UAL).  It is also excercising Compulsory Purchase Order (CPO) powers over the shopping centre site, on behalf of Delancey's [British Virgin Islands registered offshore subsidiary](http://35percent.org/2014-05-05-manx-connections-the-off-shore-home-of-the-elephants-developers/). [^1]
 
@@ -27,7 +30,7 @@ The contrast between Southwark's favourable treatment of Delancey, (a property d
 
 ![](http://35percent.org/img/Jamie-Ritblat-Cllr-Dora-Dixon-Fyle.jpg)
 
-This hasn't happened; such [relocation benefits](https://www.southwark.gov.uk/regeneration/elephant-and-castle?chapter=20) as there are (eg the [£634,700 relocation fund](https://www.southwarknews.co.uk/news/developer-delancey-submits-plans-for-castle-square-temporary-home-for-elephant-traders/), the [£200k New Home Bonus Fund](http://moderngov.southwark.gov.uk/documents/s88157/Report%20EC%20Shopping%20Centre%20Progress.pdf)) have been won by the traders and local campaigners and owe little to Southwark Council's efforts. Even with these gains, 60 traders [still have no new premises](http://35percent.org/2020-01-20-elephant-traders-still-homeless/) and those who do will be re-housed off-site, with only some (those in [Castle Square](https://www.southwarknews.co.uk/news/developer-delancey-submits-plans-for-castle-square-temporary-home-for-elephant-traders/)) having the smallest possibility of _'accommodation on the land in question'_.
+This hasn't happened; such [relocation benefits](https://www.southwark.gov.uk/regeneration/elephant-and-castle?chapter=20) as there are (eg the [£634,700 relocation fund](https://www.southwarknews.co.uk/news/developer-delancey-submits-plans-for-castle-square-temporary-home-for-elephant-traders/), the [£200k New Home Bonus Fund](http://moderngov.southwark.gov.uk/documents/s88157/Report%20EC%20Shopping%20Centre%20Progress.pdf)) have been won by the traders and local campaigners and owe little to Southwark Council's efforts. Even with these gains, 60 traders [still have no new premises](http://35percent.org/2020-01-20-elephant-traders-still-homeless/) and those who do will be re-housed off-site, with only some (those in [Castle Square](https://www.southwarknews.co.uk/news/developer-delancey-submits-plans-for-castle-square-temporary-home-for-elephant-traders/)) having the smallest possibility of _'accommodation on the land in question'_. Just last week the BBC ran a [feature on the plight of the remaining traders]((https://twitter.com/LatinElephant/status/1239870649851613185)).
 
 ## Southwark has always had the power
 
@@ -44,12 +47,6 @@ As it is, it looks as if Southwark intends to sacrifice trader's interests, agai
 According to [the CPO report](http://moderngov.southwark.gov.uk/documents/s88163/Report%20EC%20CPO.pdf), Southwark intends to indemnify itself against any mishaps in its CPO arrangements with Delancey, including, amongst other things, a requirement that there be a _'reasonable prospect of the development of that area being delivered in a reasonable time frame'_ [^8].
 
 Any sensible person, or local authority, must now see that this is unlikely, given the coronavirus crisis and it multi-dimensional impact.  Southwark should at the very least defer consideration of exercising CPO powers and the purchase of the shopping centre and the LCC sites, on any terms. At the same time, Southwark should use its resources to maintain and improve support for the traders and insist that Delancey do the same, if it wishes to have the benefit of Southwark's CPO powers at some time in the future.
-
-## Finally, see this..
-
-....the BBC [report on the last remaining traders](https://twitter.com/LatinElephant/status/1239870649851613185) at Elephant & Castle shopping centre.
-
-![](http://35percent.org/img/tradersbbc.png)
 
 __Footnotes:__
 [^1]: According to Southwark, Delancey is not the developer, but rather the advisor to the so-called 'Triangle Partnership', which is the Dutch pension fund APG; QDHK Holdngs Ltd Partnership and Door SLP. There are further partnerships within this Triangle, detailed in the [Report: E&C CPO](http://moderngov.southwark.gov.uk/documents/s88163/Report%20EC%20CPO.pdf) para 12.  Southwark refer to the developer as Elephant & Castle Properties Co. Limited ("EC").  We continue to refer to the developer by the commonly known name of 'Delancey'.
