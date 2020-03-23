@@ -4,17 +4,17 @@ title: Council seeks CPO powers and to 'buy' E&C shopping centre and LCC
 subtitle: Council to approve compulsory purchase of shopping centre traders
 published: false
 ---
-In an extraordinary move Southwark Council is poised to 'buy' both the Elephant and Castle shopping centre and the London College of Communication from current owners, developer Delancey and the University of the Arts London (UAL).  It is also excercising Compulsory Purchase Order (CPO) powers over the shopping centre site, on behalf of Delancey. [^1]
+In an extraordinary move Southwark Council is poised to 'buy' both the Elephant and Castle shopping centre and the London College of Communication from current owners, developer Delancey and the University of the Arts London (UAL).  It is also excercising Compulsory Purchase Order (CPO) powers over the shopping centre site, on behalf of Delancey's [British Virgin Islands registered offshore subsidiary](http://35percent.org/2014-05-05-manx-connections-the-off-shore-home-of-the-elephants-developers/). [^1]
 
 ![](http://35percent.org/images/elephant_castle.jpg)
 
 The purchase of the shopping centre and LCC land is part of a legal manoeuvre, vesting ownership in a public body, that will override the rights of those whose light will be affected by the redevelopment of the two sites.  A leasing arrangement will allow both sites to return to Delancey and UAL once the CPO process is complete. [^2]
 
+The CPO powers are needed because Delancey has failed to reach agreement with 11 of the remaining shopping centre traders who have secure tenancies and several other so-called [third-party 'interests'](http://moderngov.southwark.gov.uk/documents/s88166/Appendix%20C.pdf) including land owned by Transport for London and arches owned by Network Rail/Arches company. [^3] 
+
 ![](http://35percent.org/images/cposcreenshot.png)
 
-The CPO powers are needed because Delancey has yet to reach agreement with all of the 11 remaining shopping centre traders with long leases and several other so-called [third-party 'interests'](http://moderngov.southwark.gov.uk/documents/s88166/Appendix%20C.pdf) including land owned by Transport for London and arches owned by Network Rail/Arches company. [^3] 
-
-Southwark say that both measures can be done at no cost to itself (except for officer time) with Delancey indemnifying costs, but no figures are provided in the [three publicly available reports](http://moderngov.southwark.gov.uk/ieListDocuments.aspx?CId=302&MId=6420&Ver=4) detailing the arrangements and the indemnity agreement has not been made public. Decisions on both measures will be made at a video-call Cabinet meeting [tomorrow - Tuesday, 24 March](http://moderngov.southwark.gov.uk/ieListDocuments.aspx?CId=302&MId=6420&Ver=4).
+Southwark say that both measures will ultimately result in no cost being incurred to itself (except for officer time plus a proportion of any public inquiry costs) with Delancey indemnifying all other costs, but no figures are provided in the [three publicly available reports](http://moderngov.southwark.gov.uk/ieListDocuments.aspx?CId=302&MId=6420&Ver=4) detailing the purchase arrangements and the indemnity agreement has not been made public. Decisions on both measures will be made at a video-call Cabinet meeting [tomorrow - Tuesday, 24 March](http://moderngov.southwark.gov.uk/ieListDocuments.aspx?CId=302&MId=6420&Ver=4).
 
 ## Will the scheme ever happen?
 
@@ -35,6 +35,8 @@ By Southwark's own account the scheme may well not go forward unless it exercise
 
 Southwark therefore has had a great deal of legitimate leverage.  It was clear when Delancey first submitted [its planning application](https://planning.southwark.gov.uk/online-applications-old/applicationDetails.do?activeTab=externalDocuments&keyVal=_STHWR_DCAPR_9569810) for the shopping centre's redevelopment back in 2016, that there was little intention of retaining resident traders in the new redevelopment.  When Delancey described the traders as _'benefiting from disproportionately low levels of rent'_ and unlikely _'to survive....over the longer term'_. [^7] Southwark should have made it clear then that [any anticipated use of CPO powers](http://35percent.org/2015-11-04-southwark-resolves-to-use-cpo-powers-for-shopping-centre-retailers/) would be dependent on fulfilling the requirement that _'relevant occupiers'_ ie the traders be given the opportunity to stay in the new development.
 
+![](http://35percent.org/img/traderscomp.jpeg)
+
 As it is, it looks as if Southwark intends to sacrifice trader's interests, again, in favour of Delancey, just as it sacrificed those who depend on social rented housing, when it [granted Delancey planning permission](http://35percent.org/2018-07-09-delancey/), without securing the minimum amount required by its own policies.
 
 ## The coronavirus risk
@@ -49,12 +51,7 @@ Any sensible person, or local authority, must now see that this is unlikely, giv
 
 ![](http://35percent.org/img/tradersbbc.png)
 
-
-
-![](http://35percent.org/img/bvidelancey.png)
-
-
-
+__Footnotes:__
 [^1]: According to Southwark, Delancey is not the developer, but rather the advisor to the so-called 'Triangle Partnership', which is the Dutch pension fund APG; QDHK Holdngs Ltd Partnership and Door SLP. There are further partnerships within this Triangle, detailed in the [Report: E&C CPO](http://moderngov.southwark.gov.uk/documents/s88163/Report%20EC%20CPO.pdf) para 12.  Southwark refer to the developer as Elephant & Castle Properties Co. Limited ("EC").  We continue to refer to the developer by the commonly known name of 'Delancey'.
 
 [^2]: See paras. 1,2 & 12 [Report: E&C Property Rights](http://moderngov.southwark.gov.uk/documents/s88172/Report%20EC%20Property%20Rights.pdf)
