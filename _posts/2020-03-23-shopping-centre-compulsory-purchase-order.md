@@ -6,9 +6,11 @@ published: false
 ---
 In an extraordinary move Southwark Council is poised to 'buy' both the Elephant and Castle shopping centre and the London College of Communication from current owners, developer Delancey and the University of the Arts London (UAL).  It is also excercising Compulsory Purchase Order (CPO) powers over the shopping centre site, on behalf of Delancey. [^1]
 
-![](http://35percent.org/img/shoppingcentrelr.png)
+![](http://35percent.org/images/elephant_castle.jpg)
 
-The purchase of the shopping centre and LCC land is part of a legal manoeuvre, vesting ownership in a public body, that will override the rights of those whose light will be affected by the redevelopment of the two sites.  A leasing arrangement will allow both sites to return to Delancey and UAL once the CPO process is complete. [^2]    
+The purchase of the shopping centre and LCC land is part of a legal manoeuvre, vesting ownership in a public body, that will override the rights of those whose light will be affected by the redevelopment of the two sites.  A leasing arrangement will allow both sites to return to Delancey and UAL once the CPO process is complete. [^2]
+
+![](http://35percent.org/images/cposcreenshot.png)
 
 The CPO powers are needed because Delancey has yet to reach agreement with all of the 11 remaining shopping centre traders with long leases and several other so-called [third-party 'interests'](http://moderngov.southwark.gov.uk/documents/s88166/Appendix%20C.pdf) including land owned by Transport for London and arches owned by Network Rail/Arches company. [^3] 
 
@@ -18,7 +20,7 @@ Southwark say that both measures can be done at no cost to itself (except for of
 
 The main justification for the proposed measures is to ensure the success of the development.  Council officers advise that if they are not adopted Delancey may meet delays and will not secure the _'enormous funding'_ the scheme requires and then the site could lie empty for years.
 
-Despite this concern, officers are nonetheless sure enough that the development will go ahead, that they are not requiring a guarantee from Delancey that it will proceed with the scheme after Southwark has cleared the site with its CPO powers. 
+Despite this concern, officers are nonetheless so personally convinced that the development will _'likely'_ go ahead, that they are not requiring a guarantee from Delancey that it will proceed with the scheme after Southwark has cleared the site with its CPO powers. 
 [The CPO report](http://moderngov.southwark.gov.uk/documents/s88163/Report%20EC%20CPO.pdf) says _'it is not necessary to impose... an obligation to build the Scheme as the measures negotiated for inclusion in the indemnity agreement give the Council comfort that EC is likely to proceed with the Scheme.'_ [^4]
 
 The contrast between Southwark's favourable treatment of Delancey, (a property developer [rooted in offshore shell companies](http://35percent.org/2014-05-05-manx-connections-the-off-shore-home-of-the-elephants-developers/)) and the neglectful manner it has treated traders who have made the Elephant their home is also laid bare.  Under CPO legislation Southwark is required _'to exercise its power...in a manner which, so far as practicable, secures that relevant occupiers of that land are provided with a suitable opportunity to obtain accommodation on the land in question.'_ [^5]  
