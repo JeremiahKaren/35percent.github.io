@@ -11,9 +11,9 @@ In an extraordinary move Southwark Council is poised to 'buy' both the Elephant 
 
 ![](http://35percent.org/images/elephant_castle.jpg)
 
-The purchase of the shopping centre and LCC land is part of a legal manoeuvre, vesting ownership in a public body, that will override the rights of those whose light will be affected by the redevelopment of the two sites.  A leasing arrangement will allow both sites to return to Delancey and UAL once the CPO process is complete. [^2]
+The CPO powers are needed because Delancey has failed to reach agreement with 11 of the remaining shopping centre traders who have secure tenancies and several other so-called [third-party 'interests'](http://moderngov.southwark.gov.uk/documents/s88166/Appendix%20C.pdf) including land owned by Transport for London and arches owned by Network Rail/Arches company. [^2] 
 
-The CPO powers are needed because Delancey has failed to reach agreement with 11 of the remaining shopping centre traders who have secure tenancies and several other so-called [third-party 'interests'](http://moderngov.southwark.gov.uk/documents/s88166/Appendix%20C.pdf) including land owned by Transport for London and arches owned by Network Rail/Arches company. [^3] 
+The additional purchase of the shopping centre and LCC land is part of a legal manoeuvre, vesting ownership in a public body, that will override the rights of residents in surrounding homes whose daylight will be affected by the redevelopment of the two sites.  A leasing arrangement will allow both sites to return to Delancey and UAL once the CPO process is complete. [^3]
 
 ![](http://35percent.org/images/cposcreenshot.png)
 
@@ -52,9 +52,9 @@ __Footnotes:__
 
 [^1]: According to Southwark, Delancey is not the developer, but rather the advisor to the so-called 'Triangle Partnership', which is the Dutch pension fund APG; QDHK Holdngs Ltd Partnership and Door SLP. There are further partnerships within this Triangle, detailed in the [Report: E&C CPO](http://moderngov.southwark.gov.uk/documents/s88163/Report%20EC%20CPO.pdf) para 12.  Southwark refer to the developer as Elephant & Castle Properties Co. Limited ("EC").  We continue to refer to the developer by the commonly known name of 'Delancey'.
 
-[^2]: See paras. 1,2 & 12 [Report: E&C Property Rights](http://moderngov.southwark.gov.uk/documents/s88172/Report%20EC%20Property%20Rights.pdf)
+[^2]: See paras. 80, 59 [Report: E&C CPO](http://moderngov.southwark.gov.uk/documents/s88163/Report%20EC%20CPO.pdf)
 
-[^3]: See paras. 80, 59 [Report: E&C CPO](http://moderngov.southwark.gov.uk/documents/s88163/Report%20EC%20CPO.pdf)
+[^3]: See paras. 1,2 & 12 [Report: E&C Property Rights](http://moderngov.southwark.gov.uk/documents/s88172/Report%20EC%20Property%20Rights.pdf)
 
 [^4]: See para 76 [Report: E&C CPO](http://moderngov.southwark.gov.uk/documents/s88163/Report%20EC%20CPO.pdf)
 
