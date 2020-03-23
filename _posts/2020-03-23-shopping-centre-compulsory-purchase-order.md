@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Council to remove remaining shopping centre traders using CPO powers
+title: Council to remove last shopping centre traders using CPO powers
 subtitle: >-
-  Council to approve compulsory purchase of shopping centre traders and buy
-  LCC/shopping centre sites
+  Southwark bails out Delancey by purchasing E&C shopping centre and LCC in
+  order to override traders' and residents' legal rights.
 published: true
 date: '2020-03-23'
 ---
@@ -72,6 +72,6 @@ __Footnotes:__
 
 <meta name="twitter:title" content="Southwark to remove last remaining shopping centre traders with compulsory purchase powers" />
 
-<meta name="twitter:description" content="Southwark bails out Delancey by buying E&C shopping centre and LCC in order to override traders' and residents' legal rights." />
+<meta name="twitter:description" content="Southwark bails out Delancey by purchasing E&C shopping centre and LCC in order to override traders' and residents' legal rights." />
 
 <meta name="twitter:image" content="http://35percent.org/img/traderscompcollage.jpg" />
