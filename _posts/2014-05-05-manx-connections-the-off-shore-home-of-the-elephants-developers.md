@@ -1,9 +1,11 @@
 ---
 layout: post
-title: "The Elephant goes offshore"
-subtitle: "Developer Delancey registers its Elephant & Castle land holdings offshore"
+title: The Elephant goes offshore
+subtitle: Developer Delancey registers its Elephant & Castle land holdings offshore
 comments: true
-categories: [Shopping centre] 
+categories:
+  - Shopping centre
+published: true
 ---
 ![](/img/Jamie-Ritblat-Cllr-Dora-Dixon-Fyle.jpg)
 *Delancey's Jamie Ritblat Celebrating topping out of [__Elephant One__](/tribeca-square) with Southwark's Mayor.*
@@ -13,7 +15,12 @@ Developer Delancey has registered its land holdings at the Elephant & Castle to 
 ![](/img/shoppingcentrelr.png)
 *Land Registry deeds for the Elephant & Castle shopping centre*
 
-Delancey has registered both the [shopping centre](/shopping-centre) site and the [Tribeca Square](/tribeca-square) site in the British Virgin Islands. This is confirmed by the Land Registry deeds, which can be viewed [here](http://crappistmartin.github.io/images/LRDeeds_ShoppingCentre.pdf) and [here](http://crappistmartin.github.io/images/LandRegistry_TribecaSquare.pdf). It has financed the purchases using one of its venture capital funds 'Delancey DV4', whose offshore tax avoidance schemes are [well reported](http://crappistmartin.github.io/images/PrivateEyeNo1311.pdf) and have been accused by HMRC of 'aggressive tax avoidance. The developer is [bankrolled by George Soros](http://www.thisismoney.co.uk/money/news/article-1583098/Soros-offers-a-helping-hand-to-Ritblat-junior.html), the notorious speculator who brought the country to its knees during [black wednesday](https://en.wikipedia.org/wiki/Black_Wednesday) in 1992.
+Delancey has registered both the [shopping centre](/shopping-centre) site and the [Tribeca Square](/tribeca-square) site in the British Virgin Islands. This is confirmed by the Land Registry deeds, which can be viewed [here](http://crappistmartin.github.io/images/LRDeeds_ShoppingCentre.pdf) and [here](http://crappistmartin.github.io/images/LandRegistry_TribecaSquare.pdf).
+
+![](http://35percent.org/img/bvidelancey.png)
+*Delancey's registered address at 71 Road Town, Tortola, British Virgin Islands*
+
+It has financed the purchases using one of its venture capital funds 'Delancey DV4', whose offshore tax avoidance schemes are [well reported](http://crappistmartin.github.io/images/PrivateEyeNo1311.pdf) and have been accused by HMRC of 'aggressive tax avoidance. The developer is [bankrolled by George Soros](http://www.thisismoney.co.uk/money/news/article-1583098/Soros-offers-a-helping-hand-to-Ritblat-junior.html), the notorious speculator who brought the country to its knees during [black wednesday](https://en.wikipedia.org/wiki/Black_Wednesday) in 1992.
 
 Delancey uses separate companies to own and separate companies to develop its sites. In the case of [Elephant One](/tribeca-square) it has used a [limited partnership company (LLP) controlled by parent companies](https://beta.companieshouse.gov.uk/company/OC389454/officers) registered in the British Virgin Islands and Panama. [Filing records at Companies House](https://beta.companieshouse.gov.uk/company/OC389454/filing-history) show that the partnership company hasn't paid a penny of corporation tax. [Companies House records](https://beta.companieshouse.gov.uk/company/OC389454/officers) also show that the partnership's ultimate parent companies are Delancey SPV's registered offshore; one in the BVI and the other __'Kintryre Corp'__ registered in Panama.
 
@@ -54,4 +61,3 @@ Heygate developer Lendlease's global corporate structure is too complex for us t
 <meta name="twitter:description" content="Billions of pounds of real estate at Elephant & Castle registered offshore to avoid tax." />
 
 <meta name="twitter:image" content="http://35percent.org/img/Jamie-Ritblat-Cllr-Dora-Dixon-Fyle.jpg"/>
-
