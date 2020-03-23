@@ -65,3 +65,13 @@ __Footnotes:__
 [^7]: See 8.7 [Planning Statement](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!LnbCaTCiMmUoN4H%2fUA2yyg%3d%3d!%7d%7d%7d)
 
 [^8]: See para 74 [Report: E&C CPO](http://moderngov.southwark.gov.uk/documents/s88163/Report%20EC%20CPO.pdf)
+
+<meta name="twitter:card" content="summary_large_image" />
+
+<meta name="twitter:site" content="@35percent_EAN" />
+
+<meta name="twitter:title" content="Southwark to remove last remaining shopping centre traders with compulsory purchase powers" />
+
+<meta name="twitter:description" content="Southwark bails out Delancey by buying E&C shopping centre and LCC in order to override traders' and residents' legal rights." />
+
+<meta name="twitter:image" content="http://35percent.org/img/traderscompcollage.jpg" />
