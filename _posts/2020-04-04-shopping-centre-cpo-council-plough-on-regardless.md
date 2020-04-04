@@ -25,7 +25,17 @@ The Up the Elephant Campaign, supported by the 35% Campaign, has consistently op
 
 Over time various concessions, dragged out of Delancey by campaigners, have made marginal improvements to the redevelopment.  Southwark's pledged £200,000 for the traders is also welcome, but Delancey's scheme still remains a bad one. Delancey are displacing an entire community of traders, and destroying a social hub for the many working people from all over the world who have made the Elephant their home.  The new development will have a miserly 116 social rented homes, out of nearly a thousand new units (if they ever get delivered).
 
-So, Southwark Council should not be bending over backwards helping Delancey, by assuming CPO powers, in any circumstances, and certainly not now when half the traders still have nowhere to go and what was an already serious trading situation has been rendered dire by the Coronavirus crisis.  
+So, Southwark Council should not be bending over backwards helping Delancey, by assuming CPO powers, in any circumstances, and certainly not now when half the traders still have nowhere to go and what was an already serious trading situation has been rendered dire by the Coronavirus crisis.
+
+The UP THE ELEPHANT CAMPAIGN HAS MADE THE FOLLOWING DEMANDS;
+
+1. Release the promised £200,000 support as cash grants to traders immediately;
+2. Do not support the use of Compulsory Purchase Order powers on Delancey’s behalf
+to facilitate the development. It should be by agreement between the development
+stakeholders, not forced by Southwark Council;
+3. Do not close the Elephant Shopping Centre until all traders have been relocated;
+4. Give all traders more money to support them through this difficult time, and
+5. Support the local community, not Delancey.
 
 
 
