@@ -25,9 +25,9 @@ The [Up the Elephant Campaign](https://twitter.com/UpTheElephant_?ref_src=twsrc%
 
 Over time various concessions, dragged out of Delancey by campaigners, have made marginal improvements to the redevelopment.  Southwark's [pledged £200,000](https://www.london-se1.co.uk/news/view/10093) for the traders is also welcome, but Delancey's scheme still remains a bad one. Delancey are [displacing an entire community of traders](http://35percent.org/2019-03-30-no-room-for-traders-in-the-new-elephant/), and destroying [a social hub](https://www.youtube.com/watch?v=DRC2cyhpzAM) for the many working people from all over the world who have made the Elephant their home.  The new development will have a miserly 116 social rented homes, out of nearly a thousand new units (if they ever get delivered).
 
-So, Southwark Council should not be bending over backwards helping Delancey, by assuming CPO powers, in any circumstances, and certainly not now when half the traders still have nowhere to go, while Southwark had an [obligation to help secure traders accommodation](http://35percent.org/2020-03-23-shopping-centre-compulsory-purchase-order/)in the new development it never properly execised.  We should not need to add that the traders' already desparate situation has now been en rendered dire by the Coronavirus crisis.
+So, Southwark Council should not be bending over backwards helping Delancey, by assuming CPO powers, in any circumstances; certainly not now, when half the traders still have nowhere to go, while Southwark has an [obligation to help secure traders accommodation](http://35percent.org/2020-03-23-shopping-centre-compulsory-purchase-order/)in the new development it never properly execised.  We do not need to add that the traders' desparate situation has been rendered dire by the Coronavirus crisis.
 
-The UP THE ELEPHANT CAMPAIGN HAS MADE THE FOLLOWING DEMANDS;
+The UP THE ELEPHANT CAMPAIGN HAS THEREFORE MADE THE FOLLOWING DEMANDS;
 
 1. Release the promised £200,000 support as cash grants to traders immediately;
 2. Do not support the use of Compulsory Purchase Order powers on Delancey’s behalf
