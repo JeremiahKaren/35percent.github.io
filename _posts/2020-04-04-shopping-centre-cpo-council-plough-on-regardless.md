@@ -37,11 +37,11 @@ stakeholders, not forced by Southwark Council;
 4. Give all traders more money to support them through this difficult time, and
 5. Support the local community, not Delancey.
 
+You can support us in out fight for fairness for traders 
+
+
+[#supporttradersnotdelancey](#supporttradersnotdelancey)
 
 
 
 
-
-
-
-Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
