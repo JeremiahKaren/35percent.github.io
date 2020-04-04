@@ -11,13 +11,17 @@ The meeting is also set to approve a report that will override local residents l
 
 ## Residents lose legal right
 
-As we reported in our last blogpost Southwark intends to lease both the shopping centre and London College of Communications themselves.  Subleasing arrangements will return the shopping centre and LCC back to the control Delancey and University of the Arts London, but as 'public property', residents legal 'right-to-light' options can be overridden.  Residents will no longer be able to seek an injunction against the development (while remaining able to claim compensation.
+As we reported in our last blogpost Southwark intends to lease both the shopping centre and London College of Communications themselves.  Subleasing arrangements will return the shopping centre and LCC back to the control Delancey and University of the Arts London, but as 'public property', residents legal 'right-to-light' options can be overridden.  Residents will no longer be able to seek an injunction against the development (while remaining able to claim compensation).  Southwark say that there will be no cost to the Council from there leasing arrangements, but the report supplies no figures. 
 
 ## 72% say keep the centre open 
 
 Both extraordinary measures illustrate Southwark's determination to support Delancey's redevelopment of the shopping centre, despite the shortfall in social rented housing and the mass displacement of traders.  Local charity and advocates of behalf of all traders Latin Elephant estimates over half still have nowhere to go.  
 
-It also follows a survey conducted by the SE1 news website that shows 72% of local people want the centre kept open, in the light of the Coronavirus pblic health crisis.
+It also follows a survey conducted by the SE1 news website that shows 72% of local people want the centre kept open, in the light of the Coronavirus public health crisis. In response Delancey have reitereated that they still intend to close the shopping centre on 31 July, but will make pharmacy and food supplies available if the public health crisis continues.
+
+## What we say...
+
+The Up the 
 
 
 
