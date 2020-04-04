@@ -45,3 +45,14 @@ Or by lobbying the [Councillors approving the decision](http://moderngov.southwa
 
 [^1]: See para 76 [Report: E&C CPO](http://moderngov.southwark.gov.uk/documents/s88163/Report%20EC%20CPO.pdf)
 
+
+<meta name="twitter:card" content="summary_large_image" />
+
+<meta name="twitter:site" content="@35percent_EAN" />
+
+<meta name="twitter:title" content="Southwark presses on with CPO to remove shopping centre traders" />
+
+<meta name="twitter:description" content="Council steams ahead with compulsory purchase order despite 50% of traders having nowhere to go." />
+
+<meta name="twitter:image" content="http://35percent.org/img/traderscompevicted.jpeg" />
+
