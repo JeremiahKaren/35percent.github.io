@@ -40,7 +40,11 @@ stakeholders, not forced by Southwark Council;
 You can support us in out fight for fairness for traders 
 
 
-[#supporttradersnotdelancey](#supporttradersnotdelancey)
+[#supporttradersnotdelancey](https://twitter.com/hashtag/supporttradersnotdelancey?src=hashtag_click)
+
+[#supportelephantnotdelancey](https://twitter.com/hashtag/supportelephantnotdelancey?src=hashtag_click)
+
+
 
 
 
