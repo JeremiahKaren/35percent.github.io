@@ -3,7 +3,7 @@ layout: post
 published: false
 title: Shopping centre CPO - Southwark ploughs on regardless
 ---
-## Southwark assumes CPO powers - gets nothing in return
+## Southwark assumes CPO powers, but gets nothing in return
 
 Southwark Council is [set to assume Compulsory Purchase Order](http://moderngov.southwark.gov.uk/mgIssueHistoryHome.aspx?IId=50015357) (CPO) powers, on behalf of shopping centre developer Delancey, at its Cabinet meeting this [Tues 7 April](http://moderngov.southwark.gov.uk/ieListDocuments.aspx?CId=302&MId=6420&Ver=4) (postponed from 24 March).  While this extraordinary move will strengthen Delancey's hand in ongoing negotiations with various devlopment stakeholders, such as TfL, and relieves  Delancey of funding risks, the scheme itself remains unchanged, delivering only 116 social rented and displacing traders wholesale.
 ![](/img/traderscompevicted.jpeg)
