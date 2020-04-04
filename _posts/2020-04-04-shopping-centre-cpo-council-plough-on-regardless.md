@@ -5,7 +5,7 @@ title: Shopping centre CPO - Southwark ploughs on regardless
 ---
 ## Cabinet set to assume CPO powers this Tuesday
 
-Southwark Council is set was to assume Compulsory Purchase Order (CPO) powers, on behalf of shopping centre developer Delancey at its reconvened Cabinet meeting, this Tues 7 April.  The move would facilitate the redevelopment, by strengthening Delancey's hand in ongoing negotiations with various stakehlders, such as TfL and was to have been considered last week, but for the coronavirus lockdown.  The meeting will be held remotely, but without video-livestreaming.
+Southwark Council is set was to assume Compulsory Purchase Order (CPO) powers, on behalf of shopping centre developer Delancey at its reconvened Cabinet meeting, this Tues 7 April.  The move would facilitate the redevelopment, by strengthening Delancey's hand in ongoing negotiations with various stakehlders, such as TfL and was to have been considered last week, but for the coronavirus lockdown.  The meeting will be held remotely, but we understand with no live-streaming.
 
 The meeting is also set to approve a report that will override local residents legal rights, should they suffer a loss of light because of the redevelopment.  A third report will rubberstamp the £200,000 relocation assistance for traders, recently announced.
 
@@ -21,7 +21,13 @@ It also follows a survey conducted by the SE1 news website that shows 72% of loc
 
 ## What we say...
 
-The Up the 
+The Up the Elephant Campaign, supported by the 35% Campaign, has consistently opposed Delancey's shopping centre redevelopment scheme, since its inception, over 3 years ago.  We support the ongoing legal challange to quash Delancey's planning permission.
+
+Over time various concessions, dragged out of Delancey by campaigners, have made marginal improvements to the redevelopment.  Southwark's pledged £200,000 for the traders is also welcome, but Delancey's scheme still remains a bad one. Delancey are displacing an entire community of traders, and destroying a social hub for the many working people from all over the world who have made the Elephant their home.  The new development will have a miserly 116 social rented homes, out of nearly a thousand new units (if they ever get delivered).
+
+So, Southwark Council should not be bending over backwards helping Delancey, by assuming CPO powers, in any circumstances, and certainly not now when half the traders still have nowhere to go and what was an already serious trading situation has been rendered dire by the Coronavirus crisis.  
+
+
 
 
 
