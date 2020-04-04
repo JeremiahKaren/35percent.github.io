@@ -20,7 +20,7 @@ As we reported in [our last blogpost](http://35percent.org/2020-03-23-shopping-c
 
 Southwark's extraordinary measures illustrate its determined support for Delancey's redevelopment of the shopping centre, despite the [shortfall in social rented housing](http://35percent.org/shopping-centre/) provided and the mass displacement of traders.  Local charity and advocate for all traders Latin Elephant [estimates over half](http://35percent.org/2020-01-20-elephant-traders-still-homeless/) still have nowhere to go. 
 
-Southwark's unwavering support even extends as far as [neglecting to get a guarantee](http://35percent.org/2020-03-23-shopping-centre-compulsory-purchase-order/) from Delancey that the scheme will go ahead, even should CPO powers be exercised on their behalf, saying _'it is not necessary to impose… an obligation to build the Scheme as the measures negotiated for inclusion in the indemnity agreement give the Council comfort that EC is likely to proceed with the Scheme.’_ [^1]
+Southwark's unwavering support even extends as far as [neglecting to get a guarantee](http://moderngov.southwark.gov.uk/documents/s88163/Report%20EC%20CPO.pdf) from Delancey that the scheme will go ahead, even should CPO powers be exercised on their behalf, saying _'it is not necessary to impose… an obligation to build the Scheme as the measures negotiated for inclusion in the indemnity agreement give the Council comfort that EC is likely to proceed with the Scheme.’_ [^1]
 
 ## 72% say keep the centre open 
 
