@@ -27,7 +27,7 @@ Over time various concessions, dragged out of Delancey by campaigners, have made
 
 So, Southwark Council should not be bending over backwards helping Delancey, in any circumstances - certainly not now, when half the traders still have nowhere to go, while Southwark has an [obligation to help secure traders accommodation](http://35percent.org/2020-03-23-shopping-centre-compulsory-purchase-order/) in the new development it never properly execised.  We do not need to add that the traders' desparate situation has been rendered dire by the Coronavirus crisis.
 
-The UP THE ELEPHANT CAMPAIGN HAS THEREFORE MADE THE FOLLOWING DEMANDS;
+The UP THE ELEPHANT CAMPAIGN HAS THEREFORE MADE THE FOLLOWING DEMANDS ON SOUTHWARK;
 
 1. Release the promised £200,000 support as cash grants to traders immediately;
 2. Do not support the use of Compulsory Purchase Order powers on Delancey’s behalf
