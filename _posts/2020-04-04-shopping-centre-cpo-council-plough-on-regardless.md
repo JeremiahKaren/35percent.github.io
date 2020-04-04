@@ -7,7 +7,7 @@ title: Shopping centre CPO - Southwark ploughs on regardless
 
 Southwark Council is [set to assume Compulsory Purchase Order](http://moderngov.southwark.gov.uk/mgIssueHistoryHome.aspx?IId=50015357) (CPO) powers, on behalf of shopping centre developer Delancey at its reconvened Cabinet meeting, this [Tues 7 April](http://moderngov.southwark.gov.uk/ieListDocuments.aspx?CId=302&MId=6420&Ver=4).  The move would facilitate the redevelopment, by strengthening Delancey's hand in ongoing negotiations with various stakehlders, such as TfL and was to have been considered last week, but for the coronavirus lockdown.  The meeting will be held remotely, but we understand with no live-streaming.
 
-The meeting is also set to approve [a report that will override](http://moderngov.southwark.gov.uk/mgIssueHistoryHome.aspx?IId=50021995) local residents legal rights, should they suffer a loss of light because of the redevelopment.  A [third report](http://moderngov.southwark.gov.uk/documents/s88157/Report%20EC%20Shopping%20Centre%20Progress.pdf) will [approve the £200,000](http://moderngov.southwark.gov.uk/mgIssueHistoryHome.aspx?IId=50015356) relocation assistance for traders, recently announced.
+The meeting is also set to approve [a report that will override](http://moderngov.southwark.gov.uk/mgIssueHistoryHome.aspx?IId=50021995) local residents legal rights, should they suffer a loss of light because of the redevelopment.  A [third report](http://moderngov.southwark.gov.uk/documents/s88157/Report%20EC%20Shopping%20Centre%20Progress.pdf) will approve the £200,000 relocation assistance for traders, recently announced.
 
 ## Residents lose legal right
 
