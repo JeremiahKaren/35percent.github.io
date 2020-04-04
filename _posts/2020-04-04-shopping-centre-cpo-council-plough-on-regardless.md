@@ -29,13 +29,7 @@ So, Southwark Council should not be bending over backwards helping Delancey, in 
 
 The UP THE ELEPHANT CAMPAIGN HAS THEREFORE MADE THE FOLLOWING DEMANDS TO SOUTHWARK COUNCIL;
 
-1. Release the promised £200,000 support as cash grants to traders immediately;
-2. Do not support the use of Compulsory Purchase Order powers on Delancey’s behalf
-to facilitate the development. It should be by agreement between the development
-stakeholders, not forced by Southwark Council;
-3. Do not close the Elephant Shopping Centre until all traders have been relocated;
-4. Give all traders more money to support them through this difficult time, and
-5. Support the local community, not Delancey.
+![](/img/deldemands.jpg)
 
 You can support us in our fight for fairness for traders, by sharing these hashtags;
 
@@ -44,7 +38,5 @@ You can support us in our fight for fairness for traders, by sharing these hasht
 [#supportelephantnotdelancey](https://twitter.com/hashtag/supportelephantnotdelancey?src=hashtag_click)
 
 [#ElephantJR](https://twitter.com/hashtag/ElephantJR?src=hashtag_click)
-
-https://pbs.twimg.com/media/EUrQbsRUEAEXb8s?format=jpg&name=small
 
 
