@@ -15,9 +15,9 @@ As we reported in [our last blogpost](http://35percent.org/2020-03-23-shopping-c
 
 ## 72% say keep the centre open 
 
-Both extraordinary measures illustrate Southwark's determination to support Delancey's redevelopment of the shopping centre, despite the shortfall in social rented housing and the mass displacement of traders.  Local charity and advocates of behalf of all traders Latin Elephant estimates over half still have nowhere to go.  
+Both extraordinary measures illustrate Southwark's determination to support Delancey's redevelopment of the shopping centre, despite the shortfall in social rented housing and the mass displacement of traders.  Local charity and advocates of behalf of all traders Latin Elephant [estimates over half](http://35percent.org/2020-01-20-elephant-traders-still-homeless/) still have nowhere to go.  
 
-It also follows a survey conducted by the SE1 news website that shows 72% of local people want the centre kept open, in the light of the Coronavirus public health crisis. In response Delancey have reitereated that they still intend to close the shopping centre on 31 July, but will make pharmacy and food supplies available if the public health crisis continues.
+It also follows a [survey conducted by the SE1](https://twitter.com/se1/status/1240692710987558913) news website that shows 72% of local people want the centre kept open, in the light of the Coronavirus public health crisis. [In response]https://www.london-se1.co.uk/news/view/10180?(utm_source=SE1+Direct&utm_campaign=0c3a7afe5a-SE1+Direct+1000&utm_medium=email&utm_term=0_9d1f71fd65-0c3a7afe5a-407867973) Delancey have waived rent and service charges (a long-standing traders' demand), but reitereated]() that they still intend to close the shopping centre on 31 July, while making pharmacy and food supplies available, if the public health crisis continues.
 
 ## What we say...
 
