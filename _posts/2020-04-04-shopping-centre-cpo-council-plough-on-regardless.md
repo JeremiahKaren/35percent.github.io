@@ -39,13 +39,11 @@ The UP THE ELEPHANT CAMPAIGN HAS THEREFORE MADE THE FOLLOWING DEMANDS TO SOUTHWA
 
 ![](/img/deldemands.jpg)
 
-You can support us in our fight for fairness for traders, by sharing these hashtags;
+You can support us in our fight for fairness for traders, by sharing these hashtags; [#supporttradersnotdelancey](https://twitter.com/hashtag/supporttradersnotdelancey?src=hashtag_click) [#supportelephantnotdelancey](https://twitter.com/hashtag/supportelephantnotdelancey?src=hashtag_click) [#ElephantJR](https://twitter.com/hashtag/ElephantJR?src=hashtag_click). 
 
-[#supporttradersnotdelancey](https://twitter.com/hashtag/supporttradersnotdelancey?src=hashtag_click)
+Or by lobbying the [Councillors approving the decision](http://moderngov.southwark.gov.uk/mgMeetingAttendance.aspx?ID=6420): [https://twitter.com/peterjohn6](https://twitter.com/peterjohn6), [https://twitter.com/rebeccalury](https://twitter.com/rebeccalury), [https://twitter.com/evenor23](https://twitter.com/evenor23), [https://twitter.com/Jasmine_Ali](https://twitter.com/Jasmine_Ali), [https://twitter.com/steviecryan](https://twitter.com/steviecryan), [https://twitter.com/Livingstone_RJ](https://twitter.com/Livingstone_RJ), [https://twitter.com/Victoria_Mills](https://twitter.com/Victoria_Mills), [https://twitter.com/Leo_Pollak](https://twitter.com/Leo_Pollak), [https://twitter.com/kieronjwilliams](https://twitter.com/kieronjwilliams), [https://twitter.com/JohnsonSitu](https://twitter.com/JohnsonSitu).
 
-[#supportelephantnotdelancey](https://twitter.com/hashtag/supportelephantnotdelancey?src=hashtag_click)
-
-[#ElephantJR](https://twitter.com/hashtag/ElephantJR?src=hashtag_click)
+![](/img/cabinetmembers.png)
 
 [^1]: See para 76 [Report: E&C CPO](http://moderngov.southwark.gov.uk/documents/s88163/Report%20EC%20CPO.pdf)
 
