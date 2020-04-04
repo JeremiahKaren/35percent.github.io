@@ -3,10 +3,9 @@ layout: post
 published: false
 title: Shopping centre CPO - Southwark ploughs on regardless
 ---
-## Cabinet set to assume CPO powers this Tuesday
+## Southwark assumes CPO powers - gets nothing in return
 
-Southwark Council is [set to assume Compulsory Purchase Order](http://moderngov.southwark.gov.uk/mgIssueHistoryHome.aspx?IId=50015357) (CPO) powers, on behalf of shopping centre developer Delancey, at its Cabinet meeting this [Tues 7 April](http://moderngov.southwark.gov.uk/ieListDocuments.aspx?CId=302&MId=6420&Ver=4) (postponed from 24 March).  The move would facilitate the redevelopment, by strengthening Delancey's hand in ongoing negotiations with various stakeholders, such as TfL and by relieving the project of funding risks.  The meeting will be held remotely, but no live-streaming is advertised.
-
+Southwark Council is [set to assume Compulsory Purchase Order](http://moderngov.southwark.gov.uk/mgIssueHistoryHome.aspx?IId=50015357) (CPO) powers, on behalf of shopping centre developer Delancey, at its Cabinet meeting this [Tues 7 April](http://moderngov.southwark.gov.uk/ieListDocuments.aspx?CId=302&MId=6420&Ver=4) (postponed from 24 March).  While this extraordinary move by Southwark will strengthen Delancey's hand in ongoing negotiations with various devlopment stakeholders, such as TfL, and relieves  Delancey of funding risks, the scheme itself remains unchanged, delivering only 116 social rented and displacing traders wholesale.
 ![](/img/traderscompevicted.jpeg)
 
 The Cabinet meeting is also set to approve [a report that will override](http://moderngov.southwark.gov.uk/mgIssueHistoryHome.aspx?IId=50021995) local residents' legal rights, for the  loss of light caused by the redevelopment.  A [third report](http://moderngov.southwark.gov.uk/documents/s88157/Report%20EC%20Shopping%20Centre%20Progress.pdf) will approve the recently announced £200,000 relocation assistance for traders.
@@ -40,5 +39,3 @@ You can support us in our fight for fairness for traders, by sharing these hasht
 [#supportelephantnotdelancey](https://twitter.com/hashtag/supportelephantnotdelancey?src=hashtag_click)
 
 [#ElephantJR](https://twitter.com/hashtag/ElephantJR?src=hashtag_click)
-
-
