@@ -1,7 +1,8 @@
 ---
 layout: post
-published: false
+published: true 
 title: Shopping centre CPO - Southwark ploughs on regardless
+subtitle: Southwark exercises CPO powers to clear E&C shopping centre site for Delancey
 ---
 ## Southwark assumes CPO powers, but gets nothing in return
 
