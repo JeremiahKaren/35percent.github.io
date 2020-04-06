@@ -5,7 +5,7 @@ title: Shopping centre CPO - Southwark ploughs on regardless
 subtitle: Southwark exercises CPO powers to clear E&C shopping centre site for Delancey
 ---
 Southwark Council is [set to assume Compulsory Purchase Order](http://moderngov.southwark.gov.uk/mgIssueHistoryHome.aspx?IId=50015357) (CPO) powers, on behalf of [offshore developer Delancey](http://35percent.org/2014-05-05-manx-connections-the-off-shore-home-of-the-elephants-developers/), at its Cabinet meeting this [Tues 7 April](http://moderngov.southwark.gov.uk/ieListDocuments.aspx?CId=302&MId=6420&Ver=4) (postponed from 24 March).  While this extraordinary move will strengthen Delancey's hand in ongoing negotiations with various development stakeholders, such as TfL, and will relieve Delancey of funding risks, the scheme itself remains unchanged, delivering only 116 social rented units and displacing traders wholesale.  
-![](/img/traderscompevicted.jpeg)
+![](http://35percent.org/img/traderscompevicted.jpeg)
 
 The Cabinet meeting is also set to approve [a report that will override](http://moderngov.southwark.gov.uk/mgIssueHistoryHome.aspx?IId=50021995) local residents' legal rights, for the  loss of light caused by the redevelopment.  A [third report](http://moderngov.southwark.gov.uk/documents/s88157/Report%20EC%20Shopping%20Centre%20Progress.pdf) will approve the recently announced £200,000 relocation assistance for traders.
 
@@ -25,7 +25,7 @@ Southwark's unwavering support extends as far as [neglecting to obtain a guarant
 
 The proposed measures follow a [survey conducted by the SE1](https://twitter.com/se1/status/1240692710987558913) news website that shows 72% of local people want the centre kept open, in the light of the Coronavirus public health crisis. In response Delancey [reiterated that they still intend to close](https://www.london-se1.co.uk/news/view/10180?utm_source=SE1+Direct&utm_campaign=0c3a7afe5a-SE1+Direct+1000&utm_medium=email&utm_term=0_9d1f71fd65-0c3a7afe5a-407867973) the shopping centre on 31 July, while waiving rent and service charges (a long-standing traders' demand) and promising to making pharmacy and food supplies available, beyond then, if the public health crisis continues.
 
-![](/img/surveysc.png)
+![](http://35percent.org/img/surveysc.png)
 
 ## What we say...
 
@@ -37,13 +37,13 @@ So, Southwark Council should not be bending over backwards helping Delancey, in 
 
 The UP THE ELEPHANT CAMPAIGN HAS THEREFORE MADE THE FOLLOWING DEMANDS TO SOUTHWARK COUNCIL;
 
-![](/img/deldemands.jpg)
+![](http://35percent.org/img/deldemands.jpg)
 
 You can support us in our fight for fairness for traders, by sharing these hashtags; [#supporttradersnotdelancey](https://twitter.com/hashtag/supporttradersnotdelancey?src=hashtag_click) [#supportelephantnotdelancey](https://twitter.com/hashtag/supportelephantnotdelancey?src=hashtag_click) [#ElephantJR](https://twitter.com/hashtag/ElephantJR?src=hashtag_click). 
 
 Or by lobbying the [Councillors approving the decision](http://moderngov.southwark.gov.uk/mgMeetingAttendance.aspx?ID=6420) directly: [https://twitter.com/peterjohn6](https://twitter.com/peterjohn6), [https://twitter.com/rebeccalury](https://twitter.com/rebeccalury), [https://twitter.com/evenor23](https://twitter.com/evenor23), [https://twitter.com/Jasmine_Ali](https://twitter.com/Jasmine_Ali), [https://twitter.com/steviecryan](https://twitter.com/steviecryan), [https://twitter.com/Livingstone_RJ](https://twitter.com/Livingstone_RJ), [https://twitter.com/Victoria_Mills](https://twitter.com/Victoria_Mills), [https://twitter.com/Leo_Pollak](https://twitter.com/Leo_Pollak), [https://twitter.com/kieronjwilliams](https://twitter.com/kieronjwilliams), [https://twitter.com/JohnsonSitu](https://twitter.com/JohnsonSitu).
 
-![](/img/cabinetmembers.png)
+![](http://35percent.org/img/cabinetmembers.png)
 
 [^1]: See para 76 [Report: E&C CPO](http://moderngov.southwark.gov.uk/documents/s88163/Report%20EC%20CPO.pdf)
 
