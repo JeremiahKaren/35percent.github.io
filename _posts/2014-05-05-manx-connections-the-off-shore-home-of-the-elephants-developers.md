@@ -35,7 +35,7 @@ __Kintrye Corp__ is also named in the 'Panama Papers' scandal, which exposed how
 ## Get living London!
 Delancey also uses a separate company __Get Living London__ to manage its PRS (Private Rented Sector) build-to-rent homes. Despite [managing over £1bn worth of PRS homes](http://www.propertyweek.com/news/get-living-to-double-assets-to-%C2%A32bn/5088136.article) __Get Living London__ has [never paid a penny of corporation tax](https://beta.companieshouse.gov.uk/company/07793925/filing-history).
 
-Delancey's founder and CEO is Jamie Ritblat, son of property tycoon John Ritblat (British Land), which the Council has selected as its development partner for its [Canada Water regeneration](http://35percent.org/2019-09-22-canada-water-masterplan/). The father and son team are long-standing Tory donors who are among the top 100 donors to the party. 
+Delancey's founder and CEO is Jamie Ritblat, son of property tycoon John Ritblat (British Land), which the Council has selected as its development partner for its [Canada Water regeneration](http://35percent.org/2019-09-22-canada-water-masterplan/). The father and son team are long-standing Tory donors who are among the top 100 donors to the party. Their dealings go beyond property development and among other things [own a chain of private schools](https://ftalphaville.ft.com/2019/11/14/1573727997000/The-private-education-risk-premium/). 
 
 ![](/img/jamieandjohnritblat.jpg)
 *Jamie Ritblat (left) - John Ritblat (right)*
