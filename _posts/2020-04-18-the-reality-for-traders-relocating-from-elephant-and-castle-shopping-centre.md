@@ -1,7 +1,7 @@
 ---
 layout: post
 published: false
-title: The reality for traders relocating from Elephant and Castle Shopping Centre
+title: 'Shopping centre relocation - the reality for traders '
 ---
 ## Nearly half surveyed have no space.
 
