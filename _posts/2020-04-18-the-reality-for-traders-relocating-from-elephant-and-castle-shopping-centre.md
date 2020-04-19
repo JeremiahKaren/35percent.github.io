@@ -8,7 +8,7 @@ title: 'Shopping centre relocation - the reality for traders '
 Southwark Law Centre (SLC) has written to Southwark Council, detailing the shortcomings of the relocation of the independent traders from the Elephant & Castle shopping centre, prior to its demolition on 31 July 2020.
 The letter is supported by Latin Elephant and Up the Elephant, which includes the 35% Campaign.
 
-SLC's letter (link) supplies Southwark with the details of a survey of traders about the relocation, conducted just before the Coronavirus lockdown.  This 'snapshot' survey of ten traders, shows that four had not been offered a relocation space and that the spaces offered to the remaining six, in Perronet House and Castle Square, were unsuitable, mainly because they were too small, but also because they were in poor locations for attracting trade and had no space for storage or for displaying their goods.
+SLC's letter (link) supplies Southwark with the details of a survey of traders about the relocation, conducted just before the Coronavirus lockdown.  This 'snapshot' survey of ten traders shows that four had not been offered a relocation space and the remaining were offered the spaces that were inadequate, mainly because they were too small, but also because they were in poor locations for attracting trade and had no space for storage or for displaying their goods.
 
 The letter also criticises Tree Shepherd, the traders' appointed business advisor, for a lack of appropriate support, particularly during the lockdown.  The relocation fund is described as not fit for purpose and the relocation database of limited value.  It regrets that Southwark approved using CPO powers on Delancey's behalf, without any increase to the Delancey relocation fund.
 
