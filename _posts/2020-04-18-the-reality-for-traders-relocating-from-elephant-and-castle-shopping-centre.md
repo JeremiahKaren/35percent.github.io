@@ -71,7 +71,9 @@ Certainty.
 While main centre traders now have 100% discount, stall-holders in the surrounding 'moat' have complained that is the market operator, Urban Space Management, who has benefited most from this reduction, hihc has not been fully passed to them.  App
 
 [^1]: See Elephant and Castle Shopping Centre Progress Report Appendix D para 23
+
 [^2]: See Elephant and Castle Shopping Centre Progress Report Appendix D para 15
+
 -----------------------------------------------------------------------------------------------------
 
 A big part of the redevelopment of the shopping centre is the relocation of the present traders to four new sites – Perronet House, Castle Square, Elephant One and Elephant Park. 
