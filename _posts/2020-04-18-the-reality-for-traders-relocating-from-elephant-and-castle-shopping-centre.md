@@ -26,7 +26,7 @@ In their comments all the respondents say the same thing - more money is needed,
 
 ## Prediction confirmed - 
 
-The SLC survey is a relatively small, but its findings that about two-thirds of traders have no place to go are reinforced by the much larger and earlier research of [Latin Elephant](https://latinelephant.org/)/[petit elephant](https://twitter.com/elephant_petit/status/1118825370017386496).  This has tracked the fate of nearly a hundred businesses, since December 2018 and estimated [that only 40 would be relocated](http://35percent.org/2020-01-20-elephant-traders-still-homeless/), a prediction now appears to be confirmed by Southwark.  Its baffingly rosey assessment of the relocation process states that while there have been 64 applications for three of the four main relocation sites, only 36 have been successful, with 28 rejected.[^1] The fourth site, Elephant Park has had one successful appilcation out of 5. [^2] Southwark gives no explanation for this, or says anything about what exactly it expects these 28 businesses to do.
+The SLC survey is a relatively small, but its findings that about two-thirds of traders have no place to go are reinforced by the much larger and earlier research of [Latin Elephant](https://latinelephant.org/)/[petit elephant](https://twitter.com/elephant_petit/status/1118825370017386496).  This has tracked the fate of nearly a hundred businesses, since December 2018 and estimated [that only 40 would be relocated](http://35percent.org/2020-01-20-elephant-traders-still-homeless/), a prediction that now appears to be confirmed by Southwark.  Its baffingly rosey assessment of the relocation process states that while there have been 64 applications for three of the four main relocation sites, only 36 have been successful, with 28 rejected.[^1].  Southwark gives no explanation for this, or says anything about what exactly it expects these 28 businesses to do.  The fourth site, Elephant Park, has had one successful application out of 5.[^2]
 
 No figures are given for the actual amounts granted or distributed.
 
@@ -56,6 +56,7 @@ Other obstacles and irritations - already blogged; higher rent and servcice char
 No closure before traders sorted out.  Not a formality, or just an inevitable outcome of Coroanavirus lockdown.  if the redevelopment is to be one, where no=one is left behind
 
 ## Report on progress - Public support for scheme falls
+
 While the report confirms the welcome £200,000 fund set up by Southwark it takes no account of the entirely new, desperate circumstances of the Coronavirus pandemic.  The report is dated 24 March and could have been excused for not addressing the impact of the Coronavirus, were it not that it was considered on 7 April,  two weeks after lockdown, without any amendment, addendum or change.  The most ludicrous consequence is that the report recommends continuing with the 'Follow the Herd' publicity campaign, no doubt well-meaning when it was concieved, but hardly in step now with the new era of social distancing.  The campaign's aim is to counteract the fall in public approval of the scheme,from 67% in 2016 to 42% now, with a rise of opposition from 6% to 14%,  with the main concern being what is happening to the traders.
 
 Delancey additional relocation costs - hardship fund - App D
