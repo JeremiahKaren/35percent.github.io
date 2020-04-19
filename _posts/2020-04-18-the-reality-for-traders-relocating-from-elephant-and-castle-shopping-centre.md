@@ -12,9 +12,9 @@ SLC's letter (link) supplies Southwark with the details of a survey of traders a
 
 The letter also criticises Tree Shepherd, the traders' appointed business advisor, for a lack of appropriate support, particularly during the lockdown.  The relocation fund is described as not fit for purpose and the relocation database of limited value.  It regrets that Southwark approved using CPO powers on Delancey's behalf, without any increase to the Delancey relocation fund.
 
-The letter also notes that work on completing Castle Square, one of the four relocation sites and due to open in June, had stopped and asks how this will impact on the traders' relocation.
+The letter also notes that work on completing Castle Square had stopped and asks how this will impact on the traders' relocation.  This is one of the four relocation sites and due to open in June.
 
-While acknowledging that Southwark were not able to control the wider economic circumstances, it nonetheless called on Southwark to give stronger and moe effective support.
+The letter acknowledges that Southwark is not able to control the wider economic circumstances, but nonetheless calls on them to give stronger and more effective support to the traders.
 
 
 ## Loyalty 
