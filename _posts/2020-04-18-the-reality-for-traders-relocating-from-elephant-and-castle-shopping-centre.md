@@ -26,6 +26,10 @@ The SLC survey is a relatively small, but it's finding are reinforced by the muc
 
 No surprise, recap planning report; objections...
 
+It contrasts with Southwark's rather rosier assessment of the relocation process. This is light on numbers for those actually relocated, preferring instead percentage measures of trader confidence.  One set of figures that do stand out is that of 64 applications for three of the four main relocation sites, 28 have been rejected; Southwark gives no explanation for either this or what exactly it expects these 28 businesses to do.
+
+No figures are given for the actual amounts granted or distributed.
+
 ## Crisis - what crisis?
 
 Southwark approved £200,000 (good), but at the same time did Delancey the huge favour of adopting CPO powers and leasing both the shopping centre and the LCC, to overide residents legal rights.  While Southwark claim that is at nil cost to itself, it looks like it will be of considerable financial benefit to Delancey, who would not otherewise have been able to secure the necessary funding for their redevelopment scheme.
