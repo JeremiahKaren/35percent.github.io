@@ -10,7 +10,7 @@ The letter is supported by Latin Elephant and Up the Elephant, which includes th
 
 SLC's letter (link) supplies Southwark with the details of a survey of traders about the relocation, conducted just before the Coronavirus lockdown.  This 'snapshot' survey of ten traders shows that 4 had not been offered a relocation space and the remaining six were offered the spaces that were inadequate, mainly because they were too small, but also because they were in poor locations for attracting trade and had no space for storage or for displaying their goods.
 
-The letter also criticises, the traders' appointed business advisor, Tree Shepherd, for a lack of appropriate support, particularly during the lockdown.  The relocation fund is described as not fit for purpose and the relocation database of limited value.  It regrets that Southwark approved using CPO powers on Delancey's behalf, without any increase to the Delancey relocation fund.
+The letter also criticises, the traders' appointed business advisor, [Tree Shepherd](https://treeshepherd.org.uk/regeneration/elephant-castle/), for a lack of appropriate support, particularly during the lockdown.  The relocation fund is described as not fit for purpose and the relocation database of limited value.  It regrets that Southwark approved using CPO powers on Delancey's behalf, without any increase to the Delancey relocation fund.
 
 The letter also notes that work on completing Castle Square had stopped and asks how this will impact on the traders' relocation.  This is one of the four relocation sites and due to open in June.
 
