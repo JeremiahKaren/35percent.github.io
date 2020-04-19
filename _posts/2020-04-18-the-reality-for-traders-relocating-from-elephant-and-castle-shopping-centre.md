@@ -17,7 +17,7 @@ The letter also notes that work on completing Castle Square had stopped and asks
 The letter acknowledges that Southwark is not able to control the wider economic circumstances, but nonetheless calls on them to give stronger and more effective support to the traders.
 
 
-## Loyalty 
+## Loyalty repaid
 
 The longest serving trader surveyed has been at the Elephant for 22 years.  The longest serving trader not offered relocation space has been at the Elephant 15 years; together all ten traders clock up over 115 years at the shopping centre.
 
