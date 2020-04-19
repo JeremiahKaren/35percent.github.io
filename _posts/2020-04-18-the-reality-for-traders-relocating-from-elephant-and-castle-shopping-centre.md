@@ -9,9 +9,12 @@ Southwark Law Centre (SLC) has written to Southwark Council, detailing the short
 The letter is supported by Latin Elephant and Up the Elephant, which includes the 35% Campaign.
 
 SLC's letter (link) supplies Southwark with the details of a survey conducted before the Coronavirus lockdown.  The survey is a snapshot of what is happening; of ten traders, four had not been offered a relocation space and the remaining six said that the spaces offered, in Perronet House and Castle Square, were unsuitable, mainly because they were too small, but also because they were in poor locations for attracting trade and had no space for storage of for displaying their goods.
-says that said.....poor TS support...
-It calls upon Southwark.. support
-Castle Sq - open June
+
+The letter also criticises Tree Shepherd, the traders' appointed business advisor, for a lack of appropriate support, particularly during the lockdown.  The relocation fund is described as not fit for purpose and the relocation database of limited value.  It regrets that Southwark approved using CPO powers on Delancey's behalf, without any increase to the Delancey relocation fund.
+
+The letter also notes that work on completing Castle Square, one of the four relocation sites and due to open in June, had stopped and asks how this will impact on the traders' relocation.
+
+While acknowledging that Southwark were not able to control the wider economic circumstances, it nonetheless called on Southwark to give stronger and moe effective support.
 
 
 ## Loyalty 
