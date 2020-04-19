@@ -5,7 +5,7 @@ title: 'Shopping centre relocation - the reality for traders '
 ---
 ## Nearly half surveyed have no space.
 
-Southwark Law Centre (SLC) has written to Southwark Council to detail the shortcomings of the relocation of the present traders from the Elephant shopping centre, prior to its demolition on July 31 2020.
+Southwark Law Centre (SLC) has written to Southwark Council to detail the shortcomings of the relocation of the independent traders from the Elephant shopping centre, prior to its demolition on July 31 2020.
 The letter is supported by Latin Elephant and Up the Elephant, which includes the 35% Campaign.
 
 In the letter SLC has said.....poor TS support...
