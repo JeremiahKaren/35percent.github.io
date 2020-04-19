@@ -3,9 +3,9 @@ layout: post
 published: false
 title: 'Shopping centre relocation - the reality for traders '
 ---
-## Nearly half surveyed have no space.
+## Law centre survey shows that nearly half of traders have no space.
 
-Southwark Law Centre (SLC) has written to Southwark Council, detailing the shortcomings of the relocation of the independent traders from the Elephant & Castle shopping centre, prior to its demolition on 31 July 2020.
+The [Southwark Law Centre](http://www.southwarklawcentre.org.uk/) (SLC) has written to Southwark Council, detailing the shortcomings of the relocation of the independent traders from the Elephant & Castle shopping centre, prior to its demolition on 31 July 2020.
 The letter is supported by Latin Elephant and Up the Elephant, which includes the 35% Campaign.
 
 SLC's letter (link) supplies Southwark with the details of a survey of traders about the relocation, conducted just before the Coronavirus lockdown.  This 'snapshot' survey of ten traders shows that four had not been offered a relocation space and the remaining were offered the spaces that were inadequate, mainly because they were too small, but also because they were in poor locations for attracting trade and had no space for storage or for displaying their goods.
