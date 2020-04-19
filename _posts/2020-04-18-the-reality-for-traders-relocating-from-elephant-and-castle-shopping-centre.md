@@ -28,6 +28,8 @@ In their comments all the respondents say the same thing - more money is needed,
 
 The SLC survey is a relatively small, but its findings that about two-thirds of traders have no place to go are reinforced by the much larger and earlier research of [Latin Elephant](https://latinelephant.org/)/[petit elephant](https://twitter.com/elephant_petit/status/1118825370017386496).  This has tracked the fate of nearly a hundred businesses, since December 2018 and estimated [that only 40 would be relocated](http://35percent.org/2020-01-20-elephant-traders-still-homeless/), a prediction that now appears to be confirmed by Southwark.  Its baffingly rosey assessment of the relocation process states that while there have been 64 applications for three of the four main relocation sites, only 36 have been successful, with 28 rejected.[^1].  Southwark gives no explanation for this, or says anything about what exactly it expects these 28 businesses to do.  The fourth site, Elephant Park, has had one successful application out of 5.[^2]
 
+Southwark prefers to concentrate/emphasise the increasing confidenceo traders that they will be able to at least remain trading as measured by their own survy and measured by percentages...AECOM EIA...emabarassingly rthis shows fall in public support...remedy...ludicous 'Follow the Herd'
+
 No figures are given for the actual amounts granted or distributed.
 
 ## Crisis - what crisis?
