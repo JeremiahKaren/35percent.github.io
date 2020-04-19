@@ -1,7 +1,7 @@
 ---
 layout: post
 published: false
-title: 'Shopping centre relocation - the harsh reality for traders '
+title: 'The harsh reality of relocation for shopping centre traders '
 ---
 ## Law centre survey shows that nearly half of traders have no space.
 
