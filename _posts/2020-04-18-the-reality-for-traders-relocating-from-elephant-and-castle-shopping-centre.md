@@ -10,6 +10,7 @@ The letter is supported by Latin Elephant and Up the Elephant, which includes th
 
 In the letter SLC has said.....poor TS support...
 It calls upon Southwark.. support
+Castle Sq - open June
 SLC has also supplied Southwark with the details of a survey conducted before the Coronavirus lockdown.  The survey a snapshot of what is happening; of the ten traders surveyed, four had not been offered a relocation space and the remaining six said that the spaces offered, in Perronet House and Castle Square, were unsuitable, mainly because they were too small, but also because they were in poor locations for attracting trade and had no space for storage of for displaying their goods.
 
 ## Loyalty 
@@ -50,8 +51,19 @@ Other obstacles and irritations - already blogged; higher rent and servcice char
 ## Demands
 No closure before traders sorted out.  Not a formality, or just an inevitable outcome of Coroanavirus lockdown.  if the redevelopment is to be one, where no=one is left behind
 
+## Report on progress - Public support for scheme falls
+While the report confirms the welcome £200,000 fund set up by Southwark it takes no account of the entirely new, desperate circumstances of the Coronavirus pandemic.  The report is dated 24 March and could have been excused for not addressing the impact of the Coronavirus, were it not that it was considered on 7 April,  two weeks after lockdown, without any amendment, addendum or change.  The most ludicrous consequence is that the report recommends continuing with the 'Follow the Herd' publicity campaign, no doubt well-meaning when it was concieved, but hardly in step now with the new era of social distancing.  The campaign's aim is to counteract the fall in public approval of the scheme,from 67% in 2016 to 42% now, with a rise of opposition from 6% to 14%,  with the main concern being what is happening to the traders.
+
+Delancey additional relocation costs - hardship fund - App D
+
+Traders had already been relieved of rent and service charge payments, but the complete lack of trade needs to be reconised by increased levels of relocation support; the measures in place at the moment are not enough. 
+
+More importantly report skirts round number not relocated
+'Follow the Herd'
 Certainty.
-Castle Sq - open June
+
+## Stall holders
+While main centre traders now have 100% discount, stall-holders in the surrounding 'moat' have complained that is the market operator, Urban Space Management, who has benefited most from this reduction, hihc has not been fully passed to them.  App
 
 
 
