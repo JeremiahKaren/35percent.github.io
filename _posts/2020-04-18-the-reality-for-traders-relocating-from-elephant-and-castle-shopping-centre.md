@@ -50,7 +50,8 @@ Other obstacles and irritations - already blogged; higher rent and servcice char
 ## Demands
 No closure before traders sorted out.  Not a formality, or just an inevitable outcome of Coroanavirus lockdown.  if the redevelopment is to be one, where no=one is left behind
 
-
+Certainty.
+Castle Sq - open June
 
 
 
