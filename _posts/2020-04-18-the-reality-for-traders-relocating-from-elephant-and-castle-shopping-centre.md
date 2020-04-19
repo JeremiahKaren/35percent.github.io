@@ -19,16 +19,17 @@ The letter acknowledges that Southwark is not able to control the wider economic
 
 ## Loyalty repaid
 
-The longest serving trader surveyed has been at the Elephant for 22 years.  The longest serving trader not offered relocation space has been at the Elephant 15 years; together all ten traders clock up over 115 years at the shopping centre.
+All the respondents to SLC survey come from black and ethnic minirity backgrounds. The longest serving been at the Elephant for 22 years.  The longest serving trader not offered relocation space has been at the Elephant 15 years; together all ten traders clock up over 115 years at the shopping centre.
 
 All the respondents came from black and ethnic minority backgrounds.  
 In their comments all the respondents say the same thing - more money is needed, and more space, and if the space cannot be found then compensation should be offered. Quotes....
 
 ## xxxxxxxx
 
-The SLC survey is a relatively small, but it's finding are reinforced by the much larger research of Latin Elephant/petit Elephant, which tracked 150 businesses (check).  This also found that over half of businesses would not find space in the new development.
+The SLC survey is a relatively small, but its findings that about two-thirds of traders have no place to go are reinforced by the much larger and earlier research of [Latin Elephant](https://latinelephant.org/)/[petit Elephant](https://twitter.com/elephant_petit/status/1118825370017386496).  This has tracked the fate of nearly a hundred businesses, since December 2018 and it also estimated [that only 40 would be relocated](http://35percent.org/2020-01-20-elephant-traders-still-homeless/). 
 
-No surprise, recap planning report; objections...
+
+
 
 It contrasts with Southwark's rather rosier assessment of the relocation process. This is light on numbers for those actually relocated, preferring instead percentage measures of trader confidence.  One set of figures that do stand out is that of 64 applications for three of the four main relocation sites, 28 have been rejected; Southwark gives no explanation for either this or what exactly it expects these 28 businesses to do.
 
@@ -73,9 +74,16 @@ Certainty.
 ## Stall holders
 While main centre traders now have 100% discount, stall-holders in the surrounding 'moat' have complained that is the market operator, Urban Space Management, who has benefited most from this reduction, hihc has not been fully passed to them.  App
 
-
+-----------------------------------------------------------------------------------------------------
 
 A big part of the redevelopment of the shopping centre is the relocation of the present traders to four new sites – Perronet House, Castle Square, Elephant One and Elephant Park. 
+
+[over half of businesses would not find space in the new development](https://latinelephant.org/map/#Q5)
+
+This also found that while that while there were 122 businesses eligible for relocation there was only [57 spaces available](https://twitter.com/LatinElephant/status/1081169626590048258/photo/1) on the four Elephant relocation sites, with another 30 stall spaces available a mile away , in East St.  
+No surprise, recap planning report; objections...
+
+
 
 
 
