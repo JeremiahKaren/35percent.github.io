@@ -24,14 +24,11 @@ All the respondents to SLC survey come from black and ethnic minirity background
 All the respondents came from black and ethnic minority backgrounds.  
 In their comments all the respondents say the same thing - more money is needed, and more space, and if the space cannot be found then compensation should be offered. Quotes....
 
-## xxxxxxxx
+## Prediction confirmed - 
 
-The SLC survey is a relatively small, but its findings that about two-thirds of traders have no place to go are reinforced by the much larger and earlier research of [Latin Elephant](https://latinelephant.org/)/[petit Elephant](https://twitter.com/elephant_petit/status/1118825370017386496).  This has tracked the fate of nearly a hundred businesses, since December 2018 and it also estimated [that only 40 would be relocated](http://35percent.org/2020-01-20-elephant-traders-still-homeless/). 
+The SLC survey is a relatively small, but its findings that about two-thirds of traders have no place to go are reinforced by the much larger and earlier research of [Latin Elephant](https://latinelephant.org/)/[petit elephant](https://twitter.com/elephant_petit/status/1118825370017386496).  This has tracked the fate of nearly a hundred businesses, since December 2018 and estimated [that only 40 would be relocated](http://35percent.org/2020-01-20-elephant-traders-still-homeless/), 
 
-
-
-
-It contrasts with Southwark's rather rosier assessment of the relocation process. This is light on numbers for those actually relocated, preferring instead percentage measures of trader confidence.  One set of figures that do stand out is that of 64 applications for three of the four main relocation sites, 28 have been rejected; Southwark gives no explanation for either this or what exactly it expects these 28 businesses to do.
+The Latin Elephant/petit elephant prediction now appears to be confirmed by Southwark.  Its baffingly rosey assessment of the relocation process states that while there have been 64 applications for three of the four main relocation sites, only 36 have been successful, with 28 rejected. Southwark gives no explanation for either this or what exactly it expects these 28 businesses to do.
 
 No figures are given for the actual amounts granted or distributed.
 
@@ -82,6 +79,8 @@ A big part of the redevelopment of the shopping centre is the relocation of the 
 
 This also found that while that while there were 122 businesses eligible for relocation there was only [57 spaces available](https://twitter.com/LatinElephant/status/1081169626590048258/photo/1) on the four Elephant relocation sites, with another 30 stall spaces available a mile away , in East St.  
 No surprise, recap planning report; objections...
+
+This is light on numbers for those actually relocated, preferring instead percentage measures of trader confidence.  One set of figures that do stand out is that of
 
 
 
