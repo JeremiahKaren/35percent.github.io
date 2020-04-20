@@ -28,7 +28,7 @@ The SLC survey is a relatively small, but its findings that about two-thirds of 
 
 ## Public support for development falls
 
-Southwark prefers to emphasise the increasing confidence traders are said to have, that they will be able to at least remain trading, by reference to an [Equality Impact Assessment (EIA)](http://moderngov.southwark.gov.uk/documents/s88162/Appendix%20E.pdf).  This is cited as evidence that the so-called mitigation measures are working, despite the 28 rejected relocation applications.  The EIA also reveals the embarrasing fact that public support for the shopping centre redevelopment from 67% in 2016 to 42% today, mainly because of concern _'about what will happen to businesses currently in the shopping centre'_. The proposed remedy is to continue the well-meaning, but now hardly appropriate 'Follow The Herd' publicity campaign.
+Southwark prefers to emphasise the increasing confidence traders are said to have, that they will be able to at least remain trading, by reference to an [Equality Impact Assessment (EIA)](http://moderngov.southwark.gov.uk/documents/s88162/Appendix%20E.pdf).  This is cited as evidence that the so-called mitigation measures are working, despite the 28 rejected relocation applications.  The EIA also reveals the embarrasing fact that public support for the shopping centre redevelopment from 67% in 2016 to 42% today, mainly because of concern _'about what will happen to businesses currently in the shopping centre'_. The proposed remedy is to continue the well-meaning, but now hardly appropriate ['Follow The Herd'](https://www.theherdse1.com/)publicity campaign.
 
 
 ## Crisis response needed
