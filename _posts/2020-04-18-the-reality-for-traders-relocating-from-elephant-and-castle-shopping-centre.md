@@ -33,7 +33,7 @@ Southwark prefers to emphasise the increasing confidence traders are said to hav
 
 ## Crisis response needed
 
-As we reported in [our last blogpost](http://35percent.org/2020-04-04-shopping-centre-cpo-council-plough-on-regardless/) Southwark has approved a welcome £200,000 in support of traders, agreed before the Coronavirus lockdown.  Seperately, Southwark has also launched a [Business Hardship Fund](https://www.southwark.gov.uk/health-and-wellbeing/public-health/for-the-public/coronavirus/business-hardhip-fund) of £2m, aimed at all the borough's 10,000 microbusinesses.
+As we reported in [our last blogpost](http://35percent.org/2020-04-04-shopping-centre-cpo-council-plough-on-regardless/) Southwark has approved a welcome £200,000 in support of traders, agreed before the Coronavirus lockdown.  Separately, Southwark has also launched a [Business Hardship Fund](https://www.southwark.gov.uk/health-and-wellbeing/public-health/for-the-public/coronavirus/business-hardhip-fund) of £2m, aimed at all the borough's 10,000 microbusinesses.
 
 But otherwise Southwark's [latest report](http://moderngov.southwark.gov.uk/documents/s88157/Report%20EC%20Shopping%20Centre%20Progress.pdf) on the progress of the shopping centre redevelopment takes no account of the entirely new, desperate circumstances of the Coronavirus pandemic.  This could be excused as it is dated 24 March, the first day of the lockdown, but was not considered until 7 April,  two weeks after lockdown, without any amendment or addendum, that recognised the new trading situation.
 
