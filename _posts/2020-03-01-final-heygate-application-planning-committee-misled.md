@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Elephant Park - planning committee misled?"
-published: true 
-subtitle: "Lendlease fails to declare public funding for affordable housing"
+title: Elephant Park - planning committee misled?
+published: true
+subtitle: Lendlease fails to declare public funding for affordable housing
 ---
 
 Developer Lendlease failed to disclose at [Last week's planning committee meeting](http://35percent.org/2020-03-01-final-heygate-application-planning-committee-misled/) that it was in receipt of public funding, which could have increased the amount of affordable housing at Elephant Park (aka the Heygate estate regeneration). 
@@ -42,6 +42,14 @@ Whatever the merits of this argument (and we think it has none) it still leaves 
 There is a similarity here to the ongoing dispute about affordable housing in the [shopping centre development](https://35percent.org/shopping-centre). Developer Delancey claims that the £11.24m it is also receiving from the Mayor is being used to increase the amount of social rented housing. We [showed previously](http://35percent.org/2018-07-02-viability-and-delancey/) how it was going to Delancey's bottom line:
 
 ![](http://35percent.org/img/delanceyfvaprofit.png)
+
+
+## POSTSCRIPT - no public funding
+
+Shortly after publishing the above post, Southwark Council contacted us to say that Elephant Park had not received any public funding.  They forwarded [a letter from Lendlease agents](https://www.docdroid.net/fbRoIQ5/ltr-to-lbs-re-35pc-campaign-tweet-020320-pdf), DP9, saying that the appearance of Elephant Park at the top of a list of developments that had received GLA funding was an ‘administrative reporting error’.  [GLA have confirmed](https://www.whatdotheyknow.com/request/elephant_park_grant_funding_appl#incoming-1558142) that no application for funding had been received.
+
+In answer to further questions, Southwark said that there was no realistic prospect of securing public funds for Elephant Park and the tenure change to BtR would not affect affordable housing delivery.  Southwark further said that the BtR change was allowable by the planning consent and ‘maintains project delivery’, forestalling delay.  Southwark also does not think its share of extra profit, or ‘overage’, would be affected by the BtR change.
+
 
 <meta name="twitter:card" content="summary_large_image" />
 
