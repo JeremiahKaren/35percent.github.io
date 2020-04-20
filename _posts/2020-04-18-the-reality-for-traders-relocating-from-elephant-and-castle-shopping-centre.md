@@ -31,7 +31,7 @@ The SLC survey is a relatively small, but its findings that about two-thirds of 
 Southwark prefers to emphasise the increasing confidence traders are said to have, that they will be able to at least remain trading, by reference to an [Equality Impact Assessment (EIA)](http://moderngov.southwark.gov.uk/documents/s88162/Appendix%20E.pdf).  This is cited as evidence that the so-called mitigation measures are working, despite the 28 rejected relocation applications.  The EIA also reveals the embarrasing fact that public support for the shopping centre redevelopment from 67% in 2016 to 42% now, mainly because of concern 'about what will happen to businesses currently in the shopping centre'. The proposed remedy is to continue the well-meaning, but now hardly appropriate 'Follow The Herd' publicity campaign.
 
 
-## risis?
+## 
 
 As we reported in [our last bogpost](http://35percent.org/2020-04-04-shopping-centre-cpo-council-plough-on-regardless/) Southwark has approved a welcome £200,000 in support of traders, agreed before the Coronavirus lockdown.  Seperately, Southwark has also launched a [Business Hardship Fund](https://www.southwark.gov.uk/health-and-wellbeing/public-health/for-the-public/coronavirus/business-hardhip-fund) of £2m, aimed at all the borough's 10,000 microbusinesses.
 
@@ -41,13 +41,13 @@ The report gives no figures for any amount of money actually paid out to traders
 
 At the same time Southwark has done Delancey the huge favour [of adopting CPO powers](http://moderngov.southwark.gov.uk/mgAi.aspx?ID=47899) and [leasing both the shopping centre and the LCC](http://moderngov.southwark.gov.uk/mgAi.aspx?ID=56017), to overide residents legal rights.  While Southwark claim that is at nearly nil cost to itself, it will be of considerable financial benefit to Delancey, who would not otherwise have been able to secure the necessary funding for their redevelopment scheme [^3].
 
-It did this without insisting that Delancey improve its own support for traders.  The relocation fund remains £634,700; Delancey still insist on closure on 31 July, with some minot concession and despite SE1 survey, minor concessions.
+It did this without insisting that Delancey improve its own support for traders.  The relocation fund remains £634,700 and Delancey still insist on closure on 31 July, with some [minor concessions](https://www.london-se1.co.uk/news/view/10180?utm_source=SE1+Direct&utm_campaign=0c3a7afe5a-SE1+Direct+1000&utm_medium=email&utm_term=0_9d1f71fd65-0c3a7afe5a-407867973) and despite [the SE1 survey](https://twitter.com/se1/status/1240692710987558913) that showed 72% of local people want the centre kept open.
 
-Traders still being asked for 3 quotes for fitting costs; TS suport severly hit, alreaddy the subclosed shop because of Coronavirus, reportedly holding online meetings, many traders nonetheless feel cut adrift  
+Overt the past 3 years and more the shopping centre traders have been fighting a hugely unequal battle to keep their businesses going, while the centre has been rundown and trade blighted.  Now is the time for Southwark to start giving the level of support it has been giving Delancey.  It must get cash to traders for their immediate survival.  It must tell Delancey it will not be using its CPO powers on its behalf, until all the traders are either relocated or suitably compensated and that there must be no centre closure until this is done.
 
-Certainty of trade endingh on 31 July
+You can support us in our fight for fairness for traders, by sharing these hashtags; #supporttradersnotdelancey #supportelephantnotdelancey #ElephantJR.
 
-
+![](http://35percent.org/img/deldemands.jpg)
 
 
 [^1]: See [Elephant and Castle Shopping Centre Progress Report Appendix D](http://moderngov.southwark.gov.uk/documents/s88161/Appendix%20D.pdf) para 23
