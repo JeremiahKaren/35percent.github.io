@@ -16,7 +16,7 @@ The letter also notes that work on completing Castle Square had stopped and asks
 
 The letter acknowledges that Southwark is not able to control the wider economic circumstances, but nonetheless calls on them to give stronger and more effective support to the traders.
 
-## Loyalty repaid
+## Loyalty not repaid
 
 All the trader respondents to SLC survey come from black and ethnic minority backgrounds, the longest serving trader having been at the Elephant for 22 years, while the longest serving trader not offered relocation space has been there 15 years; all ten traders together clock up over 115 years at the shopping centre.
 
@@ -39,6 +39,8 @@ But otherwise Southwark's [latest report](http://moderngov.southwark.gov.uk/docu
 
 The report gives no figures for any amount of money actually paid out to traders, from any source.
 
+## Support traders, not Delancey
+
 At the same time Southwark has done Delancey the huge favour [of adopting CPO powers](http://moderngov.southwark.gov.uk/mgAi.aspx?ID=47899) and [leasing both the shopping centre and the LCC](http://moderngov.southwark.gov.uk/mgAi.aspx?ID=56017), to overide residents legal rights.  While Southwark claim that is at nearly nil cost to itself, it will be of considerable financial benefit to Delancey, who would not otherwise have been able to secure the necessary funding for their redevelopment scheme [^3].
 
 It did this without insisting that Delancey improve its own support for traders.  The relocation fund remains £634,700 and Delancey still insist on closure on 31 July, with some [minor concessions](https://www.london-se1.co.uk/news/view/10180?utm_source=SE1+Direct&utm_campaign=0c3a7afe5a-SE1+Direct+1000&utm_medium=email&utm_term=0_9d1f71fd65-0c3a7afe5a-407867973) and despite [the SE1 survey](https://twitter.com/se1/status/1240692710987558913) that showed 72% of local people want the centre kept open.
@@ -46,6 +48,8 @@ It did this without insisting that Delancey improve its own support for traders.
 Overt the past 3 years and more the shopping centre traders have been fighting a hugely unequal battle to keep their businesses going, while the centre has been rundown and trade blighted.  Now is the time for Southwark to start giving the level of support it has been giving Delancey.  It must get cash to traders for their immediate survival.  It must tell Delancey it will not be using its CPO powers on its behalf, until all the traders are either relocated or suitably compensated and that there must be no centre closure until this is done.
 
 You can support us in our fight for fairness for traders, by sharing these hashtags; #supporttradersnotdelancey #supportelephantnotdelancey #ElephantJR.
+
+[#supporttradersnotdelancey](https://twitter.com/hashtag/supporttradersnotdelancey?src=hashtag_click) [#supportelephantnotdelancey](https://twitter.com/hashtag/supportelephantnotdelancey?src=hashtag_click) [#ElephantJR](https://twitter.com/hashtag/ElephantJR?src=hashtag_click).
 
 ![](http://35percent.org/img/deldemands.jpg)
 
