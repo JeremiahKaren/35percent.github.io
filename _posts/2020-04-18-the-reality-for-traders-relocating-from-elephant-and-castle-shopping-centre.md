@@ -41,7 +41,7 @@ The report also gives no figures for any amount of money actually paid out to tr
 
 ## Support traders, not Delancey
 
-Southwark has done Delancey the huge favour [of adopting CPO powers](http://moderngov.southwark.gov.uk/mgAi.aspx?ID=47899) and [leasing both the shopping centre and the LCC](http://moderngov.southwark.gov.uk/mgAi.aspx?ID=56017), to overide residents legal rights.  While Southwark claim that is at nearly nil cost to itself, it will be of considerable financial benefit to Delancey, who would not otherwise have been able to secure the necessary funding for their redevelopment scheme [^3].
+Southwark has done Delancey the huge favour [of adopting CPO powers](http://moderngov.southwark.gov.uk/mgAi.aspx?ID=47899) and [leasing both the shopping centre and the LCC](http://moderngov.southwark.gov.uk/mgAi.aspx?ID=56017), to override residents legal rights.  While Southwark claim that is at nearly nil cost to itself, it will be of considerable financial benefit to Delancey, who would not otherwise have been able to secure the necessary funding for their redevelopment scheme [^3].
 
 It did this without insisting that Delancey improve its own support for traders.  The relocation fund remains the meagre £634,700, agreed at planning committee, nearly 2 years ago and Delancey still insist on closure on 31 July, with some [minor concessions](https://www.london-se1.co.uk/news/view/10180?utm_source=SE1+Direct&utm_campaign=0c3a7afe5a-SE1+Direct+1000&utm_medium=email&utm_term=0_9d1f71fd65-0c3a7afe5a-407867973) and despite [the SE1 survey](https://twitter.com/se1/status/1240692710987558913) that showed 72% of local people want the centre kept open.
 
