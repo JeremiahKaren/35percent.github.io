@@ -47,7 +47,7 @@ Southwark did this without insisting that Delancey improve its own support for t
 
 Over the past 3 years and more the shopping centre traders have been fighting a hugely unequal battle to keep their businesses going, while the centre has been rundown and trade blighted.  Now is the time for Southwark to start giving the level of support it has been giving Delancey.  It must get cash to traders for their immediate survival.  It must tell Delancey it will not be using its CPO powers on its behalf, until all the traders are either relocated or suitably compensated and that there must be no centre closure until this is done.
 
-You can support us in our fight for fairness for traders, by sharing these hashtags; #supporttradersnotdelancey #supportelephantnotdelancey #ElephantJR.
+You can support us in our fight for fairness for traders, by sharing these hashtags; 
 
 [#supporttradersnotdelancey](https://twitter.com/hashtag/supporttradersnotdelancey?src=hashtag_click) [#supportelephantnotdelancey](https://twitter.com/hashtag/supportelephantnotdelancey?src=hashtag_click) [#ElephantJR](https://twitter.com/hashtag/ElephantJR?src=hashtag_click).
 
