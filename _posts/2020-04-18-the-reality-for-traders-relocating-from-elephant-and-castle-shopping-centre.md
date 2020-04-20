@@ -21,10 +21,9 @@ The letter acknowledges that Southwark is not able to control the wider economic
 
 All the respondents to SLC survey come from black and ethnic minirity backgrounds, the longest serving has been at the Elephant for 22 years,the longest serving trader not offered relocation space has there 15 years; together all ten traders clock up over 115 years at the shopping centre.
 
-All the respondents came from black and ethnic minority backgrounds.  
-In their comments all the respondents say the same thing - more money is needed, and more space, and if the space cannot be found then compensation should be offered. Quotes....
+In their survey comments all the respondents say the same thing - that more money is needed, and more space, and if the space cannot be found then compensation should be offered.
 
-## Prediction confirmed - 
+## Prediction confirmed - two-thirds with nowhere to go
 
 The SLC survey is a relatively small, but its findings that about two-thirds of traders have no place to go are reinforced by the much larger and earlier research of [Latin Elephant](https://latinelephant.org/)/[petit elephant](https://twitter.com/elephant_petit/status/1118825370017386496).  This has tracked the fate of nearly a hundred businesses, since December 2018 and estimated [that only 40 would be relocated](http://35percent.org/2020-01-20-elephant-traders-still-homeless/), a prediction that now appears to be confirmed by Southwark.  Its baffingly rosey assessment of the relocation process states that while there have been 64 applications for three of the four main relocation sites, only 36 have been successful, with 28 rejected.[^1].  Southwark gives no explanation for this, or says anything about what exactly it expects these 28 businesses to do.  The fourth site, Elephant Park, has had one successful application out of 5.[^2]
 
