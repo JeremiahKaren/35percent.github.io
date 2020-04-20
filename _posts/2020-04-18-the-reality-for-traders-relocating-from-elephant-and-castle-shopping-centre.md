@@ -18,7 +18,7 @@ The letter acknowledges that Southwark is not able to control the wider economic
 
 ## Loyalty repaid
 
-All the respondents to SLC survey come from black and ethnic minority backgrounds, the longest serving has been at the Elephant for 22 years,the longest serving trader not offered relocation space has there 15 years; together all ten traders clock up over 115 years at the shopping centre.
+All the trader respondents to SLC survey come from black and ethnic minority backgrounds, the longest serving trader having been at the Elephant for 22 years, while the longest serving trader not offered relocation space has been there 15 years; all ten traders together clock up over 115 years at the shopping centre.
 
 In their survey comments all the respondents say the same thing - that more money is needed, and more space, and if the space cannot be found then compensation should be offered.
 
