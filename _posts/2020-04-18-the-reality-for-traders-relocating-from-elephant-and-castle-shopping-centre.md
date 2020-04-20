@@ -25,7 +25,7 @@ In their survey comments all the respondents say the same thing - that more mone
 
 ## Prediction confirmed - two-thirds with nowhere to go
 
-The SLC survey is a relatively small, but its findings that about two-thirds of traders have no place to go are reinforced by the much larger and earlier research of [Latin Elephant](https://latinelephant.org/)/[petit elephant](https://twitter.com/elephant_petit/status/1118825370017386496).  This has tracked the fate of nearly a hundred businesses, since December 2018 and estimated [that only 40 would be relocated](http://35percent.org/2020-01-20-elephant-traders-still-homeless/), a prediction that now appears to be confirmed by Southwark Council itself.  Its baffingly rosey assessment of the relocation process states that while there have been 64 applications for three of the four main relocation sites, only 36 have been successful, with 28 rejected.[^1].  Southwark gives no explanation for this, or says anything about what exactly it expects these 28 businesses to do.  The fourth site, Elephant Park, has had one successful application out of 5.[^2]
+The SLC survey is a relatively small, but its findings that about two-thirds of traders have no place to go are reinforced by the much larger and earlier research of [Latin Elephant](https://latinelephant.org/)/[petit elephant](https://twitter.com/elephant_petit/status/1118825370017386496).  This has tracked the fate of nearly a hundred businesses, since December 2018 and estimated [that only 40 would be relocated](http://35percent.org/2020-01-20-elephant-traders-still-homeless/), a prediction that now appears to be confirmed by Southwark Council in its [own assessment of the relocation process](http://moderngov.southwark.gov.uk/documents/s88161/Appendix%20D.pdf) states that while there have been 64 applications for three of the four main relocation sites, only 36 have been successful, with 28 rejected.[^1].  Southwark gives no explanation for this, or says anything about what exactly it expects these 28 businesses to do.  The fourth site, Elephant Park, has had one successful application out of 5.[^2]
 
 Southwark prefers to concentrate/emphasise the increasing confidenceo traders that they will be able to at least remain trading as measured by their own survy and measured by percentages...AECOM EIA...emabarassingly rthis shows fall in public support...remedy...ludicous 'Follow the Herd'
 
@@ -71,9 +71,9 @@ Certainty.
 ## Stall holders
 While main centre traders now have 100% discount, stall-holders in the surrounding 'moat' have complained that is the market operator, Urban Space Management, who has benefited most from this reduction, hihc has not been fully passed to them.  App
 
-[^1]: See Elephant and Castle Shopping Centre Progress Report Appendix D para 23
+[^1]: See [Elephant and Castle Shopping Centre Progress Report Appendix D](http://moderngov.southwark.gov.uk/documents/s88161/Appendix%20D.pdf) para 23
 
-[^2]: See Elephant and Castle Shopping Centre Progress Report Appendix D para 15
+[^2]: See [Elephant and Castle Shopping Centre Progress Report Appendix D](http://moderngov.southwark.gov.uk/documents/s88161/Appendix%20D.pdf) para 15
 
 -----------------------------------------------------------------------------------------------------
 
