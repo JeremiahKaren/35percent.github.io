@@ -27,7 +27,7 @@ In their survey comments all the respondents say the same thing - that more mone
 
 ## Relocation applications rejected
 
-The SLC survey is a relatively small, but its finding that 4 out of 10 traders have no place to go is mirrored by the much larger and earlier research of [Latin Elephant](https://latinelephant.org/)/[petit elephant](https://twitter.com/elephant_petit/status/1118825370017386496).  This has tracked the fate of nearly a hundred businesses, since December 2018 and estimated [that only 40 would be relocated](http://35percent.org/2020-01-20-elephant-traders-still-homeless/), a prediction that now appears to be confirmed by Southwark Council in its [own assessment of the relocation process](http://moderngov.southwark.gov.uk/documents/s88161/Appendix%20D.pdf).  This states that while there have been 64 applications for three of the four main relocation sites, only 36 have been successful, with 28 rejected. [^1]  Southwark gives no explanation for this, or says anything about what exactly it expects these 28 businesses to do.  The fourth site, Elephant Park, has had one successful application out of 5. [^2]
+The SLC survey is a relatively small, but its finding that 4 out of 10 traders have no place to go is mirrored by the much larger and earlier research of [Latin Elephant](https://latinelephant.org/)/[petit elephant](https://twitter.com/elephant_petit/status/1118825370017386496).  This has tracked the fate of nearly a hundred businesses, since December 2018 and estimated [that only 40 would be relocated](http://35percent.org/2020-01-20-elephant-traders-still-homeless/), a prediction that now appears to be confirmed by Southwark Council in its [own assessment of the relocation process](http://moderngov.southwark.gov.uk/documents/s88161/Appendix%20D.pdf).  This states that while there have been 64 applications for three of the four main relocation sites, only 36 have been successful, with 28 rejected[^1].  Southwark gives no explanation for this, or says anything about what exactly it expects these 28 businesses to do.  The fourth site, Elephant Park, has had one successful application out of 5[^2].
 
 ## Public support for development falls
 
@@ -44,7 +44,7 @@ The report also gives no figures for any amount of money actually paid out to tr
 
 ## Support traders, not Delancey
 
-Southwark has done Delancey the huge favour [of adopting CPO powers](http://moderngov.southwark.gov.uk/mgAi.aspx?ID=47899) and [leasing both the shopping centre and the LCC](http://moderngov.southwark.gov.uk/mgAi.aspx?ID=56017), to override residents legal rights.  While Southwark claim that is at nearly nil cost to itself, it will be of considerable financial benefit to Delancey, who would not otherwise have been able to secure the necessary funding for their redevelopment scheme [^3].
+Southwark has done Delancey the huge favour [of adopting CPO powers](http://moderngov.southwark.gov.uk/mgAi.aspx?ID=47899) and [leasing both the shopping centre and the LCC](http://moderngov.southwark.gov.uk/mgAi.aspx?ID=56017), to override residents legal rights.  While Southwark claim that is at nearly nil cost to itself, it will be of considerable financial benefit to Delancey, who would not otherwise have been able to secure the necessary funding for their redevelopment scheme[^3].
 
 Southwark did this without insisting that Delancey improve its own support for traders.  The relocation fund remains the meagre £634,700, agreed nearly 2 years ago, at planning committee.  Delancey also still insist on closing the centre on the 31 July, with some [minor concessions](https://www.london-se1.co.uk/news/view/10180?utm_source=SE1+Direct&utm_campaign=0c3a7afe5a-SE1+Direct+1000&utm_medium=email&utm_term=0_9d1f71fd65-0c3a7afe5a-407867973) and despite [the SE1 survey](https://twitter.com/se1/status/1240692710987558913) that showed 72% of local people want the centre kept open.
 
@@ -58,6 +58,7 @@ You can support us in our fight for fairness for traders, by sharing these hasht
 
 
 __Footnotes:__
+
 [^1]: See [Elephant and Castle Shopping Centre Progress Report Appendix D](http://moderngov.southwark.gov.uk/documents/s88161/Appendix%20D.pdf) para 23
 
 [^2]: See [Elephant and Castle Shopping Centre Progress Report Appendix D](http://moderngov.southwark.gov.uk/documents/s88161/Appendix%20D.pdf) para 15
