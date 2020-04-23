@@ -57,7 +57,8 @@ You can support us in our fight for fairness for traders, by sharing these hasht
 ![](http://35percent.org/img/deldemands.jpg)
 
 
-__Footnotes:__
+__Footnotes:__  
+
 
 [^1]: See [Elephant and Castle Shopping Centre Progress Report Appendix D](http://moderngov.southwark.gov.uk/documents/s88161/Appendix%20D.pdf) para 23
 
@@ -67,9 +68,3 @@ __Footnotes:__
 
 -----------------------------------------------------------------------------------------------------
 
-
-
-
-
-
-Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
