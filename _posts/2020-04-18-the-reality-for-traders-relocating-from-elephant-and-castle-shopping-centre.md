@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true 
 title: 'The harsh reality of relocation for shopping centre traders'
 subtitle: 'Law centre survey shows that nearly half of traders have nowhere to go'
 ---
@@ -13,7 +13,9 @@ SLC's letter supplies Southwark with the details of a survey of traders about th
 
 The letter also criticises the traders' appointed business advisor, [Tree Shepherd](https://treeshepherd.org.uk/regeneration/elephant-castle/), for a lack of appropriate support, particularly during the lockdown.  The relocation fund is described as not fit for purpose and the relocation database of limited value.  It regrets that Southwark approved [using CPO powers on Delancey's behalf](http://moderngov.southwark.gov.uk/mgAi.aspx?ID=47899) without any increase to the Delancey relocation fund.
 
-The letter also notes that work on completing Castle Square had stopped and asks how this will impact on the traders' relocation.  This is one of the four relocation sites and due to open in June.
+The letter also notes that work on completing Castle Square had stopped and asks how this will impact on the traders' relocation.  This is one of the four relocation sites and due to open in June - but work has stopped as a result of the coronavirus crisis:
+
+![](/img/castlesquarecurrent.jpg)
 
 The letter acknowledges that Southwark is not able to control the wider economic circumstances, but nonetheless calls on them to give stronger and more effective support to the traders.
 
