@@ -64,6 +64,6 @@ __Footnotes:__
 
 [^2]: See [Elephant and Castle Shopping Centre Progress Report Appendix D](http://moderngov.southwark.gov.uk/documents/s88161/Appendix%20D.pdf) para 15
 
-[^3]: See [E&C Cpmpulsory Purchase Order Report](http://moderngov.southwark.gov.uk/documents/s88163/Report%20EC%20CPO.pdf) para 15
+[^3]: See [E&C Cpmpulsory Purchase Order Report](http://moderngov.southwark.gov.uk/documents/s88163/Report%20EC%20CPO.pdf) para 16, 57
 
 -----------------------------------------------------------------------------------------------------
