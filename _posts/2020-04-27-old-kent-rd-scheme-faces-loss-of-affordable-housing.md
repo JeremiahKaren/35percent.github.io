@@ -5,7 +5,7 @@ title: Old Kent Rd scheme faces loss of affordable housing
 ---
 ## Berkely Homes threatens to reduce affordable housing at Malt St
 
-Berkely Homes (link) has the honour of being the first developer in Southwark to threaten to reduce its affordable housing contibution to the borough, since the onset of the Coronavirus crisis.  Berkely secured planning permission for the Malt St development, just off the Old Kent Rd, in June 2019 (links), with a promise to build 40% affordable housing.  Now a planning committee report reveals this affordable housing is at 'risk' because Berkeley intends to appeal against that it will reduce the amount of affordable housing, unless Southwark agrees to an unprecedented clause in its planning agreement, that could see all the affordable housing lost, should its development development partner, Peabody (link), hit financial trouble.
+Berkely Homes (link) has the honour of being the first developer in Southwark to threaten to reduce its affordable housing contibution to the borough, since the onset of the Coronavirus crisis.  Berkely secured planning permission for the Malt St development, just off the Old Kent Rd, in June 2019 (links), with a promise to build 40% affordable housing.  Now a planning committee report reveals that this affordable housing is at 'risk', because Berkeley intends to mount an appeal that will reopen the question of the viability of the scheme, unless Southwark agrees to an unprecedented clause in its planning agreement, that could see all the affordable housing lost, should its development development partner, Peabody (link), hit financial trouble.
 
 Peabody got its own planning permission for the neighbouring Nyes Wharf redevelopment, in September 2018, but sold this on to Berkely, with Peabody to provide  all the affordable housing across both sites.  Together the two sites will deliver 1,569 new homes of which 581 will be affordable (359 at social rent and 222 shared-ownership).
 
@@ -14,7 +14,13 @@ Now Southwark's planning committee has been asked to approve a so-called Mortgag
 The MIP report is at pains to point out that such a sale is very unlikely to happen, because Peabody is in rude financial health; it has an annual turnover of £630m, an annual profit of £160m and assets of £7.6bn, so the possibility that it will fail is remote.  The report reinforces the point by noting that no major housing association has ever gone into administration and quotes a GLA document that says 'there is no known cases of a MIP clause being triggered.....'.
 
 This all begs the obvious question - why have this new clause if it is never going to be needed?
-A careful reading of th report gives an answer. While the Malt St scheme is 'enitirely financed by Peabody from its own investment  
+A careful reading of the report gives an answer - Peabody wants it to allow them to borrow more money.  To quote the report 'Peabody have funds to deliver this scheme, but given the very large scale of the investment   
+
+
+
+While the Malt St scheme is 'entirely financed by Peabody from its own investment' it nonetheless wants more private bank finance and needs to make more of its 'capital assets'. The banks, according to the report, do not consider the 'assets' 'sufficiently "liquid"'
+
+the purpose of the borrowing is to increase affordable housing (pragmatic response to lack of government funding).  Agreed with GLA, note
 
 ## A double threat
 1 MIP clause 2 Berkely appeal
@@ -31,7 +37,7 @@ It would be easy for the planning committee to approve the clause in the almost 
 
 ## All in it together?
 
-While Southwark would the first option of buying the affordable housing under the MIP clause, at the market rate for affordabe hosuing, it would also have to meet the amount due and outstanding under the terms under the relevant security documentation including the all accrued principal monies, interests and costs and expenses. The rport cites the Covid crisis twice, on each occasion to bol
+While Southwark would the first option of buying the affordable housing under the MIP clause, at the market rate for affordabe hosuing, it would also have to meet the amount due and outstanding under the terms under the relevant security documentation including the all accrued principal monies, interests and costs and expenses. The report cites the Covid crisis twice, on one occasion to bolster Peabody, by saying how difficult it is to get bank finance, on the other to say that bowing to the MIP clause demand will help affordable housing delivery 'as we emerge from the Covid-crisis'.  Peabody and Berkely draw no criticism for making the demand that threatens delivery in the first place.
 
 ## Profits first, people second
 
