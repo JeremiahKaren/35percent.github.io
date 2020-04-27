@@ -14,7 +14,7 @@ Now Southwark's planning committee has been asked to approve a so-called Mortgag
 The MIP report is at pains to point out that such a sale is very unlikely to happen, because Peabody is in rude financial health; it has an annual turnover of £630m, an annual profit of £160m and assets of £7.6bn, so the possibility that it will fail is remote.  The report reinforces the point by noting that no major housing association has ever gone into administration and quotes a GLA document that says 'there is no known cases of a MIP clause being triggered.....'.
 
 This all begs the obvious question - why have this new clause if it is never going to be needed?
-A careful reading of the report gives an answer - Peabody wants it to allow them to borrow more money.  To quote the report 'Peabody have funds to deliver this scheme, but given the very large scale of the investment   
+A careful reading of the report gives an answer - Peabody wants it to allow them to borrow more money elswhere.  To quote the report 'Peabody have funds to deliver this scheme, but given the very large scale of the investment they are only willing to make such a commitment on the basis that they are able to secure additional funding in the future aginast the the asset of the completed scheme'  
 
 
 
