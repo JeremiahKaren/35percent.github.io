@@ -15,23 +15,27 @@ The MIP report is at pains to point out that such a sale is very unlikely to hap
 
 ## Mayor of London in the frame
 
-This all begs the obvious question - why have this new clause if it is never going to be needed?  The first part of the answer is that the Mayor of London wants it.  As Southwark's report explains it, the Mayor wants  _'a consistent approach to MIP clauses across the London boroughs and to secure greater access to funding for RPs (registered providers) to increase the delivery of affordable housing'_.  The report continues; _'In order to achieve this, the GLA MIP clause would allow, in certain limited and unlikely circumstances, affordable housing to no longer be “in perpetuity”'_ (para 8).  The report notes that Southwark's own MIP clause is different from the Mayor's, precisely on this point; Southwark **does** require affordable housing to remain such 'in perpetuity', should a RP go into administration (para 14) which 
+This all begs the obvious question - why have this new clause if it is never going to be needed?  Part of the answer is that the Mayor of London wants it.  As Southwark's report explains it, the Mayor wants  _'a consistent approach to MIP clauses across the London boroughs and to secure greater access to funding for RPs (registered providers) to increase the delivery of affordable housing'_.  The report continues; _'In order to achieve this, the GLA MIP clause would allow, in certain limited and unlikely circumstances, affordable housing to no longer be “in perpetuity”'_ (para 8).  The report notes that Southwark's own MIP clause is different from the Mayor's, precisely on this point; Southwark **does** require affordable housing to remain such 'in perpetuity', should a RP go into administration (para 14).  A good example is the s106 for xxxxxxxxxxx (add example).
 
-This GLA MIP clause is evidently different to one that Southwark has hitherto used quite happily in s106 agreements with developers, a clause which evidently does guarantees that affordable housing remains so 'in perpetuity'.  A good example is the s106 for xxxxxxxxxxx (add example) and is referred to several tim.
-A careful reading of the report gives an answer - Peabody wants it to allow them to borrow more money for other pojects.  To quote the report _'Peabody have funds to deliver this scheme, but given the very large scale of the investment they are only willing to make such a commitment on the basis that they are able to secure additional funding in the future aginast the the asset of the completed scheme'_ . To ensure there is no misunderstanding of Peabody's position the report also says _'Peabody has confirmed that they cannot procees as the RP [registered provider] partner in this scheme without this clause'_
+## Peabody in the frame
 
-The 
-
+Peabody also wants the GLA MIP, because it would allow it to borrow more money for other projects.  To quote the report _'Peabody have funds to deliver this scheme, but given the very large scale of the investment they are only willing to make such a commitment on the basis that they are able to secure additional funding in the future against the asset of the completed scheme'_ .  The report says that while the Malt St scheme is _'entirely financed by Peabody from its own investment'_ Peabody nonetheless wants more private bank finance and needs to make more of its _'capital assets'_. The banks, according to the report, do not consider the 'assets' _'sufficiently "liquid"_'
 
 
-While the Malt St scheme is 'entirely financed by Peabody from its own investment' it nonetheless wants more private bank finance and needs to make more of its 'capital assets'. The banks, according to the report, do not consider the 'assets' 'sufficiently "liquid"'
+## Berkeley in the frame
 
-the purpose of the borrowing is to increase affordable housing (pragmatic response to lack of government funding).  Agreed with GLA, note
+Berkeley backs Peabody to the hilt. Para 9, 12
 
-## A double threat
-1 MIP clause 2 Berkely appeal
+## A triple threat - Southwark's arm being twisted
+
+1 Mayor - policy note 'harmonising MIP' 2 Peabody - wants more 'liquid' assets through GLA MIP clause 3 Berkeley wanted Nyes Wharf, so is backing Peabody with threat of 'non-determination appeal' and reduction   in affordable housing.
 Unedifying arm-twisting.
+To ensure there is no misunderstanding of Peabody's position the report also says _'Peabody has confirmed that they cannot procees as the RP [registered provider] partner in this scheme without this clause'_
+Will be a precedent, contrary to report's assertion (22,23,24)
 
+## All in it together?
+
+While Southwark would the first option of buying the affordable housing under the MIP clause, at the market rate for affordabe hosuing, it would also have to meet the amount due and outstanding under the terms under the relevant security documentation including the all accrued principal monies, interests and costs and expenses. The report, inevitably, cites the Covid crisis twice, on one occasion to bolster Peabody, by saying how difficult it is to get bank finance, on the other to say that bowing to the MIP clause demand will help affordable housing delivery 'as we emerge from the Covid-crisis'.  Peabody and Berkely draw no criticism for making the demand that threatens delivery in the first place.
 
 ## Open for business
 
@@ -40,12 +44,16 @@ When Southwark's chief executive said the borough was open for business she was 
 It would be easy for the planning committee to approve the clause in the almost sure knowledge that it will never be triggered and the affordable housing will always remain such.  But this is the thin end of a very long wedge.  These clauses have already been used in Islington, Tower Hamlets and Lamnbeth.  They are being actively promoted by the GLA.  Once they proliferate the whole principle of affordable housing being for 'in perpetuity' will start to be lost and developers and their registered provider partners will use the same kind of ingenuity that thye have used with viability assessments to squeeze real affordable housing out of London.
 
 
+## What we think - profits first, people second
 
-## All in it together?
+So at the bottom of all this is the Mayor's desire to appease developers and RPs, who in turn want to appease the banks.  An s106 arrangement that has worked perfectly well up to now (banks have evidently been satisfied with the standard MIP clause, it has never been triggered, and no RP as ever gone bust) is to be changed, compromising the 'in perpetuity' principle of affordable housing.  The Mayor hopes that this will increase the amount of 'affordable housing', but has extracted (published) no concrete commitment from developers/RPs in exchange for the more developer friendly MIP (true?; it may make affordable housing a more 'liquid' asset, but that its no guarantee we will get more affordable housing, in th longer run.  The Mayor is a long way of meeting his 50% strategic affordable housing target (check AMR) and has shown how elastic his interpretation of what developers have to do to meet affordable houisng policies is, in the case of the Biscuit Factory.
 
-While Southwark would the first option of buying the affordable housing under the MIP clause, at the market rate for affordabe hosuing, it would also have to meet the amount due and outstanding under the terms under the relevant security documentation including the all accrued principal monies, interests and costs and expenses. The report cites the Covid crisis twice, on one occasion to bolster Peabody, by saying how difficult it is to get bank finance, on the other to say that bowing to the MIP clause demand will help affordable housing delivery 'as we emerge from the Covid-crisis'.  Peabody and Berkely draw no criticism for making the demand that threatens delivery in the first place.
+Check Peabody, Berkeley home delivery record.
+Also worth noting 
 
-## Profits first, people second
+Southwark's planning committee should reject this proposal, which purports to facilitate a general increase in affordable housing, but presents no evidence that this will actually happen either in Southwark or elswhere.  There is no guarantee that any finacial gain from making affordable housing more 'liquid' (reduced borrowing costs, bigger loans) will not simply be syphoned off as bigger profits.  The change though will definitely compromise the status of affordable housing having to remain so 'in perpetuity' - the thin end of a very long wedge. 
+
+ 
 
 
 Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
