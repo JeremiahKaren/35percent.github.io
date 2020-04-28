@@ -13,7 +13,9 @@ Now Southwark's planning committee is being asked to approve a so-called Mortgag
 
 The MIP report is at pains to point out that such a sale is very unlikely to happen, because Peabody is in rude financial health; it has an annual turnover of £630m, an annual profit of £160m and assets of £7.6bn, so the possibility that it will fail is remote.  The report reinforces the point by noting that no major housing association has ever gone into administration and quotes a GLA document that says 'there is no known cases of a MIP clause being triggered.....'.
 
-This all begs the obvious question - why have this new clause if it is never going to be needed?
+## Mayor of London in the frame
+
+This all begs the obvious question - why have this new clause if it is never going to be needed?  The first part of the answer is that the Mayor of London wants it.  As Southwark's report explains it, the Mayor wants  _'a consistent approach to MIP clauses across the London boroughs and to secure greater access to funding for RPs to increase the delivery of affordable housing'_.  The report continues; _'In order to achieve this, the GLA MIP clause would allow, in certain limited and unlikely circumstances, affordable housing to no longer be “in perpetuity”'_. 
 A careful reading of the report gives an answer - Peabody wants it to allow them to borrow more money for other pojects.  To quote the report _'Peabody have funds to deliver this scheme, but given the very large scale of the investment they are only willing to make such a commitment on the basis that they are able to secure additional funding in the future aginast the the asset of the completed scheme'_ . To ensure there is no misunderstanding of Peabody's position the report also says _'Peabody has confirmed that they cannot procees as the RP [registered provider] partner in this scheme without this clause'_
 
 The 
