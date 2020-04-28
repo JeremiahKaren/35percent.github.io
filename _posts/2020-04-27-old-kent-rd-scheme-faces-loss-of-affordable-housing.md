@@ -3,9 +3,9 @@ layout: post
 published: false
 title: Old Kent Rd scheme faces loss of affordable housing
 ---
-## Berkely Homes threatens to reduce affordable housing at Malt St
+## Berkeley Homes threatens to reduce affordable housing at Malt St
 
-Berkely Homes (link) has the honour of being the first developer in Southwark to threaten to reduce its affordable housing contibution to the borough, since the onset of the Coronavirus crisis.  Berkely secured planning permission for the Malt St development, just off the Old Kent Rd, in June 2019 (links), with a promise to build 40% affordable housing.  Now a planning committee report (link) reveals that this affordable housing is at 'risk', because Berkeley intends to mount an appeal that will reopen the question of the viability of the scheme.  To prevent this from happening, the report recommends that Southwark approve an unprecedented clause in its planning agreement with Berkely that could see all the affordable housing lost, should Berkely's development development partner, Peabody (link), hit financial trouble.
+Berkeley Homes (link) has the honour of being the first developer in Southwark  to threaten to reduce the affordable housing in one of its schemes, since the onset of the Coronavirus crisis.  Berkeley secured planning permission for the Malt St development, just off the Old Kent Rd, in June 2019 (links), with a promise to build 40% affordable housing.  Now a planning committee report (link) reveals that this affordable housing is at 'risk', because Berkeley intends to mount an appeal that will reopen the question of the viability of the scheme.  To prevent this from happening, the report recommends that Southwark approve an unprecedented clause in its planning agreement with Berkely that could see all the affordable housing lost, should Berkely's development development partner, Peabody (link), hit financial trouble.
 
 Peabody got its own planning permission for the neighbouring Nyes Wharf redevelopment, in September 2018, but sold this on to Berkely, Peabody to provide  all the affordable housing across both sites.  Together the two sites will deliver 1,569 new homes of which 581 will be affordable (359 at social rent and 222 shared-ownership).
 
