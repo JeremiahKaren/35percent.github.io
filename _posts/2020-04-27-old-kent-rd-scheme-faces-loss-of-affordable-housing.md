@@ -33,9 +33,13 @@ To ensure there is no misunderstanding the report reiterates _'Peabody has confi
 
 ## A triple threat - Southwark's arm being twisted
 
-Southwark therefore appear to be caught between the Mayor's desire to 'promote a consistent approach' to , in favour of relieving developers of affordable housing where a MIP clause is triggered and two  
+Southwark therefore appear to be confronted by a Mayor determined to _'promote a consistent approach'_(para 13) to MIP and of two development partners, in Peabody and Berkeley, determined to take full advantage of it to their own benefit, regardless of any long-term threat to affordable housing.
 
-1 Mayor - policy note 'harmonising MIP' 2 Peabody - wants more 'liquid' assets through GLA MIP clause 3 Berkeley wanted Nyes Wharf, so is backing Peabody with threat of 'non-determination appeal' and reduction   in affordable housing.
+Southwark's report tries to make the best of it; as well as emphasising the unlikelihood of any default, it claims that this decision will _'not therefore set a precedent for other schemes.'_ para 23  The Mayor has different ideas - he wants to see his MiP clauses [used across London](https://www.housing.org.uk/globalassets/files/resource-files/gla_practice_note_mortgagee_in_possession_january_2019.pdf) and says they will be used for anything he 'calls-in', (such as the Biscuit Factory link) and that he 'will promote their use for other schemes that are referable (to him) ...and non-referable' ie basically everything.
+
+It 
+
+
 Unedifying arm-twisting.
 
 Will be a precedent, contrary to report's assertion (22,23,24)
