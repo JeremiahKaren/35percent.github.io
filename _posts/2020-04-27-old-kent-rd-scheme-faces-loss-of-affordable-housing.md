@@ -13,18 +13,18 @@ Southwark's planning committee is being asked to approve a so-called Mortgagee i
 
 The MIP report is at pains to point out that such a sale is very unlikely to happen, because Peabody is in rude financial health; it has an annual turnover of £630m, an annual profit of £160m and assets of £7.6bn, so the possibility that it will fail is remote.  The report reinforces the point by noting that no major housing association has ever gone into administration and quotes a GLA document that says 'there is no known cases of a MIP clause being triggered.....'.
 
-## Mayor of London in the frame
+## Mayor of London opens the door...
 
-This all begs the obvious question - why have this new clause if it is never going to be needed?  Part of the answer is that the Mayor of London wants it.  As Southwark's report explains it, the Mayor wants  _'a consistent approach to MIP clauses across the London boroughs and to secure greater access to funding for RPs (registered providers) to increase the delivery of affordable housing'_.  The report continues; _'In order to achieve this, the GLA MIP clause would allow, in certain limited and unlikely circumstances, affordable housing to no longer be “in perpetuity”'_ (para 8).  The report notes that Southwark's own MIP clause is different from the Mayor's, precisely on this point; Southwark **does** require affordable housing to remain such 'in perpetuity', should a RP go into administration (para 14).  A good example is the s106 for xxxxxxxxxxx (add example).
+This all begs the obvious question - why have this new clause if it is never going to be needed?  Part of the answer is that the Mayor of London wants it.  As Southwark's report explains it, the Mayor wants  _'a consistent approach to MIP clauses across the London boroughs and to secure greater access to funding for RPs (registered providers) to increase the delivery of affordable housing'_.  The report continues; _'In order to achieve this, the GLA MIP clause would allow, in certain limited and unlikely circumstances, affordable housing to no longer be “in perpetuity”'_ (para 8).  The report notes that Southwark's own MIP clause is different from the Mayor's, precisely on this point; Southwark **does** require affordable housing to remain such 'in perpetuity', should a RP go into administration (para 14).  The s106 for the Aylesbury redevelopment, for example has a clause that requires the a 'mortgagee in possession' to be bound by the site's planning obligations, which would include delvering the affordable housing (link).
 
-## Peabody in the frame
+## Peabody
 
 Peabody also wants the GLA MIP, because it would allow it to borrow more money for other projects.  To quote the report _'Peabody have funds to deliver this scheme, but given the very large scale of the investment they are only willing to make such a commitment on the basis that they are able to secure additional funding in the future against the asset of the completed scheme'_ .  The report says that while the Malt St scheme is _'entirely financed by Peabody from its own investment'_ Peabody nonetheless wants more private bank finance and needs to make more of its _'capital assets'_. The banks, according to the report, do not consider the 'assets' _'sufficiently "liquid"_'
 
 
 ## Berkeley in the frame
 
-Berkeley backs Peabody to the hilt. Para 9, 12
+Berkeley backs Peabody to the hilt.  in what looks like a calculated bit of arm-twisting  Para 9, 12
 
 ## A triple threat - Southwark's arm being twisted
 
