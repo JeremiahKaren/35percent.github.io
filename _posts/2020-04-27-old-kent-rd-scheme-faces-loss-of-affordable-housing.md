@@ -5,7 +5,7 @@ title: Old Kent Rd scheme faces loss of affordable housing
 ---
 ## Berkeley Homes threatens to reduce affordable housing at Malt St
 
-Berkeley Homes (link) has the honour of being the first developer in Southwark  to threaten to reduce the affordable housing in one of its schemes, since the onset of the Coronavirus crisis.  Berkeley secured planning permission for the Malt St development, just off the Old Kent Rd, in June 2019 (links), with a promise to build 40% affordable housing.  Now a planning committee report (link) reveals that this affordable housing is at 'risk', because Berkeley intends to mount an appeal that will reopen the question of the viability of the scheme.  To prevent this from happening, the report recommends that Southwark approve an unprecedented clause in its planning agreement with Berkely that could see all the affordable housing lost, should Berkely's development partner, Peabody (link), hit financial trouble.
+Berkeley Homes (link) has the honour of being the first developer in Southwark  to threaten to reduce the affordable housing in one of its schemes, since the onset of the Coronavirus crisis.  Berkeley secured planning permission for the [Malt St development](https://planning.southwark.gov.uk/online-applications-old/simpleSearchResults.do?action=firstPage), just off the Old Kent Rd, in June 2019 (links), with a promise to build 40% affordable housing.  Now a planning committee report (link) reveals that this affordable housing is at 'risk', because Berkeley intends to mount an appeal that will reopen the question of the viability of the scheme.  To prevent this from happening, the report recommends that Southwark approve an unprecedented clause in its planning agreement with Berkely that could see all the affordable housing lost, should Berkely's development partner, Peabody (link), hit financial trouble.
 
 Peabody had its own planning permission for a development next door to Malt St - Nyes Wharf - and sold this to Berkeley, uniting the two developments.  Together the two sites will deliver 1,569 new homes, of which 581 will be affordable (359 at social rent and 222 shared-ownership), delivered by Peabody.
 
@@ -17,14 +17,14 @@ The MIP report is at pains to point out that such a sale is very unlikely to hap
 
 This all begs the obvious question - why have this new clause if it is never going to be needed?  Part of the answer is that the Mayor of London wants it.  As Southwark's report explains it, the Mayor wants  _'a consistent approach to MIP clauses across the London boroughs and to secure greater access to funding for RPs (registered providers) to increase the delivery of affordable housing'_.  The report continues; _'In order to achieve this, the GLA MIP clause would allow, in certain limited and unlikely circumstances, affordable housing to no longer be “in perpetuity”'_ (para 8).  The report notes that Southwark's own MIP clause is different from the Mayor's, precisely on this point; Southwark **does** require affordable housing to remain such 'in perpetuity', should a RP go into administration (para 14).  The s106 for the Aylesbury redevelopment, for example has a clause that requires the a 'mortgagee in possession' to be bound by the site's planning obligations, which would include delvering the affordable housing (link).
 
-## Peabody
+## Peabody takes advantage
 
 Peabody also wants the GLA MIP, because it would allow it to borrow more money for other projects.  To quote the report _'Peabody have funds to deliver this scheme, but given the very large scale of the investment they are only willing to make such a commitment on the basis that they are able to secure additional funding in the future against the asset of the completed scheme'_ .  The report says that while the Malt St scheme is _'entirely financed by Peabody from its own investment'_ Peabody nonetheless wants more private bank finance and needs to make more of its _'capital assets'_. The banks, according to the report, do not consider the 'assets' _'sufficiently "liquid"_'
 
 
-## Berkeley in the frame
+## Berkeley backs Peabody
 
-Berkeley backs Peabody to the hilt.  in what looks like a calculated bit of arm-twisting  Para 9, 12
+Berkeley backs Peabody to the hilt, saying that it cannot, or will not, proceed without them, in what looks like a calculated bit of arm-twisting. Berkeley goes on to threaten to reduce the affordable housing in the scheme, if they do not get their way.  It would do this by way of an [appeal of 'non-determination'](https://www.planningportal.co.uk/info/200232/planning_applications/58/the_decision-making_process/8) to the governement, saying that Southwark have failed to conclude the s106 legal agreement the required time, and taking the opportunity to reopen the question of the viability of the scheme.    Para 9, 12
 
 ## A triple threat - Southwark's arm being twisted
 
