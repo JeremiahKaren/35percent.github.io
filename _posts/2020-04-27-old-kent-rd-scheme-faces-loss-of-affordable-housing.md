@@ -19,12 +19,11 @@ This all begs the obvious question - why have this new clause if it is never goi
 
 ## Peabody takes advantage
 
-Peabody also wants the GLA MIP, because it would allow it to borrow more money for other projects.  To quote the report _'Peabody have funds to deliver this scheme, but given the very large scale of the investment they are only willing to make such a commitment on the basis that they are able to secure additional funding in the future against the asset of the completed scheme'_ .  The report says that while the Malt St scheme is _'entirely financed by Peabody from its own investment'_ Peabody nonetheless wants more private bank finance and needs to make more of its _'capital assets'_. The banks, according to the report, do not consider the 'assets' _'sufficiently "liquid"_'
+Peabody also wants the GLA MIP, because it would allow it to borrow more money for other projects.  To quote the report _'Peabody have funds to deliver this scheme, but given the very large scale of the investment they are only willing to make such a commitment on the basis that they are able to secure additional funding in the future against the asset of the completed scheme'_ .  The report says that while the Malt St scheme is _'entirely financed by Peabody from its own investment'_ Peabody nonetheless wants more private bank finance and needs to make more of its _'capital assets'_. The banks, according to the report, do not consider the 'assets' _'sufficiently "liquid"_'.
 
+## Berkeley turns the screw
 
-## Berkeley backs Peabody
-
-Berkeley backs Peabody to the hilt, saying that it cannot, or will not, proceed without them, in what looks like a calculated bit of arm-twisting. Berkeley goes on to threaten to reduce the affordable housing in the scheme, if they do not get their way.  It would do this by way of an [appeal of 'non-determination'](https://www.planningportal.co.uk/info/200232/planning_applications/58/the_decision-making_process/8) to the governement, saying that Southwark have failed to conclude the s106 legal agreement the required time, and taking the opportunity to reopen the question of the viability of the scheme.    Para 9, 12
+To ensure there is no misunderstanding the report reiterates _'Peabody has confirmed that they cannot proceed as the RP [registered provider] partner in this scheme without this clause'_. Berkeley, in turn, backs Peabody to the hilt, saying that it cannot, or will not, proceed without them. Berkeley goes on to threaten to reduce the affordable housing in the scheme, if the pair of them do not get their way.  It would do this by way of an [appeal of 'non-determination'](https://www.planningportal.co.uk/info/200232/planning_applications/58/the_decision-making_process/8) to the governement, saying that Southwark have failed to conclude the s106 legal agreement in the required time, and taking the opportunity to reopen the question of the viability of the scheme.    Para 9, 12
 
 ## A triple threat - Southwark's arm being twisted
 
