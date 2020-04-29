@@ -25,7 +25,7 @@ Part of the answer is that this is what the Mayor of London wants.  As Southwark
 
 ## Peabody takes advantage
 
-Peabody also wants the GLA MIP, because it would allow it to borrow more money for other projects.  To quote the report _'Peabody have funds to deliver this scheme, but given the very large scale of the investment they are only willing to make such a commitment on the basis that they are able to secure additional funding in the future against the asset of the completed scheme'_ .  The report says that while the Malt St scheme is _'entirely financed by Peabody from its own investment'_ Peabody nonetheless wants more private bank finance and needs to make more of its _'capital assets'_. The banks, according to the report, do not consider the 'assets' _'sufficiently "liquid"_'.
+Peabody also wants the GLA MIP, because it would allow it to borrow more money for other projects.  To quote the report _'Peabody have funds to deliver this scheme, but given the very large scale of the investment they are only willing to make such a commitment on the basis that they are able to secure additional funding in the future against the asset of the completed scheme'_ .  The report says that while the Malt St scheme is _'entirely financed by Peabody from its own investment'_ Peabody nonetheless wants more private bank finance and needs to make more of its _'capital assets'_. The banks, according to the report, do not consider the affrodable housing 'assets' to be 'sufficiently "liquid"'
 
 ## Berkeley turns the screw
 
