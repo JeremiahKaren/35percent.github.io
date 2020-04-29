@@ -41,7 +41,7 @@ So, while it would be easy for Southwark's planning committee to approve the cla
 
 This is the thin end of a very long wedge.  These clauses have already been used in Islington, Tower Hamlets and Lamnbeth.  They are being actively promoted by the GLA and the Mayor.  Once they proliferate the whole principle of affordable housing being for 'in perpetuity' will start to be lost and developers and their registered provider partners will use the same kind of ingenuity that they have used with viability assessments to squeeze real affordable housing out of London.
 
-The report briefing and its recommendation (link), will be considered by the planning committee meeting on Monday 4 May, the first to be held online.
+The [briefing and its recommendation](http://moderngov.southwark.gov.uk/documents/s88488/Report%20Mortgagee%20in%20possession%20S106%20clause-%20Malt%20Street%20redevelopment.pdf), will be considered by the [planning committee meeting on Monday 4 May](http://moderngov.southwark.gov.uk/ieListDocuments.aspx?CId=119&MId=6643&Ver=4), the first to be held online.
 
 Check Peabody, Berkeley home delivery record, GLA amr
 
