@@ -9,7 +9,7 @@ Berkeley Homes (link) is the first developer in Southwark to threaten to reduce 
 
 Peabody had its own planning permission for a development next door to Malt St - Nyes Wharf - but sold this to Berkeley, uniting the two developments.  Together the two sites will deliver 1,569 new homes, of which 581 will be affordable (359 at social rent and 222 shared-ownership), delivered by Peabody.
 
-## Why a Mortagee in Possession (MIP) clause matters
+## Why a Mortgagee in Possession (MIP) clause matters
 
 Southwark's planning committee is being asked to approve a so-called [Mortgagee in Possession (MIP)](https://www.oxfordreference.com/view/10.1093/oi/authority.20110803100211114) clause, in the legal s106 agreement for the joint site.  Simply put, if a borrower cannot pay their mortgage, then the lender can take legal possession of the property and sell it - they become the 'mortgagee in possession'.  Up until now this has evidently been covered in Southwark's 106 agreements with a clause that binds the mortgagee to any affordable housing obligations, so that that the affordable housing is protected and remains affordable 'in perpetuity'; the s106 for the Aylesbury redevelopment is an example of this (link).
 
