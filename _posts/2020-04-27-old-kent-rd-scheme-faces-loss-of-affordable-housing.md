@@ -13,7 +13,7 @@ Peabody had its own planning permission for a development next door to Malt St -
 
 Southwark's planning committee is being asked to approve a so-called [Mortgagee in Possession (MIP)](https://www.oxfordreference.com/view/10.1093/oi/authority.20110803100211114) clause, in the legal s106 agreement for the joint site.  Simply put, if a borrower cannot pay their mortgage, then the lender can take legal possession of the property and sell it - they become the 'mortgagee in possession'.  Up until now this has evidently been covered in Southwark's 106 agreements with a clause that binds the mortgagee to any affordable housing obligations, so that that it remains affordable 'in perpetuity' and is protected; the s106 for the Aylesbury redevelopment is an example of this(link).
 
-The MIP clause proposed for Malt St is different though - it will not secure the affordable housing in the event of Peabody defaulting; should this happen, Southwark would be given first option to take on the affordable housing itself, but if it could not or would not, the affordable housing could then be to be sold- off onto the open market.   
+The MIP clause proposed for Malt St is different though - it will not secure the affordable housing in the event of Peabody defaulting; should this happen, Southwark would be given first option to take on the affordable housing itself, but if it could not or would not (eg borrowing costs secured by the affordable housing would have to be met), the affordable housing could then be to be sold-off onto the open market.   
 
 The MIP report is at pains to point out that such a situation is very unlikely to arise, because Peabody is in rude financial health; it has an annual turnover of £630m, an annual profit of £160m and assets of £7.6bn, so the possibility that it will fail is remote.  The report reinforces the point by noting that no major housing association has ever gone into administration and quotes a GLA document that says 'there is no known cases of a MIP clause being triggered.....'.
 
@@ -31,26 +31,20 @@ Peabody also wants the GLA MIP, because it would allow it to borrow more money f
 
 To ensure there is no misunderstanding the report reiterates _'Peabody has confirmed that they cannot proceed as the RP [registered provider] partner in this scheme without this clause'_. Berkeley, in turn, backs Peabody to the hilt, saying that it cannot, or will not, proceed without them. Berkeley goes on to threaten to reduce the affordable housing in the scheme, if the pair of them do not get their way.  Berkeley would do this by way of an [appeal of 'non-determination'](https://www.planningportal.co.uk/info/200232/planning_applications/58/the_decision-making_process/8) to the governement, saying that Southwark have failed to conclude the s106 legal agreement in the required time, and taking the opportunity to reopen the question of the viability of the scheme.    Para 9, 12
 
-## A triple threat - Southwark's arm being twisted
+## Southwark's arm is being twisted
 
-Southwark therefore appear to be confronted by a Mayor determined to _'promote a consistent approach'_(para 13) to MIP and of two development partners, in Peabody and Berkeley, determined to take full advantage of it to their own benefit, regardless of any long-term threat to affordable housing.
+Southwark therefore appear to be confronted by a Mayor determined to _'promote a consistent approach'_(para 13) to MIP, regardless of any long-term threat to affordable housing and of two development partners, in Peabody and Berkeley, determined to take full advantage of it to their own benefit, .
 
-Southwark's report tries to make the best of it; as well as emphasising the unlikelihood of any default, it claims that this decision will _'not therefore set a precedent for other schemes.'_ para 23  The Mayor has different ideas - he wants to see [his MiP clauses used across London](https://www.housing.org.uk/globalassets/files/resource-files/gla_practice_note_mortgagee_in_possession_january_2019.pdf) and says they will be used for anything he 'calls-in', (such as the Biscuit Factory link) and that he 'will promote their use for other schemes that are referable (to him) ...and non-referable' ie basically everything.
+Southwark's report tries to make the best of it; as well as emphasising the unlikelihood of any default, it claims that this decision will _'not therefore set a precedent for other schemes.'_ para 23  The Mayor has different ideas - he wants to see [his MiP clauses used across London](https://www.housing.org.uk/globalassets/files/resource-files/gla_practice_note_mortgagee_in_possession_january_2019.pdf) and says they will be used for anything he 'calls-in', (such as the Biscuit Factory link) and that he 'will promote their use for other schemes that are referable...and non-referable' ie basically everything.
 
-It 
+And while Southwark would have the first option of buying the affordable housing under the Mayor's MIP clause, at the market rate for affordabe housing, it would also have to meet _'the amount due and outstanding under the terms the relevant security documentation including the all accrued principal monies, interests and costs and expenses'_.
 
+Also The purpose of all of this is increase the 
 
-Unedifying arm-twisting.
-
-Will be a precedent, contrary to report's assertion (22,23,24)
-
-## All in it together?
-
-While Southwark would the first option of buying the affordable housing under the MIP clause, at the market rate for affordabe hosuing, it would also have to meet the amount due and outstanding under the terms under the relevant security documentation including the all accrued principal monies, interests and costs and expenses. The report, inevitably, cites the Covid crisis twice, on one occasion to bolster Peabody, by saying how difficult it is to get bank finance, on the other to say that bowing to the MIP clause demand will help affordable housing delivery 'as we emerge from the Covid-crisis'.  Peabody and Berkely draw no criticism for making the demand that threatens delivery in the first place.
 
 ## Open for business
 
-When Southwark's chief executive said the borough was open for business she was not kidding. Elephant..Lendlease...Delancey...viability assessments.  Covidcrisis...unviable developments down OKRd...expect more of this.  Malt St clear instance of passing the risk on.  Affordable housing is treated like an asset and a greater sum can be raised to clear any debt by selling affordable homes at free market values....(whereas before it was protected (check 'standard' MIP clause).
+
 
 It would be easy for the planning committee to approve the clause in the almost sure knowledge that it will never be triggered and the affordable housing will always remain such.  But this is the thin end of a very long wedge.  These clauses have already been used in Islington, Tower Hamlets and Lamnbeth.  They are being actively promoted by the GLA.  Once they proliferate the whole principle of affordable housing being for 'in perpetuity' will start to be lost and developers and their registered provider partners will use the same kind of ingenuity that thye have used with viability assessments to squeeze real affordable housing out of London.
 
