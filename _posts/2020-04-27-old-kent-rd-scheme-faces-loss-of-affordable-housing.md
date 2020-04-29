@@ -39,11 +39,7 @@ Southwark's report tries to make the best of it; as well as emphasising the unli
 
 ## What we think
 
-An s106 MIP clause that has evidently worked evidently worked perfectly well up to now is to be changed, compromising the 'in perpetuity' principle of affordable housing.  The Mayor hopes that this will increase the amount of 'affordable housing', but has published no concrete commitment from developers/RPs in exchange for the more developer friendly MIP ; it may make affordable housing a more 'liquid' asset, but that its no guarantee we will get more affordable housing, in the longer run.  
-
-
-
-
+An s106 MIP clause that has evidently worked evidently worked perfectly well up to now is to be changed, compromising the 'in perpetuity' principle of affordable housing.  The Mayor hopes that this will increase the amount of 'affordable housing', but has published no concrete commitment from developers/RPs in exchange for the more developer friendly MIP ; it may make affordable housing a more 'liquid' asset, but that its no guarantee we will get more affordable housing, in the longer run.
 
 It would be easy for the planning committee to approve the clause in the almost sure knowledge that it will never be triggered and the affordable housing will always remain such.  But this is the thin end of a very long wedge.  These clauses have already been used in Islington, Tower Hamlets and Lamnbeth.  They are being actively promoted by the GLA.  Once they proliferate the whole principle of affordable housing being for 'in perpetuity' will start to be lost and developers and their registered provider partners will use the same kind of ingenuity that thye have used with viability assessments to squeeze real affordable housing out of London.
 
