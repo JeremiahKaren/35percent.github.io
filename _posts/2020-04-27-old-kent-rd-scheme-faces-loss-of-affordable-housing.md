@@ -33,34 +33,19 @@ To ensure there is no misunderstanding the report reiterates _'Peabody has confi
 
 ## Southwark's arm is being twisted
 
-Southwark therefore appear to be confronted by a Mayor determined to _'promote a consistent approach'_(para 13) to MIP, regardless of any long-term threat to affordable housing and of two development partners, in Peabody and Berkeley, determined to take full advantage of it to their own benefit, .
+Southwark therefore appear to be confronted by a Mayor determined to _'promote a consistent approach'_ (para 13) to MIP, but heedless of any long-term threat to affordable housing and of two development partners, in Peabody and Berkeley, determined to take full advantage, to their own benefit, .
 
 Southwark's report tries to make the best of it; as well as emphasising the unlikelihood of any default, it claims that this decision will _'not therefore set a precedent for other schemes.'_ para 23  The Mayor has different ideas - he wants to see [his MiP clauses used across London](https://www.housing.org.uk/globalassets/files/resource-files/gla_practice_note_mortgagee_in_possession_january_2019.pdf) and says they will be used for anything he 'calls-in', (such as the Biscuit Factory link) and that he 'will promote their use for other schemes that are referable...and non-referable' ie basically everything.
 
-And while Southwark would have the first option of buying the affordable housing under the Mayor's MIP clause, at the market rate for affordabe housing, it would also have to meet _'the amount due and outstanding under the terms the relevant security documentation including the all accrued principal monies, interests and costs and expenses'_.
-
-Also The purpose of all of this is increase the 
-
-
-## Open for business
-
-
-
-It would be easy for the planning committee to approve the clause in the almost sure knowledge that it will never be triggered and the affordable housing will always remain such.  But this is the thin end of a very long wedge.  These clauses have already been used in Islington, Tower Hamlets and Lamnbeth.  They are being actively promoted by the GLA.  Once they proliferate the whole principle of affordable housing being for 'in perpetuity' will start to be lost and developers and their registered provider partners will use the same kind of ingenuity that thye have used with viability assessments to squeeze real affordable housing out of London.
-
-
 ## What we think - profits first, people second
 
-So at the bottom of all this is the Mayor's desire to appease developers and RPs, who in turn want to appease the banks.  An s106 arrangement that has worked perfectly well up to now (banks have evidently been satisfied with the standard MIP clause, it has never been triggered, and no RP as ever gone bust) is to be changed, compromising the 'in perpetuity' principle of affordable housing.  The Mayor hopes that this will increase the amount of 'affordable housing', but has extracted (published) no concrete commitment from developers/RPs in exchange for the more developer friendly MIP (true?; it may make affordable housing a more 'liquid' asset, but that its no guarantee we will get more affordable housing, in th longer run.  The Mayor is a long way of meeting his 50% strategic affordable housing target (check AMR) and has shown how elastic his interpretation of what developers have to do to meet affordable houisng policies is, in the case of the Biscuit Factory.
+the bottom of all this is the Mayor's desire to appease developers and RPs, who in turn want to appease the banks.  An s106 arrangement that has worked perfectly well up to now (banks have evidently been satisfied with the standard MIP clause, it has never been triggered, and no RP as ever gone bust) is to be changed, compromising the 'in perpetuity' principle of affordable housing.  The Mayor hopes that this will increase the amount of 'affordable housing', but has extracted (published) no concrete commitment from developers/RPs in exchange for the more developer friendly MIP (true?; it may make affordable housing a more 'liquid' asset, but that its no guarantee we will get more affordable housing, in the longer run.  
 
-Check Peabody, Berkeley home delivery record.
-Also worth noting 
+It would be easy for the planning committee to approve the clause in the almost sure knowledge that it will never be triggered and the affordable housing will always remain such.  But this is the thin end of a very long wedge.  These clauses have already been used in Islington, Tower Hamlets and Lamnbeth.  They are being actively promoted by the GLA.  Once they proliferate the whole principle of affordable housing being for 'in perpetuity' will start to be lost and developers and their registered provider partners will use the same kind of ingenuity that thye have used with viability assessments to squeeze real affordable housing out of London.
 
 Southwark's planning committee should reject this proposal, which purports to facilitate a general increase in affordable housing, but presents no evidence that this will actually happen either in Southwark or elswhere.  There is no guarantee that any finacial gain from making affordable housing more 'liquid' (reduced borrowing costs, bigger loans) will not simply be syphoned off as bigger profits.  The change though will definitely compromise the status of affordable housing having to remain so 'in perpetuity' - the thin end of a very long wedge.
 
 The report (link), goes to planning committee on Monday 4 May, the first to be held online.
 
- 
-
-
-Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
+Check Peabody, Berkeley home delivery record.
+Also worth noting 
