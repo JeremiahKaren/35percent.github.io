@@ -15,7 +15,7 @@ Southwark's planning committee is being asked to approve a so-called [Mortgagee 
 
 The MIP clause proposed for Malt St is different though - it will not secure the affordable housing in the event of Peabody defaulting; instead Southwark would be given first option to take on the affordable housing itself, but if it does not, the affordable housing can then be sold-off, onto the open market.  If Southwark exercises its option it would have to pay anything outstanding _'under the terms of the relevant security documents, including all aacrued principal monies, interest and costs and expenses'_ as well as the cost of the affordable housing. 
 
-The MIP briefing is at pains to point out that such a situation is very unlikely to arise, because Peabody is in rude financial health; it has an annual turnover of £630m, an annual profit of £160m and assets of £7.6bn, so the possibility that it will fail is remote.  The report reinforces the point by noting that no major housing association has ever gone into administration and quotes a GLA document that says 'there is no known cases of a MIP clause being triggered.....'.
+The MIP briefing is at pains to point out that such a situation is very unlikely to arise, because Peabody is in rude financial health; it has an annual turnover of £630m, an annual profit of £160m and assets of £7.6bn, so the possibility that it will fail is remote.  The briefing reinforces the point by noting that no major housing association has ever gone into administration and quotes a GLA document that says 'there is no known cases of a MIP clause being triggered.....'.
 
 ## Mayor of London opens the door...
 
