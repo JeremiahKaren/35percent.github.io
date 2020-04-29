@@ -9,9 +9,11 @@ Berkeley Homes (link) has the honour of being the first developer in Southwark  
 
 Peabody had its own planning permission for a development next door to Malt St - Nyes Wharf - and sold this to Berkeley, uniting the two developments.  Together the two sites will deliver 1,569 new homes, of which 581 will be affordable (359 at social rent and 222 shared-ownership), delivered by Peabody.
 
-Southwark's planning committee is being asked to approve a so-called Mortgagee in Possession (MIP) clause in the s106 planning agreement for the joint site, that would enable Peabody, or its mortgage lender, to sell-off all the affordable housing onto the open market, under certain circumstances.  The report (link), goes to planning committee on Monday 4 May, the first to be held online.
+Southwark's planning committee is being asked to approve a so-called [Mortgagee in Possession (MIP)]()clause, in the legal s106 agreement that seals the Malt St/Nye Wharf planning permission.  Simply put if a borrower cannot pay their mortgage, then the lender can take legal possession of the property and sell it - they become the 'mortgagee in possession'.  Up until now this has evidently been covered in Southwark's 106 agreements with a clause that binds the mortgagee to any affordable housing obligations, so that that it remains affordable 'in perpetuity' and is protected; the s106 for the Aylesbury redevelopment is an example of this(link).
 
-The MIP report is at pains to point out that such a sale is very unlikely to happen, because Peabody is in rude financial health; it has an annual turnover of £630m, an annual profit of £160m and assets of £7.6bn, so the possibility that it will fail is remote.  The report reinforces the point by noting that no major housing association has ever gone into administration and quotes a GLA document that says 'there is no known cases of a MIP clause being triggered.....'.
+The MIP clause proposed for Malt St is different though - it will not secure the affordable housing in the event of Peabody defaulting; should this happen, Southwark would be given first option to take on the affordable housing itself, but if it could not or would not, the affordable housing could then be to be sold- off onto the open market.   
+
+The MIP report is at pains to point out that such a situation is very unlikely to arise, because Peabody is in rude financial health; it has an annual turnover of £630m, an annual profit of £160m and assets of £7.6bn, so the possibility that it will fail is remote.  The report reinforces the point by noting that no major housing association has ever gone into administration and quotes a GLA document that says 'there is no known cases of a MIP clause being triggered.....'.  
 
 ## Mayor of London opens the door...
 
@@ -27,9 +29,11 @@ To ensure there is no misunderstanding the report reiterates _'Peabody has confi
 
 ## A triple threat - Southwark's arm being twisted
 
+Southwark therefore appear to be caught between the Mayor's desire to 'promote a consistent approach' to , in favour of relieving developers of affordable housing where a MIP clause is triggered and two  
+
 1 Mayor - policy note 'harmonising MIP' 2 Peabody - wants more 'liquid' assets through GLA MIP clause 3 Berkeley wanted Nyes Wharf, so is backing Peabody with threat of 'non-determination appeal' and reduction   in affordable housing.
 Unedifying arm-twisting.
-To ensure there is no misunderstanding of Peabody's position the report also says _'Peabody has confirmed that they cannot procees as the RP [registered provider] partner in this scheme without this clause'_
+
 Will be a precedent, contrary to report's assertion (22,23,24)
 
 ## All in it together?
@@ -50,7 +54,9 @@ So at the bottom of all this is the Mayor's desire to appease developers and RPs
 Check Peabody, Berkeley home delivery record.
 Also worth noting 
 
-Southwark's planning committee should reject this proposal, which purports to facilitate a general increase in affordable housing, but presents no evidence that this will actually happen either in Southwark or elswhere.  There is no guarantee that any finacial gain from making affordable housing more 'liquid' (reduced borrowing costs, bigger loans) will not simply be syphoned off as bigger profits.  The change though will definitely compromise the status of affordable housing having to remain so 'in perpetuity' - the thin end of a very long wedge. 
+Southwark's planning committee should reject this proposal, which purports to facilitate a general increase in affordable housing, but presents no evidence that this will actually happen either in Southwark or elswhere.  There is no guarantee that any finacial gain from making affordable housing more 'liquid' (reduced borrowing costs, bigger loans) will not simply be syphoned off as bigger profits.  The change though will definitely compromise the status of affordable housing having to remain so 'in perpetuity' - the thin end of a very long wedge.
+
+The report (link), goes to planning committee on Monday 4 May, the first to be held online.
 
  
 
