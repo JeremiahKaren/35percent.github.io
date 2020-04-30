@@ -15,9 +15,9 @@ Peabody had its [own planning permission](http://moderngov.southwark.gov.uk/docu
 
 Southwark's planning committee is being asked to approve a so-called [Mortgagee in Possession (MIP)](https://www.oxfordreference.com/view/10.1093/oi/authority.20110803100211114) clause, in the legal s106 agreement for the joint site.  Simply put, if a borrower cannot pay their mortgage, then the lender can take legal possession of the property and sell it - they become the 'mortgagee in possession'.  Up until now this has evidently been covered in Southwark's 106 agreements with a clause that keeps the affordable housing affordable _'in perpetuity'_ ; a s106 for the Aylesbury estate redevelopment is an example of this [^1].
 
-The MIP clause proposed for Malt St is different though - it will not secure the affordable housing in the event of Peabody defaulting; instead Southwark would be given first option to take on the affordable housing itself, but if it does not, the affordable housing can then be sold-off, onto the open market.  If Southwark exercises its option it would have to pay anything outstanding _'under the terms of the relevant security documents, including all accrued principal monies, interest and costs and expenses'_ as well as the cost of the affordable housing. 
+The MIP clause proposed for Malt St is different though - it will not secure the affordable housing _'in perpetuity'_ , should Peabody fail  ; instead Southwark would be given first option to take on the affordable housing itself, but if it does not, the affordable housing can then be sold-off, onto the open market.  If Southwark exercises its option it would have to pay anything outstanding _'under the terms of the relevant security documents, including all accrued principal monies, interest and costs and expenses'_ as well as the cost of the affordable housing [^2]. 
 
-The MIP briefing is at pains to point out that such a situation is very unlikely to arise, because Peabody is in rude financial health; it has an annual turnover of £630m, an annual profit of £160m and assets of £7.6bn, so the possibility that it will fail is remote.  The briefing reinforces the point by noting that no major housing association has ever gone into administration and quotes a GLA document that says _'there is no known cases of a MIP clause being triggered.....'_.
+The MIP briefing is at pains to point out that such a situation is very unlikely to arise, because Peabody is in rude financial health; it has an annual turnover of £630m, an annual profit of £160m and assets of £7.6bn, so the possibility that it will fail is remote.  The briefing reinforces the point by noting that no major housing association has ever gone into administration and quotes a GLA document that says _'there is no known cases of a MIP clause being triggered.....'_ [^3].
 
 ## Mayor of London opens the door...
 
@@ -45,6 +45,9 @@ This is the thin end of a very long wedge.  These clauses have already been used
 
 The [briefing and its recommendation](http://moderngov.southwark.gov.uk/documents/s88488/Report%20Mortgagee%20in%20possession%20S106%20clause-%20Malt%20Street%20redevelopment.pdf), will be considered by the [planning committee meeting on Monday 4 May](http://moderngov.southwark.gov.uk/ieListDocuments.aspx?CId=119&MId=6643&Ver=4), the first to be held online.
 
-[^1]: See [Aylesbury Estate redevelopment s106](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!oF%2bbR3wNmlaiCxJPcqtGXw%3d%3d!%7d%7d%7d) pg 32,33
+[^1]: [Aylesbury Estate redevelopment s106](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!oF%2bbR3wNmlaiCxJPcqtGXw%3d%3d!%7d%7d%7d) pg 32,33
 
+[^2]: [Mortgagee in Possession S106 Briefing-Malt St and Nyes WWharf rdevelopment](http://moderngov.southwark.gov.uk/documents/s88488/Report%20Mortgagee%20in%20possession%20S106%20clause-%20Malt%20Street%20redevelopment.pdf) paras 14,1
+
+[^3]: [Mortgagee in Possession S106 Briefing-Malt St and Nyes WWharf rdevelopment](http://moderngov.southwark.gov.uk/documents/s88488/Report%20Mortgagee%20in%20possession%20S106%20clause-%20Malt%20Street%20redevelopment.pdf) paras 19, 17
 
