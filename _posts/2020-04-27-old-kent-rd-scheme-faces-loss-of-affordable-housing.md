@@ -12,7 +12,7 @@ Now a [planning committee briefing](http://moderngov.southwark.gov.uk/documents/
 
 ## Why a Mortgagee in Possession (MIP) clause matters
 
-The planning committee is being asked to approve a so-called [Mortgagee in Possession (MIP)](https://www.oxfordreference.com/view/10.1093/oi/authority.20110803100211114) clause.  Simply put, if a borrower cannot pay their mortgage, then the lender can take legal possession of the property and sell it - they become the 'mortgagee in possession'.  Up until now this has evidently been covered in Southwark's 106 agreements with a clause that keeps the affordable housing affordable _'in perpetuity'_ ; a s106 for the Aylesbury estate redevelopment is an example of this [^1].
+The planning committee is being asked to approve a so-called [Mortgagee in Possession (MIP)](https://www.oxfordreference.com/view/10.1093/oi/authority.20110803100211114) clause.  Simply put, if a borrower cannot pay their mortgage, then the lender can take legal possession of the property and sell it - they become the 'mortgagee in possession'.  Up until now this has evidently been covered with a clause that keeps the affordable housing affordable _'in perpetuity'_ ; a s106 for the Aylesbury estate redevelopment is an example of this [^1].
 
 The MIP clause proposed for Malt St is different - it will not secure the affordable housing _'in perpetuity'_ , should Peabody fail. Instead, Southwark or another affordable housing provider would be given the option to take on the affordable housing, but if they do not, the affordable housing can then be sold onto the open market.  If Southwark does buy the affordable housing, they would also have to pay anything outstanding _'under the terms of the relevant security documents, including all accrued principal monies, interest and costs and expenses'_  [^2]. 
 
@@ -59,5 +59,3 @@ The [briefing and its recommendation](http://moderngov.southwark.gov.uk/document
 [^7]: [MIP S106 Briefing-Malt St and Nyes Wharf](http://moderngov.southwark.gov.uk/documents/s88488/Report%20Mortgagee%20in%20possession%20S106%20clause-%20Malt%20Street%20redevelopment.pdf)  para 23, [GLA MIP s106 standard clauses, practice note Jan 2019](https://www.housing.org.uk/globalassets/files/resource-files/gla_practice_note_mortgagee_in_possession_january_2019.pdf) para 8
 
 [^8]: [MIP S106 Briefing-Malt St and Nyes Wharf](http://moderngov.southwark.gov.uk/documents/s88488/Report%20Mortgagee%20in%20possession%20S106%20clause-%20Malt%20Street%20redevelopment.pdf) para 24
-
-
