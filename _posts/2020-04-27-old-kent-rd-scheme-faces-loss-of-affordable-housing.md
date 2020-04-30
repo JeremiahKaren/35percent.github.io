@@ -23,7 +23,7 @@ The MIP briefing is at pains to point out that such a situation is very unlikely
 
 This all begs an obvious question - why replace a MIP clause that protects affordable housing, in all circumstances, even unlikely ones, with a clause that does not?  
 
-Part of the answer is that this is what the Mayor of London wants.  As Southwark's briefing explains it, the Mayor wants  _'a consistent approach to MIP clauses across the London boroughs and to secure greater access to funding for RPs (registered providers) to increase the delivery of affordable housing'_.  The report continues; _'In order to achieve this, the GLA MIP clause would allow, in certain limited and unlikely circumstances, affordable housing to no longer be “in perpetuity”'_ .  The briefing notes that Southwark's own MIP clause is different from the Mayor's, precisely on this point; Southwark **does** require affordable housing to remain such 'in perpetuity', should a RP go into administration [^4]. 
+Part of the answer is that this is what the Mayor of London wants.  As Southwark's briefing explains it, the Mayor wants  _'a consistent approach to MIP clauses across the London boroughs and to secure greater access to funding for RPs (registered providers) to increase the delivery of affordable housing'_.  The report continues; _'In order to achieve this, the GLA MIP clause would allow, in certain limited and unlikely circumstances, affordable housing to no longer be “in perpetuity”'_ .  The briefing notes that Southwark's own MIP clause is different from the Mayor's, precisely on this point; Southwark **does** require affordable housing to remain such _'in perpetuity'_ , should a RP go into administration [^4]. 
 
 ## Peabody takes advantage
 
