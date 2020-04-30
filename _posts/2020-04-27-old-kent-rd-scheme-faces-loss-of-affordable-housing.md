@@ -57,6 +57,6 @@ The [briefing and its recommendation](http://moderngov.southwark.gov.uk/document
 
 [^6]: [MIP S106 Briefing-Malt St and Nyes Wharf redevelopment](http://moderngov.southwark.gov.uk/documents/s88488/Report%20Mortgagee%20in%20possession%20S106%20clause-%20Malt%20Street%20redevelopment.pdf) para 9, 12
 
-[^7]: [MIP S106 Briefing-Malt St and Nyes Wharf redevelopment](http://moderngov.southwark.gov.uk/documents/s88488/Report%20Mortgagee%20in%20possession%20S106%20clause-%20Malt%20Street%20redevelopment.pdf)  para 23, 
+[^7]: [MIP S106 Briefing-Malt St and Nyes Wharf redevelopment](http://moderngov.southwark.gov.uk/documents/s88488/Report%20Mortgagee%20in%20possession%20S106%20clause-%20Malt%20Street%20redevelopment.pdf)  para 23, [GLA MIP s106 standard clauses, practice note Jan 2019](https://www.housing.org.uk/globalassets/files/resource-files/gla_practice_note_mortgagee_in_possession_january_2019.pdf) para 8
 
 
