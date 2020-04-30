@@ -9,7 +9,7 @@ title: Old Kent Rd scheme faces loss of affordable housing
 
 Now a [planning committee briefing](http://moderngov.southwark.gov.uk/documents/s88488/Report%20Mortgagee%20in%20possession%20S106%20clause-%20Malt%20Street%20redevelopment.pdf) reveals that this affordable housing is at _'risk'_  because Berkeley intends to mount an appeal that will reopen the question of the viability of the scheme.  To prevent this from happening, the briefing recommends that Southwark approve an unprecedented clause in its planning agreement with Berkeley that could see all the affordable housing lost, should Berkeley's development partner, Peabody (link), hit financial trouble.
 
-Peabody had its own planning permission for a development next door to Malt St - Nyes Wharf - but sold this to Berkeley, uniting the two developments.  Together the two sites will deliver 1,569 new homes, of which 581 will be affordable (359 at social rent and 222 shared-ownership), delivered by Peabody.
+Peabody had its own planning permission for a development next door to Malt St - Nyes Wharf - but sold this to Berkeley, uniting the two developments.  Together the two sites will deliver 1,569 new homes, with 40% sffordable housing - 359 at social rent and 222 shared-ownership - delivered by Peabody.
 
 ## Why a Mortgagee in Possession (MIP) clause matters
 
@@ -37,7 +37,7 @@ Southwark's briefing tries to make the best of things; as well as emphasising th
 
 ## What we think
 
-An existing s106 MIP clause that has evidently been perfectly adequate up to now is to be changed, compromising the _'in perpetuity'_ principle of affordable housing.  The Mayor hopes that this will increase the amount of affordable housing, towards meeting his strategic 50% affordable housing target, but Peabody and Berkeley are not suggesting this for the Malt St site - indeed they have done the exact opposite, threatening to reduce the amount of affordable housing.  More generally, the Mayor has published no concrete commitment from developers and registered providers to increase affordable housing,  in exchange for the Mayor's more market-friendly MIP. 
+An existing s106 MIP clause that has evidently been perfectly adequate up to now is to be changed, compromising the _'in perpetuity'_ principle of affordable housing.  The Mayor hopes that this will increase the amount of affordable housing, towards meeting his strategic 50% affordable housing target, but Peabody and Berkeley are not proposing 50% for the Malt St site - indeed they have done the exact opposite, threatening to reduce the amount of affordable housing.  More generally, the Mayor has published no concrete commitment from developers and registered providers to increase affordable housing,  in exchange for the Mayor's more market-friendly MIP. 
 
 So, while it would be easy for Southwark's planning committee to approve the clause in the almost sure knowledge that it will never be triggered and the affordable housing will always remain such, they should nonetheless reject the Mayor's new MIP clause. It purports to facilitate a general increase in affordable housing, but no evidence is being put before the committee that this will actually happen, either in Southwark or elsewhere.  On the other hand, though, the Mayor's MIP will definitely compromise the status of affordable housing having to remain so _'in perpetuity'_.
 
