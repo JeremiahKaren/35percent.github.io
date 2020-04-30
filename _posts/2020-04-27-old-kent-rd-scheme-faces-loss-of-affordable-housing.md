@@ -9,7 +9,7 @@ title: Old Kent Rd scheme faces loss of affordable housing
 
 Now a [planning committee briefing](http://moderngov.southwark.gov.uk/documents/s88488/Report%20Mortgagee%20in%20possession%20S106%20clause-%20Malt%20Street%20redevelopment.pdf) reveals that this affordable housing is at _'risk'_  because Berkeley intends to mount an appeal that will reopen the question of the viability of the scheme.  To prevent this happening, the briefing recommends that Southwark approve an unprecedented clause in its planning agreement with Berkeley that could see all the affordable housing lost, should Berkeley's development partner, [Peabody](https://www.peabodysales.co.uk/blog/future-developments-sales-launches/peabody-secure-deal-to-deliver-224-new-shared-ownership-homes-in-southwark-in-collaboration-with-berkeley-homes/), hit financial trouble.
 
-Peabody had its [own planning permission](http://moderngov.southwark.gov.uk/documents/s77120/Item%203%20-%20Report%2017AP4596.pdf) for a development next door to Malt St - Nyes Wharf - but sold this to Berkeley, uniting the two developments.  Together the two sites will deliver 1,569 new homes, with 40% sffordable housing - 359 at social rent and 222 shared-ownership - delivered by Peabody.
+Peabody had its [own planning permission](http://moderngov.southwark.gov.uk/documents/s77120/Item%203%20-%20Report%2017AP4596.pdf) for a neighbouring development, called Nyes Wharf, but sold this to Berkeley, uniting the two developments.  Together the two sites will deliver 1,569 new homes, with 40% sffordable housing (359 at social rent and 222 shared-ownership) delivered by Peabody.
 
 ## Why a Mortgagee in Possession (MIP) clause matters
 
