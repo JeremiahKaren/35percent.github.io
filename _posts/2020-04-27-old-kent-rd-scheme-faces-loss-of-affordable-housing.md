@@ -27,7 +27,7 @@ Part of the answer is that this is what the Mayor of London wants.  As Southwark
 
 ## Peabody takes advantage
 
-Peabody also wants the GLA MIP adopted, because it would allow them to borrow more money for other projects.  To quote the briefing _'Peabody have funds to deliver this scheme, but given the very large scale of the investment they are only willing to make such a commitment on the basis that they are able to secure additional funding in the future against the asset of the completed scheme'_ .  The report says that while the Malt St scheme is _'entirely financed by Peabody from its own investment'_.  Peabody nonetheless wants more private bank finance and needs to make more of its _'capital assets'_. The banks, according to the report, do not consider the affordable housing 'assets' to be _'sufficiently liquid'_.
+Peabody also wants the GLA MIP adopted, because it would allow them to borrow more money for other projects.  To quote the briefing _'Peabody have funds to deliver this scheme, but given the very large scale of the investment they are only willing to make such a commitment on the basis that they are able to secure additional funding in the future against the asset of the completed scheme'_ .  The report says that while the Malt St scheme is _'entirely financed by Peabody from its own investment'_.  Peabody nonetheless wants more private bank finance and needs to make more of its _'capital assets'_. The banks, according to the report, do not consider the affordable housing 'assets' to be _'sufficiently liquid'_ [^5].
 
 ## Berkeley turns the screw
 
@@ -47,9 +47,11 @@ The [briefing and its recommendation](http://moderngov.southwark.gov.uk/document
 
 [^1]: [Aylesbury Estate redevelopment s106](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!oF%2bbR3wNmlaiCxJPcqtGXw%3d%3d!%7d%7d%7d) pg 32,33
 
-[^2]: [Mortgagee in Possession S106 Briefing-Malt St and Nyes Wharf rdevelopment](http://moderngov.southwark.gov.uk/documents/s88488/Report%20Mortgagee%20in%20possession%20S106%20clause-%20Malt%20Street%20redevelopment.pdf) paras 14,1
+[^2]: [MIP S106 Briefing-Malt St and Nyes Wharf rdevelopment](http://moderngov.southwark.gov.uk/documents/s88488/Report%20Mortgagee%20in%20possession%20S106%20clause-%20Malt%20Street%20redevelopment.pdf) paras 14,1
 
-[^3]: [Mortgagee in Possession S106 Briefing-Malt St and Nyes Wharf rdevelopment](http://moderngov.southwark.gov.uk/documents/s88488/Report%20Mortgagee%20in%20possession%20S106%20clause-%20Malt%20Street%20redevelopment.pdf) paras 19, 17
+[^3]: [MIP S106 Briefing-Malt St and Nyes Wharf rdevelopment](http://moderngov.southwark.gov.uk/documents/s88488/Report%20Mortgagee%20in%20possession%20S106%20clause-%20Malt%20Street%20redevelopment.pdf) paras 19, 17
 
-[^4]: [Mortgagee in Possession S106 Briefing-Malt St and Nyes Wharf rdevelopment](http://moderngov.southwark.gov.uk/documents/s88488/Report%20Mortgagee%20in%20possession%20S106%20clause-%20Malt%20Street%20redevelopment.pdf) para 8, 14
+[^4]: [MIP S106 Briefing-Malt St and Nyes Wharf rdevelopment](http://moderngov.southwark.gov.uk/documents/s88488/Report%20Mortgagee%20in%20possession%20S106%20clause-%20Malt%20Street%20redevelopment.pdf) para 8, 14
+
+[^5]: [MIP S106 Briefing-Malt St and Nyes Wharf rdevelopment](http://moderngov.southwark.gov.uk/documents/s88488/Report%20Mortgagee%20in%20possession%20S106%20clause-%20Malt%20Street%20redevelopment.pdf) para 16, 15, 16
 
