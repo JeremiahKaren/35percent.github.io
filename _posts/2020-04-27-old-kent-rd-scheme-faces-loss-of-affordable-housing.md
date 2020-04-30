@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true 
 title: Old Kent Rd scheme faces loss of affordable housing
 ---
 ## Berkeley Homes threatens to reduce affordable housing at Malt St
