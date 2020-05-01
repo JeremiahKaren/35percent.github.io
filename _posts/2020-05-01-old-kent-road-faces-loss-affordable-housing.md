@@ -2,10 +2,10 @@
 layout: post
 published: true
 title: Old Kent Rd scheme faces loss of affordable housing
-subtitle: Berkeley Homes threatens to reduce affordable housing at Malt St because of Covid19 crisis
+subtitle: Berkeley Homes threatens to reduce affordable housing at Malt St
 ---
 
-[Berkeley Homes](http://www.berkeley-oldkentroad.co.uk/) is the first developer in Southwark to threaten to reduce the affordable housing in one of its schemes, since the onset of the Coronavirus crisis.  Berkeley secured planning permission for the [Malt St development](https://planning.southwark.gov.uk/online-applications-old/simpleSearchResults.do?action=firstPage), just off the Old Kent Rd, in June 2019, with a promise to build 40% affordable housing.  Since then it has joined-up with Peabody, who had a smaller, neighbouring development on [Nyes Wharf](http://moderngov.southwark.gov.uk/documents/s77120/Item%203%20-%20Report%2017AP4596.pdf).  Together the two sites will provide 1,569 new homes, with 40% affordable housing (359 at social rent and 222 shared-ownership), [delivered by Peabody](https://www.peabodysales.co.uk/blog/future-developments-sales-launches/peabody-secure-deal-to-deliver-224-new-shared-ownership-homes-in-southwark-in-collaboration-with-berkeley-homes/).
+[Berkeley Homes](http://www.berkeley-oldkentroad.co.uk/) is the first developer in Southwark to threaten to reduce the affordable housing in one of its schemes, since the onset of the Coronavirus crisis.  Berkeley secured planning permission for the [Malt St development](http://35percent.org/2019-06-01-malt-street-berkeley-homes-old-kent-road/), just off the Old Kent Rd, in June 2019, with a promise to build 40% affordable housing.  Since then it has joined-up with Peabody, who had a smaller, neighbouring development on [Nyes Wharf](http://moderngov.southwark.gov.uk/documents/s77120/Item%203%20-%20Report%2017AP4596.pdf).  Together the two sites will provide 1,569 new homes, with 40% affordable housing (359 at social rent and 222 shared-ownership), [delivered by Peabody](https://www.peabodysales.co.uk/blog/future-developments-sales-launches/peabody-secure-deal-to-deliver-224-new-shared-ownership-homes-in-southwark-in-collaboration-with-berkeley-homes/).
 
 ![](http://35percent.org/images/malt.png)
 
@@ -34,7 +34,7 @@ Peabody also wants the GLA MIP adopted, because it would allow them to borrow mo
 
 ## Berkeley turns the screw
 
-![](https://www.cityam.com/wp-content/uploads/2019/05/tony-pidgley-3-5656de9b4af71-960x600.jpg)
+![](http://35percent.org/img/pidgley.jpg)
 
 Berkeley backs Peabody, saying that it cannot, or will not, proceed without them. Berkeley goes on to threaten to reduce the affordable housing in the scheme, if the GLA MIP clause is not agreed, by way of an appeal to the government of ['non-determination'](https://www.planningportal.co.uk/info/200232/planning_applications/58/the_decision-making_process/8).  Berkeley would argue that Southwark had failed to conclude the s106 legal agreement in the required time, and also reopen the question of the viability of the scheme [^5]. Berkeley has a track record for such manouvers; [this 2018 Guardian report](https://www.theguardian.com/business/2018/sep/03/berkeley-calls-affordable-housing-targets-unviable-as-chairman-earns-174m) shows that Berkeley has reduced its affordable housing obligations using viability reviews in almost all of its London schemes.  
 
