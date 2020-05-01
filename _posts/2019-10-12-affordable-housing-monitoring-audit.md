@@ -39,3 +39,7 @@ Cross-check the references from LDD against audit and see what is missing.
 Also against that paper list I have.
 
 Silwood 4a - 06/AP/0394
+
+## Bermondsey Spa (E-U)
+
+[FOI request](https://www.whatdotheyknow.com/request/625078/response/1566350/attach/3/Item%204%20report.pdf) for committee shows 202 social rented units approved. 
