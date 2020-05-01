@@ -7,9 +7,11 @@ title: Old Kent Rd scheme faces loss of affordable housing
 
 [Berkeley Homes](http://www.berkeley-oldkentroad.co.uk/) is the first developer in Southwark to threaten to reduce the affordable housing in one of its schemes, since the onset of the Coronavirus crisis.  Berkeley secured planning permission for the [Malt St development](https://planning.southwark.gov.uk/online-applications-old/simpleSearchResults.do?action=firstPage), just off the Old Kent Rd, in June 2019, with a promise to build 40% affordable housing.  Since then it has joined-up with Peabody, who had a smaller, neighbouring development on [Nyes Wharf](http://moderngov.southwark.gov.uk/documents/s77120/Item%203%20-%20Report%2017AP4596.pdf).  Together the two sites will provide 1,569 new homes, with 40% affordable housing (359 at social rent and 222 shared-ownership), [delivered by Peabody](https://www.peabodysales.co.uk/blog/future-developments-sales-launches/peabody-secure-deal-to-deliver-224-new-shared-ownership-homes-in-southwark-in-collaboration-with-berkeley-homes/).
 
+![](http://35percent.org/images/malt.jpg)
+
 Now a [planning committee briefing](http://moderngov.southwark.gov.uk/documents/s88488/Report%20Mortgagee%20in%20possession%20S106%20clause-%20Malt%20Street%20redevelopment.pdf) reveals that this affordable housing is at _'risk'_  because Berkeley intends to mount an appeal that will reopen the question of the viability of the scheme.  To prevent this happening, the briefing recommends approval of an unprecedented clause in Southwark's  s106 planning agreement with Berkeley, that could see all the affordable housing lost, should development partner, [Peabody] hit financial trouble.
 
-The [Southwark Law Centre](http://www.southwarklawcentre.org.uk/) has written to the planning committee, objecting to the proposed clause and requesting a deferral, to allow the serious issues it raises to be properly addressed.
+The [Southwark Law Centre](http://www.southwarklawcentre.org.uk/) has [written](https://docdro.id/eG9icIa) to the planning committee, objecting to the proposed clause and requesting a deferral, to allow the serious issues it raises to be properly addressed.
  
 
 ## Why a Mortgagee in Possession (MIP) clause matters
@@ -46,6 +48,8 @@ This is the thin end of a very long wedge.  These clauses have already been used
 
 The [briefing and its recommendation](http://moderngov.southwark.gov.uk/documents/s88488/Report%20Mortgagee%20in%20possession%20S106%20clause-%20Malt%20Street%20redevelopment.pdf), will be considered by the [planning committee meeting on Monday 4 May](http://moderngov.southwark.gov.uk/ieListDocuments.aspx?CId=119&MId=6643&Ver=4), the first to be held online.
 
+
+__Footnotes:__
 
 [^1]: [MIP S106 Briefing-Malt St and Nyes Wharf](http://moderngov.southwark.gov.uk/documents/s88488/Report%20Mortgagee%20in%20possession%20S106%20clause-%20Malt%20Street%20redevelopment.pdf) paras 14,1
 
