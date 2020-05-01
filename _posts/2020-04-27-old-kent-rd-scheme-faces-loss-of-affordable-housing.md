@@ -14,7 +14,7 @@ The [Southwark Law Centre](http://www.southwarklawcentre.org.uk/) has written to
 
 ## Why a Mortgagee in Possession (MIP) clause matters
 
-The planning committee is being asked to approve a so-called [Mortgagee in Possession (MIP)](https://www.oxfordreference.com/view/10.1093/oi/authority.20110803100211114) clause.  Simply put, if a borrower cannot pay their mortgage, then the lender can take legal possession of the property and sell it - they become the 'mortgagee in possession' and p until now this has evidently been covered with a clause that keeps the affordable housing affordable _'in perpetuity'. 
+The planning committee is being asked to approve a so-called [Mortgagee in Possession (MIP)](https://www.oxfordreference.com/view/10.1093/oi/authority.20110803100211114) clause.  Simply put, if a borrower cannot pay their mortgage, then the lender can take legal possession of the property and sell it - they become the 'mortgagee in possession' and  up until now this has evidently been covered with a clause that keeps the affordable housing affordable _'in perpetuity'- . 
 
 The MIP clause proposed for Malt St is different - it will not secure the affordable housing _'in perpetuity'_ , should Peabody fail. Instead, Southwark or another affordable housing provider would be given the option to take on the affordable housing, but if they do not, the affordable housing can then be sold onto the open market.  If Southwark does buy the affordable housing, they would also have to pay anything outstanding _'under the terms of the relevant security documents, including all accrued principal monies, interest and costs and expenses'_  [^1]. 
 
