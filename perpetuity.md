@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page 
 title: S106 Perpetuity and Nominations audit 
 ---
 
