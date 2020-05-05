@@ -3,23 +3,29 @@ layout: page
 title: S106 Perpetuity and Nominations audit 
 ---
 
-<div class="col">
-              <ul class="row list-unstyled justify-content-center">
+ <div class="album py-5 bg-light">
+    <div class="container">
+
+      <div class="row">
 {% for scheme in site.data.s106list %}
-                <li class="col-5" data-aos="fade-up">
-                  <div class="card card-sm">
-                    <a href="{{ scheme.url }}">
-                      <img class="card-img-top" src="{{ scheme.image_path }}" alt="{{ scheme.name }}">
-                    </a>
-		    <div class="card-body">
-                      <h5 class="card-title">{{ scheme.name }}</h5>
-		      <h6 class="card-subtitle mb-2 text-muted">{{ scheme.ref }}</h6>
-		      <p class="card-text">{{ scheme.comment }}</p>
-                      <a target="_blank" href="{{ scheme.url }}" data-toggle="tooltip" data-placement="top" title="Open in new tab">Approved: {{ scheme.date }} <i class="icon-popup"></i></a>
-                  </div>
-                  </div>
-                </li>
+        <div class="col-md-4">
+          <div class="card mb-4 shadow-sm">
+            <img class="card-img-top" src="{{ scheme.image_path }}" alt="{{ scheme.name }}">
+            <div class="card-body">
+              <p class="card-text">{{ scheme.comment }}</p>
+              <div class="d-flex justify-content-between align-items-center">
+                <div class="btn-group">
+                  <a href="{{ scheme.url }}">
+                  <button type="button" class="btn btn-sm btn-outline-secondary">View S106</button>
+                  </a>
+                </div>
+                <small class="text-muted">9 mins</small>
+              </div>
+            </div>
+          </div>
+        </div>
 {% endfor %}
-              </ul>
+  </div>
+</div>
 </div>
 
