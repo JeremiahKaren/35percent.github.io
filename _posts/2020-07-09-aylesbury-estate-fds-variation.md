@@ -10,20 +10,18 @@ Yesterday, Southwark Councillors took to twitter to announce an increase in the 
 
 What the tweets didn't say is these 219 extra social rented homes will cost the Council an estimated £211 million pounds - that's £964k each.
 
-![](/images/combinedtotal.png)
+![](/img/combinedtotal.png)
 
-Neither did they explain that Southwark has also agreed to let NHG continue to deliver the xxx private homes on this site - the revenue from which was supposed to cross-subsidise the social units.   
+Neither did they explain that Southwark has also agreed to let NHG continue to deliver the xxx private homes (FDS and Plot 18 total) that were supposed to cross-subsidise these social units.   
 
-Neither did they explain that a proportion of these social rented units won't be social rented at all, because they will be used to rehouse leaseholders being decanted from later phases under the Council's [shared equity scheme.](
+Neither did they explain that a proportion of these social rented units won't be social rented at all, because they will be used to rehouse leaseholders being decanted from later phases under the Council's [new shared equity scheme.](http://moderngov.southwarksites.com/documents/s74901/Report%20Amending%20the%20shared%20equity%20rehousing%20policy%20for%20qualifying%20homeowners%20affected%20by%20regenerati.pdf) This was introduced in response to the Secretary of State's [ruling](https://www.theguardian.com/society/2016/sep/16/government-blocks-controversial-plan-to-force-out-housing-estate-residents) that BAME leaseholders were being displaced from their communities.
 
 ## History repeats
-Rolled over twice already to NHG as it has used its viability clause negotiated in the DPA as leverage.
+Southwark has alread rolled over once already to NHG as it has used its viability clause negotiated in the DPA as leverage.
 
-1. Reduction in 
+In September 2016, Southwark [forked out £21 million](http://moderngov.southwark.gov.uk/documents/s63817/Report.Aylesbury%20Regeneration%20Delivery.pdf) in demolition and planning costs.
 
-2. In September 2016, Southwark [forked out £21 million](http://moderngov.southwark.gov.uk/documents/s63817/Report.Aylesbury%20Regeneration%20Delivery.pdf) in demolition and planning costs.
-
-![](/images/nhttproceed.png)
+![](/img/nhttproceed.png)
 
 ## The FDS 
 In August last year, NHG was [forced](https://www.insidehousing.co.uk/news/news/notting-hill-genesis-scales-back-development-plans-amid-changing-market-conditions-62506) to 'significantly scale back' its development pipeline as it emerged that there were more than 400 unsold private market homes sitting on its books.
