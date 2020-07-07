@@ -12,9 +12,10 @@ What the tweets didn't say is these 219 extra social rented homes will cost the 
 
 ![](/img/combinedtotal.png)
 
-Neither did they explain that Southwark has also agreed to let NHG continue to deliver the xxx private homes (FDS and Plot 18 total) that were supposed to cross-subsidise these social units.   
-
 Neither did they explain that a proportion of these social rented units won't be social rented at all, because they will be used to rehouse leaseholders being decanted from later phases under the Council's [new shared equity scheme.](http://moderngov.southwarksites.com/documents/s74901/Report%20Amending%20the%20shared%20equity%20rehousing%20policy%20for%20qualifying%20homeowners%20affected%20by%20regenerati.pdf) This was introduced in response to the Secretary of State's [ruling](https://www.theguardian.com/society/2016/sep/16/government-blocks-controversial-plan-to-force-out-housing-estate-residents) that BAME leaseholders were being displaced from their communities.
+
+Neither did they explain that Southwark has also agreed to let NHG continue to deliver the xxx private homes (FDS and Plot 18 total) that were supposed to cross-subsidise these social units without any contribution from NHG. Or that Southwark has also agreed to forgo the £6m that NHG was going to pay towards the £35m cost of building the new library and health centre.    
+
 
 ##Background
 Under the Development Partnership Agreement signed in 2014, NHG was supposed to deliver xxx social rented units, subisidised by xxx private units in this first phase of development.
