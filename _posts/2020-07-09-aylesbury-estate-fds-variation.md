@@ -55,6 +55,19 @@ Politics trumps common sense decision making yet again. Decisions based on rescu
 
 ![](/img/aylesburyrefurbcombo.jpg)
 
+## Parked termination clauses
+The Council does indeed have the right to terminate the DPA if Notting Hill doesn't meet the milestones set out in the DPA:
+
+![](/img/termination1.png)
+
+At least four of these milestones clearly haven't been met:
+
+![](/img/aylesburymilestones.png)
+
+The Council also has a clause allowing it to terminate 3 years after it was first found that a plot wasn't viable:
+
+![](/img/termination2.png)
+
 __Footnotes:__
 [^1]: See para 2.4 of the Council's [2017 CPO evidence](http://35percent.org/ouraylesbury/cpo/southwarkstatementofcaseNOV2017.pdf).
 
