@@ -27,13 +27,15 @@ But NHG negotiated a clause into the [Development Partnership Agreement (DPA)](/
 
 ![](/images/pvc.png)
 
-This has led to numerable delays in the scheme. The Council started decanting tenants from the first development site in 2011. The first new homes were supposed to be completed this summer but in actual fact they only just finished demolition last month.
+This has led to numerable delays in the scheme. The Council started decanting tenants from the first two phases nearly ten years ago and the first new homes were supposed to be completed this summer, but the first development site is still largely a pile of rubble and phase 2 hasn't even been fully decanted yet.
 
 ![](/img/phasingaylesburynow.png)
 
-Likewise, the first new homes were supposed to be completed on phase 2 this summer, but there isn't even a planning application approved let alone any demolition works started. Meanwhile circa 500 homes stand empty on this phase. 
+In fact, there isn't even a planning application submitted for phase 2 yet, let alone compulsory purchase order and demolition notice issued. Meanwhile circa 500 homes stand empty in the middle of a housing crisis and global pandemic. 
 
-The delays and years of council homes standing empty or plots standing empty after they have been demolished is not a good look for the Council and it has come under political pressure as a result. NHG has used this as leverage to force concessions out of the Council.
+![](/img/phase2empties.png)
+
+The delays and years of council homes standing empty or plots standing empty after they have been demolished is not a good look for the Council and it has come under political pressure as a result. NHG has used this as leverage to hold the Council over a barrel and force concessions, just as Lendlease did with the Council at the neighbouring Heygate estate regeneration.
 
 ## History repeats
 Southwark has alread rolled over once already to NHG as it has used its plot viability clause negotiated in the DPA as leverage to force concessions out of the Council, which is heavily invested politically in the scheme.
