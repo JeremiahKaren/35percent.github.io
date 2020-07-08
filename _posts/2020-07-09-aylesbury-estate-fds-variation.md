@@ -20,13 +20,15 @@ Neither did they explain that Southwark has also agreed to let NHG continue to d
 ##Background
 Under the Development Partnership Agreement signed in 2014, NHG was supposed to deliver xxx social rented units, subisidised by xxx private units in this first phase of development.
 
-But NHG negotiated a clause into the [Development Partnership Agreement]() which required the phases to be subdivided into plots and which enabled NHG to sit to not proceed with each given plot until it became financially viable. 
+But NHG negotiated a clause into the [Development Partnership Agreement (DPA)](/img/aylesburyDPA.pdf) which required the phases to be subdivided into plots and which enabled NHG to stall and not proceed with each given plot until it becomes financially viable. 
 
-..image of plot viability clause..
+![](/images/pvc.png)
 
-This has led to numerable delays in the scheme. The Council started decanting the first development site in 2011 - now nearly ten years on it looks like this:
+This has led to numerable delays in the scheme. The Council started decanting tenants from the first development site in 2011. The first new homes were supposed to be completed this summer but in actual fact they only just finished demolition last month.
 
-..image of FDS..
+![](/img/phasingaylesburynow.png)
+
+Likewise, the first new homes were supposed to be completed on phase 2 this summer, but there isn't even a planning application approved let alone any demolition works started. Meanwhile circa 500 homes stand empty on this phase. 
 
 ## History repeats
 Southwark has alread rolled over once already to NHG as it has used its plot viability clause negotiated in the DPA as leverage to force concessions out of the Council, which is heavily invested politically in the scheme.
@@ -44,7 +46,7 @@ We blogged previously about Southwark's flagging pledge to build 11,000 new coun
 ##Conclusion
 Politics trumps common sense decision making yet again. Decisions based on rescuing aylesbury regeneration and Council homes pledge not on value for money.
 
-[Evidence](http://35percent.org/ouraylesbury/cpo/#simon-morrow-sm) submitted to the 2018 CPO Public Inquiry by RICS qualified quantity surveyor Simon Morrow shows that the estate could be refurbished for just £45k - £65k per dwelling.
+[Evidence](http://35percent.org/ouraylesbury/cpo/#simon-morrow-sm) submitted to the 2018 CPO Public Inquiry by RICS qualified quantity surveyor Simon Morrow shows that the estate could be refurbished for just £45k per home for a 1-bed and £65k for a 4-bed.
 
 __Footnotes:__
 [^1]: See para 2.4 of the Council's [2017 CPO evidence](http://35percent.org/ouraylesbury/cpo/southwarkstatementofcaseNOV2017.pdf).
