@@ -15,12 +15,12 @@ What the tweets didn't say is that providing these 219 extra social rented homes
 
 Neither did they explain that a proportion of these social rented units won't be social rented at all, because they will be used to rehouse leaseholders being decanted from later phases under the Council's [new shared equity scheme.](http://moderngov.southwarksites.com/documents/s74901/Report%20Amending%20the%20shared%20equity%20rehousing%20policy%20for%20qualifying%20homeowners%20affected%20by%20regenerati.pdf) This was introduced in response to the Secretary of State's [ruling](https://www.theguardian.com/society/2016/sep/16/government-blocks-controversial-plan-to-force-out-housing-estate-residents) that BAME leaseholders were being displaced from their communities.
 
-Neither did they explain that Southwark has also agreed to let NHG continue to deliver the mainly private homes (64 social rent, 63 shared ownership and 290 private[^2]) that were supposed to cross-subsidise these social units without any contribution from NHG. Or that Southwark has also agreed to forgo the £6m that NHG was going to pay towards the £35m cost of building the new library and health centre.    
+Neither did they explain that Southwark has also agreed to let NHG continue to deliver the mainly private homes (290 private, 63 shared ownership and 64 social rent[^2]) that were supposed to cross-subsidise these social units without any contribution from NHG. Or that Southwark has also agreed to forgo the £6m that NHG was going to pay towards the £35m cost of building the new library and health centre.    
 
-![](/img/massingmodelfds.png)
+![](/img/s04goldplatedtower.png)
 *Plans showing the proposed three private tenure towers overlooking Burgess Park*
 
-##Background
+## Background
 Under the Development Partnership Agreement signed in 2014, NHG was supposed to deliver 365 social rented units, subisidised by 382 private homes and 217 shared ownership homes this first phase of development.
 
 But NHG negotiated a clause into the [Development Partnership Agreement (DPA)](/img/aylesburyDPA.pdf) which required the phases to be subdivided into plots and which enabled NHG to stall and not proceed with each given plot until it becomes financially viable - i.e. providing a minimum 21% profit margin to NHG.  
