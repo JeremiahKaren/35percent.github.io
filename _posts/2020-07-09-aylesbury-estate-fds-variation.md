@@ -15,12 +15,12 @@ What the tweets didn't say is that providing these 219 extra social rented homes
 
 Neither did they explain that a proportion of these social rented units won't be social rented at all, because they will be used to rehouse leaseholders being decanted from later phases under the Council's [new shared equity scheme.](http://moderngov.southwarksites.com/documents/s74901/Report%20Amending%20the%20shared%20equity%20rehousing%20policy%20for%20qualifying%20homeowners%20affected%20by%20regenerati.pdf) This was introduced in response to the Secretary of State's [ruling](https://www.theguardian.com/society/2016/sep/16/government-blocks-controversial-plan-to-force-out-housing-estate-residents) that BAME leaseholders were being displaced from their communities.
 
-Neither did they explain that Southwark has also agreed to let NHG continue to deliver the mainly private homes (290 private, 63 shared ownership and 64 social rent[^2]) that were supposed to cross-subsidise these social units without any contribution from NHG. Or that Southwark has also agreed to forgo the £6m that NHG was going to pay towards the £35m cost of building the new library and health centre.    
+Neither did they explain that Southwark has also agreed to let its development partner Notting Hill Genesis continue to deliver the mainly private homes (290 private, 63 shared ownership and 64 social rent[^2]) that were supposed to cross-subsidise these social units without any contribution from NHG. Or that Southwark has also agreed to forgo the £6m that NHG was going to pay towards the £35m cost of building the new library and health centre.    
 
 ![](/img/s04goldplatedtower.png)
-*Plans showing the proposed three private tenure towers overlooking Burgess Park*
+*Plans showing the gold-plated facade 20 storey tower overlooking Burgess Park (all private units) that NHG will retain*
 
-## Background
+## Background - viability clause and delays
 Under the Development Partnership Agreement signed in 2014, NHG was supposed to deliver 365 social rented units, subisidised by 382 private homes and 217 shared ownership homes this first phase of development.
 
 But NHG negotiated a clause into the [Development Partnership Agreement (DPA)](/img/aylesburyDPA.pdf) which required the phases to be subdivided into plots and which enabled NHG to stall and not proceed with each given plot until it becomes financially viable - i.e. providing a minimum 21% profit margin to NHG.  
@@ -37,12 +37,14 @@ In fact, there isn't even a planning application submitted for phase 2 yet, let 
 
 The delays and years of council homes standing empty or plots standing empty after they have been demolished is not a good look for the Council and it has come under political pressure as a result. NHG has used this as leverage to hold the Council over a barrel and force concessions, just as Lendlease did with the Council at the neighbouring Heygate estate regeneration.
 
-## History repeats
-Southwark has alread rolled over once already to NHG as it has used its plot viability clause negotiated in the DPA as leverage to force concessions out of the Council, which is heavily invested politically in the scheme.
+## NHG holds Southwark over a barrel (yet again)
+Southwark has alread rolled over twice already to NHG as it has used its plot viability clause negotiated in the DPA as leverage to force concessions out of the Council, which is heavily invested politically in the scheme.
 
 In September 2016, Southwark [forked out £21 million](http://moderngov.southwark.gov.uk/documents/s63817/Report.Aylesbury%20Regeneration%20Delivery.pdf) in demolition and planning costs.
 
 ![](/img/nhttproceed.png)
+
+In 2018, NHG was awarded £30m of GLA grant funding for the first phase of the scheme. The [Development Partnership Agreement](/img/aylesburyDPA.pdf) set out that any grant funding awarded to the scheme should go to Southwark, such that it receives some kind of remuneration for the sale of its land (see para 4.1, page 111). But NHG forced Southwark to agree to a variation allowing it to pocket the entire £30m.
 
 ## The FDS 
 In August last year, NHG was [forced](https://www.insidehousing.co.uk/news/news/notting-hill-genesis-scales-back-development-plans-amid-changing-market-conditions-62506) to 'significantly scale back' its development pipeline as it emerged that there were more than 400 unsold private market homes sitting on its books.
@@ -50,7 +52,7 @@ In August last year, NHG was [forced](https://www.insidehousing.co.uk/news/news/
 ## 11,000 new Council homes
 We blogged previously about Southwark's flagging pledge to build 11,000 new council homes and how it is still knocking down and selling off council homes faster than it is building new ones.
 
-##Conclusion
+## Conclusion
 Politics trumps common sense decision making yet again. Decisions based on rescuing aylesbury regeneration and Council homes manifesto pledges not on providng best value for money in terms of Council spending.
 
 [Evidence](http://35percent.org/ouraylesbury/cpo/#simon-morrow-sm) submitted to the 2018 CPO Public Inquiry by RICS qualified quantity surveyor Simon Morrow shows that the estate could be refurbished for just £45k per home for a 1-bed and £65k for a 4-bed.
