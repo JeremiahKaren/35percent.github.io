@@ -23,9 +23,13 @@ Neither did they explain that Southwark has also agreed to let its development p
 ## Background - viability clause and delays
 Under the Development Partnership Agreement signed in 2014, NHG was supposed to deliver 365 social rented units, subisidised by 382 private homes and 217 shared ownership homes this first phase of development.
 
-But NHG negotiated a clause into the [Development Partnership Agreement (DPA)](/img/aylesburyDPA.pdf) which required the phases to be subdivided into plots and which enabled NHG to stall and not proceed with each given plot until it becomes financially viable - i.e. providing a minimum 21% profit margin to NHG.  
+But NHG negotiated a clause into the [Development Partnership Agreement (DPA)](/img/aylesburyDPA.pdf) which gave it the option not to proceed with each given plot of each phase until it becomes financially viable - i.e. providing a minimum 21% profit margin to NHG.  
 
-![](/images/pvc.png)
+![](/img/pvc.png)
+
+This sounds like a sensible clause at first glance, except for the fact that in calculating viability a plot is only deemed viable if it provides NHG with a minimum profit of 21%:
+
+![](/img/nhtprofit.png)
 
 This has led to numerable delays in the scheme. The Council started decanting tenants from the first two phases nearly ten years ago and the first new homes were supposed to be completed this summer, but the first development site is still largely a pile of rubble and phase 2 hasn't even been fully decanted yet.
 
