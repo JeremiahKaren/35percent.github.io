@@ -32,13 +32,9 @@ Neither of the above calculations, though, take into account the fact that under
 
 So, while Southwark is now to get 560 council homes, insead of 240 social rented homs, it will be paying £650k for each of the extra 260 units.
 
+## What next for NHG?
 
-
-leaseholders, Package C, decrease in projected social housing loss  - but the biggest downside is the cost.
-
-Southwark present this as £xxxxx, but another more ??? wayof looking at it ist that Southwark is paying £yyyyy for an extra xxxxx social rented units, meaning a eyewatering cost of £964k (?) for each home.  Death of cross ubsidy model.
-
-There is also a big question to be asked about what role Notting Hill Genensis will play in the remainder of the regeneration, which is only half complete (no of homes to be built?) and years behaind schedule.  NHG still has the planning permission for this and a development partnership agreement Southwark Councils to deliver it.  
+There is also a big question now to be asked about what role Notting Hill Genensis will play in the remainder of the regeneration, which is only half complete (no of homes to be built?) and years behaind schedule.  NHG still has the planning permission for this and a development partnership agreement Southwark Councils to deliver it.  
 
 The proposed revised delivery arrangements would allow 581 new homes to be delivered under Package A & B as council homes at social rents, representing an additional 280 social rent homes
 
@@ -97,7 +93,18 @@ In August last year, NHG was [forced](https://www.insidehousing.co.uk/news/news/
 We blogged previously about Southwark's flagging pledge to build 11,000 new council homes and how it is still knocking down and selling off council homes faster than it is building new ones.
 
 ## Conclusion
-Politics trumps common sense decision making yet again. Decisions based on rescuing aylesbury regeneration and Council homes manifesto pledges not on providng best value for money in terms of Council spending.
+
+The gain of 540 council homes is a boon for everyone on Southwark who depends upon social housing.  Delivery in the FDS phase also has the advantage that existing residents from later phases have a better chance of remaining on the Aylesbury.
+
+But rescuing the Aylesbury regeneration is costing Southwark dearly.  Southwark is plugging a hole left by NHG's failure to deliver.  Southwark is paying not just for council housing on its own account, but for the social rented homes that NHG should have paid for, with money that could be spent building council houses elsewhere.  Meantime NHG retains a choice piece of land, in the middle of the Aylesbury, to build nearly 200 private homes.  No figures are given in Tuesday's cabinet report of how much NHG stand to make from this.
+
+This is also not the first time Southwark have come to NHG's rescue, as witnessed by the transfer of FDS demolition costs.  Southwark is also spending significant amounts (link) keeping the estate habitable while the regeneration stalls, under NHG's stewardship - Phase 1 should have been completed by 2016, Phase 2 by 2018, Phase 3 by 2020; Phase 4 should be underway - yet we are still stuck on Phase 1 (Footnote Aylesbury Area Action Plan Table A5.1: Schedule of proposals sites).
+
+Tuesday's cabinet report acknowledges that the cross-subsidy model, where the proceeds of private house sales subsidise the deleivery of affordable housing is dead, at least on he FDS.  If this is to be the case for the remainder of the regeneration, then there is really no need for NHG.  Southwark should at least make it clear that there will be no more bail-outs; better still it should start negotiating an amicable divorce. 
+
+
+
+paying for  rented Politics trumps common sense decision making yet again. Decisions based on rescuing aylesbury regeneration and Council homes manifesto pledges not on providng best value for money in terms of Council spending.
 
 [Evidence](http://35percent.org/ouraylesbury/cpo/#simon-morrow-sm) submitted to the 2018 CPO Public Inquiry by RICS qualified quantity surveyor Simon Morrow shows that the estate could be refurbished for just £45k per home for a 1-bed and £65k for a 4-bed. £69M housing scrutiny committee heating. Annual revenue.  Value for money no - political considerations decided
 
