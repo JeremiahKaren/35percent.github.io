@@ -8,15 +8,23 @@ published: false
 
 Southwark Council has announced that the First Development Site (FDS) phase of the Aylesbury state regeneration will now deliver 520 council homes, increasing the number of social rented homes on the phase by 280 units. The figures come from [a Cabinet report](http://moderngov.southwark.gov.uk/documents/s89813/Report%20Aylesbury%20Regeneration%20programme%20-%20Delivery%20of%20New%20Council%20Homes.pdf) to be considered on Tuesday 14 June.  These will be the first new council homes on the regeneration; xxxx social rented homes, managed by L&Q, out of a total yyy new homes have already been built.  The whole regeneration should deliver a total of over 4,000 new homes, 70% of which will be affordable, half of which will be social rented.
 
-The new homes were to be built and paid for by Notting Hill Genesis,under the terms of [a planning permisssion](http://moderngov.southwark.gov.uk/documents/s53361/Report.pdf) granted to Notting Hill Housing Trust, as it then was, in 2015.  NHG will still build the homes (plus 61 more), but now Southwark will pay for them.
+The new homes were to be built and paid for by Notting Hill Genesis,under the terms of [a planning permisssion](http://moderngov.southwark.gov.uk/documents/s53361/Report.pdf) granted to Notting Hill Housing Trust, as it then was, in 2015.  NHG will still build the homes (plus 61 more), but now Southwark will pay for them - £193m in development cost, to which must be added a further £17.8m in lost reciepts from NHG, giving a grand total of £210.8m (Footnote OR 52).
 
-Understandably, Southwark councillors are also making the most of the gain (screen shot), which is undeniably good news.  Local housing campaigners, both on and off the estate can also take credit - reducing the loss of social housing and getting council housing has been a consistent aim of critics of the scheme (link).
+## The good news
+
+Understandably, Southwark councillors are making the most of the gain in council housing, which is undeniably good news.  Local housing campaigners, both on and off the estate can also take credit - reducing the loss of social housing and getting council housing has been a their consistent aim and at the centre of hard-fought campaigns (link).
 
 ![](/img/kierontweet.png)
 
-There are couple of wrinkles though and questions to be asked - a proportion of these social rented units will be needed to [rehouse leaseholders](http://www.aylesburynow.london/web/uploads/files/New_Homes/Information-for-Aylesbury-Leaseholders.pdf) decanted from later phases. How many remains to be seen - Phase 2 and 3 has 62 leaseholders yet to be bought out and their options include the[new shared equity scheme.](http://moderngov.southwarksites.com/documents/s74901/Report%20Amending%20the%20shared%20equity%20rehousing%20policy%20for%20qualifying%20homeowners%20affected%20by%20regenerati.pdf)was introduced in response to the Secretary of State's CPO [ruling](https://www.theguardian.com/society/2016/sep/16/government-blocks-controversial-plan-to-force-out-housing-estate-residents) that BAME leaseholders were being wrongly displaced from their communities.
+There are couple of wrinkles though - a proportion of these social rented units will be needed to [rehouse leaseholders](http://www.aylesburynow.london/web/uploads/files/New_Homes/Information-for-Aylesbury-Leaseholders.pdf) decanted from later phases. How many remains to be seen - Phase 2 and 3 has 62 leaseholders yet to be bought out and their options include the[new shared equity scheme.](http://moderngov.southwarksites.com/documents/s74901/Report%20Amending%20the%20shared%20equity%20rehousing%20policy%20for%20qualifying%20homeowners%20affected%20by%20regenerati.pdf)was introduced in response to the Secretary of State's CPO [ruling](https://www.theguardian.com/society/2016/sep/16/government-blocks-controversial-plan-to-force-out-housing-estate-residents) that BAME leaseholders were being wrongly displaced from their communities.
 
-Also the report is silent on whether the council housing means that there will be a reduction in the net loss of social rented housing in the overall regeneration or whether it is simply social housing being brought forward from later phases in the regeneration. The outline planning permission granted to still allows for a net loss of between 778 and 1,166 social rented units
+NHG are also hanging on to some of the FDS, so-called Package C, to build 261 homes, 191 of which will be private (ref)
+
+Also the report is silent on whether the council housing means that there will be a reduction in the net loss of social rented housing in the overall regeneration or whether it is simply social housing being brought forward from later phases in the regeneration. The outline planning permission granted to still allows for a net loss of between 778 and 1,166 social rented units.
+
+
+
+## The not-so-good news
 
 leaseholders, Package C, decrease in projected social housing loss  - but the biggest downside is the cost.
 
