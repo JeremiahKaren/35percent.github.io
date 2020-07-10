@@ -33,7 +33,7 @@ Neither of the above calculations, though, take into account the major fact that
 
 So, while Southwark is now to get 560 council homes, instead of 240 social rented homes, this net gain requires an outlay of £193m gross - equivalent to £690k for each of the extra 260 units.
 
-## NHG keeps all the private housing
+## NHG takes all the private housing
 
 NHG also get to keep part of the FDS land, so-called Package C, on which to build 261 homes for themselves -  57 shared ownership, and 13 social rent, but the majority of which, 191 units, will be private homes for sale, comprising all the private homes on the FDS (ref).
 
@@ -55,21 +55,13 @@ It is therefore not difficult to see why Southwark would have felt compelled to 
 
 ## NHG holds Southwark over a barrel 
 
-This would not be the first time that Southwark has been forced to make concessions 
-Southwark has alread rolled over twice already to NHG as it has used its plot viability clause negotiated in the DPA as leverage to force concessions out of the Council, which is heavily invested politically in the scheme.
-
-In September 2016, Southwark [forked out £21 million](http://moderngov.southwark.gov.uk/documents/s63817/Report.Aylesbury%20Regeneration%20Delivery.pdf) in demolition and planning costs.
+Southwark has been forced to make such concessions twice before. In September 2016, Southwark [paid out £21 million](http://moderngov.southwark.gov.uk/documents/s63817/Report.Aylesbury%20Regeneration%20Delivery.pdf) in demolition and planning costs, that were originally to be met by NHG (explain).
 
 ![](/img/nhttproceed.png)
 
 In 2018, NHG was awarded £30m of GLA grant funding for the first phase of the scheme. The [Development Partnership Agreement](/img/aylesburyDPA.pdf) set out that any grant funding awarded to the scheme should go to Southwark, such that it receives some kind of remuneration for the sale of its land (see para 4.1, page 111). But NHG forced Southwark to agree to a variation allowing it to pocket the entire £30m.
 
-
-
-
 ## What next?
-
-
 
 There is also a big question now to be asked about what role Notting Hill Genensis will play in the remainder of the regeneration, which is only half complete (no of homes to be built?) and years behaind schedule.  NHG still has the planning permission for this and a development partnership agreement Southwark Councils to deliver it. 
 
