@@ -12,7 +12,7 @@ The new FDS homes were to be built and paid for by Notting Hill Genesis,under th
 
 ## The good news
 
-Understandably, Southwark councillors are making the most of the gain in council housing, which is undeniably good news.  Local housing campaigners, both on and off the estate can also take credit - reducing the loss of social housing and getting council housing has been their consistent aim and at the centre of hard-fought battles (link).
+Understandably, Southwark councillors are making the most of the gain in council housing, which is undeniably good news.  Local housing campaigners, both on and off the estate can also take credit - reducing the loss of social housing and getting council housing has been their consistent aim and at the centre of many hard-fought battles (link).
 
 ![](/img/kierontweet.png)
 
@@ -24,7 +24,13 @@ Also, the report is silent on whether the council housing means that there will 
 
 ## The not-so-good news
 
-Southwark Council present the cost of building the new council homes as being a reasonable £238.4k per unit. This uses divides the development costs by 
+Southwark Council present the cost of building the new council, flexi and specialist learning homes as being a reasonable £238.4k per unit. Southwark arrives at this figure by assuming reciept of two GLA grants, reducing development costs to £138.5m, and dividing by the total 581 units.
+
+But only one GLA grant has been secured, so leaving this out of the equation and including the loss of £17.8m from NHG (for the land, and contributions to infrastructure costs) gives a total cost to Southwark of £182m and a less flattering cost per unit of £313k.
+
+Neither of the above calculations, though, take into account the fact that under the existing deal with NHG, Southwark was to pay nothing - all the costs, for all the housing, including 240 social rented units, were to be met by NHG.
+
+So, while Southwark is now to get 560 council homes, insead of 240 social rented homs, it will be paying £650k for each of the extra 260 units.
 
 
 
