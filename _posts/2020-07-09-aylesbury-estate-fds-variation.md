@@ -1,17 +1,16 @@
 ---
 layout: post
-title: 'Aylesbury estate regeneration to have council homes '
+title: 'Aylesbury estate regeneration to have new council homes '
 subtitle: Southwark forks out £211m to rescue troubled Aylesbury estate regeneration
 published: false
 ---
 ## Southwark bails out Notting Hill Genesis 
 
-Southwark Council has announced that the First Development Site phase of the Aylesbury state regeneration will now deliver 520 council homes, increasing the number of social rented homes on the phase by 280 units. The figures come from a Cabinet report to be considered on Tuesday 14 June.  These will be the first new council homes on the regeneration; xxxx social rented homes, managed by L&Q, out of a total yyy new homes have already been built in earlier phases
-
-
+Southwark Council has announced that the First Development Site phase of the Aylesbury state regeneration will now deliver 520 council homes, increasing the number of social rented homes on the phase by 280 units. The figures come from a Cabinet report to be considered on Tuesday 14 June.  These will be the first new council homes on the regeneration; xxxx social rented homes, managed by L&Q, out of a total yyy new homes have already been built.  The whole regeneration should deliver a total of 4000 new homes, 70% of which will be affordable, half of which will be social rented.
 
 Unsurprisingly, Southwark councillors are also making the most of the gain (screen shot), which is undeniably good news.  Local housing campaigners, both on and off the estate can also take some credit too - reducing the loss of social housing and getting council housing has been a consistene aim of critics of the scheme There are couple of wrinkles - leasholders, Package C, decrease in projected social housing loss  - but the biggest downside is the cost.
-Southwark present this as £xxxxx, another more ??? wayof looking at it ist that Southwark is paying £yyyyy for an extra xxxxx social rented units, meaning a eyewatering cost of £964k (?) for each home.
+
+Southwark present this as £xxxxx, but another more ??? wayof looking at it ist that Southwark is paying £yyyyy for an extra xxxxx social rented units, meaning a eyewatering cost of £964k (?) for each home.  Death of cross ubsidy model.
 
 There is also a big question to be asked about what role Notting Hill Genensis will play in the remainder of the regeneration, which is only half complete (no of homes to be built?) and years behaind schedule.  NHG still has the planning permission for this and a development partnership agreement Southwark Councils to deliver it.  
 
