@@ -12,19 +12,21 @@ The new FDS homes were to be built and paid for by Notting Hill Genesis,under th
 
 ## The good news
 
-Understandably, Southwark councillors are making the most of the gain in council housing, which is undeniably good news.  Local housing campaigners, both on and off the estate can also take credit - reducing the loss of social housing and getting council housing has been a their consistent aim and at the centre of hard-fought campaigns (link).
+Understandably, Southwark councillors are making the most of the gain in council housing, which is undeniably good news.  Local housing campaigners, both on and off the estate can also take credit - reducing the loss of social housing and getting council housing has been their consistent aim and at the centre of hard-fought campaigns (link).
 
 ![](/img/kierontweet.png)
 
-There are couple of wrinkles though - a proportion of these social rented units will be needed to [rehouse leaseholders](http://www.aylesburynow.london/web/uploads/files/New_Homes/Information-for-Aylesbury-Leaseholders.pdf) decanted from later phases. How many remains to be seen - Phase 2 and 3 has 62 leaseholders yet to be bought out and their options include the[new shared equity scheme.](http://moderngov.southwarksites.com/documents/s74901/Report%20Amending%20the%20shared%20equity%20rehousing%20policy%20for%20qualifying%20homeowners%20affected%20by%20regenerati.pdf)was introduced in response to the Secretary of State's CPO [ruling](https://www.theguardian.com/society/2016/sep/16/government-blocks-controversial-plan-to-force-out-housing-estate-residents) that BAME leaseholders were being wrongly displaced from their communities.
+There are couple of wrinkles though - a proportion of these social rented units will be needed to [rehouse leaseholders](http://www.aylesburynow.london/web/uploads/files/New_Homes/Information-for-Aylesbury-Leaseholders.pdf) decanted from later phases. How many remains to be seen - Phase 2 and 3 has 62 leaseholders yet to be bought out and their options include the[new shared equity scheme.](http://moderngov.southwarksites.com/documents/s74901/Report%20Amending%20the%20shared%20equity%20rehousing%20policy%20for%20qualifying%20homeowners%20affected%20by%20regenerati.pdf) introduced in response to the Secretary of State's CPO [ruling](https://www.theguardian.com/society/2016/sep/16/government-blocks-controversial-plan-to-force-out-housing-estate-residents) that BAME leaseholders were being wrongly displaced from their communities.
 
-NHG are also hanging on to some of the FDS, so-called Package C, to build 261 homes, 191 of which will be private (ref)
+NHG are also hanging on to some of the FDS, so-called Package C, to build 261 homes for themselves, 191 of which will be private (ref).
 
-Also the report is silent on whether the council housing means that there will be a reduction in the net loss of social rented housing in the overall regeneration or whether it is simply social housing being brought forward from later phases in the regeneration. The outline planning permission granted to still allows for a net loss of between 778 and 1,166 social rented units.
+Also the report is silent on whether the council housing means that there will be a reduction in the net loss of social rented housing in the overall regeneration or whether it is simply social housing being brought forward from later phases in the regeneration. The outline planning permission granted to NHG, who remain responsible for delivering the rest of the regeneration's 2,745 units, still allows for a net loss of between 778 and 1,166 social rented units.
 
 
 
 ## The not-so-good news
+
+
 
 leaseholders, Package C, decrease in projected social housing loss  - but the biggest downside is the cost.
 
