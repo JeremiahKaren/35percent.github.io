@@ -4,6 +4,9 @@ title: Aylesbury estate regeneration - too big to fail
 subtitle: Southwark forks out £211m to rescue troubled Aylesbury estate regeneration
 published: false
 ---
+
+
+
 This week, Southwark Councillors took to twitter to announce an increase in the number of social rented homes by 219 to be provided on the first phase of the Aylesbury estate regeneration bringing the total to 614, to replace the 566 homes that have been demolished[^1]. 
 
 ![](/img/kierontweet.png)
