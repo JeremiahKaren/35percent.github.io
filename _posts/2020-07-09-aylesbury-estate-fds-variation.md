@@ -8,9 +8,9 @@ published: false
 
 Southwark Council has announced that the First Development Site phase of the Aylesbury state regeneration will now deliver 520 council homes, increasing the number of social rented homes on the phase by 280 units. The figures come from a Cabinet report to be considered on Tuesday 14 June.  These will be the first new council homes on the regeneration; xxxx social rented homes, managed by L&Q, out of a total yyy new homes have already been built.  The whole regeneration should deliver a total of 4000 new homes, 70% of which will be affordable, half of which will be social rented.
 
-Unsurprisingly, Southwark councillors are also making the most of the gain (screen shot), which is undeniably good news.  Local housing campaigners, both on and off the estate can also take credit - reducing the loss of social housing and getting council housing has been a consistent aim of critics of the scheme (link). 
+Understandably, Southwark councillors are also making the most of the gain (screen shot), which is undeniably good news.  Local housing campaigners, both on and off the estate can also take credit - reducing the loss of social housing and getting council housing has been a consistent aim of critics of the scheme (link). 
 
-There are couple of wrinkles - a proportion of these social rented units  will be used to rehouse leaseholders decanted from later phases under the Council's [new shared equity scheme.](http://moderngov.southwarksites.com/documents/s74901/Report%20Amending%20the%20shared%20equity%20rehousing%20policy%20for%20qualifying%20homeowners%20affected%20by%20regenerati.pdf) This was introduced in response to the Secretary of State's [ruling](https://www.theguardian.com/society/2016/sep/16/government-blocks-controversial-plan-to-force-out-housing-estate-residents) that BAME leaseholders were being displaced from their communities.- leaseholders, Package C, decrease in projected social housing loss  - but the biggest downside is the cost.
+There are couple of wrinkles though - a proportion of these social rented units will be needed to [rehouse leaseholders](http://www.aylesburynow.london/web/uploads/files/New_Homes/Information-for-Aylesbury-Leaseholders.pdf) decanted from later phases. How many of the leasholders take up this option rmains to be seen - Phase 2 and 3 has 62 leaseholders yet to be bought out.  Their options include the[new shared equity scheme.](http://moderngov.southwarksites.com/documents/s74901/Report%20Amending%20the%20shared%20equity%20rehousing%20policy%20for%20qualifying%20homeowners%20affected%20by%20regenerati.pdf)was introduced in response to the Secretary of State's CPO [ruling](https://www.theguardian.com/society/2016/sep/16/government-blocks-controversial-plan-to-force-out-housing-estate-residents) that BAME leaseholders were being wrongly displaced from their communities.- leaseholders, Package C, decrease in projected social housing loss  - but the biggest downside is the cost.
 
 Southwark present this as £xxxxx, but another more ??? wayof looking at it ist that Southwark is paying £yyyyy for an extra xxxxx social rented units, meaning a eyewatering cost of £964k (?) for each home.  Death of cross ubsidy model.
 
@@ -75,7 +75,7 @@ We blogged previously about Southwark's flagging pledge to build 11,000 new coun
 ## Conclusion
 Politics trumps common sense decision making yet again. Decisions based on rescuing aylesbury regeneration and Council homes manifesto pledges not on providng best value for money in terms of Council spending.
 
-[Evidence](http://35percent.org/ouraylesbury/cpo/#simon-morrow-sm) submitted to the 2018 CPO Public Inquiry by RICS qualified quantity surveyor Simon Morrow shows that the estate could be refurbished for just £45k per home for a 1-bed and £65k for a 4-bed.
+[Evidence](http://35percent.org/ouraylesbury/cpo/#simon-morrow-sm) submitted to the 2018 CPO Public Inquiry by RICS qualified quantity surveyor Simon Morrow shows that the estate could be refurbished for just £45k per home for a 1-bed and £65k for a 4-bed. £69M housing scrutiny committee heating. Annual revenue.  Value for money no - political considerations decided
 
 ![](/img/aylesburyrefurbcombo.jpg)
 
@@ -91,6 +91,8 @@ At least four of these milestones clearly haven't been met:
 The Council also has a clause allowing it to terminate 3 years after it was first found that a plot wasn't viable:
 
 ![](/img/termination2.png)
+
+How could it be better spent
 
 __Footnotes:__
 [^1]: See para 2.4 of the Council's [2017 CPO evidence](http://35percent.org/ouraylesbury/cpo/southwarkstatementofcaseNOV2017.pdf).
