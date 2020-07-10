@@ -5,6 +5,10 @@ subtitle: Southwark forks out £211m to rescue troubled Aylesbury estate regener
 published: false
 ---
 
+Southwark Council has announced that the first phase of the Aylesbury state regeneration will now deliver 520 council homes, increasing the number of social rented homes on the phase by 280 units. The figures come from a Cabinet report to be considered on Tuesday 14 June.
+Unsurprisingly, Southwark councillors are alos makingthe most of the gain, which is undeniably good news. There are couple of wrinkles - leasholders - but th biggest downside is the
+The proposed revised delivery arrangements would allow 581 new homes to be delivered under Package A & B as council homes at social rents, representing an additional 280 social rent homes
+
 
 
 This week, Southwark Councillors took to twitter to announce an increase in the number of social rented homes by 219 to be provided on the first phase of the Aylesbury estate regeneration bringing the total to 614, to replace the 566 homes that have been demolished[^1]. 
