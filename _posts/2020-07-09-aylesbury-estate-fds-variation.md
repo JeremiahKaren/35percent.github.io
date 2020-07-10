@@ -4,11 +4,13 @@ title: 'Aylesbury estate regeneration to have new council homes '
 subtitle: Southwark forks out £211m to rescue troubled Aylesbury estate regeneration
 published: false
 ---
-## Southwark bails out Notting Hill Genesis 
+##    
 
 Southwark Council has announced that the First Development Site phase of the Aylesbury state regeneration will now deliver 520 council homes, increasing the number of social rented homes on the phase by 280 units. The figures come from a Cabinet report to be considered on Tuesday 14 June.  These will be the first new council homes on the regeneration; xxxx social rented homes, managed by L&Q, out of a total yyy new homes have already been built.  The whole regeneration should deliver a total of 4000 new homes, 70% of which will be affordable, half of which will be social rented.
 
-Unsurprisingly, Southwark councillors are also making the most of the gain (screen shot), which is undeniably good news.  Local housing campaigners, both on and off the estate can also take some credit too - reducing the loss of social housing and getting council housing has been a consistene aim of critics of the scheme There are couple of wrinkles - leasholders, Package C, decrease in projected social housing loss  - but the biggest downside is the cost.
+Unsurprisingly, Southwark councillors are also making the most of the gain (screen shot), which is undeniably good news.  Local housing campaigners, both on and off the estate can also take credit - reducing the loss of social housing and getting council housing has been a consistent aim of critics of the scheme (link). 
+
+There are couple of wrinkles - a proportion of these social rented units  will be used to rehouse leaseholders decanted from later phases under the Council's [new shared equity scheme.](http://moderngov.southwarksites.com/documents/s74901/Report%20Amending%20the%20shared%20equity%20rehousing%20policy%20for%20qualifying%20homeowners%20affected%20by%20regenerati.pdf) This was introduced in response to the Secretary of State's [ruling](https://www.theguardian.com/society/2016/sep/16/government-blocks-controversial-plan-to-force-out-housing-estate-residents) that BAME leaseholders were being displaced from their communities.- leaseholders, Package C, decrease in projected social housing loss  - but the biggest downside is the cost.
 
 Southwark present this as £xxxxx, but another more ??? wayof looking at it ist that Southwark is paying £yyyyy for an extra xxxxx social rented units, meaning a eyewatering cost of £964k (?) for each home.  Death of cross ubsidy model.
 
@@ -27,7 +29,7 @@ What the tweets didn't say is that providing these 219 extra social rented homes
 ![](/img/combinedtotal.png)
 *Extract from [Tuesday's Cabinet report](http://moderngov.southwark.gov.uk/documents/s89813/Report%20Aylesbury%20Regeneration%20programme%20-%20Delivery%20of%20New%20Council%20Homes.pdf) approving the decision*
 
-Neither did they explain that a proportion of these social rented units won't be social rented at all, because they will be used to rehouse leaseholders being decanted from later phases under the Council's [new shared equity scheme.](http://moderngov.southwarksites.com/documents/s74901/Report%20Amending%20the%20shared%20equity%20rehousing%20policy%20for%20qualifying%20homeowners%20affected%20by%20regenerati.pdf) This was introduced in response to the Secretary of State's [ruling](https://www.theguardian.com/society/2016/sep/16/government-blocks-controversial-plan-to-force-out-housing-estate-residents) that BAME leaseholders were being displaced from their communities.
+N
 
 Neither did they explain that Southwark has also agreed to let its development partner Notting Hill Genesis continue to deliver the mainly private homes (290 private, 63 shared ownership and 64 social rent[^2]) that were supposed to cross-subsidise these social units without any contribution from NHG. Or that Southwark has also agreed to forgo the £6m that NHG was going to pay towards the £35m cost of building the new library and health centre.    
 
