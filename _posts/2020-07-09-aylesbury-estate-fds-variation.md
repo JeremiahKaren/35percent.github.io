@@ -4,13 +4,21 @@ title: 'Aylesbury estate regeneration to have new council homes '
 subtitle: Southwark forks out £211m to rescue troubled Aylesbury estate regeneration
 published: false
 ---
-##    
+## Southwark bail out Notting Housing Genesis
 
-Southwark Council has announced that the First Development Site phase of the Aylesbury state regeneration will now deliver 520 council homes, increasing the number of social rented homes on the phase by 280 units. The figures come from a Cabinet report to be considered on Tuesday 14 June.  These will be the first new council homes on the regeneration; xxxx social rented homes, managed by L&Q, out of a total yyy new homes have already been built.  The whole regeneration should deliver a total of 4000 new homes, 70% of which will be affordable, half of which will be social rented.
+Southwark Council has announced that the First Development Site (FDS) phase of the Aylesbury state regeneration will now deliver 520 council homes, increasing the number of social rented homes on the phase by 280 units. The figures come from [a Cabinet report](http://moderngov.southwark.gov.uk/documents/s89813/Report%20Aylesbury%20Regeneration%20programme%20-%20Delivery%20of%20New%20Council%20Homes.pdf) to be considered on Tuesday 14 June.  These will be the first new council homes on the regeneration; xxxx social rented homes, managed by L&Q, out of a total yyy new homes have already been built.  The whole regeneration should deliver a total of over 4,000 new homes, 70% of which will be affordable, half of which will be social rented.
 
-Understandably, Southwark councillors are also making the most of the gain (screen shot), which is undeniably good news.  Local housing campaigners, both on and off the estate can also take credit - reducing the loss of social housing and getting council housing has been a consistent aim of critics of the scheme (link). 
+The new homes were to be built and paid for by Notting Hill Genesis,under the terms of [a planning permisssion](http://moderngov.southwark.gov.uk/documents/s53361/Report.pdf) granted to Notting Hill Housing Trust, as it then was, in 2015.  NHG will still build the homes (plus 61 more), but now Southwark will pay for them.
 
-There are couple of wrinkles though - a proportion of these social rented units will be needed to [rehouse leaseholders](http://www.aylesburynow.london/web/uploads/files/New_Homes/Information-for-Aylesbury-Leaseholders.pdf) decanted from later phases. How many of the leasholders take up this option rmains to be seen - Phase 2 and 3 has 62 leaseholders yet to be bought out.  Their options include the[new shared equity scheme.](http://moderngov.southwarksites.com/documents/s74901/Report%20Amending%20the%20shared%20equity%20rehousing%20policy%20for%20qualifying%20homeowners%20affected%20by%20regenerati.pdf)was introduced in response to the Secretary of State's CPO [ruling](https://www.theguardian.com/society/2016/sep/16/government-blocks-controversial-plan-to-force-out-housing-estate-residents) that BAME leaseholders were being wrongly displaced from their communities.- leaseholders, Package C, decrease in projected social housing loss  - but the biggest downside is the cost.
+Understandably, Southwark councillors are also making the most of the gain (screen shot), which is undeniably good news.  Local housing campaigners, both on and off the estate can also take credit - reducing the loss of social housing and getting council housing has been a consistent aim of critics of the scheme (link).
+
+![](/img/kierontweet.png)
+
+There are couple of wrinkles though and questions to be asked - a proportion of these social rented units will be needed to [rehouse leaseholders](http://www.aylesburynow.london/web/uploads/files/New_Homes/Information-for-Aylesbury-Leaseholders.pdf) decanted from later phases. How many remains to be seen - Phase 2 and 3 has 62 leaseholders yet to be bought out and their options include the[new shared equity scheme.](http://moderngov.southwarksites.com/documents/s74901/Report%20Amending%20the%20shared%20equity%20rehousing%20policy%20for%20qualifying%20homeowners%20affected%20by%20regenerati.pdf)was introduced in response to the Secretary of State's CPO [ruling](https://www.theguardian.com/society/2016/sep/16/government-blocks-controversial-plan-to-force-out-housing-estate-residents) that BAME leaseholders were being wrongly displaced from their communities.
+
+Also the report is silent on whether the council housing means that there will be a reduction in the net loss of social rented housing in the overall regeneration or whether it is simply social housing being brought forward from later phases in the regeneration. The outline planning permission granted to still allows for a net loss of between 778 and 1,166 social rented units
+
+leaseholders, Package C, decrease in projected social housing loss  - but the biggest downside is the cost.
 
 Southwark present this as £xxxxx, but another more ??? wayof looking at it ist that Southwark is paying £yyyyy for an extra xxxxx social rented units, meaning a eyewatering cost of £964k (?) for each home.  Death of cross ubsidy model.
 
@@ -47,7 +55,7 @@ This sounds like a sensible clause at first glance, except for the fact that in 
 
 ![](/img/nhtprofit.png)
 
-This has led to numerable delays in the scheme. The Council started decanting tenants from the first two phases nearly ten years ago and the first new homes were supposed to be completed this summer, but the first development site is still largely a pile of rubble and phase 2 hasn't even been fully decanted yet.
+This has led to inumerable delays in the scheme. The Council started decanting tenants from the first two phases nearly ten years ago and the first new homes were supposed to be completed this summer, but the first development site is still largely a pile of rubble and phase 2 hasn't even been fully decanted yet.
 
 ![](/img/phasingaylesburynow.png)
 
@@ -92,7 +100,9 @@ The Council also has a clause allowing it to terminate 3 years after it was firs
 
 ![](/img/termination2.png)
 
-How could it be better spent
+How could it be better spent?  £101m on heating; Overview and scrutiny committee
+
+the giant housing association that was granted [planning permissions in 2015](http://moderngov.southwark.gov.uk/ieListDocuments.aspx?CId=119&MId=4808&Ver=4), as Notting Hill Housing Trust, to build over 3,500 homes to complete the regeneration.  Southwark is taking over most of the FDS, and relieving Notting Hill Genesis of the obligation it has 
 
 __Footnotes:__
 [^1]: See para 2.4 of the Council's [2017 CPO evidence](http://35percent.org/ouraylesbury/cpo/southwarkstatementofcaseNOV2017.pdf).
