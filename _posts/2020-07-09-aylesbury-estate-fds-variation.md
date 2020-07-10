@@ -8,7 +8,7 @@ published: false
 
 Southwark Council has announced that the First Development Site (FDS) phase of the Aylesbury state regeneration will now deliver 520 council homes, increasing the number of social rented homes on the phase by 280 units. The figures come from [a Cabinet report](http://moderngov.southwark.gov.uk/documents/s89813/Report%20Aylesbury%20Regeneration%20programme%20-%20Delivery%20of%20New%20Council%20Homes.pdf) to be considered on Tuesday 14 June.  These will be the first new council homes on the regeneration; xxxx social rented homes, managed by L&Q, out of a total yyy new homes have already been built.  The whole regeneration should deliver a total of over 4,000 new homes, 70% of which will be affordable, half of which will be social rented.
 
-The new FDS homes were to be built and paid for by Notting Hill Genesis,under the terms of [a planning permisssion](http://moderngov.southwark.gov.uk/documents/s53361/Report.pdf) granted to Notting Hill Housing Trust, as it then was, in 2015.  NHG will still build the homes (520 council, 57 flexi-care, 7 specialist learning), but now Southwark will pay for them - £193m in development cost, to which must be added a further £17.8m in lost reciepts from NHG, giving a grand total of £210.8m. Two expected GLA grants, totalling £54.5m, would bring the cost down to £156.3m (Footnote OR 52, 54).
+Southwark will be paying for the new council homes, as well as 57 flexi-care and 7 specialist learning homes, while Notting Hill Genesis will build them.  This is a new _'arrangement'_; the homes were to have been built and paid for by Notting Hill Genesis,under the terms of [a planning permisssion](http://moderngov.southwark.gov.uk/documents/s53361/Report.pdf) granted to Notting Hill Housing Trust, as it then was, in 2015. Southwark will meet the £193m in development cost; it will forego further £17.8m in lost receipts from NHG, giving a grand total of £210.8m. Two expected GLA grants, totalling £54.5m, would bring the cost down to £156.3m (Footnote OR 52, 54).
 
 ## The good news
 
@@ -16,21 +16,21 @@ Understandably, Southwark councillors are making the most of the gain in council
 
 ![](/img/kierontweet.png)
 
-There are couple of wrinkles though - a proportion of these social rented units will be needed to [rehouse leaseholders](http://www.aylesburynow.london/web/uploads/files/New_Homes/Information-for-Aylesbury-Leaseholders.pdf) decanted from later phases. How many remains to be seen - Phase 2 and 3 has 62 leaseholders yet to be bought out and their options include the[new shared equity scheme.](http://moderngov.southwarksites.com/documents/s74901/Report%20Amending%20the%20shared%20equity%20rehousing%20policy%20for%20qualifying%20homeowners%20affected%20by%20regenerati.pdf) introduced in response to the Secretary of State's CPO [ruling](https://www.theguardian.com/society/2016/sep/16/government-blocks-controversial-plan-to-force-out-housing-estate-residents) that BAME leaseholders were being wrongly displaced from their communities.
+There is more than a couple of wrinkles though - a proportion of these social rented units will be needed to [rehouse leaseholders](http://www.aylesburynow.london/web/uploads/files/New_Homes/Information-for-Aylesbury-Leaseholders.pdf) decanted from later phases. How many remains to be seen - Phase 2 and 3 has 62 leaseholders yet to be bought out and their options include the[new shared equity scheme.](http://moderngov.southwarksites.com/documents/s74901/Report%20Amending%20the%20shared%20equity%20rehousing%20policy%20for%20qualifying%20homeowners%20affected%20by%20regenerati.pdf) introduced in response to the Secretary of State's CPO [ruling](https://www.theguardian.com/society/2016/sep/16/government-blocks-controversial-plan-to-force-out-housing-estate-residents) that BAME leaseholders were being wrongly displaced from their communities.
 
-NHG are also hanging on to some of the FDS, so-called Package C, to build 261 homes for themselves, 191 of which will be private (ref).
+NHG are also hanging on to some of the FDS land, so-called Package C, on which to build 261 homes for themselves, 191 of which will be private, 57 shared ownership, and 13 social rent (ref).  
 
 Also, the report is silent on whether the council housing means that there will be a reduction in the net loss of social rented housing in the overall regeneration or whether it is simply social housing being brought forward from later phases in the regeneration. The outline planning permission granted to NHG, who remain responsible for delivering the rest of the regeneration's 2,745 units, still allows for a net loss of between 778 and 1,166 social rented units.
 
 ## The not-so-good news
 
-Southwark Council present the cost of building the new council, flexi and specialist learning homes as being a reasonable £238.4k per unit. Southwark arrives at this figure by assuming reciept of two GLA grants, reducing development costs to £138.5m, and dividing by the total 581 units.
+Southwark Council present the cost of building the new council, flexi and specialist learning homes as being a reasonable £238.4k per unit. Southwark arrives at this figure by assuming reciept of two GLA grants, reducing development costs to £138.5m.
 
 But only one GLA grant has been secured, so leaving this out of the equation and including the loss of £17.8m from NHG (for the land, and contributions to infrastructure costs) gives a total cost to Southwark of £182m and a less flattering cost per unit of £313k.
 
-Neither of the above calculations, though, take into account the fact that under the existing deal with NHG, Southwark was to pay nothing - all the costs, for all the housing, including 240 social rented units, were to be met by NHG.
+Neither of the above calculations, though, take into account the major fact that under the existing deal with NHG, Southwark was to pay nothing - all the costs, for all the housing, including 240 social rented units, were to be met by NHG.
 
-So, while Southwark is now to get 560 council homes, insead of 240 social rented homs, it will be paying £650k for each of the extra 260 units.
+So, while Southwark is now to get 560 council homes, instead of 240 social rented homes, this net gain requires an outlay of £193m gross - £690k for each of the extra 260 units.
 
 ## What next for NHG?
 
@@ -100,7 +100,10 @@ But rescuing the Aylesbury regeneration is costing Southwark dearly.  Southwark 
 
 This is also not the first time Southwark have come to NHG's rescue, as witnessed by the transfer of FDS demolition costs.  Southwark is also spending significant amounts (link) keeping the estate habitable while the regeneration stalls, under NHG's stewardship - Phase 1 should have been completed by 2016, Phase 2 by 2018, Phase 3 by 2020; Phase 4 should be underway - yet we are still stuck on Phase 1 (Footnote Aylesbury Area Action Plan Table A5.1: Schedule of proposals sites).
 
-Tuesday's cabinet report acknowledges that the cross-subsidy model, where the proceeds of private house sales subsidise the deleivery of affordable housing is dead, at least on he FDS.  If this is to be the case for the remainder of the regeneration, then there is really no need for NHG.  Southwark should at least make it clear that there will be no more bail-outs; better still it should start negotiating an amicable divorce. 
+Tuesday's cabinet report acknowledges that the cross-subsidy model, where the proceeds of private house sales subsidise the deleivery of affordable housing is dead, at least on he FDS.  If this is to be the case for the remainder of the regeneration, then there is really no need for NHG.  Southwark should at least make it clear that there will be no more bail-outs; better still it should start negotiating an amicable divorce.
+
+
+----------------------------------------------------------------------------------------------------------
 
 
 
