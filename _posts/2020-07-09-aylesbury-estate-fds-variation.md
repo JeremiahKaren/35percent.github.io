@@ -15,7 +15,7 @@ Southwark will be paying for the new council homes, as well as 57 flexi-care and
 
 ## The good news
 
-Understandably, Southwark councillors are making the most of the gain in council housing, which is undeniably good news.  Local housing campaigners, both on and off the estate can also take credit - reducing the loss of social housing has been a consistent aim and at the centre of [many hard-fought battles](http://35percent.org/aylesbury-estate/).
+Understandably, Southwark councillors are making the most of the gain in council housing, which is undeniably good news.  Local housing campaigners, both on and off the estate can also take credit - [reducing the loss of social housing](http://35percent.org/aylesbury-estate/) has been a consistent aim and at the centre of [many hard-fought battles](http://35percent.org/2017-05-08-aylesbury-cpo-what-has-really-happened/).
 
 ![](/img/kierontweet.png)
 
