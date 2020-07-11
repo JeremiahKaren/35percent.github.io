@@ -97,8 +97,6 @@ __Footnotes:__
 
 What the tweets didn't say is that providing these 219 extra social rented homes [will cost](http://moderngov.southwark.gov.uk/documents/s89813/Report%20Aylesbury%20Regeneration%20programme%20-%20Delivery%20of%20New%20Council%20Homes.pdf) the Council an estimated £211 million pounds - that's a staggering £964k each home!
 
-![](/img/combinedtotal.png)
-*Extract from [Tuesday's Cabinet report](http://moderngov.southwark.gov.uk/documents/s89813/Report%20Aylesbury%20Regeneration%20programme%20-%20Delivery%20of%20New%20Council%20Homes.pdf) approving the decision*
 
 Neither did they explain that Southwark has also agreed to let its development partner Notting Hill Genesis continue to deliver the mainly private homes (290 private, 63 shared ownership and 64 social rent[^2]) that were supposed to cross-subsidise these social units without any contribution from NHG. Or that Southwark has also agreed to forgo the £6m that NHG was going to pay towards the £35m cost of building the new library and health centre.    
 
@@ -110,7 +108,6 @@ Neither did they explain that Southwark has also agreed to let its development p
 
 This has led to inumerable delays in the scheme. The Council started decanting tenants from the first two phases nearly ten years ago and the first new homes were supposed to be completed this summer, but the first development site is still largely a pile of rubble and phase 2 hasn't even been fully decanted yet.
 
-![](/img/phasingaylesburynow.png)
 
 In fact, there isn't even a planning application submitted for phase 2 yet, let alone compulsory purchase order and demolition notice issued. Meanwhile circa 500 homes stand empty in the middle of a housing crisis and global pandemic. 
 
