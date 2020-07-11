@@ -39,7 +39,7 @@ NHG also get to keep part of the FDS land, so-called Package C, on which to buil
 
 NHG will also continue to build the homes on Plot 18, most of which are again private -  99 private homes,   6 shared ownership and 17 social rent. (This is despite the fact that it is no longer paying £6m towards Plot 18's community infrastructure) [^4].
 
-This is all in stark contrast to the what NHG was supposed to deliver across the whole FDS under the [Development Partnership Agreement (DPA)](/img/aylesburyDPA.pdf) between Southwark and NHG, signed in 2014.  NHG was to build 365 social rented units, 217 shared ownership homes and 382 private homes, the idea being that revenus from the private homes would subsidise the cost of the affordable housing.  This model now appears to hae been abandoned [^5].
+This is all in stark contrast to the what NHG was supposed to deliver across the whole FDS under the [Development Partnership Agreement (DPA)](/img/aylesburyDPA.pdf) between Southwark and NHG, signed in 2014.  NHG was to build 365 social rented units, 217 shared ownership homes and 382 private homes, the idea being that revenue from the private homes would subsidise the cost of the affordable housing.  This model now appears to have been abandoned [^5].
 
 ## An explanation?
 
