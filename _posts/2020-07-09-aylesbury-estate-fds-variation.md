@@ -35,9 +35,11 @@ So, while Southwark is now to get 560 council homes, instead of 240 social rente
 
 ## NHG takes all the private housing
 
-NHG also get to keep part of the FDS land, so-called Package C, on which to build 261 homes for themselves, most of which, 191 units, will be private homes for sale.  These units comprise all the private housing on the FDS. (ref0
+NHG also get to keep part of the FDS land, so-called Package C, on which to build 261 homes for themselves, most of which, 191 units, will be private homes for sale.  These units comprise all the private housing on the FDS. There will also be 57 shared ownership, and 13 social rent (ref).
 
-NHG will also build  57 shared ownership, and 13 social rent, but this is still in stark contrast to the what NHG was supposed to deliver across the whole FDS under the [Development Partnership Agreement (DPA)](/img/aylesburyDPA.pdf) between Southwark and NHG, signed in 2014.  NHG was to build 365 social rented units, 217 shared ownership homes and 382 private homes, the idea being that revenus from the private homes would subsidise the cost of the affordable housing.  This model now appears to hae been abandoned. (Footnote OR 25, 52)
+NHG will also continue to build the homes on Plot 18, most of which are again private -  99 private homes,   6 shared ownership and 17 social rent.
+
+This is all in stark contrast to the what NHG was supposed to deliver across the whole FDS under the [Development Partnership Agreement (DPA)](/img/aylesburyDPA.pdf) between Southwark and NHG, signed in 2014.  NHG was to build 365 social rented units, 217 shared ownership homes and 382 private homes, the idea being that revenus from the private homes would subsidise the cost of the affordable housing.  This model now appears to hae been abandoned. (Footnote OR 25, 52)
 
 ## An explanation?
 
@@ -106,14 +108,7 @@ Neither did they explain that Southwark has also agreed to let its development p
 ## Background - viability clause and delays
 
 
-This has led to inumerable delays in the scheme. The Council started decanting tenants from the first two phases nearly ten years ago and the first new homes were supposed to be completed this summer, but the first development site is still largely a pile of rubble and phase 2 hasn't even been fully decanted yet.
-
-
-In fact, there isn't even a planning application submitted for phase 2 yet, let alone compulsory purchase order and demolition notice issued. Meanwhile circa 500 homes stand empty in the middle of a housing crisis and global pandemic. 
-
 ![](/img/phase2empties.png)
-
-The delays and years of council homes standing empty or plots standing empty after they have been demolished is not a good look for the Council and it has come under political pressure as a result. NHG has used this as leverage to hold the Council over a barrel and force concessions, just as Lendlease did with the Council at the neighbouring Heygate estate regeneration.
 
 
 
