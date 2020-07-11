@@ -37,7 +37,7 @@ So, while Southwark is now to get 560 council homes, instead of 240 social rente
 
 NHG also get to keep part of the FDS land, so-called Package C, on which to build 261 homes for themselves, most of which, 191 units, will be private homes for sale.  These units comprise all the private housing on the FDS. (ref0
 
-NHG wiil also build  57 shared ownership, and 13 social rent, but his is still in stark contrast to the what NHG was supposed to deliver across the whole FDS under the [Development Partnership Agreement (DPA)](/img/aylesburyDPA.pdf) for the Aylesbury, signed in 2014.  This was for 365 social rented units, 217 shared ownership homes and 382 private homes. The new arrangement not only has a lot fewer homes of all tenures, but a much higher proportion of private homes.  The report does not say how much NHG will be making form this.
+NHG wiil also build  57 shared ownership, and 13 social rent, but his is still in stark contrast to the what NHG was supposed to deliver across the whole FDS under the [Development Partnership Agreement (DPA)](/img/aylesburyDPA.pdf) for the Aylesbury, signed in 2014.  NHG was to build 365 social rented units, 217 shared ownership homes and 382 private homes, the idea being that revenus from the private homes would subsidise the cost of teh affordable housing.  This model now appears to hae been abandoned (Footnote OR 25) 
 
 
 ## Explanation
