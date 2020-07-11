@@ -39,11 +39,11 @@ NHG also get to keep part of the FDS land, so-called Package C, on which to buil
 
 NHG will also continue to build the homes on Plot 18, most of which are again private -  99 private homes,   6 shared ownership and 17 social rent. (This is despite the fact that it is no longer paying £6m towards Plot 18's community infrastructure) [^4].
 
-This is all in stark contrast to the what NHG was supposed to deliver across the whole FDS under the [Development Partnership Agreement (DPA)](/img/aylesburyDPA.pdf) between Southwark and NHG, signed in 2014.  NHG was to build 365 social rented units, 217 shared ownership homes and 382 private homes, the idea being that revenus from the private homes would subsidise the cost of the affordable housing.  This model now appears to hae been abandoned. (Footnote OR 25, 52)
+This is all in stark contrast to the what NHG was supposed to deliver across the whole FDS under the [Development Partnership Agreement (DPA)](/img/aylesburyDPA.pdf) between Southwark and NHG, signed in 2014.  NHG was to build 365 social rented units, 217 shared ownership homes and 382 private homes, the idea being that revenus from the private homes would subsidise the cost of the affordable housing.  This model now appears to hae been abandoned [^5].
 
 ## An explanation?
 
-NHG therefore appear to be walking away unscathed from their FDS obligations and while Southwark are getting many welcome council homes, they are having to dig deep financially to pay for them.  The Cabinet report notes a knock-on effect for future housing investment. (Footnote: OR 64)
+NHG therefore appear to be walking away unscathed from their FDS obligations and while Southwark are getting many welcome council homes, they are having to dig deep financially to pay for them.  The Cabinet report notes a knock-on effect for future housing investment [^6].
 
 An explanation for all this lies with the Development Partnership Agreement, which gives NHG an effective 'viability veto' on the progress of the regeneration. A DPA clause allows NHG to decide whether or not a particular plot or phase can proceed, depending on its viability.  This viability test includes a 21% 'priority return' of revenue to NHG and is determined by their own assessment.
 
@@ -99,7 +99,9 @@ __Footnotes:__
 
 [^4]: [Aylesbury Regeneration Programme: Delivery of new council homes on the First Development Site](https://moderngov.southwark.gov.uk/documents/s89813/Report%20Aylesbury%20Regeneration%20programme%20-%20Delivery%20of%20New%20Council%20Homes.pdf) para 53
 
+[^5]: [Aylesbury Regeneration Programme: Delivery of new council homes on the First Development Site](https://moderngov.southwark.gov.uk/documents/s89813/Report%20Aylesbury%20Regeneration%20programme%20-%20Delivery%20of%20New%20Council%20Homes.pdf) paras 25, 52
 
+[^6]: [Aylesbury Regeneration Programme: Delivery of new council homes on the First Development Site](https://moderngov.southwark.gov.uk/documents/s89813/Report%20Aylesbury%20Regeneration%20programme%20-%20Delivery%20of%20New%20Council%20Homes.pdf) para 64
 
 
 
