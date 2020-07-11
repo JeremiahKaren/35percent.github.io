@@ -112,6 +112,8 @@ __Footnotes:__
 ----------------------------------------------------------------------------------------------------------
 
 
+
+
 What the tweets didn't say is that providing these 219 extra social rented homes [will cost](http://moderngov.southwark.gov.uk/documents/s89813/Report%20Aylesbury%20Regeneration%20programme%20-%20Delivery%20of%20New%20Council%20Homes.pdf) the Council an estimated £211 million pounds - that's a staggering £964k each home!
 
 Neither did they explain that Southwark has also agreed to let its development partner Notting Hill Genesis continue to deliver the mainly private homes (290 private, 63 shared ownership and 64 social rent[^2]) that were supposed to cross-subsidise these social units without any contribution from NHG. Or that Southwark has also agreed to forgo the £6m that NHG was going to pay towards the £35m cost of building the new library and health centre.  
