@@ -25,19 +25,19 @@ Also, the report is silent on whether the new council housing means that there w
 
 ## The not-so-good news
 
-Southwark Council presents the cost of building the new council and other FDS homes as being a reasonable £238.4k per unit. Southwark arrives at this figure by assuming receipt of two GLA grants, reducing development costs from £193m to £138.5m.
+Southwark Council presents the cost of building the new council and other FDS homes as being a reasonable £238.4k per unit. Southwark arrives at this figure by assuming receipt of two GLA grants, reducing development costs from £193m to £138.5m .
 
 But only one GLA grant has been secured and leaving this out of the equation and including the loss of £17.8m from NHG (for the land, and contributions to infrastructure costs) gives a total cost to Southwark of £182m and a less flattering cost per unit of £313k.
 
 Neither of the above calculations, though, take into account the major fact that under the existing deal with NHG, Southwark was to pay nothing - all the costs, for all the FDS housing, including 240 social rented units, were to be have been met by NHG.
 
-So, while Southwark is now to get 560 council homes, instead of 240 social rented homes, this net gain requires an outlay of £193m gross - equivalent to £690k for each of the extra 260 units.
+So, while Southwark is now to get 560 council homes, instead of 240 social rented homes, this net gain requires an outlay of £193m gross - equivalent to £690k for each of the extra 260 units [^3]:.
 
 ## NHG takes all the private housing
 
 NHG also get to keep part of the FDS land, so-called Package C, on which to build 261 homes for themselves, most of which, 191 units, will be private homes for sale.  These units comprise all the private housing on the FDS. There will also be 57 shared ownership, and 13 social rent (ref).
 
-NHG will also continue to build the homes on Plot 18, most of which are again private -  99 private homes,   6 shared ownership and 17 social rent.
+NHG will also continue to build the homes on Plot 18, most of which are again private -  99 private homes,   6 shared ownership and 17 social rent. (This is despite the fact that it is no longer paying £6m towards Plot 18's community infrastructure). Footnote para 54
 
 This is all in stark contrast to the what NHG was supposed to deliver across the whole FDS under the [Development Partnership Agreement (DPA)](/img/aylesburyDPA.pdf) between Southwark and NHG, signed in 2014.  NHG was to build 365 social rented units, 217 shared ownership homes and 382 private homes, the idea being that revenus from the private homes would subsidise the cost of the affordable housing.  This model now appears to hae been abandoned. (Footnote OR 25, 52)
 
@@ -95,7 +95,9 @@ __Footnotes:__
 
 [^2]: [Outline Planning Permission report 14/AP/3844](https://moderngov.southwark.gov.uk/documents/s53361/Report.pdf) Table 14 para 97
 
-[^3]: 
+[^3]: [Aylesbury Regeneration Programme: Delivery of new council homes on the First Development Site](https://moderngov.southwark.gov.uk/documents/s89813/Report%20Aylesbury%20Regeneration%20programme%20-%20Delivery%20of%20New%20Council%20Homes.pdf) paras 50,54
+
+[^4]:
 
 
 
