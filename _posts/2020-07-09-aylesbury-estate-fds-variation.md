@@ -8,14 +8,14 @@ published: false
 
 Southwark Council has announced that the First Development Site (FDS) of the Aylesbury estate regeneration will now deliver 520 council homes, increasing the number of social rented homes on the site by 280 units. The figures come from [a Cabinet report](http://moderngov.southwark.gov.uk/documents/s89813/Report%20Aylesbury%20Regeneration%20programme%20-%20Delivery%20of%20New%20Council%20Homes.pdf) to be considered on Tuesday 14 June.  These will be the first new council homes on the regeneration.
 
-Southwark will be paying for the new council homes, as well as 57 flexi-care and 7 specialist learning homes, while Notting Hill Genesis will build them.  This is a new _'arrangement'_ ; previously the homes were to have been built and paid for by Notting Hill Genesis, under the terms of [a planning permisssion](http://moderngov.southwark.gov.uk/documents/s53361/Report.pdf) granted to Notting Hill Housing Trust, as it then was, in 2015. Southwark will pay £193m in development cost; it will also forego a further £17.8m in lost receipts from NHG, giving a total cost of £210.8m. Two GLA grants, totalling £54.5m, would bring the cost down to £156.3m (Footnote OR 52, 54).
+Southwark will be paying for the new council homes, as well as 57 flexi-care and 7 specialist learning homes, while Notting Hill Genesis will build them.  This is a new _'arrangement'_ ; previously the homes were to have been built and paid for by Notting Hill Genesis, under the terms of [a planning permisssion](http://moderngov.southwark.gov.uk/documents/s53361/Report.pdf) granted to Notting Hill Housing Trust, as it then was, in 2015. Southwark will pay £193m in development cost; it will also forego a further £17.8m in lost receipts from NHG, giving a total cost of £210.8m. Two GLA grants, totalling £54.5m, would bring the cost down to £156.3m [^1]
 
 ![](/img/combinedtotal.png)
 *Extract from [Tuesday's Cabinet report](http://moderngov.southwark.gov.uk/documents/s89813/Report%20Aylesbury%20Regeneration%20programme%20-%20Delivery%20of%20New%20Council%20Homes.pdf) approving the decision*
 
 ## The good news
 
-Understandably, Southwark councillors are making the most of the gain in council housing, which is undeniably good news.  Local housing campaigners, both on and off the estate can also take credit - reducing the loss of social housing and getting council housing has been their consistent aim and at the centre of many hard-fought battles (link).
+Understandably, Southwark councillors are making the most of the gain in council housing, which is undeniably good news.  Local housing campaigners, both on and off the estate can also take credit - reducing the loss of social housing has been a consistent aim and at the centre of [many hard-fought battles](http://35percent.org/aylesbury-estate/).
 
 ![](/img/kierontweet.png)
 
@@ -91,9 +91,14 @@ It would be a serious matter for Southwark to consider such a step, but past per
 
 __Footnotes:__
 
-[^1]: 
+[^1]: [Aylesbury Regeneration Programme: Delivery of new council homes on the First Development Site](http://moderngov.southwarksites.com/documents/s74901/Report%20Amending%20the%20shared%20equity%20rehousing%20policy%20for%20qualifying%20homeowners%20affected%20by%20regenerati.pdf) paras 52, 54.
 
 [^2]: 
+
+
+
+
+
 ----------------------------------------------------------------------------------------------------------
 
 
