@@ -50,6 +50,8 @@ NHG's circumstances have also changed for the worse since it signed the DPA in 2
 
 Southwark, on the other hand, has invested heavily, both financially and politically, in delivering the Aylesbury regeneration. It has been decanting homes for nearly 10 years and now 500 or so stand empty, or are bing used for temporary accommodation. The  first FDS homes were supposed to have been completed this summer (a two year delay on the original timetable), but much of the site is still rubble.  Phase 2 is still not fully empty and no planning application has been submitted.  Furhter delays can be expected for any compulsory purchase order and a demolition notice.
 
+![](/img/phasingaylesburynow.png)
+
 It is therefore not difficult to see why Southwark might have felt compelled to make concessions to NHG, by taking over the delivery and meeting the cost of nearly all the affordable housing, while leaving all the revenue-generating free-market homes to NHG.
 
 ## NHG holds Southwark over a barrel - again
@@ -101,15 +103,7 @@ Neither did they explain that Southwark has also agreed to let its development p
 *Plans showing the gold-plated facade 20 storey tower overlooking Burgess Park (all private units) that NHG will retain*
 
 ## Background - viability clause and delays
-Under the Development Partnership Agreement signed in 2014, NHG was supposed to deliver 365 social rented units, subisidised by 382 private homes and 217 shared ownership homes this first phase of development.
 
-But NHG negotiated a clause into the [Development Partnership Agreement (DPA)](/img/aylesburyDPA.pdf) which gave it the option not to proceed with each given plot of each phase until it becomes financially viable.  
-
-![](/img/pvc.png)
-
-This sounds like a sensible clause at first glance, except for the fact that in calculating viability a plot is only deemed viable if it provides NHG with a minimum profit of 21%:
-
-![](/img/nhtprofit.png)
 
 This has led to inumerable delays in the scheme. The Council started decanting tenants from the first two phases nearly ten years ago and the first new homes were supposed to be completed this summer, but the first development site is still largely a pile of rubble and phase 2 hasn't even been fully decanted yet.
 
