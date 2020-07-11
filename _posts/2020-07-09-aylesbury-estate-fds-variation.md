@@ -37,8 +37,7 @@ So, while Southwark is now to get 560 council homes, instead of 240 social rente
 
 NHG also get to keep part of the FDS land, so-called Package C, on which to build 261 homes for themselves, most of which, 191 units, will be private homes for sale.  These units comprise all the private housing on the FDS. (ref0
 
-NHG wiil also build  57 shared ownership, and 13 social rent, but this is still in stark contrast to the what NHG was supposed to deliver across the whole FDS under the [Development Partnership Agreement (DPA)](/img/aylesburyDPA.pdf) between Southwark and NHG, signed in 2014.  NHG was to build 365 social rented units, 217 shared ownership homes and 382 private homes, the idea being that revenus from the private homes would subsidise the cost of the affordable housing.  This model now appears to hae been abandoned. (Footnote OR 25, 52) 
-
+NHG will also build  57 shared ownership, and 13 social rent, but this is still in stark contrast to the what NHG was supposed to deliver across the whole FDS under the [Development Partnership Agreement (DPA)](/img/aylesburyDPA.pdf) between Southwark and NHG, signed in 2014.  NHG was to build 365 social rented units, 217 shared ownership homes and 382 private homes, the idea being that revenus from the private homes would subsidise the cost of the affordable housing.  This model now appears to hae been abandoned. (Footnote OR 25, 52)
 
 ## An explanation?
 
@@ -52,12 +51,9 @@ Southwark, on the other hand, has invested heavily, both financially and politic
 
 It is therefore not difficult to see why Southwark might have felt compelled to make concessions to NHG, by taking over the delivery and meeting the cost of nearly all the affordable housing, while leaving all the revenue-generating free-market homes to NHG.
 
-
 ## NHG holds Southwark over a barrel
 
-These new arrangements are themselves changes to  arrangments previously changed in NHG's favour back in 2016.
-
-Southwark has been forced to make such concessions twice before. In September 2016, Southwark agreed to [pay out £21 million](http://moderngov.southwark.gov.uk/documents/s63817/Report.Aylesbury%20Regeneration%20Delivery.pdf) in demolition and planning costs, that were originally to be met by NHG (explain).  This advance funding was to be recouped by the FDS land receipt; the fact that the land receipt figure of £17.8m now falls short of the £21m advanced by Southwark is now of course irrelevant, given that Southwark is to receive nothing at all.
+Southwark has been forced to make such concessions twice before. In September 2016, Southwark agreed to [underwrite or advance £22.1 million](http://moderngov.southwark.gov.uk/documents/s63817/Report.Aylesbury%20Regeneration%20Delivery.pdf) to NHG, for the FDS demolition and design costs, including a payment of £16.8m for demolition, that was to have been paid by NHG.  This advance funding was to be recouped by the FDS land receipt, which will now not be paid. The [report agreeing](http://moderngov.southwark.gov.uk/documents/s63817/Report.Aylesbury%20Regeneration%20Delivery.pdf) this also noted that Southwark was due to spend £52.5m on the Aylesbury regeneration by 2018/19. 
 
 ![](/img/nhttproceed.png)
 
@@ -65,17 +61,30 @@ In 2018, NHG was awarded £30m of GLA grant funding for the first phase of the s
 
 ## What next?
 
-There is also a big question now to be asked about what role Notting Hill Genensis will play in the remainder of the regeneration, which is only half complete (no of homes to be built?) and years behaind schedule.  NHG still has the planning permission for this and a development partnership agreement Southwark Councils to deliver it. 
+Gaining 540 council homes is a boon for everyone on Southwark who depends upon social housing.  Delivering these in the FDS phase also has the advantage that existing residents from later phases have a better chance of remaining on the Aylesbury.
 
-## Conclusion
+But rescuing the Aylesbury regeneration is costing Southwark dearly.  Southwark is plugging holes left by NHG's failure to deliver.  Southwark is paying not just for council housing on its own account, but for the social rented homes that NHG should have paid for, with money that could be spent building council houses elsewhere.  Meantime NHG retains a choice piece of land, in the middle of the Aylesbury, to build nearly 200 private homes.  No figures are given in Tuesday's cabinet report of how much NHG stand to make from this.
 
-Gaining 540 council homes is a boon for everyone on Southwark who depends upon social housing.  Delivering thses in the FDS phase also has the advantage that existing residents from later phases have a better chance of remaining on the Aylesbury.
+This is also not the first time Southwark have come to NHG's rescue.  Southwark has also [spent £101m keeping the estate habitable](https://moderngov.southwark.gov.uk/documents/s89813/Report%20Aylesbury%20Regeneration%20programme%20-%20Delivery%20of%20New%20Council%20Homes.pdf), while the regeneration stalls under NHG's stewardship.
 
-But rescuing the Aylesbury regeneration is costing Southwark dearly.  Southwark is plugging a hole left by NHG's failure to deliver.  Southwark is paying not just for council housing on its own account, but for the social rented homes that NHG should have paid for, with money that could be spent building council houses elsewhere.  Meantime NHG retains a choice piece of land, in the middle of the Aylesbury, to build nearly 200 private homes.  No figures are given in Tuesday's cabinet report of how much NHG stand to make from this.
+At least four of the DPA milestones haven't been met:
 
-This is also not the first time Southwark have come to NHG's rescue, as witnessed by the transfer of FDS demolition costs.  Southwark is also spending significant amounts (link) keeping the estate habitable while the regeneration stalls, under NHG's stewardship.  According to the original Aylesbury Area Action Plan timetable Phase 1 should have been completed by 2016, Phase 2 by 2018, Phase 3 by 2020; Phase 4 should be underway - yet we are still stuck on Phase 1 (Footnote Aylesbury Area Action Plan Table A5.1: Schedule of proposals sites).
+![](/img/aylesburymilestones.png)
 
-Tuesday's cabinet report acknowledges that the cross-subsidy model, where the proceeds of private house sales subsidise the deleivery of affordable housing is dead, at least on he FDS.  If this is to be the case for the remainder of the regeneration, then there is really no need for NHG.  Southwark should at least make it clear that there will be no more bail-outs; better still it should start negotiating an amicable divorce.
+....and Southwark has the right to terminate the DPA if Notting Hill doesn't meet milestones:
+
+![](/img/termination1.png)
+
+There is also a clause that allows the Council to terminate 3 years after it was first found that a plot wasn't viable:
+
+![](/img/termination2.png)
+
+It would be a serious matter for Southwark to consider such a step, but past performance and its present situation indicates NHG may very well come back again for more concessions that will require Southwark to spend money that could be used building council houses elswhere.
+
+__Footnotes:__
+[^1]: See para 2.4 of the Council's [2017 CPO evidence](http://35percent.org/ouraylesbury/cpo/southwarkstatementofcaseNOV2017.pdf).
+
+[^2]: Comprising 47 social rent, 57 shared ownership and 191 private homes on the FDS - and 17 social rent, 6 shared ownership and 99 private homes on Plot 18. (18% social rent)
 
 ----------------------------------------------------------------------------------------------------------
 
@@ -130,13 +139,6 @@ In 2018, NHG was awarded £30m of GLA grant funding for the first phase of the s
 ## The FDS 
 In August last year, NHG was [forced](https://www.insidehousing.co.uk/news/news/notting-hill-genesis-scales-back-development-plans-amid-changing-market-conditions-62506) to 'significantly scale back' its development pipeline as it emerged that there were more than 400 unsold private market homes sitting on its books.
 
-## 11,000 new Council homes
-We blogged previously about Southwark's flagging pledge to build 11,000 new council homes and how it is still knocking down and selling off council homes faster than it is building new ones.
-
-
-
-----------------------------------------------------------------------------------------------------------
-
 
 
 paying for  rented Politics trumps common sense decision making yet again. Decisions based on rescuing aylesbury regeneration and Council homes manifesto pledges not on providng best value for money in terms of Council spending.
@@ -166,7 +168,25 @@ regardless of the the regeneration timetable given in the [Aylesbury Area Action
 
 xxxx social rented homes, managed by L&Q, out of a total yyy new homes have already been built.  The whole regeneration should deliver a total of over 4,000 new homes, 70% of which will be affordable, half of which will be social rented
 
-__Footnotes:__
-[^1]: See para 2.4 of the Council's [2017 CPO evidence](http://35percent.org/ouraylesbury/cpo/southwarkstatementofcaseNOV2017.pdf).
+These new arrangements are themselves changes to  arrangments previously changed in NHG's favour back in 2016.
 
-[^2]: Comprising 47 social rent, 57 shared ownership and 191 private homes on the FDS - and 17 social rent, 6 shared ownership and 99 private homes on Plot 18. (18% social rent)
+According to the original Aylesbury Area Action Plan timetable Phase 1 should have been completed by 2016, Phase 2 by 2018, Phase 3 by 2020; Phase 4 should be underway - yet we are still stuck on Phase 1 (Footnote Aylesbury Area Action Plan Table A5.1: Schedule of proposals sites)
+
+but Southwark has the right to terminate the DPA if Notting Hill doesn't meet milestones:
+
+![](/img/termination1.png)
+
+At least four of these milestones clearly haven't been met:
+
+![](/img/aylesburymilestones.png)
+
+The Council also has a clause allowing it to terminate 3 years after it was first found that a plot wasn't viable:
+
+![](/img/termination2.png)
+
+
+
+
+See para 2.4 of the Council's [2017 CPO evidence](http://35percent.org/ouraylesbury/cpo/southwarkstatementofcaseNOV2017.pdf).
+
+Comprising 47 social rent, 57 shared ownership and 191 private homes on the FDS - and 17 social rent, 6 shared ownership and 99 private homes on Plot 18. (18% social rent)
