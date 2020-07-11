@@ -31,7 +31,7 @@ But only one GLA grant has been secured and leaving this out of the equation and
 
 Neither of the above calculations, though, take into account the major fact that under the existing deal with NHG, Southwark was to pay nothing - all the costs, for all the FDS housing, including 240 social rented units, were to be have been met by NHG.
 
-So, while Southwark is now to get 560 council homes, instead of 240 social rented homes, this net gain requires an outlay of £193m gross - equivalent to £690k for each of the extra 260 units [^3]:.
+So, while Southwark is now to get 560 council homes, instead of 240 social rented homes, this net gain requires an outlay of £193m gross - equivalent to £690k for each of the extra 260 units [^3].
 
 ## NHG takes all the private housing
 
