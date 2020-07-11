@@ -10,6 +10,9 @@ Southwark Council has announced that the First Development Site (FDS) of the Ayl
 
 Southwark will be paying for the new council homes, as well as 57 flexi-care and 7 specialist learning homes, while Notting Hill Genesis will build them.  This is a new _'arrangement'_ ; the homes were to have been built and paid for by Notting Hill Genesis, under the terms of [a planning permisssion](http://moderngov.southwark.gov.uk/documents/s53361/Report.pdf) granted to Notting Hill Housing Trust, as it then was, in 2015. Southwark will pay £193m in development cost; it will also forego a further £17.8m in lost receipts from NHG, giving a total cost of £210.8m. Two GLA grants, totalling £54.5m, would bring the cost down to £156.3m (Footnote OR 52, 54).
 
+![](/img/combinedtotal.png)
+*Extract from [Tuesday's Cabinet report](http://moderngov.southwark.gov.uk/documents/s89813/Report%20Aylesbury%20Regeneration%20programme%20-%20Delivery%20of%20New%20Council%20Homes.pdf) approving the decision*
+
 ## The good news
 
 Understandably, Southwark councillors are making the most of the gain in council housing, which is undeniably good news.  Local housing campaigners, both on and off the estate can also take credit - reducing the loss of social housing and getting council housing has been their consistent aim and at the centre of many hard-fought battles (link).
