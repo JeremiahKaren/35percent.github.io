@@ -53,9 +53,11 @@ Southwark, on the other hand, has invested heavily, both financially and politic
 It is therefore not difficult to see why Southwark might have felt compelled to make concessions to NHG, by taking over the delivery and meeting the cost of nearly all the affordable housing, while leaving all the revenue-generating free-market homes to NHG.
 
 
-## NHG holds Southwark over a barrel 
+## NHG holds Southwark over a barrel
 
-Southwark has been forced to make such concessions twice before. In September 2016, Southwark [paid out £21 million](http://moderngov.southwark.gov.uk/documents/s63817/Report.Aylesbury%20Regeneration%20Delivery.pdf) in demolition and planning costs, that were originally to be met by NHG (explain).
+These new arrangements are themselves changes to  arrangments previously changed in NHG's favour back in 2016.
+
+Southwark has been forced to make such concessions twice before. In September 2016, Southwark agreed to [pay out £21 million](http://moderngov.southwark.gov.uk/documents/s63817/Report.Aylesbury%20Regeneration%20Delivery.pdf) in demolition and planning costs, that were originally to be met by NHG (explain).  This advance funding was to be recouped by the FDS land receipt; the fact that the land receipt figure of £17.8m now falls short of the £21m advanced by Southwark is now of course irrelevant, given that Southwark is to receive nothing at all.
 
 ![](/img/nhttproceed.png)
 
