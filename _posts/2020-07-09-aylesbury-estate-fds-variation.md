@@ -93,7 +93,7 @@ __Footnotes:__
 
 [^1]: [Aylesbury Regeneration Programme: Delivery of new council homes on the First Development Site](http://moderngov.southwarksites.com/documents/s74901/Report%20Amending%20the%20shared%20equity%20rehousing%20policy%20for%20qualifying%20homeowners%20affected%20by%20regenerati.pdf) paras 52, 54.
 
-[^2]: 
+[^2]: [Outline Planning Permission report 14/AP/3844](https://moderngov.southwark.gov.uk/documents/s53361/Report.pdf)
 
 
 
