@@ -73,7 +73,7 @@ Gaining 540 council homes is a boon for everyone on Southwark who depends upon s
 
 But rescuing the Aylesbury regeneration is costing Southwark dearly.  Southwark is plugging holes left by NHG's failure to deliver.  Southwark is paying not just for council housing on its own account, but for the social rented homes that NHG should have paid for, with money that could be spent building council houses elsewhere.  Meantime NHG retains a choice piece of land, in the middle of the Aylesbury, to build nearly 200 private homes.  No figures are given in Tuesday's cabinet report of how much NHG stand to make from this.
 
-This is also not the first time Southwark have come to NHG's rescue.  Southwark has also [spent £101m keeping the estate habitable](https://moderngov.southwark.gov.uk/documents/s89813/Report%20Aylesbury%20Regeneration%20programme%20-%20Delivery%20of%20New%20Council%20Homes.pdf), while the regeneration stalls under NHG's stewardship.
+This is also not the first time Southwark have come to NHG's rescue.  Southwark has also [spent £101m keeping the estate habitable](https://moderngov.southwark.gov.uk/documents/s89813/Report%20Aylesbury%20Regeneration%20programme%20-%20Delivery%20of%20New%20Council%20Homes.pdf), while the regeneration stalls under NHG's stewardship [^7].
 
 At least four of the DPA milestones haven't been met:
 
@@ -104,6 +104,8 @@ __Footnotes:__
 [^5]: [Aylesbury Regeneration Programme: Delivery of new council homes on the First Development Site](https://moderngov.southwark.gov.uk/documents/s89813/Report%20Aylesbury%20Regeneration%20programme%20-%20Delivery%20of%20New%20Council%20Homes.pdf) paras 25, 52
 
 [^6]: [Aylesbury Regeneration Programme: Delivery of new council homes on the First Development Site](https://moderngov.southwark.gov.uk/documents/s89813/Report%20Aylesbury%20Regeneration%20programme%20-%20Delivery%20of%20New%20Council%20Homes.pdf) para 64
+
+[^7]:  [Aylesbury Regeneration Programme: Delivery of new council homes on the First Development Site](https://moderngov.southwark.gov.uk/documents/s89813/Report%20Aylesbury%20Regeneration%20programme%20-%20Delivery%20of%20New%20Council%20Homes.pdf) para 15
 
 
 
