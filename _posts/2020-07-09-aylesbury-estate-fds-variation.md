@@ -18,9 +18,6 @@ Understandably, Southwark councillors are making the most of the gain in council
 
 There are a couple of wrinkles though - a proportion of these social rented units will be needed to [rehouse leaseholders](http://www.aylesburynow.london/web/uploads/files/New_Homes/Information-for-Aylesbury-Leaseholders.pdf) decanted from later phases. How many remains to be seen - Phase 2 and 3 has 62 leaseholders yet to be bought out and their options include the [new shared equity scheme](http://moderngov.southwarksites.com/documents/s74901/Report%20Amending%20the%20shared%20equity%20rehousing%20policy%20for%20qualifying%20homeowners%20affected%20by%20regenerati.pdf) introduced in response to the Secretary of State's CPO [ruling](https://www.theguardian.com/society/2016/sep/16/government-blocks-controversial-plan-to-force-out-housing-estate-residents) that BAME leaseholders were being wrongly displaced from their communities.
 
-![](/img/s04goldplatedtower.png)
-*Plans showing the gold-plated facade 20 storey tower overlooking Burgess Park (all private units) that NHG will retain*
-
 Also, the report is silent on whether the council housing means that there will be a reduction in the net loss of social rented housing in the overall regeneration or whether it is simply social housing being brought forward from later phases in the regeneration. The outline planning permission granted to NHG, who remain responsible for delivering the rest of the regeneration's 2,745 units, still allows for a net loss of between 778 and 1,166 social rented units.
 
 ## The not-so-good news
@@ -45,13 +42,17 @@ NHG therefore appear to be walking away unscathed from their FDS obligations and
 
 An explanation for all this lies with the Development Partnership Agreement, which gives NHG an effective 'viability veto' on the progress of the regeneration. A DPA clause allows NHG to decide whether or not a particular plot or phase can proceed, depending on its viability.  This viability test includes a 21% 'priority return' of revenue to NHG and is determined by their own assessment.
 
+![](/img/pvc.png)
+
+![](/img/nhtprofit.png)
+
 NHG's circumstances have also changed for the worse since it signed the DPA in 2014.  It has been forced to  _'significantly scale back'_ its development pipeline, after a [Regulator of Social Housing report](https://www.insidehousing.co.uk/news/news/notting-hill-genesis-scales-back-development-plans-amid-changing-market-conditions-62506) last August concluded NHG _“faces a range of risks and exposure to sales”_, with more than 400 unsold private market homes sitting on its books.
 
 Southwark, on the other hand, has invested heavily, both financially and politically, in delivering the Aylesbury regeneration. It has been decanting homes for nearly 10 years and now 500 or so stand empty, or are bing used for temporary accommodation. The  first FDS homes were supposed to have been completed this summer (a two year delay on the original timetable), but much of the site is still rubble.  Phase 2 is still not fully empty and no planning application has been submitted.  Furhter delays can be expected for any compulsory purchase order and a demolition notice.
 
 It is therefore not difficult to see why Southwark might have felt compelled to make concessions to NHG, by taking over the delivery and meeting the cost of nearly all the affordable housing, while leaving all the revenue-generating free-market homes to NHG.
 
-## NHG holds Southwark over a barrel
+## NHG holds Southwark over a barrel - again
 
 Southwark has been forced to make such concessions twice before. In September 2016, Southwark agreed to [underwrite or advance £22.1 million](http://moderngov.southwark.gov.uk/documents/s63817/Report.Aylesbury%20Regeneration%20Delivery.pdf) to NHG, for the FDS demolition and design costs, including a payment of £16.8m for demolition, that was to have been paid by NHG.  This advance funding was to be recouped by the FDS land receipt, which will now not be paid. The [report agreeing](http://moderngov.southwark.gov.uk/documents/s63817/Report.Aylesbury%20Regeneration%20Delivery.pdf) this also noted that Southwark was due to spend £52.5m on the Aylesbury regeneration by 2018/19. 
 
@@ -89,17 +90,10 @@ __Footnotes:__
 ----------------------------------------------------------------------------------------------------------
 
 
-
-This week, Southwark Councillors took to twitter to announce an increase in the number of social rented homes by 219 to be provided on the first phase of the Aylesbury estate regeneration bringing the total to 614, to replace the 566 homes that have been demolished[^1]. 
-
-![](/img/kierontweet.png)
-
 What the tweets didn't say is that providing these 219 extra social rented homes [will cost](http://moderngov.southwark.gov.uk/documents/s89813/Report%20Aylesbury%20Regeneration%20programme%20-%20Delivery%20of%20New%20Council%20Homes.pdf) the Council an estimated £211 million pounds - that's a staggering £964k each home!
 
 ![](/img/combinedtotal.png)
 *Extract from [Tuesday's Cabinet report](http://moderngov.southwark.gov.uk/documents/s89813/Report%20Aylesbury%20Regeneration%20programme%20-%20Delivery%20of%20New%20Council%20Homes.pdf) approving the decision*
-
-
 
 Neither did they explain that Southwark has also agreed to let its development partner Notting Hill Genesis continue to deliver the mainly private homes (290 private, 63 shared ownership and 64 social rent[^2]) that were supposed to cross-subsidise these social units without any contribution from NHG. Or that Southwark has also agreed to forgo the £6m that NHG was going to pay towards the £35m cost of building the new library and health centre.    
 
@@ -127,63 +121,14 @@ In fact, there isn't even a planning application submitted for phase 2 yet, let 
 
 The delays and years of council homes standing empty or plots standing empty after they have been demolished is not a good look for the Council and it has come under political pressure as a result. NHG has used this as leverage to hold the Council over a barrel and force concessions, just as Lendlease did with the Council at the neighbouring Heygate estate regeneration.
 
-## NHG holds Southwark over a barrel (yet again)
-Southwark has alread rolled over twice already to NHG as it has used its plot viability clause negotiated in the DPA as leverage to force concessions out of the Council, which is heavily invested politically in the scheme.
 
-In September 2016, Southwark [forked out £21 million](http://moderngov.southwark.gov.uk/documents/s63817/Report.Aylesbury%20Regeneration%20Delivery.pdf) in demolition and planning costs.
-
-![](/img/nhttproceed.png)
-
-In 2018, NHG was awarded £30m of GLA grant funding for the first phase of the scheme. The [Development Partnership Agreement](/img/aylesburyDPA.pdf) set out that any grant funding awarded to the scheme should go to Southwark, such that it receives some kind of remuneration for the sale of its land (see para 4.1, page 111). But NHG forced Southwark to agree to a variation allowing it to pocket the entire £30m.
-
-## The FDS 
-In August last year, NHG was [forced](https://www.insidehousing.co.uk/news/news/notting-hill-genesis-scales-back-development-plans-amid-changing-market-conditions-62506) to 'significantly scale back' its development pipeline as it emerged that there were more than 400 unsold private market homes sitting on its books.
-
-
-
-paying for  rented Politics trumps common sense decision making yet again. Decisions based on rescuing aylesbury regeneration and Council homes manifesto pledges not on providng best value for money in terms of Council spending.
 
 [Evidence](http://35percent.org/ouraylesbury/cpo/#simon-morrow-sm) submitted to the 2018 CPO Public Inquiry by RICS qualified quantity surveyor Simon Morrow shows that the estate could be refurbished for just £45k per home for a 1-bed and £65k for a 4-bed. £69M housing scrutiny committee heating. Annual revenue.  Value for money no - political considerations decided
 
 ![](/img/aylesburyrefurbcombo.jpg)
 
-## Parked termination clauses
-The Council does indeed have the right to terminate the DPA if Notting Hill doesn't meet the milestones set out in the DPA:
 
-![](/img/termination1.png)
-
-At least four of these milestones clearly haven't been met:
-
-![](/img/aylesburymilestones.png)
-
-The Council also has a clause allowing it to terminate 3 years after it was first found that a plot wasn't viable:
-
-![](/img/termination2.png)
-
-How could it be better spent?  £101m on heating; Overview and scrutiny committee
-
-the giant housing association that was granted [planning permissions in 2015](http://moderngov.southwark.gov.uk/ieListDocuments.aspx?CId=119&MId=4808&Ver=4), as Notting Hill Housing Trust, to build over 3,500 homes to complete the regeneration.  Southwark is taking over most of the FDS, and relieving Notting Hill Genesis of the obligation it has 
-
-regardless of the the regeneration timetable given in the [Aylesbury Area Action Plan](https://www.southwark.gov.uk/assets/attach/1647/Aylesbury-AAP-2010.pdf)(Footnote; Aylesbury Area Action Plan Table A5.1: Schedule of proposals site). 
-
-xxxx social rented homes, managed by L&Q, out of a total yyy new homes have already been built.  The whole regeneration should deliver a total of over 4,000 new homes, 70% of which will be affordable, half of which will be social rented
-
-These new arrangements are themselves changes to  arrangments previously changed in NHG's favour back in 2016.
-
-According to the original Aylesbury Area Action Plan timetable Phase 1 should have been completed by 2016, Phase 2 by 2018, Phase 3 by 2020; Phase 4 should be underway - yet we are still stuck on Phase 1 (Footnote Aylesbury Area Action Plan Table A5.1: Schedule of proposals sites)
-
-but Southwark has the right to terminate the DPA if Notting Hill doesn't meet milestones:
-
-![](/img/termination1.png)
-
-At least four of these milestones clearly haven't been met:
-
-![](/img/aylesburymilestones.png)
-
-The Council also has a clause allowing it to terminate 3 years after it was first found that a plot wasn't viable:
-
-![](/img/termination2.png)
-
+[Aylesbury Area Action Plan](https://www.southwark.gov.uk/assets/attach/1647/Aylesbury-AAP-2010.pdf)(Footnote; Aylesbury Area Action Plan Table A5.1: Schedule of proposals site). 
 
 
 
