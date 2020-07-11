@@ -79,7 +79,7 @@ There is also a clause that allows the Council to terminate 3 years after it was
 
 ![](/img/termination2.png)
 
-It would be a serious matter for Southwark to consider such a step, but past performance and its present situation indicates NHG may very well come back again for more concessions that will require Southwark to spend money that could be used building council houses elswhere.
+It would be a serious matter for Southwark to consider such a step, but past performance and its present situation indicates NHG may very well come back again for more concessions, requiring Southwark to spend money that might be otherwise used to build council houses elsewhere.
 
 __Footnotes:__
 [^1]: See para 2.4 of the Council's [2017 CPO evidence](http://35percent.org/ouraylesbury/cpo/southwarkstatementofcaseNOV2017.pdf).
