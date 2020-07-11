@@ -51,7 +51,7 @@ An explanation for all this lies with the Development Partnership Agreement, whi
 
 ![](/img/nhtprofit.png)
 
-NHG's circumstances have also changed for the worse since it signed the DPA in 2014.  It has been forced to  _'significantly scale back'_ its development pipeline, after a [Regulator of Social Housing report](https://www.insidehousing.co.uk/news/news/notting-hill-genesis-scales-back-development-plans-amid-changing-market-conditions-62506) last August concluded NHG _“faces a range of risks and exposure to sales”_, with more than 400 unsold private market homes sitting on its books.
+NHG's circumstances have also changed for the worse since it signed the DPA in 2014.  It has been forced to  _'significantly scale back'_ its development pipeline, after a [Regulator of Social Housing report](https://www.insidehousing.co.uk/news/news/notting-hill-genesis-scales-back-development-plans-amid-changing-market-conditions-62506) last August concluded NHG, with more than 400 unsold private market homes sitting on its books, _“faces a range of risks and exposure to sales”_ .
 
 Southwark, on the other hand, has invested heavily, both financially and politically, in delivering the Aylesbury regeneration. It has been decanting homes for nearly 10 years and now 500 or so stand empty, or are being used for temporary accommodation. The  first FDS homes were supposed to have been completed this summer (a two-year delay on the original timetable), but much of the site is still rubble.  Phase 2 is still not fully empty and no planning application has been submitted.  Further delays can be expected for any compulsory purchase order and a demolition notice.
 
