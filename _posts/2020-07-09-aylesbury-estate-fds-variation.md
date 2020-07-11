@@ -6,7 +6,7 @@ published: false
 ---
 ## Southwark bails out Notting Hill Genesis
 
-Southwark Council has announced that the First Development Site (FDS) phase of the Aylesbury state regeneration will now deliver 520 council homes, increasing the number of social rented homes on the phase by 280 units. The figures come from [a Cabinet report](http://moderngov.southwark.gov.uk/documents/s89813/Report%20Aylesbury%20Regeneration%20programme%20-%20Delivery%20of%20New%20Council%20Homes.pdf) to be considered on Tuesday 14 June.  These will be the first new council homes on the regeneration; xxxx social rented homes, managed by L&Q, out of a total yyy new homes have already been built.  The whole regeneration should deliver a total of over 4,000 new homes, 70% of which will be affordable, half of which will be social rented.
+Southwark Council has announced that the First Development Site (FDS) phase of the Aylesbury state regeneration will now deliver 520 council homes, increasing the number of social rented homes on the phase by 280 units. The figures come from [a Cabinet report](http://moderngov.southwark.gov.uk/documents/s89813/Report%20Aylesbury%20Regeneration%20programme%20-%20Delivery%20of%20New%20Council%20Homes.pdf) to be considered on Tuesday 14 June.  These will be the first new council homes on the regeneration.
 
 Southwark will be paying for the new council homes, as well as 57 flexi-care and 7 specialist learning homes, while Notting Hill Genesis will build them.  This is a new _'arrangement'_; the homes were to have been built and paid for by Notting Hill Genesis,under the terms of [a planning permisssion](http://moderngov.southwark.gov.uk/documents/s53361/Report.pdf) granted to Notting Hill Housing Trust, as it then was, in 2015. Southwark will meet the £193m in development cost; it will forego further £17.8m in lost receipts from NHG, giving a grand total of £210.8m. Two expected GLA grants, totalling £54.5m, would bring the cost down to £156.3m (Footnote OR 52, 54).
 
@@ -161,6 +161,8 @@ How could it be better spent?  £101m on heating; Overview and scrutiny committe
 the giant housing association that was granted [planning permissions in 2015](http://moderngov.southwark.gov.uk/ieListDocuments.aspx?CId=119&MId=4808&Ver=4), as Notting Hill Housing Trust, to build over 3,500 homes to complete the regeneration.  Southwark is taking over most of the FDS, and relieving Notting Hill Genesis of the obligation it has 
 
 regardless of the the regeneration timetable given in the [Aylesbury Area Action Plan](https://www.southwark.gov.uk/assets/attach/1647/Aylesbury-AAP-2010.pdf)(Footnote; Aylesbury Area Action Plan Table A5.1: Schedule of proposals site). 
+
+xxxx social rented homes, managed by L&Q, out of a total yyy new homes have already been built.  The whole regeneration should deliver a total of over 4,000 new homes, 70% of which will be affordable, half of which will be social rented
 
 __Footnotes:__
 [^1]: See para 2.4 of the Council's [2017 CPO evidence](http://35percent.org/ouraylesbury/cpo/southwarkstatementofcaseNOV2017.pdf).
