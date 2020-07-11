@@ -37,14 +37,14 @@ So, while Southwark is now to get 560 council homes, instead of 240 social rente
 
 NHG also get to keep part of the FDS land, so-called Package C, on which to build 261 homes for themselves, most of which, 191 units, will be private homes for sale.  These units comprise all the private housing on the FDS. (ref0
 
-NHG wiil also build  57 shared ownership, and 13 social rent, but this is still in stark contrast to the what NHG was supposed to deliver across the whole FDS under the [Development Partnership Agreement (DPA)](/img/aylesburyDPA.pdf) for the Aylesbury, signed in 2014.  NHG was to build 365 social rented units, 217 shared ownership homes and 382 private homes, the idea being that revenus from the private homes would subsidise the cost of the affordable housing.  This model now appears to hae been abandoned. (Footnote OR 25, 52) 
+NHG wiil also build  57 shared ownership, and 13 social rent, but this is still in stark contrast to the what NHG was supposed to deliver across the whole FDS under the [Development Partnership Agreement (DPA)](/img/aylesburyDPA.pdf) between Southwark and NHG, signed in 2014.  NHG was to build 365 social rented units, 217 shared ownership homes and 382 private homes, the idea being that revenus from the private homes would subsidise the cost of the affordable housing.  This model now appears to hae been abandoned. (Footnote OR 25, 52) 
 
 
 ## An explanation?
 
-NHG therefore appear to be walking away unscathed from their FDS obligations and while Southwark are getting many welcome council homes, they are having to dig deep financially to pay for them.  The Cabinet report notes the knock-on effect for future housing investment. (Footnote: OR 64)
+NHG therefore appear to be walking away unscathed from their FDS obligations and while Southwark are getting many welcome council homes, they are having to dig deep financially to pay for them.  The Cabinet report notes a knock-on effect for future housing investment. (Footnote: OR 64)
 
-An explanation for all this lies with the Development Partnership Agreement between Southwark and NHG, which gives NHG an effective 'viability veto' on the progress of the regeneration. A DPA clause allows NHG to decide whether or not a particular plot or phase can proceed, depending on its viability.  This viability test includes a 21% 'priority return' of revenue to NHG and is determined by their own assessment.
+An explanation for all this lies with the Development Partnership Agreement, which gives NHG an effective 'viability veto' on the progress of the regeneration. A DPA clause allows NHG to decide whether or not a particular plot or phase can proceed, depending on its viability.  This viability test includes a 21% 'priority return' of revenue to NHG and is determined by their own assessment.
 
 NHG's circumstances have changed for the worse since it signed the DPA in 2014.  It has been forced to  _'significantly scale back'_ its development pipeline, after a [Regulator of Social Housing report](https://www.insidehousing.co.uk/news/news/notting-hill-genesis-scales-back-development-plans-amid-changing-market-conditions-62506) last August concluded NHG _“faces a range of risks and exposure to sales”_, with more than 400 unsold private market homes sitting on its books.
 
