@@ -60,11 +60,11 @@ It is therefore not difficult to see why Southwark might have felt compelled to 
 
 ## NHG holds Southwark over a barrel - again
 
-Southwark has been forced to make such concessions twice before. In September 2016, Southwark agreed to [underwrite or advance £22.1 million](http://moderngov.southwark.gov.uk/documents/s63817/Report.Aylesbury%20Regeneration%20Delivery.pdf) to NHG, for the FDS demolition and design costs, including a payment of £16.8m for demolition, that was to have been paid by NHG.  This advance funding was to be recouped by the FDS land receipt, which will now not be paid. The [report agreeing](http://moderngov.southwark.gov.uk/documents/s63817/Report.Aylesbury%20Regeneration%20Delivery.pdf) this also noted that Southwark was due to spend £52.5m on the Aylesbury regeneration by 2018/19. 
+Southwark has been forced to make such concessions twice before. In September 2016, Southwark agreed to [underwrite or advance £22.1 million](http://moderngov.southwark.gov.uk/documents/s63817/Report.Aylesbury%20Regeneration%20Delivery.pdf) to NHG, for the FDS demolition and design costs, including a payment of £16.8m for demolition, that was to have been paid by NHG.  This advance funding was to be recouped by the FDS land receipt, which will now not be paid. The [report agreeing](http://moderngov.southwark.gov.uk/documents/s63817/Report.Aylesbury%20Regeneration%20Delivery.pdf) this also noted that Southwark was due to spend £52.5m on the Aylesbury regeneration by 2018/19 [^9]. 
 
 ![](/img/nhttproceed.png)
 
-In 2018, NHG was awarded £30m of GLA grant funding for the first phase of the scheme. The [Development Partnership Agreement](/img/aylesburyDPA.pdf) set out that any grant funding awarded to the scheme should go to Southwark, such that it receives some kind of remuneration for the sale of its land (see para 4.1, page 111). But NHG forced Southwark to agree to a variation allowing it to pocket the entire £30m [^9].
+In 2018, NHG was awarded £30m of GLA grant funding for the first phase of the scheme. The [Development Partnership Agreement](/img/aylesburyDPA.pdf) set out that any grant funding awarded to the scheme should go to Southwark, such that it receives some kind of remuneration for the sale of its land (see para 4.1, page 111). But NHG forced Southwark to agree to a variation allowing it to pocket the entire £30m [^10].
 
 ## What next?
 
@@ -72,7 +72,7 @@ Gaining 540 council homes is a boon for everyone on Southwark who depends upon s
 
 But rescuing the Aylesbury regeneration is costing Southwark dearly.  Southwark is plugging holes left by NHG's failure to deliver.  Southwark is paying not just for council housing on its own account, but for the social rented homes that NHG should have paid for, with money that could be spent building council houses elsewhere.  Meantime NHG retains a choice piece of land, in the middle of the Aylesbury, to build nearly 200 private homes.  No figures are given in Tuesday's cabinet report of how much NHG stand to make from this.
 
-This is also not the first time Southwark have come to NHG's rescue.  Southwark has also [spent £101m keeping the estate habitable](https://moderngov.southwark.gov.uk/documents/s89813/Report%20Aylesbury%20Regeneration%20programme%20-%20Delivery%20of%20New%20Council%20Homes.pdf), while the regeneration stalls under NHG's stewardship [^10].
+This is also not the first time Southwark have come to NHG's rescue.  Southwark has also [spent £101m keeping the estate habitable](https://moderngov.southwark.gov.uk/documents/s89813/Report%20Aylesbury%20Regeneration%20programme%20-%20Delivery%20of%20New%20Council%20Homes.pdf), while the regeneration stalls under NHG's stewardship [^11].
 
 At least four of the DPA milestones haven't been met:
 
@@ -106,7 +106,7 @@ __Footnotes:__
 
 [^8]: [Aylesbury Regeneration Programme: Delivery of new council homes on the First Development Site](https://moderngov.southwark.gov.uk/documents/s89813/Report%20Aylesbury%20Regeneration%20programme%20-%20Delivery%20of%20New%20Council%20Homes.pdf) para 64
 
-[^9]: 
+[^9]: [Aylesbury Regeneration Delivery](http://moderngov.southwark.gov.uk/documents/s63817/Report.Aylesbury%20Regeneration%20Delivery.pdf) para 15
 
 [^10]: Evidence given at the The London Borough of Southwark (Aylesbury Estate Site 1b-1c) Compulsory Purchase Order 2014 Inquiry January 2018
 
