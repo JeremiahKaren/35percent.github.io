@@ -86,7 +86,7 @@ There is also a clause that allows the Council to terminate 3 years after it was
 
 ![](/img/termination2.png)
 
-It would be a serious matter for Southwark to consider such a step, but given its past performance and its present situation it would be no surprise if NHG do not return, asking for more concessions and for more money.
+It would be a serious matter for Southwark to consider such a step, but given its past performance and its present circumstances it would be no surprise if NHG do not return, asking for more concessions and for more money.  If this does happen, Southwark should take stock of the situation and consider whether this is the best use of its money.
 
 __Footnotes:__
 
