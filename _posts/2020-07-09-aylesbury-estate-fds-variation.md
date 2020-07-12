@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Aylesbury estate regeneration to have new council homes '
-published: true 
+published: true
 subtitle: Southwark to bail out Notting Hill Genesis
 date: 2020/07/12
 ---
@@ -99,7 +99,7 @@ __Footnotes:__
 
 [^4]: [Aylesbury Regeneration Programme: Delivery of new council homes on the First Development Site](http://moderngov.southwarksites.com/documents/s74901/Report%20Amending%20the%20shared%20equity%20rehousing%20policy%20for%20qualifying%20homeowners%20affected%20by%20regenerati.pdf) para 18; [s73 planning application Design Statement](http://aylesburynow.london/web/uploads/files/Planning_Application/section73_1/06_Design_addendum.pdf)
 
-[^5]: [Aylesbury Regeneration Programme: Delivery of new council homes on the First Development Site](https://moderngov.southwark.gov.uk/documents/s89813/Report%20Aylesbury%20Regeneration%20programme%20-%20Delivery%20of%20New%20Council%20Homes.pdf) paras 50,54
+[^5]: [Aylesbury Regeneration Programme: Delivery of new council homes on the First Development Site](https://moderngov.southwark.gov.uk/documents/s89813/Report%20Aylesbury%20Regeneration%20programme%20-%20Delivery%20of%20New%20Council%20Homes.pdf) paras 55; [S73 planning application Design Statement](http://aylesburynow.london/web/uploads/files/Planning_Application/section73_1/06_Design_addendum.pdf)
 
 [^6]: [s73 Variation of Plot 18, 17/AP/3885](http://moderngov.southwarksites.com/documents/s78337/ITEM%207.1%207.2%20-%20REPORT%2017AP3885%2017AP3846.pdf) para 42,[Aylesbury Regeneration Programme: Delivery of new council homes on the First Development Site](https://moderngov.southwark.gov.uk/documents/s89813/Report%20Aylesbury%20Regeneration%20programme%20-%20Delivery%20of%20New%20Council%20Homes.pdf) para 53
 
@@ -112,7 +112,3 @@ __Footnotes:__
 [^10]: Evidence given at the The London Borough of Southwark (Aylesbury Estate Site 1b-1c) Compulsory Purchase Order 2014 Inquiry January 2018
 
 [^11]: [Aylesbury Regeneration Programme: Delivery of new council homes on the First Development Site](https://moderngov.southwark.gov.uk/documents/s89813/Report%20Aylesbury%20Regeneration%20programme%20-%20Delivery%20of%20New%20Council%20Homes.pdf) para 15
-
-
-
-
