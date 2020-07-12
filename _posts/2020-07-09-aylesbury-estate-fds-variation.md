@@ -101,7 +101,7 @@ __Footnotes:__
 
 [^5]: [Aylesbury Regeneration Programme: Delivery of new council homes on the First Development Site](https://moderngov.southwark.gov.uk/documents/s89813/Report%20Aylesbury%20Regeneration%20programme%20-%20Delivery%20of%20New%20Council%20Homes.pdf) paras 55; [S73 planning application Design Statement](http://aylesburynow.london/web/uploads/files/Planning_Application/section73_1/06_Design_addendum.pdf)
 
-[^6]: [s73 Variation of Plot 18, 17/AP/3885](http://moderngov.southwarksites.com/documents/s78337/ITEM%207.1%207.2%20-%20REPORT%2017AP3885%2017AP3846.pdf) para 42,[Aylesbury Regeneration Programme: Delivery of new council homes on the First Development Site](https://moderngov.southwark.gov.uk/documents/s89813/Report%20Aylesbury%20Regeneration%20programme%20-%20Delivery%20of%20New%20Council%20Homes.pdf) para 53
+[^6]: [s73 Variation of Plot 18, 17/AP/3885](http://moderngov.southwarksites.com/documents/s78337/ITEM%207.1%207.2%20-%20REPORT%2017AP3885%2017AP3846.pdf) para 42; [Aylesbury Regeneration Programme: Delivery of new council homes on the First Development Site](https://moderngov.southwark.gov.uk/documents/s89813/Report%20Aylesbury%20Regeneration%20programme%20-%20Delivery%20of%20New%20Council%20Homes.pdf) para 53
 
 [^7]: [Development Partnership Agreement (DPA)](/img/aylesburyDPA.pdf) Schedule 3 pg 83
 
