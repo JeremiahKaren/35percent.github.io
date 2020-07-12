@@ -34,7 +34,7 @@ So, while Southwark is now to get 520 council homes, instead of 240 social rente
 
 ## NHG takes all the private housing
 
-NHG also get to keep part of the FDS land, so-called Package C, on which to build 261 homes for themselves, most of which, 191 units, will be private homes for sale.  These units comprise all the private housing on the FDS. There will also be 57 shared ownership, and 13 social rent  [^5].
+NHG also get to keep part of the FDS land, so-called Package C, on which to build 261 homes for themselves, most of which, 170 units, will be private homes.  These units comprise all the private housing on the FDS. There will also be 57 shared ownership, and 34 social rent [^5].
 
 NHG will also continue to build the homes on Plot 18, most of which are again private -  99 private homes,   6 shared ownership and 17 social rent. (This is despite the fact that it is no longer paying £6m towards Plot 18's community infrastructure) [^6].
 
