@@ -28,7 +28,7 @@ Southwark Council presents the cost of building the new council and other FDS ho
 
 But only one GLA grant has been secured and leaving the unsecured grant out of the equation and including the loss of £17.8m from NHG (for the land, and contributions to infrastructure costs) gives a total cost to Southwark of £182m and a less flattering cost per unit of £313k.
 
-Neither of the above calculations, though, take properly into account the major fact that, under the existing delivery arrangements with NHG, Southwark was to pay nothing for the housing, including the 240 social rented units; this was to met by NHG.
+Neither of the above calculations, though, take properly into account the major fact that, under the existing delivery arrangements with NHG Southwark was to pay nothing for the housing, including the 240 social rented units; this was to be met by NHG.
 
 So, while Southwark is now to get 520 council homes, instead of 240 social rented homes, this net gain requires an outlay of £193m gross - equivalent to £690k for each of the extra 260 units [^4].
 
