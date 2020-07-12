@@ -107,7 +107,7 @@ __Footnotes:__
 
 [^8]: [Aylesbury Regeneration Programme: Delivery of new council homes on the First Development Site](https://moderngov.southwark.gov.uk/documents/s89813/Report%20Aylesbury%20Regeneration%20programme%20-%20Delivery%20of%20New%20Council%20Homes.pdf) para 64
 
-[^9]: [Aylesbury Regeneration Delivery](http://moderngov.southwark.gov.uk/documents/s63817/Report.Aylesbury%20Regeneration%20Delivery.pdf) para 15
+[^9]: [Aylesbury Regeneration Delivery](http://moderngov.southwark.gov.uk/documents/s63817/Report.Aylesbury%20Regeneration%20Delivery.pdf) para 16
 
 [^10]: Evidence given at the The London Borough of Southwark (Aylesbury Estate Site 1b-1c) Compulsory Purchase Order 2014 Inquiry January 2018
 
