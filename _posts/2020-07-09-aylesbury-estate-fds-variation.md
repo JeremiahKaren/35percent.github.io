@@ -6,9 +6,9 @@ subtitle: Southwark to bail out Notting Hill Genesis
 date: 2020/07/12
 ---
 
-Southwark Council has announced that the First Development Site (FDS) of the Aylesbury estate regeneration will now deliver 520 council homes, increasing the number of social rented homes on the site by 280 units. The figures come from [a Cabinet report](http://moderngov.southwark.gov.uk/documents/s89813/Report%20Aylesbury%20Regeneration%20programme%20-%20Delivery%20of%20New%20Council%20Homes.pdf) to be considered on Tuesday 14 July.  These will be the first new council homes on the regeneration.
+Southwark Council has announced that the First Development Site (FDS) of the Aylesbury estate regeneration will now deliver 581 council homes, increasing the number of social rented homes on the site by 280 units. The figures come from [a Cabinet report](http://moderngov.southwark.gov.uk/documents/s89813/Report%20Aylesbury%20Regeneration%20programme%20-%20Delivery%20of%20New%20Council%20Homes.pdf) to be considered on Tuesday 14 July.  These will be the first new council homes on the regeneration.
 
-Southwark will be paying for the new council homes, as well as 54 flexi-care and 7 specialist learning homes, while Notting Hill Genesis will build them.  This is a new _'arrangement'_ ; previously the homes were to have been built and paid for by Notting Hill Genesis, under the terms of [a planning permission](http://moderngov.southwark.gov.uk/documents/s53361/Report.pdf) granted to Notting Hill Housing Trust, as it then was, in 2015. Southwark will pay £193m in development cost; it will also forego a further £17.8m in lost receipts from NHG, giving a total cost of £210.8m. Two GLA grants, totalling £54.5m, would bring the cost down to £156.3m [^1].
+Southwark will be paying for the new council homes, which will consist of 520 general needs, 54 flexi-care and 7 specialist learning homes, while Notting Hill Genesis will build them.  This is a new _'arrangement'_ ; previously the homes were to have been built and paid for by Notting Hill Genesis, under the terms of [a planning permission](http://moderngov.southwark.gov.uk/documents/s53361/Report.pdf) granted to Notting Hill Housing Trust, as it then was, in 2015. Southwark will pay £193m in development cost; it will also forego a further £17.8m in lost receipts from NHG, giving a total cost of £210.8m. Two GLA grants, totalling £54.5m, would bring the cost down to £156.3m [^1].
 
 ![](/img/combinedtotal.png)
 *Extract from [Tuesday's Cabinet report](http://moderngov.southwark.gov.uk/documents/s89813/Report%20Aylesbury%20Regeneration%20programme%20-%20Delivery%20of%20New%20Council%20Homes.pdf) approving the decision*
@@ -31,7 +31,7 @@ But only one GLA grant has been secured and leaving the unsecured grant out of t
 
 Neither of the above calculations, though, take properly into account the major fact that, under the existing delivery arrangements with NHG Southwark was to pay nothing for the housing, including the 240 social rented units; this was to be met by NHG.
 
-So, while Southwark is now to get 520 council homes, instead of 240 social rented homes, this net gain requires an outlay of £193m gross - equivalent to £690k for each of the extra 280 units [^4].
+So, while Southwark is now to get 581 council homes, instead of 240 social rented homes, this net gain requires an outlay of £193m gross - equivalent to £690k for each of the extra 280 units [^4].
 
 ## NHG takes all the private housing
 
@@ -69,7 +69,7 @@ In 2018, NHG was awarded £30m of GLA grant funding for the first phase of the s
 
 ## What next?
 
-Gaining 520 council homes is a boon for everyone in Southwark who depends upon social housing.  Delivering these in the FDS phase also has the advantage that existing residents from later phases have a better chance of remaining on the Aylesbury.
+Gaining 581 council homes is a boon for everyone in Southwark who depends upon social housing.  Delivering these in the FDS phase also has the advantage that existing residents from later phases have a better chance of remaining on the Aylesbury.
 
 But rescuing the Aylesbury regeneration is costing Southwark dearly.  Southwark is plugging holes left by NHG's failure to deliver. Southwark is paying not just for council housing on its own account, but also for social rented housing that NHG should have paid for, and Southwark is doing this with money that could otherwise be spent on building more council housing elsewhere.  Meantime NHG retains choice pieces of land, in the middle of the Aylesbury, to build nearly 270 private homes.  No figures are given in Tuesday's cabinet report of how much NHG stand to make from this.
 
