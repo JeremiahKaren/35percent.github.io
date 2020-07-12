@@ -97,7 +97,7 @@ __Footnotes:__
 
 [^3]: [Outline Planning Permission report 14/AP/3844](https://moderngov.southwark.gov.uk/documents/s53361/Report.pdf) Table 14 para 97
 
-[^4]: [Aylesbury Regeneration Programme: Delivery of new council homes on the First Development Site](http://moderngov.southwarksites.com/documents/s74901/Report%20Amending%20the%20shared%20equity%20rehousing%20policy%20for%20qualifying%20homeowners%20affected%20by%20regenerati.pdf) para 50, 54; [s73 planning application Design Statement](http://aylesburynow.london/web/uploads/files/Planning_Application/section73_1/06_Design_addendum.pdf)
+[^4]: [Aylesbury Regeneration Programme: Delivery of new council homes on the First Development Site](http://moderngov.southwarksites.com/documents/s74901/Report%20Amending%20the%20shared%20equity%20rehousing%20policy%20for%20qualifying%20homeowners%20affected%20by%20regenerati.pdf) para 50, 54
 
 [^5]: [Aylesbury Regeneration Programme: Delivery of new council homes on the First Development Site](https://moderngov.southwark.gov.uk/documents/s89813/Report%20Aylesbury%20Regeneration%20programme%20-%20Delivery%20of%20New%20Council%20Homes.pdf) paras 55; [S73 planning application Design Statement](http://aylesburynow.london/web/uploads/files/Planning_Application/section73_1/06_Design_addendum.pdf)
 
