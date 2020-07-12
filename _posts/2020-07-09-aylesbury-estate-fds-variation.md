@@ -64,7 +64,7 @@ Southwark has been forced to make such concessions twice before. In September 20
 
 ![](/img/nhttproceed.png)
 
-In 2018, NHG was awarded £30m of GLA grant funding for the first phase of the scheme. The [Development Partnership Agreement](/img/aylesburyDPA.pdf) set out that any grant funding awarded to the scheme should go to Southwark, such that it receives some kind of remuneration for the sale of its land (see para 4.1, page 111). But NHG forced Southwark to agree to a variation allowing it to pocket the entire £30m.
+In 2018, NHG was awarded £30m of GLA grant funding for the first phase of the scheme. The [Development Partnership Agreement](/img/aylesburyDPA.pdf) set out that any grant funding awarded to the scheme should go to Southwark, such that it receives some kind of remuneration for the sale of its land (see para 4.1, page 111). But NHG forced Southwark to agree to a variation allowing it to pocket the entire £30m [^7].
 
 ## What next?
 
@@ -72,7 +72,7 @@ Gaining 540 council homes is a boon for everyone on Southwark who depends upon s
 
 But rescuing the Aylesbury regeneration is costing Southwark dearly.  Southwark is plugging holes left by NHG's failure to deliver.  Southwark is paying not just for council housing on its own account, but for the social rented homes that NHG should have paid for, with money that could be spent building council houses elsewhere.  Meantime NHG retains a choice piece of land, in the middle of the Aylesbury, to build nearly 200 private homes.  No figures are given in Tuesday's cabinet report of how much NHG stand to make from this.
 
-This is also not the first time Southwark have come to NHG's rescue.  Southwark has also [spent £101m keeping the estate habitable](https://moderngov.southwark.gov.uk/documents/s89813/Report%20Aylesbury%20Regeneration%20programme%20-%20Delivery%20of%20New%20Council%20Homes.pdf), while the regeneration stalls under NHG's stewardship [^7].
+This is also not the first time Southwark have come to NHG's rescue.  Southwark has also [spent £101m keeping the estate habitable](https://moderngov.southwark.gov.uk/documents/s89813/Report%20Aylesbury%20Regeneration%20programme%20-%20Delivery%20of%20New%20Council%20Homes.pdf), while the regeneration stalls under NHG's stewardship [^8].
 
 At least four of the DPA milestones haven't been met:
 
@@ -104,7 +104,9 @@ __Footnotes:__
 
 [^6]: [Aylesbury Regeneration Programme: Delivery of new council homes on the First Development Site](https://moderngov.southwark.gov.uk/documents/s89813/Report%20Aylesbury%20Regeneration%20programme%20-%20Delivery%20of%20New%20Council%20Homes.pdf) para 64
 
-[^7]:  [Aylesbury Regeneration Programme: Delivery of new council homes on the First Development Site](https://moderngov.southwark.gov.uk/documents/s89813/Report%20Aylesbury%20Regeneration%20programme%20-%20Delivery%20of%20New%20Council%20Homes.pdf) para 15
+[^7]: Evidence given at the The London Borough of Southwark (Aylesbury Estate Site 1b-1c) Compulsory Purchase Order 2014 Inquiry January 2018
+
+[^8]: [Aylesbury Regeneration Programme: Delivery of new council homes on the First Development Site](https://moderngov.southwark.gov.uk/documents/s89813/Report%20Aylesbury%20Regeneration%20programme%20-%20Delivery%20of%20New%20Council%20Homes.pdf) para 15
 
 
 
