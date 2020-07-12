@@ -34,15 +34,15 @@ So, while Southwark is now to get 520 council homes, instead of 240 social rente
 
 ## NHG takes all the private housing
 
-NHG also get to keep part of the FDS land, so-called Package C, on which to build 261 homes for themselves, most of which, 191 units, will be private homes for sale.  These units comprise all the private housing on the FDS. There will also be 57 shared ownership, and 13 social rent (ref - email screen shot).
+NHG also get to keep part of the FDS land, so-called Package C, on which to build 261 homes for themselves, most of which, 191 units, will be private homes for sale.  These units comprise all the private housing on the FDS. There will also be 57 shared ownership, and 13 social rent  [^5].
 
-NHG will also continue to build the homes on Plot 18, most of which are again private -  99 private homes,   6 shared ownership and 17 social rent. (This is despite the fact that it is no longer paying £6m towards Plot 18's community infrastructure) [^5].
+NHG will also continue to build the homes on Plot 18, most of which are again private -  99 private homes,   6 shared ownership and 17 social rent. (This is despite the fact that it is no longer paying £6m towards Plot 18's community infrastructure) [^6].
 
-This is all in stark contrast to the what NHG was supposed to deliver across the whole FDS under the [Development Partnership Agreement (DPA)](/img/aylesburyDPA.pdf) between Southwark and NHG, signed in 2014.  NHG was to build 365 social rented units, 217 shared ownership homes and 382 private homes, the idea being that revenue from the private homes would subsidise the cost of the affordable housing.  This model now appears to have been abandoned [^6].
+This is all in stark contrast to the what NHG was supposed to deliver across the whole FDS under the [Development Partnership Agreement (DPA)](/img/aylesburyDPA.pdf) between Southwark and NHG, signed in 2014.  NHG was to build 365 social rented units, 217 shared ownership homes and 382 private homes, the idea being that revenue from the private homes would subsidise the cost of the affordable housing.  This model now appears to have been abandoned [^7].
 
 ## An explanation?
 
-NHG therefore appear to be walking away unscathed from their FDS obligations and while Southwark are getting many welcome council homes, they are having to dig deep financially to pay for them.  The Cabinet report notes a knock-on effect for future housing investment [^7].
+NHG therefore appear to be walking away unscathed from their FDS obligations and while Southwark are getting many welcome council homes, they are having to dig deep financially to pay for them.  The Cabinet report notes a knock-on effect for future housing investment [^8].
 
 An explanation for all this lies with the Development Partnership Agreement, which gives NHG an effective 'viability veto' on the progress of the regeneration. A DPA clause allows NHG to decide whether or not a particular plot or phase can proceed, depending on its viability.  This viability test includes a 21% 'priority return' of revenue to NHG and is determined by their own assessment.
 
@@ -64,7 +64,7 @@ Southwark has been forced to make such concessions twice before. In September 20
 
 ![](/img/nhttproceed.png)
 
-In 2018, NHG was awarded £30m of GLA grant funding for the first phase of the scheme. The [Development Partnership Agreement](/img/aylesburyDPA.pdf) set out that any grant funding awarded to the scheme should go to Southwark, such that it receives some kind of remuneration for the sale of its land (see para 4.1, page 111). But NHG forced Southwark to agree to a variation allowing it to pocket the entire £30m [^8].
+In 2018, NHG was awarded £30m of GLA grant funding for the first phase of the scheme. The [Development Partnership Agreement](/img/aylesburyDPA.pdf) set out that any grant funding awarded to the scheme should go to Southwark, such that it receives some kind of remuneration for the sale of its land (see para 4.1, page 111). But NHG forced Southwark to agree to a variation allowing it to pocket the entire £30m [^9].
 
 ## What next?
 
@@ -72,7 +72,7 @@ Gaining 540 council homes is a boon for everyone on Southwark who depends upon s
 
 But rescuing the Aylesbury regeneration is costing Southwark dearly.  Southwark is plugging holes left by NHG's failure to deliver.  Southwark is paying not just for council housing on its own account, but for the social rented homes that NHG should have paid for, with money that could be spent building council houses elsewhere.  Meantime NHG retains a choice piece of land, in the middle of the Aylesbury, to build nearly 200 private homes.  No figures are given in Tuesday's cabinet report of how much NHG stand to make from this.
 
-This is also not the first time Southwark have come to NHG's rescue.  Southwark has also [spent £101m keeping the estate habitable](https://moderngov.southwark.gov.uk/documents/s89813/Report%20Aylesbury%20Regeneration%20programme%20-%20Delivery%20of%20New%20Council%20Homes.pdf), while the regeneration stalls under NHG's stewardship [^9].
+This is also not the first time Southwark have come to NHG's rescue.  Southwark has also [spent £101m keeping the estate habitable](https://moderngov.southwark.gov.uk/documents/s89813/Report%20Aylesbury%20Regeneration%20programme%20-%20Delivery%20of%20New%20Council%20Homes.pdf), while the regeneration stalls under NHG's stewardship [^10].
 
 At least four of the DPA milestones haven't been met:
 
@@ -96,7 +96,7 @@ __Footnotes:__
 
 [^3]: [Outline Planning Permission report 14/AP/3844](https://moderngov.southwark.gov.uk/documents/s53361/Report.pdf) Table 14 para 97
 
-[^4]: [s73 planning application Design Statement](http://aylesburynow.london/web/uploads/files/Planning_Application/section73_1/06_Design_addendum.pdf)
+[^4]: [Aylesbury Regeneration Programme: Delivery of new council homes on the First Development Site](http://moderngov.southwarksites.com/documents/s74901/Report%20Amending%20the%20shared%20equity%20rehousing%20policy%20for%20qualifying%20homeowners%20affected%20by%20regenerati.pdf) para 18; [s73 planning application Design Statement](http://aylesburynow.london/web/uploads/files/Planning_Application/section73_1/06_Design_addendum.pdf)
 
 [^5]: [Aylesbury Regeneration Programme: Delivery of new council homes on the First Development Site](https://moderngov.southwark.gov.uk/documents/s89813/Report%20Aylesbury%20Regeneration%20programme%20-%20Delivery%20of%20New%20Council%20Homes.pdf) paras 50,54
 
