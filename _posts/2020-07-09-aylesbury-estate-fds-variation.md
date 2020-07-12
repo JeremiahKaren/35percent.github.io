@@ -108,26 +108,7 @@ __Footnotes:__
 
 
 
-----------------------------------------------------------------------------------------------------------
 
 
 
 
-What the tweets didn't say is that providing these 219 extra social rented homes [will cost](http://moderngov.southwark.gov.uk/documents/s89813/Report%20Aylesbury%20Regeneration%20programme%20-%20Delivery%20of%20New%20Council%20Homes.pdf) the Council an estimated £211 million pounds - that's a staggering £964k each home!
-
-Neither did they explain that Southwark has also agreed to let its development partner Notting Hill Genesis continue to deliver the mainly private homes (290 private, 63 shared ownership and 64 social rent[^2]) that were supposed to cross-subsidise these social units without any contribution from NHG. Or that Southwark has also agreed to forgo the £6m that NHG was going to pay towards the £35m cost of building the new library and health centre.  
-
-![](/img/s04goldplatedtower.png)
-*Plans showing the gold-plated facade 20 storey tower overlooking Burgess Park (all private units) that NHG will retain*
-
-![](/img/phase2empties.png)
-
-[Evidence](http://35percent.org/ouraylesbury/cpo/#simon-morrow-sm) submitted to the 2018 CPO Public Inquiry by RICS qualified quantity surveyor Simon Morrow shows that the estate could be refurbished for just £45k per home for a 1-bed and £65k for a 4-bed. £69M housing scrutiny committee heating. Annual revenue.  Value for money no - political considerations decided
-
-![](/img/aylesburyrefurbcombo.jpg)
-
-[Aylesbury Area Action Plan](https://www.southwark.gov.uk/assets/attach/1647/Aylesbury-AAP-2010.pdf)(Footnote; Aylesbury Area Action Plan Table A5.1: Schedule of proposals site).
-
-See para 2.4 of the Council's [2017 CPO evidence](http://35percent.org/ouraylesbury/cpo/southwarkstatementofcaseNOV2017.pdf).
-
-Comprising 47 social rent, 57 shared ownership and 191 private homes on the FDS - and 17 social rent, 6 shared ownership and 99 private homes on Plot 18. (18% social rent)
