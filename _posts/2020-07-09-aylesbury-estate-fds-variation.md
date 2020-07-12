@@ -1,10 +1,9 @@
 ---
 layout: post
 title: 'Aylesbury estate regeneration to have new council homes '
-subtitle: Southwark forks out £211m to rescue troubled Aylesbury estate regeneration
 published: false
+subtitle: Southwark to bail out Notting Hill Genesis
 ---
-## Southwark bails out Notting Hill Genesis
 
 Southwark Council has announced that the First Development Site (FDS) of the Aylesbury estate regeneration will now deliver 520 council homes, increasing the number of social rented homes on the site by 280 units. The figures come from [a Cabinet report](http://moderngov.southwark.gov.uk/documents/s89813/Report%20Aylesbury%20Regeneration%20programme%20-%20Delivery%20of%20New%20Council%20Homes.pdf) to be considered on Tuesday 14 June.  These will be the first new council homes on the regeneration.
 
