@@ -68,7 +68,7 @@ In 2018, NHG was awarded £30m of GLA grant funding for the first phase of the s
 
 ## What next?
 
-Gaining 540 council homes is a boon for everyone on Southwark who depends upon social housing.  Delivering these in the FDS phase also has the advantage that existing residents from later phases have a better chance of remaining on the Aylesbury.
+Gaining 520 council homes is a boon for everyone on Southwark who depends upon social housing.  Delivering these in the FDS phase also has the advantage that existing residents from later phases have a better chance of remaining on the Aylesbury.
 
 But rescuing the Aylesbury regeneration is costing Southwark dearly.  Southwark is plugging holes left by NHG's failure to deliver.  Southwark is paying not just for council housing on its own account, but for the social rented homes that NHG should have paid for, with money that could be spent building council houses elsewhere.  Meantime NHG retains a choice piece of land, in the middle of the Aylesbury, to build nearly 200 private homes.  No figures are given in Tuesday's cabinet report of how much NHG stand to make from this.
 
