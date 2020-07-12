@@ -38,7 +38,7 @@ NHG also get to keep part of the FDS land, so-called Package C, on which to buil
 
 NHG will also continue to build the homes on Plot 18, most of which are again private -  99 private homes,   6 shared ownership and 17 social rent. (This is despite the fact that it is no longer paying £6m towards Plot 18's community infrastructure) [^6].
 
-This is all in stark contrast to the what NHG was supposed to deliver across the whole FDS under the [Development Partnership Agreement (DPA)](/img/aylesburyDPA.pdf) between Southwark and NHG, signed in 2014.  NHG was to build 365 social rented units, 217 shared ownership homes and 382 private homes, the idea being that revenue from the private homes would subsidise the cost of the affordable housing.  This model now appears to have been abandoned [^7].
+This is all in stark contrast to the what NHG was supposed to deliver across the whole FDS under the [Development Partnership Agreement (DPA)](/img/aylesburyDPA.pdf) between Southwark and NHG, signed in 2014. Under the DPA, NHG was obliged to provide at least 50% affordable housing, 75% of which social rent - now this requirement has been abandoned [^7].
 
 ## An explanation?
 
@@ -86,7 +86,7 @@ There is also a clause that allows the Council to terminate 3 years after it was
 
 ![](/img/termination2.png)
 
-It would be a serious matter for Southwark to consider such a step, but past performance and its present situation indicates NHG will be back for more concessions and for more money.
+It would be a serious matter for Southwark to consider such a step, but given its past performance and its present situation it would be no surprise if NHG do not return, asking for more concessions and for more money.
 
 __Footnotes:__
 
@@ -102,7 +102,7 @@ __Footnotes:__
 
 [^6]: [s73 Variation of Plot 18, 17/AP/3885](http://moderngov.southwarksites.com/documents/s78337/ITEM%207.1%207.2%20-%20REPORT%2017AP3885%2017AP3846.pdf) para 42,[Aylesbury Regeneration Programme: Delivery of new council homes on the First Development Site](https://moderngov.southwark.gov.uk/documents/s89813/Report%20Aylesbury%20Regeneration%20programme%20-%20Delivery%20of%20New%20Council%20Homes.pdf) para 53
 
-[^7]: [Aylesbury Regeneration Programme: Delivery of new council homes on the First Development Site](https://moderngov.southwark.gov.uk/documents/s89813/Report%20Aylesbury%20Regeneration%20programme%20-%20Delivery%20of%20New%20Council%20Homes.pdf) paras 25, 52
+[^7]: [Development Partnership Agreement (DPA)](/img/aylesburyDPA.pdf) Schedule 3 pg 83
 
 [^8]: [Aylesbury Regeneration Programme: Delivery of new council homes on the First Development Site](https://moderngov.southwark.gov.uk/documents/s89813/Report%20Aylesbury%20Regeneration%20programme%20-%20Delivery%20of%20New%20Council%20Homes.pdf) para 64
 
