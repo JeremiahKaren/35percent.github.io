@@ -112,3 +112,10 @@ __Footnotes:__
 [^10]: Evidence given at the The London Borough of Southwark (Aylesbury Estate Site 1b-1c) Compulsory Purchase Order 2014 Inquiry January 2018
 
 [^11]: [Aylesbury Regeneration Programme: Delivery of new council homes on the First Development Site](https://moderngov.southwark.gov.uk/documents/s89813/Report%20Aylesbury%20Regeneration%20programme%20-%20Delivery%20of%20New%20Council%20Homes.pdf) para 15
+
+
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:site" content="@35percent_EAN">
+<meta name="twitter:title" content="Notting Hill Genesis gets another Aylesbury estate bung">
+<meta name="twitter:description" content="Southwark forks out £210m for 280 extra social rented homes - £690k each home!!">
+<meta name="twitter:image" content="http://35percent.org/img/aylesburybung.png">
