@@ -21,7 +21,9 @@ The letter points out that many traders at the Shopping Centre have not been giv
 
 The letter goes on to state:
 
-_“Urgent action is now needed to rectify this distressing situation and it is within UAL’s power to effect this”_ and _“We are therefore asking UAL to withdraw from the redevelopment of the Elephant and Castle Shopping Centre if the organisation is genuinely committed to anti-racism.”_ 
+_“Urgent action is now needed to rectify this distressing situation and it is within UAL’s power to effect this”_ 
+
+and _“We are therefore asking UAL to withdraw from the redevelopment of the Elephant and Castle Shopping Centre if the organisation is genuinely committed to anti-racism.”_ 
 
 The letter says:
 
