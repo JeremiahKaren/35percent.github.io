@@ -13,7 +13,7 @@ UAL’s London College of Communication (LCC) is to benefit from [a new campus i
 
 ## Fifty traders with nowhere to go
 
-Campaigners wrote to Sir Nigel Carrington in response to UAL’s publication of a [statement in respect of the Black Live Matter](https://www.arts.ac.uk/about-ual/press-office/stories/black-lives-matter) protests taking place across the world. In their statement, UAL declares _“We aim to build our anti-racism commitments through collective engagement into actions that make a meaningful difference.”_  The letter points out that many traders at the Shopping Centre have not been given any relocation space and they are all from black and minority ethnic (BAME) backgrounds. According to a Southwark Council report at least 28 of the displaced traders have not been offered relocation premises.  Local charity [Latin Elephant](https://latinelephant.org/) and [Petite Elephant](https://twitter.com/elephant_petit/status/1118825370017386496) has conducted their own research which shows the figure is nearer 50 traders.
+Campaigners wrote to Sir Nigel Carrington in response to UAL’s publication of a [statement in respect of the Black Live Matter](https://www.arts.ac.uk/about-ual/press-office/stories/black-lives-matter) protests taking place across the world. In their statement, UAL declares _“We aim to build our anti-racism commitments through collective engagement into actions that make a meaningful difference.”_  The letter points out that many traders at the Shopping Centre have not been given any relocation space and they are all from black and minority ethnic (BAME) backgrounds. According to a Southwark Council report at least 28 of the displaced traders have not been offered relocation premises.[^1] Local charity [Latin Elephant](https://latinelephant.org/) and [Petite Elephant](https://twitter.com/elephant_petit/status/1118825370017386496) has conducted their own research which shows the figure is nearer 50 traders.
 
 ## Urgent action is needed now
 
@@ -36,14 +36,14 @@ transfer of existing businesses to new trading locations'_.
 
 ## Nobody should be left behind...
 
-The problems traders face because of the regeneration are well-known and long acknowledged. According to Southwark fourty-five traders have been relocated, but as many still have no-where to go.  The [relocation](https://www.southwarknews.co.uk/news/developer-delancey-submits-plans-for-castle-square-temporary-home-for-elephant-traders/) and [transition](https://www.london-se1.co.uk/news/view/10093) funds set up to assist traders are a fraction of the [£148.4m profit](http://35percent.org/shopping-centre/) Delancey stand to make from the redevelopment.
+The problems traders face because of the regeneration are well-known and long acknowledged. According to Southwark fourty-five traders have been relocated, but as many still have no-where to go [^2].  The [relocation](https://www.southwarknews.co.uk/news/developer-delancey-submits-plans-for-castle-square-temporary-home-for-elephant-traders/) and [transition](https://www.london-se1.co.uk/news/view/10093) funds set up to assist traders are a fraction of the [£148.4m profit](http://35percent.org/shopping-centre/) Delancey stand to make from the redevelopment.
 
 It seems to us that there can be no more blindingly obvious injustice than that shopping centre traders, of [great longstanding and all from BAME backgrounds](http://35percent.org/2020-04-23-reality-for-traders-elephant-castle-shoppping-centre/) should face the loss of their their premises with no compensation and little prospect of continuing their businesses, to make way for a [profit-spinning development](http://35percent.org/shopping-centre/) that has no place for them. 
 
 We also do not believe that between them the University of the Arts London, Southwark Council and Delancey with the vast resources at their command cannot either find all traders new premises or pay them suitable compensation for the loss of their livelihoods.  Now is the time for them to do so.
 
-
-
+[^1]: Elephant and Castle Shopping Centre Progress Report [Appendix D](http://moderngov.southwarksites.com/documents/s88161/Appendix%20D.pdf) para 23
+[^2]: email correspondence 24 April 2020
 
 
 
