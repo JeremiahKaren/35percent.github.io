@@ -1,11 +1,9 @@
 ---
 layout: post
 published: false
-title: >-
-  Campaigners demand that University of the Arts London withdraws from shopping
-  centre development.
+title: Campaigners demand that UAL withdraws from shopping centre development.
 ---
-## Campaigners respond to UAL's Black Lives Matter statement
+## Campaigners respond to University of the Art's Black Lives Matter statement
 
 Campaigners fighting against the demolition and redevelopment of the Elephant and Castle shopping centre have demanded that the University of the Arts London (UAL) withdraw from [the controversial scheme](http://35percent.org/uptheelephant/).  The demand was made in an [open letter](https://southwarknotes.wordpress.com/2020/07/27/elephant-shopping-centre-university-of-the-arts-london-displaced-traders-and-black-lives-matter/) to the UAL's Rector, Sir Nigel Carrington.
 
@@ -51,6 +49,7 @@ It seems to us that there can be no more blindingly obvious injustice than that 
 We also do not believe that between them the University of the Arts London, Southwark Council and Delancey with the vast resources at their command cannot either find all traders new premises or pay them suitable compensation for the loss of their livelihoods.  Now is the time for them to do so.
 
 [^1]: Elephant and Castle Shopping Centre Progress Report [Appendix D](http://moderngov.southwarksites.com/documents/s88161/Appendix%20D.pdf) para 23
+
 [^2]: email correspondence 24 April 2020
 
 
