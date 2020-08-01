@@ -42,7 +42,7 @@ transfer of existing businesses to new trading locations'_.
 
 ## Nobody should be left behind...
 
-The problems traders face because of the regeneration are well-known and long acknowledged. According to Southwark fourty-five traders have been relocated, but as many still have no-where to go [^2].  The [relocation](https://www.southwarknews.co.uk/news/developer-delancey-submits-plans-for-castle-square-temporary-home-for-elephant-traders/) and [transition](https://www.london-se1.co.uk/news/view/10093) funds set up to assist traders are a fraction of the [£148.4m profit](http://35percent.org/shopping-centre/) Delancey stand to make from the redevelopment.
+The problems traders face because of the regeneration are well-known and long acknowledged. According to Southwark forty-five traders have been relocated, but as many still have no-where to go [^2].  The [relocation](https://www.southwarknews.co.uk/news/developer-delancey-submits-plans-for-castle-square-temporary-home-for-elephant-traders/) and [transition](https://www.london-se1.co.uk/news/view/10093) funds set up to assist traders are a fraction of the [£148.4m profit](http://35percent.org/shopping-centre/) Delancey stand to make from the redevelopment.
 
 It seems to us that there can be no more blindingly obvious injustice than that shopping centre traders, of [great longstanding and all from BAME backgrounds](http://35percent.org/2020-04-23-reality-for-traders-elephant-castle-shoppping-centre/) should face the loss of their their premises with no compensation and little prospect of continuing their businesses, to make way for a [profit-spinning development](http://35percent.org/shopping-centre/) that has no place for them. 
 
