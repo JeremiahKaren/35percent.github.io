@@ -50,7 +50,7 @@ We also do not believe that between them the University of the Arts London, Sout
 
 [^1]: Elephant and Castle Shopping Centre Progress Report [Appendix D](http://moderngov.southwarksites.com/documents/s88161/Appendix%20D.pdf) para 23
 
-[^2]: email correspondence 24 April 2020
+[^2]: number of relocations given in email correspondence 24 April 2020
 
 
 
