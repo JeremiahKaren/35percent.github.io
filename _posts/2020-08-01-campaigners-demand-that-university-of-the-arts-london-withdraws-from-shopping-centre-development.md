@@ -17,7 +17,7 @@ Campaigners wrote to Sir Nigel Carrington in response to UAL’s publication of 
 
 ## Urgent action is needed now
 
-The letter goes on to state _“Urgent action is now needed to rectify this distressing situation and it is within UAL’s power to effect this”_.  The letter says _“We are therefore asking UAL to withdraw from the redevelop_ment of the Elephant and Castle Shopping Centre if the organisation is genuinely committed to anti-racism.” 
+The letter goes on to state _“Urgent action is now needed to rectify this distressing situation and it is within UAL’s power to effect this”_.  The letter says _“We are therefore asking UAL to withdraw from the redevelopment of the Elephant and Castle Shopping Centre if the organisation is genuinely committed to anti-racism.” 
 
 The letter says _“UAL’s alleged commitment to anti-racism will not stand up to scrutiny if it allows the imminent erasure of this community in Elephant and Castle. In this case actions will prove to speak louder than words.”_ 
 
