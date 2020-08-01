@@ -46,7 +46,7 @@ So, the problems traders face because of the regeneration are well-known and lon
 
 There can be no more blindingly obvious injustice than that [longstanding shopping centre traders](http://35percent.org/2020-04-23-reality-for-traders-elephant-castle-shoppping-centre/), all from BAME backgrounds, should face the loss of their stalls and premises, with no compensation and little prospect of continuing their businesses, to make way for a [profit-spinning development](http://35percent.org/shopping-centre/) that has no place for them. 
 
-We also do not believe that between them the University of the Arts London, Southwark Council and Delancey with the vast resources at their command cannot either find all traders new premises or pay them suitable compensation for the loss of their livelihoods.  Now is the time for them to do so.
+We do not believe that between them the University of the Arts London, Southwark Council and Delancey with the vast resources at their command, cannot either find all traders new premises or pay them suitable compensation for the loss of their livelihoods.  Now is the time for them to do so.
 
 [^1]: Elephant and Castle Shopping Centre Progress Report [Appendix D](http://moderngov.southwarksites.com/documents/s88161/Appendix%20D.pdf) para 23
 
