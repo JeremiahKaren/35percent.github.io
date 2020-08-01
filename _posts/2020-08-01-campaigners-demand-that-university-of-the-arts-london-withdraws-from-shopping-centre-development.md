@@ -31,7 +31,7 @@ _“UAL’s alleged commitment to anti-racism will not stand up to scrutiny if i
 
 Campaigners acknowledge that the London College of Communication (LCC) is itself an important part of the Elephant and Castle, but while so many traders from BAME backgrounds have suffered under the redevelopment LCC is a big winner, gaining a new, state-of-the art campus.
 
-The letter’s signatories are Planning Voice (Southwark Law Centre), Latin Elephant, Up the Elephant campaign, Anita Israel (#UALstillsowhite), Stand Up To Racism (Southwark), Southwark Notes.  The letter has copied to Natalie Brett (Pro Vice Chair UAL), Stafford Lancaster, (Investment Director, Delancey) Cllr Peter John OBE, (Leader, Southwark Council).
+The letter’s signatories are Planning Voice [(Southwark Law Centre)](http://www.southwarklawcentre.org.uk/), [Latin Elephant](https://latinelephant.org/), [Up the Elephant campaign](http://35percent.org/uptheelephant/), Anita Israel [(#UALstillsowhite)](https://twitter.com/AnitaWaithira), Stand Up To Racism [(Southwark)](https://londonnewsonline.co.uk/protesters-join-stand-up-to-racism-southwark-on-march-against-prejudice/), [Southwark Notes](https://southwarknotes.wordpress.com/).  The letter has copied to Natalie Brett (Pro Vice Chair UAL), Stafford Lancaster, (Investment Director, Delancey) Cllr Peter John OBE, (Leader, Southwark Council).
 
 The letter was sent on the 17 July 2020 and no reply had been received, at the date of this blog post.
 
