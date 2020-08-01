@@ -27,11 +27,21 @@ The letter’s signatories are Planning Voice (Southwark Law Centre), Latin Elep
 
 The letter was sent on the 17 July 2020, no reply had been received, at the date of this blog post.
 
-## Southwark is also listening
+## Southwark is also listening, again...
 
 Simultaneously with UAL, Southwark Council is conducting its own 'listening exercise', [Southwark Stands Together](https://consultations.southwark.gov.uk/housing-community-services-department-community-engagement-team/southwark-stands-together/?utm_content=&utm_medium=email&utm_name=&utm_source=govdelivery&utm_term=) asking anyone who lives, works or visits the borough about their experiences, so that they can _'identify solutions to address entrenched, persistent racism and injustice'_.
 
+
+But we have been down this road before. [Back in 2005](http://crappistmartin.github.io/posts/6/), Mayor Ken Livingstone [called](https://www.theguardian.com/society/2005/dec/15/regeneration.communities) for the Commission for Racial Equality to investigate the Elephant’s regeneration, after shopping centre traders [voiced concerns](https://www.london-se1.co.uk/news/view/1906) about how they would be accommodated in the redevelopment. Southwark had already commissioned the [Lord Herman Ouseley to investigate](http://moderngov.southwark.gov.uk/Data/Council%20Assembly/20050324/Agenda/2%20-%20Independent%20Review%20ofthe%20Council's%20Equality%20and%20Diversity%20Framework%20by%20Lord%20HermanOuseley%20-%20appendix%201.pdf) its borough wide practices and the report of his findings made the following observations;
+
+Back in 2005 then Mayor of London, Ken Livingstone, called on the Commission for Racial Equality to investigate the Elephant& Castle regneration, following a critical [report commissioned from Lord Herbert Ouseley](http://moderngov.southwark.gov.uk/Data/Council%20Assembly/20050324/Agenda/2%20-%20Independent%20Review%20ofthe%20Council's%20Equality%20and%20Diversity%20Framework%20by%20Lord%20HermanOuseley%20-%20appendix%201.pdf), addressing institutional racism in the Council, 
+
+
 It seems to us that there can be no more blindingly obvious injustice than that shopping centre traders, many of [great longstanding and all from BAME backgrounds](http://35percent.org/2020-04-23-reality-for-traders-elephant-castle-shoppping-centre/) should face the loss of their their premises with no compensation and little prospect of continuing their businesses.
+
+## We have been here before..
+
+Back in 2007 Southwark produced a 
 
 
 
