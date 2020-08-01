@@ -21,9 +21,7 @@ The letter points out that many traders at the Shopping Centre have not been giv
 
 The letter goes on to state:
 
-_“Urgent action is now needed to rectify this distressing situation and it is within UAL’s power to effect this”_ 
-
-and _“We are therefore asking UAL to withdraw from the redevelopment of the Elephant and Castle Shopping Centre if the organisation is genuinely committed to anti-racism.”_ 
+_“Urgent action is now needed to rectify this distressing situation and it is within UAL’s power to effect this ... We are therefore asking UAL to withdraw from the redevelopment of the Elephant and Castle Shopping Centre if the organisation is genuinely committed to anti-racism.”_ 
 
 The letter says:
 
@@ -31,7 +29,7 @@ _“UAL’s alleged commitment to anti-racism will not stand up to scrutiny if i
 
 Campaigners acknowledge that the London College of Communication (LCC) is itself an important part of the Elephant and Castle, but while so many traders from BAME backgrounds have suffered under the redevelopment LCC is a big winner, gaining a new, state-of-the art campus.
 
-The letter’s signatories are Planning Voice [(Southwark Law Centre)](http://www.southwarklawcentre.org.uk/), [Latin Elephant](https://latinelephant.org/), [Up the Elephant campaign](http://35percent.org/uptheelephant/), Anita Israel [(#UALstillsowhite)](https://twitter.com/AnitaWaithira), Stand Up To Racism [(Southwark)](https://londonnewsonline.co.uk/protesters-join-stand-up-to-racism-southwark-on-march-against-prejudice/) and [Southwark Notes](https://southwarknotes.wordpress.com/).  The letter has copied to Natalie Brett (Pro Vice Chair UAL), Stafford Lancaster, (Investment Director, Delancey) Cllr Peter John OBE, (Leader, Southwark Council).
+The letter’s signatories are Planning Voice [(Southwark Law Centre)](http://www.southwarklawcentre.org.uk/), [Latin Elephant](https://latinelephant.org/), [Up the Elephant campaign](http://35percent.org/uptheelephant/), Anita Israel [(#UALstillsowhite)](https://twitter.com/AnitaWaithira), Stand Up To Racism [(Southwark)](https://londonnewsonline.co.uk/protesters-join-stand-up-to-racism-southwark-on-march-against-prejudice/) and [Southwark Notes](https://southwarknotes.wordpress.com/).  The letter has been copied to Natalie Brett (Pro Vice Chair UAL), Stafford Lancaster, (Investment Director, Delancey) Cllr Peter John OBE, (Leader, Southwark Council).
 
 The letter was sent on the 17 July 2020 and no reply had been received, at the date of this blog post.
 
