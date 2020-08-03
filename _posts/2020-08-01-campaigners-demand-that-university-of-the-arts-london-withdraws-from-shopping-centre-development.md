@@ -7,6 +7,8 @@ title: Campaigners demand that UAL withdraws from shopping centre development.
 
 Campaigners fighting against the demolition and redevelopment of the Elephant and Castle shopping centre have demanded that the University of the Arts London (UAL) withdraw from [the controversial scheme](http://35percent.org/uptheelephant/).  The demand was made in an [open letter](https://southwarknotes.wordpress.com/2020/07/27/elephant-shopping-centre-university-of-the-arts-london-displaced-traders-and-black-lives-matter/) to the UAL's Rector, Sir Nigel Carrington.
 
+![](http://35percent.org/img/shameonual.jpg)
+
 UAL’s London College of Communication (LCC) is to benefit from [a new campus in the development](https://www.arts.ac.uk/about-ual/press-office/stories/new-ual-campus-at-the-heart-of-proposals-for-elephant-and-castle-town-centre-regeneration), after its current premises are demolished.  The shopping centre is due to be closed at the end of September 2020. UAL is a key stakeholder, along with developer Delancey and a signatory of the s106 legal contract that underpins the development.
 
 ## Fifty traders with nowhere to go
@@ -16,6 +18,8 @@ Campaigners wrote to Sir Nigel Carrington in response to UAL’s publication of 
 _“We aim to build our anti-racism commitments through collective engagement into actions that make a meaningful difference.”_  
 
 The letter points out that many traders at the Shopping Centre have not been given any relocation space and they are all from black and minority ethnic (BAME) backgrounds. According to a Southwark Council report at least 28 of the displaced traders have not been offered relocation premises.[^1] Local charity [Latin Elephant](https://latinelephant.org/) and [Petite Elephant](https://twitter.com/elephant_petit/status/1118825370017386496) has conducted their own research which shows the figure is nearer 50 traders.
+
+![](http://35percent.org/img/traderscomp.jpeg)
 
 ## Urgent action is needed now
 
