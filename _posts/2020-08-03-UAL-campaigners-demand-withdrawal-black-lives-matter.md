@@ -9,7 +9,7 @@ Campaigners fighting against the demolition and redevelopment of the Elephant an
 
 ![](http://35percent.org/img/shameonual.jpg)
 
-UAL’s London College of Communication (LCC) is to benefit from [a new campus in the development](https://www.arts.ac.uk/about-ual/press-office/stories/new-ual-campus-at-the-heart-of-proposals-for-elephant-and-castle-town-centre-regeneration), after its current premises are demolished.  The shopping centre is due to be closed at the end of September 2020. UAL is a key stakeholder, along with developer Delancey and a signatory of the s106 legal contract that underpins the development.
+UAL’s London College of Communication (LCC) is to benefit from [a new campus in the development](https://www.arts.ac.uk/about-ual/press-office/stories/new-ual-campus-at-the-heart-of-proposals-for-elephant-and-castle-town-centre-regeneration), after its current premises are demolished.  The shopping centre is due to be closed at the end of September 2020. UAL is a key stakeholder, along with [offshore developer Delancey](http://35percent.org/2014-05-05-manx-connections-the-off-shore-home-of-the-elephants-developers/) and a signatory of the s106 legal contract that underpins the development.
 
 ## Fifty traders with nowhere to go
 
