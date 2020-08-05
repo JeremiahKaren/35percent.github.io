@@ -1,0 +1,16 @@
+- name: Rich Industrial Estate
+  ref:  15/AP/2474
+  date: Dec 2016
+  url: /img/RichIndustrialS106.pdf
+  comment: No nomination rights, no perpetuity clause and the MiP clause (pages 26 and 27) fails to provide a bail-out clause.
+  image_path: https://www.london-se1.co.uk/whatson/imageuploads/1361040951_62.49.27.213.jpg
+
+- name: Aylesbury estate
+  ref: 14/AP/3843
+  date: Nov 2018
+  url: /img/aylesburys106.pdf
+  comment: There is a perpetuity clause on page 43 (para 1.2.9) but it says 'subject to clause 8' - what is clause 8? should this say schedule 8? The MiP provisions don't include a bail-out clause. 
+  image_path: /img/aylesbury_aerial.png
+ 
+- name:
+   

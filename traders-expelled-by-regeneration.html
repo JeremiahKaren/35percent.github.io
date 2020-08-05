@@ -1,0 +1,81 @@
+---
+title: E&C Traders expelled by regeneration 
+---
+<html lang="en">
+  <head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
+<link rel="stylesheet" href="/css/album.css">
+
+    <style>
+      .bd-placeholder-img {
+        font-size: 1.125rem;
+        text-anchor: middle;
+        -webkit-user-select: none;
+        -moz-user-select: none;
+        -ms-user-select: none;
+        user-select: none;
+      }
+
+      @media (min-width: 768px) {
+        .bd-placeholder-img-lg {
+          font-size: 3.5rem;
+        }
+      }
+    </style>
+
+</head>
+
+<body>
+
+
+<main role="main">
+   <section class="jumbotron text-center">
+        <div class="container">
+          <h1 class="jumbotron-heading">Elephant & Castle traders expelled by regeneration</h1>
+	  <p class="lead text-muted">Southwark, UAL and their <a href"http://35percent.org/2014-05-05-manx-connections-the-off-shore-home-of-the-elephants-developers/">offshore development partner Delancey</a> are making a big song and dance about the handful of traders that have been allocated re-location space, but have kept very quiet about the circa 50 traders who haven't. With the help of xxx and xxx we are recording the voices of those traders whose businesses and livelihoods will be extinguished by the regeneration.</p> 
+        </div>
+      </section>
+
+
+ <div class="album py-5 bg-light">
+    <div class="container">
+
+      <div class="row">
+{% for trader in site.data.traders_list %}
+        <div class="col-md-4">
+          <div class="card mb-4 shadow-sm">
+            <img class="card-img-top" src="{{ trader.image_path }}" alt="{{ trader.name }}">
+            <div class="card-body">
+		    <h5 class="card-title">{{ trader.name }}, {{ trader.ref }}</h5>
+
+		    <p class="card-text">{{ trader.comment }}</p>
+              <div class="d-flex justify-content-between align-items-center">
+                <div class="btn-group">
+                  <a href="{{ trader.url }}">
+                  <button type="button" class="btn btn-sm btn-outline-secondary">Read full interview</button>
+                  </a>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+{% endfor %}
+
+      </div>
+    </div>
+  </div>
+
+</main>
+
+
+
+</body>
+
+<script src="https://code.jquery.com/jquery-3.4.1.slim.min.js" integrity="sha384-J6qa4849blE2+poT4WnyKhv5vZF5SrPo0iEjwBvKU7imGFAV0wwj1yYfoRSJoZ+n" crossorigin="anonymous"></script>
+<script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js" integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6" crossorigin="anonymous"></script>
+
