@@ -58,7 +58,9 @@ title: E&C Traders expelled by regeneration
               <div class="d-flex justify-content-between align-items-center">
                 <div class="btn-group">
 			<a href="{{ page.url }}#{{ trader.name | split: ' ' | first }}">
-                  <button type="button" class="btn btn-sm btn-outline-secondary">Read full interview</button>
+		  <button type="button" class="btn btn-primary" data-toggle="modal" data-target="{{ trader.name | split: ' ' | first }}">
+ Read the full interview 
+</button>
                   </a>
                 </div>
               </div>
