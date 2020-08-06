@@ -37,3 +37,19 @@ Some people who were [trading] here for one year, two years, 6 months, they got 
 - name: Nassim Cherattia
   image_path: /img/nass.jpg
   comment: "Nassim has been in the market for 20 years, he sells mobile phones and accessories."
+
+- name: Hakim Khan
+  image_path: /img/hakim.jpg
+  comment: "Hakim offers his expertise to help you choose the right product from his range of handbags, luggage, purses and wallets."
+
+- name: Mohammad Arif
+  image_path: /img/arif.jpg
+  comment: "Mohammad has been trading in Elephant and Castle shopping centre for 16 years. His two kiosks are popular for the variety of sweets, drinks and day-to-day products they offer."
+
+- name: Olajide Agbede
+  image_path: /img/olajide.jpg
+  comment: "Olajide, originally from Africa, came to England back in 1999 and has been a familiar face at Elephant and Castle since 2004. Serving authentic, traditional African dishes."
+
+- name: Rajan Padayil
+  image_path: /img/rajan.jpg
+  comment: "Rajan runs the Legacy Food Bar which serves handmade paninis, grilled chicken, herbal and soft drinks."  
