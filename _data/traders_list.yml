@@ -85,3 +85,39 @@ Some people who were [trading] here for one year, two years, 6 months, they got 
 - name: Janzabullah Abdullah
   image_path: /img/janzabullah.jpg
   comment: "Janzabullah has been trading at Elephant and Castle for over 10 years and stocks a wide variety of accessories including belts, sunglasses, wallets, purses and phone accessories along with men and womens back packs and a wide variety of luggage."
+
+- name: Castle Brasserie
+  image_path: /img/ivan.jpg
+  comment: "Ivan runs a Columbian restaurant on the first floor of the shopping centre, also know as 'El Rincon de Ivancho'."
+
+- name: Castle Tandoori
+  image_path: /img/tandoori.jpg
+  comment: "Castle Tandoori is an Indian restaurant on the first floor of the shopping centre that has been serving the community for more than 40 years. The restaurant is run by Shamim Uddin and his family."
+
+- name: Ali Sabanci
+  image_path: /img/alisabanci.jpg
+  comment: "Ali Sabanci’s restaurant (Jenny's Burgers) has been in the shopping centre for over 25 years. Jenny’s is not only popular for its burgers, but also for the all day breakfast dishes and hot tasty pies."
+
+- name: Castle Fruit & Veg
+  image_path: /img/castlefruit.jpg
+  comment: "Castle Fruit and Veg has been serving customers on the ground floor of the shopping centre for over 20 years."
+
+- name: Sundial Cafe
+  image_path: /img/sundial.jpg
+  comment: "The Sundial cafe is a local institution that has been serving customers on the ground floor of the shopping centre for over 20 years."
+
+- name: Lyca Mobile Kiosk
+  image_path: /img/lyca.jpg
+  comment: "Lyca Mobile kiosk below the main entrance to the shopping centre."
+
+- name: La Bodeguita
+  image_path: /img/bodeguita.jpg
+  comment: "Bodeguita is a Colombian restaurant that has been serving the local community at the Elephant & Castle for over 15 years."
+
+- name: Tai Tip Mein
+  image_path: /img/taitipmein.jpg
+  comment: "Tai Tip Mein is a chinese noodle bar that has been serving the local community at Elephant and Castle for over 20 years."
+
+- name: Davish News
+  image_path: /img/davish.jpg
+  comment: "Davish News has been serving the local community at Elephant & Castle for over 30 years."
