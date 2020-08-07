@@ -23,7 +23,7 @@ Some people who were [trading] here for one year, two years, 6 months, they got 
   comment: "My name is Muhammad Raza, I’m working here since 2006. The market is dead now, before it was alright, but slowly, slowly they are closing down shops, big stores—Tesco, Poundland, Boots is going—it’s really dead now so it’s really hard to survive. And because we don’t have a space we don’t know what to do. Tree Sheperd and Delancey aren’t answering our emails, actually I emailed two days ago and didn’t get a response. This morning Tree Sheperd calles me and said ‘if you find yourself any shop, we’ll help you’, I said which kind of help? Because I’m looking for a shop [...] but if I look myself shops are £15,000, £20,000—I can’t afford that rent. And Tree Sheperd said they don’t have any affordable rents. If your looking for Castle Square or Elephant One, don’t even think about it [...] they said ‘we’ll help you’, but which kind of help? I don’t know. This has affected my business, my life, my family, I don’t know what to do next."
 
 - name: Mohammed Al Waris
-  image_path: /img/trader6.png
+  image_path: /img/trader6.jpg
   comment: "My name is Mohammed Al Waris, I’ve been trading at the Elephant and Castle market for the past 15 plus years. Throughout these years I’ve been selling fashion accessories, and I’ve made friendships within the local community. Recently what happened was that they tried to demolish the shopping centre, and that affected most of the traders’ lives, I’m one of them. We haven’t been offered anything. We were asked to pick three different locations—Castle Square, Perronet House, Elephant One—they haven’t offered me none of them. They haven’t told me [why], they just said we haven’t got any affordable unit for you guys. At the beginning they promised us, and then we suffer for the past three years, they closed the subway (underground walkway) and the business going down by about 80%. Two years before they came with an application, saying that we going to definitely relocate you 100%. Now we have one and a half months left to leave the market, and we can’t get any help from Tree Sheperd, or from Delancey. Every time we talk to the they say ‘sorry we haven’t got anything for you guys’, so we can’t do nothing. I believe we are entitled to a place in this area, cos they are making millions from this project, why can’t they help these traders? These traders have families they are trying to look after. By kicking them out, they are destroying their family life [...] I really hope they can think about these traders and help to move them to a place nearby the area, where they have their customers [...] they say you can’t stay in the area because this area, like Central London, is going to be very expensive. So where should we go? We don’t know."
 
 - name: Alejandro Patricio Ortiz
@@ -65,3 +65,23 @@ Some people who were [trading] here for one year, two years, 6 months, they got 
 - name: Samuel Botchway
   image_path: /img/sam.jpg
   comment: "Sam offers an extensive range of repairs for computers, laptops, IMEE, and is a specialist in Apple products. TV, Amplifiers and all types of electricals"
+
+- name: Amul Patel
+  image_path: /img/pbusters.jpg
+  comment: "Price Busters provide household and DIY goods and have been trading in the Elephant & Castle shopping centre for over 30 years."
+
+- name: Mohammed Dar
+  image_path: /img/mdar.jpg
+  comment: "Mohammed has been at Elephant and Castle for 13 years and knows his customers well. Provider of all forms of luggage including cases, travel bags and hand luggage bags as well as wallets."
+
+- name: Rahmat Saadat
+  image: /img/rahmat.jpg
+  comment: "A market trader at Elephant and Castle for the last 17 years Rahmat specialises in hats and caps of all makes and brands."
+
+- name: Eden Onuba
+  image: /img/lookatme.jpg
+  comment: "Originally from Eritrea, Eden trades at Elephant and Castle market, specialising in children’s wear from 0–14 years."
+
+- name: Janzabullah Abdullah
+  image: /img/janzabullah.jpg
+  comment: "Janzabullah has been trading at Elephant and Castle for over 10 years and stocks a wide variety of accessories including belts, sunglasses, wallets, purses and phone accessories along with men and womens back packs and a wide variety of luggage."
