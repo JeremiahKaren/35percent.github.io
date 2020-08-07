@@ -75,13 +75,13 @@ Some people who were [trading] here for one year, two years, 6 months, they got 
   comment: "Mohammed has been at Elephant and Castle for 13 years and knows his customers well. Provider of all forms of luggage including cases, travel bags and hand luggage bags as well as wallets."
 
 - name: Rahmat Saadat
-  image: /img/rahmat.jpg
+  image_path: /img/rahmat.jpg
   comment: "A market trader at Elephant and Castle for the last 17 years Rahmat specialises in hats and caps of all makes and brands."
 
 - name: Eden Onuba
-  image: /img/lookatme.jpg
+  image_path: /img/lookatme.jpg
   comment: "Originally from Eritrea, Eden trades at Elephant and Castle market, specialising in children’s wear from 0–14 years."
 
 - name: Janzabullah Abdullah
-  image: /img/janzabullah.jpg
+  image_path: /img/janzabullah.jpg
   comment: "Janzabullah has been trading at Elephant and Castle for over 10 years and stocks a wide variety of accessories including belts, sunglasses, wallets, purses and phone accessories along with men and womens back packs and a wide variety of luggage."
