@@ -46,7 +46,7 @@ title: E&C Traders expelled by regeneration
     <div class="container">
 
       <div class="row">
-{% for trader in site.data.traders_list %}
+{% for trader in site.data.traders %}
         <div class="col-md-4">
           <div class="card mb-4 shadow-sm">
             <img class="card-img-top" src="{{ trader.image_path }}" alt="{{ trader.name }}">
@@ -74,7 +74,7 @@ title: E&C Traders expelled by regeneration
 </main>
 
 
-{% for trader in site.data.traders_list %}
+{% for trader in site.data.traders %}
 <!-- Modal -->
 <div class="modal fade" id="{{ trader.name | split: ' ' | first }}" tabindex="-1" aria-labelledby="{{ trader.name | split: ' ' | first }}Label" aria-hidden="true">
   <div class="modal-dialog">
