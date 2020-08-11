@@ -137,26 +137,26 @@
     {
         "name": "La Bodeguita",
         "image_path": "/img/bodeguita.jpg",
-        "comment": "Bodeguita is a Colombian restaurant that has been serving the local community at the Elephant & Castle for over 15 years."
+        "comment": "Bodeguita is a Colombian restaurant that has been serving the local community at the Elephant & Castle for over 15 years. It hasn't secured relocation space in the redevelopment."
     },
     {
         "name": "Tai Tip Mein",
         "image_path": "/img/taitipmein.jpg",
-        "comment": "Tai Tip Mein is a chinese noodle bar that has been serving the local community at Elephant and Castle for over 20 years."
+        "comment": "Tai Tip Mein is a chinese noodle bar that has been serving the local community at Elephant and Castle for over 20 years. It hasn't secured relocation space in the redevelopment."
     },
     {
         "name": "Davish News",
         "image_path": "/img/davish.jpg",
-        "comment": "Davish News has been serving the local community at Elephant & Castle for over 30 years."
+        "comment": "Davish News has been serving the local community at Elephant & Castle for over 30 years. It hasn't secured relocation space in the redevelopment."
     },
     {
         "name": "Mogos Fashion",
         "image_path": "/img/mogo.png",
-        "comment": "Mogos fashion is a market stall at the base of the shopping centre."
+        "comment": "Mogos fashion is a market stall at the base of the shopping centre. It hasn't been able to secure relocation space within the redevelopment."
     },
     {
         "name": "Ismile Dental Surgery",
         "image_path": "/img/dental.jpg",
-        "comment": "The dental surgery on the New Kent Road side of the shopping centre has been serving the local community for over 30 years."
+        "comment": "The dental surgery on the New Kent Road side of the shopping centre has been serving the local community for over 30 years. It hasn't been able to secure relocation space in the redevelopment."
     }
 ]
