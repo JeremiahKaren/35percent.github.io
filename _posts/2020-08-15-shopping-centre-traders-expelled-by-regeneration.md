@@ -37,3 +37,13 @@ My name is Muhammad Raza, I’m working here since 2006. The market is dead now,
 ## Mohammed Al Waris
 
 My name is Mohammed Jamal, I’m working in the market the last 18 years. I’m in a very bad situation, because I haven’t found a relocation [...] I’ve got four children, and i’ve got no choice [but to work at the market] because I’m more than 55 now, and can’t find any other suitable job, and I’ve also got an illness I take medicine for [...] customers ask ‘where are you going’ I said I still can’t find relocation [...] because the council says there is no more relocation, it is all full. But I am still waiting for something to come up. One lady told me I’m not even on the waiting list [...] she said your application is on file but not on the waiting list [...] because there are so many people and the relocation spaces are limited [...] I applied many times for a space [...] and a small shop is alright for me [...] I sent many emails, but no answer. The feeling of not having anything is very painful. If someone doesn’t speak English very well, or is softly spoken [...] I am very soft, not talking a lot. That could be why no-one helped me.
+
+## Our campaign...
+
+Our campaign is to get Nassim, Shapoor, Edmund, Mohammad, Mohammed and their fellow traders new premises or suitable compensation for the loss of their businesses.  The power to do this lies with Southwark Council, Delancey and University of the Arts London (UAL)
+
+You can help us by emailing (Southwark at .....), (Delancey at...), (UAL at...)
+
+Twitter hashtag
+
+More infomation about the displaced traders can be found here.
