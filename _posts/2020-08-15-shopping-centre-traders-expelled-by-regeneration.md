@@ -46,4 +46,4 @@ You can help us by emailing (Southwark at .....), (Delancey at...), (UAL at...)
 
 Twitter hashtag
 
-More infomation about the displaced traders can be found here.
+[More infomation about the displaced traders can be found here](http://35percent.org/traders-expelled-by-regeneration/).
