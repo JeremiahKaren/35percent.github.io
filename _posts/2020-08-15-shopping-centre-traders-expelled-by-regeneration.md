@@ -12,9 +12,11 @@ All the displaced traders (bar one) come from black and ethnic minority backgrou
 
 ## No reply from UAL
 
-Nearly a month after the letter was sent no reply has been received.  We are printing below the stories of some of the displaced traders, in their own words, to prompt UAL into giving some thought to those who are losing their livelihoods so that they can benefit from shiny new premises.  Southwark Council and developer Delancey might also want to take heed.
+Nearly a month after the letter was sent no reply has been received.  We are printing below the stories of four of the displaced traders, in their own words, to prompt UAL into giving some thought to those who are losing their livelihoods so that they can benefit from shiny new premises.  Southwark Council and developer Delancey might also want to take heed.
 
 ## Nassim Cheraitain
+
+"image_path": "/img/trader1.png",
 
 My name is Nassim Cheraitian, I’ve been trading at Elephant and Castle market for over 20 years. The closing down of the Shopping Centre, for us, wasn’t good news, because they haven’t helped us. For the last three, four, five years business has been down, we’ve been losing, losing... they promised us they would help to find us to find a new unit but they didn’t. I applied, they asked us for all our details [...] we provided them with everything. After that they said that there isn’t space for everyone. And it’s been left like this. We don’t have anywhere to go. They [the council] gave us £3000, but honestly it’s not really [been helpful]. £3000 is nothing — three years ago they told us they would help us, so all that time we’ve been waiting, the business has gone down, we’ve been losing money, losing customers every day, and we were waiting to get something back. Instead we got £3000. I don’t have any plans, as I’ve been waiting to get this promised help from the council [...] we’ve been here for too long for them to leave us like this [...] [my customers] are unhappy, they think it is unfair to us, we’ve been here too long to be left with nothing—no shop, no unit, nothing.
 
