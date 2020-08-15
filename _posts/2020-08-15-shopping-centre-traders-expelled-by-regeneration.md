@@ -40,7 +40,7 @@ My name is Mohammed Jamal, I’m working in the market the last 18 years. I’m 
 
 ## Our campaign...
 
-Our campaign is to get Nassim, Shapoor, Edmund, Mohammad, Mohammed and their fellow traders new premises or suitable compensation for the loss of their businesses.  The power to do this lies with Southwark Council, Delancey and University of the Arts London (UAL)
+Our campaign is to get Nassim, Shapoor, Edmund, Mohammad, Mohammed and their fellow traders new premises or suitable compensation for the loss of their businesses.  The power to do this lies with Southwark Council, Delancey and University of the Arts London (UAL), but time is running out fast - the centre is due to close on 24 September.
 
 You can help us by emailing (Southwark at .....), (Delancey at...), (UAL at...)
 
