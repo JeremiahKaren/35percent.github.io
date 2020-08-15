@@ -30,9 +30,9 @@ My name is Edmund, I’m working here [at the market] over 20 years. Things are 
 
 My name is Mohammed Jamal, I’m working in the market the last 18 years. I’m in a very bad situation, because I haven’t found a relocation [...] I’ve got four children, and i’ve got no choice [but to work at the market] because I’m more than 55 now, and can’t find any other suitable job, and I’ve also got an illness I take medicine for [...] customers ask ‘where are you going’ I said I still can’t find relocation [...] because the council says there is no more relocation, it is all full. But I am still waiting for something to come up. One lady told me I’m not even on the waiting list [...] she said your application is on file but not on the waiting list [...] because there are so many people and the relocation spaces are limited [...] I applied many times for a space [...] and a small shop is alright for me [...] I sent many emails, but no answer. The feeling of not having anything is very painful. If someone doesn’t speak English very well, or is softly spoken [...] I am very soft, not talking a lot. That could be why no-one helped me.
 
-## Mohammad Raza
+## Muhammad Raza
 
-My name is Mohammad Raza, I’m working here since 2006. The market is dead now, before it was alright, but slowly, slowly they are closing down shops, big stores—Tesco, Poundland, Boots is going—it’s really dead now so it’s really hard to survive. And because we don’t have a space we don’t know what to do. Tree Shepherd and Delancey aren’t answering our emails, actually I emailed two days ago and didn’t get a response. This morning Tree Sheperd called me and said ‘if you find yourself any shop, we’ll help you’, I said which kind of help? Because I’m looking for a shop [...] but if I look myself shops are £15,000, £20,000—I can’t afford that rent. And Tree Shepherd said they don’t have any affordable rents. If your looking for Castle Square or Elephant One, don’t even think about it [...] they said ‘we’ll help you’, but which kind of help? I don’t know. This has affected my business, my life, my family, I don’t know what to do next.
+My name is Muhammad Raza, I’m working here since 2006. The market is dead now, before it was alright, but slowly, slowly they are closing down shops, big stores—Tesco, Poundland, Boots is going—it’s really dead now so it’s really hard to survive. And because we don’t have a space we don’t know what to do. Tree Shepherd and Delancey aren’t answering our emails, actually I emailed two days ago and didn’t get a response. This morning Tree Sheperd called me and said ‘if you find yourself any shop, we’ll help you’, I said which kind of help? Because I’m looking for a shop [...] but if I look myself shops are £15,000, £20,000—I can’t afford that rent. And Tree Shepherd said they don’t have any affordable rents. If your looking for Castle Square or Elephant One, don’t even think about it [...] they said ‘we’ll help you’, but which kind of help? I don’t know. This has affected my business, my life, my family, I don’t know what to do next.
 
 ## Mohammed Al Waris
 
@@ -40,7 +40,7 @@ My name is Mohammad Raza, I’m working here since 2006. The market is dead now,
 
 ## Our campaign...
 
-Our campaign is to get Nassim, Shapoor, Edmund, Mohammad, Mohammed and their fellow traders new premises or suitable compensation for the loss of their businesses.  The power to do this lies with Southwark Council, Delancey and University of the Arts London (UAL), but time is running out fast - the centre is due to close on 24 September.
+Our campaign is to get Nassim, Shapoor, Edmund, Mohammed, Mohummad, Mohammed and their fellow traders new premises or suitable compensation for the loss of their businesses.  The power to do this lies with Southwark Council, Delancey and University of the Arts London (UAL), but time is running out fast - the centre is due to close on 24 September.
 
 You can help us by emailing (Southwark at .....), (Delancey at...), (UAL at...)
 
