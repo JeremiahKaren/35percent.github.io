@@ -100,14 +100,19 @@
 	"comment": "Kubolonia’s owner Jorge’s mother is Thai and his dad is Spanish. His fusion includes seafood paella or a homely fricassee of pollo en pepitoria and the Thai food is cooked to order by Jorge’s mother on a powerful wok burner in their retail unit, including beef chilli, a serious rendition of krapow, studded with hot chillis and basil and accompanied by a properly frazzled egg. Unfortunately Kubolonia has not been able to secure relocation premises in the regeneration of the shopping centre."
     },
     {
-       "name: "The Elephant - indian takeaway (Retail Unit: P12)",
+       "name": "The Elephant - indian takeaway (Retail Unit: P12)",
        "image_path": "/img/indiantakeaway.jpg",
        "comment": "The Elephant serves traditional indian food to takeaway from a stall in the market surrounding the Elephant & Castle shopping centre. It has not been able to secure relocation space as part of the regeneration."
     },
     {
-       "name: "Al-Hassan Kamara",
+       "name": "Al-Hassan Kamara",
        "image_path": "/img/lucilasmall.jpg",
        "comment": "Al-Hassan Kamara runs the Lucila Small market stall outside Elephant and Castle shopping centre, which sells ladies' fashionwear. Al-Hassan has not been able to secure relocation space within the regeneration."
+    },
+    {
+       "name": "Sayed Hamaki",
+       "image_path": "/img/farhid.jpg",
+       "comment": "Sayed has been running Farhid Carpets and Bedding at his stall in the Elephant & Castle market for over 20 years. He has not been allocated relocation space as part of the regeneration of the shopping centre."
     }
 
 ]
