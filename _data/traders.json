@@ -67,7 +67,7 @@
     {
         "name": "Castle Brasserie (Retail Unit: 203)",
         "image_path": "/img/ivan.jpg",
-        "comment": "Ivan runs a Columbian restaurant on the first floor of the shopping centre, also know as 'El Rincon de Ivancho'."
+        "comment": "Ivan runs a Columbian restaurant on the first floor of the shopping centre, also known as 'El Rincon de Ivancho'. His has been one of the restaurants withstanding the pandemic by continuing their service and giving free meals to people struggling to make ends meet"
     },
     {
         "name": "Castle Tandoori (Retail Unit: 200)",
@@ -107,12 +107,17 @@
     {
        "name": "Al-Hassan Kamara (Retail Unit: P25)",
        "image_path": "/img/lucilasmall.jpg",
-       "comment": "Al-Hassan Kamara runs the Lucila Small market stall outside Elephant and Castle shopping centre, which sells ladies' fashionwear. Al-Hassan has not been able to secure relocation space within the regeneration."
+       "comment": "Al-Hassan Kamara runs the Lucila Small market stall outside Elephant and Castle shopping centre, which sells ladies' fashionwear. Al-Hassan has not been able to secure relocation space within the regeneration. Al-Hassin told us - 'Until now we still don’t have a space, we don’t know what the future holds for us. So we are pleading with whoever is listening, to find a solution for us.'"
     },
     {
        "name": "Sayed Hamaki (Retail Unit: P33)",
        "image_path": "/img/farhid.jpg",
-       "comment": "Sayed has been running Farhid Carpets and Bedding at his stall in the Elephant & Castle market for over 20 years. He has not been allocated relocation space as part of the regeneration of the shopping centre."
+       "comment": "Sayed has been running Farhid Carpets and Bedding at his stall in the Elephant & Castle market for over 20 years. He has not been allocated relocation space as part of the regeneration of the shopping centre. Sayed applied for relocation space as part of the regeneration but was turned down. He told us - 'I don’t know why they rejected my application.'"
+    },
+    {
+      "name": "Arch 7 (Railway Arch)",
+      "image_path": "/img/arch7.jpeg",
+      "comment": "Arch 7 on Elephant Road hosts 10 small Latin American businesses that widely serve the community offering a restaurant and café, money transfer, ladies’ fashion, international shipping, real-estate and travel agencies and hairdressers. Arch 7 is one of the arches that is due to be knocked through as part of the regeneration plans but none of the 10 traders have been able to secure relocation space within the regeneration programme."
     }
 
 ]
