@@ -16,11 +16,16 @@ The inadequacy of these 'business support' measures barely needs stating; if the
 The poor support is compounded by the dilatory way that the relocation and transition funds are being disbursed and the lack of urgency shown by Southwark, Delancey and Tree Shepherd in resolving issues around the fit-outs, the costs of fit-outs, lease and rent arrangements and the logistics of moving, which Southwark cites as 'currently' being resolved, when there is not much more than a month to go before closure.  The lack of 'on-the-ground' practical help and advice from Tree Shepherd can be excused to an extent by the Covid crisis, but that does not help any of the traders.
 
 
-## The Delancey's hardship fund
+##  Please sir can I have some more?
 
-Southwark says, with hit of indignation that  
+On the funding front, Southwark's statement refers, with a hint of indignation, to the the fact that _'Delancey have long agreed to supplement the relocation fund on a case by case basis'_.  This turns out to be Delancey's hardship fund and deserves a special mention. Money from this is be awarded entirely at the discretion of Delancey, who seem to have a rather Dickensian idea of their role.  Traders must first consider raising loans from family, friends or elsewhere before making an application to the fund; this presumably is a better way of ensuring that only the deserving get the money, rather than simply assessing the actual costs of relocating and paying anything above the paltry amount currently on offer.  The same source has offered the helpful advice that traders could become Uber drivers
 
-Several parts of Southwark's statements stand out, one in particular for its idiocy.
+## Statement highlights
+
+
+
+
+Several other parts of Southwark's statements stand out, one in particular for its idiocy.
 
 ## Credit to Southwark?
 
