@@ -35,10 +35,13 @@ This empty statement takes us to the heart of the problem.  If Southwark was gen
 _Unfortunately there were always going to be traders that were not able to be offered a unit in
 the relocation spaces listed owing to space restrictions._
 
+This is true, but Southwark ignored the fact when Latin Elephant pointed it out in their objection to the Delancey planning application back in to 2018 [OR851].  In other words, the shortfall wasn't so unfortunate that it prevented Southwark from approving the application.  It is worth adding that Southwark, while fully aware that  _'Market stall operators may experience temporary or permanent closure or disruption to business operations, financial or other barriers to re-opening at the new development or in the wider area'_, they did not go out of their way to broadcast the fact and certainly not to the market traders. OR 169. 270618 
 
-169. Market stall operators may experience temporary or permanent closure or disruption to business operations, financial or other barriers to re-opening at the new development or in the wider area. OR 270618
+851. Only 2,050sqm of affordable retail space would be available for immediate relocation,
+and 4,005sqm is needed;
 
-235. It is not proposed that there would be an automatic right of return for existing businesses operating at the site, and this has been raised as a concern in public consultation responses....it is likely that some businesses will either cease trading on or before closure of the shopping centre, or relocate to other parts of the opportunity area, the borough, or beyond. OR 270618
+
+235. It is not proposed that there would be an automatic right of return for existing businesses operating at the site, and this has been raised as a concern in public consultation responses....it is likely that some businesses will either cease trading on or before closure of the shopping centre, or relocate to other parts of the opportunity area, the borough, or beyond. OR 270618 - check s106
 
 This is not true.  
 ## Credit to Southwark?
