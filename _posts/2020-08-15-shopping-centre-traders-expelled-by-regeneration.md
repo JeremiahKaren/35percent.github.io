@@ -42,8 +42,14 @@ My name is Muhammad Raza, I’m working here since 2006. The market is dead now,
 
 Our campaign is to get Nassim, Shapoor, Edmund, Mohammed, Mohummad, Mohammed and their fellow traders new premises or suitable compensation for the loss of their businesses.  The power to do this lies with Southwark Council, Delancey and University of the Arts London (UAL), but time is running out fast - the centre is due to close on 24 September.
 
-You can help us by emailing (Southwark at .....), (Delancey at...), (UAL at...)
+You can help us by sending a this Twitter message to the development stakeholders - 
 
-Twitter hashtag
+'Elephant Shopping Centre 'Regeneration'!
+ 
+Why have at least 40 traders got nowhere to go when the Centre is closed down forever on 24th Sept? They 	   urgently need new premises!
+ 
+What are you doing about it [@lb_southwark](https://twitter.com/lb_southwark) [@ShapingElephant](https://twitter.com/shapingelephant?lang=en) [@UAL](https://twitter.com/UAL?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor) [@TreeShepherd](https://twitter.com/treeshepherduk?lang=en) ?
 
-[More infomation about the displaced traders can be found here](http://35percent.org/traders-expelled-by-regeneration/).
+Hashtags #nowheretogo #supportelephantraders.
+
+You can find [more infomation about the displaced traders can be found here](http://35percent.org/traders-expelled-by-regeneration/).
