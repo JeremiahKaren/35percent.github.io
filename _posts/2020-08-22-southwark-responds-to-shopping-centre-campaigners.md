@@ -5,11 +5,22 @@ title: southwark-responds-to-shopping-centre-campaigners
 ---
 ## Council put on defensive by fierce criticism
 
-Southwark Council has been obliged to issue a lengthy statement in defence of the treatment of the shopping centre traders, as around 40 face the loss of their livelihood, when the centre closes on 24 September.
+Southwark Council has been obliged to issue a lengthy statement in defence of the treatment of the shopping centre traders, as around 40 face the loss of their livelihood, according to research by local charity Latin Elephant, when the centre closes on 24 September.  
 
-In their statement 
+The substance of the statement is that 45 traders have been relocated, with 31 'remaining'.  These 'remaining' unallocated traders, with nowhere to go, have received £3000 each.  They will receive a second payment of an unspecified amount 'near the closure of the shopping centre'; given the number of traders and the size of the transition fund (£200k) this is likely to be about another £3000.
 
-Southwark
+Other than this this the statement details various generic 'business-support' measures, such as acccess to a websites and databases and advice from 'independent business and relocation advisor' Tree Shepherd (remote access only).
+
+The inadequacy of these 'business support' measures barely needs stating; if they were of any use something more than just under half the traders would not be without new premises  Our webpage [E&C Traders with nowhere to go] (http://35percent.org/traders-expelled-by-regeneration/) tells the stories 6 of the unallocated traders, who have been at the centre for between eight and 20 years each (a total of nearly a hundred years between them). They are all experienced traders who would otherwise be continuing in their trade, but for the regeneration.  They deserve something more than ineffectual promises of help, with a derisory £6000 to see them on their way, come 24 September.
+
+The poor support is compounded by the dilatory way that the relocation and transition funds are being disbursed and the lack of urgency shown by Southwark, Delancey and Tree Shepherd in resolving issues around the fit-outs, the costs of fit-outs, lease and rent arrangements and the logistics of moving, which Southwark cites as 'currently' being resolved, when there is not much more than a month to go before closure.  The lack of 'on-the-ground' practical help and advice from Tree Shepherd can be excused to an extent by the Covid crisis, but that does not help any of the traders.
+
+
+## The Delancey's hardship fund
+
+Southwark says, with hit of indignation that  
+
+Several parts of Southwark's statements stand out, one in particular for its idiocy.
 
 ## Credit to Southwark?
 
@@ -21,4 +32,12 @@ While Southwark has been forced to turn its attention to the remaining traders, 
 
 Amongst these are the Palaces bingo hall, described as Britain's second largest, with its large customer base in the BAME community; the Palaces Bowling alley, much loved by local students; the many small office businesses in Hannibal House, just above the centre.In Southwark's happy reality they no longer exist and so their loss does not count.
 
-The true story about the shopping centre redevelopment is the same as it was for the Heygate estate regeneration - Southwark Council threw its lot in with the developers, Lendlease and Delancey, and what would happen the people who actually lived and worked at the Elephant has been an afterthought.  
+The true story about the shopping centre redevelopment is the same as it was for the Heygate estate regeneration - Southwark Council threw its lot in with the developers, Lendlease and Delancey, and what would happen the people who actually lived and worked at the Elephant has been an afterthought.
+
+What do Southwark need to do now
+
+There is now less than a month to go before the shopping centre closes.  ; 
+
+Pay the unallocated traders the outstanding amounts of the Business Transition Grant immediately 
+Pay the allocated traders the money they need to fit-out their new premises immediately
+
