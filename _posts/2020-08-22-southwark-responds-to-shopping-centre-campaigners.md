@@ -30,8 +30,12 @@ Even if we are being charitable, there cannot have been any point since the demo
 
 _The council is committed to enabling the largest possible number of existing businesses to remain in the area_ 
 
-This empty statement takes us to the heart of the problem.  If Southwark was genuinely committed to keeping the largest number of businesses in the area it would not have approved a planning application that did not guarantee that.  As we note above Southwark planning was happy to recommend approval for an application that did not have one of the main relocation sites (Castle Square) and no fully realised relocation strategy.  
+This empty statement takes us to the heart of the problem.  If Southwark was genuinely committed to keeping the largest number of businesses in the area it would not have approved a planning application that did not guarantee that.  As we note above Southwark planning was happy to recommend approval for an application that did not have one of the main relocation sites (Castle Square) and no fully realised relocation strategy.
 
+_Unfortunately there were always going to be traders that were not able to be offered a unit in
+the relocation spaces listed owing to space restrictions._
+
+This is not true.  
 ## Credit to Southwark?
 
 Southwark's statement lists the various measures that mitigate the traders'plight somewhat, without saying that it was quite happy for the development to go ahead without most of them.  The relocation fund was in place, but there was no temporary premises at Castle Sq, no transition fund for unallocated traders and no Trader's Panel (and no real socail rented housing) when the planning application first went to planning committee, late 2017.  Delancey had made its opinion of the traders clear, saying _‘…some existing retailers in the area are benefitting from disproportionately low levels of rent for such a central London location and it may not be financially viable for them to survive in the wider area over the longer term’_.  Consequently Delancey did not intend to provide a relocation strategy, until after it got its planning permission.  Southwark were quite content with this and recommended the application for approval, nonetheless.  Concessions, such as Castle Sq, the £200,000 transition fund, the Traders panel (and real social rented housing) were only hard-won subsequently by the traders and campaigners, including some local councillors.
@@ -40,7 +44,7 @@ Southwark's statement lists the various measures that mitigate the traders'pligh
 
 While Southwark has been forced to turn its attention to the remaining traders, it would be easy to forget the traders, services and leisure amenities that have already been lost to the regeneration.  Latin Elephant research shows that there were 130 traders in January 2018; now we have about ninety left, with only about half reallocated.  Forty or so have already gone, and have fallen out of Southwark's reckoning, forced to leave, as footfall and business declined, wearied beyond hope by the whole 'regeneration' process.
 
-Amongst these are the Palaces bingo hall, described as Britain's second largest, with its large customer base in the BAME community; the Palaces Bowling alley, much loved by local students; the many small office businesses in Hannibal House, just above the centre.In Southwark's happy reality they no longer exist and so their loss does not count.
+Amongst these are the Palaces bingo hall, described as Britain's second largest, with its large customer base in the BAME community; the Palaces Bowling alley, much loved by local students; the Coronet cinema; the many small office businesses in Hannibal House, just above the centre.In Southwark's happy reality they no longer exist and so their loss does not count.
 
 The true story about the shopping centre redevelopment is the same as it was for the Heygate estate regeneration - Southwark Council threw its lot in with the developers, Lendlease and Delancey, and what would happen the people who actually lived and worked at the Elephant has been an afterthought.
 
