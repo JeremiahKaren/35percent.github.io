@@ -35,6 +35,11 @@ This empty statement takes us to the heart of the problem.  If Southwark was gen
 _Unfortunately there were always going to be traders that were not able to be offered a unit in
 the relocation spaces listed owing to space restrictions._
 
+
+169. Market stall operators may experience temporary or permanent closure or disruption to
+business operations, financial or other barriers to re-opening at the new development OR 270618
+or in the wider area.
+
 This is not true.  
 ## Credit to Southwark?
 
