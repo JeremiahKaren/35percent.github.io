@@ -22,10 +22,15 @@ On the funding front, Southwark's statement refers, with a hint of indignation, 
 
 ## Statement highlights
 
+Several other parts of Southwark's statements stand out, one in particular for its idiocy;
 
+_For many smaller traders this is an opportunity to grow and develop their business._
 
+Even if we are being charitable, there cannot have been any point since the demolition and redevelopment of the shopping centre was first proposed three years ago when this was true; it certainly is not now.
 
-Several other parts of Southwark's statements stand out, one in particular for its idiocy.
+_The council is committed to enabling the largest possible number of existing businesses to remain in the area_ 
+
+This empty statement takes us to the heart of the problem.  If Southwark was genuinely committed to keeping the largest number of businesses in the area it would not have approved a planning application that did not guarantee that.  As we note above Southwark planning was happy to recommend approval for an application that did not have one of the main relocation sites (Castle Square) and no fully realised relocation strategy.  
 
 ## Credit to Southwark?
 
