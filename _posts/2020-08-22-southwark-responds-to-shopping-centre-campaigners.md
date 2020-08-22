@@ -36,9 +36,9 @@ _Unfortunately there were always going to be traders that were not able to be of
 the relocation spaces listed owing to space restrictions._
 
 
-169. Market stall operators may experience temporary or permanent closure or disruption to
-business operations, financial or other barriers to re-opening at the new development OR 270618
-or in the wider area.
+169. Market stall operators may experience temporary or permanent closure or disruption to business operations, financial or other barriers to re-opening at the new development or in the wider area. OR 270618
+
+235. It is not proposed that there would be an automatic right of return for existing businesses operating at the site, and this has been raised as a concern in public consultation responses....it is likely that some businesses will either cease trading on or before closure of the shopping centre, or relocate to other parts of the opportunity area, the borough, or beyond. OR 270618
 
 This is not true.  
 ## Credit to Southwark?
@@ -52,6 +52,10 @@ While Southwark has been forced to turn its attention to the remaining traders, 
 Amongst these are the Palaces bingo hall, described as Britain's second largest, with its large customer base in the BAME community; the Palaces Bowling alley, much loved by local students; the Coronet cinema; the many small office businesses in Hannibal House, just above the centre.In Southwark's happy reality they no longer exist and so their loss does not count.
 
 The true story about the shopping centre redevelopment is the same as it was for the Heygate estate regeneration - Southwark Council threw its lot in with the developers, Lendlease and Delancey, and what would happen the people who actually lived and worked at the Elephant has been an afterthought.
+
+## Consultation
+
+Lack of Spanish language material. OR 849 270618
 
 What do Southwark need to do now
 
