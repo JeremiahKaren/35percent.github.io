@@ -2,8 +2,10 @@
 layout: post
 published: false
 title: southwark-responds-to-shopping-centre-campaigners
+subtitle: Council put on defensive by fierce criticism
+date: '2020-08-23'
 ---
-## Council put on defensive by fierce criticism
+## 
 
 Southwark Council has been obliged to issue a lengthy statement in defence of the treatment of the shopping centre traders, as around 40 face the loss of their livelihood, according to research by local charity Latin Elephant, when the centre closes on 24 September.  
 
@@ -66,4 +68,3 @@ There is now less than a month to go before the shopping centre closes.  ;
 
 Pay the unallocated traders the outstanding amounts of the Business Transition Grant immediately 
 Pay the allocated traders the money they need to fit-out their new premises immediately
-
