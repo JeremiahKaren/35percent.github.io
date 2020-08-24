@@ -9,7 +9,7 @@ date: '2020-08-23'
 
 Southwark Council has issued a [lengthy statement](https://www.southwark.gov.uk/regeneration/elephant-and-castle?chapter=13) in defence of its treatment of the shopping centre traders, as around [40 face the loss of their livelihood](https://latinelephant.org/displaced-traders-with-no-relocation/#Sayed), according to research by local charity Latin Elephant, when the centre closes on 24 September.  
 
-The substance of the statement is that 45 traders have been relocated, with 31 'remaining'.  These 'remaining' unallocated traders, with nowhere to go, have received £3000 each.  They will receive a second payment of an unspecified amount _'near the closure of the shopping centre'_; given the number of traders and the size of the transition fund (£200k) this is likely to be about another £3000.
+The substance of the statement is that 45 traders have been relocated, with 31 'remaining'.  These 'remaining' unallocated traders, with nowhere to go, have received £3000 each.  They will receive a second payment of an unspecified amount _'near the closure of the shopping centre'_ ; given the number of traders and the size of the transition fund (£200k) this is likely to be about another £3000.
 
 Other than this this the statement details various generic 'business-support' measures, such as acccess to a websites and databases and advice from 'independent business and relocation advisor' Tree Shepherd (remote access only).
 
