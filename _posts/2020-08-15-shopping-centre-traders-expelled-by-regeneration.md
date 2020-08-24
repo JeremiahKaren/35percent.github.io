@@ -30,8 +30,6 @@ My name is Shapoor Amini, I’ve worked at this market since 2001. These people 
 
 ## Edmund Attoh
 
-![](http://35percent.org/img/edmund.jpg)
-
 My name is Edmund, I’m working here [at the market] over 20 years. Things are very difficult, they gave a space to some people, who’d been here 5 years, 4 years, 2 years, people who have been here for a long time didn’t get nothing. That’s what we don’t understand, that’s why we are frustrated. We don’t know where we are going now. I applied for a space, and anything they asked, we give to them. They turned us down. But they didn’t say [why]. It has affected us [...] someone who has been here for 20 years, and suddenly they say go. We don’t know where we are going. It is very hard for us. My customers always call me and ask where we are going. But we don’t know what to tell them [...] that is a problem for us [...] we’re looking to them (the council) [...] we need help.
 
 ## Mohammed Jamal
