@@ -41,7 +41,7 @@ the relocation spaces listed owing to space restrictions.'_
 This is only true because Delancey designed the redevelopment to be that way and Southwark went along with them.  Southwark ignored Latin Elephant's objection, from back in 2018, that _'Only 2,050sqm of affordable retail space would be available for immediate relocation, and 4,005sqm is needed'_ and approved the scheme anyway [OR851]. Southwark was also well aware that  _'Market stall operators may experience temporary or permanent closure or disruption to business operations, financial or other barriers to re-opening at the new development or in the wider area'_, but this did not lead them to seek improvements in the scheme or to insist on a fully realised relocation strategy, agreed with traders, before giving planning approval.[OR 169. 270618] 
 
 
-## Lost but not forgotten
+## Gone but not forgotten
 
 While Southwark has been forced to turn its attention to the remaining traders, it would be easy to forget the traders, services and leisure amenities that have already been lost to the regeneration.  Latin Elephant research shows that there were 130 traders in January 2018; now we have about ninety left, with only about half reallocated.  Forty or so have already gone, and have fallen out of Southwark's reckoning, forced to leave, as footfall and business declined, wearied beyond hope by the whole 'regeneration' process.
 
