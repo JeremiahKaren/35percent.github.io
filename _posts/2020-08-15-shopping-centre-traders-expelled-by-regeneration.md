@@ -48,7 +48,7 @@ My name is Muhammad Raza, I’m working here since 2006. The market is dead now,
 
 ## Mohammed Al Waris
 
-![](http://35percent.org/img/trader5.png)
+![](http://35percent.org/img/trader6.png)
 
 "My name is Mohammed Al Waris, I’ve been trading at the Elephant and Castle market for the past 15 plus years. Throughout these years I’ve been selling fashion accessories, and I’ve made friendships within the local community. Recently what happened was that they tried to demolish the shopping centre, and that affected most of the traders’ lives, I’m one of them. We haven’t been offered anything. We were asked to pick three different locations—Castle Square, Perronet House, Elephant One—they haven’t offered me none of them. They haven’t told me [why], they just said we haven’t got any affordable unit for you guys. At the beginning they promised us, and then we suffer for the past three years, they closed the subway (underground walkway) and the business going down by about 80%. Two years before they came with an application, saying that we going to definitely relocate you 100%. Now we have one and a half months left to leave the market, and we can’t get any help from Tree Shepherd, or from Delancey. Every time we talk to the they say ‘sorry we haven’t got anything for you guys’, so we can’t do nothing. I believe we are entitled to a place in this area, cos they are making millions from this project, why can’t they help these traders? These traders have families they are trying to look after. By kicking them out, they are destroying their family life [...] I really hope they can think about these traders and help to move them to a place nearby the area, where they have their customers [...] they say you can’t stay in the area because this area, like Central London, is going to be very expensive. So where should we go? We don’t know."
 
@@ -56,17 +56,15 @@ My name is Muhammad Raza, I’m working here since 2006. The market is dead now,
 
 Our campaign is to get Nassim, Shapoor, Edmund, Mohammed, Mohummad, Mohammed and their fellow traders new premises or suitable compensation for the loss of their businesses.  The power to do this lies with Southwark Council, Delancey and University of the Arts London (UAL), but time is running out fast - the centre is due to close on 24 September.
 
-You can help us by sending a this Twitter message to the Councillors responsible and development stakeholders - 
+You can help us by sending a Twitter message to the Southwark Councillors responsible for this fiasco: 
 
-@peter6john (Council Leader)
-@rebeccalury (Deputy Leader, Ward Cllr and Cabinet member for Equalites and Communities)
-@MerrilDarren (Ward Cllr and Chair of the traders panel that was supposed to support traders)
-@cllrmseaton (Ward Cllr and Chair of the Planning Committee)
-@JohnsonSitu (Cabinet member for Regeneration)
-@Leo_Pollak (Cabinet member for Social Regeneration)
-@steviecryan (Cabinet member for Jobs, Business and Innovation)
-@coyleneil (Local MP and Elephant & Castle resident)
+* @peter6john (Council Leader)
+* @rebeccalury (Deputy Leader, Ward Cllr and Cabinet member for Equalites and Communities)
+* @MerrilDarren (Ward Cllr and Chair of the traders panel that was supposed to support traders)
+* @cllrmseaton (Ward Cllr and Chair of the Planning Committee)
+* @JohnsonSitu (Cabinet member for Regeneration)
+* @Leo_Pollak (Cabinet member for Social Regeneration)
+* @steviecryan (Cabinet member for Jobs, Business and Innovation)
+* @coyleneil (Local MP and Elephant & Castle resident)
  
-Hashtags #nowheretogo #supportelephantraders.
-
 You can find [more infomation about the displaced traders can be found here](http://35percent.org/traders-expelled-by-regeneration/).
