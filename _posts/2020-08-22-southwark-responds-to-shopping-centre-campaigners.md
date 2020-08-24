@@ -5,7 +5,7 @@ title: southwark-responds-to-shopping-centre-campaigners
 subtitle: Council put on defensive by fierce criticism
 date: '2020-08-23'
 ---
-## 
+ 
 
 Southwark Council has issued a lengthy statement in defence of the treatment of the shopping centre traders, as around 40 face the loss of their livelihood, according to research by local charity Latin Elephant, when the centre closes on 24 September.  
 
