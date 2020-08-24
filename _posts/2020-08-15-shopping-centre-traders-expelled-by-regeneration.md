@@ -56,13 +56,13 @@ Our campaign is to get Nassim, Shapoor, Edmund, Mohammed, Mohummad, Mohammed and
 
 You can help us by sending a Twitter message to the Southwark Councillors responsible for this fiasco: 
 
-* @peter6john (Council Leader)
-* @rebeccalury (Deputy Leader, Ward Cllr and Cabinet member for Equalites and Communities)
-* @MerrilDarren (Ward Cllr and Chair of the traders panel that was supposed to support traders)
-* @cllrmseaton (Ward Cllr and Chair of the Planning Committee)
-* @JohnsonSitu (Cabinet member for Regeneration)
-* @Leo_Pollak (Cabinet member for Social Regeneration)
-* @steviecryan (Cabinet member for Jobs, Business and Innovation)
-* @coyleneil (Local MP and Elephant & Castle resident)
+* [@peterjohn6](https://twitter.com/peterjohn6) (Council Leader)
+* [@rebeccalury](https://twitter.com/rebeccalury) (Deputy Leader, Ward Cllr and Cabinet member for Equalites and Communities)
+* [@MerrilDarren](https://twitter.com/MerrilDarren) (Ward Cllr and Chair of the traders panel that was supposed to support traders)
+* [@cllrmseaton](https://twitter.com/cllrmseaton) (Ward Cllr and Chair of the Planning Committee)
+* [@JohnsonSitu](https://twitter.com/JohnsonSitu) (Cabinet member for Regeneration)
+* [@Leo_Pollak](https://twitter.com/Leo_Pollak) (Cabinet member for Social Regeneration)
+* [@steviecryan](https://twitter.com/steviecryan) (Cabinet member for Jobs, Business and Innovation)
+* [@coyleneil](https://twitter.com/coyleneil) (Local MP and Elephant & Castle resident)
  
 You can find [more infomation about the displaced traders can be found here](http://35percent.org/traders-expelled-by-regeneration/).
