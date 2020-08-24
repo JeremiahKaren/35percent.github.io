@@ -27,29 +27,19 @@ The total amount in the Relocation Fund is derisory in comparison to the Delance
 
 Several other parts of Southwark's statement stand out as being particularly inane;
 
-_For many smaller traders this is an opportunity to grow and develop their business._
+_'For many smaller traders this is an opportunity to grow and develop their business.'_
 
-There has never been true at any point since the demolition and redevelopment of the shopping centre was first proposed three years ago and it certainly is'nt now.
+There has never been true at any point since the redevelopment of the shopping centre was first proposed three years ago and it certainly is'nt now.
 
-_The council is committed to enabling the largest possible number of existing businesses to remain in the area_ 
+_'The council is committed to enabling the largest possible number of existing businesses to remain in the area'_ 
 
 If Southwark was genuinely committed to keeping the largest number of businesses in the area it would not have approved a planning application that did not guarantee this.  Southwark's planning department was happy to recommend for approval a scheme when it did not have one of the main relocation sites (Castle Square) and continued to recommend the scheme without a fully realised relocation strategy, which the planning committee duly approved.
 
-_Unfortunately there were always going to be traders that were not able to be offered a unit in
-the relocation spaces listed owing to space restrictions._
+_'Unfortunately there were always going to be traders that were not able to be offered a unit in
+the relocation spaces listed owing to space restrictions.'_
 
-This is true, but Southwark ignored the fact when Latin Elephant pointed it out in their objection to the Delancey planning application back in to 2018 [OR851].  In other words, the shortfall wasn't so unfortunate that it prevented Southwark from approving the application.  It is worth adding that Southwark, while fully aware that  _'Market stall operators may experience temporary or permanent closure or disruption to business operations, financial or other barriers to re-opening at the new development or in the wider area'_, they did not go out of their way to broadcast the fact and certainly not to the market traders. OR 169. 270618 
+This is only true because Delancey designed the redevelopment to be that way and Southwark went along with them.  Southwark ignored Latin Elephant's objection, from back in 2018, that _'Only 2,050sqm of affordable retail space would be available for immediate relocation, and 4,005sqm is needed'_ and approved the scheme anyway [OR851]. Southwark was also well aware that  _'Market stall operators may experience temporary or permanent closure or disruption to business operations, financial or other barriers to re-opening at the new development or in the wider area'_, but this did not lead them to seek improvements in the scheme or to insist on a fully realised relocation strategy, agreed with traders, before giving planning approval.[OR 169. 270618] 
 
-851. Only 2,050sqm of affordable retail space would be available for immediate relocation,
-and 4,005sqm is needed;
-
-
-235. It is not proposed that there would be an automatic right of return for existing businesses operating at the site, and this has been raised as a concern in public consultation responses....it is likely that some businesses will either cease trading on or before closure of the shopping centre, or relocate to other parts of the opportunity area, the borough, or beyond. OR 270618 - check s106
-
-This is not true.  
-## Credit to Southwark?
-
-Southwark's statement lists the various measures that mitigate the traders'plight somewhat, without saying that it was quite happy for the development to go ahead without most of them.  The relocation fund was in place, but there was no temporary premises at Castle Sq, no transition fund for unallocated traders and no Trader's Panel (and no real socail rented housing) when the planning application first went to planning committee, late 2017.  Delancey had made its opinion of the traders clear, saying _‘…some existing retailers in the area are benefitting from disproportionately low levels of rent for such a central London location and it may not be financially viable for them to survive in the wider area over the longer term’_.  Consequently Delancey did not intend to provide a relocation strategy, until after it got its planning permission.  Southwark were quite content with this and recommended the application for approval, nonetheless.  Concessions, such as Castle Sq, the £200,000 transition fund, the Traders panel (and real social rented housing) were only hard-won subsequently by the traders and campaigners, including some local councillors.
 
 ## Lost but not forgotten
 
@@ -69,3 +59,9 @@ There is now less than a month to go before the shopping centre closes.  ;
 
 Pay the unallocated traders the outstanding amounts of the Business Transition Grant immediately 
 Pay the allocated traders the money they need to fit-out their new premises immediately
+
+-------------------------------------------------------------------------------------------------------------
+
+## Credit to Southwark?
+
+Southwark's statement lists the various measures that mitigate the traders'plight somewhat, without saying that it was quite happy for the development to go ahead without most of them.  The relocation fund was in place, but there was no temporary premises at Castle Sq, no transition fund for unallocated traders and no Trader's Panel (and no real socail rented housing) when the planning application first went to planning committee, late 2017.  Delancey had made its opinion of the traders clear, saying _‘…some existing retailers in the area are benefitting from disproportionately low levels of rent for such a central London location and it may not be financially viable for them to survive in the wider area over the longer term’_.  Consequently Delancey did not intend to provide a relocation strategy, until after it got its planning permission.  Southwark were quite content with this and recommended the application for approval, nonetheless.  Concessions, such as Castle Sq, the £200,000 transition fund, the Traders panel (and real social rented housing) were only hard-won subsequently by the traders and campaigners, including some local councillors.
