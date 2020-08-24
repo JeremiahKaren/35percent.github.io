@@ -20,7 +20,7 @@ The poor support is compounded by the dilatory way that the relocation and trans
 
 ## Delancey's hardship fund
 
-On the funding front, Southwark's statement refers to the the fact that _'Delancey have long agreed to supplement the relocation fund on a case by case basis'_.  This turns out to be Delancey's hardship fund. Money from this is to be awarded entirely at Delancy's discretion and traders must first consider raising loans from family, friends or elsewhere, before making an application to the fund.  We presume that this is to ensure that only the deserving get the money - an alternative method would be to simply assess the actual costs of relocating and paying anything above the paltry amount currently on offer (Delancey has also offered the helpful advice that traders could become Uber drivers).
+On the funding front, Southwark's statement refers to the the fact that _'Delancey have long agreed to supplement the relocation fund on a case by case basis'_.  This turns out to be Delancey's hardship fund. This is to be awarded entirely at Delancy's discretion and traders must first consider raising loans from family, friends or elsewhere, before making an application.  We presume that this is to ensure that only the deserving get the money - an alternative method would be to simply assess the actual costs of relocating and paying anything above the paltry amount currently on offer (Delancey has also offered the helpful advice that traders could become Uber drivers).
 
 ## Statement highlights
 
