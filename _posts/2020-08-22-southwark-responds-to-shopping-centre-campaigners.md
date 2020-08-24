@@ -7,10 +7,9 @@ date: '2020-08-23'
 ---
  
 
-Southwark Council has issued a [lengthy statement](https://www.southwark.gov.uk/regeneration/elephant-and-castle?chapter=13) in defence of its treatment of the shopping centre traders, as around [40 face the loss of their livelihood](https://latinelephant.org/displaced-traders-with-no-relocation/#Sayed), according to research by local charity Latin Elephant, when the centre closes on 24 September.  
+Southwark Council has issued a [lengthy statement](https://www.southwark.gov.uk/regeneration/elephant-and-castle?chapter=13) in defence of its treatment of the shopping centre traders, as around [40 face the loss of their livelihood](https://latinelephant.org/displaced-traders-with-no-relocation/#Sayed), when the centre closes on 24 September, according to research by local charity Latin Elephant.  
 
-The statement says that 45 traders have been relocated, with 31 'remaining'.  These 'remaining' unallocated traders, with nowhere to go, have received £3000 each.  They will receive a second payment of an unspecified amount _'near the closure of the shopping centre'_ ; given the number of traders and the size of the transition fund (£200k) this is likely to be about another £3000.
-
+The statement says that 45 traders have been relocated, with 31 'remaining'.  These 'remaining' unallocated traders, with nowhere to go, have received £3000 each.  They will receive a second payment of an unspecified amount _'near the closure of the shopping centre'_ ; given the number of traders and the total size of the Business Transition Grant fund (£200k) this is likely to be about another £3000.
 
 Other than this the statement details various generic _'business support'_ measures, such as acccess to websites and databases and advice from _'independent business and relocation advisor'_ Tree Shepherd (remote access only).
 
@@ -20,6 +19,7 @@ The inadequacy of these _'business support'_ measures barely needs stating; if t
 
 The poor support is compounded by the dilatory way that the relocation and transition funds are being disbursed.  While Southwark says ' _the Relocation Fund (£647,835) has been available for eligible traders ...from February 2020_'  Southwark, Delancey and Tree Shepherd have shown no urgency in resolving issues around the costs of fit-outs, lease and rent arrangements and the logistics of moving.  Southwark says these as being _'currently'_ resolved, when there is not much more than a month to go before closure.  There is also no on-the-ground practical help, of the kind Tree Shepherd should be providing; this can be excused to an extent by the Covid crisis, but it does not help the traders.
 
+The amounts in each fund are modest to say the least, in comparison to the Delancey's anticipated profit of £148.4m (and Tree Shepherd's fee of £192,900).  Each relocation payment is based on the size of the new premises, but averaged out it would be just £14,396 to each of the 45 traders.  The payments are only designed to meet actual relocation costs - they do not include any compensation for loss of business, premises, disturbance etc. 
 
 
 
