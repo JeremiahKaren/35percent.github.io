@@ -9,22 +9,25 @@ date: '2020-08-23'
 
 Southwark Council has issued a [lengthy statement](https://www.southwark.gov.uk/regeneration/elephant-and-castle?chapter=13) in defence of its treatment of the shopping centre traders, as around [40 face the loss of their livelihood](https://latinelephant.org/displaced-traders-with-no-relocation/#Sayed), according to research by local charity Latin Elephant, when the centre closes on 24 September.  
 
-The substance of the statement is that 45 traders have been relocated, with 31 'remaining'.  These 'remaining' unallocated traders, with nowhere to go, have received £3000 each.  They will receive a second payment of an unspecified amount _'near the closure of the shopping centre'_ ; given the number of traders and the size of the transition fund (£200k) this is likely to be about another £3000.
+The statement says that 45 traders have been relocated, with 31 'remaining'.  These 'remaining' unallocated traders, with nowhere to go, have received £3000 each.  They will receive a second payment of an unspecified amount _'near the closure of the shopping centre'_ ; given the number of traders and the size of the transition fund (£200k) this is likely to be about another £3000.
+
 
 Other than this the statement details various generic _'business support'_ measures, such as acccess to websites and databases and advice from _'independent business and relocation advisor'_ Tree Shepherd (remote access only).
 
 The inadequacy of these _'business support'_ measures barely needs stating; if they were of any use nearly half of the remaining traders would not be without new premises.  Our webpage [E&C Traders with nowhere to go](http://35percent.org/traders-expelled-by-regeneration/) tells the stories 6 of the unallocated traders, who have been at the centre for between eight and 20 years each (a total of nearly a hundred years between them). They are all experienced traders who would otherwise be continuing in their trade, but for the regeneration.  They deserve something more than ineffectual promises of help, with a derisory £6000 to see them on their way, come 24 September.
 
-The poor support is compounded by the dilatory way that the relocation and transition funds are being disbursed and the lack of urgency shown by Southwark, Delancey and Tree Shepherd in resolving issues around the costs of fit-outs, lease and rent arrangements and the logistics of moving.  Southwark cites these as being _'currently'_ resolved, when there is not much more than a month to go before closure.  There is also no on-the-ground practical help, of the kind Tree Shepherd should be providing; this can be excused to an extent by the Covid crisis, but it does not help the traders.
+## The traders' funds
+
+The poor support is compounded by the dilatory way that the relocation and transition funds are being disbursed.  While Southwark says ' _the Relocation Fund (£647,835) has been available for eligible traders ...from February 2020_'  Southwark, Delancey and Tree Shepherd have shown no urgency in resolving issues around the costs of fit-outs, lease and rent arrangements and the logistics of moving.  Southwark says these as being _'currently'_ resolved, when there is not much more than a month to go before closure.  There is also no on-the-ground practical help, of the kind Tree Shepherd should be providing; this can be excused to an extent by the Covid crisis, but it does not help the traders.
 
 
-## Delancey's hardship fund
 
-On the funding front, Southwark's statement refers to the the fact that _'Delancey have long agreed to supplement the relocation fund on a case by case basis'_.  This turns out to be Delancey's hardship fund. This is to be awarded entirely at Delancy's discretion and traders must first consider raising loans from family, friends or elsewhere, before making an application.  We presume that this is to ensure that only the deserving get the money - an alternative method would be to simply assess the actual costs of relocating and paying anything above the paltry amount currently on offer (Delancey has also offered the helpful advice that traders could become Uber drivers).
+
+Also on the funding front, Southwark's statement refers to the the fact that _'Delancey have long agreed to supplement the relocation fund on a case by case basis'_.  This turns out to be Delancey's hardship fund. This is to be awarded entirely at Delancy's discretion and traders must first consider raising loans from family, friends or elsewhere, before making an application.  We presume that this is to ensure that only the deserving get the money - an alternative method would be to simply assess the actual costs of relocating and paying anything above the paltry amount currently on offer (Delancey has also offered the helpful advice that traders could become Uber drivers).
 
 ## Statement highlights
 
-Several other parts of Southwark's statements stand out, one in particular for its idiocy;
+Several other parts of Southwark's statement stand out, with one in particular being for ness;
 
 _For many smaller traders this is an opportunity to grow and develop their business._
 
