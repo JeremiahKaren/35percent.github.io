@@ -25,15 +25,15 @@ The total amount in the Relocation Fund is derisory in comparison to the Delance
 
 ## Statement highlights
 
-Several other parts of Southwark's statement stand out, with one being particularly inane;
+Several other parts of Southwark's statement stand out as being particularly inane;
 
 _For many smaller traders this is an opportunity to grow and develop their business._
 
-Even if we are being charitable, there cannot have been any point since the demolition and redevelopment of the shopping centre was first proposed three years ago when this was true; it certainly is not now.
+There has never been true at any point since the demolition and redevelopment of the shopping centre was first proposed three years ago and it certainly is'nt now.
 
 _The council is committed to enabling the largest possible number of existing businesses to remain in the area_ 
 
-This empty statement takes us to the heart of the problem.  If Southwark was genuinely committed to keeping the largest number of businesses in the area it would not have approved a planning application that did not guarantee that.  As we note above Southwark planning was happy to recommend approval for an application that did not have one of the main relocation sites (Castle Square) and no fully realised relocation strategy.
+If Southwark was genuinely committed to keeping the largest number of businesses in the area it would not have approved a planning application that did not guarantee this.  Southwark's planning department was happy to recommend for approval a scheme when it did not have one of the main relocation sites (Castle Square) and continued to recommend the scheme without a fully realised relocation strategy, which the planning committee duly approved.
 
 _Unfortunately there were always going to be traders that were not able to be offered a unit in
 the relocation spaces listed owing to space restrictions._
