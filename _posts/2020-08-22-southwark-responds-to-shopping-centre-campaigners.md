@@ -11,6 +11,8 @@ Southwark Council has issued a [lengthy statement](https://www.southwark.gov.uk/
 
 The statement says that 45 traders have been relocated, with 31 'remaining'.  These 'remaining' unallocated traders, with nowhere to go, have received £3000 each.  They will receive a second payment of an unspecified amount _'near the closure of the shopping centre'_ ; given the number of traders and the total size of the Business Transition Grant fund (£200k) this is likely to be about another £3000.
 
+Southwark also say that unallocated traders _'are able to claim from the relocation fund'_ but this will be of little use if they have no new premises.
+
 Other than this the statement details various generic _'business support'_ measures, such as acccess to websites and databases and advice from _'independent business and relocation advisor'_ Tree Shepherd (remote access only).
 
 The inadequacy of these _'business support'_ measures barely needs stating; if they were of any use nearly half of the remaining traders would not be without new premises.  Our webpage [E&C Traders with nowhere to go](http://35percent.org/traders-expelled-by-regeneration/) tells the stories 6 of the unallocated traders, who have been at the centre for between eight and 20 years each (a total of nearly a hundred years between them). They are all experienced traders who would otherwise be continuing in their trade, but for the regeneration.  They deserve something more than ineffectual promises of help, with a derisory £6000 to see them on their way, come 24 September.
