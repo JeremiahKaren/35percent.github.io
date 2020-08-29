@@ -43,7 +43,7 @@ This is only true because Delancey designed the redevelopment to be that way and
 
 ## Gone - but not forgotten
 
-While Southwark has been forced to turn its attention to the remaining traders, it would be easy to forget the traders, services and leisure amenities that have already been lost to the regeneration.  Latin Elephant/petit Elephant research shows that there were [130 traders in January 2018](https://latinelephant.org/map/); now we have about ninety left, with only about half reallocated.  Forty or so have already gone, and have fallen out of Southwark's reckoning, forced to leave, as footfall and business declined, wearied beyond hope by the whole 'regeneration' process.
+While Southwark has been forced to turn its attention to the remaining traders, it would be easy to forget the traders, services and leisure amenities that have already been lost to the regeneration.  Latin Elephant/petit Elephant research shows that there were [130 traders in January 2018](https://latinelephant.org/map/); now we have about ninety left, with [only about half reallocated](https://latinelephant.org/displaced-traders-with-no-relocation/#Sayed).  Forty or so have already gone, and have fallen out of Southwark's reckoning, forced to leave, as footfall and business declined, wearied beyond hope by the whole 'regeneration' process.
 
 Amongst these are the Palaces bingo hall, described as Britain's second largest, with its large customer base in the BAME community; the Palaces Bowling alley, much loved by local students; the Coronet cinema; the many small office businesses in Hannibal House, just above the centre.  In Southwark's happy reality they no longer exist and so their loss does not count.
 
