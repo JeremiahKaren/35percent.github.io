@@ -50,8 +50,9 @@ While Southwark has been forced to turn its attention to the remaining traders, 
 
 Amongst these are the [London Palace bingo hall](http://www.palacebingo.co.uk/london-palace/), one of Britain's largest, with its [large customer base in the BAME community](https://www.southwarknews.co.uk/news/demolition-elephant-castle-shopping-centre-bingo-hall-impact-bme-elderly-ladies-break-community/); the [Palace Superbowl](https://www.facebook.com/londonbowling/) bowling alley, much loved by local students; the [Coronet live music night-club](https://en.wikipedia.org/wiki/The_Coronet), an entertainment venue since 1872; the [Charlie Chaplin pub](https://www.youtube.com/watch?v=3S_S3ZNZYq8),  the many small office businesses in [Hannibal House](https://www.london-se1.co.uk/news/view/4703), just above the centre, which also housed a [college](https://www.london-se1.co.uk/news/view/7978), charities and voluntary organisations and the [United Voices of the World](https://www.uvwunion.org.uk/news/uvw-needs-new-home) trade union.  In Southwark's happy reality they no longer exist and so their loss does not count.
 
+The true story about the shopping centre redevelopment is the same as it was for the Heygate estate regeneration - Southwark Council has thrown its lot in with the developers, Lendlease and Delancey, and what happens to the people who actually live and work at the Elephant has been an afterthought.
 
-The true story about the shopping centre redevelopment is the same as it was for the Heygate estate regeneration - Southwark Council threw its lot in with the developers, Lendlease and Delancey, and what would happen the people who actually lived and worked at the Elephant has been an afterthought.
+
 
 
 [^1]: [Elephant and Castle Shopping Centre s106 Agreement](https://www.docdroid.net/wIuSC8m/shoppingcentres106-pdf) pg 113  
