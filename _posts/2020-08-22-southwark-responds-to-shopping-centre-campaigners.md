@@ -25,7 +25,7 @@ The total amount in the Relocation Fund is derisory in comparison to the Delance
 
 ## Statement highlights
 
-Several other parts of Southwark's statement stand out as being particularly inane;
+Several other parts of Southwark's statement stand out as particularly inane;
 
 _'For many smaller traders this is an opportunity to grow and develop their business.'_
 
