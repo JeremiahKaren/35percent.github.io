@@ -58,4 +58,4 @@ Pay the allocated traders the money they need to fit-out their new premises imme
 
 [^1]: [Elephant and Castle Shopping Centre s106 Agreement](https://www.docdroid.net/wIuSC8m/shoppingcentres106-pdf) pg 113  
 
-[^2]: [Elephant and Castle Shopping Centre s106 Agreement](https://www.docdroid.net/wIuSC8m/shoppingcentres106-pdf)
+[^2]: [Elephant and Castle Shopping Centre s106 Agreement](https://www.docdroid.net/wIuSC8m/shoppingcentres106-pdf) Appendix 10 pg 266
