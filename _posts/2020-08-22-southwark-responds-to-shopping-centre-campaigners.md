@@ -59,7 +59,7 @@ The true story about the shopping centre redevelopment is the same as it was for
 
 [^2]: [Elephant and Castle Shopping Centre s106 Agreement](https://www.docdroid.net/wIuSC8m/shoppingcentres106-pdf) Appendix 10 pg 266
 
-[^3]: [Delancey's view of the independant traders was made clear in their [Retail Statement](), which said '..‘…some existing retailers in the area are benefitting from disproportionately low levels of rent for such a central London location and it may not be financially viable for them to survive in the wider area over the longer term’.
+[^3]: Delancey's view of the independant traders was made clear in their [Planning Statement](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!LnbCaTCiMmUoN4H%2fUA2yyg%3d%3d!%7d%7d%7d), which says _‘…some existing retailers in the area are benefitting from disproportionately low levels of rent for such a central London location and it may not be financially viable for them to survive in the wider area over the longer term’_ para 8.7.
 
 [^4]: [Officer's Report Elephant and Castel Shopping Centre](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!HvOs1eG7BYgl0hYZ8SIm5w%3d%3d!%7d%7d%7d) 3 July 2018 para 851
 
