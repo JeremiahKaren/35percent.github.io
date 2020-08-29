@@ -33,7 +33,7 @@ There has never been true at any point since the redevelopment of the shopping c
 
 _'The council is committed to enabling the largest possible number of existing businesses to remain in the area'_ 
 
-If Southwark was genuinely committed to keeping the largest number of businesses in the area it would not have approved a planning application that did not guarantee this.  Southwark's planning department was happy to recommend for approval a scheme when it did not have one of the main relocation sites (Castle Square) and continued to recommend the scheme without a fully realised relocation strategy, which the planning committee duly approved [].
+If Southwark was genuinely committed to keeping the largest number of businesses in the area it would not have approved a planning application that did not guarantee this.  Southwark's planning department was happy to recommend for approval a scheme when it did not have one of the main relocation sites (Castle Square) and continued to recommend the scheme without a fully realised relocation strategy, which [the planning committee duly approved](http://moderngov.southwark.gov.uk/mgAi.aspx?ID=49413).
 
 _'Unfortunately there were always going to be traders that were not able to be offered a unit in
 the relocation spaces listed owing to space restrictions.'_
