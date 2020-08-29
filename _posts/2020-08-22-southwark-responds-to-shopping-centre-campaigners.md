@@ -19,9 +19,9 @@ The inadequacy of these _'business support'_ measures barely needs stating; if t
 
 While Southwark says _'the Relocation Fund (£647,835) has been available for eligible traders ...from February 2020'_ traders have not in fact been getting the money they need because Southwark, Delancey and Tree Shepherd have shown no urgency in resolving issues around the costs of fit-outs and lease and rent arrangements.  Southwark says these are being _'currently'_ resolved, when there is not much more than a month to go before closure.  There is also no on-the-ground practical help, of the kind Tree Shepherd should be providing.  This can be excused to an extent by the Covid crisis, but that does not help the traders.
 
-Each relocation payment will be based on the size of the new premises; an average out of £14,396 per trader - less than a tenth of Tree Shepherd's fee of £192,900 for administering the whole exercise [].  The payments are only designed to meet actual relocation costs - they do not include any compensation for loss of business, premises, disturbance etc.
+Each relocation payment will be based on the size of the new premises; an average out of £14,396 per trader - less than a tenth of Tree Shepherd's fee of £192,900 for administering the whole exercise [^1].  The payments are only designed to meet actual relocation costs - they do not include any compensation for loss of business, premises, disturbance etc.
 
-The total amount in the Relocation Fund is derisory in comparison to the Delancey's anticipated profit of £148.4m []. Southwark attempts to address this, saying _'Delancey have long agreed to supplement the relocation fund on a case by case basis'_.  This turns out to be Delancey's hardship fund, awarded entirely at Delancey's discretion and only after traders have first considered raising loans from family, friends or elsewhere.  Presumably this is to ensure that only the deserving get the money - an alternative method would be to simply assess the actual costs of relocating and paying anything above the paltry amount currently on offer (Delancey has also offered the helpful advice that traders could become Uber drivers).
+The total amount in the Relocation Fund is derisory in comparison to the Delancey's anticipated profit of £148.4m [^2]. Southwark attempts to address this, saying _'Delancey have long agreed to supplement the relocation fund on a case by case basis'_.  This turns out to be Delancey's hardship fund, awarded entirely at Delancey's discretion and only after traders have first considered raising loans from family, friends or elsewhere.  Presumably this is to ensure that only the deserving get the money - an alternative method would be to simply assess the actual costs of relocating and paying anything above the paltry amount currently on offer (Delancey has also offered the helpful advice that traders could become Uber drivers).
 
 ## Statement highlights
 
@@ -49,15 +49,13 @@ Amongst these are the Palaces bingo hall, described as Britain's second largest,
 
 The true story about the shopping centre redevelopment is the same as it was for the Heygate estate regeneration - Southwark Council threw its lot in with the developers, Lendlease and Delancey, and what would happen the people who actually lived and worked at the Elephant has been an afterthought.
 
-## Consultation
+## What Southwark must do
 
-Lack of Spanish language material. OR 849 270618
-
-What do Southwark need to do now
-
-There is now less than a month to go before the shopping centre closes.  ; 
+There is now less than a month to go before the shopping centre closes.  
 
 Pay the unallocated traders the outstanding amounts of the Business Transition Grant immediately 
 Pay the allocated traders the money they need to fit-out their new premises immediately
 
-  
+[^1]: [Elephant and Castle Shopping Centre s106 Agreement](https://www.docdroid.net/wIuSC8m/shoppingcentres106-pdf) pg 113  
+
+[^2]: [Elephant and Castle Shopping Centre s106 Agreement](https://www.docdroid.net/wIuSC8m/shoppingcentres106-pdf)
