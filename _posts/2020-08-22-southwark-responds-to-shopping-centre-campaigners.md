@@ -7,7 +7,7 @@ date: '2020-08-23'
 ---
  
 
-Southwark Council has posted a [lengthy statement](https://www.southwark.gov.uk/regeneration/elephant-and-castle?chapter=13) in defence of its treatment of the shopping centre traders, as around [40 face the loss of their livelihood](https://latinelephant.org/displaced-traders-with-no-relocation/#Sayed) when the centre closes on 24 September, according to research by local charity Latin Elephant.
+Southwark Council has posted a [lengthy statement](https://www.southwark.gov.uk/regeneration/elephant-and-castle?chapter=13) in defence of its treatment of the shopping centre traders, as around [40 face the loss of their livelihood](https://latinelephant.org/displaced-traders-with-no-relocation/#Sayed), when the centre closes on 24 September, according to research by local charity Latin Elephant.
 
 The updated statement tries to answer the fierce criticism of Southwark and developer Delancy from the traders and their supporters, as voiced on the [BBC Radio London's Drive time with Eddie Nestor](https://www.bbc.co.uk/sounds/play/p08pkr7b) programme.
 
