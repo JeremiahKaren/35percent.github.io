@@ -17,7 +17,7 @@ The inadequacy of these _'business support'_ measures barely needs stating; if t
 
 ## The Relocation Fund
 
-While Southwark says _'the Relocation Fund (£647,835) has been available for eligible traders ...from February 2020'_ traders have not in fact been getting the money they need because Southwark, Delancey and Tree Shepherd have shown no urgency in resolving issues around the costs of fit-outs and lease and rent arrangements.  Southwark says these are being _'currently'_ resolved, when there is not much more than a month to go before closure.  There is also no on-the-ground practical help, of the kind Tree Shepherd should be providing; this can be excused to an extent by the Covid crisis, but that does not help the traders.
+While Southwark says _'the Relocation Fund (£647,835) has been available for eligible traders ...from February 2020'_ traders have not in fact been getting the money they need because Southwark, Delancey and Tree Shepherd have shown no urgency in resolving issues around the costs of fit-outs and lease and rent arrangements.  Southwark says these are being _'currently'_ resolved, when there is not much more than a month to go before closure.  There is also no on-the-ground practical help, of the kind Tree Shepherd should be providing.  This can be excused to an extent by the Covid crisis, but that does not help the traders.
 
 Each relocation payment will be based on the size of the new premises; averaged out it would be £14,396 per trader - less than a tenth of Tree Shepherd's fee of £192,900 for administering the whole exercise.  The payments are only designed to meet actual relocation costs - they do not include any compensation for loss of business, premises, disturbance etc.
 
