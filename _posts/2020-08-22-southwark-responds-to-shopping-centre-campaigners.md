@@ -40,6 +40,8 @@ If Southwark was genuinely committed to keeping the largest number of businesses
 Southwark further say, _'Unfortunately there were always going to be traders that were not able to be offered a unit in
 the relocation spaces listed owing to space restrictions.'_
 
+This is not what Southwark said back in December 2018.  The question was raised at the planning meeting for the temporary relocation facility at Castle Square. When asked directly by councillors 'given all the different site...does that cover...enough sites for all the current number of traders.....How many short would we be roughly?' council officers replied '...across the piste there should be sufficient'.
+
 This is only true because Delancey designed the redevelopment to be that way and Southwark went along with them.  Southwark ignored Latin Elephant's objection, from back in 2018, that [ _'Only 2,050sqm of affordable retail space would be available for immediate relocation, and 4,005sqm is needed'_ ](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!HvOs1eG7BYgl0hYZ8SIm5w%3d%3d!%7d%7d%7d) and approved the scheme anyway [^3]. Southwark was also well aware that [ _'Market stall operators may experience temporary or permanent closure or disruption to business operations, financial or other barriers to re-opening at the new development or in the wider area'_  ,](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!HvOs1eG7BYgl0hYZ8SIm5w%3d%3d!%7d%7d%7d) but this did not lead them to seek improvements in the scheme or to insist on a fully realised relocation strategy, agreed with traders, before giving planning approval [^4].
 
 
