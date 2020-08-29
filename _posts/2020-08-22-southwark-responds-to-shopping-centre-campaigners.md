@@ -31,7 +31,7 @@ Several other parts of Southwark's statement stand out, one for being particular
 
 _'For many smaller traders this is an opportunity to grow and develop their business.'_
 
-There has never been true at any point since the redevelopment of the shopping centre was first proposed three years ago and it certainly is'nt now.
+There has never been true at any point since the redevelopment of the shopping centre was first proposed three years ago and it certainly isn't now.
 
 Southwark also claim that _'The council is committed to enabling the largest possible number of existing businesses to remain in the area'_ .
 
