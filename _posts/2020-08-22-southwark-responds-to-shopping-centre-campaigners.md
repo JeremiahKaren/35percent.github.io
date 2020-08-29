@@ -25,7 +25,7 @@ Each relocation payment will be based on the size of the new premise, but averag
 
 The total amount in the Relocation Fund is derisory in comparison to the Delancey's anticipated profit of £148.4m [^2]. Southwark attempts to address this, saying _'Delancey have long agreed to supplement the relocation fund on a case by case basis'_.  This turns out to be Delancey's hardship fund, awarded entirely at Delancey's discretion and only after traders have first considered raising loans from family, friends or elsewhere.  An alternative method would be to simply assess the actual costs of relocating and paying anything above the paltry amount currently on offer. Delancey has also helpfully advised that traders could become Uber drivers.
 
-## Statement highlights
+## Southwark's statement - the highlights
 
 Several other parts of Southwark's statement stand out, one for being particularly inane;
 
