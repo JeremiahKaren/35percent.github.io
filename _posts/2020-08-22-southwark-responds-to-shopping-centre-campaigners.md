@@ -9,7 +9,7 @@ date: '2020-08-23'
 
 Southwark Council has posted a [lengthy statement](https://www.southwark.gov.uk/regeneration/elephant-and-castle?chapter=13) in defence of its treatment of the shopping centre traders, as around [40 face the loss of their livelihood](https://latinelephant.org/displaced-traders-with-no-relocation/#Sayed), when the centre closes on 24 September, according to research by local charity Latin Elephant.
 
-The updated statement tries to answer the fierce criticism of Southwark and developer Delancy from the traders and their supporters, as voiced on the [BBC Radio London's Drive time with Eddie Nestor](https://www.bbc.co.uk/sounds/play/p08pkr7b) programme.
+The updated statement tries to answer the fierce criticism of Southwark and developer Delancy from the traders and their supporters, as voiced on the [BBC Radio London's Drive time with Eddie Nestor](https://www.bbc.co.uk/sounds/play/p08pkr7b) programme and detailed in [Latin Elephant's twitter feed](https://twitter.com/LatinElephant?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor).
 
 Southwark's statement says that 45 traders have been relocated, with 31 'remaining'.  These 'remaining' unallocated traders, [with nowhere to go](https://twitter.com/LatinElephant), have received £3000 each from the Business Transition Grant.  They will receive a second payment of an unspecified amount _'near the closure of the shopping centre'_ ;  given the number of traders and the total size of the Business Transition Grant fund (£200k) this is likely to be about another £3000.  Southwark also say that unallocated traders _'are able to claim from the relocation fund'_ , but this will be of little use to them if they have nowhere to relocate to.
 
