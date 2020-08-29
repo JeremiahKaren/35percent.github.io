@@ -35,14 +35,14 @@ There has never been true at any point since the redevelopment of the shopping c
 
 Southwark also claim that _'The council is committed to enabling the largest possible number of existing businesses to remain in the area'_ .
 
-If Southwark was genuinely committed to keeping the largest number of businesses in the area it would not have approved a planning application that did not guarantee this.  Southwark's planning department was happy to recommend for approval a scheme when it did not have one of the main relocation sites (Castle Square) and continued to recommend the scheme without a fully realised relocation strategy, which [the planning committee duly approved](http://moderngov.southwark.gov.uk/mgAi.aspx?ID=49413). Delancey designed the redevelopment to exclude independant traders and Southwark went along with them [].  
+If Southwark was genuinely committed to keeping the largest number of businesses in the area it would not have approved a planning application that did not guarantee this.  Southwark's planning department was happy to recommend for approval a scheme when it did not have one of the main relocation sites (Castle Square) and continued to recommend the scheme without a fully realised relocation strategy, which [the planning committee duly approved](http://moderngov.southwark.gov.uk/mgAi.aspx?ID=49413). Delancey designed the redevelopment to exclude current independant traders and Southwark went along with them [^3].  
 
 Southwark's statement further says, _'Unfortunately there were always going to be traders that were not able to be offered a unit in
 the relocation spaces listed owing to space restrictions.'_
 
 This is not what Southwark said back in December 2018, when the question was raised at the planning meeting for the temporary relocation facility at Castle Square. When asked directly by councillors [_'given all the different site...does that cover...enough sites for all the current number of traders.....How many short would we be roughly?'_](https://twitter.com/elephant_petit/status/1081278395504197633) council officers replied [ _'...across the piste there should be sufficient'_](https://twitter.com/elephant_petit/status/1081278395504197633).
 
-Southwark ignored the true state of affairs, revealed by Latin Elephant's planning objection in July 2018, which said [ _'Only 2,050sqm of affordable retail space would be available for immediate relocation, and 4,005sqm is needed'_ ](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!HvOs1eG7BYgl0hYZ8SIm5w%3d%3d!%7d%7d%7d) and approved the scheme anyway [^3]. Southwark was also well aware that [ _'Market stall operators may experience temporary or permanent closure or disruption to business operations, financial or other barriers to re-opening at the new development or in the wider area'_  ,](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!HvOs1eG7BYgl0hYZ8SIm5w%3d%3d!%7d%7d%7d) but this did not lead them to seek improvements in the scheme or to insist on a fully realised relocation strategy, agreed with traders, before giving planning approval [^4].
+Southwark ignored the true state of affairs, revealed by Latin Elephant's planning objection in July 2018, which said [ _'Only 2,050sqm of affordable retail space would be available for immediate relocation, and 4,005sqm is needed'_ ](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!HvOs1eG7BYgl0hYZ8SIm5w%3d%3d!%7d%7d%7d) and approved the scheme anyway [^4]. Southwark was also well aware that [ _'Market stall operators may experience temporary or permanent closure or disruption to business operations, financial or other barriers to re-opening at the new development or in the wider area'_  ,](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!HvOs1eG7BYgl0hYZ8SIm5w%3d%3d!%7d%7d%7d) but this did not lead them to seek improvements in the scheme or to insist on a fully realised relocation strategy, agreed with traders, before giving planning approval [^5].
 
 ## Gone - but not forgotten
 
@@ -63,6 +63,8 @@ This is oviously not a solution to the traders' plight, but it
 
 [^2]: [Elephant and Castle Shopping Centre s106 Agreement](https://www.docdroid.net/wIuSC8m/shoppingcentres106-pdf) Appendix 10 pg 266
 
-[^3]: [Officer's Report Elephant and Castel Shopping Centre](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!HvOs1eG7BYgl0hYZ8SIm5w%3d%3d!%7d%7d%7d) 3 July 2018 para 851
+[^3]: [Delancey's view of the independant traders was made clear in their [Retail Statement](), which said '..‘…some existing retailers in the area are benefitting from disproportionately low levels of rent for such a central London location and it may not be financially viable for them to survive in the wider area over the longer term’.
 
-[^4]: [Officer's Report Elephant and Castel Shopping Centre](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!HvOs1eG7BYgl0hYZ8SIm5w%3d%3d!%7d%7d%7d) 3 July 2018 para 169
+[^4]: [Officer's Report Elephant and Castel Shopping Centre](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!HvOs1eG7BYgl0hYZ8SIm5w%3d%3d!%7d%7d%7d) 3 July 2018 para 851
+
+[^5]: [Officer's Report Elephant and Castel Shopping Centre](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!HvOs1eG7BYgl0hYZ8SIm5w%3d%3d!%7d%7d%7d) 3 July 2018 para 169
