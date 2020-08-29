@@ -52,11 +52,11 @@ Amongst these are the [London Palace bingo hall](http://www.palacebingo.co.uk/lo
 
 The true story about the shopping centre redevelopment is the same as it was for the Heygate estate regeneration - Southwark Council threw its lot in with the developers, Lendlease and Delancey, and what would happen the people who actually lived and worked at the Elephant has been an afterthought.
 
-## What Southwark must do
+## What Southwark must do now.
 
 With less than a month to go before the shopping centre closes Southwark must pay the unallocated traders the outstanding amounts of the Business Transition Grant and the allocated traders the money they need to fit-out their new premises and this needs to be done immediately.
 
-The traders and thier supporters have not been idle 
+This is oviously not a solution to the traders' plight, but it  
 
 [^1]: [Elephant and Castle Shopping Centre s106 Agreement](https://www.docdroid.net/wIuSC8m/shoppingcentres106-pdf) pg 113  
 
