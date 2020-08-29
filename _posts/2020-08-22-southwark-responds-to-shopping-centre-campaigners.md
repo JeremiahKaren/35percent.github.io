@@ -38,7 +38,7 @@ If Southwark was genuinely committed to keeping the largest number of businesses
 Southwark further say, _'Unfortunately there were always going to be traders that were not able to be offered a unit in
 the relocation spaces listed owing to space restrictions.'_
 
-This is only true because Delancey designed the redevelopment to be that way and Southwark went along with them.  Southwark ignored Latin Elephant's objection, from back in 2018, that [ _'Only 2,050sqm of affordable retail space would be available for immediate relocation, and 4,005sqm is needed'_ ](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!HvOs1eG7BYgl0hYZ8SIm5w%3d%3d!%7d%7d%7d) and approved the scheme anyway [^3]. Southwark was also well aware that [ _'Market stall operators may experience temporary or permanent closure or disruption to business operations, financial or other barriers to re-opening at the new development or in the wider area'_  ,](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!HvOs1eG7BYgl0hYZ8SIm5w%3d%3d!%7d%7d%7d) but this did not lead them to seek improvements in the scheme or to insist on a fully realised relocation strategy, agreed with traders, before giving planning approval.[OR 169. 270618] 
+This is only true because Delancey designed the redevelopment to be that way and Southwark went along with them.  Southwark ignored Latin Elephant's objection, from back in 2018, that [ _'Only 2,050sqm of affordable retail space would be available for immediate relocation, and 4,005sqm is needed'_ ](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!HvOs1eG7BYgl0hYZ8SIm5w%3d%3d!%7d%7d%7d) and approved the scheme anyway [^3]. Southwark was also well aware that [ _'Market stall operators may experience temporary or permanent closure or disruption to business operations, financial or other barriers to re-opening at the new development or in the wider area'_  ,](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!HvOs1eG7BYgl0hYZ8SIm5w%3d%3d!%7d%7d%7d) but this did not lead them to seek improvements in the scheme or to insist on a fully realised relocation strategy, agreed with traders, before giving planning approval [^4].
 
 
 ## Gone - but not forgotten
@@ -61,3 +61,5 @@ Pay the allocated traders the money they need to fit-out their new premises imme
 [^2]: [Elephant and Castle Shopping Centre s106 Agreement](https://www.docdroid.net/wIuSC8m/shoppingcentres106-pdf) Appendix 10 pg 266
 
 [^3]: [Officer's Report Elephant and Castel Shopping Centre](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!HvOs1eG7BYgl0hYZ8SIm5w%3d%3d!%7d%7d%7d) 3 July 2018 para 851
+
+[^4]: [Officer's Report Elephant and Castel Shopping Centre](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!HvOs1eG7BYgl0hYZ8SIm5w%3d%3d!%7d%7d%7d) 3 July 2018 para 169
