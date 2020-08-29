@@ -15,7 +15,7 @@ Southwark's statement says that 45 traders have been relocated, with 33 'remaini
 
 Other than this the statement details various generic _'business support'_ measures, such as acccess to websites and databases and advice from _'independent business and relocation advisor'_ Tree Shepherd (remote access only).
 
-The inadequacy of these _'business support'_ measures barely needs stating; if they were of any use nearly half of the remaining traders would not be without new premises.  Our webpage [E&C Traders with nowhere to go](http://35percent.org/traders-expelled-by-regeneration/) tells the stories of six unallocated traders, who have been at the centre for between eight and 20 years each (a total of nearly a hundred years between them). They are all experienced traders who would otherwise be continuing in their trade, but for the regeneration.  They deserve something more than ineffectual promises of help, with a derisory £6000 to see them on their way, come 24 September.
+The inadequacy of these _'business support'_ measures barely needs stating; if they were of any use nearly half of the remaining traders would not be without new premises.  Our webpage [E&C Traders with nowhere to go](http://35percent.org/traders-expelled-by-regeneration/) has the testimonies of six unallocated traders, who have been at the centre for between eight and 20 years each (a total of nearly a hundred years between them). They are all experienced traders who would otherwise be continuing in their trade, but for the regeneration.  They deserve something more than ineffectual promises of help, with a derisory £6000 to see them on their way, come 24 September.
 
 ## The Relocation Fund
 
