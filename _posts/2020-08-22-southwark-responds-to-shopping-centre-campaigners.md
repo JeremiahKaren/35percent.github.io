@@ -1,13 +1,14 @@
 ---
 layout: post
-published: false
+published: true
 title: southwark-responds-to-shopping-centre-campaigners
 subtitle: Council put on defensive by fierce criticism
-date: '2020-08-23'
+date: '2020-08-31'
 ---
  
-
 Southwark Council has posted a [lengthy statement](https://www.southwark.gov.uk/regeneration/elephant-and-castle?chapter=13) in defence of its treatment of the shopping centre traders, as around [40 face the loss of their livelihood](https://latinelephant.org/displaced-traders-with-no-relocation/#Sayed), when the centre closes on 24 September, according to research by local charity Latin Elephant.
+
+![](http://35percent.org/img/traderscompunallocated.png)
 
 The updated statement tries to answer the fierce criticism of Southwark and developer Delancey from the traders and their supporters, as voiced on the [BBC Radio London's Drive time with Eddie Nestor](https://www.bbc.co.uk/sounds/play/p08pkr7b) programme and detailed in [Latin Elephant's twitter feed](https://twitter.com/LatinElephant?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor).
 
