@@ -43,6 +43,8 @@ the relocation spaces listed owing to space restrictions.'_
 
 This is not what Southwark said back in December 2018, when the question was raised at the planning meeting for the temporary relocation facility at Castle Square. When asked directly by councillors [_'given all of the different site...does that cover...enough sites for all of the current number of traders.....How many short would we be roughly?'_](https://twitter.com/elephant_petit/status/1081278395504197633) council officers replied [ _'...across the piste there should be sufficient'_](https://twitter.com/elephant_petit/status/1081278395504197633).
 
+![](http://35percent.org/img/boxpar3.jpeg)
+
 Southwark ignored the true state of affairs, revealed by Latin Elephant's planning objection in July 2018, which said [ _'Only 2,050sqm of affordable retail space would be available for immediate relocation, and 4,005sqm is needed'_ ](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!HvOs1eG7BYgl0hYZ8SIm5w%3d%3d!%7d%7d%7d) and approved the scheme anyway [^4]. Southwark was also well aware that [ _'Market stall operators may experience temporary or permanent closure or disruption to business operations, financial or other barriers to re-opening at the new development or in the wider area'_  ,](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!HvOs1eG7BYgl0hYZ8SIm5w%3d%3d!%7d%7d%7d) but this did not lead them to seek improvements in the scheme or to insist on a fully realised relocation strategy, agreed with traders, before giving planning approval [^5].
 
 ## Gone - but not forgotten
@@ -54,7 +56,7 @@ Amongst these are the [London Palace bingo hall](http://www.palacebingo.co.uk/lo
 The true story about the shopping centre redevelopment is the same as it was for the [Heygate estate regeneration](https://crappistmartin.github.io/heygate-regeneration-faq/) - Southwark Council has thrown its lot in with the developers, Lendlease and Delancey, and what happens to the people who actually live and work at the Elephant has been an afterthought.
 
 
-
+__Footnotes:__
 
 [^1]: [Elephant and Castle Shopping Centre s106 Agreement](https://www.docdroid.net/wIuSC8m/shoppingcentres106-pdf) pg 113  
 
