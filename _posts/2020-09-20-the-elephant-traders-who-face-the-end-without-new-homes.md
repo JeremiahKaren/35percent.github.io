@@ -45,7 +45,4 @@ Southwark and Delancey’s treatment of the people who actually work at the Elep
 
 For Southwark and Delancey this is all part of the natural process of regeneration and relocating just 40 out of 130 traders is a triumph to be proud of.  For the traders and the campaigners who support them it is deplorable outcome which exposes the hollow promise that the Elephant and Castle regeneration is one that benefits the local community.
 
-[^1:] See [joint statement](https://elephantandcastletowncentre.co.uk/news/elephant-and-castle-town-centre-relocation-correcting-the-misinformation-and-providing-the-facts/), heading 'Who is being relocated?', first bullet point.
-
-
-
+[^1]: See [joint statement](https://elephantandcastletowncentre.co.uk/news/elephant-and-castle-town-centre-relocation-correcting-the-misinformation-and-providing-the-facts/), heading 'Who is being relocated?', first bullet point.
