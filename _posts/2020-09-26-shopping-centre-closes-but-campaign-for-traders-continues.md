@@ -36,3 +36,5 @@ also covers the rebuttal of Southwark Council and Delancey claims that nearly al
 
 ## The Mayor responds to traders’ proposal
 
+A day before the centre’s closure Mayor Sadiq Khan [responded](https://twitter.com/se1/status/1308803401757659136/photo/1) to  the [traders proposal to the Mayor for new market stalls at the Elephant](http://35percent.org/2020-09-14-shopping-centre-traders-propose-new-stalls-for-the-elephant/) to accommodate traders who have not been allocated new premises.
+
