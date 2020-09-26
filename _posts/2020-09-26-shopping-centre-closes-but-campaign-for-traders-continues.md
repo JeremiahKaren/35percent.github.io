@@ -38,3 +38,13 @@ also covers the rebuttal of Southwark Council and Delancey claims that nearly al
 
 A day before the centre’s closure Mayor Sadiq Khan [responded](https://twitter.com/se1/status/1308803401757659136/photo/1) to  the [traders proposal to the Mayor for new market stalls at the Elephant](http://35percent.org/2020-09-14-shopping-centre-traders-propose-new-stalls-for-the-elephant/) to accommodate traders who have not been allocated new premises.
 
+[Southwark News](https://www.southwarknews.co.uk/news/traders-appeal-for-new-market-stalls-in-last-ditch-attempt-to-save-businesses-before-shopping-centre-closes/) and [The South London Press](https://londonnewsonline.co.uk/london-mayor-sadiq-khan-welcomes-plans-for-a-new-market-for-elephant-and-castle-shopping-centre-traders-as-historic-market-closes-after-more-than-half-a-century/) highlighted the response. The Mayor, quoted in the SLP, says ‘It is disappointing that a number of small businesses still don’t have the certainty they need….in general I would welcome any workable solution that would provide these businesses with the space they need to trade’ while cautioning that the traders’ proposal ‘would be subject to various planning and licensing consents’ making it ‘not appropriate’ to comment on the specific plans being presented.
+
+It is supported by [Florence Eshalomi](https://twitter.com/FloEshalomi/status/1306540256578203648)MP, London Assembly member for Lambeth and Southwark, local councillor [Cllr Maria Linforth-Hall](https://twitter.com/mariaadderley?lang=en) and London Assembly members [Caroline Pidgeon](https://twitter.com/CarolinePidgeon/status/1306979203066327043/photo/1)and [Sian Berry](https://twitter.com/sianberry), the Green Party candidate for Mayor.  The [Camberwell and Peckham Labour Party Constituency Party](https://twitter.com/cambpecklab) also passed a motion in support of the traders’ Proposal at their meeting last week.
+
+The traders and their supporters will now be building on this support to get new market stalls and kiosks for those traders without new premises and repair some of the damage done to their businesses and livelihoods, by the centre closure.
+
+
+
+
+
