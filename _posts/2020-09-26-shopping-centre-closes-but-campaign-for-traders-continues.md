@@ -29,3 +29,10 @@ _‘If today we can say that some traders have been relocated, it is because the
 
 Emad said -  _‘I am so proud of my community.  I am proud that my community stuck together – whatever nationality ... we all speak the same language, the language of love, and sticking together as one. That's the lesson we want to teach our kids.’_
 
+[The Guardian](https://www.theguardian.com/commentisfree/2020/sep/24/developers-ruining-cities-elephant-and-castle-london) noted ‘the shadow of decades of underinvestment’ and commented ‘rarely has a managed decline been so obvious, or so long-winded’ and says ‘you don’t need to love the shopping centre as it is right now (or at all), or worry about what happens after its demolition to the meeting places, public spaces and social bonds it offers, …. to raise questions about who must leave and who can stay, when the developers arrive in town’.
+
+[Southwark News](https://www.southwarknews.co.uk/news/traders-appeal-for-new-market-stalls-in-last-ditch-attempt-to-save-businesses-before-shopping-centre-closes/)
+also covers the rebuttal of Southwark Council and Delancey claims that nearly all traders have been satisfactorily relocated.  It quotes Latin Elephant, which has [profiled those turned down for new premises or unable to find appropriate space](https://www.southwarknews.co.uk/news/nearly-30-elephant-and-castle-traders-rejected-for-delancey-relocation-units/),  and who say ‘Our research has been widely documented, and it was carried out independently with an effort to enforce transparency and accountability.  This has been discussed several times with Southwark Council and Delancey.  It is unacceptable to see the closure of the Shopping Centre with many traders still without relocation, so we will continue our advocacy work in a constructive way to support the local community.’
+
+## The Mayor responds to traders’ proposal
+
