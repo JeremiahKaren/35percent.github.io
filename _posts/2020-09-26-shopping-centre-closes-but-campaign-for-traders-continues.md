@@ -18,3 +18,14 @@ A large protest organised by the [Up the Elephant campaign](https://twitter.com/
 ## What the Papers say…
 
 There was extensive press and media coverage of the closure and protest, including articles on the [SE1 website](https://www.london-se1.co.uk/news/view/10407), [Southwark News](https://www.southwarknews.co.uk/news/traders-appeal-for-new-market-stalls-in-last-ditch-attempt-to-save-businesses-before-shopping-centre-closes/) [South London Press](https://londonnewsonline.co.uk/london-mayor-sadiq-khan-welcomes-plans-for-a-new-market-for-elephant-and-castle-shopping-centre-traders-as-historic-market-closes-after-more-than-half-a-century/), [South West Londoner](https://www.swlondoner.co.uk/news/19092020-elephant-and-castle-traders-speak-ahead-of-shopping-centres-demolition/), [Morning Star](https://morningstaronline.co.uk/article/b/elephant-and-castle-shopping-centre-closes-doors-good-0), [The Guardian](https://www.theguardian.com/uk-news/2020/sep/24/were-going-to-miss-the-community-elephant-and-castle-shopping-centre-closes-after-55-years?CMP=share_btn_tw) (and [here](https://www.theguardian.com/commentisfree/2020/sep/24/developers-ruining-cities-elephant-and-castle-london)), [the Justice Gap](https://londonnewsonline.co.uk/london-mayor-sadiq-khan-welcomes-plans-for-a-new-market-for-elephant-and-castle-shopping-centre-traders-as-historic-market-closes-after-more-than-half-a-century/), the Spanish language [Express News UK](https://twitter.com/ExpNewsUK/status/1309329889481424896/photo/1) (and [here]( https://twitter.com/ExpNewsUK/status/1309107760479571971/photo/1)) and the BBC’s [Drivetime with Eddie Nestor](https://twitter.com/UpTheElephant_/status/1309258295048314880).
+
+Amongst the comments from protest speakers highlighted in [SE1 website](https://www.london-se1.co.uk/news/view/10407)were from Patria Roman from [Latin Elephant](https://latinelephant.org/), a mainstay of the campaign, and trader Emad Megahed.
+
+Patria expressed her sadness at the closure of the shopping centre but noted that campaigning efforts had yielded improvements in the support provided by developers and the council to local traders.
+
+_‘I am incredibly proud of all we achieved,’_ she said. 
+
+_‘If today we can say that some traders have been relocated, it is because the campaigners fought fiercely. Everything they have is because campaigners fought for it. Nothing came for free.’_
+
+Emad said -  _‘I am so proud of my community.  I am proud that my community stuck together – whatever nationality ... we all speak the same language, the language of love, and sticking together as one. That's the lesson we want to teach our kids.’_
+
