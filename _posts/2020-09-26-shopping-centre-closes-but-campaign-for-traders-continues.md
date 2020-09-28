@@ -5,7 +5,7 @@ title: 'Shopping Centre closes, but campaign for traders continues'
 subtitle: Protesters mark the final day for Elephant shopping centre
 date: 2020/09/26
 ---
-The closure of the Elephant and Castle shopping centre last Thursday was [marked by protest](https://twitter.com/UpTheElephant), impassioned speeches and [widespread media coverage](https://docdro.id/thWuAyH).  The centre closed after 55 years’ service to the local community and is now set to be demolished, to make way for a new retail, leisure and residential complex.  Shopping centre owner, Delancey, leads the development partnership behind the new scheme.
+The closure of the Elephant and Castle shopping centre last Thursday was [marked by protest](https://twitter.com/UpTheElephant_?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor), impassioned speeches and [widespread media coverage](https://docdro.id/thWuAyH).  The centre closed after 55 years’ service to the local community and is now set to be demolished, to make way for a new retail, leisure and residential complex.  Shopping centre owner, Delancey, leads the development partnership behind the new scheme.
 
 While the centre’s major stores had gradually left over the previous months, many of the independent businesses were trading up to the final day.  The closure also brought the end for the market which occupied the centre’s ‘moat’, which numbered around [60 stalls just under 2 years ago](https://pbs.twimg.com/media/DwEQ6HqW0AEbC6W.jpg) when Southwark’s planning committee first considered developer Delancey’s proposals for the centre’s redevelopment.
 
@@ -53,8 +53,3 @@ A day before the centre’s closure Mayor Sadiq Khan [responded](https://twitter
 The traders' proposal is supported by [Florence Eshalomi](https://twitter.com/FloEshalomi/status/1306540256578203648) MP, London Assembly member for Lambeth and Southwark, local councillor [Maria Linforth-Hall](https://twitter.com/mariaadderley?lang=en) and London Assembly members [Caroline Pidgeon](https://twitter.com/CarolinePidgeon/status/1306979203066327043/photo/1) and [Sian Berry](https://twitter.com/sianberry), the Green Party candidate for Mayor.  The [Camberwell and Peckham Labour Party Constituency Party](https://twitter.com/cambpecklab) also passed a motion in support of the traders’ Proposal at their meeting last week.
 
 The traders and their supporters will now be building on this support to get new market stalls and kiosks for those traders without new premises and repair some of the damage done to their businesses and livelihoods, by the centre closure.
-
-
-
-
-
