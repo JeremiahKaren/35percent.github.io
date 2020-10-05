@@ -17,7 +17,7 @@ There should also be at least 20% family housing of 3, 4, 5-beds in major develo
 
 Pocket Living, however, want to make up their own rules.  Their sites are small and it wishes to maximise the number of homes built, so they are all one -bed/one person units, [though 10% of their occupants are couples](https://planning.southwark.gov.uk/online-applications/files/49DC49BD88B13B7B1434CD39C64C23BC/pdf/20_AP_0009-DESIGN_AND_ACCESS_STATEMENT_PART_1-830493.pdf) (pg 9 D&A statement), with most units [barely above the minimum size](http://moderngov.southwark.gov.uk/documents/s90901/Report%202-10%20OSSORY%20ROAD%20LONDON%20SE1%205PA.pdf) allowed (37 sq metres) (OR Table pg 42).
 
-The amount of open and amenity space for occupants is also squeezed.  There should be 1,050 sqm private amenity space, Pocket are providing a miniscule 42 sqm.  Developers can compensate for a lack of private space with more communal space, but Pocket falls well short here, too, providing [less than half the amount](http://moderngov.southwark.gov.uk/documents/s90901/Report%202-10%20OSSORY%20ROAD%20LONDON%20SE1%205PA.pdf) required (506 sqm instead of 1,058 sqm; OR 133,134).
+The amount of open and amenity space for occupants is also squeezed.  In a development of this size there should be 1,050 sqm private amenity space, Pocket are providing a miniscule 42 sqm.  Developers can compensate for a lack of private space with more communal space, but Pocket falls well short here, too, providing [less than half the amount](http://moderngov.southwark.gov.uk/documents/s90901/Report%202-10%20OSSORY%20ROAD%20LONDON%20SE1%205PA.pdf) required (506 sqm instead of 1,058 sqm; OR 133,134).
 
 ## Not that affordable
 
