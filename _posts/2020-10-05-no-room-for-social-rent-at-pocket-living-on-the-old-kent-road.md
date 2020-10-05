@@ -27,7 +27,7 @@ Buying a decent home in London is undoubtedly hard for the young professionals P
 
 ## Density and un-exemplary design
 
-Unsurprisingly, given Pocket’s ambitions to maximise the number of units, they are proposing a scheme which is [twice the density](http://moderngov.southwark.gov.uk/documents/s90901/Report%202-10%20OSSORY%20ROAD%20LONDON%20SE1%205PA.pdf) it should be (OR 118), (at 2,333 habitable rooms per hectare against a maximum allowed of 1,100 hrph), justified on the basis of exemplary design.  However, many of the measures for ‘exemplary’ design are not met – it does not have enough amenity space, there is no ‘predominance’ of dual aspect flats, it does not have any 2-bed or more flats, and the flats do not ‘significantly exceed minimum floor-space standards’ (OR 119).
+Unsurprisingly, given Pocket’s ambitions to maximise the number of units, they are proposing a scheme which is [twice the density](http://moderngov.southwark.gov.uk/documents/s90901/Report%202-10%20OSSORY%20ROAD%20LONDON%20SE1%205PA.pdf) it should be (OR 118), (at 2,333 habitable rooms per hectare against a maximum allowed of 1,100 hrph), justified on the basis of exemplary design.  However, many of the measures for _‘exemplary’_ design are not met – it does not have enough amenity space, there is no _‘predominance’_ of dual aspect flats, it does not have any 2-bed or more flats, and the flats do not _‘significantly exceed minimum floor-space standards’_ (OR 119).
 
 ## Equality not a great consideration
 
