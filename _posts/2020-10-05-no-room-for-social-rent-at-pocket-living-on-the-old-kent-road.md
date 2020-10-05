@@ -52,9 +52,9 @@ You can find the [35% Campaign objection to this development here](https://plann
 
   [^1]: Southwark's [Core Strategy](https://www.southwark.gov.uk/assets/attach/1675/1.0.2-DL-Core_Strategy_2011.pdf) Strategic Policy 7 - Family homes, pg 86
   
-  [^2]: [Officer Report](http://moderngov.southwark.gov.uk/documents/s90901/Report%202-10%20OSSORY%20ROAD%20LONDON%20SE1%205PA.pdf) Table pg 242
+  [^2]: [Officer Report](http://moderngov.southwark.gov.uk/documents/s90901/Report%202-10%20OSSORY%20ROAD%20LONDON%20SE1%205PA.pdf) Table pg 42
   
-  [^3]: [Officer Report](http://moderngov.southwark.gov.uk/documents/s90901/Report%202-10%20OSSORY%20ROAD%20LONDON%20SE1%205PA.pdf) para 33,134
+  [^3]: [Officer Report](http://moderngov.southwark.gov.uk/documents/s90901/Report%202-10%20OSSORY%20ROAD%20LONDON%20SE1%205PA.pdf) para 133,134
   
   [^4]: [New Southwark Plan Submission Version Jan 2020](https://www.southwark.gov.uk/assets/attach/11656/NSP01-New-Southwark-Plan-Submission-Version-Proposed-Modifications-for-Examination.pdf) Fig 2
   
