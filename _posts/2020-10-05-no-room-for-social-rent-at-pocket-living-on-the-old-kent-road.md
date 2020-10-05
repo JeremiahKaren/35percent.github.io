@@ -27,11 +27,11 @@ Buying a decent home in London is undoubtedly hard for the young professionals P
 
 ## Density and un-exemplary design
 
-Unsurprisingly, given Pocket’s ambitions to maximise the number of units, they are proposing a scheme which is [twice the density](http://moderngov.southwark.gov.uk/documents/s90901/Report 2-10 OSSORY ROAD LONDON SE1 5PA.pdf) it should be (OR 118), (at 2,333 habitable rooms per hectare against a maximum allowed of 1,100 hrph), justified on the basis of exemplary design.  However, many of the measures for ‘exemplary’ design are not met – it does not have enough amenity space, there is no ‘predominance’ of dual aspect flats, it does not have any 2-bed or more flats, and the flats do not ‘significantly exceed minimum floor-space standards’ (OR 119).
+Unsurprisingly, given Pocket’s ambitions to maximise the number of units, they are proposing a scheme which is [twice the density](http://moderngov.southwark.gov.uk/documents/s90901/Report%202-10%20OSSORY%20ROAD%20LONDON%20SE1%205PA.pdf) it should be (OR 118), (at 2,333 habitable rooms per hectare against a maximum allowed of 1,100 hrph), justified on the basis of exemplary design.  However, many of the measures for ‘exemplary’ design are not met – it does not have enough amenity space, there is no ‘predominance’ of dual aspect flats, it does not have any 2-bed or more flats, and the flats do not ‘significantly exceed minimum floor-space standards’ (OR 119).
 
 ## Equality not a great consideration
 
-The lack of social and family housing and the provision of all the homes as single bed units, targeted at middle income professionals, would also seem to have clear implications for the various social groups protected under equalities legislation.  Southwark have a legal duty to do this, but have not done so in any detail, content just to note of affordable housing, that there is [‘a high demand for such accommodation and a relatively high BAME population’](http://moderngov.southwark.gov.uk/documents/s90901/Report 2-10 OSSORY ROAD LONDON SE1 5PA.pdf) (0R 28).
+The lack of social and family housing and the provision of all the homes as single bed units, targeted at middle income professionals, would also seem to have clear implications for the various social groups protected under equalities legislation.  Southwark have a legal duty to do this, but have not done so in any detail, content just to note of affordable housing, that there is [‘a high demand for such accommodation and a relatively high BAME population’](http://moderngov.southwark.gov.uk/documents/s90901/Report%202-10%20OSSORY%20ROAD%20LONDON%20SE1%205PA.pdf) (0R 28).
 
 
 
