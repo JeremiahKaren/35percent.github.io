@@ -21,26 +21,26 @@ The amount of open and amenity space for occupants is also squeezed.  In a devel
 
 ## Not that affordable
 
-Pocket Living justify their radical departures from Southwark’s affordable housing requirements, by claiming they are serving the hard-pressed, young first-time buyer and supply their own statistics and census figures to back this up, dutifully reproduced by the [officer’s report](http://moderngov.southwark.gov.uk/documents/s90901/Report%202-10%20OSSORY%20ROAD%20LONDON%20SE1%205PA.pdf) (OR 112), which recommends approval of the scheme.
+Pocket Living justify their radical departures from Southwark’s affordable housing requirements, by claiming they are serving the hard-pressed, young first-time buyer and supply their own statistics and census figures to back this up, dutifully reproduced by the [officer’s report](http://moderngov.southwark.gov.uk/documents/s90901/Report%202-10%20OSSORY%20ROAD%20LONDON%20SE1%205PA.pdf) (OR 112), which recommends approval of the scheme [^4].
 
-Buying a decent home in London is undoubtedly hard for the young professionals Pocket Living housing is squarely aimed at, but they are still relatively much better off than those excluded by the absence of social and family housing from Pocket Living developments.  Pocket’s typical purchaser will have an average income of £44,000 (OR60), an income enjoyed by [less than 4.5% of Southwark’s households](https://www.southwark.gov.uk/assets/attach/11656/NSP01-New-Southwark-Plan-Submission-Version-Proposed-Modifications-for-Examination.pdf).   Supplying homes at 80% market value to those who earn this amount, at the [expense of those who earn barely half](https://www.southwark.gov.uk/assets/attach/11656/NSP01-New-Southwark-Plan-Submission-Version-Proposed-Modifications-for-Examination.pdf) that  is not what affordable housing should be about[^4].
+Buying a decent home in London is undoubtedly hard for the young professionals Pocket Living housing is squarely aimed at, but they are still relatively much better off than those excluded by the absence of social and family housing from Pocket Living developments.  Pocket’s typical purchaser will have an average income of £44,000 (OR60), an income enjoyed by [less than 4.5% of Southwark’s households](https://www.southwark.gov.uk/assets/attach/11656/NSP01-New-Southwark-Plan-Submission-Version-Proposed-Modifications-for-Examination.pdf).   Supplying homes at 80% market value to those who earn this amount, at the [expense of those who earn barely half](https://www.southwark.gov.uk/assets/attach/11656/NSP01-New-Southwark-Plan-Submission-Version-Proposed-Modifications-for-Examination.pdf) that  is not what affordable housing should be about[^5].
 
 ## Density and un-exemplary design
 
-Unsurprisingly, given Pocket’s ambitions to maximise the number of units, they are proposing a scheme which is [twice the density](http://moderngov.southwark.gov.uk/documents/s90901/Report%202-10%20OSSORY%20ROAD%20LONDON%20SE1%205PA.pdf) it should be (OR 118), (at 2,333 habitable rooms per hectare against a maximum allowed of 1,100 hrph), justified on the basis of exemplary design.  However, many of the measures for _‘exemplary’_ design are not met – it does not have enough amenity space, there is no _‘predominance’_ of dual aspect flats, it does not have any 2-bed or more flats, and the flats do not _‘significantly exceed minimum floor-space standards’_ [^5].
+Unsurprisingly, given Pocket’s ambitions to maximise the number of units, they are proposing a scheme which is [twice the density](http://moderngov.southwark.gov.uk/documents/s90901/Report%202-10%20OSSORY%20ROAD%20LONDON%20SE1%205PA.pdf) it should be (OR 118), (at 2,333 habitable rooms per hectare against a maximum allowed of 1,100 hrph), justified on the basis of exemplary design.  However, many of the measures for _‘exemplary’_ design are not met – it does not have enough amenity space, there is no _‘predominance’_ of dual aspect flats, it does not have any 2-bed or more flats, and the flats do not _‘significantly exceed minimum floor-space standards’_ [^6].
 
 ## Equality not a great consideration
 
-The lack of social and family housing and the provision of all the homes as single bed units, targeted at middle income professionals, would also seem to have clear implications for the various social groups protected under equalities legislation.  Southwark have a legal duty to consider this, but have not done so in any detail, content just to note of affordable housing, that there is [‘a high demand for such accommodation and a relatively high BAME population’](http://moderngov.southwark.gov.uk/documents/s90901/Report%202-10%20OSSORY%20ROAD%20LONDON%20SE1%205PA.pdf) [^6].
+The lack of social and family housing and the provision of all the homes as single bed units, targeted at middle income professionals, would also seem to have clear implications for the various social groups protected under equalities legislation.  Southwark have a legal duty to consider this, but have not done so in any detail, content just to note of affordable housing, that there is [‘a high demand for such accommodation and a relatively high BAME population’](http://moderngov.southwark.gov.uk/documents/s90901/Report%202-10%20OSSORY%20ROAD%20LONDON%20SE1%205PA.pdf) [^7].
 
 ## Viability and the Bakerloo Line Extension
 
-The officer’s report and recommendation for approval was written before [press-reports](https://www.london-se1.co.uk/news/view/10413) that the Bakerloo Line extension has fallen down the list of priorities for Transport for London (TfL) and may not be built for many years.  Pocket Living’s proposal is, according to themselves, [technically non-viable](http://moderngov.southwark.gov.uk/documents/s90901/Report%202-10%20OSSORY%20ROAD%20LONDON%20SE1%205PA.pdf) and depends upon the delivery of the BLE to turn a profit (as do many other Old Kent Rd schemes) [^7]. There is no mention of a late stage review of the scheme’s viability, which removes the possibility of any improvement in the affordable housing offer, such as a greater discount in the selling price.
+The officer’s report and recommendation for approval was written before [press-reports](https://www.london-se1.co.uk/news/view/10413) that the Bakerloo Line extension has fallen down the list of priorities for Transport for London (TfL) and may not be built for many years.  Pocket Living’s proposal is, according to themselves, [technically non-viable](http://moderngov.southwark.gov.uk/documents/s90901/Report%202-10%20OSSORY%20ROAD%20LONDON%20SE1%205PA.pdf) and depends upon the delivery of the BLE to turn a profit (as do many other Old Kent Rd schemes) [^8]. There is no mention of a late stage review of the scheme’s viability, which removes the possibility of any improvement in the affordable housing offer, such as a greater discount in the selling price.
 
 
 ## The Mayor likes it
 
-While Pocket Living pretty much ignores Southwark’s own housing policy, so does the officer’s report to the planning committee, which notes the departures, but nonetheless recommends approval on [other ‘material’ grounds](http://moderngov.southwark.gov.uk/documents/s90901/Report%202-10%20OSSORY%20ROAD%20LONDON%20SE1%205PA.pdf).  The report also cites the enthusiastic support of the Mayor (matching his enthusiasm for Build to Rent, another middle/upper income affordable housing tenure that sacrifices social rent)[^8].
+While Pocket Living pretty much ignores Southwark’s own housing policy, so does the officer’s report to the planning committee, which notes the departures, but nonetheless recommends approval on [other ‘material’ grounds](http://moderngov.southwark.gov.uk/documents/s90901/Report%202-10%20OSSORY%20ROAD%20LONDON%20SE1%205PA.pdf).  The report also cites the enthusiastic support of the Mayor (matching his enthusiasm for Build to Rent, another middle/upper income affordable housing tenure that sacrifices social rent)[^9].
 
 ## What we say...
 
@@ -54,16 +54,18 @@ You can find the [35% Campaign objection to this development here](https://plann
   
   [^2]: [Officer Report](http://moderngov.southwark.gov.uk/documents/s90901/Report%202-10%20OSSORY%20ROAD%20LONDON%20SE1%205PA.pdf) Table pg 42
   
-  [^3]: [Officer Report](http://moderngov.southwark.gov.uk/documents/s90901/Report%202-10%20OSSORY%20ROAD%20LONDON%20SE1%205PA.pdf) para 133,134
+  [^3]: [Officer Report](http://moderngov.southwark.gov.uk/documents/s90901/Report%202-10%20OSSORY%20ROAD%20LONDON%20SE1%205PA.pdf) para 133,134,135
   
-  [^4]: [New Southwark Plan Submission Version Jan 2020](https://www.southwark.gov.uk/assets/attach/11656/NSP01-New-Southwark-Plan-Submission-Version-Proposed-Modifications-for-Examination.pdf) Fig 2
+  [^4]: [Officer Report](http://moderngov.southwark.gov.uk/documents/s90901/Report%202-10%20OSSORY%20ROAD%20LONDON%20SE1%205PA.pdf) para 112
   
-  [^5]: [Officer Report](http://moderngov.southwark.gov.uk/documents/s90901/Report%202-10%20OSSORY%20ROAD%20LONDON%20SE1%205PA.pdf) para 119
+  [^5]: [New Southwark Plan Submission Version Jan 2020](https://www.southwark.gov.uk/assets/attach/11656/NSP01-New-Southwark-Plan-Submission-Version-Proposed-Modifications-for-Examination.pdf) Fig 2
   
-  [^6]: [Officer Report](http://moderngov.southwark.gov.uk/documents/s90901/Report%202-10%20OSSORY%20ROAD%20LONDON%20SE1%205PA.pdf) para 28
+  [^6]: [Officer Report](http://moderngov.southwark.gov.uk/documents/s90901/Report%202-10%20OSSORY%20ROAD%20LONDON%20SE1%205PA.pdf) para 119
   
-  [^7]: [Officer Report](http://moderngov.southwark.gov.uk/documents/s90901/Report%202-10%20OSSORY%20ROAD%20LONDON%20SE1%205PA.pdf) para 64, 65
+  [^7]: [Officer Report](http://moderngov.southwark.gov.uk/documents/s90901/Report%202-10%20OSSORY%20ROAD%20LONDON%20SE1%205PA.pdf) para 28
   
-  [^8]: [Officer Report](http://moderngov.southwark.gov.uk/documents/s90901/Report%202-10%20OSSORY%20ROAD%20LONDON%20SE1%205PA.pdf) para 229-237; 57
+  [^8]: [Officer Report](http://moderngov.southwark.gov.uk/documents/s90901/Report%202-10%20OSSORY%20ROAD%20LONDON%20SE1%205PA.pdf) para 64, 65
+  
+  [^9]: [Officer Report](http://moderngov.southwark.gov.uk/documents/s90901/Report%202-10%20OSSORY%20ROAD%20LONDON%20SE1%205PA.pdf) para 229-237; 57
   
   
