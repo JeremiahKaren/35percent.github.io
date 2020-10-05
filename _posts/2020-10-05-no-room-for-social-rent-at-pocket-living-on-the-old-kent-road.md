@@ -21,13 +21,13 @@ The amount of open and amenity space for occupants is also squeezed.  In a devel
 
 ## Not that affordable
 
-Pocket Living justify their radical departures from Southwark’s affordable housing requirements, by claiming they are serving the hard-pressed, young first-time buyer and supply their own statistics and census figures to back this up, dutifully reproduced by the [officer’s report](http://moderngov.southwark.gov.uk/documents/s90901/Report%202-10%20OSSORY%20ROAD%20LONDON%20SE1%205PA.pdf) (OR 112), which recommends approval of the scheme [^4].
+Pocket Living justify their radical departures from Southwark’s affordable housing requirements, by claiming they are serving the hard-pressed, young first-time buyer and supply their own statistics and census figures to back this up, dutifully reproduced by the [officer’s report](http://moderngov.southwark.gov.uk/documents/s90901/Report%202-10%20OSSORY%20ROAD%20LONDON%20SE1%205PA.pdf), which recommends approval of the scheme [^4].
 
 Buying a decent home in London is undoubtedly hard for the young professionals Pocket Living housing is squarely aimed at, but they are still relatively much better off than those excluded by the absence of social and family housing from Pocket Living developments.  Pocket’s typical purchaser will have an average income of £44,000 (OR60), an income enjoyed by [less than 4.5% of Southwark’s households](https://www.southwark.gov.uk/assets/attach/11656/NSP01-New-Southwark-Plan-Submission-Version-Proposed-Modifications-for-Examination.pdf).   Supplying homes at 80% market value to those who earn this amount, at the [expense of those who earn barely half](https://www.southwark.gov.uk/assets/attach/11656/NSP01-New-Southwark-Plan-Submission-Version-Proposed-Modifications-for-Examination.pdf) that  is not what affordable housing should be about[^5].
 
 ## Density and un-exemplary design
 
-Unsurprisingly, given Pocket’s ambitions to maximise the number of units, they are proposing a scheme which is [twice the density](http://moderngov.southwark.gov.uk/documents/s90901/Report%202-10%20OSSORY%20ROAD%20LONDON%20SE1%205PA.pdf) it should be (OR 118), (at 2,333 habitable rooms per hectare against a maximum allowed of 1,100 hrph), justified on the basis of exemplary design.  However, many of the measures for _‘exemplary’_ design are not met – it does not have enough amenity space, there is no _‘predominance’_ of dual aspect flats, it does not have any 2-bed or more flats, and the flats do not _‘significantly exceed minimum floor-space standards’_ [^6].
+Unsurprisingly, given Pocket’s ambitions to maximise the number of units, they are proposing a scheme which is [twice the density](http://moderngov.southwark.gov.uk/documents/s90901/Report%202-10%20OSSORY%20ROAD%20LONDON%20SE1%205PA.pdf) it should be, (at 2,333 habitable rooms per hectare against a maximum allowed of 1,100 hrph), justified on the basis of exemplary design.  However, many of the measures for _‘exemplary’_ design are not met – it does not have enough amenity space, there is no _‘predominance’_ of dual aspect flats, it does not have any 2-bed or more flats, and the flats do not _‘significantly exceed minimum floor-space standards’_ [^6].
 
 ## Equality not a great consideration
 
@@ -60,7 +60,7 @@ You can find the [35% Campaign objection to this development here](https://plann
   
   [^5]: [New Southwark Plan Submission Version Jan 2020](https://www.southwark.gov.uk/assets/attach/11656/NSP01-New-Southwark-Plan-Submission-Version-Proposed-Modifications-for-Examination.pdf) Fig 2
   
-  [^6]: [Officer Report](http://moderngov.southwark.gov.uk/documents/s90901/Report%202-10%20OSSORY%20ROAD%20LONDON%20SE1%205PA.pdf) para 119
+  [^6]: [Officer Report](http://moderngov.southwark.gov.uk/documents/s90901/Report%202-10%20OSSORY%20ROAD%20LONDON%20SE1%205PA.pdf) para 118, 119
   
   [^7]: [Officer Report](http://moderngov.southwark.gov.uk/documents/s90901/Report%202-10%20OSSORY%20ROAD%20LONDON%20SE1%205PA.pdf) para 28
   
