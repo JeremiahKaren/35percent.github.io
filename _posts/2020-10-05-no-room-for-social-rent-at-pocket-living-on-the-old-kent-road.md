@@ -31,7 +31,7 @@ Unsurprisingly, given Pocket’s ambitions to maximise the number of units, they
 
 ## Equality not a great consideration
 
-The lack of social and family housing and the provision of all the homes as single bed units, targeted at middle income professionals, would also seem to have clear implications for the various social groups protected under equalities legislation.  Southwark have a legal duty to do this, but have not done so in any detail, content just to note that there is [‘a high demand for such accommodation (ie affordable housing) and a relatively high BAME population’](http://moderngov.southwark.gov.uk/documents/s90901/Report 2-10 OSSORY ROAD LONDON SE1 5PA.pdf) (0R 28).
+The lack of social and family housing and the provision of all the homes as single bed units, targeted at middle income professionals, would also seem to have clear implications for the various social groups protected under equalities legislation.  Southwark have a legal duty to do this, but have not done so in any detail, content just to note of affordable housing, that there is [‘a high demand for such accommodation and a relatively high BAME population’](http://moderngov.southwark.gov.uk/documents/s90901/Report 2-10 OSSORY ROAD LONDON SE1 5PA.pdf) (0R 28).
 
 
 
