@@ -19,6 +19,15 @@ Pocket Living, however, want to make up their own rules.  Their sites are small 
 
 The amount of open and amenity space for occupants is also squeezed.  There should be 1,050 sqm private amenity space, Pocket are providing a miniscule 42 sqm.  Developers can compensate for a lack of private space with more communal space, but Pocket falls well short here, too, providing [less than half the amount](http://moderngov.southwark.gov.uk/documents/s90901/Report%202-10%20OSSORY%20ROAD%20LONDON%20SE1%205PA.pdf) required (506 sqm instead of 1,058 sqm; OR 133,134).
 
+## Not that affordable
+
+Pocket Living justify their radical departures from Southwark’s affordable housing requirements, by claiming they are serving the hard-pressed, young first-time buyer and supply their own statistics and census figures to back this up, dutifully reproduced by the [officer’s report](http://moderngov.southwark.gov.uk/documents/s90901/Report%202-10%20OSSORY%20ROAD%20LONDON%20SE1%205PA.pdf) (OR 112), which recommends approval of the scheme.
+
+Buying a decent home in London is undoubtedly hard for the young professionals Pocket Living housing is squarely aimed at, but they are still, relatively speaking, much better off than those excluded by the absence of social and family housing from Pocket Living developments.  Pocket’s typical purchaser will have an average income of £44,000 (OR60), an income enjoyed by [less than 4.5% of Southwark’s households](https://www.southwark.gov.uk/assets/attach/11656/NSP01-New-Southwark-Plan-Submission-Version-Proposed-Modifications-for-Examination.pdf) (Fig 2).   Supplying homes at 80% market value to those who earn this amount, at the [expense of those who earn barely half](https://www.southwark.gov.uk/assets/attach/11656/NSP01-New-Southwark-Plan-Submission-Version-Proposed-Modifications-for-Examination.pdf) that (NSP Submission Version Jan 2020 Fig 2) is not what affordable housing should be about.
+
+
+
+
 
 
 
