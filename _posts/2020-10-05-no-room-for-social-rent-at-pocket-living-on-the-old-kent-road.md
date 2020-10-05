@@ -38,6 +38,12 @@ The lack of social and family housing and the provision of all the homes as sing
 The officer’s report and recommendation for approval was written before [press-reports](https://www.london-se1.co.uk/news/view/10413) that the Bakerloo Line extension has fallen down the list of priorities for Transport for London (TfL) and may not be built for many years.  Pocket Living’s proposal is, according to themselves, [technically non-viable](http://moderngov.southwark.gov.uk/documents/s90901/Report%202-10%20OSSORY%20ROAD%20LONDON%20SE1%205PA.pdf) and depends upon the delivery of the BLE to turn a profit (as do many other Old Kent Rd schemes) (OR 64, 65). There is no mention of a late stage review of the scheme’s viability, which removes the possibility of any improvement in the affordable housing offer, such as a greater discount in the selling price.
 
 
+## The Mayor likes it
+
+While Pocket Living pretty much ignores Southwark’s own housing policy, so does the officer’s report to the planning committee, which notes the departures, but nonetheless recommends approval on [other ‘material’ grounds](http://moderngov.southwark.gov.uk/documents/s90901/Report%202-10%20OSSORY%20ROAD%20LONDON%20SE1%205PA.pdf) (OR 229-237).  The report also cites the enthusiastic support of the Mayor (matching his enthusiasm for Build to Rent, another middle/upper income affordable housing tenure that sacrifices social rent)(OR 57).
+
+
+
 
 
 
