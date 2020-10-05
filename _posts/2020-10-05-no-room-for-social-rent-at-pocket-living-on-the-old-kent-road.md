@@ -33,6 +33,10 @@ Unsurprisingly, given Pocket’s ambitions to maximise the number of units, they
 
 The lack of social and family housing and the provision of all the homes as single bed units, targeted at middle income professionals, would also seem to have clear implications for the various social groups protected under equalities legislation.  Southwark have a legal duty to do this, but have not done so in any detail, content just to note of affordable housing, that there is [‘a high demand for such accommodation and a relatively high BAME population’](http://moderngov.southwark.gov.uk/documents/s90901/Report%202-10%20OSSORY%20ROAD%20LONDON%20SE1%205PA.pdf) (0R 28).
 
+## Viability and the Bakerloo Line Extension
+
+The officer’s report and recommendation for approval was written before [press-reports](https://www.london-se1.co.uk/news/view/10413) that the Bakerloo Line extension has fallen down the list of priorities for Transport for London (TfL) and may not be built for many years.  Pocket Living’s proposal is, according to themselves, technically non-viable and depends upon the delivery of the BLE to turn a profit (as do many other Old Kent Rd schemes) (OR 64, 65). There is no mention of a late stage review of the scheme’s viability, which removes the possibility of any improvement in the affordable housing offer, such as a greater discount in the selling price.
+
 
 
 
