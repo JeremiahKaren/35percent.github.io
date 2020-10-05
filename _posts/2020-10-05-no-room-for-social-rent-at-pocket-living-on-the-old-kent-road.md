@@ -42,6 +42,14 @@ The officer’s report and recommendation for approval was written before [press
 
 While Pocket Living pretty much ignores Southwark’s own housing policy, so does the officer’s report to the planning committee, which notes the departures, but nonetheless recommends approval on [other ‘material’ grounds](http://moderngov.southwark.gov.uk/documents/s90901/Report%202-10%20OSSORY%20ROAD%20LONDON%20SE1%205PA.pdf) (OR 229-237).  The report also cites the enthusiastic support of the Mayor (matching his enthusiasm for Build to Rent, another middle/upper income affordable housing tenure that sacrifices social rent)(OR 57).
 
+## What we say...
+
+It is hard to see what this scheme brings to the Old Kent Rd, in housing terms.  It has no social housing and no family housing.  The affordable housing it does provide is of the most expensive kind.  The scheme does not have the private and public space that it should have and it serves a very narrow demographic, while excluding broader sections of the community.  
+Pocket Living would argue that the constraints of the site and the housing needs of a relatively well-off section of the community should outweigh these shortcomings, but Southwark’s local plan already addresses how much housing there should be for different income groups, with the overarching aim of building a mixed and cohesive community.  Pocket Living simply ignores this, so the planning committee should reject this application.
+
+You can find the [35% Campaign objection to this development here](https://planning.southwark.gov.uk/online-applications/files/8DAB57C1FA7189E58CEE5EE07D530A78/pdf/20_AP_0009-OBJECTS-937661.pdf) . 
+
+
 
 
 
