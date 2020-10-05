@@ -44,7 +44,8 @@ While Pocket Living pretty much ignores Southwark’s own housing policy, so doe
 
 ## What we say...
 
-It is hard to see what this scheme brings to the Old Kent Rd, in housing terms.  It has no social housing and no family housing.  The affordable housing it does provide is of the most expensive kind.  The scheme does not have the private and public space that it should have and it serves a very narrow demographic, while excluding broader sections of the community.  
+It is hard to see what this scheme brings to the Old Kent Rd, in housing terms.  It has no social housing and no family housing.  The affordable housing it does provide is of the most expensive kind.  The scheme does not have the private and public space that it should have and it serves a very narrow demographic, while excluding broader sections of the community.
+
 Pocket Living would argue that the constraints of the site and the housing needs of a relatively well-off section of the community should outweigh these shortcomings, but Southwark’s local plan already addresses how much housing there should be for different income groups, with the overarching aim of building a mixed and cohesive community.  Pocket Living simply ignores this, so the planning committee should reject this application.
 
 You can find the [35% Campaign objection to this development here](https://planning.southwark.gov.uk/online-applications/files/8DAB57C1FA7189E58CEE5EE07D530A78/pdf/20_AP_0009-OBJECTS-937661.pdf) . 
