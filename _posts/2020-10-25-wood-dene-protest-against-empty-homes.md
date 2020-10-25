@@ -47,6 +47,12 @@ NHG is also the affordable housing provider on the Aylesbury regeneration, [wher
 
 When NHHT amalgamated with Genesis Housing in 2018, it did so amidst criticism that it had [‘lost their mission to meet housing needs among the low-income people in inner London..’](https://www.theguardian.com/society/2018/jan/11/housing-association-merger-will-lead-to-social-cleansing-warn-tenants)  and like many big housing associations has moved away from solely providing social rented housing, to building shared-ownership and free market homes. In 2019/20 only [720 the 1,900 plus homes completed by NHG were ‘low-cost rent’](https://www.insidehousing.co.uk/news/news/large-london-association-sees-unsold-homes-hit-610-amid-market-challenges-67715).
 
+##  An object lesson
+
+The story of Wood Dene is an object lesson in how estate regenerations go wrong. Southwark persuaded itself that the estate’s land value justified demolition and that the money received could be used to improve other council housing stock.  It then waited 8 years for that land receipt, which barely rose in value from the original estimate, while property prices rocketed.  It displaced over 300 households and depended on a housing association that either could not or would not build enough social rented homes to replace the council homes lost.  Instead we have the usual mix of ‘affordable’ housing, with just 54 ‘affordable rent’ units where there were once over 300 council homes.
+
+
+
 
 [^1]: [Wood Dene SEI decant arrangements 29th July 2003](http://moderngov.southwark.gov.uk/Data/Executive/20030729/Agenda/56%20-%20Disposal%20of%20216-224Underhill%20Road,%20SE22.pdf) para 2
 
