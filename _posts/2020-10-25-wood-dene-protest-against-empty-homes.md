@@ -31,6 +31,13 @@ The cost of decanting the residents was [estimated in 2003 to be £879,750](http
 
 ## The cost of demolition
 
+The rationale of the Southwark Estates Initiative and for demolishing Wood Dene was that the money from selling the land was needed to regenerate Southwark’s housing stock. The Council’s Executive committee, as it then was, [was told](http://moderngov.southwark.gov.uk/Data/Executive/20050523/Agenda/Item%2011%20-%20Wooddene%20EstateRegeneration%20-%20Update.pdf)in 2005;
+
+“It is estimated that the sale of the site will generate £6.9 million net to be recycled into the wider SEI programme, this figure is based on a valuation of the site completed in 1998. The cost of demolishing the block is estimated to cost in the region of £3.4m.”
+
+Southwark stated further, that “Securing vacant possession and onward sale to the RSL [registered social landlord] will generate a substantial capital sum. The securing of this receipt is essential to the delivery of the Housing Investment Programme” when it resolved in December 2005 on a Compulsory Purchase Order (CPO) for the Wood Dene leasehold properties on Wood Dene (there were 16 leaseholders and  five ‘live’ Right to Buy applications). (Para 11, 24) ^6
+
+Despite being ‘essential’ for the Housing Investment Programme, the land was not sold until 8 years later, in December 2013, and for not much more than its 1998 valuation, to NHHT for only £7.05m.
 
 
 
@@ -53,4 +60,6 @@ The cost of decanting the residents was [estimated in 2003 to be £879,750](http
 
 [Wood Dene SEI decant arrangements 29th July 2003](http://moderngov.southwark.gov.uk/Data/Executive/20030729/Agenda/56%20-%20Disposal%20of%20216-224Underhill%20Road,%20SE22.pdf) para 19
 
-[^5]: (http://moderngov.southwark.gov.uk/Data/Executive/20030729/Agenda/56%20-%20Disposal%20of%20216-224Underhill%20Road,%20SE22.pdf) para 24
+[^5]: [Wood Dene SEI decant arrangements 29th July 2003](http://moderngov.southwark.gov.uk/Data/Executive/20030729/Agenda/56%20-%20Disposal%20of%20216-224Underhill%20Road,%20SE22.pdf) para 24
+
+[^6}: (http://moderngov.southwark.gov.uk/Data/Executive/20050523/Agenda/Item%2011%20-%20Wooddene%20EstateRegeneration%20-%20Update.pdf)
