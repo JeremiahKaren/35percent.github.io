@@ -27,7 +27,7 @@ Southwark [stopped issuing secure council tenancies](http://moderngov.southwark.
 
 Leaseholders would have received compensation for their homes at ‘market value’, but as [leaseholders at the Heygate and Aylesbury estates](https://crappistmartin.github.io/blog/2014/05/30/aylesbury-leaseholder-fights-incestuous-valuation/) found, it would not be sufficient for a free-market homes in the area, let alone anything on Peckham Place, where a two-bed home [costs between £585k and £700k](https://www.nhgsales.com/sales-developments/peckham-place/#availability).
 
-The cost of decanting the residents was [estimated in 2003 to be £879,750](http://moderngov.southwark.gov.uk/Data/Executive/20030729/Agenda/56%20-%20Disposal%20of%20216-224Underhill%20Road,%20SE22.pdf para 24), made up of home loss, and disturbance payments and leasehold acquisition [^5].
+The cost of decanting the residents was [estimated in 2003 to be £879,750](http://moderngov.southwark.gov.uk/Data/Executive/20030729/Agenda/56%20-%20Disposal%20of%20216-224Underhill%20Road,%20SE22.pdf), made up of home loss, and disturbance payments and leasehold acquisition [^5].
 
 
 
