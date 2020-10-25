@@ -7,5 +7,5 @@ date: 2020/10/25
 ---
 
 
-[People Before Profit](https://m.facebook.com/peoplebeforeprofitCVD19/) and [Southwark Defend Council Housing](https://m.facebook.com/southwarkdch/) (SDCH) are mounting a protest against empty homes in Southwark with a demonstration at Peckham Place 12pm Saturday the 31 October.
+[People Before Profit](https://m.facebook.com/peoplebeforeprofitCVD19/) and [Southwark Defend Council Housing](https://m.facebook.com/southwarkdch/) (SDCH) are mounting a protest against empty homes in Southwark with a [demonstration at Peckham Place 12pm Saturday the 31 October](https://m.facebook.com/events/3120862284692741?acontext=%7B%22action_history%22%3A%5B%7B%22surface%22%3A%22page%22%2C%22mechanism%22%3A%22page_admin_bar%22%2C%22extra_data%22%3A%22%7B%5C%22page_id%5C%22%3A839272879439624%7D%22%7D%2C%7B%22surface%22%3A%22events_admin_tool%22%2C%22mechanism%22%3A%22events_admin_tool%22%2C%22extra_data%22%3A%22%5B%5D%22%7D%5D%2C%22has_source%22%3Atrue%7D).
 
