@@ -80,4 +80,7 @@ The story of Wood Dene is an object lesson in how estate regenerations go wrong.
 
 [^5]: [Wood Dene SEI decant arrangements 29th July 2003](http://moderngov.southwark.gov.uk/Data/Executive/20030729/Agenda/56%20-%20Disposal%20of%20216-224Underhill%20Road,%20SE22.pdf) para 24
 
-[^6]: [Wood Dene Estate Regeneration Update 23 May 2005](http://moderngov.southwark.gov.uk/Data/Executive/20050523/Agenda/Item%2011%20-%20Wooddene%20EstateRegeneration%20-%20Update.pdf) para 11, 21
+[^6]: [Wood Dene Estate Regeneration Update 23 May 2005](http://moderngov.southwark.gov.uk/Data/Executive/20050523/Agenda/Item%2011%20-%20Wooddene%20EstateRegeneration%20-%20Update.pdf) para 11, 
+
+[Compulsory Purchase of Lands on the Acorn
+Estate Peckham 13 December 2005 ](http://moderngov.southwark.gov.uk/Data/Executive/20051213/Agenda/Item%2013%20-%20CompulsoryPurchase%20of%20lands%20on%20the%20Acorn%20Estate,%20Peckham%20SE15%20-Report.pdf)para 21
