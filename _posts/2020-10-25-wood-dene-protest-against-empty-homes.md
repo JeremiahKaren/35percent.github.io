@@ -29,6 +29,10 @@ Leaseholders would have received compensation for their homes at ‘market value
 
 The cost of decanting the residents was [estimated in 2003 to be £879,750](http://moderngov.southwark.gov.uk/Data/Executive/20030729/Agenda/56%20-%20Disposal%20of%20216-224Underhill%20Road,%20SE22.pdf), made up of home loss, and disturbance payments and leasehold acquisition [^5].
 
+## The cost of demolition
+
+
+
 
 
 
