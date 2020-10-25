@@ -15,5 +15,5 @@ The demo is to highlight the number of empty homes in the borough and takes plac
 
 ## Wood Dene council homes that were lost
 
-The new Peckham Place development, replaced the Wood Dene estate which had 323 council homes, before it was demolished in 2007 as part of the ‘Southwark Estates Initiative’, a regeneration strategy devised by Southwark Council’s as part of New Labour’s ‘Urban Task Force’ renewal strategy.  None of the council homes have been replaced.
+The new Peckham Place development, replaced the Wood Dene estate [which had 323 council homes](http://35percent.org/wood-dene-regeneration/), before it [was demolished in 2007](https://www.southwarknews.co.uk/news/notting-hill-admits-wood-dene-estate-peckham-wont-rebuilt-2019-thirteen-years-demolition/) as part of the [Southwark Estates Initiative](http://embed.verite.co/timeline/?source=0Aprl6XcACewydEhRaWFOLVBfUjBSVW1HUGVZNEhGeFE&font=Bevan-PotanoSans&maptype=toner&lang=en&hash_bookmark=true&start_zoom_adjust=2&height=650#1), a regeneration strategy devised by Southwark Council’s as part of New Labour’s ‘Urban Task Force’ renewal strategy.  None of the council homes have been replaced.
 
