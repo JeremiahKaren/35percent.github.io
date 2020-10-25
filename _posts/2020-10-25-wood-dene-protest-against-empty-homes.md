@@ -39,6 +39,10 @@ Southwark stated further, that “Securing vacant possession and onward sale to 
 
 Despite being ‘essential’ for the Housing Investment Programme, the land was not sold until 8 years later, in December 2013, and for not much more than its 1998 valuation, to NHHT for only £7.05m.
 
+## Notting Hill in Southwark
+
+As well as redeveloping the Wood Dene site, NHHT, or Notting Hill Genesis (NHG) as it became in 2018, has a big presence elsewhere in Southwark.  NHG is development partner for [the Canada Water development](https://www.nhg.org.uk/building-homes/developments/canada-water-southwark/), where it is building 1030 homes across a range of tenures). Including 230 private rent units, through its [Folio London](https://www.insidehousing.co.uk/news/news/g15-landlord-lines-up-250m-loan-using-prs-portfolio--68091#:~:text=Notting%20Hill%20Genesis%20(NHG)%20is,non%2Dsocial%E2%80%9D%20housing%20business.&text=The%20G15%20landlord%20has%20been%20slowing%20its%20development%20programme%20overall) subsidiary.
+
 
 
 
