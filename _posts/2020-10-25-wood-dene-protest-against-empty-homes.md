@@ -47,7 +47,7 @@ As well as redeveloping the Wood Dene site, NHHT, or Notting Hill Genesis (NHG) 
 
 NHG is also the affordable housing provider on the Aylesbury regeneration, [where it received a £210m bailout from Southwark](http://35percent.org/2020-07-12-aylesbury-estate-fds-variation/), after Southwark took over the development of the First Development site, to build council homes.
 
-When NHHT amalgamated with Genesis Housing in 2018, it did so amidst criticism that it had [‘lost their mission to meet housing needs among the low-income people in inner London..’](https://www.theguardian.com/society/2018/jan/11/housing-association-merger-will-lead-to-social-cleansing-warn-tenants)  and like many big housing associations has moved away from solely providing social rented housing, to building shared-ownership and free market homes. In 2019/20 only [720 the 1,900 plus homes completed by NHG were ‘low-cost rent’](https://www.insidehousing.co.uk/news/news/large-london-association-sees-unsold-homes-hit-610-amid-market-challenges-67715).
+When NHHT amalgamated with Genesis Housing in 2018, it did so amidst criticism that it had [‘lost their mission to meet housing needs among the low-income people in inner London..’](https://www.theguardian.com/society/2018/jan/11/housing-association-merger-will-lead-to-social-cleansing-warn-tenants)  and like many big housing associations has moved away from solely providing social rented housing, to building shared-ownership and free market homes. In 2019/20 only [720 of the 1,900 plus homes completed by NHG were ‘low-cost rent’](https://www.insidehousing.co.uk/news/news/large-london-association-sees-unsold-homes-hit-610-amid-market-challenges-67715).
 
 ##  An object lesson
 
