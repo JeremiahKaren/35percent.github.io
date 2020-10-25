@@ -33,9 +33,9 @@ The cost of decanting the residents was [estimated in 2003 to be £879,750](http
 
 The rationale of the Southwark Estates Initiative and for demolishing Wood Dene was that the money from selling the land was needed to regenerate Southwark’s housing stock. The Council’s Executive committee, as it then was, [was told](http://moderngov.southwark.gov.uk/Data/Executive/20050523/Agenda/Item%2011%20-%20Wooddene%20EstateRegeneration%20-%20Update.pdf)in 2005;
 
-“It is estimated that the sale of the site will generate £6.9 million net to be recycled into the wider SEI programme, this figure is based on a valuation of the site completed in 1998. The cost of demolishing the block is estimated to cost in the region of £3.4m.”
+_“It is estimated that the sale of the site will generate £6.9 million net to be recycled into the wider SEI programme, this figure is based on a valuation of the site completed in 1998. The cost of demolishing the block is estimated to cost in the region of £3.4m.”_
 
-Southwark stated further, that “Securing vacant possession and onward sale to the RSL [registered social landlord] will generate a substantial capital sum. The securing of this receipt is essential to the delivery of the Housing Investment Programme” when it resolved in December 2005 on a Compulsory Purchase Order (CPO) for the Wood Dene leasehold properties on Wood Dene (there were 16 leaseholders and  five ‘live’ Right to Buy applications). (Para 11, 24) ^6
+Southwark stated further, that _“Securing vacant possession and onward sale to the RSL [registered social landlord] will generate a substantial capital sum. The securing of this receipt is essential to the delivery of the Housing Investment Programme”_ when it resolved in December 2005 on a Compulsory Purchase Order (CPO) for the Wood Dene leasehold properties on Wood Dene (there were 16 leaseholders and  five ‘live’ Right to Buy applications). (Para 11, 24) ^6
 
 Despite being ‘essential’ for the Housing Investment Programme, the land was not sold until 8 years later, in December 2013, and for not much more than its 1998 valuation, to NHHT for only £7.05m.
 
@@ -50,6 +50,16 @@ When NHHT amalgamated with Genesis Housing in 2018, it did so amidst criticism t
 ##  An object lesson
 
 The story of Wood Dene is an object lesson in how estate regenerations go wrong. Southwark persuaded itself that the estate’s land value justified demolition and that the money received could be used to improve other council housing stock.  It then waited 8 years for that land receipt, which barely rose in value from the original estimate, while property prices rocketed.  It displaced over 300 households and depended on a housing association that either could not or would not build enough social rented homes to replace the council homes lost.  Instead we have the usual mix of ‘affordable’ housing, with just 54 ‘affordable rent’ units where there were once over 300 council homes.
+
+## **PROTEST** -	Stop this horror story! - Fill these empty homes!
+
+-	[12pm, Saturday 31st October, 2020](https://m.facebook.com/events/3120862284692741?acontext=%7B%22action_history%22%3A%5B%7B%22surface%22%3A%22page%22%2C%22mechanism%22%3A%22page_admin_bar%22%2C%22extra_data%22%3A%22%7B%5C%22page_id%5C%22%3A839272879439624%7D%22%7D%2C%7B%22surface%22%3A%22events_admin_tool%22%2C%22mechanism%22%3A%22events_admin_tool%22%2C%22extra_data%22%3A%22%5B%5D%22%7D%5D%2C%22has_source%22%3Atrue%7D)
+-	[Peckham Place - Corner of Queens Road and Meeting House Lane, SE15](https://m.facebook.com/events/3120862284692741?acontext=%7B%22action_history%22%3A%5B%7B%22surface%22%3A%22page%22%2C%22mechanism%22%3A%22page_admin_bar%22%2C%22extra_data%22%3A%22%7B%5C%22page_id%5C%22%3A839272879439624%7D%22%7D%2C%7B%22surface%22%3A%22events_admin_tool%22%2C%22mechanism%22%3A%22events_admin_tool%22%2C%22extra_data%22%3A%22%5B%5D%22%7D%5D%2C%22has_source%22%3Atrue%7D)
+
+
+[FB Event here](https://m.facebook.com/events/3120862284692741?acontext=%7B%22action_history%22%3A%5B%7B%22surface%22%3A%22page%22%2C%22mechanism%22%3A%22page_admin_bar%22%2C%22extra_data%22%3A%22%7B%5C%22page_id%5C%22%3A839272879439624%7D%22%7D%2C%7B%22surface%22%3A%22events_admin_tool%22%2C%22mechanism%22%3A%22events_admin_tool%22%2C%22extra_data%22%3A%22%5B%5D%22%7D%5D%2C%22has_source%22%3Atrue%7D)
+
+[#RequisitionEmptyHomes](https://twitter.com/hashtag/RequisitionEmptyHomes?src=hash)
 
 
 
