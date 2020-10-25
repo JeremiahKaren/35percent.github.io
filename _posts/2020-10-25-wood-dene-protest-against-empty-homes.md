@@ -43,6 +43,8 @@ Despite being ‘essential’ for the Housing Investment Programme, the land was
 
 As well as redeveloping the Wood Dene site, NHHT, or Notting Hill Genesis (NHG) as it became in 2018, has a big presence elsewhere in Southwark.  NHG is development partner for [the Canada Water development](https://www.nhg.org.uk/building-homes/developments/canada-water-southwark/), where it is building 1030 homes across a range of tenures). Including 230 private rent units, through its [Folio London](https://www.insidehousing.co.uk/news/news/g15-landlord-lines-up-250m-loan-using-prs-portfolio--68091#:~:text=Notting%20Hill%20Genesis%20(NHG)%20is,non%2Dsocial%E2%80%9D%20housing%20business.&text=The%20G15%20landlord%20has%20been%20slowing%20its%20development%20programme%20overall) subsidiary.
 
+NHG is also the affordable housing provider on the Aylesbury regeneration, [where it received a £210m bailout from Southwark](http://35percent.org/2020-07-12-aylesbury-estate-fds-variation/), after Southwark took over the development of the First Development site, to build council homes.
+
 
 
 
