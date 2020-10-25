@@ -56,10 +56,10 @@ Despite being ‘essential’ for the Housing Investment Programme, the land was
 
 [^3]: [Officer's Report Planning Committee 2 July 2013](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!gC0r1MnWVfiWgymHTtPApA%3d%3d!%7d%7d%7d) pg 47
 
-[^4]: [Wood Dene Estate Regeneration - Update 23 May 2005](http://moderngov.southwark.gov.uk/Data/Executive/20050523/Agenda/Item%2011%20-%20Wooddene%20EstateRegeneration%20-%20Update.pdf) para 7
+[^4]: [Wood Dene Estate Regeneration Update 23 May 2005](http://moderngov.southwark.gov.uk/Data/Executive/20050523/Agenda/Item%2011%20-%20Wooddene%20EstateRegeneration%20-%20Update.pdf) para 7
 
 [Wood Dene SEI decant arrangements 29th July 2003](http://moderngov.southwark.gov.uk/Data/Executive/20030729/Agenda/56%20-%20Disposal%20of%20216-224Underhill%20Road,%20SE22.pdf) para 19
 
 [^5]: [Wood Dene SEI decant arrangements 29th July 2003](http://moderngov.southwark.gov.uk/Data/Executive/20030729/Agenda/56%20-%20Disposal%20of%20216-224Underhill%20Road,%20SE22.pdf) para 24
 
-[^6}: (http://moderngov.southwark.gov.uk/Data/Executive/20050523/Agenda/Item%2011%20-%20Wooddene%20EstateRegeneration%20-%20Update.pdf)
+[^6]: [Wood Dene Estate Regeneration Update 23 May 2005](http://moderngov.southwark.gov.uk/Data/Executive/20050523/Agenda/Item%2011%20-%20Wooddene%20EstateRegeneration%20-%20Update.pdf) para 11, 21
