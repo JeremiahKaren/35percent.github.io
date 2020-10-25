@@ -13,3 +13,5 @@ The demo is to highlight the number of empty homes in the borough and takes plac
 
 [People before Profit](https://m.facebook.com/peoplebeforeprofitCVD19/) and [SDCH](https://m.facebook.com/southwarkdch/) are demanding that empty homes are requisitioned for the homeless.  It will be the third demo highlighting the issue, after demos at Maydew House and Elephant Park, formerly the Heygate estate - see [#RequistionEmptyHomes](https://twitter.com/hashtag/RequisitionEmptyHomes?src=hash).
 
+## Wood Dene council homes that were lost
+
