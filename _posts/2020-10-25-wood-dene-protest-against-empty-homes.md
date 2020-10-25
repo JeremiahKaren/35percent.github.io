@@ -23,6 +23,16 @@ Despite being a housing association, NHHT produced a viability assessment that c
 
 ## What happened to the Wood Dene residents?
 
+Southwark [stopped issuing secure council tenancies](http://moderngov.southwark.gov.uk/Data/Executive/20050523/Agenda/Item%2011%20-%20Wooddene%20EstateRegeneration%20-%20Update.pdf) on Wood Dene in May 2002 (para 7), but there were 289 households to be decanted in July 2003 (para 19), with 173 wishing to return to new homes on the redeveloped estate ^4. Given that the work on the new homes did not begin until 2016, it seems that they were all bound to have been disappointed, despite a pledge that they would have a ‘right to return’.   All but the 16 leaseholders would have been rehoused in current council housing stock, as long as they were secure tenants, not temporary tenants filling the voids created since May 2002.
+
+
+
+
+
+
+
+
+
 [^1]: [Wood Dene SEI decant arrangements 29th July 2003](http://moderngov.southwark.gov.uk/Data/Executive/20030729/Agenda/56%20-%20Disposal%20of%20216-224Underhill%20Road,%20SE22.pdf) para 2
 
 [Wood Dene Estate Regeneration Update 23 May 2005](http://moderngov.southwark.gov.uk/Data/Executive/20050523/Agenda/Item%2011%20-%20Wooddene%20EstateRegeneration%20-%20Update.pdf) para 12
@@ -30,3 +40,5 @@ Despite being a housing association, NHHT produced a viability assessment that c
 [^2]: [Wood Dene Estate Regeneration Update 23 May 2005](http://moderngov.southwark.gov.uk/Data/Executive/20050523/Agenda/Item%2011%20-%20Wooddene%20EstateRegeneration%20-%20Update.pdf) para 13
 
 [^3]: [Officer's Report Planning Committee 2 July 2013](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!gC0r1MnWVfiWgymHTtPApA%3d%3d!%7d%7d%7d) pg 47
+
+[^4]: [Wooddene Estate Regeneration - Update 23 May 2005](http://moderngov.southwark.gov.uk/Data/Executive/20050523/Agenda/Item%2011%20-%20Wooddene%20EstateRegeneration%20-%20Update.pdf) para 7
