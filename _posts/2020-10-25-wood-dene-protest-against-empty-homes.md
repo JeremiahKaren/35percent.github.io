@@ -19,6 +19,6 @@ The new Peckham Place development, replaced the Wood Dene estate [which had 323 
 
 Peckham Place has had a tortuous development history, [related on our Wood Dene regeneration webpage](http://35percent.org/wood-dene-regeneration/).  Southwark decided to [demolish Wood Dene back in 2000](http://moderngov.southwark.gov.uk/Data/Executive/20030729/Agenda/56 - Disposal of 216-224Underhill Road, SE22.pdf) and the Presentation housing association were adopted by Southwark as the site’s developer [in 2002](http://moderngov.southwark.gov.uk/Data/Executive/20050523/Agenda/Item 11 - Wooddene EstateRegeneration - Update.pdf) [^1].  In 2005 Presentation’s ‘preferred’ proposal was for a development of 216 units, half to be social rented, half to be intermediate (para 13) ^2.  But Presentation were taken over by Notting Housing Trust (NHHT) in 2009 and it was NHHT who eventually secured planning permission for the redevelopment, in 2013.  
 
-[^1]: [Wooddene SEI decant arrangements 29th July 2003](http://moderngov.southwark.gov.uk/Data/Executive/20030729/Agenda/56%20-%20Disposal%20of%20216-224Underhill%20Road,%20SE22.pdf) para 2
+[^1]: [Wood Dene SEI decant arrangements 29th July 2003](http://moderngov.southwark.gov.uk/Data/Executive/20030729/Agenda/56%20-%20Disposal%20of%20216-224Underhill%20Road,%20SE22.pdf) para 2
 
-[Wood Dene Estate Regeneration Update 23 May 2005]()
+[Wood Dene Estate Regeneration Update 23 May 2005](http://moderngov.southwark.gov.uk/Data/Executive/20030729/Agenda/56%20-%20Disposal%20of%20216-224Underhill%20Road,%20SE22.pdf) para 12
