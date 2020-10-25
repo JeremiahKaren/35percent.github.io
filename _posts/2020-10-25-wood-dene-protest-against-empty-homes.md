@@ -35,7 +35,7 @@ The rationale of the Southwark Estates Initiative and for demolishing Wood Dene 
 
 _“It is estimated that the sale of the site will generate £6.9 million net to be recycled into the wider SEI programme, this figure is based on a valuation of the site completed in 1998. The cost of demolishing the block is estimated to cost in the region of £3.4m.”_
 
-When Southwark resolved in December 2005 on a Compulsory Purchase Order (CPO) for [the sixteen Wood Dene leasehold properties](http://moderngov.southwark.gov.uk/Data/Executive/20050523/Agenda/Item%2011%20-%20Wooddene%20EstateRegeneration%20-%20Update.pdf) Southwark stated further, that; 
+When Southwark resolved in December 2005 on a Compulsory Purchase Order (CPO) for [the sixteen Wood Dene leasehold properties](http://moderngov.southwark.gov.uk/Data/Executive/20051213/Agenda/Item%2013%20-%20CompulsoryPurchase%20of%20lands%20on%20the%20Acorn%20Estate,%20Peckham%20SE15%20-Report.pdf) Southwark stated further, that; 
 
 _“Securing vacant possession and onward sale to the RSL [registered social landlord] will generate a substantial capital sum. The securing of this receipt is essential to the delivery of the Housing Investment Programme”_ [^6]
 
