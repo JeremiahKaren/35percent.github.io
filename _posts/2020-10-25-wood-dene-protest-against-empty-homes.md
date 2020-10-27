@@ -1,9 +1,9 @@
 ---
 layout: post
-published: false
+published: true
 title: 'Wood Dene Protest against empty homes '
 subtitle: Peckham demo to highlight the plight of the homeless
-date: 2020/10/25
+date: 2020/10/27
 ---
 
 
