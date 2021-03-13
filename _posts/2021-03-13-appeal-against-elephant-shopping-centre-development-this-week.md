@@ -34,7 +34,7 @@ Homes for People, Not for profit!
 
 Meeting ID: 846 8677 6386
 
-The rally can also be seen on [YouTube](https://www.youtube.com/channel/UC9CglAW9ta6SGNyYvoQtHsg) and [Facebook](https://www.facebook.com/UpTheElephant/.
+The rally can also be seen on [YouTube](https://www.youtube.com/channel/UC9CglAW9ta6SGNyYvoQtHsg) and [Facebook](https://www.facebook.com/UpTheElephant/).
 
 **Jerry Flynn** of the [Up the Elephant campaign](https://twitter.com/UpTheElephant_?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor) has said;
 
