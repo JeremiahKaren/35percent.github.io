@@ -36,20 +36,17 @@ Meeting ID: 846 8677 6386
 
 The rally can also be seen on [YouTube](https://www.youtube.com/channel/UC9CglAW9ta6SGNyYvoQtHsg) and [Facebook](https://www.facebook.com/UpTheElephant/.
 
-David Wolf QC of Matrix Chambers and Sarah Wolf of Francis Taylor Building 
+**Jerry Flynn** of the [Up the Elephant campaign](https://twitter.com/UpTheElephant_?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor) has said;
 
+_“Delancey may have already begun the demolition, but the battle for what is to be built is not over.  Southwark is not getting as much social rented housing from Delancey as it should, while the need for it has become even more acute.  Delancey are not building the homes and new shops that local people need. Their planning permission should be quashed and homes and shops that local people can afford built instead.”_
 
-Jerry Flynn of the [Up the Elephant campaign](https://twitter.com/UpTheElephant_?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor) has said;
+**Paul Heron**, solicitor from the [Public Interest Law Centre](https://www.pilc.org.uk/paul-heron/), who is representing the campaign, adds:
 
-“Delancey may have already begun the demolition, but the battle for what is to be built is not over.  Southwark is not getting as much social rented housing from Delancey as it should, while the need for it has become even more acute.  Delancey are not building the homes and new shops that local people need. Their planning permission should be quashed and homes and shops that local people can afford built instead.”
+_“We are happy that the matter will now be considered by the Court of Appeal. The case raises a number of important legal issues regarding how local councils should handle these developments. One concern is that Southwark council, and many councils like them, are failing to maximise social housing in these developments. Another concern is that councillors are failing in their duties – far too much power is being given to unelected council officials in the decision-making process. This has to stop otherwise there will be a democratic deficit in planning law”._
 
-Paul Heron, solicitor from the [Public Interest Law Centre](https://www.pilc.org.uk/paul-heron/), who is representing the campaign, adds:
+**Tanya Murat**, of [Southwark Defend Council Housing](https://www.facebook.com/southwarkdch/), supporters of the campaign, said:
 
-“We are happy that the matter will now be considered by the Court of Appeal. The case raises a number of important legal issues regarding how local councils should handle these developments. One concern is that Southwark council, and many councils like them, are failing to maximise social housing in these developments. Another concern is that councillors are failing in their duties – far too much power is being given to unelected council officials in the decision-making process. This has to stop otherwise there will be a democratic deficit in planning law”.
-
-Tanya Murat, of [Southwark Defend Council Housing](https://www.facebook.com/southwarkdch/), supporters of the campaign, said:
-
-“Southwark Council should now listen to the views of its own residents instead of throwing yet more money on lawyers to prop up the mega profits of its friends in the development industry. This development wouldn’t have gone ahead without the Council's active support. Councillors should put the needs of homeless and low paid residents above the needs of developers.”
+_“Southwark Council should now listen to the views of its own residents instead of throwing yet more money on lawyers to prop up the mega profits of its friends in the development industry. This development wouldn’t have gone ahead without the Council's active support. Councillors should put the needs of homeless and low paid residents above the needs of developers.”_
 
 
 
