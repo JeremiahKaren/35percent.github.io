@@ -28,7 +28,7 @@ Homes for People, Not for profit!
 
 9:30am, Tuesday 16th March
 
-Join Zoom Meeting
+**Join the Zoom Meeting**
 
 [https://us02web.zoom.us/j/84686776386](https://l.facebook.com/l.php?u=https%3A%2F%2Fus02web.zoom.us%2Fj%2F84686776386&h=AT1g73Ayjnwc0tIqXRrvnb2X1VMve17CnhifDO9iqVqugHT54z2BamIgNNC2iFEL1zMwrgznwYg1OHqDuuHje-AYvLKVRu7hh-IwSQ3lFK46y1fzti5XhTlayAqvIaE5fSzbnh3KebuUrs8fUgWW)
 
