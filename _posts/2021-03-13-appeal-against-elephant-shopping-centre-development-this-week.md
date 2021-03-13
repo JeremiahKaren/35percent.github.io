@@ -17,7 +17,7 @@ While the demolition of the shopping centre has begun, the legal challenge has f
 
 Campaigners also believe Southwark's Council’s planning committee was misled as to the maximum amount of affordable housing the scheme could viably provide and that there could be at least another 42 social rented homes, with help of Mayor of London funding.
 
-[Over £8000](https://www.crowdjustice.com/case/stop-the-elephant-shopping-centre-destruction/) has been raised to support the legal challenge through a CrowdJustice appeal and the  Up the Elephant campaign continues the struggle for a better deal for  the many traders who have not been properly relocated.
+[Over £8000](https://www.crowdjustice.com/case/stop-the-elephant-shopping-centre-destruction/) has been raised to support the legal challenge through a CrowdJustice appeal and the  [Up the Elephant](https://twitter.com/UpTheElephant_?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor) campaign continues the struggle for a better deal for the [many traders who have not been properly relocated](https://latinelephant.org/public-statement-on-traders-without-relocation/).
 
 [The online rally](https://www.facebook.com/events/436632110919121/), supporting the legal case, will be held on the morning of the appeal and will hear from Mr Flynn, traders, lawyers and trade unionists.
 
